@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 156970,
       "name": "21",
       "url": "https://open.spotify.com/track/3CbgBkck65J7xkXsX2LQmA"
@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "Thank You (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4BK2pzxYpwVqeuGosGCHBf"
+      },
+      "artists": [
+        {
+          "name": "Ben Wu",
+          "url": "https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "Thank You (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0V75pOC9kDcSy94Ch3ChQ0"
+    },
+    {
+      "album": {
         "name": "The Joy of Sorrow",
         "url": "https://open.spotify.com/album/5uhdRrxgzqO1UXrszdnYiB"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 242818,
       "name": "Wendy",
       "url": "https://open.spotify.com/track/3bUkwiKvAcajKu34YD3xA2"
@@ -1666,6 +1684,24 @@
     },
     {
       "album": {
+        "name": "\u6162\u6e38",
+        "url": "https://open.spotify.com/album/7m7tn8hXQNmQpOgIRKxqcb"
+      },
+      "artists": [
+        {
+          "name": "\u623f\u4e1c\u7684\u732b",
+          "url": "https://open.spotify.com/artist/2yna2YeKL1Mh1w6VZVBcOz"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273870,
+      "name": "\u6162\u6e38",
+      "url": "https://open.spotify.com/track/552yML9hhVhJaWDsd1iKeK"
+    },
+    {
+      "album": {
         "name": "\u6177\u6168",
         "url": "https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg"
       },
@@ -2355,10 +2391,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 226702,
       "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
       "url": "https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR"
+    },
+    {
+      "album": {
+        "name": "\u7121\u610f (Live Session)",
+        "url": "https://open.spotify.com/album/7geWheVQ57ZQ6xZaV9yk0b"
+      },
+      "artists": [
+        {
+          "name": "So-So Heroes \u7626\u7626\u82f1\u96c4",
+          "url": "https://open.spotify.com/artist/2N9RYbFNaumoJTEw67qsBt"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252363,
+      "name": "\u7121\u610f - Live Session",
+      "url": "https://open.spotify.com/track/0EjyhLHd0ajxqaQAPiQKO1"
     },
     {
       "album": {

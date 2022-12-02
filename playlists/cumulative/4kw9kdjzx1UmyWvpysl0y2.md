@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-357 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+358 songs - 20 hr 52 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 | 2022-06-30 |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 | 2022-06-10 |
-| [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 |  |
+| [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 | 2022-12-02 |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 | 2022-06-17 |
 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 | 2022-11-07 |  |
 | [Garden Of The Gods](https://open.spotify.com/track/4AZEvIDQpzyib7BX4Cd91U) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Discognition](https://open.spotify.com/artist/1VTyOD5RJcYUGn9uPFV5my), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Garden Of The Gods](https://open.spotify.com/album/7KYoqdpnKj02uvmm9iMkQq) | 4:21 | 2022-05-06 | 2022-07-16 |
@@ -222,6 +222,7 @@
 | [Night Shift](https://open.spotify.com/track/2LSBuW3iZjxypcoTGVUp54) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Night Shift](https://open.spotify.com/album/2hgKEap2EXtwDunaPRb2ip) | 2:53 | 2022-05-03 | 2022-07-14 |
 | [Nimbus](https://open.spotify.com/track/00uWPR2Xr54sF4MS2hnZ1m) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:30 | 2022-11-11 |  |
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 | 2022-06-01 |
+| [Nirvana \- Tisoki Remix](https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Nirvana \(Tisoki Remix\)](https://open.spotify.com/album/0Kz8iQFEkPIyqgxBspHPzL) | 2:58 | 2022-12-01 |  |
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
 | [Nobody Knows](https://open.spotify.com/track/3Rf0QthnKw45CyaZmyAK4N) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Nobody Knows](https://open.spotify.com/album/1QspXe5CfdcrFQOBW1ystX) | 2:57 | 2022-11-11 | 2022-11-20 |
 | [Nobody Knows](https://open.spotify.com/track/7GH3qhh9oHGQA6hje5r9DR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 2:57 | 2022-11-19 | 2022-11-22 |

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-458 songs - 1 day 3 hr 45 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+459 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Play It On My Radio](https://open.spotify.com/track/5TIwTmk9MukdTu9mOpraCy) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody’s Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/5F44JFAn5cKBkuDUZGxxuD) | 4:33 | 2022-03-30 | 2022-06-22 |
 | [Postmodern Girl](https://open.spotify.com/track/6KDKqDAi5e9pmb68tfOe7E) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Late Stage Capitalism](https://open.spotify.com/album/6dSVqMNOXBRgW3Jy8DtHVS) | 3:39 | 2021-12-16 | 2022-07-29 |
 | [Pretty Dirty \(In the Fading Light\)](https://open.spotify.com/track/2eAtxc1L97UPkxDf4LFtrK) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Produce the Juice](https://open.spotify.com/album/2AWk4Vwrxfr0Ueso81gVLy) | 5:43 | 2022-01-07 | 2022-07-25 |
+| [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 | 2022-11-11 |  |
 | [Red Cassette](https://open.spotify.com/track/7g5fV2xoWHuLcTl78M3tGO) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Cheap Hotel](https://open.spotify.com/album/3brZD4dpegCaKmFdJagMoz) | 3:56 | 2022-03-30 | 2022-04-21 |
 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 | 2022-03-30 | 2022-10-19 |
 | [Reminiscing \- Remastered 2022](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2022-10-14 |  |
@@ -450,7 +451,7 @@
 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 | 2021-12-16 | 2022-05-15 |
 | [Woman of the Ghetto \- Original Mix](https://open.spotify.com/track/2wQ9EG969cquLD8qM9y9am) | [Karim](https://open.spotify.com/artist/5sfz2hvM9gel30bFjopH44) | [Kicking Cancer in the Nuts, Vol\. 2](https://open.spotify.com/album/6nsLigwqevCF3hZpZeJWaC) | 7:18 | 2021-12-16 | 2022-06-19 |
 | [wyd](https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/2CH2VAYcNjvq5xA6zeudTt) | 2:54 | 2021-12-16 | 2022-06-15 |
-| [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 | 2021-12-16 |  |
+| [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 | 2021-12-16 | 2022-12-02 |
 | [You Can Have It All](https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM) | 2:54 | 2022-03-30 | 2022-11-13 |
 | [You Don’t Want Me](https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V) | [Wesley Bright](https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj), [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [You Don't Want Me](https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e) | 4:25 | 2022-07-26 |  |
 | [You Don’t Want Me](https://open.spotify.com/track/7uQQG43MouzO3JmZfnchoc) | [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [Happiness / You Don't Want Me](https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu) | 4:25 | 2021-12-16 | 2022-07-29 |

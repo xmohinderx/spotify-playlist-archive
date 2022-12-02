@@ -1187,11 +1187,23 @@
         {
           "name": "DJ Cris Fontedofunk",
           "url": "https://open.spotify.com/artist/0EhiryMrdvuoQeN63sHXyS"
+        },
+        {
+          "name": "MC W1",
+          "url": "https://open.spotify.com/artist/1pc2LERxjl2FZ3Ir5rYBqj"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "Mc lipynho Ds",
+          "url": "https://open.spotify.com/artist/3LNwFd22I1gBdmyeE2Ap9R"
         }
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 223153,
       "name": "AQUI \u00c9 O BRASIL, FUNK HINO NACIONAL",
       "url": "https://open.spotify.com/track/6Q9v67KBIsHHLtQd9pkWcF"
@@ -2558,6 +2570,24 @@
     },
     {
       "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
         "name": "Buteco in Boston (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
       },
@@ -2815,7 +2845,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 169624,
       "name": "Brasil Traz o Hexa",
       "url": "https://open.spotify.com/track/1giO8ocAf1xgTVseOGe4Pu"
@@ -3329,7 +3359,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174720,
-      "name": "Cara de Tralha (feat. Natralhinha & MC PR)",
+      "name": "Cara de Tralha",
       "url": "https://open.spotify.com/track/1Koy2dZb7lNApeGdt9Nr0q"
     },
     {
@@ -4889,7 +4919,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 156576,
       "name": "Duas Tr\u00eas - Ao Vivo",
       "url": "https://open.spotify.com/track/56eHc9MIkaJJcTGCvwxJCd"

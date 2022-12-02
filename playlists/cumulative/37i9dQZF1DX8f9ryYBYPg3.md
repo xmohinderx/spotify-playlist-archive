@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-147 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
+148 songs - 1 day 0 hr 15 min - [published](https://open.spotify.com/playlist/72Z7jqJ6lZpGwHfNeDkzti)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Black Journey](https://open.spotify.com/track/2yeq14OE1GUxU4A9yutJQA) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『Fling Posse VS MAD TRIGGER CREW』](https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO) | 4:24 | 2022-06-09 |  |
 | [BLACK OR WHITE](https://open.spotify.com/track/1Us8GzdOVcU9DEjxm8FWgv) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I) | [麻天狼 \-Before The 2nd D.R.B\-](https://open.spotify.com/album/6MDKhdY7JRI5ACH9zvlurd) | 3:16 | 2022-06-09 |  |
 | [Break The Wall](https://open.spotify.com/track/4PpV74nmtTAA6tu1l042Tu) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G), [ヒプノシスマイク \-D.R.B\- \(山田一郎\)](https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP) | [Buster Bros!!! \-Before The 2nd D.R.B\-](https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo) | 4:30 | 2022-06-09 |  |
+| [Bright & Dark](https://open.spotify.com/track/771z4ad0rRxVqbfNFlwoQn) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(B.A.T VS M All Cast\)](https://open.spotify.com/artist/2Bq4Uv56xe9aAis6lEP2L1) | [Bright & Dark](https://open.spotify.com/album/0iLHqKGkWKtHt8k9zQKoTH) | 6:15 | 2022-12-01 |  |
 | [Count the money](https://open.spotify.com/track/5vgYAwezefTGRMXv9hpYRn) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(天谷奴零\)](https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM) | [どついたれ本舗 \-No double dipping!\-](https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx) | 4:03 | 2022-09-01 |  |
 | [CROSS A LINE](https://open.spotify.com/track/2VQOoKbbSVShHdxl6b7S29) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/1wKZxRcU8tUBQZA6YKH9nG) | 5:20 | 2022-06-09 |  |
 | [Crush Your Mic \-Rule the Stage track.3\-](https://open.spotify.com/track/0P4S6pDrMMm0HaueBfVDsn) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(どついたれ本舗\)](https://open.spotify.com/artist/39FB8hrxBbGguIi7FArS0G), [ヒプノシスマイク \-D.R.B\- Rule the Stage \(Bad Ass Temple\)](https://open.spotify.com/artist/3blPvvBe5meaSJDC5T6cFG), [ヒプノシスマイク \-D.R.B\- Rule the Stage\(大蜘蛛 弾襄\)](https://open.spotify.com/artist/4itAy4LY6EjMIIFwKz5XEv), [ヒプノシスマイク \-D.R.B\- Rule the Stage\(道頓堀ダイバーズ\)](https://open.spotify.com/artist/4DY3P18ucNG2kDOKbhh0Pl) | [Crush Your Mic \-Rule the Stage track.3\-](https://open.spotify.com/album/4nr7RCm1wK73Js8G63wZxk) | 5:20 | 2022-06-09 |  |

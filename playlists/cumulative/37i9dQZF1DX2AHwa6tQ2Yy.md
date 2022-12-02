@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-152 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
+154 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/1ARK1a9pdFLy7LDb3sdMHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Brand New](https://open.spotify.com/track/1vjyekD56hO5NIsJAgjKgc) | [Mi\-kaisha](https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr) | [Brand New](https://open.spotify.com/album/1oeBre4fMvcoLjbJ9tyvhW) | 3:09 | 2022-06-02 | 2022-09-09 |
 | [Break](https://open.spotify.com/track/41NfPrA9JEK6ufqJkUUU2N) | [Emily Muli](https://open.spotify.com/artist/5PF3HYijywmkoIgVSwXtP8) | [Break](https://open.spotify.com/album/6uoil0oYQ1OemgpS0QExn6) | 3:24 | 2022-06-02 | 2022-09-11 |
 | [Can I Just Love You](https://open.spotify.com/track/2zmVuZrjXkZgTnsLm9cSDz) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Can I Just Love You](https://open.spotify.com/album/41thN8uSJPYw6XWzLAkLNN) | 3:18 | 2022-06-02 | 2022-09-09 |
-| [Changes](https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha) | 3:23 | 2022-07-28 |  |
+| [Changes](https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha) | 3:23 | 2022-07-28 | 2022-12-02 |
 | [Changes](https://open.spotify.com/track/6VwmVpxjMhyNf8gosbY5fd) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5SJsyve81sqsW5NeGOWtyK) | 3:23 | 2022-06-02 | 2022-07-29 |
 | [Closer](https://open.spotify.com/track/0lukJlQHT1z4xbFmQuby8h) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [3](https://open.spotify.com/album/27DK5lf19A05UbL8a32zy1) | 3:04 | 2022-07-28 | 2022-08-26 |
 | [Closer](https://open.spotify.com/track/4En5QnmJXPRQfHFivOMBKE) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Closer](https://open.spotify.com/album/0mOMaLC5MU7wGlwhDJShX2) | 3:04 | 2022-06-02 | 2022-07-29 |
@@ -35,7 +35,7 @@
 | [Coming In From The Dark \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/track/7coaM4HB8EeGaaiDRZLI8w) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM) | [Coming In From The Dark \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/album/2cowqhLkF68Jf75IbsVJqn) | 3:14 | 2022-06-02 | 2022-08-12 |
 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 | 2022-06-02 |  |
 | [deeper](https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [deeper / stoned love](https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG) | 4:39 | 2022-06-30 | 2022-09-19 |
-| [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-08 |  |
+| [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 | 2022-09-08 | 2022-12-02 |
 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2022-11-17 |  |
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2022-06-02 |  |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-06-02 |  |
@@ -77,6 +77,7 @@
 | [Hold onto Me](https://open.spotify.com/track/6E7sHQsSqLUWOkNA9jqQvn) | [Nga Kete Aronui](https://open.spotify.com/artist/02HfHlBGA0xK2ExjMkMGri) | [Challenge the New Dawn](https://open.spotify.com/album/3r39lg81Xfv7qSGo4tKACS) | 3:45 | 2022-06-09 | 2022-09-09 |
 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 | 2022-08-11 |  |
 | [Human](https://open.spotify.com/track/2tzy3WUax7kpANoToMN3tW) | [Anieszka](https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY) | [Human](https://open.spotify.com/album/2H562jzwhTkWC3Em88k8XV) | 3:42 | 2022-06-23 | 2022-09-09 |
+| [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2022-12-01 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-06-02 |  |
 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 | 2022-06-02 |  |
 | [Infatuated](https://open.spotify.com/track/0EdayFT9VybIDXZFBUC2xr) | [Miakie](https://open.spotify.com/artist/5WO5xcjv5KarC7RdXbZ1fV) | [Infatuated](https://open.spotify.com/album/2RfEfdCsimNYZiUnE6utnA) | 4:09 | 2022-06-02 | 2022-10-15 |
@@ -84,6 +85,7 @@
 | [inside out](https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:28 | 2022-09-08 |  |
 | [Into You](https://open.spotify.com/track/4PHocLRjCevpTpu5q6c25M) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:55 | 2022-06-02 | 2022-07-22 |
 | [Into Your Life](https://open.spotify.com/track/3M9lOw3yCJFDdMDOlD6qin) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Love Levitates](https://open.spotify.com/album/6K81YVEBTnB8y2Qxj3w6Oa) | 3:06 | 2022-06-02 | 2022-09-09 |
+| [Intuition](https://open.spotify.com/track/3oZdGtVdpexPzYZHvMz9yS) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR), [Elysia](https://open.spotify.com/artist/20Yr8zbaGxjlmBEKjVVdNR) | [Raindrops & Intuition](https://open.spotify.com/album/130yqWSrUxKPsjHCGMGoZl) | 3:44 | 2022-12-01 |  |
 | [Jasmine](https://open.spotify.com/track/25AouMLMx284p5h06BcYBH) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Jasmine](https://open.spotify.com/album/6hvqJBXUe6Zgd8yfL6zI3r) | 3:29 | 2022-08-04 | 2022-11-17 |
 | [Joyride](https://open.spotify.com/track/3kWYgDFiWcMYnh7YmXqxRJ) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Works](https://open.spotify.com/album/78mR2PxX3MBzGA7Amx8aef) | 3:15 | 2022-06-02 | 2022-09-09 |
 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 | 2022-06-23 |  |

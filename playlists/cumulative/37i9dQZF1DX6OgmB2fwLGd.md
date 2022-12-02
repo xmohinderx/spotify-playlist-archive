@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: TiaCorine
 
-474 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+475 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [No Handoutz \(feat\. Yeat\)](https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op) | 2:30 | 2022-05-06 | 2022-07-23 |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2022-01-21 | 2022-05-21 |
 | [No Smoke \(feat\. DC The Don\)](https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK IN ACTION 2.0](https://open.spotify.com/album/3ShlqDCnYpRdcJxA9wlkpE) | 3:26 | 2021-12-16 | 2022-02-05 |
-| [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 | 2022-07-16 |  |
+| [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 | 2022-07-16 | 2022-12-02 |
+| [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/5jBQATS4iLhsYP7pGhdAcp) | 2:40 | 2022-07-16 |  |
 | [NO TRENDS](https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [NO TRENDS](https://open.spotify.com/album/2KVi5YBlC0Gh0NiMKDZSpK) | 2:31 | 2021-11-04 | 2022-04-27 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-09-07 |  |
 | [Notti Bop](https://open.spotify.com/track/0IEpFiWXbmfpiiUHPlPkYC) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Notti Bop](https://open.spotify.com/album/7vkQS7TYsnbF0AopUZ7tjI) | 3:45 | 2022-10-14 |  |

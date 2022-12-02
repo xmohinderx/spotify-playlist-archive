@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-422 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+423 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [THREE](https://open.spotify.com/track/7bAXhOVSGEcUtpg8zza9Kw) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [DISCORDIA](https://open.spotify.com/album/2YZYDm5dakQuKD9RPe7mYx) | 3:04 | 2022-10-07 |  |
 | [Tic Tac](https://open.spotify.com/track/6pNJjIQv5bt0ZpjSP0at93) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tic Tac](https://open.spotify.com/album/5vduRKUyGkyIa9OTtpBZEL) | 2:56 | 2022-01-06 | 2022-01-19 |
 | [Tiempo](https://open.spotify.com/track/2wapNEqqu0aiD73B0uSXZA) | [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Tiempo](https://open.spotify.com/album/4jXbZdlo97CFzoRodQlB9t) | 3:44 | 2022-01-19 |  |
-| [Tiempo](https://open.spotify.com/track/3g4eSj0nOYjsYSq8D5B4yO) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [Tiempo](https://open.spotify.com/album/1VYiYEBzYeDIZLQnWZ3BkX) | 2:41 | 2022-05-13 |  |
+| [Tiempo](https://open.spotify.com/track/3g4eSj0nOYjsYSq8D5B4yO) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [Tiempo](https://open.spotify.com/album/1VYiYEBzYeDIZLQnWZ3BkX) | 2:41 | 2022-05-13 | 2022-12-02 |
+| [Tiempo](https://open.spotify.com/track/58MleMYAZeI81f5fI6YUs6) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [Tiempo](https://open.spotify.com/album/2fcBZmhZ26hGwQi6lkYjhl) | 2:41 | 2022-10-07 |  |
 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 | 2022-05-13 | 2022-10-08 |
 | [Tiro Arriba](https://open.spotify.com/track/0qNme8u6vZNaSSZjyvqMU2) | [Yaggo](https://open.spotify.com/artist/2UwP1nceW0q3N6aBIcwmks), [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl), [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [Tiro Arriba](https://open.spotify.com/album/4ope4MaBRUIYDQ3druGxxC) | 3:39 | 2022-03-25 | 2022-05-14 |
 | [TIROTEO \#2: Leyenda como Kobe](https://open.spotify.com/track/6LPVPZOlqNOPzE95g0QbGM) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [TIROTEO \#2: Leyenda como Kobe](https://open.spotify.com/album/4JReHBiLBiHl2JWJ7kiX9L) | 2:53 | 2022-01-19 | 2022-05-14 |

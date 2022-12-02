@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 35 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 | 36 | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo) | [Everly](https://open.spotify.com/artist/5QMHsP8RVHiuoiqhgOI6ud) | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/album/40XUWEzP3lS4i9jQzpAOOk) | 4:13 |
 | 37 | [Little Saint Nick](https://open.spotify.com/track/75dfH68JDisE8dDaD4KlVY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Christmas With The Beach Boys](https://open.spotify.com/album/4eKWZxl6GskSlM2u7TYOC0) | 2:10 |
-| 38 | [Silent Night](https://open.spotify.com/track/5MZIf575KHLmkjKaJUhN7B) | [Lily Horrocks](https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN), [Steve Ornest](https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B) | [Happy Holidays](https://open.spotify.com/album/1bHJvO5ykiqCiDUNlvOoZM) | 1:53 |
+| 38 | [Silent Night](https://open.spotify.com/track/59Je1JnCLGs6PvdvDxZ6ln) | [Steve Ornest](https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B), [Lily Horrocks](https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN) | [Happy Holidays](https://open.spotify.com/album/3ReUiVwo63hIrpuayiGyhe) | 1:53 |
 | 39 | [We Wish You a Merry Christmas](https://open.spotify.com/track/6GHfvlxWf9t8eFbA9rOU8Q) | [The Sugar Sisters](https://open.spotify.com/artist/0DaNHydyH8Te8FrV4kdQvH) | [Christmas with the Sugar Sisters: Vintage Vocal Harmony](https://open.spotify.com/album/2yJ7UZrTcjIsjqERj9EWTT) | 2:52 |
 | 40 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3zwjeUjzAm3rwojZNj05P6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sounds Of The Season](https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd) | 4:27 |
 | 41 | [12 Days of Christmas \(feat\. Aloe Blacc\)](https://open.spotify.com/track/0bEDa562DIK9plDxrVTg6N) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [A Bad Moms Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ym9lRObWTXBDZafXmqwm6) | 2:05 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 46 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 | 47 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 
-Snapshot ID: `MTY2OTE0ODg2NSwwMDAwMDAwMDM0Njg4ZjhjZGQ0NGQzOWE2MmU1OTBmNjQ3YjAxMjIy`
+Snapshot ID: `MTY2OTE0ODg2NSwwMDAwMDAwMDA4MTk5ZDUyMjQ2YWM0Mjg0Mzk3YTNlMjM2YTVlMzc2`

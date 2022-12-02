@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-104 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/4nbwOwZnCF2dm0Bx957Lwz)
+105 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4nbwOwZnCF2dm0Bx957Lwz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Siente El Boom \(feat\. Randy\)](https://open.spotify.com/track/5v0jVSPTspMrhweCCEfh5b) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Siente El Boom \(feat\. Randy\) \- Single](https://open.spotify.com/album/3o7NZFLc96xYBShbKQ3EgN) | 3:08 | 2021-09-24 |  |
 | [Solos](https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:08 | 2022-08-22 |  |
 | [Taboo](https://open.spotify.com/track/4cyYC67XY3weSVmSLdKLP8) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 4:52 | 2021-09-24 |  |
-| [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2021-09-24 |  |
+| [Te Quiero](https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:18 | 2022-09-30 |  |
+| [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2021-09-24 | 2022-12-02 |
 | [Tempted to Touch](https://open.spotify.com/track/2KyeRuRvBxIzmUHM7ETkOf) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Tempted to Touch \(Online Music\)](https://open.spotify.com/album/4Rxf0Ui3TV9dSLhEBPZK8Z) | 4:03 | 2021-09-24 |  |
 | [Tu Príncipe](https://open.spotify.com/track/0Q7ZM15J0cJA9rd7pQYdRq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:25 | 2021-09-24 | 2022-07-29 |
 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 | 2022-02-11 |  |

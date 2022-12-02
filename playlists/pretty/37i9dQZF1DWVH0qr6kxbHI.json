@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 44242,
+  "num_followers": 44311,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDQyMTNjMmJhOTFkOTc5ZmY4OWE1NDhiZTY2MjFlMTlh",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGQ3NjZkNTBkZDg2NTliNWFiOWJmYmE5NmVjNDYzYmQz",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -639,22 +639,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Gracias A Vosotros",
-        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
       "artists": [
         {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Miguel Poveda",
-          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
-      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -679,18 +675,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+        "name": "Gracias A Vosotros",
+        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Miguel Poveda",
+          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+      "duration_ms": 190000,
+      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
+      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Cecilia",
         "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
       },
@@ -807,13 +791,29 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Banderas De Nadie",
         "url": "https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr"
       },
       "artists": [
         {
           "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/6M7I15G01CY1bzvGtfir9b"
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
         }
       ],
       "duration_ms": 245186,
@@ -1036,7 +1036,7 @@
       },
       "artists": [
         {
-          "name": "Pasion Vega",
+          "name": "Pasi\u00f3n Vega",
           "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
         }
       ],

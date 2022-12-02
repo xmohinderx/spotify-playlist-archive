@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: blink-182",
-  "num_followers": 704925,
+  "num_followers": 704918,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTI2MCwwMDAwMDAwMGY1NTM1ZTM4ODA3OGYzYTAzMmIwMDk4YWRiODJkZTUw",
+  "snapshot_id": "MTY2OTM0NTI2MCwwMDAwMDAwMDY2YzA3MjJmM2MyMjY1ZTZiNDdkYjgyMTYwNWMwYjU4",
   "tracks": [
     {
       "added_at": "2022-11-25 03:01:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
+        "name": "Take the Ride",
+        "url": "https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 178318,
+      "name": "Take the Ride",
+      "url": "https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
         "name": "Start The Healing",
         "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "Take the Ride",
-        "url": "https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 178318,
-      "name": "Take the Ride",
-      "url": "https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW"
     },
     {
       "added_at": "2022-11-25 03:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
         "name": "Maquiagem",
         "url": "https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 184941,
       "name": "Maquiagem",
       "url": "https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN"
     },
     {
       "added_at": "2022-11-25 03:01:00",

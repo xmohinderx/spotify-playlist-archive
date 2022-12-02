@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 32004,
+  "num_followers": 32016,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMGMzNGRlZWZjZmVmODBjMTA2MDYyYWM5NGQ0OTljNDk1",
+  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDgzZDNkM2I1NGQyNDk1NzJmNTkxNjA1MjBiMmQ5MzA4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "I Met Sarah in the Bathroom",
-        "url": "https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ"
-      },
-      "artists": [
-        {
-          "name": "awfultune",
-          "url": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
-        }
-      ],
-      "duration_ms": 121374,
-      "name": "I Met Sarah in the Bathroom",
-      "url": "https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "I Met Sarah in the Bathroom",
+        "url": "https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ"
+      },
+      "artists": [
+        {
+          "name": "awfultune",
+          "url": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
+        }
+      ],
+      "duration_ms": 121374,
+      "name": "I Met Sarah in the Bathroom",
+      "url": "https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Lately EP",
-        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 157303,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204066,
       "name": "cellophane",
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Lately EP",
+        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 157303,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 223909,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Only Child",
-        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
-      },
-      "artists": [
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 239324,
-      "name": "Only Child",
-      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 270254,
       "name": "Those Nights",
       "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Only Child",
+        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 239324,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
     },
     {
       "added_at": "2022-09-16 04:53:36",

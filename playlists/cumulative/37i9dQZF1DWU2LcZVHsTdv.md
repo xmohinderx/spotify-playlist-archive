@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Darius Rucker
+> The country way of testifying\. Cover: Mickey Guyton
 
 169 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
@@ -113,7 +113,7 @@
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
 | [Pray](https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:33 | 2021-12-10 |  |
 | [Pray About Everything](https://open.spotify.com/track/7eOizXz9BZ7Vc6Scgwh1hC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 3:16 | 2021-12-10 |  |
-| [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2021-12-10 |  |
+| [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2021-12-10 | 2022-12-02 |
 | [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 | 2022-11-04 |  |
 | [Prodigal Son's Prayer](https://open.spotify.com/track/5yVesQH1l8bOgjuWN0ub2a) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 2:51 | 2021-12-10 |  |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-01-07 |  |

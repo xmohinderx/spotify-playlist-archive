@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: キミノオルフェ
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,343 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,356 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [紙飛行機は手の中にあった](https://open.spotify.com/track/5lLjVmydrl3AR7enpoCQp9) | [キミノオルフェ](https://open.spotify.com/artist/2UCAugEzMDhB1AMP7VU7J0) | [雲間の光](https://open.spotify.com/album/7eFipPe6LKPWkPrF1FQmiu) | 3:29 |
+| 1 | [紙飛行機は手の中にあった](https://open.spotify.com/track/5lLjVmydrl3AR7enpoCQp9) | [kimi no orphée](https://open.spotify.com/artist/5D0XZAGz66YYlMh9pf4uHf) | [雲間の光](https://open.spotify.com/album/7eFipPe6LKPWkPrF1FQmiu) | 3:29 |
 | 2 | [MOONRAKER](https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [MOONRAKER](https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN) | 3:05 |
 | 3 | [Addicted](https://open.spotify.com/track/32GhaFumsrVQ74xjyljNSB) | [松浦亜弥](https://open.spotify.com/artist/0g60HHRfC4zC5PGumCdarL) | [Addicted](https://open.spotify.com/album/3NxbyghXuVqMNPsxTySpFO) | 5:50 |
 | 4 | [Snowdome](https://open.spotify.com/track/0UQB0EldqstsDEJgFabqpH) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [Snowdome](https://open.spotify.com/album/1aLZqEnaU9vS2aLfM3nOfZ) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SZWVrotKn1.md) - [plain]
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,372 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,673 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SZWVrotKn1.md) - [plain]
 | 45 | [Tempted to Touch](https://open.spotify.com/track/2KyeRuRvBxIzmUHM7ETkOf) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Tempted to Touch \(Online Music\)](https://open.spotify.com/album/4Rxf0Ui3TV9dSLhEBPZK8Z) | 4:03 |
 | 46 | [Ayer La Vi](https://open.spotify.com/track/3gvGnkmg8zVZdBAx4B7Cvq) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings \(Armageddon Edition\)](https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h) | 4:12 |
 | 47 | [El Telefono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
-| 48 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 |
+| 48 | [Te Quiero](https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:18 |
 | 49 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 |
 | 50 | [En Su Nota](https://open.spotify.com/track/3YT1coaqAGWLRBIBJOu8AN) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Mackie Ranks](https://open.spotify.com/artist/7McDZo4Ggmx1nSdgki7E0s) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 3:39 |
 | 51 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SZWVrotKn1.md) - [plain]
 | 59 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
 | 60 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMGQ3Mjc3NmYyYzU4NTExNGJlMjJjNTdmNTVhOWNkODM1`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMGFhYzhkNmJmYjAzNzViNmFiZDM0NTgyZDk5OGExODc0`

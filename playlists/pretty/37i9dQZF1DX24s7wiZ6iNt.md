@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain](/playlists/plain/37i9dQZF1DX24s7wiZ6iNt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX24s7wiZ6iNt)
 
-### [Best Indie Songs of 2022](https://open.spotify.com/playlist/37i9dQZF1DX24s7wiZ6iNt)
+### [Best Indie Songs of 2022 \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX24s7wiZ6iNt)
 
 > Our editors’ picks for the best of Indie in Canada in 2022.<br/> Cover: Men I Trust \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,620 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,800 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

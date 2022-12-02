@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-123 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
+127 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/6nq7hWNk2cvvhG65Oqh64w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,11 @@
 | [Mood Indigo](https://open.spotify.com/track/4FbyGU4nbHHioKAoCpYRzH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:56 | 2022-08-18 |  |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-08-18 | 2022-10-07 |
 | [Morning Star](https://open.spotify.com/track/7pu7cn7U9lvHYXRc2yrKBC) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Morning Star](https://open.spotify.com/album/6WZgJAHNWZCDLVVOOiM4py) | 3:44 | 2022-08-18 |  |
+| [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 |  |
 | [My Little Brown Book](https://open.spotify.com/track/2txEKqhpnuwmHS7a0YBYHE) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [My Little Brown Book](https://open.spotify.com/album/1anaHcKFfGvPfqhfaAEnmy) | 3:57 | 2022-09-29 |  |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-08-18 |  |
-| [My Romance \- Remastered](https://open.spotify.com/track/1enQcJDrTBeFo6PegF4FwS) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 8:32 | 2022-08-18 |  |
+| [My Romance \- Remastered](https://open.spotify.com/track/1enQcJDrTBeFo6PegF4FwS) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 8:32 | 2022-08-18 | 2022-12-02 |
+| [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 | 2022-12-01 |  |
 | [OD](https://open.spotify.com/track/41cORdbmswG9htvuswqSJP) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 6:58 | 2022-08-18 |  |
 | [Oh, You Crazy Moon](https://open.spotify.com/track/0ev5ZUSI3YFByFX9EfRUWl) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [My Prayer](https://open.spotify.com/album/6YBq5EF3aq9VILtfLpr6bI) | 3:59 | 2022-08-18 |  |
 | [Old Folks](https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:51 | 2022-08-18 |  |
@@ -87,6 +89,7 @@
 | [Polkadots And Moonbeams](https://open.spotify.com/track/22b0vbHkq3qRrjhFa9BimB) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Polkadots And Moonbeams](https://open.spotify.com/album/668WN0afbvrzNHda52ABUP) | 3:42 | 2022-08-18 |  |
 | [Poor Butterfly](https://open.spotify.com/track/2vyuIth7SkLbbfx0wX8KsC) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Poor Butterfly](https://open.spotify.com/album/0voGzbbY9Wm9vtql5l2Uaz) | 3:36 | 2022-09-21 |  |
 | [Pretty Ballad](https://open.spotify.com/track/1UVz63b1DRzV9CrM4OYQ9U) | [Lennie Zimmerman + 3](https://open.spotify.com/artist/29B45yp5XnJwtbrvbeqnSu) | [My Romance](https://open.spotify.com/album/5zLgKeaogrKCOKmvO4UFOO) | 3:00 | 2022-08-18 |  |
+| [Quiet Weather](https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Quiet Weather](https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP) | 4:22 | 2022-12-01 |  |
 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 | 2022-08-18 |  |
 | [Rise Again](https://open.spotify.com/track/278NmaKNQjLEF3sNyEzcSN) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Rise Again](https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq) | 4:59 | 2022-08-18 |  |
 | [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 | 2022-08-18 |  |
@@ -95,6 +98,7 @@
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 |  |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-08-18 |  |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2022-08-18 |  |
+| [Snowflakes](https://open.spotify.com/track/3OiG2WAVCWv2eCBS2Iyqsm) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Snowflakes](https://open.spotify.com/album/4XaJ0QnFlJfNbqIGVDeNUf) | 3:31 | 2022-12-01 |  |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-08-18 |  |
 | [Softly As In A Morning Sunrise \- Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7](https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 6:39 | 2022-08-18 | 2022-09-09 |
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-08-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,187 likes - 127 songs - 7 hr 16 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,183 likes - 128 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 125 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
 | 126 | [Seventh Heaven](https://open.spotify.com/track/7bHOJc5vJ7lflRDI7PeYuw) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Seventh Heaven](https://open.spotify.com/album/0GTJ8nMLARUakwU9OkSnl4) | 3:09 |
 | 127 | [Glimmer](https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg) | [West End Cove](https://open.spotify.com/artist/64WV3o80jWUNafJmMYFLze) | [Glimmer](https://open.spotify.com/album/6oOnyCD8sfO4ysaycHGFdJ) | 3:42 |
+| 128 | [Crave Me](https://open.spotify.com/track/3HuVGDJHnnhXYv6AlNG0HF) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Are We Dreaming](https://open.spotify.com/album/5txnOKMif2rxCCZ2u9W4oa) | 4:11 |
 
-Snapshot ID: `MTAwOTMsZmQxMzE2NDhlNmI1MTZiNmNiNmY3YjAyZDJkZGE1OTM5NWNjNWY4Mg==`
+Snapshot ID: `MTAwOTQsMmE0OGFmNTRmYmE1YjY0MWE5ZTJlODViNTRmZGE0Y2I2NWUzNTkwMQ==`

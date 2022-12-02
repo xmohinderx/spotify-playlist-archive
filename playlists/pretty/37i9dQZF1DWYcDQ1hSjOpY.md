@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,687,580 likes - 330 songs - 16 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,688,231 likes - 330 songs - 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 22 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 |
 | 23 | [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 |
 | 24 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 |
-| 25 | [Sea Of Dreams](https://open.spotify.com/track/2hOlHb55DMd733BdvOW1ul) | [Joek Hama](https://open.spotify.com/artist/7wkpPtXuouEF1JzsvwyO0w) | [Sea Of Dreams](https://open.spotify.com/album/462fAHkn3aVP0CjFkKYzAa) | 2:57 |
+| 25 | [Sea Of Dreams](https://open.spotify.com/track/2hOlHb55DMd733BdvOW1ul) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Sea Of Dreams](https://open.spotify.com/album/462fAHkn3aVP0CjFkKYzAa) | 2:57 |
 | 26 | [Echoes](https://open.spotify.com/track/0O2ndAmDQNo4dAipSw1o8o) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Echoes](https://open.spotify.com/album/4JmN33LVIXmGfcev3hEqrF) | 2:48 |
 | 27 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Yepon](https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 |
 | 28 | [Recognition](https://open.spotify.com/track/6xVQVTHr7fV0LF4A0Fu2nZ) | [Vivienne Mathieu](https://open.spotify.com/artist/5E76BhZoqL5bXb38tiDtDu) | [Recognition](https://open.spotify.com/album/4l7eJPNHJBWCJW2Za5m1tz) | 2:32 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 72 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 |
 | 73 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 |
 | 74 | [Lagoons](https://open.spotify.com/track/47m7taVhh1ktgczbtWmbnG) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Lagoons](https://open.spotify.com/album/71kxOT2YEjtIhURhX8zoGi) | 2:43 |
-| 75 | [Santonana](https://open.spotify.com/track/0r60hv2JqbAk5SsaIrFu7r) | [Kai Carney](https://open.spotify.com/artist/3auOPI2xcAVuyR6ULTIlqM) | [Santonana](https://open.spotify.com/album/7x5QB5SscxxWlaHm5zEWqS) | 3:30 |
+| 75 | [Santonana](https://open.spotify.com/track/0r60hv2JqbAk5SsaIrFu7r) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Santonana](https://open.spotify.com/album/7x5QB5SscxxWlaHm5zEWqS) | 3:30 |
 | 76 | [Balm](https://open.spotify.com/track/0QluGNVWnSnUrc688kQwEN) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Balm](https://open.spotify.com/album/0kxlBRorKL49TM6f1VNnf2) | 3:12 |
 | 77 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 |
 | 78 | [Tirana Wolves](https://open.spotify.com/track/6RsZg0rFSlLWqy5AKiny95) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [On the Davenport](https://open.spotify.com/album/5jnoMpc62TVfL6v8ljsdwf) | 3:26 |

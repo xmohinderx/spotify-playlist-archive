@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-229 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+230 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,13 +193,14 @@
 | [Softest Edge](https://open.spotify.com/track/1xGFIx2b6P5EUIr8gjNP71) | [Lindsay Munroe](https://open.spotify.com/artist/4YpczrFk5iCEk6MCh9MYgq) | [Softest Edge](https://open.spotify.com/album/7nGYrOZOvRwJcSlUgHUDxl) | 3:45 | 2022-03-31 | 2022-04-21 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 | 2021-11-12 | 2022-07-29 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 | 2022-06-23 | 2022-11-27 |
+| [Someday \- triple j Like A Version](https://open.spotify.com/track/7yHIhm47w7yPXbWrCU3NId) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/4frk1WIr4ydAYiVjloMn6O) | 4:24 | 2022-08-12 |  |
 | [Something Going On](https://open.spotify.com/track/4pjHz7vl4LDOLWtTS7QmDQ) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Something Going On](https://open.spotify.com/album/6FZ17rwKoCdgxsfSvusG0m) | 3:09 | 2021-11-12 | 2022-07-28 |
 | [Something Holy](https://open.spotify.com/track/2YAp3Kb8Xb6iVMk8Zp8jAH) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Peninsula](https://open.spotify.com/album/1zVph8HU5qFkq8bmur2fa2) | 3:18 | 2022-08-12 |  |
 | [Something Holy](https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Something Holy](https://open.spotify.com/album/2RhBeJFBLkhgwmIVFNaQNl) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [Song for Nick Drake](https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP) | 2:57 | 2021-11-12 | 2022-07-28 |
 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2022-06-23 |  |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-11-12 |  |
-| [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 | 2021-11-12 |  |
+| [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 | 2021-11-12 | 2022-12-02 |
 | [Spiders](https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Spiders](https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK) | 3:48 | 2022-02-04 | 2022-08-13 |
 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 | 2022-08-12 |  |
 | [Spinning Heart](https://open.spotify.com/track/6BoegZTAMosVzlM6I64K5M) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Spinning Heart](https://open.spotify.com/album/62oaynhj9YYhW6D6BuNjrv) | 5:14 | 2022-04-08 | 2022-04-20 |

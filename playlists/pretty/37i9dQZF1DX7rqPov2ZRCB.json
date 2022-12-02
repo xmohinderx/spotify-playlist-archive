@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 56205,
+  "num_followers": 56229,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGMzZmEwNTg5M2U4OTAxNTg0YTI3OGY5ODRjNDU3YjJh",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDM0NDJjYWY2NTI3NjQyODdkZDg1NjM3NzA1OGUyNWU1",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -807,18 +807,30 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Merengues Tipicos los Numero 1",
-        "url": "https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c"
+        "name": "La Parrandera",
+        "url": "https://open.spotify.com/album/4HAyzehYlrZYIcUdQVAKKZ"
       },
       "artists": [
         {
-          "name": "Chiqui Rodriguez",
-          "url": "https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl"
+          "name": "Nixon Roman",
+          "url": "https://open.spotify.com/artist/2By9kmzFJJJDiyK3LKwZ0Y"
+        },
+        {
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+        },
+        {
+          "name": "Raul Roman",
+          "url": "https://open.spotify.com/artist/407htV3vsmPBNcLRQyjKe9"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 343093,
-      "name": "El Trafico",
-      "url": "https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU"
+      "duration_ms": 656718,
+      "name": "La Parrandera",
+      "url": "https://open.spotify.com/track/4oAR1btdXP6IhFC34AFgWg"
     },
     {
       "added_at": "2019-09-09 17:49:24",

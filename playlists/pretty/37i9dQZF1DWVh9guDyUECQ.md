@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,123 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,204 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 82 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
 | 83 | [Vuelo](https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Vuelo](https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV) | 2:05 |
 | 84 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 |
-| 85 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
-| 86 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
+| 85 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
+| 86 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 | 87 | [Corazón](https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW) | [Corazón](https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt) | 3:37 |
 | 88 | [Ese Cariñito](https://open.spotify.com/track/2ymVoIZI6P2asjeZVrp6J9) | [La Sociedad 111](https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p) | [Ese Cariñito](https://open.spotify.com/album/08u7iUG2KRR9S2vMf2yMnE) | 3:17 |
 | 89 | [Bueno es Dios](https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Bueno es Dios](https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE) | 2:59 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 94 | [Mi Entrenador](https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Mi Entrenador](https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK) | 2:58 |
 | 95 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
 | 96 | [Medicina](https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Medicina](https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF) | 3:06 |
-| 97 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
-| 98 | [Viajes y Hoteles](https://open.spotify.com/track/4bF89S8CFHu4SeYmiiz69E) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Juanfer](https://open.spotify.com/artist/2jKfWzYkH8mLOKJ7SWFeRx) | [Fé](https://open.spotify.com/album/63hREkagC3FZpAAg7m2UeT) | 4:30 |
+| 97 | [Viajes y Hoteles](https://open.spotify.com/track/4bF89S8CFHu4SeYmiiz69E) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Juanfer](https://open.spotify.com/artist/2jKfWzYkH8mLOKJ7SWFeRx) | [Fé](https://open.spotify.com/album/63hREkagC3FZpAAg7m2UeT) | 4:30 |
+| 98 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
 | 99 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
 | 100 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
 
-Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMGM0OWEwNTQzOTQxODdhMTMyZjgxMjExOWE0ZGUzMGE3`
+Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMDAyZjcwY2IyZDJiMzUxYjFjNWY1ZjZlNmIzNGU0MjVi`

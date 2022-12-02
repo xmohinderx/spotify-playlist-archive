@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-130 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+133 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Flora & Fauna](https://open.spotify.com/track/3UCQg1vf06upgr2VhPU94q) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [Flora & Fauna](https://open.spotify.com/album/5RA2DiWNVd07dyOz5arrhr) | 4:14 | 2022-04-04 |  |
 | [Ganges](https://open.spotify.com/track/4ylEqMHuE7pk8dVMA9lGHC) | [Marcelo Gallo](https://open.spotify.com/artist/23hEk8vrcbLUWr8FWWP1ju) | [Spirit of India](https://open.spotify.com/album/5hXBirtgrzQucltfTA3RHp) | 6:50 | 2022-04-04 |  |
 | [Ganges](https://open.spotify.com/track/4RZB877JhzYTNzzFdixZPD) | [Morgentau](https://open.spotify.com/artist/5z2Z0tyyjq1lSTqci3Yejo) | [Ganges](https://open.spotify.com/album/2Lm2ZsJm7htVuUtiD0j08z) | 4:28 | 2022-04-04 |  |
+| [Garden Dancers](https://open.spotify.com/track/12d7WctzYFosYgHNi3d21n) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Paradisio](https://open.spotify.com/album/0W277zieZ5gyuFGMVEatBY) | 4:02 | 2022-12-02 |  |
 | [Haathee](https://open.spotify.com/track/2iIEvKccENdTBtmLElhqOp) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Amarujala](https://open.spotify.com/album/15cPIQVlhbw9pPuqfOJbfX) | 2:27 | 2022-05-09 |  |
 | [Heartbreak \(From "White Note"\)](https://open.spotify.com/track/5qXNfo9GL49GtJfhAVAzpK) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [In The Lounge](https://open.spotify.com/album/0s3INweVmhtbCmBzDcK3Qg) | 6:25 | 2022-04-04 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-04-04 |  |
@@ -72,6 +73,7 @@
 | [Meeting of Two Oceans](https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:14 | 2022-04-04 |  |
 | [Mereya](https://open.spotify.com/track/4ob12xPI4xKPLoryBcxHmz) | [Dangle](https://open.spotify.com/artist/5hoKc2VVEGfNKUOWtPCRwv) | [Mereya](https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya) | 2:53 | 2022-04-04 |  |
 | [Moksha](https://open.spotify.com/track/5DwDWj14zb1G2fF7xQgqbv) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:18 | 2022-04-04 |  |
+| [Morning Dawn](https://open.spotify.com/track/0AvtIHB9BG8N725eCesw5F) | [ZoneMan](https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E) | [Optimistic Horizon](https://open.spotify.com/album/172cwUyK1cBDDHl0lFdo8h) | 2:22 | 2022-12-02 |  |
 | [Mother's Wingspan](https://open.spotify.com/track/1AkzLojIonXnbbwujQZofk) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 8:33 | 2022-04-04 | 2022-07-29 |
 | [Mother's Wingspan](https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 8:33 | 2022-10-08 |  |
 | [Mother's Wingspan](https://open.spotify.com/track/58j7x742K2P6jhthofQwBp) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3vERpdSCKMGDzreizY178B) | 8:33 | 2022-07-18 | 2022-10-13 |
@@ -90,6 +92,7 @@
 | [Peaceful Being](https://open.spotify.com/track/6IKGWm6XdJMs8YxMh2wr8W) | [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Sadhana](https://open.spotify.com/album/1oZRS0AoopzdEbW623lcRZ) | 5:28 | 2022-04-04 |  |
 | [Pipers](https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Pipers](https://open.spotify.com/album/6wh12iQPshA8QQq7Xtunc3) | 4:06 | 2022-04-04 |  |
 | [Puja \- Soundscape Mix](https://open.spotify.com/track/2tXLZ9m1ZrvMqTnYHrO93b) | [For the Good of All](https://open.spotify.com/artist/0wYjAAeaDXrNnxy3qs0xQj), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn), [Aubrey Marcus](https://open.spotify.com/artist/2G6geUYzXyqHJpAZ7nVFYX), [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG), [Liquid Bloom](https://open.spotify.com/artist/16N7BvvGgw3jvmXBSn0hVS), [Eric Zang](https://open.spotify.com/artist/0bqNGlh4NGgVj8NHjP10Jm) | [Remembrance Soundscapes](https://open.spotify.com/album/6qxbqgTA9S4mZIOlXIGIs2) | 5:52 | 2022-05-06 |  |
+| [Purnima ki chaand](https://open.spotify.com/track/24llUQZS9ieddJlB2k9xtR) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Purnima ki chaand](https://open.spotify.com/album/3Qq53OMuW4u0h5w4rLRKcM) | 4:37 | 2022-12-02 |  |
 | [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 7:09 | 2022-04-04 | 2022-07-29 |
 | [Qalanderi](https://open.spotify.com/track/5yXMdFKXTuTfkMUOOLPgVa) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/2HKgEZtNG7s54IKPVKe7X0) | 7:09 | 2022-07-18 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-04-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=nKrIAInNTeSpQZnRMZGaLw\" > Naira Marley </a>  and <a href=\"https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL?si=QYs1j5iLSJaNsetulQjllA\" > BackRoad Gee</a> ",
-  "num_followers": 9578,
+  "num_followers": 9586,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MDE1NywwMDAwMDAwMDJiMjI3MzQ1MjNmZGVhMzYxOTM1NDQ4NTIyZTg5Njhi",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDlkMmFiYTE3ZmJkMDU0NGY0ZTg0ZmU2ZWQ5NzliNjFh",
   "tracks": [
     {
       "added_at": "2022-06-30 23:00:00",
@@ -87,6 +87,26 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Finesse (feat. French Montana)",
+        "url": "https://open.spotify.com/album/39ali1KqU7VkiJW2pAXv3b"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 126331,
+      "name": "Finesse - feat. French Montana",
+      "url": "https://open.spotify.com/track/1K1nl1dGNDX5LuLcDbT9ED"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -179,6 +199,26 @@
       "duration_ms": 239441,
       "name": "Chale (feat. Clementine Douglas) - Amapiano Remix",
       "url": "https://open.spotify.com/track/12Ribc4xP16sIgFOvMdexc"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Weed Language",
+        "url": "https://open.spotify.com/album/5Bzj4LfwaK9ngS4Kbrv4De"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 245472,
+      "name": "Weed Language",
+      "url": "https://open.spotify.com/track/5ahL0qjX0KAU237OlSb490"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -305,6 +345,34 @@
       "url": "https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb"
     },
     {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Bambam",
+        "url": "https://open.spotify.com/album/4qzOsaU2JOXSE50b1TxLSt"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "PMP",
+          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Bambam",
+      "url": "https://open.spotify.com/track/2kbh3E4D1MQVy5P6IRLUxi"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Energy (Stay Far Away)",
@@ -367,6 +435,30 @@
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "It Girl",
+        "url": "https://open.spotify.com/album/1a9eoJ37SYp0avDwQ7wGdS"
+      },
+      "artists": [
+        {
+          "name": "Associanu",
+          "url": "https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U"
+        },
+        {
+          "name": "Karma Fields",
+          "url": "https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "It Girl",
+      "url": "https://open.spotify.com/track/4Kl8SbWXaOSyF5BbCUMHBL"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -607,6 +699,26 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Tabom Riddim",
+        "url": "https://open.spotify.com/album/5vUUmLs4XsolALRJIC9t1x"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 160391,
+      "name": "Tabom Riddim",
+      "url": "https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz"
     },
     {
       "added_at": "2022-06-30 23:00:00",

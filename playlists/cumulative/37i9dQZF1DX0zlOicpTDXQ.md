@@ -4,7 +4,7 @@
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-67 songs - 3 hr 23 min - not published yet
+68 songs - 3 hr 25 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2022-11-18 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3zwjeUjzAm3rwojZNj05P6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sounds Of The Season](https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd) | 4:27 | 2022-11-18 |  |
 | [Santa Knows Your Secrets](https://open.spotify.com/track/14WUlHavhcV5P5vzO6RgvP) | [Nightheart](https://open.spotify.com/artist/5sDp3kjXQBm84x86UcbHzd) | [Horselake Road](https://open.spotify.com/album/27dn8hCj3yiiqC1m7qOsrG) | 4:33 | 2022-11-18 |  |
-| [Silent Night](https://open.spotify.com/track/5MZIf575KHLmkjKaJUhN7B) | [Lily Horrocks](https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN), [Steve Ornest](https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B) | [Happy Holidays](https://open.spotify.com/album/1bHJvO5ykiqCiDUNlvOoZM) | 1:53 | 2022-11-18 |  |
+| [Silent Night](https://open.spotify.com/track/5MZIf575KHLmkjKaJUhN7B) | [Lily Horrocks](https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN), [Steve Ornest](https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B) | [Happy Holidays](https://open.spotify.com/album/1bHJvO5ykiqCiDUNlvOoZM) | 1:53 | 2022-11-18 | 2022-12-02 |
+| [Silent Night](https://open.spotify.com/track/59Je1JnCLGs6PvdvDxZ6ln) | [Steve Ornest](https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B), [Lily Horrocks](https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN) | [Happy Holidays](https://open.spotify.com/album/3ReUiVwo63hIrpuayiGyhe) | 1:53 | 2022-11-18 |  |
 | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/track/6uLogps4678Egq6OMwPsLS) | [Dan Finnerty](https://open.spotify.com/artist/0TvxNJPCKcZnKn6WZ1xrEG) | [Single All The Way \(from the Netflix Film\)](https://open.spotify.com/album/0hSvbqN5brZqlQ0EO6n2ty) | 2:46 | 2022-11-18 |  |
 | [Square Root of Possible](https://open.spotify.com/track/3CtWaE1HvafkhAdau5Nuez) | [Madalen Mills](https://open.spotify.com/artist/2WZwUfbQPLXMSKy71YcTsh) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 4:04 | 2022-11-18 |  |
 | [Sweet and Spicy](https://open.spotify.com/track/40ECVmoHRW55BEaf748aBk) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:14 | 2022-11-18 |  |

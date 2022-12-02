@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,073 likes - 135 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,107 likes - 135 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 25 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 |
 | 26 | [Through The Self](https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Through The Self](https://open.spotify.com/album/4QUK3vdURh2byRlf6YSXQV) | 3:19 |
 | 27 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 |
-| 28 | [Progress](https://open.spotify.com/track/0fE0HXttbKltOWWSyffU7h) | [Gio Samala](https://open.spotify.com/artist/4K3H4Mm9cy1wp1deEWEpq2) | [Progress](https://open.spotify.com/album/25DPITsrvjXvIUP7bwODkt) | 2:59 |
+| 28 | [Progress](https://open.spotify.com/track/0fE0HXttbKltOWWSyffU7h) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Progress](https://open.spotify.com/album/25DPITsrvjXvIUP7bwODkt) | 2:59 |
 | 29 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 | 30 | [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 |
 | 31 | [Nara](https://open.spotify.com/track/4F8zNOrvP78IJAdrdZCo1z) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Nara](https://open.spotify.com/album/2Z75wCkfd974jIQ5BwRjzz) | 3:03 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 35 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Euryn](https://open.spotify.com/artist/3gZqDSLp1atN62BEKtHMyS) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
 | 36 | [Sentiment \- Yoga Version](https://open.spotify.com/track/0xknACiHrVed7KEML5oNuU) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Yoga Version](https://open.spotify.com/album/7deF5Xp7ctwSJb85ZWFPaG) | 2:45 |
 | 37 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 |
-| 38 | [Promises](https://open.spotify.com/track/1EkmMHDUp0fygcCYsj00m1) | [Sundor](https://open.spotify.com/artist/37LWBuOzSRQzNK3TCaMzoY) | [Inner Awakening](https://open.spotify.com/album/7q5WVMFSPv1XBA3zqy9pwu) | 2:42 |
+| 38 | [Promises](https://open.spotify.com/track/1EkmMHDUp0fygcCYsj00m1) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [Inner Awakening](https://open.spotify.com/album/7q5WVMFSPv1XBA3zqy9pwu) | 2:42 |
 | 39 | [Awaiting The Night](https://open.spotify.com/track/30uebPIcKyKLYs6GvCMoGI) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [Awaiting The Night](https://open.spotify.com/album/4WbmSphPzHRMjuboa8haMl) | 2:14 |
 | 40 | [Valtamania](https://open.spotify.com/track/495yKNbAKF5CcwYizd6XIP) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Valtamania](https://open.spotify.com/album/5LuQNxrMBFujBBMTRfXFGv) | 2:33 |
 | 41 | [The Journey Within](https://open.spotify.com/track/3q0ss0KoYMVsUmgiaMRc7q) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [The Journey Within](https://open.spotify.com/album/17IeLGiiEG70TNZ9KG21US) | 2:08 |

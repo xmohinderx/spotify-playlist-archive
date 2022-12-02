@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,020 likes - 182 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,024 likes - 182 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 20 | [Glemt Perle](https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Glemt Perle](https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ) | 4:13 |
 | 21 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 |
 | 22 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 |
-| 23 | [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Emil Fortini](https://open.spotify.com/artist/1Ce1nbaoW2Uw18C21ES7QG) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 |
+| 23 | [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 |
 | 24 | [Beneath The Clouds](https://open.spotify.com/track/69JHzItxMyYakCOpqZhHUy) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Beneath The Clouds](https://open.spotify.com/album/0PEH9bzRJzUDz2mTDTxliA) | 3:10 |
 | 25 | [Joie](https://open.spotify.com/track/1VmHLEPjlDmL3zCWQcygGC) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Joie](https://open.spotify.com/album/5VPBHff5jua2ebI7UIWquX) | 2:54 |
 | 26 | [Libre](https://open.spotify.com/track/0BCjtbFNaEJwVTIaho8CKp) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Libre](https://open.spotify.com/album/0m0XWF4ACGQ9a5AUvsrIaY) | 2:33 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 34 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 |
 | 35 | [Water Poem](https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI) | [Melissa Gio](https://open.spotify.com/artist/6aWfivbdzQ18ZuqTwvxHHE) | [Water Poem](https://open.spotify.com/album/54GgnDXqx2jm1s70E0nSl5) | 2:40 |
 | 36 | [Lithe](https://open.spotify.com/track/5V9qmxeatZwO8wctLXiZIR) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Lithe](https://open.spotify.com/album/70L8PU7byfp8KTSkYKNi6U) | 2:42 |
-| 37 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
-| 38 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
+| 37 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
+| 38 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
 | 39 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 |
 | 40 | [Voices](https://open.spotify.com/track/4Dioh7PnhNtYJa1Q8GTPw6) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Voices](https://open.spotify.com/album/6v1QSPpVnYMnnj95YJm4hs) | 2:36 |
 | 41 | [A Day By The Sea](https://open.spotify.com/track/32caN3mL4dftJrVNKYwr1t) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [A Day By The Sea](https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j) | 3:41 |

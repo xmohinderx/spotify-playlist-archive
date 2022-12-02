@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-164 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
+165 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/6yQIOThlCsCLgZSW50o9Mt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Soul Food](https://open.spotify.com/track/445dqIqkN3pgi73mldzj4K) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Soul Food](https://open.spotify.com/album/2htOZn8am6ef2XY9FVWusV) | 2:53 | 2021-12-13 | 2022-05-18 |
 | [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 5:39 | 2021-12-28 |  |
 | [Status Quo](https://open.spotify.com/track/5Rc3pgfumRrE6b67rBAsi2) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 3:56 | 2021-12-13 |  |
-| [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/61T2Innvsx72ubByEcKtUx) | 3:57 | 2021-12-13 |  |
+| [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/107l1YopKHWYtPbondo2oI) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/5nScYB4E1Fw0RSOV8QDUZN) | 3:57 | 2022-10-30 |  |
+| [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/61T2Innvsx72ubByEcKtUx) | 3:57 | 2021-12-13 | 2022-12-02 |
 | [Strength](https://open.spotify.com/track/0nnocliX58UkQQf0Ayl2kU) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/4Huxzz9yjgdsDS0V2zQS19) | 4:38 | 2021-12-13 | 2022-07-29 |
 | [Strength](https://open.spotify.com/track/4MTmD97M3KIAWLnwJbVwbp) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/3iObboZ4jyfu1RWLzeCAqx) | 4:38 | 2022-07-05 |  |
 | [Sunrise](https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Sunrise](https://open.spotify.com/album/1zKmFpEW0oj8qy5mvnUyBb) | 3:18 | 2022-09-30 |  |

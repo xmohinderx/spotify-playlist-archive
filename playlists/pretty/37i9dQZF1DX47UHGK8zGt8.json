@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 372706,
+  "num_followers": 372914,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMGNjYjJiZDQwZDZhYmE5YTkyZDkxYjE5NmY0NjVmNzY5",
+  "snapshot_id": "MTY2Nzk5OTgyMSwwMDAwMDAwMGQ3MTUyNDZiZTg2MTMxZWM2MWUxNDllMzg1NjUwNThi",
   "tracks": [
     {
       "added_at": "2022-11-09 13:17:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-11-09 13:17:01",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2022-11-09 13:17:01",
-      "album": {
         "name": "Quando Amanhecer",
         "url": "https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 171594,
       "name": "Quando Amanhecer",
       "url": "https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw"
+    },
+    {
+      "added_at": "2022-11-09 13:17:01",
+      "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2022-11-09 13:17:01",

@@ -1292,6 +1292,28 @@
     },
     {
       "album": {
+        "name": "Are We Dreaming",
+        "url": "https://open.spotify.com/album/5txnOKMif2rxCCZ2u9W4oa"
+      },
+      "artists": [
+        {
+          "name": "Chores",
+          "url": "https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I"
+        },
+        {
+          "name": "Jezzabell Doran",
+          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251913,
+      "name": "Crave Me",
+      "url": "https://open.spotify.com/track/3HuVGDJHnnhXYv6AlNG0HF"
+    },
+    {
+      "album": {
         "name": "Crazy (feat. Casey Cook) [Orchestral]",
         "url": "https://open.spotify.com/album/7HLFXEXCGBWMmdNreBq7WE"
       },

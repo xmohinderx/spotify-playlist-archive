@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-552 songs - 1 day 7 hr 42 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+554 songs - 1 day 7 hr 49 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Dance in the milk \(2022 ver.\) \[self cover\]](https://open.spotify.com/track/7bgcEHorknq6kTmKnVfZrT) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [Dance in the milk \(2022 ver.\)](https://open.spotify.com/album/4Jw75NaHjQqW8rtpGRHfHo) | 2:29 | 2022-06-09 | 2022-07-29 |
 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 | 2022-08-25 | 2022-09-28 |
 | [Decorative](https://open.spotify.com/track/7wBOCKLFaa8lIr3RdCgmON) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [Decorative](https://open.spotify.com/album/1ARHlIwUu9EyTp5Tqabg51) | 3:30 | 2022-07-07 | 2022-07-27 |
-| [Did You See the Sunrise?](https://open.spotify.com/track/2cB1MH2DJ5G9LivP0GTSDz) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did You See the Sunrise?](https://open.spotify.com/album/5o5efTNvsUAtn0UUrmigwp) | 3:43 | 2022-10-27 |  |
+| [Did You See the Sunrise?](https://open.spotify.com/track/2cB1MH2DJ5G9LivP0GTSDz) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did You See the Sunrise?](https://open.spotify.com/album/5o5efTNvsUAtn0UUrmigwp) | 3:43 | 2022-10-27 | 2022-12-02 |
+| [Did You See the Sunrise?](https://open.spotify.com/track/2qqy2umtwCzXXrdhnlH6ll) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did You See the Sunrise?](https://open.spotify.com/album/6HHrAvOzO0uSMD16INW0gq) | 3:43 | 2022-11-29 |  |
 | [Did you see the sunrise?](https://open.spotify.com/track/0EU7CcoQReLDXH3gxQ2nWS) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did you see the sunrise?](https://open.spotify.com/album/0KrSzLWONtvMW31gvcKDxa) | 3:43 | 2022-10-27 | 2022-10-29 |
 | [Distance](https://open.spotify.com/track/0SzgRifXiBPqnz4tVN8D2N) | [SpendyMily](https://open.spotify.com/artist/5yJWbZhLyZZa6u3yi0mcY0) | [Distance](https://open.spotify.com/album/7hIUhvdx5zQJcg9ppXjSdj) | 4:26 | 2022-06-16 | 2022-06-20 |
 | [Dohdatte.](https://open.spotify.com/track/2OTfuTcICjCrI2xtc4sdf3) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Tatsuya Kitani](https://open.spotify.com/artist/3YxLZDzRbeskxCOlubACis) | [Dohdatte.](https://open.spotify.com/album/0srCp2sHV9KTw80Sd22l91) | 3:18 | 2022-11-17 |  |
@@ -117,7 +118,7 @@
 | [Original Sin](https://open.spotify.com/track/3txAYMcl99O9AQ4buBkWHN) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [Original Sin](https://open.spotify.com/album/0hrn7XIBUgkz5NWX9WGL9J) | 3:22 | 2022-10-13 | 2022-10-19 |
 | [OVER THE ACE](https://open.spotify.com/track/311MxW4JKprt5fv7YMKTyZ) | [つきみぐー](https://open.spotify.com/artist/5baN3ZS9YkfLwQikQcllYI) | [OVER THE ACE](https://open.spotify.com/album/1XrxiqPsDqBSAoqBPhcN7z) | 4:16 | 2022-07-14 | 2022-07-16 |
 | [Overcast Skies](https://open.spotify.com/track/6IFs3VTvLLiQict4tAt7Ct) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Overcast Skies](https://open.spotify.com/album/4SqUTGadZjUKgnYtFrPFkH) | 2:42 | 2022-09-27 | 2022-10-05 |
-| [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [なとり](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-15 |  |
+| [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-15 |  |
 | [oxygen](https://open.spotify.com/track/1RYbwTKMI4JR86drI4IDIt) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [oxygen](https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o) | 2:48 | 2022-06-21 | 2022-06-29 |
 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 | 2022-11-17 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 |  |
@@ -144,6 +145,7 @@
 | [Shasai](https://open.spotify.com/track/5Wpc0b0sUVtQ6m2u2fW5ZY) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Shasai](https://open.spotify.com/album/1zz1GyAxNbd8uG9w2v1SEq) | 3:07 | 2022-09-01 | 2022-09-07 |
 | [Shinjitsu Tsuka](https://open.spotify.com/track/1FQSzS7okTj6aExWodKXXL) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [Shinjitsu Tsuka](https://open.spotify.com/album/0cLu3Nqq30PGbG47dQ9HHm) | 3:27 | 2022-10-06 | 2022-10-12 |
 | [Shinkirou](https://open.spotify.com/track/2GJ4wf1R6fZaVgkzV3jbdz) | [HIMEGOTO](https://open.spotify.com/artist/7tDvpqwyQJ1HvksTwHaMQ6) | [Shinkirou](https://open.spotify.com/album/75n2DTZV1tfeBoLihLSWY7) | 5:33 | 2022-10-04 | 2022-10-19 |
+| [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2022-12-02 |  |
 | [SHOWレース](https://open.spotify.com/track/1lzzRoO0fWyrlmwOQ6UztW) | [Nexus\-Cry](https://open.spotify.com/artist/5G8jDBkwGmPXonbtVj8nJX) | [SHOWレース](https://open.spotify.com/album/0cjT5braEI6LZAJSgw2IAV) | 3:17 | 2022-06-30 | 2022-07-24 |
 | [Sign](https://open.spotify.com/track/7lzZQ6lSsWPVrWgaAXX6pP) | [JASPĘR](https://open.spotify.com/artist/1pyg2ihnuRiqlkOxzRTXz7) | [Sign](https://open.spotify.com/album/2ujaRJAKxnDtIjyacSkZcH) | 3:47 | 2022-07-26 | 2022-07-29 |
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-16 | 2022-09-07 |
@@ -438,7 +440,7 @@
 | [春とレム](https://open.spotify.com/track/7KaOma99geyFVlWkzFoXxi) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [春とレム](https://open.spotify.com/album/4NNwImwuKgKXvInVlQqNQL) | 3:42 | 2022-07-07 | 2022-07-13 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2022-06-13 | 2022-06-22 |
 | [春を待つ](https://open.spotify.com/track/5TVW2TZUDIZZoN64eh3AGf) | [はるみん。](https://open.spotify.com/artist/1UzgIpHeeFFEl85vHGGFG6) | [春を待つ](https://open.spotify.com/album/0SiwxZEpsFCLF5mMR71Q5G) | 4:19 | 2022-06-09 | 2022-07-07 |
-| [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 | 2022-07-28 |  |
+| [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 | 2022-07-28 | 2022-12-02 |
 | [春陽](https://open.spotify.com/track/5NC3yAtCGSRx9patPXTAy9) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [春陽](https://open.spotify.com/album/386OwivZPAdAi3BHAj4Q50) | 3:13 | 2022-06-30 | 2022-07-26 |
 | [最後の心臓 \- \[Vocal : suis \(ヨルシカ\)\]](https://open.spotify.com/track/1aHax3Co1P6YV9uaFXduBI) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [suis](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [BIG WORLD](https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx) | 2:50 | 2022-07-14 | 2022-07-16 |
 | [月と太陽だけ](https://open.spotify.com/track/0fL48bpE7SjbfIL8imvxWj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [月と太陽だけ](https://open.spotify.com/album/1fqDbWStrutYMOYxwQWJYP) | 3:29 | 2022-06-30 | 2022-07-02 |

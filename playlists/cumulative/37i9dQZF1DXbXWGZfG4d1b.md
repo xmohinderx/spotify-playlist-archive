@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-395 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+396 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-07-01 | 2022-07-18 |
 | [Hojas de Sombra](https://open.spotify.com/track/7koV9ojFGsDXkZMBxfEmWZ) | [Pájaro](https://open.spotify.com/artist/4nmLAzSOQNI1YZKhGqmHwP) | [Hojas de Sombra](https://open.spotify.com/album/2ir033W52DI2aqS7n50nFO) | 7:17 | 2022-07-01 | 2022-07-24 |
 | [Hombre Paloma](https://open.spotify.com/track/33MjnTrlEgYbra2prv0l5i) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Hombre Paloma](https://open.spotify.com/album/2yZ4h4VN6iWBjseopIbsS7) | 3:02 | 2022-07-01 | 2022-07-16 |
-| [Huele amarillo](https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Huele amarillo](https://open.spotify.com/album/4XH65quBLvAln0tbp265qx) | 4:34 | 2022-10-12 |  |
+| [Huele amarillo](https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Huele amarillo](https://open.spotify.com/album/4XH65quBLvAln0tbp265qx) | 4:34 | 2022-10-12 | 2022-12-02 |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-06-03 | 2022-07-29 |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
 | [Incendio](https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm) | [Surfeadores Rosa](https://open.spotify.com/artist/6BecaP398CIWCEHspNCxQh) | [Incendio](https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd) | 2:52 | 2022-07-01 | 2022-07-22 |
@@ -251,6 +251,7 @@
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-07-01 | 2022-07-26 |
 | [Morir por Vos \(No Puedo\)](https://open.spotify.com/track/6tECZ1eUtbe3mPq61BCYkW) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O), [Ravioli Juan](https://open.spotify.com/artist/66NrjJ1V6I3BL8tkYMg8OU) | [Errores Coleccionables](https://open.spotify.com/album/224G5BiBybfnDOvVzmvCPG) | 3:08 | 2022-06-03 | 2022-07-23 |
 | [Multiverso](https://open.spotify.com/track/6fPmHiU0CXGbk2JfljoAe6) | [Portobel](https://open.spotify.com/artist/4D4LYABcCVmUcodiy86goS), [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Preludio](https://open.spotify.com/album/0rKDiwLNpdoJGUAolXyuYU) | 4:21 | 2022-06-03 | 2022-07-27 |
+| [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2022-11-11 |  |
 | [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 | 2022-07-29 |
 | [Máquina del Tiempo](https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1) | 4:23 | 2022-07-15 |  |
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 | 2022-07-29 |

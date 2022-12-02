@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: WOO\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버:애쉬 아일랜드\)
+> The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: WOO\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버: 우원재\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,431 likes - 114 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,472 likes - 114 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 113 | [Big Boss](https://open.spotify.com/track/0vAlP723ZWtnOecTMRJQmN) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Gangnam EP](https://open.spotify.com/album/37UlgFjxwn0Q67WCJOqnvF) | 3:03 |
 | 114 | [Mi Vida Loca \(feat\. CK, Louie & DOPECHILD\)](https://open.spotify.com/track/2lelDLW1VD7KM97A6naUVh) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [CK](https://open.spotify.com/artist/7tjx9M3KfqqtH58LVTID3Q), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB), [DOPECHILD](https://open.spotify.com/artist/0tReHhczVsR4CyIoenFpQs) | [Renoi Chronicle](https://open.spotify.com/album/7iJ5ydlC5mLCgmyIUNs2WH) | 3:07 |
 
-Snapshot ID: `MTY2OTc4OTU2MCwwMDAwMDAwMDkyYWFjMjQzYzFhYjVkMmNmNmY0YzcyYmFhYjc2ZWUz`
+Snapshot ID: `MTY2OTg2MTI3MCwwMDAwMDAwMDQ1MjJkYTllY2JkYzkxNGE0ZWY0M2MwMjZkYjFiZGZl`

@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Oceans",
-  "num_followers": 858130,
+  "num_followers": 858295,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGY4Njk5ZjhlMDRkOTBjZTgwOTljM2Y4NTBjNWZhY2U0",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDc4MmYzNmE5ZGE2ZTQyNTYyZGU4ZTZiNDU1MTAyMzY1",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Faded Out (feat. Within Temptation)",
         "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Cross My Heart",
-        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
-      },
-      "artists": [
-        {
-          "name": "Eyes Wide Open",
-          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 207936,
       "name": "Throne",
       "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Cross My Heart",
+        "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
+      },
+      "artists": [
+        {
+          "name": "Eyes Wide Open",
+          "url": "https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Hangfire",
         "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 199500,
       "name": "Reaper",
       "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Divided",
-        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "No Heaven",
-        "url": "https://open.spotify.com/album/3UDy59MHq2lMzX04LeH6qa"
-      },
-      "artists": [
-        {
-          "name": "For The Fallen Dreams",
-          "url": "https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "No Heaven",
-      "url": "https://open.spotify.com/track/5nxZSkMS7VpbjEHaCQ39a1"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 188057,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "No Heaven",
+        "url": "https://open.spotify.com/album/3UDy59MHq2lMzX04LeH6qa"
+      },
+      "artists": [
+        {
+          "name": "For The Fallen Dreams",
+          "url": "https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "No Heaven",
+      "url": "https://open.spotify.com/track/5nxZSkMS7VpbjEHaCQ39a1"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        },
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 202418,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Disparity",
         "url": "https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
-      },
-      "artists": [
-        {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        },
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 202418,
-      "name": "Heretic",
-      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Coffin",
         "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "The Price Of Dreaming",
         "url": "https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 280579,
       "name": "Thick As Blood",
       "url": "https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -939,22 +939,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "NWWM",
-        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
+        "name": "A Form of Protest",
+        "url": "https://open.spotify.com/album/7isoz5aQC63C3zWg3yQT06"
       },
       "artists": [
         {
-          "name": "Borders",
-          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
-        },
-        {
-          "name": "Dropout Kings",
-          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
         }
       ],
-      "duration_ms": 182750,
-      "name": "NWWM",
-      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
+      "duration_ms": 189405,
+      "name": "A Form of Protest",
+      "url": "https://open.spotify.com/track/2T87RX4V5PsfnqhBq21Qxm"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -979,34 +975,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "A Form of Protest",
-        "url": "https://open.spotify.com/album/7isoz5aQC63C3zWg3yQT06"
+        "name": "NWWM",
+        "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
       "artists": [
         {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
-        }
-      ],
-      "duration_ms": 189405,
-      "name": "A Form of Protest",
-      "url": "https://open.spotify.com/track/2T87RX4V5PsfnqhBq21Qxm"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Miscreation",
-        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
-      },
-      "artists": [
+          "name": "Borders",
+          "url": "https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO"
+        },
         {
-          "name": "The Anchor",
-          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
         }
       ],
-      "duration_ms": 213401,
-      "name": "Miscreation",
-      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
+      "duration_ms": 182750,
+      "name": "NWWM",
+      "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 200000,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Miscreation",
+        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+      },
+      "artists": [
+        {
+          "name": "The Anchor",
+          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+        }
+      ],
+      "duration_ms": 213401,
+      "name": "Miscreation",
+      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Mercer 217",
-        "url": "https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88"
-      },
-      "artists": [
-        {
-          "name": "Vatic",
-          "url": "https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS"
-        }
-      ],
-      "duration_ms": 231999,
-      "name": "Remember East Mercer",
-      "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "The Seed of Self-Destruction",
         "url": "https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 239571,
       "name": "No Hope 'Til Now",
       "url": "https://open.spotify.com/track/0rsn2sc8LlIfTyePLigY8w"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Mercer 217",
+        "url": "https://open.spotify.com/album/6eSyQdEzLe207n5TcOjx88"
+      },
+      "artists": [
+        {
+          "name": "Vatic",
+          "url": "https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS"
+        }
+      ],
+      "duration_ms": 231999,
+      "name": "Remember East Mercer",
+      "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
     },
     {
       "added_at": "2022-11-25 05:00:00",

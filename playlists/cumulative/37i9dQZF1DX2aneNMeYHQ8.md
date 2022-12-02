@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Larkin Poe
 
-249 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+250 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 | 2022-01-21 |  |
 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 | 2022-01-14 | 2022-07-02 |
 | [Can't You See](https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC) | 3:30 | 2021-09-10 | 2022-07-28 |
-| [Can't You See](https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9) | 3:30 | 2022-07-01 |  |
+| [Can't You See](https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9) | 3:30 | 2022-07-01 | 2022-12-02 |
 | [Cannabis Tree](https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR) | [Rome & Duddy](https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF) | [Cannabis Tree](https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS) | 4:51 | 2022-10-21 | 2022-11-12 |
 | [Changing](https://open.spotify.com/track/1l24p4pRr1KmoLsI6OUTry) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Changing](https://open.spotify.com/album/1OYygBBOq2U4tqiEKfRFlj) | 3:40 | 2021-10-22 | 2022-04-23 |
 | [Chasing Rainbows](https://open.spotify.com/track/5PiFSQFnq2YOxmDa2eq71h) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Chasing Rainbows](https://open.spotify.com/album/3MyG5ELX5oBw9B7lSNldka) | 3:27 | 2021-12-10 | 2022-07-02 |
@@ -84,6 +84,7 @@
 | [Got Me Feeling Good](https://open.spotify.com/track/4RuCWaWlvXHwM39EZMYtBT) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Got Me Feeling Good](https://open.spotify.com/album/0C1KjdzzSIg1iDvGhIAfFn) | 4:12 | 2021-05-07 | 2022-01-15 |
 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 | 2022-11-11 |  |
 | [Halfway Home](https://open.spotify.com/track/4rEZTFvuctp8A1bFpAg6dJ) | [Royston Langdon](https://open.spotify.com/artist/0CbpbJhb2X7shi11WS9zsY) | [Halfway Home](https://open.spotify.com/album/4XgKPQepdGvrHDsT2wvQjy) | 2:37 | 2021-10-01 | 2022-04-09 |
+| [Hanging by a Thread](https://open.spotify.com/track/1WF8P42fDZKPdsbG6eb6cl) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/5mDuvmrgSQYH5m54GoM5GC) | 3:18 | 2022-11-11 |  |
 | [Hanging by a Thread](https://open.spotify.com/track/1qykiBzyIdLMbot7iamJGp) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Hanging by a Thread](https://open.spotify.com/album/4f6QVZ06rVj6oeOnmkTmwg) | 3:18 | 2021-09-10 | 2022-07-29 |
 | [Hanging by a Thread](https://open.spotify.com/track/5VI2qNOcabWt6RNJuApYHX) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/3Ihb50N9lgl7IPdXlt04Np) | 3:18 | 2022-07-01 | 2022-11-25 |
 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-04-22 |  |

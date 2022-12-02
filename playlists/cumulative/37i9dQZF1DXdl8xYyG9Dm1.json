@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=r9po0m5GS-OqftcZy_pYog\"> Blxckie </a> ",
+  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=nR-3-Q83TE6mPeI4jcvvnQ\"> Kwesta </a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=bm3v1IzvQouZl2R52zdVcA\"> Kabza De Small </a>",
   "name": "No Wahala",
   "published_playlist_ids": [
     "6lFDRmAzLffN6r39zEBvaL"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 192153,
       "name": "All the smoke",
       "url": "https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG"
@@ -1351,6 +1351,32 @@
       "duration_ms": 194000,
       "name": "Inaweza Haiwezi",
       "url": "https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG"
+    },
+    {
+      "album": {
+        "name": "Speak N Vrostaan",
+        "url": "https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Papta Mancane",
+          "url": "https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "Is'pantsula (feat. Papta Mancane)",
+      "url": "https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB"
     },
     {
       "album": {

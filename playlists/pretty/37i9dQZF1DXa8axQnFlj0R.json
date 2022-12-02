@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 62479,
+  "num_followers": 62635,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3NDM0NCwwMDAwMDAwMDE0NTU0NzU0YmM2N2YzMDgzOTVlNzkxYzVkMmViMTNk",
+  "snapshot_id": "MTY2NTc3NDM0NCwwMDAwMDAwMGZkZDY5OGEyODgxZGZlN2I4ZjVlYmRmODg5ZGQ3MjM0",
   "tracks": [
     {
       "added_at": "2022-10-14 19:05:43",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -203,22 +187,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Z-Sides",
         "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
       },
@@ -235,6 +203,38 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -247,26 +247,6 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -299,6 +279,26 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "The Killer Was a Coward",
-      "url": "https://open.spotify.com/track/3c67dPnPg08gwduVB08hpZ"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 267266,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "The Killer Was a Coward",
+      "url": "https://open.spotify.com/track/3c67dPnPg08gwduVB08hpZ"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 227698,
       "name": "Still",
       "url": "https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1287,22 +1287,6 @@
       "duration_ms": 256535,
       "name": "The Wolves and the Ravens",
       "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1367,6 +1351,22 @@
       "duration_ms": 199172,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Seastroke",
-        "url": "https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt"
-      },
-      "artists": [
-        {
-          "name": "Wyldest",
-          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
-        }
-      ],
-      "duration_ms": 275528,
-      "name": "Seastroke",
-      "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 151240,
       "name": "Rookery",
       "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Seastroke",
+        "url": "https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt"
+      },
+      "artists": [
+        {
+          "name": "Wyldest",
+          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
+        }
+      ],
+      "duration_ms": 275528,
+      "name": "Seastroke",
+      "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
+        "name": "The Old Pine E.P.",
+        "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 289074,
+      "name": "Follaton Wood",
+      "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
         "name": "Our Day",
         "url": "https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 236800,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
-        "name": "The Old Pine E.P.",
-        "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 289074,
-      "name": "Follaton Wood",
-      "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
     },
     {
       "added_at": "2022-10-14 19:05:43",

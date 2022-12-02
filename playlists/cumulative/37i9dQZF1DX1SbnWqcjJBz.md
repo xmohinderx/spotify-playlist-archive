@@ -4,7 +4,7 @@
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-322 songs - 19 hr 12 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
+323 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/6766dEAAxph4xC3lqrOMfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,13 +133,14 @@
 | [He Loves You Not](https://open.spotify.com/track/2ozJmnjqCMJavEKoHqiou0) | [Dream](https://open.spotify.com/artist/5glaXGC2Bpd4z4HsVhzhjN) | [It Was All A Dream](https://open.spotify.com/album/1BFRUB6584v1J2aew1vKEE) | 3:46 | 2022-01-27 |  |
 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 | 2022-01-27 |  |
 | [Heartbeat](https://open.spotify.com/track/5xYvsBGoYbfNzcV5Y94ZVx) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Anniemal](https://open.spotify.com/album/3LN3dGIFGEqTjTDwTFFCj6) | 3:05 | 2022-03-24 | 2022-07-21 |
-| [Heartbeat](https://open.spotify.com/track/0yICN9QFclohtq33HSmFwZ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 4:16 | 2022-03-24 |  |
+| [Heartbeat](https://open.spotify.com/track/0yICN9QFclohtq33HSmFwZ) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Euphoria \(Standard US/Latin version\)](https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD) | 4:16 | 2022-03-24 | 2022-12-02 |
 | [Higher](https://open.spotify.com/track/7E0UqLtjH5ipLhkX3bCCuK) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Higher](https://open.spotify.com/album/5peCrBl7RlaO4qDdxAaBON) | 3:15 | 2022-03-24 | 2022-06-07 |
 | [Higher \(feat\. Alex Newell\)](https://open.spotify.com/track/3x0oc9CVW5RwLx4EHW6JZk) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:07 | 2022-01-27 |  |
 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 | 2022-03-08 |  |
 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 | 2022-01-27 | 2022-07-29 |
 | [How to Be a Heartbreaker](https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2022-04-16 |  |
 | [Hush Hush; Hush Hush \- Main](https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Hush Hush; Hush Hush](https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU) | 4:12 | 2022-03-24 |  |
+| [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 | 2022-12-02 |  |
 | [I Begin to Wonder](https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6) | [Neon Nights \(Deluxe Version\)](https://open.spotify.com/album/5wPGmNlCTfX44dFqvefJUE) | 3:39 | 2022-01-27 |  |
 | [I Believe in You](https://open.spotify.com/track/4Z1YMSpUsBe3xL0wt9i0Mm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back in Time: The Definitive Collection](https://open.spotify.com/album/3vA84e8wtK3OqVoq7jQs5V) | 3:20 | 2022-03-24 | 2022-04-21 |
 | [I Blame Myself](https://open.spotify.com/track/0i62I5HJlzIVu2FALBmBPx) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:57 | 2022-01-27 | 2022-07-29 |

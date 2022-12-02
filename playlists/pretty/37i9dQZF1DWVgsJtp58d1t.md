@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Stomrzy, Tone Stith, Pinkpantheress, GloRilla, MFnMelo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,236 likes - 97 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,307 likes - 97 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 96 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 |
 | 97 | [Compare \- A COLORS SHOW](https://open.spotify.com/track/1jCk2UYGvtpxtkyhTRbKgF) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Compare \- A COLORS SHOW](https://open.spotify.com/album/0o2fniizJPNWTYr4ilWA46) | 2:16 |
 
-Snapshot ID: `MTY2OTQwNTg0OCwwMDAwMDAwMGJiMTVlMjQ2MWI3YWM1YjNmNzIwNjE4YmE1MTY4ZjQw`
+Snapshot ID: `MTY2OTkzMTkyOSwwMDAwMDAwMDJjYzdjNTczODAxZmEyNTk3ODMwOWI4NDlhYTk2ZDIy`

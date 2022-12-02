@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,713,387 likes - 202 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,713,414 likes - 202 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 34 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 |
 | 35 | [Save Your Tears](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 |
 | 36 | [Jumper \- Acoustic](https://open.spotify.com/track/2gW33mccmLxLqLGiQfDCuL) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Jumper \(Acoustic\)](https://open.spotify.com/album/7nfeJTpHYrgmgHIzoAaRhr) | 3:04 |
-| 37 | [drivers license](https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [drivers license](https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf) | 3:48 |
+| 37 | [drivers license](https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Covers from Home](https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A) | 3:48 |
 | 38 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 39 | [Lose You to Love Me](https://open.spotify.com/track/7bb2O1luSN48DdvZX12mtm) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Lose You to Love Me](https://open.spotify.com/album/1HMaBKxQ7dh138xmmxa2Hs) | 3:57 |
 | 40 | [The Sweetest Taboo](https://open.spotify.com/track/76gehpLHsVLab7fnagEhUf) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [The Sweetest Taboo](https://open.spotify.com/album/1eL5u5pLXLFgHlrwano6TV) | 2:52 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 201 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 202 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGVmNGVjY2RhNTUyYmViMWRjODFhZjk2Njk3NzgwMmQy`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDRjMDE5NDdmZGQ5MGI4OTA2Y2RiNWVmZWFlMzczNWY3`

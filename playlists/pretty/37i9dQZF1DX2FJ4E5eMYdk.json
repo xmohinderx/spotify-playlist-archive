@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 124343,
+  "num_followers": 124381,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDQ4YmEyZmE4ZDJiNDZmYzc5NmEzOTYxYTU3MTgyZmJh",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGFhMzliMmZlODFhY2E2N2RhZGViNTQyYTQ4NzRjMmIw",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Italian Ice",
-        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 243769,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 231155,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/581KISzBIATjlONj5MbPQe"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Italian Ice",
+        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
+      },
+      "artists": [
+        {
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+        }
+      ],
+      "duration_ms": 243769,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Sneaker Waves",
         "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2022-07-22 04:00:00",

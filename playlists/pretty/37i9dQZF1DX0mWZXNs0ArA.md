@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,263 likes - 91 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,551 likes - 91 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 |
-| 2 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/5fqusHbZRDZrLikLiFwWTq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:12 |
-| 3 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 1 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 2 | [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 |
+| 3 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/5fqusHbZRDZrLikLiFwWTq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:12 |
 | 4 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
 | 5 | [Miss You \- Sped Up Version](https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ) | 2:50 |
 | 6 | [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 29 | [Under the Influence \(Sped Up\) \- Your Body Language Speaks to Me](https://open.spotify.com/track/3qG3S4Ptt7EFCtKi5ZroG2) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Under the Influence \(Sped Up\) \- Your Body Language Speaks to Me](https://open.spotify.com/album/0zJyKDyf1ukaR3TD8mYHTy) | 2:03 |
 | 30 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
 | 31 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 |
-| 32 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 |
+| 32 | [Karma \- Sped Up](https://open.spotify.com/track/0MwFC8WoPCjq2H3UES2aos) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:41 |
 | 33 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 |
 | 34 | [psilocybin \(sped up\)](https://open.spotify.com/track/1CwFuRSP9dB2HvbmXBSEDS) | [YKARE](https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1) | [psilocybin \(sped up\)](https://open.spotify.com/album/2WGURTSIVqDOm6r0Srrxti) | 1:52 |
 | 35 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 90 | [don't wanna be your friend \- sped up](https://open.spotify.com/track/5ttbjSyoPvv9saJkeZt8o3) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't wanna be your friend \(sped up\)](https://open.spotify.com/album/6RyvFQGGH111be3sSSjdas) | 2:30 |
 | 91 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 |
 
-Snapshot ID: `MTY2OTY2MjUwMywwMDAwMDAwMDM2MTE3ZjIzZDE4ZjhiMDhkNGE0MTYyNmIwNmI3ZTcx`
+Snapshot ID: `MTY2OTkwODQ1NSwwMDAwMDAwMGFlNzQzOTdjNjJhNTNkZjVkYjIwYzgxNzdmNGRhZDJl`

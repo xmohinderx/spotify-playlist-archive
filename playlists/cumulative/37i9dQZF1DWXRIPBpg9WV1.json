@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/5ggUn95ZER2ZHHtzdWNJqT"
+      },
+      "artists": [
+        {
+          "name": "Prince May",
+          "url": "https://open.spotify.com/artist/0XOki1WQ88CrMMMozwk3CH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/1IRSxZQv3al0w8UbeXqVlh"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H"
       },
@@ -131,6 +149,24 @@
       "duration_ms": 177987,
       "name": "At Last",
       "url": "https://open.spotify.com/track/7yJoZTd6PwMU9J0rLFdgHH"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/1xmJoCr4u9QjkoQOOZdoAU"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165952,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7saPqdjNGYVhEB9EDIsQ3p"
     },
     {
       "album": {
@@ -170,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/6HwuOd0UdhwIMh4Pw8txz0"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187936,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/5GhGxnInJgQLbI61S4NwhM"
+    },
+    {
+      "album": {
         "name": "Black Hole Sun",
         "url": "https://open.spotify.com/album/2bUV5PssdRehLXjYNhFuOo"
       },
@@ -185,6 +239,24 @@
       "duration_ms": 208392,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/3bFxHisnzoCtIc2MdZ91dl"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2SRk0VQmycefU6s6GY7uNc"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204252,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/4fi9D71b3x0bs3vfHAAIro"
     },
     {
       "album": {
@@ -350,6 +422,60 @@
     },
     {
       "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/7a6BdaLUK7bPGu7fPYfWTD"
+      },
+      "artists": [
+        {
+          "name": "Trevor Potts",
+          "url": "https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171966,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/3ZOMozp2217JJafowbJdeg"
+    },
+    {
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/2fzUmk4cncjiZJdd5Iiu18"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162121,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/2Xs7raB9TJRTMGVKHYI92I"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/38CMtYhTZkGGCAi63jiTDi"
+      },
+      "artists": [
+        {
+          "name": "Trevor Potts",
+          "url": "https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168332,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4kUStH2WW43Ly9wXHOry5v"
+    },
+    {
+      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7"
       },
@@ -365,6 +491,24 @@
       "duration_ms": 172277,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/2uHHH7iJjQDhoFKfWbFjo3"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back In Anger",
+        "url": "https://open.spotify.com/album/4oHlMLyej1Sb1UPvoDCezc"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226625,
+      "name": "Don't Look Back In Anger",
+      "url": "https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB"
     },
     {
       "album": {
@@ -451,10 +595,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 249500,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/647uBk9wlI9O1PQu7YkyNG"
+    },
+    {
+      "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/5tpnMfk0ZIYsjnwwsmzntv"
+      },
+      "artists": [
+        {
+          "name": "Bart Cohen",
+          "url": "https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165724,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1RjNPuM8U0SWtPTnUzIXhG"
     },
     {
       "album": {
@@ -509,6 +671,24 @@
       "duration_ms": 193412,
       "name": "Everything I wanted",
       "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+    },
+    {
+      "album": {
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/09R9BfC4OCWe73RKLbGhcC"
+      },
+      "artists": [
+        {
+          "name": "Troy Mair",
+          "url": "https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170104,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/4exgcc9GNT3UL0jZjiFbQI"
     },
     {
       "album": {
@@ -692,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Have You Ever Seen The Rain",
+        "url": "https://open.spotify.com/album/25SXr9Z24oTBxdcIksPefu"
+      },
+      "artists": [
+        {
+          "name": "Blake Wright",
+          "url": "https://open.spotify.com/artist/3xmWhMwY31kqIzejidLlt8"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145663,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/5NP4t2zPbqoOzeNDZWmE8U"
+    },
+    {
+      "album": {
         "name": "Dean M Parker",
         "url": "https://open.spotify.com/album/2zNaQCdhfJlWgaYoedd4oP"
       },
@@ -818,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/4yeyCrTubpjifk1H8sd7a9"
+      },
+      "artists": [
+        {
+          "name": "Ela Hills",
+          "url": "https://open.spotify.com/artist/4rPETLWsKT01K13kePkC0r"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160142,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/1o9MJp74EnMwN9EIzej4Tv"
+    },
+    {
+      "album": {
         "name": "Waiting Waves",
         "url": "https://open.spotify.com/album/7r3F09Ae7QE2hCXVPrZRo8"
       },
@@ -847,7 +1063,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 256825,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6dUP73tiRW1NyyFAbVqLkM"
@@ -872,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "I Will Always Love You",
+        "url": "https://open.spotify.com/album/0UnnUPOlBJCA6rofllWdsw"
+      },
+      "artists": [
+        {
+          "name": "Nylah Read",
+          "url": "https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128764,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/1xqVie2iDsSZe1ZtL3XiG8"
+    },
+    {
+      "album": {
         "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/5HEMAReCb6wci79hLp5NEZ"
       },
@@ -890,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/1HLUiJ6bYFE6FCMMiaMdpL"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Olasabal",
+          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139283,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/5rU2PLiSUb2or6DqalZOUX"
+    },
+    {
+      "album": {
         "name": "If You Leave Me Now",
         "url": "https://open.spotify.com/album/1QX0cb2zR5ECbz4YGsgFFu"
       },
@@ -905,6 +1157,24 @@
       "duration_ms": 228750,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0YCqrDZxu92UqtkqCLLFvl"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/24qv6NAiCzGYCziUKLcCkD"
+      },
+      "artists": [
+        {
+          "name": "Karina Grant",
+          "url": "https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135049,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/1075EyJPJUVIfwUSF3gAkB"
     },
     {
       "album": {
@@ -1034,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/7x4hRr0XZ5nzLTC9ut29rt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Young",
+          "url": "https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207265,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/2XEYHbrPjycqUAeCvzuYoC"
+    },
+    {
+      "album": {
         "name": "Acoustic Covers, Vol. 1",
         "url": "https://open.spotify.com/album/0QfTHR4KvqlWXQAnpaSpqA"
       },
@@ -1067,6 +1355,24 @@
       "duration_ms": 206557,
       "name": "Life on Mars",
       "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153100,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4"
     },
     {
       "album": {
@@ -1142,6 +1448,42 @@
     },
     {
       "album": {
+        "name": "Man In The Mirror",
+        "url": "https://open.spotify.com/album/35lS2kcidLGiYuXx9L0s4D"
+      },
+      "artists": [
+        {
+          "name": "Beau Hayes",
+          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144825,
+      "name": "Man In The Mirror",
+      "url": "https://open.spotify.com/track/5ACFr3JkSBYEBu3H4XLW1S"
+    },
+    {
+      "album": {
+        "name": "Midnight Rain",
+        "url": "https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok"
+      },
+      "artists": [
+        {
+          "name": "Zion Houston",
+          "url": "https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s"
+    },
+    {
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE"
       },
@@ -1157,6 +1499,24 @@
       "duration_ms": 214340,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm"
+    },
+    {
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/6dNpdBtcDpYkF3rjMe3fx6"
+      },
+      "artists": [
+        {
+          "name": "River May",
+          "url": "https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119855,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4wye421ZuzNnDkriGPzp8j"
     },
     {
       "album": {
@@ -1193,6 +1553,42 @@
       "duration_ms": 207619,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/0rNgJ3RXJEQKJBCv3NPfdp"
+    },
+    {
+      "album": {
+        "name": "Over The Rainbow",
+        "url": "https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK"
+      },
+      "artists": [
+        {
+          "name": "Christian Lindquist",
+          "url": "https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/4FWCkMiJX3Layn0g8P743S"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6o5K74D9l5UhzsSNvNu1x1"
+      },
+      "artists": [
+        {
+          "name": "Ivy Parry",
+          "url": "https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136528,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU"
     },
     {
       "album": {
@@ -1250,6 +1646,24 @@
     },
     {
       "album": {
+        "name": "Running Up That Hill (A Deal With God)",
+        "url": "https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1AT0FoWtIgdfGTwBCeXIEt"
+    },
+    {
+      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/0zFFBkjNYzzO4Z04aRgMz0"
       },
@@ -1283,6 +1697,24 @@
       "duration_ms": 250226,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/4yLMaK0MaKuqLP34Gfc9ai"
+    },
+    {
+      "album": {
+        "name": "She's Always A Woman",
+        "url": "https://open.spotify.com/album/5bbrn4Oz8s3WnVTBQlA0jd"
+      },
+      "artists": [
+        {
+          "name": "K.C Brown",
+          "url": "https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119980,
+      "name": "She's Always A Woman",
+      "url": "https://open.spotify.com/track/7BMfH304KNJNGM5yHZXXEb"
     },
     {
       "album": {
@@ -1322,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "Snow On The Beach",
+        "url": "https://open.spotify.com/album/0kVPJ064l0EoD5U5XroBRD"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188954,
+      "name": "Snow On The Beach",
+      "url": "https://open.spotify.com/track/3g2mR39gD6HT8jM5igcTqS"
+    },
+    {
+      "album": {
         "name": "MAX Space",
         "url": "https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN"
       },
@@ -1337,6 +1787,24 @@
       "duration_ms": 249202,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill (A Deal With God)",
+        "url": "https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157891,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/6FPbcBmK0Je6EZvmXhHD5k"
     },
     {
       "album": {
@@ -1394,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3"
+      },
+      "artists": [
+        {
+          "name": "Lightstorm",
+          "url": "https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Still Crazy After All These Years",
+      "url": "https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV"
       },
@@ -1427,6 +1913,24 @@
       "duration_ms": 227250,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "album": {
+        "name": "Sweather Weather",
+        "url": "https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151207,
+      "name": "Sweather Weather",
+      "url": "https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll"
     },
     {
       "album": {
@@ -1502,6 +2006,24 @@
     },
     {
       "album": {
+        "name": "The Final Countdown",
+        "url": "https://open.spotify.com/album/6CZsSWxPeaBdG2TeBxEXot"
+      },
+      "artists": [
+        {
+          "name": "Mario Cabrera",
+          "url": "https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183438,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/5CsSyDSAi9aTszs4fv6O8U"
+    },
+    {
+      "album": {
         "name": "Acoustic Tribute to Ed Sheeran, Vol. 4 (Instrumental)",
         "url": "https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92"
       },
@@ -1520,6 +2042,24 @@
     },
     {
       "album": {
+        "name": "Sweather Weather",
+        "url": "https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187787,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/0G5GJAPyg9f1jEn2BYay1r"
+    },
+    {
+      "album": {
         "name": "The Times They Are a-Changin\u2019",
         "url": "https://open.spotify.com/album/7DGRIEOrMEK2ntOLJEQ6US"
       },
@@ -1535,6 +2075,42 @@
       "duration_ms": 142645,
       "name": "The Times They Are a-Changin\u2019",
       "url": "https://open.spotify.com/track/3Oj3qgVvYddVbPrNBDEWO3"
+    },
+    {
+      "album": {
+        "name": "Theme From Fame",
+        "url": "https://open.spotify.com/album/1SL6Hdtc3Qqtev8U8wxl8G"
+      },
+      "artists": [
+        {
+          "name": "Brett Williams",
+          "url": "https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188377,
+      "name": "Theme From Fame",
+      "url": "https://open.spotify.com/track/7cPAikRrGu1nu5vNHFHZda"
+    },
+    {
+      "album": {
+        "name": "Theme From Love Story",
+        "url": "https://open.spotify.com/album/6H2J0nVhDlwffDOzcID19m"
+      },
+      "artists": [
+        {
+          "name": "Daniel Murphy",
+          "url": "https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203745,
+      "name": "Theme From Love Story",
+      "url": "https://open.spotify.com/track/69u76zurQjRQHJT3RSqxqA"
     },
     {
       "album": {
@@ -1592,6 +2168,24 @@
     },
     {
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5Hms8V6dE7ugno8Di3yAzT"
+      },
+      "artists": [
+        {
+          "name": "Pablo & Pietro",
+          "url": "https://open.spotify.com/artist/7I0P5tFaSG1jsn51OAFZw6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162576,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7lys79KCKl7e7TMLrzVvk0"
+    },
+    {
+      "album": {
         "name": "Anna Kitkowska",
         "url": "https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z"
       },
@@ -1643,6 +2237,24 @@
       "duration_ms": 218117,
       "name": "True colors",
       "url": "https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0"
+    },
+    {
+      "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/7nop3KZ6kZTdPuSf9bdFKw"
+      },
+      "artists": [
+        {
+          "name": "Jimmie P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2YVeoYWJCapA1D4CFEr4Ff"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/0PygCKsVWFtKUQpOEXCgQs"
     },
     {
       "album": {
@@ -1758,6 +2370,42 @@
     },
     {
       "album": {
+        "name": "With Or Without You",
+        "url": "https://open.spotify.com/album/1wWl8scwb53GaRoWP3VcJY"
+      },
+      "artists": [
+        {
+          "name": "Caden Fox",
+          "url": "https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146989,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/2ac0pnj3XP6KrowEtfZxPw"
+    },
+    {
+      "album": {
+        "name": "With Or Without You",
+        "url": "https://open.spotify.com/album/0p50RucxIemuhz3QMihgLe"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161511,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/4NoPvl9MdygNwwtXwuzYkE"
+    },
+    {
+      "album": {
         "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8"
       },
@@ -1827,6 +2475,42 @@
       "duration_ms": 208587,
       "name": "You're Still the One",
       "url": "https://open.spotify.com/track/4jjYXGmKpL2izx6VJzJ0Ma"
+    },
+    {
+      "album": {
+        "name": "You're The Inspiration",
+        "url": "https://open.spotify.com/album/4PTyfdexQ5OAvTkdaE2jqU"
+      },
+      "artists": [
+        {
+          "name": "Abel Davies",
+          "url": "https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140643,
+      "name": "You're The Inspiration",
+      "url": "https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG"
+    },
+    {
+      "album": {
+        "name": "You're The Inspiration",
+        "url": "https://open.spotify.com/album/4UAcuTJDr9h36ufNW53Age"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256811,
+      "name": "You're The Inspiration",
+      "url": "https://open.spotify.com/track/0EzDeUITUHCBNdaYn8w90u"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 1195,
+  "num_followers": 1204,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGJiZDU2NzBjMTRiZGIyY2I2NzViZjUzOTM1OWFhNzQ3",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMDE2YTA1YjNmM2E4YzY3OTJjYjNkMmQwZmYyZTA3MTEz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Collection One",
+        "url": "https://open.spotify.com/album/6SInUyQqx0RZaVTSEioHkD"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3mRlFZHUyvJbPTlkzg4LyJ"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Survival Of The Fittest",
         "url": "https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 272346,
       "name": "Wipe Me Down (feat. Foxx, Webbie & Lil Boosie) - Remix",
       "url": "https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Collection One",
-        "url": "https://open.spotify.com/album/6SInUyQqx0RZaVTSEioHkD"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3mRlFZHUyvJbPTlkzg4LyJ"
     },
     {
       "added_at": "2022-10-01 16:09:56",

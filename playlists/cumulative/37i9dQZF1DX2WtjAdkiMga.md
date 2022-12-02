@@ -4,7 +4,7 @@
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-88 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+89 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2022-04-12 |  |
 | [In Her Eyes](https://open.spotify.com/track/0PjTLWBueZwMxxEnGl9WAc) | [Gilbert Cox](https://open.spotify.com/artist/5k72AHmEdjc1CkZXnjfk1k) | [In Her Eyes](https://open.spotify.com/album/0pt2ss1BhksqkmuK0yagok) | 2:30 | 2022-04-12 | 2022-05-11 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-04-12 | 2022-06-01 |
-| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr) | [Natalie Fall](https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/71HFzTLemAiujFpkRd6mxd) | 2:48 | 2022-06-01 |  |
+| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr) | [Natalie Fall](https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/71HFzTLemAiujFpkRd6mxd) | 2:48 | 2022-06-01 | 2022-12-02 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-04-12 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2022-04-12 |  |
 | [Jitterbug Waltz](https://open.spotify.com/track/466GOMGOnG9eld0Hx4JWKm) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Polkadots and Moonbeams](https://open.spotify.com/album/4Ui5vnomcfy5yjjhTLnTYa) | 2:35 | 2022-11-10 |  |
@@ -64,6 +64,7 @@
 | [Remembering Yesterday](https://open.spotify.com/track/2Zwb29cNNm14tWsiF3miBs) | [Roger Strauss](https://open.spotify.com/artist/2zvMk2zsPGcS2y7gKjmRn9) | [Remembering Yesterday](https://open.spotify.com/album/2VakgfW7V5sTcM4L4nOnxL) | 3:21 | 2022-04-12 |  |
 | [Sangfroid](https://open.spotify.com/track/24qMIt9iEQPSvhcIhHI21K) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:57 | 2022-06-29 | 2022-08-12 |
 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 | 2022-04-12 | 2022-07-29 |
+| [Skating in Central Park](https://open.spotify.com/track/2IEI5ZjAIWvxw3rSJYXFxC) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Skating in Central Park](https://open.spotify.com/album/0Xg1W14PbDaBMGZwdzqBvf) | 2:36 | 2022-12-01 |  |
 | [Skylark](https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:27 | 2022-05-24 |  |
 | [Sleep](https://open.spotify.com/track/1ioBY89B2OmRRO9sPrClGw) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 2:22 | 2022-04-12 | 2022-10-28 |
 | [Slow Beating](https://open.spotify.com/track/4s3QLbtj2wqWKd2FLwFt7z) | [Gabe Bacci](https://open.spotify.com/artist/5L3DHS5kxkPeyMqddjxsc7) | [Slow Beating](https://open.spotify.com/album/2YuV2c38SCT7oX7I8lVp6f) | 2:32 | 2022-10-06 |  |

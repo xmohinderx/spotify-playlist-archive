@@ -4,7 +4,7 @@
 
 > A playlist for your Arab hipster starter kit.
 
-110 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
+111 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/17ATh4UAh4fydqblUGTXv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,10 +109,11 @@
 | [Soul Brother](https://open.spotify.com/track/1F1LWifaWA9NU1wPZNwJhU) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother \(Habibi Funk 001\)](https://open.spotify.com/album/7wTjMhrmXcWkWKiIWB372u) | 3:41 | 2020-05-01 | 2022-11-20 |
 | [Soul Brother](https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother](https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize) | 3:41 | 2020-05-01 |  |
 | [Taban Ahwak](https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:31 | 2020-05-01 | 2022-11-20 |
+| [Taban Ahwak](https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs) | 6:31 | 2020-05-01 |  |
 | [Tamo Yamo](https://open.spotify.com/track/5Vk095GKFUAlvzHzuRuFZT) | [Dorid Laham](https://open.spotify.com/artist/6xklVu4FHzqP5pIRZZs1cz) | [Pebbles Vol\. 15, International Mash up Pt\. 1, Originals Artifacts from the Psychedelic Era](https://open.spotify.com/album/76PGoa6W3AK6OxqMzKZCS2) | 2:50 | 2020-05-01 | 2022-11-21 |
 | [Tareeq](https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tareeq](https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7) | 4:43 | 2020-05-01 |  |
 | [Tha'er](https://open.spotify.com/track/5Qh4ZFhFUrlC98WnzbwPkY) | [Al\-Bara'em](https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw) | [Tha'er](https://open.spotify.com/album/08RNlqgmrjK15Xdfn7AGGP) | 4:27 | 2020-05-01 |  |
-| [Warak Al Khareef](https://open.spotify.com/track/2YRdil5daXlDTDWsstccZ0) | [Bandaly Family](https://open.spotify.com/artist/0pl2pScrXq9IAKfh81Sb57) | [Autumn Leaves](https://open.spotify.com/album/3Bwo68vzk0SBDpRylt63KT) | 7:06 | 2020-05-01 |  |
+| [Warak Al Khareef](https://open.spotify.com/track/2YRdil5daXlDTDWsstccZ0) | [Bandaly Family](https://open.spotify.com/artist/0pl2pScrXq9IAKfh81Sb57) | [Autumn Leaves](https://open.spotify.com/album/3Bwo68vzk0SBDpRylt63KT) | 7:06 | 2020-05-01 | 2022-12-02 |
 | [Ya Galbi Laih](https://open.spotify.com/track/4MHkmCgmLXAisJKuvbXwE4) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 3:56 | 2020-05-01 |  |
 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 | 2020-05-01 |  |
 | [Yaelhajarok](https://open.spotify.com/track/25tvtMxmLBMEnqexZNkmN3) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [The Scorpios](https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4) | 4:25 | 2020-05-01 | 2022-11-25 |

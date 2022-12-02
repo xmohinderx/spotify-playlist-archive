@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,487 likes - 81 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,525 likes - 81 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 60 | [Convenções Humanas](https://open.spotify.com/track/08MJeBwFr7XF74jSHVTrZv) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Convenções Humanas](https://open.spotify.com/album/64dFOgBTk4vXAJbkb9O6gu) | 4:18 |
 | 61 | [Manhã](https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Manhã](https://open.spotify.com/album/3DMOTpo9bk0QInn7SJrdD8) | 4:02 |
 | 62 | [Vinheta do Amor](https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG), [Rana Tosto](https://open.spotify.com/artist/1dQSTjiVNpS0Jym4eR5oG8) | [Pequenos Grandes Universos](https://open.spotify.com/album/2y3nwaAILvIxnMzWviRjmG) | 2:39 |
-| 63 | [Pensar](https://open.spotify.com/track/6TWjpy8RzfZilYV0dCR5rO) | [Hate Moss](https://open.spotify.com/artist/70OdNVoUb2Pn8kG7gDDHGe), [Isis Broken](https://open.spotify.com/artist/5OSfbUnn2yTVhUR40msm1V) | [Nan](https://open.spotify.com/album/54VdaXTE0n0fGCKYQJHHNj) | 4:07 |
+| 63 | [Pensar](https://open.spotify.com/track/4F04JOfRhkhgcE3N15sJVg) | [Hate Moss](https://open.spotify.com/artist/70OdNVoUb2Pn8kG7gDDHGe), [Isis Broken](https://open.spotify.com/artist/5OSfbUnn2yTVhUR40msm1V) | [Nan](https://open.spotify.com/album/5esbqHVW5QpV2AHuUI2zjI) | 4:07 |
 | 64 | [Difícil](https://open.spotify.com/track/6ynlZyyVnqMZ8iD8G3ZjGX) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Difícil](https://open.spotify.com/album/5PnBdVhjBi6dfATnhLSnIa) | 3:06 |
 | 65 | [Devagar](https://open.spotify.com/track/7qUOCHvZ9cLi7u6lTFqLMg) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Devagar](https://open.spotify.com/album/5XlLrpsRkgC92wfn33kY5B) | 2:16 |
 | 66 | [Ela Tem Razão](https://open.spotify.com/track/07y63Bvc8jC9WNt7psG7K9) | [Taboo](https://open.spotify.com/artist/1qL8ZkjCQ1MPX0IsunOLC0) | [Taboo](https://open.spotify.com/album/0zngE17ncImExMEoivtMzr) | 2:51 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 80 | [Viver É Urgente](https://open.spotify.com/track/7jSV6Rj6qwfpWp6217Pesb) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD) | [Viver É Urgente](https://open.spotify.com/album/3hhCQrv2j5qGROGEFaP7Cf) | 3:18 |
 | 81 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 
-Snapshot ID: `MTY2OTY2MjA3NiwwMDAwMDAwMDQzMDE4ZTgzNGMyZmMyMDdlZTcyYjE4OWUxNmMzYjYw`
+Snapshot ID: `MTY2OTY2MjA3NiwwMDAwMDAwMGQ3ZTI4YjIzZDZiZTU4YWYzMDJjY2E1OWE1YmY1ZjI4`

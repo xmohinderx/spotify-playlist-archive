@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3982243,
+  "num_followers": 3982444,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY3OTA5MCwwMDAwMDAwMDE1ZDA4Y2VkZjk0Y2UwNWNmOGE1NzVjZmI0ZWFmMDI0",
+  "snapshot_id": "MTY2MzY3OTA5MCwwMDAwMDAwMGFhYmFkYjlmZTMzZDg1NzhlOTA0MDZlM2JmZTI4OWUy",
   "tracks": [
     {
       "added_at": "2022-09-06 16:36:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "Camilo",
-        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
-    },
-    {
-      "added_at": "2022-09-06 16:36:27",
-      "album": {
         "name": "La Correcta",
         "url": "https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 219198,
       "name": "La Correcta",
       "url": "https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq"
+    },
+    {
+      "added_at": "2022-09-06 16:36:27",
+      "album": {
+        "name": "Camilo",
+        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
     },
     {
       "added_at": "2022-09-06 16:36:27",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-09-06 16:36:27",
       "album": {
-        "name": "A Un Mil\u00edmetro De Ti Y Cada Vez M\u00e1s Cerca (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 229198,
-      "name": "A Un Mil\u00edmetro De Ti",
-      "url": "https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq"
-    },
-    {
-      "added_at": "2022-09-06 16:36:27",
-      "album": {
         "name": "Mil Ciudades",
         "url": "https://open.spotify.com/album/1SXUz690tncddHzbcj4wPT"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 225266,
       "name": "Por el Resto de Mi Vida",
       "url": "https://open.spotify.com/track/0gjhhuqKxswtR1KzYSpSfd"
+    },
+    {
+      "added_at": "2022-09-06 16:36:27",
+      "album": {
+        "name": "A Un Mil\u00edmetro De Ti Y Cada Vez M\u00e1s Cerca (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 229198,
+      "name": "A Un Mil\u00edmetro De Ti",
+      "url": "https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq"
     },
     {
       "added_at": "2022-09-06 16:36:27",

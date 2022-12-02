@@ -2334,6 +2334,24 @@
     },
     {
       "album": {
+        "name": "Hopeless Romance",
+        "url": "https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/0csxhAX6U3JRzU3WxEWTlv"
+        }
+      ],
+      "date_added": "2017-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236165,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T"
+    },
+    {
+      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J"
       },
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2017-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 236165,
       "name": "Princess",
       "url": "https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2"

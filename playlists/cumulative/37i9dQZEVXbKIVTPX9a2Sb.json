@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -3320,6 +3320,40 @@
     },
     {
       "album": {
+        "name": "CITYCENTRUM",
+        "url": "https://open.spotify.com/album/76qF1kFwA5BEyZkCiYPwp4"
+      },
+      "artists": [
+        {
+          "name": "GLXY",
+          "url": "https://open.spotify.com/artist/0opDz3bS1tE8rWULtZ4vBt"
+        },
+        {
+          "name": "Spaceboyi",
+          "url": "https://open.spotify.com/artist/1Ov1dfzQVsAPkuVt6sX5ss"
+        },
+        {
+          "name": "Xyno",
+          "url": "https://open.spotify.com/artist/7fYa89VxeYOBGbWA2ARTFJ"
+        },
+        {
+          "name": "Hrab\u010do",
+          "url": "https://open.spotify.com/artist/5dEq8F7g6cOisIC59a0UBp"
+        },
+        {
+          "name": "Brownio",
+          "url": "https://open.spotify.com/artist/0NFAok2gkyz1SGXhGtqZD2"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194370,
+      "name": "CITYCENTRUM",
+      "url": "https://open.spotify.com/track/3aOcgID93LzV8a3j8aBk75"
+    },
+    {
+      "album": {
         "name": "Modry album",
         "url": "https://open.spotify.com/album/5lzAvhShtMIPkJea7vEqAP"
       },
@@ -4587,7 +4621,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 154400,
       "name": "Dosta\u0165 z hlavy vol.2",
       "url": "https://open.spotify.com/track/7IvPEpQ8GVQw5Bvyj9bJet"
@@ -4609,7 +4643,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 222804,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/1I1mXACw55Ep9bQyfh4Jmp"
@@ -6251,7 +6285,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0"
@@ -7037,7 +7071,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 187012,
       "name": "Hore Dole",
       "url": "https://open.spotify.com/track/4oJ81DM4gfFeHhjG9bm5OO"
@@ -16489,7 +16523,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 131819,
       "name": "Standart",
       "url": "https://open.spotify.com/track/16NOqPyqpo5OU5xGRWmATs"
@@ -16991,7 +17025,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"

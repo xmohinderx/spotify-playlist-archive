@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,306 likes - 160 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,361 likes - 160 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Bugzy Malone & TeeDee",
+  "description": "The UK's biggest dance playlist! Cover: Romy",
   "name": "Massive Dance Hits",
   "published_playlist_ids": [
     "5fVCEeL6B4wf7pLEe8QzL4"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 192405,
       "name": "Chemical Embrace",
       "url": "https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R"
@@ -2782,6 +2782,24 @@
     },
     {
       "album": {
+        "name": "Hawt",
+        "url": "https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157836,
+      "name": "Hawt",
+      "url": "https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z"
+    },
+    {
+      "album": {
         "name": "He Goes Down",
         "url": "https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr"
       },
@@ -2885,7 +2903,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 172840,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7gfFqigmPAHrHt6c84b5cm"
@@ -6139,6 +6157,32 @@
       "duration_ms": 273997,
       "name": "SUMMER RENAISSANCE",
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
+    },
+    {
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Micky Modelle",
+          "url": "https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb"
+        },
+        {
+          "name": "Simone Denny",
+          "url": "https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222070,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP"
     },
     {
       "album": {

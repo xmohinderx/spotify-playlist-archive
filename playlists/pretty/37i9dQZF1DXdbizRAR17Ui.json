@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 147734,
+  "num_followers": 147771,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NDY5NiwwMDAwMDAwMGRjYmM2NzczNmUyZTg3N2E0NDM1MWE5ZTg2OGQ5YTNj",
+  "snapshot_id": "MTY2OTM5NDY5NiwwMDAwMDAwMDM5MTVlYWJmMDcwMzY4YzRiMzhjNjdlYTYxZjc3MWJj",
   "tracks": [
     {
       "added_at": "2022-11-25 16:43:58",
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/1U8C94ZJu6ZSBeTYMlWQ5i"
     },
     {
-      "added_at": "2022-12-01 01:47:05",
+      "added_at": "2022-12-02 01:44:07",
       "album": {
         "name": "MK 3.5: Die Cuts | City Planning",
         "url": "https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2"
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-11-25 16:43:58",
       "album": {
+        "name": "Kyle (i found you)",
+        "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Kyle (i found you)",
+      "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+    },
+    {
+      "added_at": "2022-11-25 16:43:58",
+      "album": {
         "name": "Moments (Ben B\u00f6hmer & Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/0BqyPWvPIl8nyAmSZhvUoc"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 250206,
       "name": "Moments - Ben B\u00f6hmer & Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/3RF7yizTDynqcKO9EmypOy"
-    },
-    {
-      "added_at": "2022-11-25 16:43:58",
-      "album": {
-        "name": "Ugh",
-        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Half Full",
-      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
     }
   ],
   "unique_name": "4AM Chillout",

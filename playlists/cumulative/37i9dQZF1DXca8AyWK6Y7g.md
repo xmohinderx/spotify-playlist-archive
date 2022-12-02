@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-1,417 songs - 3 day 0 hr 35 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,418 songs - 3 day 0 hr 38 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Getting Used To](https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Getting Used To](https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg) | 2:51 | 2022-05-06 | 2022-05-08 |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2022-10-07 |  |
 | [Ghost On The Mend](https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Ghost On The Mend](https://open.spotify.com/album/0o0Lfrkk55AJ8bU1t2zTsH) | 2:39 | 2021-10-11 | 2021-10-12 |
+| [Gimme](https://open.spotify.com/track/6mFOjnwU4Naf5dphwwhbqx) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Gimme](https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO) | 3:05 | 2022-11-25 |  |
 | [Girl](https://open.spotify.com/track/69kAcS8DhobvRRPnqosUIC) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Girl](https://open.spotify.com/album/0vtO2fobzGsMZ8F7XrR4vL) | 3:09 | 2019-12-08 | 2020-04-14 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 |  |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-25 |
@@ -647,7 +648,7 @@
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2019-06-15 |
 | [Illusion](https://open.spotify.com/track/53I38TLjBU1cHfXsBGxh6M) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Illusion](https://open.spotify.com/album/5eTmHILPX2VUkrRSbhqMlk) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 | 2022-08-17 |
-| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 |  |
+| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-12-02 |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-05-22 | 2022-03-26 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-20 | 2022-06-06 |
 | [Indecision](https://open.spotify.com/track/0lWGZP8adQnEeLFdvYlL2P) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Indecision](https://open.spotify.com/album/0ZyxNEjTLCcE2bk1PpNpP9) | 2:31 | 2020-09-25 | 2021-01-15 |

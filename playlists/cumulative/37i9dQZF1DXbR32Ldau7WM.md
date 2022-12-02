@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Keisuke Kuwata\(桑田佳祐\)
 
-422 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+424 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Tiny World](https://open.spotify.com/track/6HO985R66EUQniAD1x9XLw) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Tiny World](https://open.spotify.com/album/1FiKy2LLk2fQTecXtXS1nK) | 4:12 | 2022-05-10 | 2022-07-19 |
 | [TOKYO SUNSET](https://open.spotify.com/track/3uyxqhX9aZWs8uxBF6nPRL) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [TOKYO SUNSET](https://open.spotify.com/album/5gqwQgJgK44GAYLuiIez8T) | 4:06 | 2022-05-22 | 2022-06-21 |
 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 | 2022-11-08 | 2022-11-16 |
-| [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 |  |
+| [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2022-12-02 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 | 2022-08-02 | 2022-10-14 |
 | [Tsuubee Koobee](https://open.spotify.com/track/7IYn5ahor1DF8VGGiags5N) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [Tsuubee Koobee](https://open.spotify.com/album/060jpYuWAErb2W5tBmtn0I) | 3:31 | 2022-10-18 | 2022-11-09 |
@@ -263,6 +263,7 @@
 | [Weekend](https://open.spotify.com/track/2FWDTbucnvUDT2pv3HR5Jl) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [Weekend](https://open.spotify.com/album/1K5jez1Rj40wTRegT4BK15) | 3:55 | 2022-06-21 | 2022-07-14 |
 | [Wife](https://open.spotify.com/track/6sj4L1gpMd3KJTczI9H8N6) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [Wife](https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD) | 4:28 | 2022-07-19 | 2022-08-04 |
 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 | 2022-05-10 | 2022-10-04 |
+| [You Are My Best](https://open.spotify.com/track/1S8HitXF4ktuZBBgHeNPOB) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Highway X](https://open.spotify.com/album/2kTIyxhz1aGAdKOo8kX4OR) | 4:15 | 2022-12-01 |  |
 | [You Don't Want It](https://open.spotify.com/track/4gDEtqXDYOQTXCe8KAj91c) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [KNO WHERE](https://open.spotify.com/album/4QJ6SkhX8oPhsrkYkaybVm) | 3:52 | 2022-05-10 | 2022-07-28 |
 | [You To You](https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt), [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [You To You](https://open.spotify.com/album/0Uyi2JOBe0wmMPZbF16P2L) | 4:01 | 2022-05-10 | 2022-09-21 |
 | [Young Japanese](https://open.spotify.com/track/7Dko3seRRMWbzZdO0mjUb5) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [KNO WHERE](https://open.spotify.com/album/4QJ6SkhX8oPhsrkYkaybVm) | 4:34 | 2022-05-12 | 2022-06-04 |
@@ -357,7 +358,7 @@
 | [勃](https://open.spotify.com/track/3X5FxxEUNq1tExNUZXgcEc) | [ENDRECHERI](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [勃](https://open.spotify.com/album/2nmxQfw5q7YIZ7EHsb2bwQ) | 3:22 | 2022-05-22 | 2022-06-09 |
 | [北極星のメロディー](https://open.spotify.com/track/1no67Xem769Zp65uuD3D8z) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [北極星のメロディー](https://open.spotify.com/album/4ei1drG1Zg6yhDwRlGwwPZ) | 4:28 | 2022-05-24 | 2022-06-17 |
 | [十匹の熊 \- ZERO TAKES Ver.](https://open.spotify.com/track/5FDAp7KH8l9CYlpD7gImdm) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [ZERO TAKES](https://open.spotify.com/album/64oIZKL8yH08Uh11YD5DJM) | 3:29 | 2022-05-19 | 2022-07-29 |
-| [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 | 2022-05-19 |  |
+| [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 | 2022-05-19 | 2022-12-02 |
 | [君と僕のメロディ](https://open.spotify.com/track/1spkMgFPcWxnUzrILP5FWC) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3XyMTPPidPjGUoINx4Yenc) | 6:04 | 2022-05-12 | 2022-06-05 |
 | [坂道を上って](https://open.spotify.com/track/3XilAwFIiV2u3lA58K3xSS) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:54 | 2022-06-14 | 2022-06-22 |
 | [変体](https://open.spotify.com/track/2yRDyJLy07yT2pklodDix4) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [変体](https://open.spotify.com/album/7ERWmTKxheW6FGivVzp0o2) | 3:32 | 2022-09-13 | 2022-09-28 |
@@ -414,6 +415,7 @@
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-10 |  |
 | [秘密 \- band arrange](https://open.spotify.com/track/4doFF3dxn4Xrw3pSOQpD2i) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [秘密 \(band arrange\) / boys & girls \(band arrange\)](https://open.spotify.com/album/2AhF44xKGvyMj7ap14lDfF) | 4:52 | 2022-10-29 | 2022-11-02 |
 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 | 2022-05-10 | 2022-11-23 |
+| [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-12-01 |  |
 | [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 | 2022-11-20 |
 | [群青](https://open.spotify.com/track/06x5F8O4ZqSTgdo9EqiE3T) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [七色とかげ](https://open.spotify.com/album/38PMNzLOxdREwrxOS87crH) | 3:34 | 2022-05-10 | 2022-05-24 |
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 | 2022-09-13 |

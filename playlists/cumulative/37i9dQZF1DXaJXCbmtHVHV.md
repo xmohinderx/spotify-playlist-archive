@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Lainey Wilson
+> Top country hits you know and love! Cover: Bailey Zimmerman
 
 175 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-271 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
+272 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/1jmDVl99lY2U7kbnO53Sgs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Life](https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Life](https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b) | 2:50 | 2022-09-15 |  |
 | [Life So Bright](https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Life So Bright EP](https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo) | 5:06 | 2022-10-27 |  |
 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 | 2022-04-20 |  |
+| [Like I Used To](https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Like I Used To](https://open.spotify.com/album/6rEWmgcCkLgFmfdh0gJt1M) | 2:58 | 2022-12-01 |  |
 | [Like It Is \- Mixed](https://open.spotify.com/track/5ReLOUboXvaOVariwEJnl3) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Defected In The House Radio Show Episode 041 \(hosted by Sam Divine\)](https://open.spotify.com/album/21vNE48kEQUwOIDNfG8Ihm) | 4:22 | 2022-04-14 |  |
 | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/track/3XnvNOjFKyFyNvxlXy1DXm) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/album/2st44QXoemztnPKY99Yalg) | 3:25 | 2022-04-14 | 2022-10-14 |
 | [Look Up At The Sky](https://open.spotify.com/track/3Ts73V8SnaXIcnLAxwt41W) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Rhythm Sister \- EP](https://open.spotify.com/album/2DOdjtWqm3AqAHvedMmCRr) | 3:30 | 2022-04-14 | 2022-07-29 |
@@ -223,7 +224,7 @@
 | [Speed Up \- Menesix Remix](https://open.spotify.com/track/0DBnkbWalfo6TNjRcll0ui) | [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Speed Up \(Italobros & Menesix Remixes\)](https://open.spotify.com/album/2VpqHTQo5AC1y6nUrmp9FH) | 4:07 | 2022-04-14 | 2022-07-28 |
 | [Spells Of Yoruba \- Jamie Jones Watertight Mix](https://open.spotify.com/track/6OEVWRWJ0ZkGFOFSp3cNOR) | [Gel Abril](https://open.spotify.com/artist/3HH7PmnlxHcPClsKBuARwv) | [Defected In The House Radio Show: Episode 011 \(hosted by Sonny Fodera\)](https://open.spotify.com/album/2P9cJvQAgg0mHUz7wyCjjc) | 2:58 | 2022-04-20 | 2022-07-21 |
 | [Spirit of House](https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Spirit of House](https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ) | 3:11 | 2022-04-14 |  |
-| [Spiritual Thing](https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [PvssyCat](https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Spiritual Thing](https://open.spotify.com/album/02czhiYrZJ3tSJDQUCllv1) | 3:38 | 2022-04-14 |  |
+| [Spiritual Thing](https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [PvssyCat](https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Spiritual Thing](https://open.spotify.com/album/02czhiYrZJ3tSJDQUCllv1) | 3:38 | 2022-04-14 | 2022-12-02 |
 | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R) | [S.A.M.](https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O), [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS) | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod) | 2:55 | 2022-04-14 |  |
 | [Stand By Me](https://open.spotify.com/track/1WIn9N73chZCDGJ0PxthIj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Stand By Me](https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu) | 2:54 | 2022-10-21 |  |
 | [Starry Night \- Original Mix](https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM) | 6:38 | 2022-04-14 |  |

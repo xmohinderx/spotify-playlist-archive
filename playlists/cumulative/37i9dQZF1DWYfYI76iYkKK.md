@@ -4,11 +4,11 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-172 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+175 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [21](https://open.spotify.com/track/3CbgBkck65J7xkXsX2LQmA) | [張仁與](https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4) | [人之間](https://open.spotify.com/album/17HH0EZyTjVYLRQBVbsnOB) | 2:36 | 2022-11-17 |  |
+| [21](https://open.spotify.com/track/3CbgBkck65J7xkXsX2LQmA) | [張仁與](https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4) | [人之間](https://open.spotify.com/album/17HH0EZyTjVYLRQBVbsnOB) | 2:36 | 2022-11-17 | 2022-12-02 |
 | [525 我愛我](https://open.spotify.com/track/6BaU3Y0Nj2iKFibce2iZB8) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [525 我愛我](https://open.spotify.com/album/6tViJlPYLJ9rEgeCDN0mb4) | 3:33 | 2022-06-10 | 2022-06-17 |
 | [Alone](https://open.spotify.com/track/0ttyX0bEgm5j8SZZpNJnLG) | [嘉瀅](https://open.spotify.com/artist/6eQpSg7pzvNrW3Cz1nAZKZ) | [Alone](https://open.spotify.com/album/5XI8QrO6CatDfP80ColUlg) | 3:24 | 2022-06-30 | 2022-07-07 |
 | [Dying In The Sun](https://open.spotify.com/track/60HzoRhVNP9mPVnwebBIE9) | [陳一發兒](https://open.spotify.com/artist/10xtjTRMlKZ7aFx6VBQlSj) | [Dying In The Sun](https://open.spotify.com/album/5YRyPRXgNDJVpilQYmgy0F) | 3:31 | 2022-06-10 | 2022-06-15 |
@@ -30,10 +30,11 @@
 | [Remember \- 電影《跟你老婆去旅行》插曲](https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Remember \(電影《跟你老婆去旅行》插曲\)](https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW) | 3:13 | 2022-06-02 |  |
 | [Room Lights](https://open.spotify.com/track/3ijhojRPDW6JMuUrsWy7Jf) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Room Lights](https://open.spotify.com/album/6iCeV2G9w63xGB0k365xGg) | 3:32 | 2022-06-16 | 2022-06-23 |
 | [Tattoo \- "REBORN" Movie Ending Song](https://open.spotify.com/track/0H7sm4ptv8fFTkbHDRZoP1) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [Tattoos \("Reborn" Movie Ending Song\)](https://open.spotify.com/album/7DWUnMnAtkQaU5vYRtE7Gr) | 4:29 | 2022-06-30 | 2022-07-27 |
+| [Thank You \(Acoustic Version\)](https://open.spotify.com/track/0V75pOC9kDcSy94Ch3ChQ0) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Thank You \(Acoustic Version\)](https://open.spotify.com/album/4BK2pzxYpwVqeuGosGCHBf) | 3:49 | 2022-12-01 |  |
 | [The Joy of Sorrow](https://open.spotify.com/track/0nKYNPW9tiUDRdGyf4CfOn) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [The Joy of Sorrow](https://open.spotify.com/album/5uhdRrxgzqO1UXrszdnYiB) | 3:27 | 2022-06-02 | 2022-07-29 |
 | [The Joy Of Sorrow](https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [The Joy Of Sorrow](https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9) | 3:27 | 2022-07-28 |  |
 | [Twisted](https://open.spotify.com/track/3Qg03Ze6ifmmAGznwr1Xm5) | [Electrico](https://open.spotify.com/artist/4DxELhGCnHXSqYwq6fbcmv) | [Twisted](https://open.spotify.com/album/6T13N7kZpv449TROnEk40y) | 3:17 | 2022-06-16 | 2022-06-23 |
-| [Wendy](https://open.spotify.com/track/3bUkwiKvAcajKu34YD3xA2) | [Zheng Jianxing](https://open.spotify.com/artist/7i9rpL6vAfqTh1nyVN2t35) | [Wendy](https://open.spotify.com/album/5fcK9S9J1KSMaVqPQrKfoN) | 4:02 | 2022-11-17 |  |
+| [Wendy](https://open.spotify.com/track/3bUkwiKvAcajKu34YD3xA2) | [Zheng Jianxing](https://open.spotify.com/artist/7i9rpL6vAfqTh1nyVN2t35) | [Wendy](https://open.spotify.com/album/5fcK9S9J1KSMaVqPQrKfoN) | 4:02 | 2022-11-17 | 2022-12-02 |
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 | 2022-10-11 |
@@ -99,6 +100,7 @@
 | [愛是](https://open.spotify.com/track/6zj8RUbkn76M5wFiVzOfrZ) | [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [愛是](https://open.spotify.com/album/6RRhzPs3LypG2UscfMvh3n) | 4:37 | 2022-09-15 | 2022-09-23 |
 | [愛是](https://open.spotify.com/track/0jGx2NNvDFIRevbPHJtnsT) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF) | [愛是](https://open.spotify.com/album/3y2dPRpW7goQj1CrYyAX5n) | 3:28 | 2022-06-02 | 2022-07-28 |
 | [愛過的人](https://open.spotify.com/track/7EIYJLVmsUmmbq40SugYsk) | [Kevin Wu](https://open.spotify.com/artist/4ndcN72ebPeky0dedtouTy) | [愛過的人](https://open.spotify.com/album/2HlKUwFGOLebR71L1CIcg3) | 5:25 | 2022-06-02 | 2022-10-06 |
+| [慢游](https://open.spotify.com/track/552yML9hhVhJaWDsd1iKeK) | [房东的猫](https://open.spotify.com/artist/2yna2YeKL1Mh1w6VZVBcOz) | [慢游](https://open.spotify.com/album/7m7tn8hXQNmQpOgIRKxqcb) | 4:33 | 2022-12-01 |  |
 | [慷慨](https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [慷慨](https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg) | 4:34 | 2022-07-28 | 2022-10-28 |
 | [懸日](https://open.spotify.com/track/5F4yb5DOs3aJmDzcTvs5er) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [懸日](https://open.spotify.com/album/69yh3ccp7kWnEFQRyY0n4e) | 4:31 | 2022-06-02 | 2022-07-29 |
 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 | 2022-07-28 |  |
@@ -136,7 +138,8 @@
 | [毫無疑問我的生活是一句謊言](https://open.spotify.com/track/0mE6uUbyfNSItWIm2sZ62u) | [Seven Qi](https://open.spotify.com/artist/1yT2iH2SiZikkUAgTBwEIb) | [毫無疑問我的生活是一句謊言](https://open.spotify.com/album/6kircK9nnmy6fNXSNjJIs6) | 4:40 | 2022-11-08 | 2022-11-11 |
 | [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-07-15 | 2022-07-29 |
 | [海枯石爛](https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [Romance](https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4) | 3:52 | 2022-06-02 | 2022-07-29 |
-| [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-07-28 |  |
+| [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-07-28 | 2022-12-02 |
+| [無意 \- Live Session](https://open.spotify.com/track/0EjyhLHd0ajxqaQAPiQKO1) | [So\-So Heroes 瘦瘦英雄](https://open.spotify.com/artist/2N9RYbFNaumoJTEw67qsBt) | [無意 \(Live Session\)](https://open.spotify.com/album/7geWheVQ57ZQ6xZaV9yk0b) | 4:12 | 2022-12-01 |  |
 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 | 2022-06-02 |  |
 | [當我們同在一起](https://open.spotify.com/track/0fUDUbQDkDfglxk5uPYXWq) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [當我們同在一起](https://open.spotify.com/album/1zjX6WGhNd6Pa32us6hqOK) | 3:38 | 2022-10-17 | 2022-10-25 |
 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 | 2022-07-28 | 2022-11-04 |

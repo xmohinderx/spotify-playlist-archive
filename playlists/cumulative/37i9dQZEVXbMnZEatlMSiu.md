@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-524 songs - 1 day 8 hr 0 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+525 songs - 1 day 8 hr 4 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [浪費時間](https://open.spotify.com/track/4vSEkALKd7ksHwphWg3oNS) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [浪費時間](https://open.spotify.com/album/3CSze05DeS7ElFA5ppOcNP) | 3:05 | 2022-01-05 | 2022-01-07 |
 | [满天星辰不及你](https://open.spotify.com/track/09io3vVKFutG8rzdjjQYfM) | [yccc](https://open.spotify.com/artist/688ekAE2qdQA7jJbmqcXGL) | [满天星辰不及你](https://open.spotify.com/album/6AvfkqnDNGX27Lz7C02mIt) | 3:36 | 2022-11-05 | 2022-11-22 |
 | [炙愛 \- 女聲版](https://open.spotify.com/track/3CEkc8f1UDvI7kohz3ARpA) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Am I Who I Am](https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1) | 3:01 | 2021-03-27\* |  |
+| [烏梅子醬](https://open.spotify.com/track/7gxBUjMQY9iAozVktMKEp7) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [烏梅子醬](https://open.spotify.com/album/14M5K4fg1N4pAXtFPb6ZtN) | 4:17 | 2022-12-01 |  |
 | [热爱105°C的你](https://open.spotify.com/track/2tjM7VFWtUzW5udmoGftM1) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/4XktKsPVpaOckY0CenAJRZ) | 3:15 | 2021-06-20 | 2021-07-17 |
 | [热爱105°C的你 \(治愈女生版\)](https://open.spotify.com/track/6KB7K6OvTRdsTjROP84kLl) | [予笙](https://open.spotify.com/artist/5He0XzfmMAeiOLlWAdwgK2) | [热爱105°C的你 \(治愈女生版\)](https://open.spotify.com/album/6L7247JcYs2gUmuX2AJsIE) | 3:15 | 2021-07-30 | 2021-09-24 |
 | [热爱105°C的你 \- 治愈女生版](https://open.spotify.com/track/5vU2IHP6aWCBWhzr8gyQHC) | [予笙](https://open.spotify.com/artist/5He0XzfmMAeiOLlWAdwgK2) | [热爱105°C的你 \(治愈女生版\)](https://open.spotify.com/album/6ppflIt4Gba9qLHA9PYc0H) | 3:15 | 2021-07-17 | 2021-07-30 |
@@ -483,7 +484,7 @@
 | [縱橫四海](https://open.spotify.com/track/46ALtWhiHtNpJVrr3pfcut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/3J7Fpv3maowZeSOcX3ZLju) | 4:01 | 2021-07-23 | 2021-08-12 |
 | [繞 \- 原創影集《火神的眼淚》片尾曲](https://open.spotify.com/track/2XyCniKJUGKglRg01aehRn) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [繞 \(原創影集《火神的眼淚》片尾曲\)](https://open.spotify.com/album/33PYcY5m2zHwJ32YtMYRQp) | 4:27 | 2021-05-27 | 2021-06-19 |
 | [續寫 \- 電視劇《一生一世》主題曲](https://open.spotify.com/track/3eiSB7mTeNI49OAs7I8u39) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [續寫 \(電視劇《一生一世》主題曲\)](https://open.spotify.com/album/5KkkO7JNoXMQdoNLn8wAEy) | 3:48 | 2021-09-30 | 2021-10-08 |
-| [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 |  |
+| [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 | 2022-12-02 |
 | [能火](https://open.spotify.com/track/0edXRhdQfF6YY9f7ZGZITt) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [PRO](https://open.spotify.com/album/34T8LkJ3sKBl1cVXGM6W2k) | 3:42 | 2022-05-12 | 2022-05-28 |
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-03-18 | 2022-04-06 |
 | [與我無關](https://open.spotify.com/track/2qlUhwv6Hqx5ZZHCucRlGF) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [與我無關](https://open.spotify.com/album/2nVfpyVu94tgwFT9XX7ufJ) | 4:00 | 2021-07-22 | 2022-07-02 |

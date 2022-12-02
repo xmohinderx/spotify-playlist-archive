@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 99232,
+  "num_followers": 99275,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDEzZDEzMjAyZjkxMzdmYWY1ODU1YTFhZTRlMjQ3YTQ0",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDAyYWQ5OTc3MjUzOWEzODU1ODlkNzczMzlhMWIxZmVi",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -435,26 +435,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Big Town Playboy",
-        "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
-      },
-      "artists": [
-        {
-          "name": "Omar Kent Dykes",
-          "url": "https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF"
-        },
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Since I Met You Baby",
-      "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
         "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Big Town Playboy",
+        "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
+      },
+      "artists": [
+        {
+          "name": "Omar Kent Dykes",
+          "url": "https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF"
+        },
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Since I Met You Baby",
+      "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
     },
     {
       "added_at": "2018-02-27 16:43:49",

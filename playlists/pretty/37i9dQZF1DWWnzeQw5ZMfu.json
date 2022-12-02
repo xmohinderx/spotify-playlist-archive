@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 45086,
+  "num_followers": 45133,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MzcxMCwwMDAwMDAwMDM4NDMzMmU2NWJhMDZhMzQ0ZTliMWJjY2VhMjc1ZDY2",
+  "snapshot_id": "MTY2ODE3MzcxMCwwMDAwMDAwMDdmMmRmYTdiN2EyZGIxZDkxMDY3MjJlOTljMzg1MDVi",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Imagine Dragons (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 212810,
+      "name": "Shots - Live From Spotify London",
+      "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Imagine Dragons (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 212810,
-      "name": "Shots - Live From Spotify London",
-      "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+        "name": "MTV Unplugged EP",
+        "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 298051,
-      "name": "Praying For Time - Live",
-      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
+      "duration_ms": 239733,
+      "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
+      "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
-        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 337920,
-      "name": "It Must Have Been Love - Live from Santiago 2012",
-      "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
+      "duration_ms": 298051,
+      "name": "Praying For Time - Live",
+      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "MTV Unplugged EP",
-        "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
+        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
+        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 239733,
-      "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
-      "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
+      "duration_ms": 337920,
+      "name": "It Must Have Been Love - Live from Santiago 2012",
+      "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
-        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 250586,
-      "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
-      "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Farewell: Live in Concert at Sydney Opera House",
         "url": "https://open.spotify.com/album/2ROL02gUpj3nTbB6CCuEz3"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 245944,
       "name": "Stars - Live at Sydney Opera House",
       "url": "https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
+        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 250586,
+      "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
+      "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Havana (Live)",
-        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 248572,
-      "name": "Havana - Live",
-      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Alicia Keys - VH1 Storytellers",
         "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 258040,
       "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
       "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Havana (Live)",
+        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 248572,
+      "name": "Havana - Live",
+      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
-        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 345666,
-      "name": "Listen to Your Heart - Live from Santiago 2012",
-      "url": "https://open.spotify.com/track/0QrQYEtKj6R5xknD8Rw3TO"
+      "duration_ms": 225047,
+      "name": "Before You Go - Live from Brixton Academy, London, 2019",
+      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
+        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 225047,
-      "name": "Before You Go - Live from Brixton Academy, London, 2019",
-      "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
+      "duration_ms": 345666,
+      "name": "Listen to Your Heart - Live from Santiago 2012",
+      "url": "https://open.spotify.com/track/0QrQYEtKj6R5xknD8Rw3TO"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Lemon Tree - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live in Dortmund",
         "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "All of Me (Live)",
-        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
+        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
         }
       ],
-      "duration_ms": 299666,
-      "name": "All of Me - Live",
-      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
+      "duration_ms": 321453,
+      "name": "Lemon Tree - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
-        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+        "name": "All of Me (Live)",
+        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 240165,
-      "name": "I Won't Let You Go - Live At The Hospital Club",
-      "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
+      "duration_ms": 299666,
+      "name": "All of Me - Live",
+      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1523,6 +1507,22 @@
       "duration_ms": 248394,
       "name": "The A Team - Live and in Session",
       "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
+        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Let You Go - Live At The Hospital Club",
+      "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live: Sacred & Profane",
-        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Take My Breath Away - Live",
-      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+        "name": "Live: Sacred & Profane",
+        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
         }
       ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
+      "duration_ms": 367493,
+      "name": "Take My Breath Away - Live",
+      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1619,6 +1603,22 @@
       "duration_ms": 262533,
       "name": "Maps - Live In Manchester",
       "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2022-08-09 09:45:24",

@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\. Cover Bree Runway
 
-129 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
+130 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3rNvhNKvTStRZWbyFQOYN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 | 2022-02-11 |  |
 | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/track/4G9ASa9c5scdal2puHntMR) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/album/2R7eCne1bINTDfQpaQ0h8h) | 2:42 | 2022-02-18 | 2022-02-26 |
 | [Really, Really](https://open.spotify.com/track/4vvdcQqgTUbKOdp7j4s3pg) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:26 | 2022-02-04 | 2022-11-14 |
-| [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 | 2022-04-22 |  |
+| [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 | 2022-04-22 | 2022-12-02 |
+| [Really, Really](https://open.spotify.com/track/6Ry2hRnTNSQDGuYCzeYvmx) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/6MNtr5YaBrg7Qw2gIFXYBN) | 2:26 | 2022-04-22 |  |
 | [Reason](https://open.spotify.com/track/1d2h4OAWkccvBIqg4srYC3) | [Ro Joaquim](https://open.spotify.com/artist/0IQocR32Nu6gtkWFgPpXWP) | [Reason](https://open.spotify.com/album/5LI59JhpAWPJjf8p0sDyuA) | 3:08 | 2022-03-04 |  |
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2022-02-04 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-02-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,161 likes - 271 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,169 likes - 271 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 109 | [Egyensúly](https://open.spotify.com/track/4gH0O4JlIMyvHHYqJ3hJXG) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Egyensúly](https://open.spotify.com/album/6LQGKx0QSk59TZGBDlvtVl) | 3:30 |
 | 110 | [Perfection](https://open.spotify.com/track/1b6zd9iiSYGSCz5tYW14l6) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Perfection](https://open.spotify.com/album/25nMYJeMnGslko2C1Id5ps) | 2:54 |
 | 111 | [Majestic Infinity](https://open.spotify.com/track/4jCPLC0nAElqDXuo7EghO0) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [Majestic Infinity](https://open.spotify.com/album/6m6H3BUV2lxVtSkTISFa0c) | 3:24 |
-| 112 | [The Search](https://open.spotify.com/track/0peigjQiQdgHe2JvdfMxSJ) | [The Late Hours Preludes](https://open.spotify.com/artist/7yd8Z9nwt2rutYi50mTPai) | [Small Steps](https://open.spotify.com/album/2m6MYnrmMXSd78Knb0AWjq) | 2:48 |
+| 112 | [The Search](https://open.spotify.com/track/0peigjQiQdgHe2JvdfMxSJ) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Small Steps](https://open.spotify.com/album/2m6MYnrmMXSd78Knb0AWjq) | 2:48 |
 | 113 | [Upon a Painted Ocean](https://open.spotify.com/track/3Iv7EalVhriKHE8uHVJmsS) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:53 |
 | 114 | [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 |
 | 115 | [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 |
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 137 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 |
 | 138 | [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 |
 | 139 | [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 |
-| 140 | [The Past](https://open.spotify.com/track/15B4vpyU0vdxV1dpMD4kbA) | [Mio Hema](https://open.spotify.com/artist/3Jg6vz9veh8swiA7eGEsyF) | [The Past](https://open.spotify.com/album/7k6YxHS3Dz1zgjo35QR8ay) | 2:56 |
+| 140 | [The Past](https://open.spotify.com/track/15B4vpyU0vdxV1dpMD4kbA) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [The Past](https://open.spotify.com/album/7k6YxHS3Dz1zgjo35QR8ay) | 2:56 |
 | 141 | [Un Lugar Tranquilo](https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY) | [Micaela De León](https://open.spotify.com/artist/501O6IotIJIxYTcT7TXzNc) | [Un Lugar Tranquilo](https://open.spotify.com/album/6PxtxECBTrXamiB9EYO9IH) | 3:02 |
 | 142 | [Miuys](https://open.spotify.com/track/6gM3YgCJV3tBzbnYG2ydge) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Miuys](https://open.spotify.com/album/1yoIxMWtpZxCUrFysAZ1Ll) | 3:00 |
 | 143 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 |
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 148 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 |
 | 149 | [Waves On Oceans](https://open.spotify.com/track/48WBjD33PzKd71iTwKBliv) | [microcontroller](https://open.spotify.com/artist/3ZpC5c4A8Lji21NCMBaW6D) | [Waves On Oceans](https://open.spotify.com/album/2oDTf4SKqhoxyedGs9jVwe) | 3:22 |
 | 150 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 |
-| 151 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
+| 151 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
 | 152 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Idamal](https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 |
 | 153 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 |
 | 154 | [High Flyer](https://open.spotify.com/track/4ofswta82cpa2mJv6jrpyb) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [High Flyer](https://open.spotify.com/album/5PYv6xEDp6z2VsfuNlTXGT) | 3:07 |
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 157 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 |
 | 158 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 |
 | 159 | [Somnolente](https://open.spotify.com/track/3jnupMmEH5htGamP01T0PB) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Somnolente](https://open.spotify.com/album/0gsvnIxyfAJl24pFzFrBtj) | 2:49 |
-| 160 | [Memoirs](https://open.spotify.com/track/36Z3iyI0tvkdGq0iW0NFis) | [Idi Hed](https://open.spotify.com/artist/42nj44gcAUkhxRFdde0Grx) | [Memoirs](https://open.spotify.com/album/3MWO8fmjTgGp4Uv2Kh6myK) | 2:50 |
+| 160 | [Memoirs](https://open.spotify.com/track/36Z3iyI0tvkdGq0iW0NFis) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [Memoirs](https://open.spotify.com/album/3MWO8fmjTgGp4Uv2Kh6myK) | 2:50 |
 | 161 | [Eleni](https://open.spotify.com/track/62FsGEI77Ot7VXNcA2ReHz) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Eleni](https://open.spotify.com/album/52qI0dktuJ4W5s08Yilflu) | 2:21 |
 | 162 | [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 |
 | 163 | [Half Asleep](https://open.spotify.com/track/5GF4ClkgOnE6dXg4K4Bzc8) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Half Asleep](https://open.spotify.com/album/1fzV2qfJyZOfXkBlvGsaDe) | 2:28 |
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 208 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 |
 | 209 | [Trøst](https://open.spotify.com/track/7hGSRZJoxgma7KKZS1h4oq) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Trøst](https://open.spotify.com/album/1nC4PKrObPkSJYg7RyTgEn) | 2:23 |
 | 210 | [A Magic Forest](https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [A Magic Forest](https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu) | 3:05 |
-| 211 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
-| 212 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Aulin Heras](https://open.spotify.com/artist/5IoiWICcLlfWh4K4VBQcDu) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
+| 211 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 |
+| 212 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
 | 213 | [Alternatives](https://open.spotify.com/track/4Ztau0Zq5wxFdqumGyIp9c) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 3:05 |
 | 214 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 |
 | 215 | [Nightrain](https://open.spotify.com/track/3qNtyx6HFRRFsj4wF5vslr) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Fauna](https://open.spotify.com/album/300oF5rPceFBu1MQQsLQjv) | 2:36 |

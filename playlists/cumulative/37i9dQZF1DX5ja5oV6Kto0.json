@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 130909,
       "name": "500 DEGREES",
       "url": "https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 203951,
       "name": "Abeg (feat. Amindi)",
       "url": "https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 188860,
       "name": "Butter",
       "url": "https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW"
@@ -2222,6 +2222,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5M0tWFBo6ItzgyrCmf0Av6"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1657TMy2s7p8ttQ6At4205"
+    },
+    {
+      "album": {
         "name": "Gkw / Winning Bread",
         "url": "https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ"
       },
@@ -2631,7 +2649,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 133392,
       "name": "I Saw An Angel On The Roof & Wept",
       "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
@@ -2675,6 +2693,28 @@
       "duration_ms": 198676,
       "name": "IDT",
       "url": "https://open.spotify.com/track/4zXMJEavXIWMG9LZHE50Tx"
+    },
+    {
+      "album": {
+        "name": "If I Tried",
+        "url": "https://open.spotify.com/album/2K7sXFXwxw2SpgDUCFPdC0"
+      },
+      "artists": [
+        {
+          "name": "Valerie Omari",
+          "url": "https://open.spotify.com/artist/3N98mfZLBy9b9LjkhByak6"
+        },
+        {
+          "name": "The Rabbi Himself",
+          "url": "https://open.spotify.com/artist/7o1o0zPFCBM0otuAEdjW1W"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "If I Tried",
+      "url": "https://open.spotify.com/track/2B3PNPir3BzpEigu0YMbFt"
     },
     {
       "album": {
@@ -2966,6 +3006,28 @@
     },
     {
       "album": {
+        "name": "Kerewa",
+        "url": "https://open.spotify.com/album/0la26c1vhf3NyYj0MfXS2e"
+      },
+      "artists": [
+        {
+          "name": "Bryann",
+          "url": "https://open.spotify.com/artist/6l3e6Htn4aUo6Jx0q5ChZX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223791,
+      "name": "Kerewa",
+      "url": "https://open.spotify.com/track/2TdbsYPPDKKGZjaBeiPHiY"
+    },
+    {
+      "album": {
         "name": "Ileke",
         "url": "https://open.spotify.com/album/1I6GnLLD7UEjZfEdGSxA3s"
       },
@@ -2981,7 +3043,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 228118,
       "name": "Kerewa (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/5BeGPJdDixrxEDpY2NaZ0Z"
@@ -3073,7 +3135,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 157500,
       "name": "Leaving Summer",
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
@@ -3775,7 +3837,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 178634,
       "name": "NIGHTS WITHOUT YOU",
       "url": "https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N"
@@ -4034,6 +4096,32 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh"
+      },
+      "artists": [
+        {
+          "name": "Tena Tenpo",
+          "url": "https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN"
+        },
+        {
+          "name": "benmaelen",
+          "url": "https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/2mTU6HVWHYPIDefNUcj9fN"
+    },
+    {
+      "album": {
         "name": "Our Favourite Songs",
         "url": "https://open.spotify.com/album/2ZWiQbs6xhcg2stGixOQx1"
       },
@@ -4271,7 +4359,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186122,
       "name": "preSSUre",
       "url": "https://open.spotify.com/track/19N5psNQn5XtpM8ATXRWQ7"
@@ -5709,7 +5797,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 187500,
       "name": "TSA",
       "url": "https://open.spotify.com/track/6XdOjNrHqh1i0VXnk2lYnK"
@@ -6049,7 +6137,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 110988,
       "name": "WTF! (Euphoria) (feat. 2aab)",
       "url": "https://open.spotify.com/track/4yUC5HZhaQAt465DEJNDxN"
@@ -6071,6 +6159,24 @@
       "duration_ms": 106666,
       "name": "Y I Want U",
       "url": "https://open.spotify.com/track/5opjJ7bTPyiRDh8DHnnUFc"
+    },
+    {
+      "album": {
+        "name": "Yao",
+        "url": "https://open.spotify.com/album/1iIMteZmsQjzajs83RFmgQ"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209143,
+      "name": "Yao",
+      "url": "https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q"
     },
     {
       "album": {

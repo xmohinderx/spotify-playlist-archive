@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 130525,
+  "num_followers": 130556,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDU2NDYzNDA2NWJiNzM5YTMxZDQ5Yjc3OTNiODViMDI4",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGYxN2FmY2UyYTdiZDcwMGJjNDY2MmQ0Zjg5YjJkYWZj",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -375,18 +375,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -411,22 +415,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -519,18 +519,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "NO BONNIE N CLYDE",
-        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 133400,
-      "name": "NO BONNIE N CLYDE",
-      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -555,6 +559,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "NO BONNIE N CLYDE",
+        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "duration_ms": 133400,
+      "name": "NO BONNIE N CLYDE",
+      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
       },
@@ -567,22 +587,6 @@
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Eye for an Eye",
-        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
-      },
-      "artists": [
-        {
-          "name": "Benny Banks",
-          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Eye for an Eye",
-      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -603,22 +607,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Eye for an Eye",
+        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Benny Banks",
+          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+      "duration_ms": 250434,
+      "name": "Eye for an Eye",
+      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -987,26 +987,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Send Them To Coventry",
         "url": "https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 188826,
       "name": "Energy (feat. Mahalia)",
       "url": "https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
     },
     {
-      "added_at": "2022-12-01 01:34:42",
+      "added_at": "2022-12-02 01:30:15",
       "album": {
         "name": "Love is a Lottery",
         "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"

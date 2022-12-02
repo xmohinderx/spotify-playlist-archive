@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535 likes - 73 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 534 likes - 73 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 6 | [Here For You](https://open.spotify.com/track/5rzGiTAIVeAGsIVEdWEl8s) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Sad Alex](https://open.spotify.com/artist/1KTyNO6uawc8w27nGwnZmV) | [For You](https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc) | 2:47 |
 | 7 | [ibtc \- remix](https://open.spotify.com/track/6ypSVHZWCXAk3siHdJOspd) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:04 |
 | 8 | [Bitter](https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ) | 3:17 |
-| 9 | [High Hopes](https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [High Hopes](https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6) | 2:59 |
-| 10 | [Being Good Is Boring](https://open.spotify.com/track/6UXWq2vWpHeTZlMIFyEWIn) | [Jena Rose](https://open.spotify.com/artist/05cgS2xJt75RhmFWgpgfE7) | [Being Good Is Boring](https://open.spotify.com/album/6asqvl3ZX2moMrkpowonUr) | 2:40 |
+| 9 | [Being Good Is Boring](https://open.spotify.com/track/6UXWq2vWpHeTZlMIFyEWIn) | [Jena Rose](https://open.spotify.com/artist/05cgS2xJt75RhmFWgpgfE7) | [Being Good Is Boring](https://open.spotify.com/album/6asqvl3ZX2moMrkpowonUr) | 2:40 |
+| 10 | [High Hopes](https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [High Hopes](https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6) | 2:59 |
 | 11 | [hypotheticals](https://open.spotify.com/track/1HI84AsI0wokonlV760TRT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [hypotheticals](https://open.spotify.com/album/3VYNIeDemi3QCq5QDFwHo2) | 2:04 |
 | 12 | [Good Catch](https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:35 |
 | 13 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 34 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 |
 | 35 | [wash your hands](https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL) | 2:32 |
 | 36 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
-| 37 | [icy love](https://open.spotify.com/track/56M81fLMWQMyTt6bZiEmT8) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:17 |
-| 38 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 |
+| 37 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 |
+| 38 | [icy love](https://open.spotify.com/track/56M81fLMWQMyTt6bZiEmT8) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:17 |
 | 39 | [Top of My List](https://open.spotify.com/track/4SxUmLltcw9E4GX3LJUTZf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 2:22 |
 | 40 | [sfs](https://open.spotify.com/track/0JnR8VnHPpeo2JfFlUGn7D) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [sfs](https://open.spotify.com/album/2eR1ow7k6QZqrCSMDoaHc2) | 2:39 |
 | 41 | [Hung Up](https://open.spotify.com/track/5piGbFZr6mMi7jfVvQUzGC) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [Hung Up](https://open.spotify.com/album/3lP2uvFc1EPkSL6Seyr6f5) | 4:18 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 72 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 73 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc4MzA5NTgsMDAwMDAwMDA4ZTRjNDQ3ZWJlNWRjYTJhOTBlNTY3ZDNmNWNkMGIwNw==`
+Snapshot ID: `Mjc4MzIzOTgsMDAwMDAwMDBiNDY1ZGI5ZmViODUxMWQ5ZTY5ODk1YjllMDQ0MzAyNQ==`

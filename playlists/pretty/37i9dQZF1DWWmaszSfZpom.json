@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacar\u00e9",
-  "num_followers": 790352,
+  "num_followers": 790311,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDdhMjQ1YzQ1NGE2NGJhYTc3MTg5ZWNlODU0MmJkZjhj",
+  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMGQ0Y2NhMWQwMjQzOTJmODYyNjVjMDlkMmMxOWZiMTVm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:03:00",
@@ -243,6 +243,26 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "Gaiola \u00c9 o Troco",
+        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
+      },
+      "artists": [
+        {
+          "name": "MC Du Black",
+          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Gaiola \u00c9 o Troco",
+      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "Deixa de Onda (Porra Nenhuma)",
         "url": "https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 184999,
       "name": "Deixa de Onda (Porra Nenhuma)",
       "url": "https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "Gaiola \u00c9 o Troco",
-        "url": "https://open.spotify.com/album/015kXzs5wCoiKyNQBPy19d"
-      },
-      "artists": [
-        {
-          "name": "MC Du Black",
-          "url": "https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc"
-        },
-        {
-          "name": "DJ 2F",
-          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Gaiola \u00c9 o Troco",
-      "url": "https://open.spotify.com/track/3Uq45ipGutypFPmETfaoaH"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
         "name": "Bumbum granada",
         "url": "https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 187461,
       "name": "Bumbum granada",
       "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "Ritmo Mexicano",
+        "url": "https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv"
+      },
+      "artists": [
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 190354,
+      "name": "Ritmo Mexicano",
+      "url": "https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "Medley da Gaiola (DENNIS Remix)",
         "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 239999,
       "name": "Medley da Gaiola - DENNIS Remix",
       "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "Ritmo Mexicano",
-        "url": "https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv"
-      },
-      "artists": [
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 190354,
-      "name": "Ritmo Mexicano",
-      "url": "https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
-        "url": "https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR"
-      },
-      "artists": [
-        {
-          "name": "DJ DN",
-          "url": "https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe"
-        },
-        {
-          "name": "MC Gui Andrade",
-          "url": "https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e"
-        },
-        {
-          "name": "MC Fahah",
-          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
-        }
-      ],
-      "duration_ms": 186363,
-      "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
-      "url": "https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
         "name": "Separei",
         "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 162406,
       "name": "Separei",
       "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
+        "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
+        "url": "https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR"
+      },
+      "artists": [
+        {
+          "name": "DJ DN",
+          "url": "https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe"
+        },
+        {
+          "name": "MC Gui Andrade",
+          "url": "https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
+      "url": "https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Dennis Dj Apresenta: Funk Now",
-        "url": "https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5"
+        "name": "Senta braba",
+        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
         }
       ],
-      "duration_ms": 135567,
-      "name": "Devagarinho - Remix",
-      "url": "https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9"
+      "duration_ms": 149615,
+      "name": "Senta braba",
+      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
-        "name": "Senta braba",
-        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
+        "name": "Dennis Dj Apresenta: Funk Now",
+        "url": "https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5"
       },
       "artists": [
         {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Delano",
+          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
         }
       ],
-      "duration_ms": 149615,
-      "name": "Senta braba",
-      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
+      "duration_ms": 135567,
+      "name": "Devagarinho - Remix",
+      "url": "https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9"
     },
     {
       "added_at": "2022-10-07 03:03:00",

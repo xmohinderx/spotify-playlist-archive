@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27117,
+  "num_followers": 27120,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGQxYWJkNmIzMGU4MWM0ODhiZTlhMTgwNWNmZjllNzZj",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDU5ZDM2MWIwNGQ2MzVhYmIwMGU0OWQyMTQwMzRjMjE3",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "duration_ms": 168946,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 201765,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe"
-      },
-      "artists": [
-        {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
-        }
-      ],
-      "duration_ms": 168946,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Don't Worry (Radio Edit)",
-        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        }
-      ],
-      "duration_ms": 190278,
-      "name": "Don't Worry - Radio Edit",
-      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 147741,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Don't Worry (Radio Edit)",
+        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
+      },
+      "artists": [
+        {
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+        }
+      ],
+      "duration_ms": 190278,
+      "name": "Don't Worry - Radio Edit",
+      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
     },
     {
       "added_at": "2020-02-18 13:31:30",

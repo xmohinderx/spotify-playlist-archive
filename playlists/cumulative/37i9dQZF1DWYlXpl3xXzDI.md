@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-204 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
+205 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/563ovKwZSfQUbNXXR9wBOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,8 +133,9 @@
 | [Perfect Day](https://open.spotify.com/track/5J0SmV2j0F0qCBfCaQbmkK) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Perfect Day](https://open.spotify.com/album/78GZSUPP29XyjgpZAQKCBW) | 2:57 | 2021-11-18 |  |
 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2017-12-03 |  |
 | [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2017-12-03 | 2022-07-29 |
+| [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/0csxhAX6U3JRzU3WxEWTlv) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2017-12-03 |  |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2017-12-03 | 2022-07-29 |
-| [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2017-12-03 |  |
+| [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2017-12-03 | 2022-12-02 |
 | [Rather Be with You](https://open.spotify.com/track/3AVE9qpiII7fyKjENTN8YI) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2017-12-03 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2017-12-03 |  |
 | [Real Love Baby](https://open.spotify.com/track/2qEqMx1n0dnCBzWT9l3nGL) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/0IpNqqkTlVMm54WIZTn6Pk) | 3:09 | 2017-12-03 | 2022-07-29 |

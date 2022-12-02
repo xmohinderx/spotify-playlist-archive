@@ -1,15 +1,31 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej'",
-  "num_followers": 130498,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "num_followers": 130612,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY1MTA5MCwwMDAwMDAwMGJmMTg5YzE4NGViZmViMWUwZjAyNWQ5NGEzZGI2MTgw",
+  "snapshot_id": "MTY2OTkzNTY2MCwwMDAwMDAwMGExODBhNmE4MjBlZDkxMWY4MDJhMTg1NGUzMTVhODFm",
   "tracks": [
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Fini d'esp\u00e9rer",
+        "url": "https://open.spotify.com/album/1wjf1dJlUK9bun5IopzmyK"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Fini d'esp\u00e9rer",
+      "url": "https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "SOS (Chapitre 3)",
         "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
@@ -25,39 +41,7 @@
       "url": "https://open.spotify.com/track/1X0N8oqu5d6K7gTxdPwIBO"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Authentic",
-        "url": "https://open.spotify.com/album/5cmjUzsRFXb7KyejfkphQ0"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Mal de toi",
-      "url": "https://open.spotify.com/track/6nSP9koY7i80mhkyCtjzJj"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "J'\u00e9limine",
-        "url": "https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 137229,
-      "name": "J'\u00e9limine",
-      "url": "https://open.spotify.com/track/1U13A13YafzmqthKXiul91"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Encore l\u00e0",
         "url": "https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx"
@@ -77,7 +61,39 @@
       "url": "https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "J'\u00e9limine",
+        "url": "https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 137229,
+      "name": "J'\u00e9limine",
+      "url": "https://open.spotify.com/track/1U13A13YafzmqthKXiul91"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Authentic",
+        "url": "https://open.spotify.com/album/5cmjUzsRFXb7KyejfkphQ0"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Mal de toi",
+      "url": "https://open.spotify.com/track/6nSP9koY7i80mhkyCtjzJj"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Pervers narcissique",
         "url": "https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/4lwX9GAOcRsCl3WXyLO5vs"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/2LCG3qOGSDCE4sBBIclAS9"
@@ -109,23 +125,7 @@
       "url": "https://open.spotify.com/track/6i0KLQD7zlFLyS5zxOHAB0"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Fini d'esp\u00e9rer",
-        "url": "https://open.spotify.com/album/1wjf1dJlUK9bun5IopzmyK"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Fini d'esp\u00e9rer",
-      "url": "https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Ma Raison",
         "url": "https://open.spotify.com/album/7lQCobvDKnOpjMiLG7I4Vx"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1NFS8awse8TQhKZO0ilJXp"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Fleur froide - Second \u00e9tat : la cristallisation",
         "url": "https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Plan s\u00e9quence",
-        "url": "https://open.spotify.com/album/7I8s09xLqtaNMjN3RGTX8q"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "Plan s\u00e9quence",
-      "url": "https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
@@ -193,183 +177,7 @@
       "url": "https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Piqu\u00e9",
-        "url": "https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG"
-      },
-      "artists": [
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        },
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 156946,
-      "name": "Piqu\u00e9",
-      "url": "https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "SOS (Chapitre 1)",
-        "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 204695,
-      "name": "Paro",
-      "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Trop tard",
-        "url": "https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00efssa",
-          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
-        }
-      ],
-      "duration_ms": 228625,
-      "name": "Trop tard",
-      "url": "https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Encr\u00e9",
-        "url": "https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv"
-      },
-      "artists": [
-        {
-          "name": "Emma'a",
-          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Encr\u00e9",
-      "url": "https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Solo (feat. Tayc)",
-        "url": "https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj"
-      },
-      "artists": [
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Solo (feat. Tayc)",
-      "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Ma Reine",
-        "url": "https://open.spotify.com/album/5hj6xIiBVolqqWWj60D2Eh"
-      },
-      "artists": [
-        {
-          "name": "Souf",
-          "url": "https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Ma Reine",
-      "url": "https://open.spotify.com/track/2yK1M21AlQ3RLalAmM59Oi"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Poup\u00e9e",
-        "url": "https://open.spotify.com/album/3PcDLnegIsztBA1K5R9i3T"
-      },
-      "artists": [
-        {
-          "name": "Awa Imani",
-          "url": "https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/6slYDms9I2A1AlL7mUMBQe"
-        }
-      ],
-      "duration_ms": 217077,
-      "name": "Jamais",
-      "url": "https://open.spotify.com/track/31xi6jd9RW1nj6C6OLxcjB"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Pr\u00e9mices",
-        "url": "https://open.spotify.com/album/0923F8kfzpouUmutVzceuH"
-      },
-      "artists": [
-        {
-          "name": "Davy One",
-          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
-        },
-        {
-          "name": "Liim\u2019s",
-          "url": "https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bourbier",
-      "url": "https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/28wcW4kLHOwwRuiszCcNia"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 164470,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/7KUuZ9P4F4gUda00i45pQ2"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        }
-      ],
-      "duration_ms": 180694,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/35N2xWSkn7wio2V7ti8Xse"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Cullinan",
         "url": "https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U"
@@ -389,23 +197,151 @@
       "url": "https://open.spotify.com/track/2kwPIIXZX9ZcnbeXtTTFsZ"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "PERLE NOIRE",
-        "url": "https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h"
+        "name": "Encr\u00e9",
+        "url": "https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv"
       },
       "artists": [
         {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
         }
       ],
-      "duration_ms": 153762,
-      "name": "Mi amor",
-      "url": "https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj"
+      "duration_ms": 210000,
+      "name": "Encr\u00e9",
+      "url": "https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Solo (feat. Tayc)",
+        "url": "https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj"
+      },
+      "artists": [
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Solo (feat. Tayc)",
+      "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "SOS (Chapitre 1)",
+        "url": "https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 204695,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Plan s\u00e9quence",
+        "url": "https://open.spotify.com/album/7I8s09xLqtaNMjN3RGTX8q"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "Plan s\u00e9quence",
+      "url": "https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Piqu\u00e9",
+        "url": "https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 156946,
+      "name": "Piqu\u00e9",
+      "url": "https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Ma Reine",
+        "url": "https://open.spotify.com/album/5hj6xIiBVolqqWWj60D2Eh"
+      },
+      "artists": [
+        {
+          "name": "Souf",
+          "url": "https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec"
+        }
+      ],
+      "duration_ms": 189660,
+      "name": "Ma Reine",
+      "url": "https://open.spotify.com/track/2yK1M21AlQ3RLalAmM59Oi"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Pr\u00e9mices",
+        "url": "https://open.spotify.com/album/0923F8kfzpouUmutVzceuH"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        },
+        {
+          "name": "Liim\u2019s",
+          "url": "https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Bourbier",
+      "url": "https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "LDVM SYMPHONY",
+        "url": "https://open.spotify.com/album/3azKfgAZRJXGiqQNFz1jfd"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "TE AMO (en duo avec Tayc)",
+      "url": "https://open.spotify.com/track/3ofDyMOUeUqotT8C2ZmScK"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "\u00c9toile",
         "url": "https://open.spotify.com/album/4X5ZkGKkuF82W3nGqf3svs"
@@ -421,75 +357,23 @@
       "url": "https://open.spotify.com/track/3IirvvsZ8EJFJjJ3LB1XkP"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Oublie moi",
-        "url": "https://open.spotify.com/album/2mtjMDpwcyem8ZoIUNtYok"
+        "name": "Trop tard",
+        "url": "https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH"
       },
       "artists": [
         {
-          "name": "Nalaa",
-          "url": "https://open.spotify.com/artist/5f6QSFbborpKJmzbQFDAMx"
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
         }
       ],
-      "duration_ms": 172137,
-      "name": "Oublie moi",
-      "url": "https://open.spotify.com/track/48WvqemfqbA3dvefYPul7b"
+      "duration_ms": 228625,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Pardon",
-        "url": "https://open.spotify.com/album/2lg8wdL4nCUipxVf6Rr0l4"
-      },
-      "artists": [
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Pardon",
-      "url": "https://open.spotify.com/track/2Fq5X3Mk5wBXm0Ba6HLhRC"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Maux de t\u00eate",
-        "url": "https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y"
-      },
-      "artists": [
-        {
-          "name": "Heaven",
-          "url": "https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG"
-        }
-      ],
-      "duration_ms": 170974,
-      "name": "Maux de t\u00eate",
-      "url": "https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "L'amour change le monde",
-        "url": "https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9"
-      },
-      "artists": [
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
-        },
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Un bout de nous",
-      "url": "https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Confiance",
         "url": "https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt"
@@ -505,23 +389,107 @@
       "url": "https://open.spotify.com/track/1xeaSWiXWVHj34wvcE0ZXI"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Dans ma t\u00eate",
-        "url": "https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/7KUuZ9P4F4gUda00i45pQ2"
       },
       "artists": [
         {
-          "name": "Angelcy",
-          "url": "https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2"
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
         }
       ],
-      "duration_ms": 164336,
-      "name": "Dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs"
+      "duration_ms": 180694,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/35N2xWSkn7wio2V7ti8Xse"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Pic au c\u0153ur",
+        "url": "https://open.spotify.com/album/6rf3Yn6OEpZroovlI5t6uu"
+      },
+      "artists": [
+        {
+          "name": "Feejoke",
+          "url": "https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Pic au c\u0153ur",
+      "url": "https://open.spotify.com/track/5gCEpTSrkOsJvPynrPnCtf"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Tomber",
+        "url": "https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X"
+      },
+      "artists": [
+        {
+          "name": "Leila AD",
+          "url": "https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Tomber",
+      "url": "https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/28wcW4kLHOwwRuiszCcNia"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Pardon",
+        "url": "https://open.spotify.com/album/2lg8wdL4nCUipxVf6Rr0l4"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Pardon",
+      "url": "https://open.spotify.com/track/2Fq5X3Mk5wBXm0Ba6HLhRC"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Poup\u00e9e",
+        "url": "https://open.spotify.com/album/3PcDLnegIsztBA1K5R9i3T"
+      },
+      "artists": [
+        {
+          "name": "Awa Imani",
+          "url": "https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/6slYDms9I2A1AlL7mUMBQe"
+        }
+      ],
+      "duration_ms": 217077,
+      "name": "Jamais",
+      "url": "https://open.spotify.com/track/31xi6jd9RW1nj6C6OLxcjB"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Comme vous voulez",
         "url": "https://open.spotify.com/album/5D6nkb0MJIZxuVKJb4aE5l"
@@ -541,71 +509,75 @@
       "url": "https://open.spotify.com/track/0H5UXo3J6LWUtsNwIgdQr8"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Mon enfer",
-        "url": "https://open.spotify.com/album/22FrBQPGnMJBDzAgYNzJEZ"
+        "name": "PERLE NOIRE",
+        "url": "https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h"
       },
       "artists": [
         {
-          "name": "Iliana",
-          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
         }
       ],
-      "duration_ms": 165854,
-      "name": "Mon enfer",
-      "url": "https://open.spotify.com/track/0WdCxvVPr54CL5ljwzOCsf"
+      "duration_ms": 153762,
+      "name": "Mi amor",
+      "url": "https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/34UNcJ8FrAvdViz1AzSvyE"
+        "name": "Pr\u00e9face (Nouveau D\u00e9part)",
+        "url": "https://open.spotify.com/album/3XiFwgz2J4PWogjndNT3f3"
       },
       "artists": [
         {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+          "name": "Melina Sdk",
+          "url": "https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn"
         }
       ],
-      "duration_ms": 170880,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh"
+      "duration_ms": 141205,
+      "name": "Pr\u00e9face - Nouveau D\u00e9part",
+      "url": "https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Tomber",
-        "url": "https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X"
+        "name": "L'amour change le monde",
+        "url": "https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9"
       },
       "artists": [
         {
-          "name": "Leila AD",
-          "url": "https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu"
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        },
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Tomber",
-      "url": "https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq"
+      "duration_ms": 198773,
+      "name": "Un bout de nous",
+      "url": "https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Oublier (Music Monday)",
-        "url": "https://open.spotify.com/album/7FrXZtOcGmHoIqCsh2TD22"
+        "name": "Oublie moi",
+        "url": "https://open.spotify.com/album/2mtjMDpwcyem8ZoIUNtYok"
       },
       "artists": [
         {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+          "name": "Nalaa",
+          "url": "https://open.spotify.com/artist/5f6QSFbborpKJmzbQFDAMx"
         }
       ],
-      "duration_ms": 154968,
-      "name": "Oublier (Music Monday)",
-      "url": "https://open.spotify.com/track/7dx2Fl6o4UqRT6sUNskitx"
+      "duration_ms": 172137,
+      "name": "Oublie moi",
+      "url": "https://open.spotify.com/track/48WvqemfqbA3dvefYPul7b"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Ma promesse",
         "url": "https://open.spotify.com/album/77RhDral1NtDom4ydM19vn"
@@ -621,7 +593,7 @@
       "url": "https://open.spotify.com/track/5TNhRGVHRNAIHLo5Xaouzh"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Premier souffle",
         "url": "https://open.spotify.com/album/46qJPZhur04U9SGPzhNZKJ"
@@ -637,40 +609,84 @@
       "url": "https://open.spotify.com/track/5iAmmra4TKlT2zXT11pf7h"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "ROUGE",
-        "url": "https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj"
+        "name": "Oublier (Music Monday)",
+        "url": "https://open.spotify.com/album/7FrXZtOcGmHoIqCsh2TD22"
       },
       "artists": [
         {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
-        },
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "duration_ms": 154968,
+      "name": "Oublier (Music Monday)",
+      "url": "https://open.spotify.com/track/7dx2Fl6o4UqRT6sUNskitx"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/34UNcJ8FrAvdViz1AzSvyE"
+      },
+      "artists": [
         {
           "name": "Maud Elka",
           "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
         }
       ],
-      "duration_ms": 181855,
-      "name": "FAIS COMME SI",
-      "url": "https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven"
+      "duration_ms": 170880,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh"
     },
     {
-      "added_at": "2022-11-24 23:00:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
-        "name": "Pr\u00e9face (Nouveau D\u00e9part)",
-        "url": "https://open.spotify.com/album/3XiFwgz2J4PWogjndNT3f3"
+        "name": "Dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW"
       },
       "artists": [
         {
-          "name": "Melina Sdk",
-          "url": "https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn"
+          "name": "Angelcy",
+          "url": "https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2"
         }
       ],
-      "duration_ms": 141205,
-      "name": "Pr\u00e9face - Nouveau D\u00e9part",
-      "url": "https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt"
+      "duration_ms": 164336,
+      "name": "Dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Mon enfer",
+        "url": "https://open.spotify.com/album/22FrBQPGnMJBDzAgYNzJEZ"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "duration_ms": 165854,
+      "name": "Mon enfer",
+      "url": "https://open.spotify.com/track/0WdCxvVPr54CL5ljwzOCsf"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Maux de t\u00eate",
+        "url": "https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y"
+      },
+      "artists": [
+        {
+          "name": "Heaven",
+          "url": "https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG"
+        }
+      ],
+      "duration_ms": 170974,
+      "name": "Maux de t\u00eate",
+      "url": "https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N"
     }
   ],
   "unique_name": "R&Bae",

@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-450 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+452 songs - 1 day 12 hr 38 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [For Wee Folks](https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 6:28 | 2022-06-30 | 2022-10-02 |
 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 | 2022-06-30 | 2022-10-08 |
 | [Forbidden Fruit](https://open.spotify.com/track/6Ip3L1WWFnlGUp55H4A0G0) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/4jrfba3omPZcFt9YXiaqt4) | 3:16 | 2022-04-14 | 2022-07-29 |
+| [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-12-01 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
 | [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-13 |  |
 | [Freesia](https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Freesia](https://open.spotify.com/album/15P9FU9R5jbBix4jIGPvBf) | 3:49 | 2022-08-11 | 2022-11-29 |
@@ -178,6 +179,7 @@
 | [I Miss You](https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Within a Dream](https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4) | 4:18 | 2022-04-14 | 2022-10-08 |
 | [I Promise to Love](https://open.spotify.com/track/19LMucy1MN241ShsoCUKia) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [I Promise to Love](https://open.spotify.com/album/44tqKaAh69xrdFN9s2TCl4) | 2:52 | 2022-11-10 |  |
 | [I Remember Clifford](https://open.spotify.com/track/5LaTsDrhrpXwLniidLpnF7) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 7:08 | 2022-04-14 | 2022-10-08 |
+| [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-12-01 |  |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-30 |  |
 | [I Was So Young, And You Were So Beautiful](https://open.spotify.com/track/4N7iWwgqcWr3p5JzngOSEF) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 3:54 | 2022-04-14 | 2022-10-08 |
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-13 |  |
@@ -209,7 +211,7 @@
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2022-04-14 | 2022-10-19 |
 | [Juliana](https://open.spotify.com/track/54qfiHthTAtNrhaW7mT9tS) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Sweet Apple](https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW) | 3:40 | 2022-11-17 |  |
 | [Jump for Joy \- 2007 Remaster](https://open.spotify.com/track/3xAXSXOjOGs8Uk8Djp2BAw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Divine One](https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx) | 2:27 | 2022-04-14 | 2022-10-01 |
-| [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-11 |  |
+| [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-11 | 2022-12-02 |
 | [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-13 |  |
 | [Killer Joe](https://open.spotify.com/track/0aEcArQsqTpErHdixEVaHj) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Terminal 1](https://open.spotify.com/album/3z7cxxCXvRmOav4DiOI3mP) | 6:53 | 2022-04-14 | 2022-09-16 |
 | [L.A\. 58](https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:06 | 2022-04-14 | 2022-10-08 |
@@ -404,7 +406,7 @@
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2022-04-14 | 2022-10-08 |
 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 | 2022-06-30 | 2022-10-08 |
 | [These Foolish Things Remind Me Of You \- Instrumental](https://open.spotify.com/track/40JmQVnCA43uV4htsa4G4t) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris Vol 2](https://open.spotify.com/album/4u8oRupYDjQ8kCMaWiYa11) | 4:41 | 2022-04-14 | 2022-07-29 |
-| [Thoughtful Proposal](https://open.spotify.com/track/4upT0MOhQioDcN2eX2fScs) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [I Dream of a Sound](https://open.spotify.com/album/3VZjREftBTuIM3Ks8qiwSq) | 3:14 | 2022-10-13 |  |
+| [Thoughtful Proposal](https://open.spotify.com/track/4upT0MOhQioDcN2eX2fScs) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [I Dream of a Sound](https://open.spotify.com/album/3VZjREftBTuIM3Ks8qiwSq) | 3:14 | 2022-10-13 | 2022-12-02 |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-06-23 |  |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 |  |
 | [Tie Your Hopes Down](https://open.spotify.com/track/05yxhKXykxKM9kM1PFgD39) | [Mikael Máni](https://open.spotify.com/artist/1sn3o5Oym4hodt31ePu6c1) | [Tie Your Hopes Down](https://open.spotify.com/album/1M6IJbrux7pWvZHF2ma5Vq) | 5:47 | 2022-04-14 | 2022-05-03 |

@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 137458,
+  "num_followers": 138262,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1ODQwMCwwMDAwMDAwMGUyZWU0NTNhMmRlMGZhM2ZmMTBhNmVkNWM1NWZjNzdj",
+  "snapshot_id": "MTY2OTM1ODQwMCwwMDAwMDAwMGZhYTY0ZjVmYzFmMmFhNThmYjViNjAwYzhlMTZlZWY4",
   "tracks": [
     {
       "added_at": "2022-10-07 11:48:00",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
     },
     {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "BACKROOM",
+      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Tanaka 2",
@@ -499,22 +515,6 @@
       "duration_ms": 188724,
       "name": "Tanaka 2",
       "url": "https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "BACKROOM",
-      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Smack A Bitch",
-      "url": "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Smack A Bitch",
+      "url": "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
     },
     {
       "added_at": "2022-10-07 11:48:00",

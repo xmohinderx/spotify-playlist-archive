@@ -404,6 +404,28 @@
     },
     {
       "album": {
+        "name": "30 Aniversario Duetos",
+        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        },
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "En La Misma Cama - Dueto Con El Chapo",
+      "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
+    },
+    {
+      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -433,7 +455,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 167224,
       "name": "Equivocate Conmigo",
       "url": "https://open.spotify.com/track/7C2SbfRHXH8PlpS3dwG8Z7"

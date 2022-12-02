@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 203700,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 279453,
       "name": "deeper",
       "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
@@ -1266,6 +1266,28 @@
     },
     {
       "album": {
+        "name": "Hurts So Bad",
+        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Hurts So Bad - with Josh Teskey",
+      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
+    },
+    {
+      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -1389,6 +1411,28 @@
       "duration_ms": 186224,
       "name": "Into Your Life",
       "url": "https://open.spotify.com/track/3M9lOw3yCJFDdMDOlD6qin"
+    },
+    {
+      "album": {
+        "name": "Raindrops & Intuition",
+        "url": "https://open.spotify.com/album/130yqWSrUxKPsjHCGMGoZl"
+      },
+      "artists": [
+        {
+          "name": "pastels",
+          "url": "https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR"
+        },
+        {
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/20Yr8zbaGxjlmBEKjVVdNR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224559,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/3oZdGtVdpexPzYZHvMz9yS"
     },
     {
       "album": {

@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 214500,
       "name": "Labios de Cereza",
       "url": "https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn"
@@ -1219,6 +1219,24 @@
       "duration_ms": 273339,
       "name": "Piensa",
       "url": "https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my"
+    },
+    {
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "album": {

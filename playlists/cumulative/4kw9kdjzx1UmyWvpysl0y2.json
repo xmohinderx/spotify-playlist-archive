@@ -2505,7 +2505,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 164409,
       "name": "FULL ASSAULT",
       "url": "https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0"
@@ -4353,6 +4353,28 @@
       "duration_ms": 195200,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8"
+    },
+    {
+      "album": {
+        "name": "Nirvana (Tisoki Remix)",
+        "url": "https://open.spotify.com/album/0Kz8iQFEkPIyqgxBspHPzL"
+      },
+      "artists": [
+        {
+          "name": "Candyland",
+          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Nirvana - Tisoki Remix",
+      "url": "https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp"
     },
     {
       "album": {

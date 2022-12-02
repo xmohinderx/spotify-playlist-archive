@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,496 likes - 108 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 108 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sylvan Smoke](https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS) | [Sean McCann](https://open.spotify.com/artist/7c6kXSGmiGhrr8l3CSY0Y2) | [Ten Impressions for Piano and Strings](https://open.spotify.com/album/7DOkAK4tvQ7qtKKlbAAEYK) | 2:36 |
-| 2 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Aulin Heras](https://open.spotify.com/artist/5IoiWICcLlfWh4K4VBQcDu) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
+| 2 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
 | 3 | [Embrace The Dream](https://open.spotify.com/track/7uaIKej96SpLAqJqWI0lsY) | [Magnetic Sky](https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY) | [Embrace The Dream](https://open.spotify.com/album/6FbMy7PSHoy2kGfPWvPvVl) | 2:33 |
 | 4 | [Elysian Fields](https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Elysian Fields](https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4) | 2:43 |
 | 5 | [Donia](https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Donia](https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae) | 2:22 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 18 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 |
 | 19 | [Forgiveness](https://open.spotify.com/track/4JpT0U9BGC5uZtMcSaBUwH) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Forgiveness](https://open.spotify.com/album/2Ucc7Uxkez3QmKEMNqiw1K) | 2:49 |
 | 20 | [Uendelig](https://open.spotify.com/track/2rSORoj8GOo8vB8Iz2zsSA) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Uendelig](https://open.spotify.com/album/1kluJqHK35vXAraoKM3TM4) | 2:27 |
-| 21 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Breathania](https://open.spotify.com/artist/2jZ2BLUbfB4Zri64YQChn6) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
+| 21 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
 | 22 | [The Wish](https://open.spotify.com/track/5KLneBT09UJRMHrCvPCQe0) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [The Wish](https://open.spotify.com/album/1tmUGszdvl1lHeEx3IeyuD) | 3:49 |
 | 23 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 |
 | 24 | [Waves](https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 3:21 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 48 | [Soft Ardour](https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Soft Ardour](https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN) | 2:31 |
 | 49 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 |
 | 50 | [Simplistica](https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Simplistica](https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx) | 2:07 |
-| 51 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
+| 51 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
 | 52 | [Flux](https://open.spotify.com/track/4h630EA56uiWkCMuDKJK7s) | [August Parks](https://open.spotify.com/artist/3qMOfxCeQP5i24x2yOGnof) | [Flux](https://open.spotify.com/album/1jTqTtRh3do5RhEJfhLy9e) | 3:16 |
 | 53 | [Upon a Painted Ocean](https://open.spotify.com/track/3Iv7EalVhriKHE8uHVJmsS) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:53 |
 | 54 | [Aquarium](https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:40 |

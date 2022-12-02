@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,197 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,207 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 23 | [Takata](https://open.spotify.com/track/5zafxU9A9zsDIzJ2IDxMSt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:29 |
 | 24 | [Take It Back](https://open.spotify.com/track/5TbZ3iiuoIhLGFvq2IoIwD) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [Take It Back / Go for Joy](https://open.spotify.com/album/6ugxotUGjEP4GPucJYJNcA) | 4:33 |
 | 25 | [Talk To Myself](https://open.spotify.com/track/2nfGGjeIAbvKIplshPJQBZ) | [Ramsay Almighty](https://open.spotify.com/artist/1wkmDig3ums4HIkGMfFwqE) | [Talk To Myself](https://open.spotify.com/album/2tN4zvY9XDYJ3i2c4VtmWM) | 2:32 |
-| 26 | [DIMANCHE SOIR](https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:09 |
+| 26 | [DIMANCHE SOIR](https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:09 |
 | 27 | [Be Honest'](https://open.spotify.com/track/0YQ1b1ySD9cDPnqpDVB7SQ) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [MP3 Player](https://open.spotify.com/album/0RiBrW2AVB3VpGL0m3gYc5) | 2:10 |
 | 28 | [Khadijah](https://open.spotify.com/track/7jJxgu18erACbfYWUoW2Zu) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/3LlVpPh5ZtzSQdFuPBweJ4) | [Khadijah](https://open.spotify.com/album/2aFks1QemOlIRA8EI0k1BI) | 3:14 |
 | 29 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Retriever](https://open.spotify.com/track/0PdEMny3zGvOKkDdXEDf07) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Retriever](https://open.spotify.com/album/5kMoaZfmTKob0drD8HClXI) | 9:29 |
 | 100 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/1spGZtRmsTo9zg79sW8uU7) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys II \(Jessy Lanza Remix\)](https://open.spotify.com/album/6UHAnNmOH1p411N4mg9opY) | 4:37 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDVkZTFhYzJlNWZjYWQyZjBmNGE2ZWQ0NzA2YWY2NzIy`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDBmNzkxMjFhMWMyNTAxZTg2ZmRmN2FjNmMxMzAyZWNj`

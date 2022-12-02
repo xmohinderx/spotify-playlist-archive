@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Story Of The Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,962 likes - 126 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,015 likes - 126 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-470 songs - 1 day 5 hr 6 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+472 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [I Don't Want To Know](https://open.spotify.com/track/6bv3qRmEvi6XmOMJBJKmdp) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/1VyusuPKHWr2fC5l77hi1L) | 3:05 | 2021-12-15 | 2022-04-21 |
 | [I Drink](https://open.spotify.com/track/01ktqLH1OJzgXnA2v3up4S) | [Tim Qualls](https://open.spotify.com/artist/12J7rAVoeFIUNkRelq5zw8) | [Say You Love Me](https://open.spotify.com/album/1sY9ua8uuJy0pepaW5sSbK) | 5:19 | 2022-02-21 | 2022-04-21 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-12-15 |  |
+| [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 | 2022-12-02 |  |
 | [I Hate Love](https://open.spotify.com/track/6bky0BZwgaEwmqbNB5BLbV) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Emotions \- EP](https://open.spotify.com/album/7wtn6vMzH76bA2J5NDqy4i) | 3:00 | 2021-12-15 | 2022-07-29 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-03 | 2022-07-29 |
 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 | 2021-12-15 |  |
@@ -202,6 +203,7 @@
 | [If You Say So](https://open.spotify.com/track/6Fumoc72rTwXPGYwWUHhmh) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/109n8Ov5R95rQx38SraTRE) | 4:15 | 2021-12-15 | 2022-07-28 |
 | [illicit affairs](https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:10 | 2022-07-08 |  |
 | [Impossible](https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:29 | 2021-12-15 |  |
+| [Impossible](https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:46 | 2022-12-02 |  |
 | [In My Veins \- Feat\. Erin Mccarley](https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [In My Veins \(Feat\. Erin Mccarley\)](https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ) | 5:18 | 2021-12-15 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-29 |  |
 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 | 2022-08-05 |  |
@@ -303,7 +305,7 @@
 | [Pacify Her](https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:40 | 2022-08-12 |  |
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2022-03-24 | 2022-04-21 |
 | [Panic](https://open.spotify.com/track/6FW6JfPbLov2pOFMsEbSgh) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Growing Pains](https://open.spotify.com/album/2jsTbvNFkE9EuNFLnStchm) | 3:21 | 2021-12-15 | 2022-07-29 |
-| [Paper Houses](https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:34 | 2022-10-28 |  |
+| [Paper Houses](https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:34 | 2022-10-28 | 2022-12-02 |
 | [Paralyzed](https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Mansion](https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl) | 4:30 | 2021-12-15 |  |
 | [Passing Through](https://open.spotify.com/track/1rYw2u6CrQRfyhiOVE4MyS) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [Times Like These](https://open.spotify.com/album/0VfwHSMHmK47fIIKzzl99B) | 3:18 | 2022-02-15 | 2022-07-21 |
 | [Perfectly Wrong](https://open.spotify.com/track/6nat4Z7iRKWVk1qngQqI0Q) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:32 | 2021-12-15 |  |
@@ -442,7 +444,7 @@
 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/6sOx5jDVKkQCQp3NfCTd52) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mimi Goese](https://open.spotify.com/artist/6Ca0p9GECZvcw72fBW5vx3) | [Everything Is Wrong](https://open.spotify.com/album/3XsGQHbPWblti128V5C3QR) | 4:15 | 2022-07-01 | 2022-08-06 |
 | [When Scars Become Art II](https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [When Scars Become Art II](https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD) | 4:12 | 2022-04-25 | 2022-07-29 |
 | [When She Loved Me \- From "Toy Story 2" \- Soundtrack Version](https://open.spotify.com/track/0vFJC16vkmxDqh5K2Hv5y6) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Rarities, B\-Sides and Other Stuff, Volume 2](https://open.spotify.com/album/4eBbbm4yQuCwAbsQ9iuNkF) | 3:04 | 2021-12-15 | 2022-07-29 |
-| [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 | 2022-07-01 |  |
+| [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 | 2022-07-01 | 2022-12-02 |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2021-12-15 |  |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-12-15 |  |
 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 | 2022-07-01 |  |

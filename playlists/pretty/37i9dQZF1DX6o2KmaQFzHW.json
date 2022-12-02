@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 151797,
+  "num_followers": 151808,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGE1NjNlMTVmZWZlMWJmZGQ3NjliYjJmOThiY2IyYzFm",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDJhMzBiMjQ4NGRjMDcwZjAzY2M4MzZjMjg4ZWU5MDU4",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "El Duende De Las Guitarras",
-        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Las Manos De Mi Madre",
-      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "From Argentina To The World",
         "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
         }
       ],
-      "duration_ms": 192480,
-      "name": "L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
+      "duration_ms": 196773,
+      "name": "Guitarra de Medianoche",
+      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1363,8 +1363,8 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
       },
       "artists": [
         {
@@ -1372,25 +1372,9 @@
           "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
         }
       ],
-      "duration_ms": 196773,
-      "name": "Guitarra de Medianoche",
-      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "Los Tekis-Los Elegidos",
-        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Ay Vidita",
-      "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
+      "duration_ms": 192480,
+      "name": "L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1407,6 +1391,22 @@
       "duration_ms": 255680,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Los Tekis-Los Elegidos",
+        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Ay Vidita",
+      "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Tinto",
-        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
-      },
-      "artists": [
-        {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
-        }
-      ],
-      "duration_ms": 203053,
-      "name": "La Refranera",
-      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Desde Adentro",
         "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
@@ -1491,18 +1475,34 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Las Canciones de Atahualpa Yupanqui",
-        "url": "https://open.spotify.com/album/0A5XFZ01nfzgPdPnPULVjO"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
       },
       "artists": [
         {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
         }
       ],
-      "duration_ms": 231813,
-      "name": "El Alazan",
-      "url": "https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI"
+      "duration_ms": 233314,
+      "name": "La Pome\u00f1a",
+      "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Tinto",
+        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
+      },
+      "artists": [
+        {
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
+        }
+      ],
+      "duration_ms": 203053,
+      "name": "La Refranera",
+      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
     }
   ],
   "unique_name": "Folklore de Siempre",

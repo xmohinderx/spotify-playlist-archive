@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-469 songs - 1 day 2 hr 40 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+470 songs - 1 day 2 hr 42 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Fun Tonight](https://open.spotify.com/track/4MmO631CdxuFOm18UVbhkp) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [CHAM!](https://open.spotify.com/album/4mk2tlpNn3mQKa6TlNNhnc) | 2:42 | 2021-12-08 |  |
 | [Funk Dust](https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:12 | 2022-07-15 |  |
 | [Funk Dust](https://open.spotify.com/track/3bx3HqxlPUfINHB3UdZGun) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/5yCW8YEqlDyBvIPNm10M1I) | 2:12 | 2021-12-08 | 2022-07-28 |
+| [Funk Express](https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2) | 1:50 | 2022-11-04 |  |
 | [Funk Express](https://open.spotify.com/track/70TRBg1L9oDSa7Rdtz2jJC) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/4bPzw5nnFzNCnszL3rTwA7) | 1:50 | 2022-04-12 | 2022-06-15 |
 | [Funky Zeit](https://open.spotify.com/track/1Dq5LzBRvbeDNqwZzBVKvQ) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Nautical Nonsense](https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm) | 2:30 | 2022-09-16 | 2022-11-23 |
 | [Future Frequencies](https://open.spotify.com/track/6mARIPCcLrfS3LNstwzZlZ) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Future Frequencies](https://open.spotify.com/album/3sbcdq6cG7gRiLocZ7f0M1) | 3:47 | 2022-06-08 | 2022-07-23 |
@@ -319,7 +320,7 @@
 | [PRESSURE PLAY!](https://open.spotify.com/track/2mghQDtF5ilXk1yrESu8dD) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo) | [PRESSURE PLAY!](https://open.spotify.com/album/7emGsLmLXHdPMDY0qexcyf) | 3:31 | 2022-11-04 |  |
 | [Prophecy](https://open.spotify.com/track/6ZtBwt3SJIMLTyHRb6c9MG) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Prophecy](https://open.spotify.com/album/5tRUJC0mUm5hect2JyynN3) | 4:13 | 2022-07-15 | 2022-08-19 |
 | [Prysm](https://open.spotify.com/track/5hS0NoR2jtln7HEUzgQxqd) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Textures](https://open.spotify.com/album/25xCGzP8gWJ70RLCvxVCva) | 4:10 | 2022-01-25 | 2022-04-21 |
-| [quarterback](https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU), [D 4 1 N](https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw) | [quarterback](https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ) | 3:42 | 2022-09-16 |  |
+| [quarterback](https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU), [D 4 1 N](https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw) | [quarterback](https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ) | 3:42 | 2022-09-16 | 2022-12-02 |
 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 | 2021-12-08 | 2022-11-05 |
 | [R&B](https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [R&B](https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z) | 3:25 | 2022-11-04 |  |
 | [Radiant Memories](https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:19 | 2021-12-08 |  |

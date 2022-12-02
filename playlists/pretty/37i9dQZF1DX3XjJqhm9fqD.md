@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Michael Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,630 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,649 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 45 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 |
 | 46 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
 | 47 | [Premier Gaou](https://open.spotify.com/track/1bmwVOpz0kURQHYQ49CVv7) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [Premier Gaou](https://open.spotify.com/album/2Zlu5cWMRa5Bo4w6aIzSWU) | 3:47 |
-| 48 | [Vacation](https://open.spotify.com/track/6udGGj4kJQ9FGm2ZmHEwWu) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Moods Of A Cancer](https://open.spotify.com/album/6YDD3LCouXB66mbDmSGpn1) | 3:00 |
-| 49 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
+| 48 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
+| 49 | [Vacation](https://open.spotify.com/track/6udGGj4kJQ9FGm2ZmHEwWu) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Moods Of A Cancer](https://open.spotify.com/album/6YDD3LCouXB66mbDmSGpn1) | 3:00 |
 | 50 | [Eskize Mwen \- Raboday Mix](https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc), [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Raboday](https://open.spotify.com/artist/12f0pjdXUGmZ0c38TVmvEc) | [Eskize Mwen](https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE) | 3:14 |
 | 51 | [Sammy Sosa](https://open.spotify.com/track/27gKiEShJtM0aUGN2brwEn) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Sammy Sosa](https://open.spotify.com/album/1WrEcubpRe8wHHzmZqRJ1p) | 2:31 |
 | 52 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 75 | [Touche'm](https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Vanessa Desire](https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa) | [Touche'm](https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H) | 3:32 |
 | 76 | [KÈM](https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [KÈM](https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3) | 2:45 |
 | 77 | [Premye Fwa'm Damou](https://open.spotify.com/track/02haBMulGrXnL7pMaSKfdO) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [L'aventure Continue](https://open.spotify.com/album/1qNDvBo6mFaZ6bXVPj09UL) | 3:24 |
-| 78 | [Comme Papa](https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 3:40 |
-| 79 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
+| 78 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
+| 79 | [Comme Papa](https://open.spotify.com/track/5ISI8j1HmsXIRzFtxAwuBn) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 3:40 |
 | 80 | [House Life](https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [House Life](https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC) | 3:45 |
 | 81 | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/track/2cS5AMXcUxR508fCt47jYP) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/album/0AZTNwOGb4dKzz5ztcIxPq) | 3:50 |
 | 82 | [Culo](https://open.spotify.com/track/76z00avJmFVkjRcnufMEou) | [Jamhaitian](https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq) | [Culo](https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES) | 3:12 |
 | 83 | [Bella](https://open.spotify.com/track/2i1m6FdKuKP15EKPTpJ0U5) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK) | [La Familia](https://open.spotify.com/album/6YIYNivggHcvNR3UKXpEz7) | 2:33 |
 | 84 | [Oh Mama](https://open.spotify.com/track/2frWAfuGVi9LwwLb5kZFrP) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg) | [Melanin](https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm) | 2:34 |
-| 85 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 |
-| 86 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
+| 85 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
+| 86 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 |
 | 87 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
 | 88 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
 | 89 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Bade Zile](https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Bade Zile](https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW) | 3:45 |
 | 100 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDgxYzBhNmM2YTEyZTBkMWExMzhlM2E0YzUwZDFjOWZk`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGJjOTIyNGZkMTUyYzk0MjllMThkZjRmMGUxN2E4N2Nh`

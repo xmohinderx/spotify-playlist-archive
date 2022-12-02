@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,394 likes - 233 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,339 likes - 233 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 11 | [Ängarna](https://open.spotify.com/track/13RPTSwWAEQ2XU7PgHj6YQ) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Ängarna](https://open.spotify.com/album/48qEJ2qLRnVcrd9b4unnAJ) | 3:05 |
 | 12 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 |
 | 13 | [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Mo Fiera](https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 |
-| 14 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
+| 14 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
 | 15 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 |
 | 16 | [Jiva](https://open.spotify.com/track/045bWmwbqV82V88ZQzEdaC) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Jiva](https://open.spotify.com/album/1IhH4kJuVq4iXffzIxlHsh) | 2:40 |
 | 17 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Lunar Hush](https://open.spotify.com/artist/53f0b7plDXvgkSmHQV4vBx) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 |

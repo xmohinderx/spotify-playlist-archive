@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,732 likes - 250 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,897 likes - 250 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 17 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 |
 | 18 | [I din nærhet](https://open.spotify.com/track/04QbFy5NlBOJVvQEGlRwsm) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [I din nærhet](https://open.spotify.com/album/4LVIubO2hb2qzRGQHA8R2G) | 2:59 |
 | 19 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 |
-| 20 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Breathania](https://open.spotify.com/artist/2jZ2BLUbfB4Zri64YQChn6) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
+| 20 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
 | 21 | [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 |
 | 22 | [Uendelig](https://open.spotify.com/track/2rSORoj8GOo8vB8Iz2zsSA) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Uendelig](https://open.spotify.com/album/1kluJqHK35vXAraoKM3TM4) | 2:27 |
 | 23 | [Invicta](https://open.spotify.com/track/6dp53x1hi7iUSHsBI8oPMz) | [Ella Wass](https://open.spotify.com/artist/3eZTGNMGlHLHDZ5tSMsM2K) | [Somnium](https://open.spotify.com/album/5aty9Xj6OISEIv5Tn6Ik14) | 4:09 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 39 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 |
 | 40 | [A Magic Forest](https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [A Magic Forest](https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu) | 3:05 |
 | 41 | [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 |
-| 42 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
+| 42 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
 | 43 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 |
 | 44 | [Rétrospective](https://open.spotify.com/track/5SpWWXLR52XCIw8J355D7t) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Rétrospective](https://open.spotify.com/album/7EjOLWwV9wGAlEole3PGWA) | 2:29 |
 | 45 | [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 49 | [Donia](https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Donia](https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae) | 2:22 |
 | 50 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 |
 | 51 | [Meet Me At Sundown](https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Meet Me At Sundown](https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ) | 3:05 |
-| 52 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Aulin Heras](https://open.spotify.com/artist/5IoiWICcLlfWh4K4VBQcDu) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
+| 52 | [The Endless Frontier](https://open.spotify.com/track/2ltLj6TQczrt4tbWmKE8EP) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [The Endless Frontier](https://open.spotify.com/album/5LaAaevE64mdJq1pFkW7lG) | 3:07 |
 | 53 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 |
 | 54 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 |
 | 55 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 |

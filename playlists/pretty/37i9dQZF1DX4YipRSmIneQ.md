@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > your favorite queer bedroom club
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,007 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,050 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 17 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
 | 18 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
 | 19 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
-| 20 | [Fierce](https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Fantasea](https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD) | 3:13 |
-| 21 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 |
-| 22 | [Horsey](https://open.spotify.com/track/347HlvMjlbtP1KzuzBBAWf) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/71ZYo5DABA1qaup7JcUy0B) | 2:17 |
-| 23 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/64xy8ja7i7F0VPmgLUrMCx) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/2Bnzz1MOwqdalLiHpX2mhV) | 2:40 |
+| 20 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 |
+| 21 | [Fierce](https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Fantasea](https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD) | 3:13 |
+| 22 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/64xy8ja7i7F0VPmgLUrMCx) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/2Bnzz1MOwqdalLiHpX2mhV) | 2:40 |
+| 23 | [Horsey](https://open.spotify.com/track/347HlvMjlbtP1KzuzBBAWf) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/71ZYo5DABA1qaup7JcUy0B) | 2:17 |
 | 24 | [Muschi Muschi](https://open.spotify.com/track/3pqvIzV7DIS9orbtKlHAal) | [DBBD](https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [SLUT BOPZ VOL\. I](https://open.spotify.com/album/1bFC5vkhBXMF7Xz36e87rw) | 3:02 |
 | 25 | [Pop That](https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Pop That](https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX) | 3:37 |
 | 26 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 31 | [Mommy](https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO) | 2:34 |
 | 32 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 33 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
-| 34 | [All In A Dream \- Logic1000 Remix](https://open.spotify.com/track/3SG8Ozw6YOgR8WJtr8lzFM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [All In A Dream \(Logic1000 Remix\)](https://open.spotify.com/album/699Jw6f2UuWYYEKcrlda6l) | 4:23 |
-| 35 | [Hypnotized](https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn) | [Soraya](https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R) | [Hypnotized](https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu) | 4:25 |
+| 34 | [Hypnotized](https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn) | [Soraya](https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R) | [Hypnotized](https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu) | 4:25 |
+| 35 | [All In A Dream \- Logic1000 Remix](https://open.spotify.com/track/3SG8Ozw6YOgR8WJtr8lzFM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [All In A Dream \(Logic1000 Remix\)](https://open.spotify.com/album/699Jw6f2UuWYYEKcrlda6l) | 4:23 |
 | 36 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 | 37 | [Tear the House Up](https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da) | 4:40 |
 | 38 | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc) | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 |
 | 50 | [Svengali](https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5) | 2:59 |
 
-Snapshot ID: `MTY2OTc1NDkzNCwwMDAwMDAwMGFjZTk4OTVkMjE3MzNiZWFiZDM5Yjg5NzFmNmEyMmUy`
+Snapshot ID: `MTY2OTc1NDkzNCwwMDAwMDAwMGEzOTBjZWQ2NWQ0MWUzZTI5NDA0YTYxYjQwZmVhMmNm`

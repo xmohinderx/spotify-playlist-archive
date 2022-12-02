@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-299 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
+300 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Shady Side](https://open.spotify.com/track/5j85Y5lPqHqvww4Q2H3pY1) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:04 | 2021-08-31 | 2022-10-08 |
 | [She's Alive](https://open.spotify.com/track/1GLnM2xHIG9DdLGESEEA6n) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Forsvinder](https://open.spotify.com/album/6UOCZIfcpsCYhfcFnywMBd) | 2:11 | 2020-05-02\* |  |
 | [Shir Eres \(Lullaby\)](https://open.spotify.com/track/36wpZ7gr4g48cCcEYvqrOj) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7) | [Shir Eres \(Lullaby\)](https://open.spotify.com/album/1ZD1hiYSmO3US7MNSMEnM9) | 4:35 | 2020-05-02\* | 2022-11-13 |
+| [Silver Light](https://open.spotify.com/track/0scC8HqVaRe04wA0EeAZLp) | [Sebastian Rochford](https://open.spotify.com/artist/2HK0XyXwfJg8qxJzHIg02p), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Silver Light](https://open.spotify.com/album/37zSkjz6slUovSDYQlqFCX) | 4:55 | 2022-11-24 |  |
 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 | 2020-05-02\* | 2021-08-20 |
 | [Sketches](https://open.spotify.com/track/2JtCWufXwjsc1jC2RS1m8I) | [Dan Berkson](https://open.spotify.com/artist/60MCXrI72kKaa7U2KaxcWz) | [Dialogues](https://open.spotify.com/album/09fvqoOrmMm0hbI5mpB1LV) | 5:48 | 2021-09-17 | 2021-10-01 |
 | [Sketches of Blue](https://open.spotify.com/track/55NMOgcRh8EvS91cIhmqk9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Sketches of Blue](https://open.spotify.com/album/5CI83SxHMTMlFfKFSxB0XF) | 6:29 | 2022-03-10 | 2022-10-08 |
@@ -271,7 +272,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/1eghoZLe436O2AHiZaoGVQ) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/1RGYFu40MzvQGoVD8qhmLu) | 3:28 | 2020-06-12 | 2022-07-29 |
 | [These Things You Left Me](https://open.spotify.com/track/1JrenHXNhZeh4TVnlOZCU9) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Sophia Tomelleri](https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [On the Trail](https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8) | 5:04 | 2022-06-23 | 2022-10-08 |
 | [They All Say I'm The Biggest Fool](https://open.spotify.com/track/6sX3BMTAlTwC5L9SugZQQQ) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 7:44 | 2021-02-12 | 2021-09-10 |
-| [They Didn't Believe Me](https://open.spotify.com/track/34oMi39G5RYgaCPwRNJ7OU) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Way You Look Tonight](https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO) | 3:29 | 2020-10-27 |  |
+| [They Didn't Believe Me](https://open.spotify.com/track/34oMi39G5RYgaCPwRNJ7OU) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Way You Look Tonight](https://open.spotify.com/album/2aKxIghDsEluUXa0LZgrLO) | 3:29 | 2020-10-27 | 2022-12-02 |
 | [Thierno](https://open.spotify.com/track/2SdthMHDqydhV2PceC9QBX) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [XXV](https://open.spotify.com/album/2CrVF5hywa6NiW47Yl8RkF) | 4:34 | 2020-05-02\* | 2022-08-11 |
 | [This Is Not About You](https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [This is Not About You](https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI) | 3:50 | 2021-11-20 | 2022-11-13 |
 | [Those Peaceful Nights](https://open.spotify.com/track/3uL5MKK614H6AfCx2BKBqV) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 7:15 | 2022-03-10 |  |

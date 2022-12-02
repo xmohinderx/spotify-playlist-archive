@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Plastilina Mosh en portada.",
-  "num_followers": 460915,
+  "num_followers": 461071,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDYxYjZiMTNiOWMzNjFiMGMxYmM5NjA3OTFiODBhMzUy",
+  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDZjZGViNDg5YmE2NWI5ODIzNmEyZmE3ZTBiMDRmZjgy",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
     },
     {
-      "added_at": "2022-08-19 01:15:52",
-      "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
-    },
-    {
       "added_at": "2022-01-28 17:39:37",
       "album": {
         "name": "Bestia",
@@ -1135,6 +1119,22 @@
       "duration_ms": 248939,
       "name": "Bestia",
       "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
+    },
+    {
+      "added_at": "2022-08-19 01:15:52",
+      "album": {
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
     },
     {
       "added_at": "2022-08-25 00:53:36",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Rock en Espa\u00f1ol 80's & 90's",
+        "url": "https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Ep1",
         "url": "https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 227600,
       "name": "Horror Amor",
       "url": "https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz"
-    },
-    {
-      "added_at": "2022-06-30 21:30:11",
-      "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1525,20 +1525,20 @@
       "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
-      "added_at": "2022-01-28 17:39:37",
+      "added_at": "2022-06-30 21:30:11",
       "album": {
-        "name": "Rock en Espa\u00f1ol 80's & 90's",
-        "url": "https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh"
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
       },
       "artists": [
         {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 227066,
-      "name": "No Huyas De Mi",
-      "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2022-01-28 17:39:37",

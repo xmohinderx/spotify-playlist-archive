@@ -2,7 +2,7 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Mickey Guyton
+> The extraordinary women making great country music today\. Cover: Maren Morris
 
 291 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 

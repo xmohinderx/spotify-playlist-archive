@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 frada in cover",
+  "description": "canzoni da gridare \u2764\ufe0f\u200d\ud83e\ude79 yungblud in cover",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -153,6 +153,24 @@
       "duration_ms": 163575,
       "name": "20 Anni (Andale)",
       "url": "https://open.spotify.com/track/5F9qPcOEMVaeFJYpTGckAS"
+    },
+    {
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/7np76HqryoOmcpf4K94Egj"
+      },
+      "artists": [
+        {
+          "name": "SickTeens",
+          "url": "https://open.spotify.com/artist/43zSSTbEARYCOTzP6IsCZi"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170663,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/3sYAJGZdo5nhOa1T3HyhPh"
     },
     {
       "album": {
@@ -457,6 +475,28 @@
       "duration_ms": 138450,
       "name": "Almeno Stasera",
       "url": "https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv"
+    },
+    {
+      "album": {
+        "name": "AMAREGGIANTE",
+        "url": "https://open.spotify.com/album/7DHAvzWxK0HhdZfrjoOD8s"
+      },
+      "artists": [
+        {
+          "name": "KONTI flowerchild",
+          "url": "https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130461,
+      "name": "AMAREGGIANTE",
+      "url": "https://open.spotify.com/track/2Qc89TuAewUg1bf158o42k"
     },
     {
       "album": {
@@ -1353,7 +1393,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 136000,
       "name": "Distrutto",
       "url": "https://open.spotify.com/track/7bHMFs5ueeFuDL1N5NiN9E"
@@ -1589,7 +1629,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
@@ -1825,6 +1865,24 @@
       "duration_ms": 171000,
       "name": "FOLLI",
       "url": "https://open.spotify.com/track/6GrNnPS1fS40ZCxZ73b1JI"
+    },
+    {
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/1U0Q8qa8DybCOYYOOftJzc"
+      },
+      "artists": [
+        {
+          "name": "Verde Acqua",
+          "url": "https://open.spotify.com/artist/4XDCeN5DgXMioJGfRVpghP"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/2lSrqHxp8kxEtlI7eSLUnx"
     },
     {
       "album": {
@@ -2449,7 +2507,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 183531,
       "name": "I Bambini",
       "url": "https://open.spotify.com/track/5cfbyOVx3oDHN0Nhjjv663"
@@ -2706,6 +2764,24 @@
     },
     {
       "album": {
+        "name": "La citt\u00e0 che odi",
+        "url": "https://open.spotify.com/album/6nn80cWrKmyThtnV8YvzoU"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167874,
+      "name": "La citt\u00e0 che odi",
+      "url": "https://open.spotify.com/track/7D0sjlRoNiruzLMOSjwbWz"
+    },
+    {
+      "album": {
         "name": "STO NELLA SAD",
         "url": "https://open.spotify.com/album/5wRGqfBO1sjjq8Gsa71bQn"
       },
@@ -2769,7 +2845,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 191928,
       "name": "La tua laurea",
       "url": "https://open.spotify.com/track/0fW72MeciQU95GEXe3LMzB"
@@ -3353,6 +3429,28 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "album": {
+        "name": "LORE FM + Memory Card (slot 1)",
+        "url": "https://open.spotify.com/album/2l3ptPuZVll09MATXBl3sX"
+      },
+      "artists": [
+        {
+          "name": "Morganorarity",
+          "url": "https://open.spotify.com/artist/1PZQrQESNQJPWZKXPC43nS"
+        },
+        {
+          "name": "CarciofinoLesso",
+          "url": "https://open.spotify.com/artist/3d81H4qtyNPCScsnG54cUP"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159473,
+      "name": "Memory card",
+      "url": "https://open.spotify.com/track/0aEn53Ylvg9hqBrh3DcvYx"
     },
     {
       "album": {
@@ -4246,6 +4344,44 @@
     },
     {
       "album": {
+        "name": "PROBLEMI CON LA DROGA",
+        "url": "https://open.spotify.com/album/6NHytU4CfBcvE3QtLnK3Mb"
+      },
+      "artists": [
+        {
+          "name": "COLLETTIVO",
+          "url": "https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq"
+        },
+        {
+          "name": "trippinduke",
+          "url": "https://open.spotify.com/artist/6uJgIYT8rNd8AGFDGiyBDK"
+        },
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd"
+        },
+        {
+          "name": "Zzama",
+          "url": "https://open.spotify.com/artist/3d9yGJbbSuMUQ1wzNmGISp"
+        },
+        {
+          "name": "Quello",
+          "url": "https://open.spotify.com/artist/7GdkzNtMzNUCOMxqBYacF7"
+        },
+        {
+          "name": "Oreste",
+          "url": "https://open.spotify.com/artist/1iEAHd4i99ehWHsruWZ6FL"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210511,
+      "name": "PROBLEMI CON LA DROGA",
+      "url": "https://open.spotify.com/track/1BTLnipRQZjpOjeRLjensv"
+    },
+    {
+      "album": {
         "name": "Profondo Rosso",
         "url": "https://open.spotify.com/album/3X3Dvr8MppF1ufZ6aloGDd"
       },
@@ -4523,6 +4659,24 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
+        "name": "Rossa",
+        "url": "https://open.spotify.com/album/7aqLZcG6sIb8AVIYjEdvS0"
+      },
+      "artists": [
+        {
+          "name": "K beezy 28",
+          "url": "https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Rossa",
+      "url": "https://open.spotify.com/track/3piSmKNs61q6u8McTiIxJS"
     },
     {
       "album": {
@@ -4869,7 +5023,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 162739,
       "name": "SnOWfLAkE",
       "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
@@ -5967,7 +6121,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 172181,
       "name": "VADO IN CRASH",
       "url": "https://open.spotify.com/track/008Eu3VYrBfrLfJ0lujTYh"

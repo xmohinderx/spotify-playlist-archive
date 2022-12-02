@@ -5764,6 +5764,24 @@
     },
     {
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "album": {
         "name": "Cheap Hotel",
         "url": "https://open.spotify.com/album/3brZD4dpegCaKmFdJagMoz"
       },
@@ -8287,7 +8305,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 164714,
       "name": "You Ain't The Problem - Claptone Remix",
       "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"

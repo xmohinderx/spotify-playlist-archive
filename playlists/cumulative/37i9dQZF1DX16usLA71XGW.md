@@ -2,7 +2,7 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa Queens in their musical element.
+> East Africa Queens in their music bag
 
 76 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
 

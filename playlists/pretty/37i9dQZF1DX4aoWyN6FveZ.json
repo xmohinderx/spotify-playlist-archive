@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 3142,
+  "num_followers": 3207,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDJiNDViMmI5MTU1N2E1ZjNkMjBjMDY0ZmI4YTIxMmUx",
+  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDU1NTM4NDczNjljMjg3NmU2YjMzMjhhNTBkNDFjMzVm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 156759,
       "name": "Pretty Boy (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/0f1G5SHFoFC9lO03gHCGVS"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 141346,
+      "name": "poochie gown",
+      "url": "https://open.spotify.com/track/3daUZMkia3HT0E7xITejR6"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Wanna Know Remix (feat. Drake)",
         "url": "https://open.spotify.com/album/58w0f9JJztUe8vXg9C0WwD"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 199019,
       "name": "Wanna Know Remix (feat. Drake)",
       "url": "https://open.spotify.com/track/7bPLo5Fv7h15E2fW3g1mVQ"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 141346,
-      "name": "poochie gown",
-      "url": "https://open.spotify.com/track/3daUZMkia3HT0E7xITejR6"
     },
     {
       "added_at": "2022-10-01 20:09:45",

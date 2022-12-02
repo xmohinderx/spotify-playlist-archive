@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 123596,
+  "num_followers": 123760,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDczMzA2YTgzZjk4ZmRmOTBlMjY5NTdmNzk4ZDdhNDU3",
+  "snapshot_id": "MTY2ODcyNTQ4MCwwMDAwMDAwMDU1MjFkYzRmMTM4YjZlYjFkMmYzOWE2Yzc4NGZhNjVm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -277,6 +277,22 @@
       "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
     },
     {
+      "added_at": "2022-07-19 04:00:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -297,20 +313,20 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2022-07-19 04:00:00",
+      "added_at": "2022-09-11 03:45:48",
       "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+        "name": "CLEARING",
+        "url": "https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg"
       },
       "artists": [
         {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
         }
       ],
-      "duration_ms": 187307,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
+      "duration_ms": 180000,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -327,22 +343,6 @@
       "duration_ms": 215583,
       "name": "Garter Snake",
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
-      "added_at": "2022-09-11 03:45:48",
-      "album": {
-        "name": "CLEARING",
-        "url": "https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg"
-      },
-      "artists": [
-        {
-          "name": "Hyd",
-          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
     },
     {
       "added_at": "2022-07-15 05:42:04",
@@ -437,26 +437,6 @@
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
-      "added_at": "2022-09-09 13:45:31",
-      "album": {
-        "name": "Jolene From Her Own Perspective",
-        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
-      },
-      "artists": [
-        {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        },
-        {
-          "name": "zannie",
-          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Jolene From Her Own Perspective",
-      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
-    },
-    {
       "added_at": "2022-09-12 20:31:51",
       "album": {
         "name": "Can I Call You",
@@ -481,6 +461,26 @@
       "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
     },
     {
+      "added_at": "2022-09-09 13:45:31",
+      "album": {
+        "name": "Jolene From Her Own Perspective",
+        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        },
+        {
+          "name": "zannie",
+          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Jolene From Her Own Perspective",
+      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+    },
+    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -495,26 +495,6 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
-    },
-    {
-      "added_at": "2022-09-06 17:57:02",
-      "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/4rT90eAMOjQ0WW8NAXDsDk"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        },
-        {
-          "name": "Nurse With Wound",
-          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
-        }
-      ],
-      "duration_ms": 646683,
-      "name": "Simple Headphone Mind",
-      "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
     },
     {
       "added_at": "2022-08-13 00:53:45",
@@ -535,6 +515,26 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "added_at": "2022-09-06 17:57:02",
+      "album": {
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/4rT90eAMOjQ0WW8NAXDsDk"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+        }
+      ],
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6"
     },
     {
       "added_at": "2022-08-31 04:34:22",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC"
     },
     {
-      "added_at": "2022-07-15 05:42:57",
-      "album": {
-        "name": "Robot Riot",
-        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 176952,
-      "name": "Robot Riot",
-      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
-    },
-    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Sun's Signature",
@@ -689,22 +673,6 @@
       "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
-      "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Moot!",
@@ -719,6 +687,38 @@
       "duration_ms": 297239,
       "name": "Right is Alright, Wrong is to Belong",
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
+    },
+    {
+      "added_at": "2022-07-15 05:42:57",
+      "album": {
+        "name": "Robot Riot",
+        "url": "https://open.spotify.com/album/4dnVdfbC0z2EkLPC9D2MJ4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 176952,
+      "name": "Robot Riot",
+      "url": "https://open.spotify.com/track/5n73mUl0n0X3q41esYzU8G"
+    },
+    {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
+      "added_at": "2022-09-11 03:49:06",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc"
+      },
+      "artists": [
+        {
+          "name": "M\u00efr\u00e4nd\u00e4",
+          "url": "https://open.spotify.com/artist/5WV3ngokHMKB6pmuRprszb"
+        }
+      ],
+      "duration_ms": 238134,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Universe Is Always Right",
@@ -807,22 +823,6 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
-    },
-    {
-      "added_at": "2022-09-11 03:49:06",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc"
-      },
-      "artists": [
-        {
-          "name": "M\u00efr\u00e4nd\u00e4",
-          "url": "https://open.spotify.com/artist/5WV3ngokHMKB6pmuRprszb"
-        }
-      ],
-      "duration_ms": 238134,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP"
     },
     {
       "added_at": "2022-09-29 00:31:07",
@@ -921,6 +921,38 @@
       "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
     },
     {
+      "added_at": "2022-07-15 05:46:40",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 517362,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Room For The Moon",
+        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -939,22 +971,6 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Room For The Moon",
-        "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
-      },
-      "artists": [
-        {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
-        }
-      ],
-      "duration_ms": 338371,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -987,22 +1003,6 @@
       "duration_ms": 180546,
       "name": "See Her",
       "url": "https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm"
-    },
-    {
-      "added_at": "2022-07-15 05:46:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 517362,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
     },
     {
-      "added_at": "2022-04-20 13:58:09",
-      "album": {
-        "name": "Las Olas Contra Todos",
-        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 165113,
-      "name": "Las Olas Contra Todos",
-      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Cosmorama",
@@ -1119,6 +1103,22 @@
       "duration_ms": 258420,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
+    },
+    {
+      "added_at": "2022-04-20 13:58:09",
+      "album": {
+        "name": "Las Olas Contra Todos",
+        "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 165113,
+      "name": "Las Olas Contra Todos",
+      "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/1cj2R6d4t9S2qBNUOcSt0t"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
-    },
-    {
       "added_at": "2022-01-11 00:08:03",
       "album": {
         "name": "Phantom Throb",
@@ -1383,6 +1367,22 @@
       "duration_ms": 234274,
       "name": "Phantom Throb",
       "url": "https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
     },
     {
       "added_at": "2022-01-21 20:15:30",
@@ -1465,26 +1465,6 @@
       "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
     },
     {
-      "added_at": "2022-08-25 19:38:46",
-      "album": {
-        "name": "A Liberdade \u00e9 Cara",
-        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
-      },
-      "artists": [
-        {
-          "name": "Flak",
-          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
-        },
-        {
-          "name": "Cachupa Psicadelica",
-          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "A Liberdade \u00e9 Cara",
-      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
@@ -1503,6 +1483,26 @@
       "duration_ms": 182800,
       "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
+    },
+    {
+      "added_at": "2022-08-25 19:38:46",
+      "album": {
+        "name": "A Liberdade \u00e9 Cara",
+        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
+      },
+      "artists": [
+        {
+          "name": "Flak",
+          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
+        },
+        {
+          "name": "Cachupa Psicadelica",
+          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "A Liberdade \u00e9 Cara",
+      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
       "added_at": "2022-07-14 12:42:06",

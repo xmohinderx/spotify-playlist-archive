@@ -8135,10 +8135,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 161088,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/3g4eSj0nOYjsYSq8D5B4yO"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/2fcBZmhZ26hGwQi6lkYjhl"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161088,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/58MleMYAZeI81f5fI6YUs6"
     },
     {
       "album": {

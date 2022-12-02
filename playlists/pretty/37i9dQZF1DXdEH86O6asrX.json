@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 521857,
+  "num_followers": 521850,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDAyNTI5ZTkyNWM0ZmM1ZTYyNWVkZDQzYjMzYzljN2Y2",
+  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDg2ZGE0ZmI2OTJhYjUyZWFkM2M0ZjIwYzk3MDI0ZGQ1",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 63973,
       "name": "Somewhere in My Memory - Chorus & Orchestra Version",
       "url": "https://open.spotify.com/track/1WA5av9UlqPNOKcaUdWbGM"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -387,22 +387,18 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 293533,
-      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
-      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+      "duration_ms": 142600,
+      "name": "Santa Claus Is Back In Town",
+      "url": "https://open.spotify.com/track/5b1jXYUOgAX5QAHXPVHdld"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -423,18 +419,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 142600,
-      "name": "Santa Claus Is Back In Town",
-      "url": "https://open.spotify.com/track/5b1jXYUOgAX5QAHXPVHdld"
+      "duration_ms": 293533,
+      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
+      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -719,22 +719,18 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Rocketman (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Taron Egerton",
-          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 250773,
-      "name": "(I'm Gonna) Love Me Again",
-      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+      "duration_ms": 175533,
+      "name": "Christmas at Hogwarts",
+      "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -755,18 +751,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+        "name": "Rocketman (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
         }
       ],
-      "duration_ms": 175533,
-      "name": "Christmas at Hogwarts",
-      "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
+      "duration_ms": 250773,
+      "name": "(I'm Gonna) Love Me Again",
+      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -839,18 +839,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ"
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
       "artists": [
         {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
         }
       ],
-      "duration_ms": 175973,
-      "name": "Down To The River To Pray",
-      "url": "https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv"
+      "duration_ms": 169092,
+      "name": "'Zat You, Santa Claus? - Single Version",
+      "url": "https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ"
     }
   ],
   "unique_name": "Soundtracks \u00c9picos",

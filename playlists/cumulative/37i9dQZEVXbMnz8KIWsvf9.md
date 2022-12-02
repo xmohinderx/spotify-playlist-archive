@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-506 songs - 1 day 5 hr 31 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+507 songs - 1 day 5 hr 34 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-03-27\* | 2021-09-21 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-07 | 2021-12-25 |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2021-09-24 | 2022-01-01 |
-| [OOOWEE](https://open.spotify.com/track/0OVidAFsl94UqP9RZHX50W) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn), [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [OOOWEE](https://open.spotify.com/album/6WJ95w21cyMFdDtp2babUG) | 4:06 | 2022-11-30 |  |
+| [OOOWEE](https://open.spotify.com/track/0OVidAFsl94UqP9RZHX50W) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn), [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [OOOWEE](https://open.spotify.com/album/6WJ95w21cyMFdDtp2babUG) | 4:06 | 2022-11-30 | 2022-12-02 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-12 | 2022-01-23 |
 | [Outro: Wings](https://open.spotify.com/track/7kyUapJyppdjzoAWB6XS14) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:45 | 2022-05-12 | 2022-05-14 |
 | [Paint Me Naked](https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Paint Me Naked \- SM STATION](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) | 3:00 | 2021-08-12 | 2021-08-13 |
@@ -411,6 +411,7 @@
 | [นะหน้าทอง](https://open.spotify.com/track/4iA3PrcsOt6bmoXTaDXhf3) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [นะหน้าทอง](https://open.spotify.com/album/2uNIKROQ7h7ZxBgO8PtGXA) | 4:48 | 2022-07-18 |  |
 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 | 2022-09-21 |  |
 | [นิโคติน](https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [นิโคติน \- Single](https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34) | 3:36 | 2021-03-27\* | 2021-10-17 |
+| [น้อง](https://open.spotify.com/track/0unRRE5iY2faIR2HV2aGpF) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [น้อง \(feat\. UrboyTJ\)](https://open.spotify.com/album/0RC8Xjy8pOsrbVHqqHn5OT) | 3:11 | 2022-12-01 |  |
 | [น้ำลาย](https://open.spotify.com/track/6oBGKAEqVgvljmFMwMUAXX) | [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg), [แพรวา](https://open.spotify.com/artist/0Qqu1es91949kEHLpLXLoR) | [น้ำลาย](https://open.spotify.com/album/5smaS69FZBgWSrzqzba6z7) | 4:21 | 2021-03-27 | 2021-10-01 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/1EMY6N5Ciaa5xHQPsyIJ8P) | 3:36 | 2021-03-27\* | 2021-04-14 |
 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 | 2021-11-24 |  |

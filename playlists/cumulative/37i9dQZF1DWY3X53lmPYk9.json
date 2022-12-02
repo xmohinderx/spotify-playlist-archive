@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo",
+          "url": "https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113263,
+      "name": "Ballad For Hilda",
+      "url": "https://open.spotify.com/track/0GGnf4gQNCrvwC32lroIJv"
+    },
+    {
+      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/1miiJPlOWBBXi41jf6J3CJ"
       },
@@ -988,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Fly Me To The Moon",
+        "url": "https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY"
+    },
+    {
+      "album": {
         "name": "For Heaven's Sake",
         "url": "https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml"
       },
@@ -1057,6 +1093,24 @@
       "duration_ms": 254647,
       "name": "God Bless the Child",
       "url": "https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2"
+    },
+    {
+      "album": {
+        "name": "Gone With The Wind",
+        "url": "https://open.spotify.com/album/5gWixXwisRX4dTF15toKLe"
+      },
+      "artists": [
+        {
+          "name": "Ben Hubert",
+          "url": "https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212848,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/5Ipp7U3NUTdLcfUknpqYd3"
     },
     {
       "album": {
@@ -1798,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo",
+          "url": "https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147856,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz"
+    },
+    {
+      "album": {
         "name": "Lullaby for Lilly",
         "url": "https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC"
       },
@@ -2169,7 +2241,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 260004,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/14BLMhpVsywOPvT7zOaFu5"
@@ -2277,7 +2349,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 346000,
       "name": "Once I Had A secret Love",
       "url": "https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR"
@@ -2565,10 +2637,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 179459,
       "name": "Someday My Prince Will Come",
       "url": "https://open.spotify.com/track/0NoAxejQ4AGQlLiZWaQc5b"
+    },
+    {
+      "album": {
+        "name": "Someone to watch over me",
+        "url": "https://open.spotify.com/album/3kCV8E3FCgVmajnZqtgVBK"
+      },
+      "artists": [
+        {
+          "name": "Danny Walgreen",
+          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Someone to watch over me",
+      "url": "https://open.spotify.com/track/5fKaF4JYtW6v3RZivLTbmD"
     },
     {
       "album": {
@@ -2839,6 +2929,24 @@
       "duration_ms": 247788,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no"
+      },
+      "artists": [
+        {
+          "name": "Mia Bartlett",
+          "url": "https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173656,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z"
     },
     {
       "album": {

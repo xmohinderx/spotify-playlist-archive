@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-280 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+281 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King \(Reimagined\)](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2021-12-24 | 2022-07-29 |
 | [Born In Bethlehem](https://open.spotify.com/track/0bx2d5fwkiVtipA1JT7Qdm) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Christmas Offerings](https://open.spotify.com/album/0ytvxlV9CcT0IAke7hxdfj) | 3:42 | 2021-12-11 |  |
 | [Born on That Day](https://open.spotify.com/track/3wlUyTYyx0XBsk2IoKu6R7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:35 | 2021-12-11 |  |
+| [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/track/3nt6KSOlcetP5Asp9mAL2I) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/album/3wugGehkfYGRLeWN1ZFtVw) | 4:55 | 2022-11-26 |  |
 | [Brightest And Best](https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Brightest And Best](https://open.spotify.com/album/3NuC18AEUC7JWFENjWsnag) | 4:40 | 2021-12-11 |  |
 | [Christmas \(What the World Needs\)](https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas \(What the World Needs\)](https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h) | 3:36 | 2021-12-11 |  |
 | [Christmas Back Home](https://open.spotify.com/track/6UdwFxbk5DM9Wi7ravGUgY) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Christmas Back Home](https://open.spotify.com/album/4xpkOAvw5wL5FQv2G0z6cU) | 3:41 | 2021-12-11 | 2022-07-28 |
@@ -227,7 +228,7 @@
 | [Rejoice](https://open.spotify.com/track/3vUVSo09281qRWPabnsIMy) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Rejoice](https://open.spotify.com/album/7FlCM63Q0pIap1Ofg3uwSK) | 3:12 | 2021-12-24 |  |
 | [Rejoice](https://open.spotify.com/track/1omPPso8Q4XPxYiq1fAGxm) | [Life Center Worship](https://open.spotify.com/artist/2Ce6pVvFGzybXRHQWbCTAr) | [Rejoice](https://open.spotify.com/album/5qptzJ8gFJasSSwzghvttN) | 3:47 | 2021-12-24 | 2022-07-26 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6rCdJDoe9gCKDtf2J5ms9A) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/2r0s6DBklPX2xf4tTPenEQ) | 3:20 | 2022-11-26 |  |
-| [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/track/0WqMFT1BrV53fUDpkxPPBK) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Laura Cooksey](https://open.spotify.com/artist/6MWom32rnuJDTw1LnnvsxK), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/album/5Da36nhwnnXFK3A3eAJxio) | 4:33 | 2022-11-26 |  |
+| [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/track/0WqMFT1BrV53fUDpkxPPBK) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Laura Cooksey](https://open.spotify.com/artist/6MWom32rnuJDTw1LnnvsxK), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/album/5Da36nhwnnXFK3A3eAJxio) | 4:33 | 2022-11-26 | 2022-12-02 |
 | [Santa la Noche](https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX) | 3:56 | 2021-12-24 | 2022-07-27 |
 | [Saviour](https://open.spotify.com/track/7g6DscMtOV2ddOUsanh9Eo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Saviour](https://open.spotify.com/album/7noLUyCB1UokVaRfd7Zgom) | 4:18 | 2022-11-26 |  |
 | [Seasons](https://open.spotify.com/track/5fpu3LhQlnuc60sjDbssjW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:34 | 2021-12-11 | 2022-11-06 |

@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-364 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+366 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hallo Gallo](https://open.spotify.com/track/5tEcZDbPrZDoPf5EYU9Y84) | [フィン \(CV.入野自由\)](https://open.spotify.com/artist/19Eztn3ipHq4vAh5bkWidF), [ミト \(クラムボン\)](https://open.spotify.com/artist/1jpK6BQogVa5NnFoX4okCu) | [Hallo Gallo](https://open.spotify.com/album/7dKjwg0fhfKTWFyhvR3Ucu) | 5:17 | 2022-08-30 | 2022-09-21 |
 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 | 2022-08-02 | 2022-10-05 |
 | [Happy! Happier! Happiest!](https://open.spotify.com/track/5DLCWZ8iCApW6pW2VoR6tR) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [Happy! Happier! Happiest!](https://open.spotify.com/album/7p2of7HqIEMr6zv1ux2o40) | 4:01 | 2022-06-30 | 2022-07-27 |
+| [Heaven’s falling down](https://open.spotify.com/track/6q8zgVqFyHm7tnrhe7gMMQ) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Heaven’s falling down](https://open.spotify.com/album/4k9eadDUC9Mgab8rFcEiSS) | 3:35 | 2022-12-01 |  |
 | [HELLO](https://open.spotify.com/track/54hxy2o48DD270KUt21Fp4) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [鈴木このみ5thアルバム「ULTRA FLASH」](https://open.spotify.com/album/6ZnPbcPpRkomKi28gJ1R8o) | 3:12 | 2022-05-28 | 2022-07-06 |
 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 | 2022-06-09 | 2022-06-15 |
 | [HELLO HELLO HELLO](https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7) | 4:03 | 2022-07-28 | 2022-10-19 |
@@ -170,7 +171,7 @@
 | [STORM's EYE](https://open.spotify.com/track/2nicTWiRmk43NmscFxWxpV) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [JAXX/JAXX](https://open.spotify.com/artist/6HGceVVtmMQcDBRqTU1hhz) | [STORM's EYE](https://open.spotify.com/album/6umXSQIilZzl8582PGzZeZ) | 3:59 | 2022-09-15 | 2022-10-05 |
 | [STORY](https://open.spotify.com/track/73mTBbvJiVHW4Wquiws0x8) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [OPENING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/6mxRSY6MkwCe5Y7Pqcjm1E) | 3:44 | 2022-08-02 | 2022-10-19 |
 | [Straw Hat Pirates Anthem Steve Aoki Remix](https://open.spotify.com/track/3ARhBWi7sTpQXrlseshVOt) | [スティーヴ・アオキ](https://open.spotify.com/artist/3wcyIIlkfkrqmJ87xhWNuM) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 4:17 | 2022-10-27 | 2022-11-16 |
-| [STRAWBERRY](https://open.spotify.com/track/6VrK9Mho3EuUQ8jnNxkTms) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [STRAWBERRY](https://open.spotify.com/album/6geWMGwDavF6Tutv79sKWS) | 3:44 | 2022-10-04 |  |
+| [STRAWBERRY](https://open.spotify.com/track/6VrK9Mho3EuUQ8jnNxkTms) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [STRAWBERRY](https://open.spotify.com/album/6geWMGwDavF6Tutv79sKWS) | 3:44 | 2022-10-04 | 2022-12-02 |
 | [STRIX](https://open.spotify.com/track/1ReifYy4YQWlAHu1yJjf7s) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:24 | 2022-06-25 | 2022-07-27 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-17 |  |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
@@ -199,7 +200,7 @@
 | [Wherever](https://open.spotify.com/track/6APr8sy2QQ069Semu8mHLI) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [Wherever](https://open.spotify.com/album/7uLHf7YtnW93JodSYUl7AE) | 3:30 | 2022-08-16 | 2022-10-19 |
 | [White Love](https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [White Love](https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA) | 5:36 | 2022-11-24 |  |
 | [WINNER](https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp) | 3:32 | 2022-10-18 | 2022-11-25 |
-| [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 | 2022-10-03 |  |
+| [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 | 2022-10-03 | 2022-12-02 |
 | [With You](https://open.spotify.com/track/0c6N2M3SJS081a3n1Vutuy) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With You](https://open.spotify.com/album/6fbXXOpIKmv5Zfd8ajyaPp) | 4:34 | 2022-07-28 | 2022-09-02 |
 | [With you](https://open.spotify.com/track/57RtosVWxGr0pOSr6A9FYh) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [With you](https://open.spotify.com/album/0Pjg5M9cD5YQNerW2oFFw6) | 4:34 | 2022-07-07 | 2022-07-29 |
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 | 2022-11-16 |
@@ -252,6 +253,7 @@
 | [シュガー・シュガー・スパイス](https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [シュガー・シュガー・スパイス](https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO) | 3:56 | 2022-10-27 | 2022-11-25 |
 | [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2022-10-18 |  |
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-05-28 | 2022-07-06 |
+| [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/5DAtC0mgP1HUpL9th0e2U9) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/1TX5uM4HEOIZEzoAOnUagC) | 4:30 | 2022-12-01 |  |
 | [タイムカプセル](https://open.spotify.com/track/7AjXfY9JTWOHWbctrsOCrM) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [タイムカプセル](https://open.spotify.com/album/48PHUW6UeNNN3Z90vDxFBj) | 4:16 | 2022-11-17 |  |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-05-28 | 2022-07-13 |
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-05-28 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Nicki Minaj, Maluma, Myriam Fares
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,793 likes - 66 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,840 likes - 66 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 42 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 |
 | 43 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 |
 | 44 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 |
-| 45 | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 |
+| 45 | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 |
 | 46 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 |
 | 47 | [Hope](https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK), [MMT](https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4) | [Hope](https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK) | 3:52 |
 | 48 | [hellcats & audis](https://open.spotify.com/track/4bjWIB3R3qdRJkUHRLYa0A) | [sobhhï](https://open.spotify.com/artist/0nRWv1xU9ooWFExNxKTKef), [NIVO](https://open.spotify.com/artist/6x7vGmycbgmj5h2kexW5fY), [NHYN](https://open.spotify.com/artist/70zsYc3eGQ87Culaq7eYm5) | [LUXURY CASUAL II](https://open.spotify.com/album/5sZOgDWkKHGNtr8Spr45ya) | 2:08 |

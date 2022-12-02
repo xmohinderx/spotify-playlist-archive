@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,006 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,001 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 153 | [E.T.](https://open.spotify.com/track/4kkeuVl6gF3RMqE4Nn5W3E) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:26 |
 | 154 | [So Alive](https://open.spotify.com/track/3EtDAua9G4apE9Mq9BUHcW) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [So Alive](https://open.spotify.com/album/2emnPnBOE4EieBxX4jEh81) | 4:17 |
 | 155 | [I Like That](https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:38 |
-| 156 | [Love Can Be So Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/6AynlgSKxWXPaTQUawcUrP) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be So Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/album/1ficXqTVv3Kx2ONOZGANx2) | 3:45 |
+| 156 | [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/track/6QGzSUOiuImJb1zZeLwRiS) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Love Can Be so Lonely, Sometimes \(feat\. Gabrielle Aplin\)](https://open.spotify.com/album/4PHHnHJKFWsYthQFGGjBkC) | 3:45 |
 | 157 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
 | 158 | [Another One Bites the Dust \- Epic Trailer Version](https://open.spotify.com/track/700UEnWizRm2pVZ9pDreT5) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI) | [Reawakenings](https://open.spotify.com/album/1CUCeOtiH3pknijQK7zduV) | 3:15 |
 | 159 | [Safe Place](https://open.spotify.com/track/7hePUTuP6GORDrsNjEA1vp) | [Aardwolves](https://open.spotify.com/artist/7kLlidqW9webTS3Qgpk0zC), [Olivia Sharpe](https://open.spotify.com/artist/41lRUvwdBoi1RGjZUUvUsH) | [Safe Place](https://open.spotify.com/album/1TtmRSBEXEeYIpxwBuFOTH) | 4:00 |
@@ -224,7 +224,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 214 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
 | 215 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 |
 | 216 | [Jungle Out There](https://open.spotify.com/track/0OuF9wJGSVKOKNAsM9qfOb) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Jungle Out There](https://open.spotify.com/album/7MvMRHE6KvHdYeYMeYEVHy) | 2:44 |
-| 217 | [Hurts Like Hell](https://open.spotify.com/track/2kMAKtrAu16HVWxBnOwuhd) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4), [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU) | [Love and War](https://open.spotify.com/album/6D7aoZi79qHtDsZRofZcK7) | 3:52 |
+| 217 | [Hurts Like Hell](https://open.spotify.com/track/7lPrG609DAZF6mCf5EjfCa) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Cinematic Songs \(Vol\. 1\)](https://open.spotify.com/album/6uRzweLeJ13G56tHv7zvWK) | 3:52 |
 | 218 | [I'm Coming For It](https://open.spotify.com/track/1QIqFCNyeUhRMeXXC1zkGV) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [GREYLEE](https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5) | [I'm Coming For It](https://open.spotify.com/album/0VVnR9NcCSZWOS5YLXty60) | 3:07 |
 | 219 | [Fight For You](https://open.spotify.com/track/7qlJsmIKzlrfcHcPz2IEoR) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [Good Days](https://open.spotify.com/album/6NxyS1NtzsTBKRMwSI1eKF) | 3:59 |
 | 220 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMGJjZDYzZDcyNGZhYzMyMzE3NTJiMWFlZTdiYTI5ZDEy`
+Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDQyMzVmMzI3NmNiOTkwZjliNzY3MDIzZDUwOTdmZDFk`

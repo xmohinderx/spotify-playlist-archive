@@ -1,12 +1,12 @@
 {
   "description": "A pop rock running mix.",
-  "num_followers": 167194,
+  "num_followers": 167343,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMGM1NGFkZmVjOTgwYmQ0YjRkZDJhMmYxN2YxZGM0ODg2",
+  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMGQ0OTk1MmI2NTBlNDAwZDk5MTk1YTIyNDdlODQzNDFi",
   "tracks": [
     {
       "added_at": "2022-08-12 10:55:26",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
     },
     {
-      "added_at": "2022-12-01 01:12:02",
+      "added_at": "2022-12-02 01:03:30",
       "album": {
         "name": "5SOS5",
         "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
     },
     {
-      "added_at": "2022-12-01 01:12:02",
+      "added_at": "2022-12-02 01:03:30",
       "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-12 10:55:26",
       "album": {
-        "name": "Have A Nice Day",
-        "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
-    },
-    {
-      "added_at": "2022-08-12 10:55:26",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 185466,
       "name": "Walk On Water",
       "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
+    },
+    {
+      "added_at": "2022-08-12 10:55:26",
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
     },
     {
       "added_at": "2022-08-12 10:55:26",

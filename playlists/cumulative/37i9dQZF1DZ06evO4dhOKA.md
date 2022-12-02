@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
+91 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Vearon Se Lia](https://open.spotify.com/track/2qh4hYDdpebCGhDVjQmuIk) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Dicomo](https://open.spotify.com/album/7uKXXhGd73QD8tDsztI3h3) | 2:25 | 2022-10-17 | 2022-10-19 |
 | [Veil](https://open.spotify.com/track/5WaoGoZ9CFLdbpIqNfFAXz) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 3:30 | 2022-08-18 | 2022-11-23 |
 | [Vete Con Él](https://open.spotify.com/track/5Zza5gIVxsMi57nOlTwfgr) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Tributo A Valentín Elizalde](https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00) | 3:03 | 2022-06-13 | 2022-10-06 |
+| [Vete Con Él](https://open.spotify.com/track/3wb0nxCJhqLld4338jCLiB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vete Con Él](https://open.spotify.com/album/6z3bp5QfUzrv0UBwZczWrZ) | 3:07 | 2022-12-01 |  |
 | [Yo Te Amo María](https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:39 | 2022-06-01 |  |
-| [Z07](https://open.spotify.com/track/6OxIrIU3dQ0GXNSczy92Dc) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Me Porto Bonito](https://open.spotify.com/album/64cw2BtmoePT5gKlBbswDi) | 2:12 | 2022-11-20 |  |
+| [Z07](https://open.spotify.com/track/6OxIrIU3dQ0GXNSczy92Dc) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Me Porto Bonito](https://open.spotify.com/album/64cw2BtmoePT5gKlBbswDi) | 2:12 | 2022-11-20 | 2022-12-02 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

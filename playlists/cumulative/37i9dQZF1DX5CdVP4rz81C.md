@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Nicky Youre
 
-1,068 songs - 2 day 8 hr 11 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+1,070 songs - 2 day 8 hr 17 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,6 +720,7 @@
 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 | 2022-07-15 | 2022-09-03 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2021-05-29 | 2021-07-10 |
 | [One More I Love You](https://open.spotify.com/track/3v9IFz7EikDfXXfvPVfH6B) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [One More I Love You](https://open.spotify.com/album/547kCTKUHCy01Jc8WC5WxH) | 3:36 | 2021-06-12 | 2022-04-02 |
+| [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2022-12-01 |  |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-28 | 2021-09-18 |
 | [one that got away](https://open.spotify.com/track/77sUiJV65TMner3XdAUYaD) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [one that got away](https://open.spotify.com/album/6mCna91JQmcByb5Rx4HoHR) | 2:21 | 2021-08-21 | 2021-10-02 |
 | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn) | 2:10 | 2022-08-12 | 2022-08-27 |
@@ -1047,6 +1048,7 @@
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-08-19 | 2021-10-23 |
 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 | 2022-11-11 |  |
 | [why am i here, i feel so alone](https://open.spotify.com/track/0jBaoN25PbNxfbv4sPs6eM) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [why am i here, i feel so alone](https://open.spotify.com/album/0rE8L0frf30RD6TMsdxqDn) | 2:47 | 2022-05-20 | 2022-08-06 |
+| [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-12-01 |  |
 | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/track/6NHQNFSpBaBvTHTt96dhfy) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/album/0XKpLb1bh3PvdQ7BaPRA29) | 4:03 | 2021-06-26 | 2021-07-24 |
 | [wild](https://open.spotify.com/track/5jb2NJCCUN5utz8MVFYycH) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [WILD](https://open.spotify.com/album/3fYPO77DBvXDGbLUNFwbsF) | 2:24 | 2020-10-13\* | 2020-11-20 |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-15 | 2022-03-05 |

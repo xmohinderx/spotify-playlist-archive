@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Top of the top tracks in RADAR KOREA playlist this year! \(Cover: NMIXX\(엔믹스\)\) 2022년 RADAR KOREA를 빛낸 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,053 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,116 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

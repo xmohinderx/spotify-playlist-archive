@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,385 likes - 314 songs - 15 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,410 likes - 314 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 23 | [in the hide](https://open.spotify.com/track/2FojeY4xeZC2wrwIgTDDVU) | [Rossyx](https://open.spotify.com/artist/2vvcM0Ac0BOQIFpBeRO9vu) | [hieroglyphs](https://open.spotify.com/album/7yKRy1HLte1sQeFXTiUmnA) | 2:51 |
 | 24 | [A Tu Lado](https://open.spotify.com/track/2774iv7rt5UytxvyYe4z4O) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [A Tu Lado](https://open.spotify.com/album/3rxGCfwUAdQuABxVVYmY3k) | 3:17 |
 | 25 | [Leende](https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Leende](https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j) | 3:07 |
-| 26 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Hiun](https://open.spotify.com/artist/52Ae1wJP3XjuoZWugBC6Az) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 |
+| 26 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 |
 | 27 | [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 |
 | 28 | [Clarity Moon](https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi) | [Liam Steed](https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki) | [Clarity Moon](https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV) | 2:52 |
 | 29 | [Upwards](https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Signals Cometh](https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L) | 2:03 |

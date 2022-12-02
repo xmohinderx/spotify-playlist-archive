@@ -530,6 +530,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2KiZjho3dmMgLVNm0Ja1Pb"
+      },
+      "artists": [
+        {
+          "name": "Skaa",
+          "url": "https://open.spotify.com/artist/5Z1pJHnETn6fqC37KYfi3Z"
+        },
+        {
+          "name": "Payper Corleone",
+          "url": "https://open.spotify.com/artist/5pNye0bGTXUivn8zdEBIfj"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196657,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
+    },
+    {
+      "album": {
         "name": "Commander",
         "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
       },
@@ -663,12 +685,12 @@
           "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
         },
         {
-          "name": "Noah Air\u00e9",
-          "url": "https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL"
-        },
-        {
           "name": "LADIPOE",
           "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Noah Air\u00e9",
+          "url": "https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL"
         }
       ],
       "date_added": "2022-11-24",
@@ -1479,7 +1501,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186435,
       "name": "Never stopping",
       "url": "https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ"

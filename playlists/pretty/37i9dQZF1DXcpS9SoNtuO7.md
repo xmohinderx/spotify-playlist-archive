@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,810 likes - 130 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,820 likes - 130 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 35 | [Yusyaou Tanjo!](https://open.spotify.com/track/0fXSXv994QelaK0uMx9pIN) | [Masaaki Endoh](https://open.spotify.com/artist/1uRGOZVsk9cXts7zgD7yVc) | [The King of Braves GaoGaiGar Original Motion Picture Soundtrack 1](https://open.spotify.com/album/0pnp57nqaxJLw3sAKysXyL) | 3:54 |
 | 36 | [春擬き](https://open.spotify.com/track/29CiLtYHYgzNNd3I0hfVPw) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Follow My Tracks](https://open.spotify.com/album/6YmY9pmnhXG9dOyXTH9kOm) | 4:31 |
 | 37 | [Red fraction](https://open.spotify.com/track/2hqpcsqOnPHxWDIRGPJAXC) | [MELL](https://open.spotify.com/artist/2hEvvgrmO91VMERk44HPY1) | [MELLSCOPE](https://open.spotify.com/album/3YQJIiW2Hv9BCHPgJc24dl) | 3:41 |
-| 38 | [Inner Light \- TV edition](https://open.spotify.com/track/71zqOfJlkGzIBjtHLMNseQ) | [Shocking Lemon](https://open.spotify.com/artist/0xZTwWYmwR47nvglvPM7QT) | [FINAL ROUND 「はじめの一歩」 オリジナル・サウンドトラック](https://open.spotify.com/album/3taWL3ok4f4v1uxX1AvSvM) | 1:23 |
+| 38 | [Inner Light \- TV edition](https://open.spotify.com/track/71zqOfJlkGzIBjtHLMNseQ) | [Shocking Lemon](https://open.spotify.com/artist/0xZTwWYmwR47nvglvPM7QT) | [FINAL ROUND 「はじめの一歩」 オリジナル・サウンドトラック](https://open.spotify.com/album/3taWL3ok4f4v1uxX1AvSvM) | 1:23 |
 | 39 | [Let Me Be With You](https://open.spotify.com/track/4UBt00S6TNsKwgfxMcfNal) | [ROUND TABLE featuring Nino](https://open.spotify.com/artist/3KkRgA5LEmBTfjkODZvLzG) | [APRIL](https://open.spotify.com/album/1A84EfaPGuBdtLSEG0K0Fz) | 4:29 |
 | 40 | [空色デイズ](https://open.spotify.com/track/4nogPuOo4AOHNGfy3hNA7P) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [Big☆Bang!!!](https://open.spotify.com/album/6bxrgkhcxQSeV4yEgIkMfR) | 4:11 |
 | 41 | [happily ever after](https://open.spotify.com/track/2AWWmkqtMrIlPt7B8Gif0k) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [Big☆Bang!!!](https://open.spotify.com/album/6bxrgkhcxQSeV4yEgIkMfR) | 3:29 |

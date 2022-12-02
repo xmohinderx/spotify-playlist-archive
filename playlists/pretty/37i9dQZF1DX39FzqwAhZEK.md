@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,681 likes - 250 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,686 likes - 250 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 | 23 | [Giron](https://open.spotify.com/track/1VFhDSOvYfeFOI5QrnhqFE) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Giron](https://open.spotify.com/album/3V94iJ5dK7D6vcg5T6fU6T) | 2:40 |
 | 24 | [Calming Seas](https://open.spotify.com/track/6fAmC1bZzVgA9E5gNrdy5k) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Calming Seas](https://open.spotify.com/album/6RZEo3ZuNrZadQxwmxbtra) | 2:50 |
 | 25 | [Align](https://open.spotify.com/track/5Nawyr4KZXikRk0ULZyBOY) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Align](https://open.spotify.com/album/3wkDTcaSDlCjoJ26BMucVD) | 3:35 |
-| 26 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Breathania](https://open.spotify.com/artist/2jZ2BLUbfB4Zri64YQChn6) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
+| 26 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 |
 | 27 | [Down by the Ocean](https://open.spotify.com/track/3RYqhN2wn4Qg5fwLRbCinW) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 2:57 |
 | 28 | [Yonder](https://open.spotify.com/track/6eIaNamCwzTfJr4SrFypu5) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Yonder](https://open.spotify.com/album/6X6DVdhuR1Ajws0GwFgjHD) | 3:20 |
 | 29 | [Fondo](https://open.spotify.com/track/3YsadWxIYFPZY3D4LmXqZO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Fondo](https://open.spotify.com/album/7jLqHed1TjbDIlIicn8jt9) | 2:53 |

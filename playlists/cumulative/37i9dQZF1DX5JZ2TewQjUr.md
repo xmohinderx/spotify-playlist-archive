@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Kiyu
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lester Lam
 
-318 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+323 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Eyes Of Blue](https://open.spotify.com/track/44fhrMUAgaVXfkNNpePQ3u) | [Tsukki Soo](https://open.spotify.com/artist/32SqdbPx6eSzmgkpd6rgYI) | [Eyes Of Blue](https://open.spotify.com/album/4c2LIBqyFxTQMPfiTSrEbu) | 4:08 | 2022-10-13 |  |
 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [FALLEN](https://open.spotify.com/track/5315U2mC8mccmUXJ6ivdqZ) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [FALLEN](https://open.spotify.com/album/528YTSLjZ9z61w2q21zzuo) | 3:29 | 2022-09-15 |  |
+| [fashion killa](https://open.spotify.com/track/39ABxKn5gDRh4a7xKWFZgo) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [fashion killa](https://open.spotify.com/album/5Mre3Gy83fp7sKkk59iP15) | 2:22 | 2022-12-01 |  |
 | [favorite boy](https://open.spotify.com/track/0lTZgDcJMz6rbQVoeFxLa2) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [favorite boy](https://open.spotify.com/album/0HEMAuxYl0G7AR5e97rcuW) | 3:31 | 2022-05-26 | 2022-07-29 |
 | [Favorite Drug](https://open.spotify.com/track/7acFbTCQRZu1uDTfoyZtc8) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Favorite Drug](https://open.spotify.com/album/6fbi9zwD9WKXi4acKbZce4) | 3:45 | 2022-06-09 | 2022-09-09 |
 | [Favorite Drug \(feat\. kayan9896\) \- Remix](https://open.spotify.com/track/2DjlbZzO8rfqaoPcufRJqN) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Favorite Drug \(feat\. kayan9896\) \[Remix\]](https://open.spotify.com/album/0B3pSSFcnE3GNatFhuRMi8) | 3:43 | 2022-09-29 |  |
@@ -72,6 +73,7 @@
 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 | 2022-09-09 |
 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 | 2022-09-15 |  |
 | [Haze](https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze](https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk) | 3:32 | 2022-09-29 |  |
+| [Haze \- Live](https://open.spotify.com/track/5HVh454mywL0Pu9sRFgolr) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze \(Live\)](https://open.spotify.com/album/7dJV7D6TTXOVSEFKA182U4) | 3:42 | 2022-12-01 |  |
 | [HEAD ON YOUR SHOULDER](https://open.spotify.com/track/4Mnib2lihcKmricubFkKcp) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [BMW](https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [2020](https://open.spotify.com/album/1DMn7JbuPSz4ErrdQeYXZ0) | 3:54 | 2022-05-26 | 2022-09-09 |
 | [Heart to Heart, Me to You](https://open.spotify.com/track/3zmYT04KnfzjpjLiSg16KI) | [Elphie K](https://open.spotify.com/artist/6w609XuNif6TAHJ9DILzjQ) | [Heart to Heart, Me to You](https://open.spotify.com/album/6ZLyrNiJUGgofL9sLSm6PB) | 2:34 | 2022-11-03 |  |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2022-09-08 |  |
@@ -141,8 +143,10 @@
 | [PLUME](https://open.spotify.com/track/2sFrJpjaX0NZP6ci1Kiedb) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DUST](https://open.spotify.com/album/03dVL0JlffZRvTbLUqY5Ph) | 3:43 | 2022-08-25 |  |
 | [pretty little thing](https://open.spotify.com/track/4t5z1bcLAZ1ZEUTlmt4Fd0) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [pretty little thing](https://open.spotify.com/album/2CX19aISe9sNqcyxtU56WU) | 3:32 | 2022-05-26 | 2022-06-10 |
 | [QUEST?ONS](https://open.spotify.com/track/6avApWuzGCKeYKQ9dWwNth) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [QUEST?ONS](https://open.spotify.com/album/3jN12LqDFLRF8EJn74RHKb) | 3:34 | 2022-05-26 | 2022-06-10 |
+| [Rain On Me](https://open.spotify.com/track/2Ha5WK1UecSA134oD4itZN) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Rain On Me](https://open.spotify.com/album/3Jvo1WUkRmZTZP0mgsQwbN) | 3:33 | 2022-12-01 |  |
 | [Rari](https://open.spotify.com/track/4Dt9J1ac16L4XV7jRs7E6L) | [Ethan Chu](https://open.spotify.com/artist/4GAxH0WL7ChoWWdpGw6PZq) | [Rari](https://open.spotify.com/album/1q9G3PA0UMdrDifhGmRyw5) | 2:17 | 2022-08-18 | 2022-11-04 |
 | [REAL](https://open.spotify.com/track/3X3xIOH6BYOxt6UoZWbuIY) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [REAL](https://open.spotify.com/album/11zwue1tQvvXTkJb9qOzqT) | 3:48 | 2022-06-02 | 2022-09-09 |
+| [red & gold](https://open.spotify.com/track/6Ag0kjU5LUCRCHUiXNwycg) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [red & gold](https://open.spotify.com/album/5YvfeqgciOc85XlTFn72r1) | 4:27 | 2022-12-01 |  |
 | [S.H.I.T](https://open.spotify.com/track/0CtiGcW3OyABsFA7jmryFM) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [S.H.I.T](https://open.spotify.com/album/27pguvAfmV3j5kDAc07XqU) | 2:22 | 2022-05-26 | 2022-07-29 |
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-05-26 | 2022-07-29 |
 | [Sailor Boy](https://open.spotify.com/track/7ewmQnGCpYG6VvDMzVxmLk) | [Orange Leung](https://open.spotify.com/artist/072b9AYGZXFRwlwHUmXYrl), [YK](https://open.spotify.com/artist/23ysObqvDVv5XOqHBPnNwk) | [Sailor Boy](https://open.spotify.com/album/1FlhR8ta0DUoBTiXLRyhrn) | 4:44 | 2022-10-06 |  |
@@ -231,6 +235,7 @@
 | [卡式](https://open.spotify.com/track/6LGEh3lJXkDfgqyOLcM5Vf) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr) | [卡式](https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1) | 2:50 | 2022-06-16 | 2022-09-09 |
 | [原石](https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag) | [Dvk.](https://open.spotify.com/artist/014lHDdSXKmOzcw3VLWNdD) | [岸邊 I](https://open.spotify.com/album/3P7a5UgCtvbt8c27DRq4vZ) | 2:41 | 2022-10-20 |  |
 | [和暖的風](https://open.spotify.com/track/0lQyky5oqyrhyBqIdudekJ) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [和暖的風](https://open.spotify.com/album/6hb981Qe8zzsC9q3llvaz2) | 2:40 | 2022-07-28 | 2022-11-04 |
+| [唔伏](https://open.spotify.com/track/7Cc3b4uhA5D2rJCZ6GvN8o) | [The Language Lab](https://open.spotify.com/artist/4Qj1fEqHSJ3hQc5fHtUsnf) | [OK Dating App](https://open.spotify.com/album/13I7RLTq2DicybeCynk0vF) | 3:25 | 2022-12-01 |  |
 | [喜歡過傷過的某君](https://open.spotify.com/track/3xzS6BYKXm8NkT3jGq0pHy) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [喜歡過傷過的某君](https://open.spotify.com/album/5XHbsnhxrbvr7ZEoFyqJB4) | 3:36 | 2022-08-11 | 2022-11-04 |
 | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/track/3Y0kbp5xGJMk08m3lkOpYL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/album/1BsPa137X76tHyPl4dt3kU) | 3:26 | 2022-07-28 | 2022-11-04 |
 | [囉囉攣](https://open.spotify.com/track/0u1mnT0MlUXVFcuqtYvknx) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx) | [囉囉攣](https://open.spotify.com/album/6CIkXpfWJuJJ408YCC6oOf) | 2:40 | 2022-05-26 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-178 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
+179 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Croire en rien](https://open.spotify.com/track/5SpEASywG04sydPc9QRZhz) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:05 | 2022-05-25 |  |
 | [Dans l'bois](https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38) | [Édith Butler](https://open.spotify.com/artist/4AhQuJhnTP8pO6nlNhy0YL), [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Le tour du Grand Bois](https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW) | 3:35 | 2022-05-25 |  |
 | [Demain](https://open.spotify.com/track/1h5MPkAA20QEPUhtgxKlf8) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 3:38 | 2022-05-25 |  |
-| [DIMANCHE SOIR](https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:09 | 2022-05-25 |  |
+| [DIMANCHE SOIR](https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:09 | 2022-05-25 | 2022-12-02 |
 | [DIMANCHE SOIR](https://open.spotify.com/track/0R7qTLkd6VR3QJeEmdG2by) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/3Njv7LsQ4QBCYrtAvexhdO) | 3:09 | 2022-05-25 | 2022-11-13 |
 | [DIMANCHE SOIR](https://open.spotify.com/track/1xTasIo5MGbmSi792apTaz) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA) | 3:09 | 2022-05-25 | 2022-11-12 |
+| [DIMANCHE SOIR](https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:09 | 2022-05-25 |  |
 | [DIMANCHE SOIR](https://open.spotify.com/track/5zNJA7dp0PRlghdKSEcYIp) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/0K0qvDRwlR3XcVDuJy4Jqx) | 3:09 | 2022-05-25 | 2022-07-29 |
 | [Encore et encore](https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI), [Layanah](https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M) | [Givmeall Hit Stars](https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju) | 3:45 | 2022-05-25 |  |
 | [Entre ce que j'dis...](https://open.spotify.com/track/3NxTgCKrntVPsM0u5V4Crn) | [Maggie Savoie](https://open.spotify.com/artist/3U1HJVYm4Z3G59ldoODMmA) | [Appalaches](https://open.spotify.com/album/2eq8zH8ZO19shABNzBX9qT) | 3:31 | 2022-05-25 | 2022-07-28 |

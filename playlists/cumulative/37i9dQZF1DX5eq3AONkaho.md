@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-829 songs - 1 day 23 hr 3 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
+830 songs - 1 day 23 hr 6 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2021-11-17 | 2022-07-28 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-11-17 | 2022-10-14 |
 | [Bingle Bangle](https://open.spotify.com/track/04LMZmQh5Le3F7OwLwHDEM) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [BINGLE BANGLE](https://open.spotify.com/album/3dCzh2hx0xzXFBUmzQQeoJ) | 3:41 | 2022-03-24 | 2022-04-18 |
+| [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-12-01 |  |
 | [Black Crown](https://open.spotify.com/track/1cSmtCnzmOXKu0pRwQRAZz) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. III\. Ivan](https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo) | 3:58 | 2022-03-24 | 2022-07-19 |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2021-11-17 |  |
 | [Black Swan](https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Black Swan](https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I) | 3:18 | 2021-11-17 | 2022-07-24 |
@@ -448,7 +449,7 @@
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-05-01 | 2022-07-15 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-05-01 |  |
 | [Love Is The Answer](https://open.spotify.com/track/1UkM6U6lbhA8rMJjwqpXfU) | [Hailey](https://open.spotify.com/artist/20PanKbJuxWBaa547o9Qi7) | [Love Is The Answer](https://open.spotify.com/album/47KfofKRLYHhqtFnCvmECp) | 3:14 | 2021-11-17 | 2022-06-06 |
-| [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-08-12 |  |
+| [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-08-12 | 2022-12-02 |
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-02-16 | 2022-06-26 |
 | [Love Paranoia](https://open.spotify.com/track/3ej4aFOFyt0EoxXZHBHVyP) | [LUNA](https://open.spotify.com/artist/24czKkgx0KoQ239m9tvDyk) | [Love Paranoia](https://open.spotify.com/album/1D9utBj0lUeNuJsyXNcZgT) | 3:38 | 2022-02-03 | 2022-07-26 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2022-07-08 |  |
@@ -554,7 +555,7 @@
 | [PARASOL \(Feat\. Lovo Verdi, Chamelego, 권혁규, Saula\)](https://open.spotify.com/track/1kiRX4PQajdHDA1iGc7sbO) | [VOYOON](https://open.spotify.com/artist/75VCmRUXWggAfhz4Q7toxn), [LOVO VERDI](https://open.spotify.com/artist/4sVElCaW8Np1X7N7TQhOIQ), [Chamelego](https://open.spotify.com/artist/0KDknE4iw5Y8M3XQq78VfC), [권혁규](https://open.spotify.com/artist/2p9OLU4ObPxfIHbdH5a7x5), [Saula](https://open.spotify.com/artist/46GT1NQLJZsnVuxWKwuLET) | [PARASOL \(Feat\. Lovo Verdi, Chamelego, 권혁규, Saula\)](https://open.spotify.com/album/2I5WW3BWhQNIoJG2ytPyGb) | 3:22 | 2022-01-03 | 2022-05-18 |
 | [Party, Feel, Love \(Feat\. DAWN\)](https://open.spotify.com/track/24UUm3hRRZvyPyasjgtHQ0) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:29 | 2021-11-17 | 2022-07-25 |
 | [Pass me through](https://open.spotify.com/track/4sRHML9bBuDqNG0ws0Dthu) | [ClaD](https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t) | [Pass me through](https://open.spotify.com/album/0y3vTHgjW5DXY6S4GD3Wui) | 3:23 | 2021-11-17 | 2022-07-28 |
-| [Peek\-A\-Boo](https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:09 | 2022-03-24 |  |
+| [Peek\-A\-Boo](https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:09 | 2022-03-24 | 2022-12-02 |
 | [Perfect day \(Feat\. Ashley Alisha, nobody likes you pat\)](https://open.spotify.com/track/4VIvga2PV99JWUPg8bJ0Do) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Totoro](https://open.spotify.com/album/0W5MlKa1GpzGVpoTtHifP3) | 2:57 | 2021-11-17 | 2022-07-29 |
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-09 |  |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2021-11-17 | 2022-07-27 |
@@ -739,7 +740,7 @@
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-11-17 |  |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:51 | 2022-02-03 | 2022-07-29 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2022-02-03 | 2022-07-22 |
-| [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2022-03-24 | 2022-11-13 |
+| [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2022-03-24 |  |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-08-12 |  |
 | [V](https://open.spotify.com/track/68vMDFui7uTbw9OQcyB0gD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/4MQu7vXhTomG1ZyOINRLm0) | 3:47 | 2021-11-17 | 2022-07-19 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-11-17 | 2022-05-11 |

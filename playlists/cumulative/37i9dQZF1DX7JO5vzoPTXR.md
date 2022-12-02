@@ -4,7 +4,7 @@
 
 > Highlighting the best <a href="http://noteable.spotify.com">Noteable</a> songs from 2022 that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm?si=lkuzDoc2T8aKwvPlaf8M5Q&nd=1">KILLBOY.</a>
 
-444 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+445 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bout These Pipedreams](https://open.spotify.com/track/2zaGsyCaFgjibRoMQWWw7P) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 1:28 | 2022-06-01 | 2022-07-07 |
 | [Breakfast](https://open.spotify.com/track/0EIw0ROJDcBJ5GD3oY6mLM) | [Alina Smith](https://open.spotify.com/artist/0yRUDVI598cLXxDpzn9TY8) | [Breakfast](https://open.spotify.com/album/1BqI0p6VvKaS0AJocmGPcA) | 3:07 | 2022-01-05 |  |
 | [Breathing for the First Time](https://open.spotify.com/track/1hYvYmAE496OcGLfNNlxtV) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [RAPHA](https://open.spotify.com/album/0SC922UMJCN1mSo3bAFo7c) | 5:10 | 2022-10-05 | 2022-11-10 |
+| [Bring on Christmas Day](https://open.spotify.com/track/0DT4uYHuliro4s1P6L7p3x) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Merry Christmas, Love](https://open.spotify.com/album/4VtCw9qGrC4NnbqcRGDzYc) | 3:48 | 2022-12-01 |  |
 | [Brooklyn](https://open.spotify.com/track/3eDo0sBUGqFUnnScLAUy0f) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Brooklyn](https://open.spotify.com/album/3hgruyM3XuEg8yCaqGPYXP) | 2:50 | 2022-11-30 |  |
 | [Brooklyn \- Stripped](https://open.spotify.com/track/3goLem0sEOQmKk29FWYx6q) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Brooklyn \(Stripped\)](https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods) | 2:51 | 2022-02-02 | 2022-03-09 |
 | [Brother](https://open.spotify.com/track/3b3XLdNv1GAzSMvokfeCl8) | [Inara George](https://open.spotify.com/artist/4lsLWmOLcZjlaPhx7FKwLl) | [The Youth of Angst](https://open.spotify.com/album/4Fc5SIbCwqus37PMtNDPeM) | 2:32 | 2022-09-07 | 2022-10-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=TsDMEATKR_Gq-4FjsnL6Cw\">Tanaka</a>",
+  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=aCjbTw-CQk6Ogh9Mj5Fu_A\">Kloudink</a>",
   "name": "SAlt",
   "published_playlist_ids": [
     "725N8DiCOBrEyrBxUeYOar"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 196235,
       "name": "Better Together - Acoustic",
       "url": "https://open.spotify.com/track/65j5HnUBVNkNZAi7wdCrVI"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 177000,
       "name": "Gaslight (Caught Fire)",
       "url": "https://open.spotify.com/track/6TYU5CqDddOWEcD0n2KiGJ"
@@ -631,6 +631,46 @@
       "duration_ms": 243480,
       "name": "Giving My Love",
       "url": "https://open.spotify.com/track/74dwHoS4dUx7QHElINW0a0"
+    },
+    {
+      "album": {
+        "name": "Harder",
+        "url": "https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2"
+      },
+      "artists": [
+        {
+          "name": "Dangerfields",
+          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
+        },
+        {
+          "name": "Mandi Lizamore",
+          "url": "https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366011,
+      "name": "Harder",
+      "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
+    },
+    {
+      "album": {
+        "name": "Head Start (Fresh Start)",
+        "url": "https://open.spotify.com/album/5HIe6iAa0joluCQmVuajkI"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211546,
+      "name": "Head Start - Fresh Start",
+      "url": "https://open.spotify.com/track/62NHaoO0JcLD0EpD38HYgg"
     },
     {
       "album": {
@@ -717,7 +757,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 219461,
       "name": "Home Grown Flowers",
       "url": "https://open.spotify.com/track/2W7JDgHdqoH32MMOxCzLYu"
@@ -775,7 +815,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 233850,
       "name": "How to skate",
       "url": "https://open.spotify.com/track/1F828L9uVdKx0hfUcEZm62"
@@ -1274,6 +1314,24 @@
     },
     {
       "album": {
+        "name": "sex symbol",
+        "url": "https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178615,
+      "name": "sex symbol",
+      "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
+    },
+    {
+      "album": {
         "name": "Shooting Stars",
         "url": "https://open.spotify.com/album/6aT6t9qHQEJirp6hlWnDlQ"
       },
@@ -1310,6 +1368,28 @@
     },
     {
       "album": {
+        "name": "Simple Things (feat. Theo Croker)",
+        "url": "https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Simple Things (feat. Theo Croker)",
+      "url": "https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT"
+    },
+    {
+      "album": {
         "name": "Skip to the Present",
         "url": "https://open.spotify.com/album/38w9omFsu7BjToXXhmAUgR"
       },
@@ -1325,6 +1405,24 @@
       "duration_ms": 178693,
       "name": "Skip to the Present",
       "url": "https://open.spotify.com/track/5hoWCQ7LUVLzAWZZfKBoTH"
+    },
+    {
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169062,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
       "album": {
@@ -1480,6 +1578,24 @@
     },
     {
       "album": {
+        "name": "Triomf",
+        "url": "https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5"
+      },
+      "artists": [
+        {
+          "name": "The Great Yawn",
+          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289895,
+      "name": "Triomf",
+      "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
+    },
+    {
+      "album": {
         "name": "GAME OVER",
         "url": "https://open.spotify.com/album/0ZMKh4W24HJqe3b65hacdX"
       },
@@ -1527,7 +1643,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 209500,
       "name": "WAGMI",
       "url": "https://open.spotify.com/track/4bxjgQ4hZ1kBsCzvpVFBFn"
@@ -1715,7 +1831,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 183174,
       "name": "You're over Me",
       "url": "https://open.spotify.com/track/4s3IyR6U98K18L5Fw5YrxG"

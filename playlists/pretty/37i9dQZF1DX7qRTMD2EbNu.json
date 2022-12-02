@@ -1,12 +1,12 @@
 {
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=byhHllSOSqScaQ5PEWOpPg\"> Sarkodie </a> ",
-  "num_followers": 8736,
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=J4P0DDhDTUGu1u4E719xoA\"> M.anifest </a> ",
+  "num_followers": 8752,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTYxOTU0MiwwMDAwMDAwMDQ0YzcyNGUwYjQ0MzViYTRmYjc1YzFiZTMyZGEzYTc4",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDEwZjkwMzk0MGE3MDU4NzA0ZDUwYWFkMWFjMmQ0OTFi",
   "tracks": [
     {
       "added_at": "2022-11-15 09:45:18",
@@ -63,6 +63,22 @@
       "duration_ms": 194606,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
     },
     {
       "added_at": "2022-06-24 06:18:14",
@@ -153,6 +169,26 @@
       "url": "https://open.spotify.com/track/76N7cNr8yKt4TZgOxcTiPz"
     },
     {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Madina to the Universe: The E.P.Ilogue",
+        "url": "https://open.spotify.com/album/4nuTUPxGggwi4UnYn8tliK"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/4s0yqd5PD3uBljnGeazhWD"
+    },
+    {
       "added_at": "2022-06-24 06:18:14",
       "album": {
         "name": "Chanti (feat. O'Kenneth, Kwaku DMC & Terrist Carter)",
@@ -215,6 +251,42 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Yao",
+        "url": "https://open.spotify.com/album/1iIMteZmsQjzajs83RFmgQ"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 209143,
+      "name": "Yao",
+      "url": "https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
     },
     {
       "added_at": "2022-06-24 06:18:14",
@@ -713,26 +785,6 @@
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
     },
     {
-      "added_at": "2022-11-25 07:42:06",
-      "album": {
-        "name": "Trenches Babies; Lalid - The Big Fish",
-        "url": "https://open.spotify.com/album/7w0dha98O5MiKp51tUlMyg"
-      },
-      "artists": [
-        {
-          "name": "Ground Up Chale",
-          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
-        },
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
-        }
-      ],
-      "duration_ms": 124898,
-      "name": "Take Away",
-      "url": "https://open.spotify.com/track/2l2euV6MEINdOvBHp5yr7N"
-    },
-    {
       "added_at": "2022-07-21 23:00:00",
       "album": {
         "name": "Straight Outta Kumerica 2",
@@ -829,50 +881,6 @@
       "url": "https://open.spotify.com/track/3AfKnXYQhFqKC4oV6oyhIO"
     },
     {
-      "added_at": "2022-11-15 09:45:18",
-      "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/7i6x32Uy3C1yxhtCGgJbEE"
-      },
-      "artists": [
-        {
-          "name": "Slim Drumz",
-          "url": "https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT"
-        }
-      ],
-      "duration_ms": 189022,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/7miZbXoKKtyj1Zh4rpVjAb"
-    },
-    {
-      "added_at": "2022-08-12 05:42:27",
-      "album": {
-        "name": "Gbedu",
-        "url": "https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0"
-      },
-      "artists": [
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Snypa",
-          "url": "https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41"
-    },
-    {
       "added_at": "2022-06-24 06:18:14",
       "album": {
         "name": "Benzo",
@@ -887,22 +895,6 @@
       "duration_ms": 167205,
       "name": "Benzo",
       "url": "https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw"
-    },
-    {
-      "added_at": "2022-06-24 06:18:14",
-      "album": {
-        "name": "Monsters Dey Back",
-        "url": "https://open.spotify.com/album/28FqK06cpOCZlUG07uOiq3"
-      },
-      "artists": [
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Monsters Dey Back",
-      "url": "https://open.spotify.com/track/2aLALW67CYtGhlJ5BWTtKb"
     },
     {
       "added_at": "2022-06-24 06:18:14",

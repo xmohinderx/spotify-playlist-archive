@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1087,
+  "num_followers": 1086,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM3NzI4NCwwMDAwMDAwMGI4NTVmYTQ5MzMxOThlMGQ4MTk2M2VlNzg1Y2IxMWY4",
+  "snapshot_id": "MTY2OTM3NzI4NCwwMDAwMDAwMDM1OTgxMDU1MTFkNjBlNzc3YmFmNTM4NGJiMmMxNTAy",
   "tracks": [
     {
       "added_at": "2022-11-25 11:45:40",
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
-      "added_at": "2022-12-01 01:16:44",
+      "added_at": "2022-12-02 01:09:01",
       "album": {
         "name": "Toora Love",
         "url": "https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE"
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     },
     {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
+    },
+    {
       "added_at": "2022-10-07 10:52:01",
       "album": {
         "name": "Biwamiel",
@@ -523,22 +539,6 @@
       "duration_ms": 155007,
       "name": "Biwamiel",
       "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
       "added_at": "2022-11-17 20:59:00",
       "album": {
         "name": "Kwetega",
@@ -651,6 +635,22 @@
       "duration_ms": 216960,
       "name": "Kwetega",
       "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC"
     },
     {
+      "added_at": "2022-12-02 01:09:01",
+      "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Aye",
@@ -863,26 +879,6 @@
       "duration_ms": 206471,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Dorah",
-        "url": "https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5"
-      },
-      "artists": [
-        {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
-        },
-        {
-          "name": "Care Fahim",
-          "url": "https://open.spotify.com/artist/2SMKkx0HYuo4xf3YiX08k5"
-        }
-      ],
-      "duration_ms": 209978,
-      "name": "Dorah",
-      "url": "https://open.spotify.com/track/4mta6obIQ4j7hkyVFscBwn"
     },
     {
       "added_at": "2022-09-30 11:18:57",

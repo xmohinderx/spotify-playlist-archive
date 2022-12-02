@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 麗英
+> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Novel Fergus
 
-68 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
+69 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-05-26 |  |
 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 | 2022-05-26 |  |
 | [聽海浪](https://open.spotify.com/track/7nlBO1PoiiB5rjro96w35l) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Midnight.](https://open.spotify.com/artist/0hLugf4oCj37Z2o5Y3Dg6o) | [Bluesea EP \(Extended Version\)](https://open.spotify.com/album/3mQOhYbV2Q7TulGiPcXZzK) | 3:32 | 2022-08-18 |  |
+| [至尊寶](https://open.spotify.com/track/3ttnCFGnBXNrwci9N8a5NK) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [至尊寶](https://open.spotify.com/album/4zU7ZbEFX2K0nkaFstuHfr) | 3:48 | 2022-12-01 |  |
 | [跌嘢唔好搵](https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/6IovMmC40xqVfBCzXwxChg) | 3:11 | 2022-05-26 | 2022-07-29 |
 | [跌嘢唔好搵](https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/1qjK50aArwff8NhitLm8KT) | 3:11 | 2022-07-28 |  |
 | [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 | 2022-11-25 |

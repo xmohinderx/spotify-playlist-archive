@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,308 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,346 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 14 | [Do The Funky Chicken](https://open.spotify.com/track/2kzYaLoVgoNMRg4lyNTqWr) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Walkin' The Dog](https://open.spotify.com/album/3KNSMdEzH4c98UoD9t0IkJ) | 3:27 |
 | 15 | [There Was A Time](https://open.spotify.com/track/3cEo5poFlZ9yen1ugTCbj0) | [The Dapps](https://open.spotify.com/artist/6kfQGlrjoxoyhzCr3BaKuk), [Alfred Ellis](https://open.spotify.com/artist/15iriNEg37RFdKlpW3XFGW) | [The Singles Vol\. 5: 1967\-1969](https://open.spotify.com/album/445ijS6GDbxbsGwt22yVY9) | 2:30 |
 | 16 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
-| 17 | [Here Comes The Judge](https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Summer of Motown](https://open.spotify.com/album/1Jkc8r3Uj1ysSQdNjjsSbp) | 2:37 |
+| 17 | [Here Comes The Judge](https://open.spotify.com/track/3sWVdMFlcUzA8p93yIjR2f) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [The Complete Motown Singles \- Vol\. 8: 1968](https://open.spotify.com/album/0XAoUrM42zDYCc0wGsjRFv) | 2:34 |
 | 18 | [Soul Finger](https://open.spotify.com/track/3FmaFVYVcdvvdSKr2oqKJ0) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Hip 60s](https://open.spotify.com/album/2bpsJ83ZN4Vgu8xuHu6g54) | 2:21 |
 | 19 | [Papa's Got a Brand New Bag](https://open.spotify.com/track/4gBDbXvzx8uDEWrA7Qo1KZ) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Together](https://open.spotify.com/album/5dlq4IV7malpLfG36zMj6T) | 3:19 |
 | 20 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGMwMTc3MDUzYjdkYTNiYTMyYzc5MWE3NmE1OTJhNTBi`
+Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGZhOWU4MWNiMDEwMDliODZkNzgzNzIwYTFjMmM5NGUz`

@@ -2,9 +2,9 @@
 
 ### [No Wahala](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=r9po0m5GS\-OqftcZy\_pYog"> Blxckie </a>
+> The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr?si=nR\-3\-Q83TE6mPeI4jcvvnQ"> Kwesta </a> and <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=bm3v1IzvQouZl2R52zdVcA"> Kabza De Small </a>
 
-142 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
+143 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alakori](https://open.spotify.com/track/3hr4lwTXMCFKIH5KOSoXQ5) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Alakori](https://open.spotify.com/album/7qUS6HJtJCgisaC4EvQ9Nt) | 3:35 | 2021-10-14 | 2022-03-08 |
 | [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 | 2021-10-14 |  |
 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 | 2022-02-03 |  |
-| [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 | 2021-11-11 |  |
+| [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 | 2021-11-11 | 2022-12-02 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-02-24 |  |
 | [AMAPIANO](https://open.spotify.com/track/2M1wKgqxbloFNr8WjVi9OM) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [AMAPIANO](https://open.spotify.com/album/2B4Y7IGYppG4Z6jovbuZK8) | 2:29 | 2022-03-24 | 2022-10-29 |
 | [Amigo](https://open.spotify.com/track/6UEW9NiyPzXxbhkjEiEHPe) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Amigo](https://open.spotify.com/album/6iysreppwtVyUjTK8VTgJe) | 2:35 | 2021-10-14 | 2022-03-04 |
@@ -69,6 +69,7 @@
 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 | 2022-02-24 |  |
 | [Impossible](https://open.spotify.com/track/6ILVxE20PUooTyoSK0mHat) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Aeph](https://open.spotify.com/artist/0lzSrFGE3CoEg8dtn1PS6i), [KoKo ](https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx) | [Impossible](https://open.spotify.com/album/6OMZajVz7Gr0mv737s2CVK) | 2:58 | 2022-03-24 | 2022-04-22 |
 | [Inaweza Haiwezi](https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Inaweza Haiwezi](https://open.spotify.com/album/4XtK3cyU5InSf6792CqTjM) | 3:14 | 2022-11-04 |  |
+| [Is'pantsula \(feat\. Papta Mancane\)](https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Papta Mancane](https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D) | [Speak N Vrostaan](https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1) | 4:42 | 2022-12-02 |  |
 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 | 2021-10-14 |  |
 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 | 2022-04-21 |  |
 | [K:HOVA](https://open.spotify.com/track/3mmOgsd9IPJHkPnpWqW7zE) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [K:HOVA](https://open.spotify.com/album/6AzOdHvhPZXnAcKeZFWxxa) | 3:24 | 2021-10-14 | 2022-03-08 |

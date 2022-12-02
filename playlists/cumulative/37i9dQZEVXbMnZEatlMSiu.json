@@ -8468,6 +8468,24 @@
     },
     {
       "album": {
+        "name": "\u70cf\u6885\u5b50\u91ac",
+        "url": "https://open.spotify.com/album/14M5K4fg1N4pAXtFPb6ZtN"
+      },
+      "artists": [
+        {
+          "name": "Ronghao Li",
+          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257251,
+      "name": "\u70cf\u6885\u5b50\u91ac",
+      "url": "https://open.spotify.com/track/7gxBUjMQY9iAozVktMKEp7"
+    },
+    {
+      "album": {
         "name": "\u70ed\u7231105\u00b0C\u7684\u4f60",
         "url": "https://open.spotify.com/album/4XktKsPVpaOckY0CenAJRZ"
       },
@@ -9069,7 +9087,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 300215,
       "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
       "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"

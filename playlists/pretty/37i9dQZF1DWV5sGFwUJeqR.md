@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 
 > El género cubano cantable y bailable por excelencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,773 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,852 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

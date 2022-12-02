@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 168000,
       "name": "Funky Town",
       "url": "https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT"
@@ -2555,7 +2555,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 207358,
       "name": "Myriad",
       "url": "https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm"
@@ -2953,6 +2953,32 @@
       "duration_ms": 147656,
       "name": "Peru",
       "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "album": {
+        "name": "Poison (with Timmy Trumpet x W&W)",
+        "url": "https://open.spotify.com/album/0i36q6Jj9rtyiaonm15vZe"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "Poison (with Timmy Trumpet x W&W)",
+      "url": "https://open.spotify.com/track/7d4vcqHz2rjPQooXa0CZM3"
     },
     {
       "album": {
@@ -3842,6 +3868,28 @@
     },
     {
       "album": {
+        "name": "TARAKA (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264374,
+      "name": "TARAKA - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d"
+    },
+    {
+      "album": {
         "name": "Techno Party",
         "url": "https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh"
       },
@@ -4137,7 +4185,7 @@
           "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
         }
       ],
-      "date_added": "2022-11-29",
+      "date_added": "2022-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168281,

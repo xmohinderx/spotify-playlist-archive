@@ -2,7 +2,7 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Madeline Edwards
+> Music City must\-hears\. Cover: Ella Langley
 
 956 songs - 2 day 3 hr 9 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 

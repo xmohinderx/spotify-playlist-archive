@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Jux
+> Get your fill of vibes straight out of Tanzania\. Cover: Aslay
 
-184 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+185 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 |  |
 | [I Don't Care](https://open.spotify.com/track/2Bu813f6x8IRpYVshM2emk) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Don't Care](https://open.spotify.com/album/5JSP0Znmydeo5t7fXQtR3h) | 3:00 | 2022-01-20 | 2022-07-30 |
 | [I Like It](https://open.spotify.com/track/0b0Si2XZJ5ZY27ASJu1qbq) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [I Like It](https://open.spotify.com/album/7zalzZ5eh15ebMjkrtQz2i) | 3:27 | 2021-06-25 | 2022-01-28 |
-| [I Love You](https://open.spotify.com/track/431exPjnaorQQS0J9S8cN6) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [I Love You](https://open.spotify.com/album/2IFf1dEQFwXSil0IPksTSF) | 2:47 | 2022-02-10 |  |
+| [I Love You](https://open.spotify.com/track/431exPjnaorQQS0J9S8cN6) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [I Love You](https://open.spotify.com/album/2IFf1dEQFwXSil0IPksTSF) | 2:47 | 2022-02-10 | 2022-12-02 |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-01-20 |  |
 | [I Wish](https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Wish](https://open.spotify.com/album/3PHJ72Y8qHslPZ6gPIkj8V) | 3:43 | 2021-11-11 |  |
 | [IDWT](https://open.spotify.com/track/59u9PBmy9cvXyoqVWZKjnE) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [IDWT](https://open.spotify.com/album/2MsqUhm5EJ5hKZmwiyg5kx) | 3:20 | 2022-06-02 | 2022-08-27 |
@@ -187,6 +187,7 @@
 | [Vamonos](https://open.spotify.com/track/6BypdbiJye7MsQOa8kUheD) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vamonos](https://open.spotify.com/album/35Yss18s0YFfMg8lHoX2JY) | 2:32 | 2022-05-26 | 2022-09-30 |
 | [Vumilia](https://open.spotify.com/track/0b1xixHB1jWoKNfHbP7WIu) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [The Green Light EP](https://open.spotify.com/album/7pdlUhrWvOQBgNjEhrUDch) | 3:20 | 2022-04-28 | 2022-09-09 |
 | [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
+| [Weed Language](https://open.spotify.com/track/5ahL0qjX0KAU237OlSb490) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Weed Language](https://open.spotify.com/album/5Bzj4LfwaK9ngS4Kbrv4De) | 4:05 | 2022-12-01 |  |
 | [Wena](https://open.spotify.com/track/6OjjYkAZfOYO77B2DBEvFV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Wena](https://open.spotify.com/album/7nSoq7EvSWqK3ckNvLd7x6) | 3:48 | 2022-11-17 |  |
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-01-13 |  |
 | [Wild Party](https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wild Party](https://open.spotify.com/album/6nSCa4VbVgAHdTrZee4vdQ) | 3:25 | 2022-06-23 | 2022-10-28 |

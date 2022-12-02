@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21187,
+  "num_followers": 21183,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwOTMsZmQxMzE2NDhlNmI1MTZiNmNiNmY3YjAyZDJkZGE1OTM5NWNjNWY4Mg==",
+  "snapshot_id": "MTAwOTQsMmE0OGFmNTRmYmE1YjY0MWE5ZTJlODViNTRmZGE0Y2I2NWUzNTkwMQ==",
   "tracks": [
     {
       "added_at": "2022-11-11 16:41:32",
@@ -2403,6 +2403,26 @@
       "duration_ms": 222160,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg"
+    },
+    {
+      "added_at": "2022-12-01 23:07:11",
+      "album": {
+        "name": "Are We Dreaming",
+        "url": "https://open.spotify.com/album/5txnOKMif2rxCCZ2u9W4oa"
+      },
+      "artists": [
+        {
+          "name": "Chores",
+          "url": "https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I"
+        },
+        {
+          "name": "Jezzabell Doran",
+          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
+        }
+      ],
+      "duration_ms": 251913,
+      "name": "Crave Me",
+      "url": "https://open.spotify.com/track/3HuVGDJHnnhXYv6AlNG0HF"
     }
   ],
   "unique_name": "Moving Castle Monthly",

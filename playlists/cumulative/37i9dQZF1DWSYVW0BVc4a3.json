@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "album": {
+        "name": "Aguacero",
         "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
       },
       "artists": [
@@ -425,7 +443,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 346875,
       "name": "Baron",
       "url": "https://open.spotify.com/track/5wV7vOu1yFrfvg9mNyTagv"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 224516,
       "name": "Biosph\u00e8re",
       "url": "https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 122948,
       "name": "Booze & Pills",
       "url": "https://open.spotify.com/track/4mtAJtZzd7wgjLNBpPv4IU"
@@ -672,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Unleash",
+        "url": "https://open.spotify.com/album/0VdSrE9RhQ0oK1AV2ZtSKy"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "Campainhas",
+      "url": "https://open.spotify.com/track/41sDOWYkryt8eXQ8ZyZHms"
+    },
+    {
+      "album": {
         "name": "Can Do This",
         "url": "https://open.spotify.com/album/6u95Qd5P51p2jFRq9zjMZn"
       },
@@ -731,6 +767,24 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "album": {
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "album": {
@@ -836,6 +890,28 @@
     },
     {
       "album": {
+        "name": "Club Jesus",
+        "url": "https://open.spotify.com/album/0r8wkVFxGEamipTwz2I718"
+      },
+      "artists": [
+        {
+          "name": "Sanoi",
+          "url": "https://open.spotify.com/artist/2SBLKhyt0dAKZXEU80zWLh"
+        },
+        {
+          "name": "Beacon Bloom",
+          "url": "https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Club Jesus",
+      "url": "https://open.spotify.com/track/1kUyULtTbURwJ1D0mwQCbv"
+    },
+    {
+      "album": {
         "name": "Consciousness (Eric Prydz Remix)",
         "url": "https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu"
       },
@@ -895,7 +971,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 277432,
       "name": "Dancing In The Shadows",
       "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
@@ -1051,7 +1127,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
@@ -1073,7 +1149,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 381442,
       "name": "Disco Voador - Oliver Koletzki Remix",
       "url": "https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx"
@@ -1153,7 +1229,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/3wcgQtIGQ4QTTI3VLpmKzN"
@@ -1215,7 +1291,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 546471,
       "name": "Drone Me Up, Flashy - &ME Remix",
       "url": "https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4"
@@ -1303,6 +1379,28 @@
       "duration_ms": 245533,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ"
+    },
+    {
+      "album": {
+        "name": "Endit",
+        "url": "https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291050,
+      "name": "Endit",
+      "url": "https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp"
     },
     {
       "album": {
@@ -1511,7 +1609,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 236000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
@@ -1613,7 +1711,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 393620,
       "name": "Going in Circles",
       "url": "https://open.spotify.com/track/1Qs5NlNCYCFndmydOy8CXw"
@@ -1685,7 +1783,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 249621,
       "name": "Great Beyond",
       "url": "https://open.spotify.com/track/7bDmfSbYvJuPOV0JKkM4qm"
@@ -1827,7 +1925,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 377612,
       "name": "Home - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
@@ -1969,7 +2067,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 142200,
       "name": "I Need Some",
       "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
@@ -2093,7 +2191,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 487680,
       "name": "In The Shadows",
       "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
@@ -2635,7 +2733,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 134929,
       "name": "Luv 4 Real",
       "url": "https://open.spotify.com/track/54PGeitLMNZPRjA0Bhf6im"
@@ -2719,7 +2817,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 307419,
       "name": "MC Tip",
       "url": "https://open.spotify.com/track/7vY3fkvCfJpisPjGpHnl1t"
@@ -2833,7 +2931,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 391875,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
@@ -3067,7 +3165,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 241875,
       "name": "Nice To Arise - Edit",
       "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
@@ -3336,6 +3434,24 @@
     },
     {
       "album": {
+        "name": "Patchouli",
+        "url": "https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287717,
+      "name": "Patchouli",
+      "url": "https://open.spotify.com/track/37WdQxvQVFVsWwQvk4uCQd"
+    },
+    {
+      "album": {
         "name": "What I Breathe",
         "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
@@ -3351,7 +3467,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 257424,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
@@ -3435,7 +3551,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 172478,
       "name": "Psychedelic Girls",
       "url": "https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP"
@@ -3801,7 +3917,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 518731,
       "name": "Silius",
       "url": "https://open.spotify.com/track/5PdaqgXOchBgbHd4KzgQAo"
@@ -3831,6 +3947,24 @@
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
+    },
+    {
+      "album": {
+        "name": "Snake Ritual",
+        "url": "https://open.spotify.com/album/3gv7Ynk3r2HSlg94P6lvvY"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456706,
+      "name": "Snake Ritual",
+      "url": "https://open.spotify.com/track/415zjCOKwFCZcQlvyHQkuj"
     },
     {
       "album": {
@@ -3903,7 +4037,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 206106,
       "name": "Song To The Siren",
       "url": "https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h"
@@ -3965,7 +4099,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 216028,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
@@ -4009,7 +4143,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Stepper",
       "url": "https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja"
@@ -4247,7 +4381,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 413314,
       "name": "Tell Me Are We",
       "url": "https://open.spotify.com/track/7q8xVdmpBJHNOA6pZq1Hhw"
@@ -4335,7 +4469,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 299360,
       "name": "The Light",
       "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
@@ -4993,7 +5127,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 221358,
       "name": "Work",
       "url": "https://open.spotify.com/track/7lyyCJzXdxZJcXCvU8yVtf"
@@ -5023,7 +5157,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"

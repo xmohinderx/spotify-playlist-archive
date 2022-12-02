@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 394756,
+  "num_followers": 395178,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMDIwNTk1ZDc3NmMzZjAwYjFhMTU2MDNiYjA0YTQyMTI3",
+  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMDM0ODU5NDEyNDFiMGQxZGFmYjhjNjA1YzY0MzQzZDY2",
   "tracks": [
     {
       "added_at": "2022-09-23 10:47:53",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Sun Outside My Window",
-        "url": "https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo"
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
       },
       "artists": [
         {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Sun Outside My Window",
-      "url": "https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk"
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Sun Outside My Window",
+        "url": "https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sun Outside My Window",
+      "url": "https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Ways to Go",
         "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 127085,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "I Clung to You Hoping We'd Both Drown",
-        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
-      },
-      "artists": [
-        {
-          "name": "Flatsound",
-          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
-        }
-      ],
-      "duration_ms": 171261,
-      "name": "My Heart Goes Bum Bum Bum",
-      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "I Clung to You Hoping We'd Both Drown",
+        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "duration_ms": 171261,
+      "name": "My Heart Goes Bum Bum Bum",
+      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
         }
       ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+      "duration_ms": 312400,
+      "name": "Deaf",
+      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1151,22 +1167,6 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        }
-      ],
-      "duration_ms": 312400,
-      "name": "Deaf",
-      "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 180295,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "ALLTHETIME",
         "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 425680,
       "name": "ALLTHETIME",
       "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 180295,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Boys Cry",
+        "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        }
+      ],
+      "duration_ms": 198932,
+      "name": "Half Eaten",
+      "url": "https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1359,38 +1375,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Boys Cry",
-        "url": "https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ"
-      },
-      "artists": [
-        {
-          "name": "Oscar Scheller",
-          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
-        }
-      ],
-      "duration_ms": 198932,
-      "name": "Half Eaten",
-      "url": "https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 215580,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
+        "url": "https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Intersection",
+      "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "softcore mourn",
         "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
-      },
-      "artists": [
-        {
-          "name": "rainbow frog biscuits",
-          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 297567,
       "name": "Shame",
       "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN"
+      },
+      "artists": [
+        {
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1615,6 +1631,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 172729,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -1631,38 +1667,6 @@
       "duration_ms": 219205,
       "name": "Reality",
       "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Arp-87",
-        "url": "https://open.spotify.com/album/3XEUvW827y0tEadUoLhssf"
-      },
-      "artists": [
-        {
-          "name": "bloody/bath",
-          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
-        }
-      ],
-      "duration_ms": 169728,
-      "name": "Arp-87",
-      "url": "https://open.spotify.com/track/5On6JIPxzzvVZ40ViSzydm"
     }
   ],
   "unique_name": "Lo-fi Indie",

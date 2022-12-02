@@ -4,7 +4,7 @@
 
 > Relax, heal and restore your energy
 
-107 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/7FBkCz8V6POnW79rLkeYTj)
+108 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/7FBkCz8V6POnW79rLkeYTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Between the Worlds Yoga Nidra \- Sunset Flow](https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 7:51 | 2021-06-15 |  |
 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 | 2021-06-15 |  |
 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 | 2021-06-15 |  |
+| [Breathing Space](https://open.spotify.com/track/53hZ7K9FClYjkTtrm6t1NK) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Call to the Divine](https://open.spotify.com/album/6Lo6v2cqRdPC2vc59bAZaG) | 8:06 | 2021-06-15 |  |
 | [Breathing Space](https://open.spotify.com/track/6XYGQXaMxYjUA3R5EBx4Jc) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Call to the Divine](https://open.spotify.com/album/3pvNrWKwIQbtGSMSYPAPRS) | 8:06 | 2021-06-15 | 2022-12-01 |
 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 | 2021-06-15 |  |
 | [Charukeshi](https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI) | [Ambient](https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69) | [Meditation: Calming Music for the Mind](https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k) | 3:56 | 2021-06-15 |  |
@@ -105,7 +106,7 @@
 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 | 2021-06-15 |  |
 | [Storm of Prayers](https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI) | [Prana: Music for Yoga, Meditation & Relaxation](https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1) | 10:24 | 2021-06-15 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-06-15 |  |
-| [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 | 2021-06-15 |  |
+| [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 | 2021-06-15 | 2022-12-02 |
 | [The Hierophant](https://open.spotify.com/track/5qgQww0z5pK4H07fhXaDzT) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/5t2MF4cYCAbNhcf3nfAD9N) | 15:13 | 2021-06-15 | 2022-12-01 |
 | [The Longest Rest](https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 | 2021-06-15 |  |
 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 | 2021-06-15 |  |

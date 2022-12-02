@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-76 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
+77 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Funky Street](https://open.spotify.com/track/6uu9g2xpWSPda9SFPvrAmO) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Soul Directions](https://open.spotify.com/album/3PowoJrtqNFSY8HEJ3a1v4) | 2:23 | 2020-12-01 |  |
 | [Girls Can't Do What the Guys Do](https://open.spotify.com/track/2geMYfXFhqZFMdrF08XSLz) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [My First Time Around](https://open.spotify.com/album/60MgM22GTqUI7JI7KddEIA) | 2:07 | 2020-12-01 |  |
 | [Groove Me](https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY) | 3:04 | 2020-12-01 |  |
+| [Here Comes The Judge](https://open.spotify.com/track/3sWVdMFlcUzA8p93yIjR2f) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [The Complete Motown Singles \- Vol\. 8: 1968](https://open.spotify.com/album/0XAoUrM42zDYCc0wGsjRFv) | 2:34 | 2020-12-01 |  |
 | [Here Comes The Judge](https://open.spotify.com/track/61mry0B8GewcTy47HOpIhe) | [Shorty Long](https://open.spotify.com/artist/25ekfEqwias2rDScydpjYF) | [60s Summer Hits](https://open.spotify.com/album/6BzwVfcHtCUmknaAuSpmce) | 2:37 | 2020-12-01 | 2022-08-22 |
-| [Here Comes The Judge](https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Summer of Motown](https://open.spotify.com/album/1Jkc8r3Uj1ysSQdNjjsSbp) | 2:37 | 2020-12-01 |  |
+| [Here Comes The Judge](https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Summer of Motown](https://open.spotify.com/album/1Jkc8r3Uj1ysSQdNjjsSbp) | 2:37 | 2020-12-01 | 2022-12-02 |
 | [Here Comes the Meter Man](https://open.spotify.com/track/1mvsBRtgjW7sxKRNguQtz4) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 2:55 | 2020-12-01 |  |
 | [I Can't Stand Myself \(When You Touch Me\)](https://open.spotify.com/track/2e8ydLYXuH7MEj9eGjqlaz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [I Can't Stand Myself When You Touch Me](https://open.spotify.com/album/1degrSNPAklT7ypRV2Rc3D) | 3:22 | 2020-12-01 |  |
 | [I Can't Stop Dancing](https://open.spotify.com/track/3evKZi4dI9Nw7Hit26XFN9) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [I Can't Stop Dancing](https://open.spotify.com/album/6EOG2HlsfnM8YDoimOiCyS) | 2:21 | 2020-12-01 |  |

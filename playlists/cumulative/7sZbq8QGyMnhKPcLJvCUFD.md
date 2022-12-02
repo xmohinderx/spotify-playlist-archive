@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-141 songs - 7 hr 21 min - not published yet
+142 songs - 7 hr 23 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Forget](https://open.spotify.com/track/4AvIxgGf0NeC0vBKHGYBP1) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Forget](https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu) | 3:24 | 2022-11-04 |  |
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 |  |
 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-18 |  |
+| [Go Easy](https://open.spotify.com/track/7vHSOWBZUgZdkqX397Auyd) | [Uplink](https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Go Easy](https://open.spotify.com/album/3QfF9BOs6OFQ3ubGGQNI5X) | 2:38 | 2022-12-01 |  |
 | [Go Off](https://open.spotify.com/track/7jw05QlMKjqOoEHLCeXUD7) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off](https://open.spotify.com/album/4QugeAvLTbWTcrAFcm9Ezz) | 2:25 | 2022-11-02 |  |
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 |  |
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 |  |

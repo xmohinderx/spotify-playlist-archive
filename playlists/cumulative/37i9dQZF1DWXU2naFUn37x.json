@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Geolier",
+  "description": "La casa dello street rap italiano. Cover: Mikush",
   "name": "Street Culto",
   "published_playlist_ids": [
     "2xFrA1gU60YSyblsw3BI3i"
@@ -277,6 +277,32 @@
       "duration_ms": 168000,
       "name": "Aston Martin (feat. Headie One)",
       "url": "https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s"
+    },
+    {
+      "album": {
+        "name": "X2 DELUXE",
+        "url": "https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160922,
+      "name": "AUDI (feat. Rhove & Capo Plaza)",
+      "url": "https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA"
     },
     {
       "album": {
@@ -879,7 +905,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 143516,
       "name": "Cella 3",
       "url": "https://open.spotify.com/track/0VkRsiJbqTffovcsUYQBFA"
@@ -1839,7 +1865,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 216606,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ"
@@ -1887,6 +1913,24 @@
       "duration_ms": 216000,
       "name": "Inchiostro sulla face (feat. MamboLosco)",
       "url": "https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ"
+    },
+    {
+      "album": {
+        "name": "IO SONO SOLO",
+        "url": "https://open.spotify.com/album/2e4JgSA98CKcASIpiOk5eZ"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121180,
+      "name": "IO SONO SOLO",
+      "url": "https://open.spotify.com/track/3PLAzqGszMpBvewKKI66vA"
     },
     {
       "album": {
@@ -2441,6 +2485,36 @@
       "duration_ms": 224460,
       "name": "Monna Lisa - La Zona Exclusive",
       "url": "https://open.spotify.com/track/2oqVuvA9p3qoSEHrlj3qq7"
+    },
+    {
+      "album": {
+        "name": "X2 DELUXE",
+        "url": "https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181635,
+      "name": "NELLA CASA DI DIO (feat. Tony Effe, Paky & J Lord)",
+      "url": "https://open.spotify.com/track/06x5M09XW6kUQAfk5RIsQY"
     },
     {
       "album": {
@@ -3861,7 +3935,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 148190,
       "name": "Wroom Wroom",
       "url": "https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1"

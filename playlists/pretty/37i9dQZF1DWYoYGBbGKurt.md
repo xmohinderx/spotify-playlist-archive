@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,770 likes - 499 songs - 19 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,933 likes - 499 songs - 19 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,7 +229,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 219 | [Lantern](https://open.spotify.com/track/5aMWl0Vwj1jmEcs8bDkxBB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Lantern](https://open.spotify.com/album/1QD3MeRF7Z7ECQvyXOqMPf) | 2:24 |
 | 220 | [Downpour](https://open.spotify.com/track/0m5hCN8vIE6HVaGJUh309X) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Downpour](https://open.spotify.com/album/1aQAFqPF00QD1EqpBNHuzs) | 2:18 |
 | 221 | [Sweet Dreams](https://open.spotify.com/track/6YNC9oMyuxkmP84UfOfH4x) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Sweet Dreams](https://open.spotify.com/album/57XSssbhediGW5EYNcKhuL) | 2:08 |
-| 222 | [voyage](https://open.spotify.com/track/5LeagdNKV6NQKuXgktP2r7) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [voyage](https://open.spotify.com/album/067nR2djw1tqapRp17kVRb) | 2:22 |
+| 222 | [voyage](https://open.spotify.com/track/5LeagdNKV6NQKuXgktP2r7) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Mondo Loops](https://open.spotify.com/artist/5wNQsHDOzpbG360PBMy9P9), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [voyage](https://open.spotify.com/album/067nR2djw1tqapRp17kVRb) | 2:22 |
 | 223 | [Carnival Attraction](https://open.spotify.com/track/5iEYjZVIVhqTyuAsvQTTw5) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [Carnival Attraction](https://open.spotify.com/album/6QKHFnuXUQZofd2uDxWlWv) | 2:01 |
 | 224 | [Sun Bath](https://open.spotify.com/track/57oE37icLERtIMk03Tctck) | [Cleto Clouds](https://open.spotify.com/artist/5b8NddTgMkZDXLI1DFz2vr) | [Sun Bath](https://open.spotify.com/album/5UANpkjp8LQD14jUb4kC0x) | 2:35 |
 | 225 | [lavender night](https://open.spotify.com/track/51XCMx1AvTpb5AxncefwXt) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [lavender night](https://open.spotify.com/album/2OPZBQn50MAfVGuQvbMz8G) | 2:03 |

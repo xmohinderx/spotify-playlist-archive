@@ -4,13 +4,13 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Jose Manuel en portada.
 
-150 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/2ALAGcMDhkZpzbgbQ32l2h)
+152 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/2ALAGcMDhkZpzbgbQ32l2h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40 Silenciada](https://open.spotify.com/track/2Z2W2b1EyGda9VfG7G6qC6) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [40 Silenciada](https://open.spotify.com/album/6uCx8AU7vP02l12wDhszHG) | 1:57 | 2022-07-01 | 2022-07-26 |
 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-07-01 |  |
-| [A Cada Rato \(En Vivo\)](https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [A Cada Rato \(En Vivo\)](https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT) | 3:05 | 2022-07-01 |  |
+| [A Cada Rato \(En Vivo\)](https://open.spotify.com/track/2ugRFpxAehNcnuPNT1INks) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [A Cada Rato \(En Vivo\)](https://open.spotify.com/album/2GcISXZ1HSJtUXO9SDfMaT) | 3:05 | 2022-07-01 | 2022-12-02 |
 | [A Medio Paso De Olvidarte](https://open.spotify.com/track/0t9fn8iK9n5FDqnQFXHTqB) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [A Medio Paso De Olvidarte](https://open.spotify.com/album/3jtuDMqZqeoJllyulCXinf) | 2:49 | 2022-11-03 |  |
 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 | 2022-09-23 |  |
 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 | 2022-03-29 |  |
@@ -87,7 +87,8 @@
 | [La Lista](https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [La Lista](https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH) | 3:31 | 2022-05-13 |  |
 | [La Nueva Generacion](https://open.spotify.com/track/3XKbU2FWC2PDkaIAk4Gf8f) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54) | [La Nueva Generacion](https://open.spotify.com/album/0Ywgf0mdv0JIzPVuLJuOUW) | 3:28 | 2022-07-12 | 2022-08-06 |
 | [La Plebada del 09](https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:33 | 2022-03-18 |  |
-| [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 | 2022-06-24 |  |
+| [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 | 2022-12-02 |  |
+| [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 | 2022-06-24 | 2022-12-02 |
 | [Lo Lindo de Mi Ex](https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo Lindo de Mi Ex](https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa) | 2:12 | 2022-04-05 |  |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 |  |
 | [Lo Que Te Pasa](https://open.spotify.com/track/4Qwx5RaF7EnOMXsY7eXH51) | [Isaac Torres y Su Alianza](https://open.spotify.com/artist/1qnlff2Qvu3aOW5NsRDVkb) | [Lo Que Te Pasa](https://open.spotify.com/album/24rdiWOxJwLyNoX87V0mgI) | 2:54 | 2022-04-22 | 2022-07-29 |
@@ -115,6 +116,7 @@
 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-07-01 |  |
 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 | 2022-07-12 |  |
 | [Por Enamorarme](https://open.spotify.com/track/5cwNC37WYaYJDNCxjNPOj6) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/2Lvzqi6AhOMQ8w6z8xG3mk) | 2:56 | 2021-12-27 | 2022-07-29 |
+| [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 | 2022-12-02 |  |
 | [Por un Malandro](https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por un Malandro](https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T) | 2:58 | 2022-07-01 | 2022-07-19 |
 | [Porque No Esta De Mas \(En Vivo\)](https://open.spotify.com/track/7KYx8ouGzjSCPIL9cNhO4Y) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Porque No Esta De Mas \(En Vivo\)](https://open.spotify.com/album/6B0WdTGPO2O4XlluKcnc5K) | 3:48 | 2022-11-03 |  |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-18 |  |

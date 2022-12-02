@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,141 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,136 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 10 | [Nena](https://open.spotify.com/track/17YjrOFgczWPGaH7QyUNMF) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ), [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Nena](https://open.spotify.com/album/2ME9cJkhiJ0bhaL2nsnmKs) | 4:00 |
 | 11 | [Sin Ti](https://open.spotify.com/track/7Lcesyphe3BaJ9NrUn7VD4) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [Sin Ti](https://open.spotify.com/album/5XosYQ98MymeBJn3AOEApq) | 3:49 |
 | 12 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 13 | [Hippie](https://open.spotify.com/track/1liDNF7grg13aEoAuq3bnT) | [Entrelineas](https://open.spotify.com/artist/3mMfJELOQF6XvIreA3sZir) | [Hippie](https://open.spotify.com/album/68Aqq7MSTuH05h5LcneScE) | 3:14 |
-| 14 | [No Hay Otra Igual](https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1) | [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [No Hay Otra Igual](https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa) | 2:53 |
-| 15 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
-| 16 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 |
+| 13 | [No Hay Otra Igual](https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1) | [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [No Hay Otra Igual](https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa) | 2:53 |
+| 14 | [Hippie](https://open.spotify.com/track/1liDNF7grg13aEoAuq3bnT) | [Entrelineas](https://open.spotify.com/artist/3mMfJELOQF6XvIreA3sZir) | [Hippie](https://open.spotify.com/album/68Aqq7MSTuH05h5LcneScE) | 3:14 |
+| 15 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 |
+| 16 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
 | 17 | [Me Dijiste Tu Nombre](https://open.spotify.com/track/0HGaZe9RRXgedMhyZLeDts) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 3:03 |
 | 18 | [Tentación](https://open.spotify.com/track/1gvFCRgGken7XUOF5f30P0) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Tentación](https://open.spotify.com/album/0nDVEBmYce69womm73alvZ) | 3:44 |
 | 19 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 |
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 32 | [Bambi](https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT) | [Koi Pali](https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33) | [Bambi](https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG) | 3:10 |
 | 33 | [Medusa](https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Medusa](https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G) | 4:07 |
 | 34 | [VA HABLAR](https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [HUGITO](https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU) | 2:27 |
-| 35 | [Mensaje](https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Mensaje](https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8) | 2:52 |
-| 36 | [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 |
-| 37 | [Acércate](https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1) | [iLLGrindio](https://open.spotify.com/artist/3ou2XazR60t7BJGYCdwZPR), [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl), [S.A.B.O.R.](https://open.spotify.com/artist/6ByRR3G4Bzmt0sP3X1VDOF) | [Acércate](https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s) | 3:15 |
-| 38 | [piano, piano](https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [piano, piano](https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7) | 2:21 |
+| 35 | [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 |
+| 36 | [Mensaje](https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Mensaje](https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8) | 2:52 |
+| 37 | [piano, piano](https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [piano, piano](https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7) | 2:21 |
+| 38 | [Acércate](https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1) | [iLLGrindio](https://open.spotify.com/artist/3ou2XazR60t7BJGYCdwZPR), [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl), [S.A.B.O.R.](https://open.spotify.com/artist/6ByRR3G4Bzmt0sP3X1VDOF) | [Acércate](https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s) | 3:15 |
 | 39 | [dices](https://open.spotify.com/track/1k0o4QwCNf3Fv5Bspwze13) | [San Marcos](https://open.spotify.com/artist/5Lr96GHiv4KqLl2IvpPouE) | [dices](https://open.spotify.com/album/1G9Ci35tCN4zZLtitXNe7c) | 3:20 |
 | 40 | [Amuleto](https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Amuleto](https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG) | 3:38 |
 | 41 | [Espejos](https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Lo que no ves](https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW) | 2:15 |
 | 42 | [Sad Kirby :\(](https://open.spotify.com/track/1VZbWHys9ky0YGBUWbcD6p) | [Seiscuerdas](https://open.spotify.com/artist/1B59B61fbQVwFdvlZQ1RWM) | [Sad Kirby :\(](https://open.spotify.com/album/6nu76gHLRkrseVSYh0v13Z) | 2:53 |
 | 43 | [what she wants \(lo que ella quiere\)](https://open.spotify.com/track/4aj2NlhP3oA8Kku2uxKmrB) | [mg the realest](https://open.spotify.com/artist/1um42f3vCpcV9AW0pasfEY) | [what she wants \(lo que ella quiere\)](https://open.spotify.com/album/35mQtgVQMFLyHjzEQMy57n) | 2:18 |
-| 44 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
-| 45 | [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 |
+| 44 | [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 |
+| 45 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
 | 46 | [Quédate](https://open.spotify.com/track/61R9b6bR0ikp0ezhjJ0AtL) | [Gala Brie](https://open.spotify.com/artist/1QiR1T9GDuS9E5hrxbkLbE) | [Quédate](https://open.spotify.com/album/0SWw8wLHOkel2D5H1Y5pFo) | 3:58 |
 | 47 | [Chance](https://open.spotify.com/track/6JdoUwgvZFCCiIDapXqax4) | [SANT1](https://open.spotify.com/artist/7u00EoTTmN7RJWLblmgxlK) | [Chance](https://open.spotify.com/album/3xwgOghwfxD3lzpqgu1w3j) | 3:02 |
 | 48 | [Madrid](https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba) | [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3), [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Madrid](https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a) | 2:51 |
 | 49 | [Jardin de Rosas](https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C) | [Ramona Vee](https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B) | [Jardin de Rosas](https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR) | 3:22 |
 | 50 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
 
-Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMGVjNDM0MDhhMmIzYWE2NDBjMDdjMTVlNjViYTBhZTYy`
+Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMGQyZTQzYzE4NTFjMjEzYzA3NDFlNGY5NjA0MTI0MGU2`

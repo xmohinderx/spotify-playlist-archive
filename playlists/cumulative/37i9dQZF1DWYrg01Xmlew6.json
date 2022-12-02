@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio da Napoli e dalla scena campana. Cover: MV Killa",
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: Yung Snapp, ANNA",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -655,6 +655,24 @@
       "duration_ms": 192146,
       "name": "Desaparecidos (feat. Geolier)",
       "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
+    },
+    {
+      "album": {
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147112,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/2ZXAls3e016vnrv8udcuar"
     },
     {
       "album": {
@@ -2158,6 +2176,24 @@
     },
     {
       "album": {
+        "name": "Se Campa Na Vota Sola",
+        "url": "https://open.spotify.com/album/7e5Cf2pMJyhODL80E07M2V"
+      },
+      "artists": [
+        {
+          "name": "Priore",
+          "url": "https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162928,
+      "name": "Se Campa Na Vota Sola",
+      "url": "https://open.spotify.com/track/1PVoh8SoROGd1bOChojG7t"
+    },
+    {
+      "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
       },
@@ -2637,7 +2673,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 152608,
       "name": "TU TE NE VAI",
       "url": "https://open.spotify.com/track/2JMQnaRl0Vr4XFbVYGmKZ5"
@@ -2749,7 +2785,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 141000,
       "name": "VIENI",
       "url": "https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd"

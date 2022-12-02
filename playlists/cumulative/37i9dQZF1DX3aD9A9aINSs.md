@@ -4,7 +4,7 @@
 
 > EQUAL sunar: Yılın favori kadın sanatçıları\. Kapak: İrem Derici
 
-481 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/0Ug3iJ167AwJwwVFcWuJiv)
+482 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/0Ug3iJ167AwJwwVFcWuJiv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Sarhoşsun Dünya \- Akustik](https://open.spotify.com/track/6KfYpYXPKECIhjvIP9fukW) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Akustik Evrende Dünya Tarihi](https://open.spotify.com/album/1JLUlc311J9UMkoqB2H2xS) | 3:05 | 2022-11-01 | 2022-12-01 |
 | [Sarı Yaz](https://open.spotify.com/track/2ZDbd6LywdEF7jz9FSIbGm) | [Duygu Soylu](https://open.spotify.com/artist/4rGbEwbyxCn54KVvV589AY) | [Sarı Yaz](https://open.spotify.com/album/6nOckiHWDtyo6AfoBLCvVe) | 4:36 | 2022-11-01 | 2022-12-01 |
 | [Saydırır](https://open.spotify.com/track/4hZ6hk096xqXrAeWGkb5rl) | [Tutku Tarçın](https://open.spotify.com/artist/0bScMiM2EDnMKYMhkS2zBW) | [Saydırır](https://open.spotify.com/album/1bZ33ElVrE4yE9adk2NhmA) | 2:28 | 2022-10-04 | 2022-11-02 |
+| [Sazım](https://open.spotify.com/track/2Wzt1ndizuydGBklSgueoU) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Sazım](https://open.spotify.com/album/03yYIpsQwyfKyL94iXIm2t) | 3:39 | 2022-11-30 |  |
 | [Schatzi](https://open.spotify.com/track/5fu9AfLKjskk1aZKRpcOea) | [Yase](https://open.spotify.com/artist/54o2CbLdMsh6SR8hufrQiA) | [Schatzi](https://open.spotify.com/album/3hRPryQo9aZcW5A2vp3L3O) | 2:37 | 2022-10-04 | 2022-11-02 |
 | [Semazen](https://open.spotify.com/track/1qOWTtSob8vMJRwbKEGbk6) | [Melis Yelman](https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv) | [Semazen](https://open.spotify.com/album/6TG4zRMDMfYRGKqjOF8ozH) | 2:42 | 2022-05-31 | 2022-07-06 |
 | [Sen Aşk Mısın?](https://open.spotify.com/track/5WtadrzNZYbv0dO8bMMdst) | [Hulya Avsar](https://open.spotify.com/artist/5ZQ2xzMSMon0UUnulwsPiO) | [Sen Aşk Mısın?](https://open.spotify.com/album/5LYskmCySiSpJb4wDJ98XB) | 3:44 | 2022-05-03 | 2022-06-01 |

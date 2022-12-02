@@ -1290,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Jaws the Shark",
+        "url": "https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189474,
+      "name": "Didn't Even Know What I Was Looking For",
+      "url": "https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG"
+    },
+    {
+      "album": {
         "name": "Future Me",
         "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
       },

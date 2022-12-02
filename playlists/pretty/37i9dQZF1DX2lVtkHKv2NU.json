@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 276374,
+  "num_followers": 276497,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDVhMzdjZGI5NzZlZjZiMGUxZTQ5YzMzYWEyY2U5MmZj",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDhmNmUzMTQ2MWIzMTJhYzBkZmFjOTUyZjhlNmYwNzZi",
   "tracks": [
     {
       "added_at": "2022-11-25 06:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 147062,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "WORTH NOTHING",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 164629,
       "name": "WORTH NOTHING",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 147062,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "Therefore I Am",
         "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -1487,22 +1471,6 @@
       "duration_ms": 196133,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/44TzvSZLIkM7Y7MEnrvkIl"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
-        "name": "SWIM TEAM",
-        "url": "https://open.spotify.com/album/0wNiULI2D1sSbM60XaLJH1"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 209721,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/7lgvGRC1gN0JGgY9VGXsQT"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1523,6 +1491,22 @@
       "duration_ms": 223488,
       "name": "Supalonely (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "SWIM TEAM",
+        "url": "https://open.spotify.com/album/0wNiULI2D1sSbM60XaLJH1"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 209721,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/7lgvGRC1gN0JGgY9VGXsQT"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1659,22 +1643,18 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "FEEL SOMETHING DIFFERENT",
-        "url": "https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA"
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
       "artists": [
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 207327,
-      "name": "FEEL SOMETHING DIFFERENT",
-      "url": "https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY"
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1691,6 +1671,26 @@
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "FEEL SOMETHING DIFFERENT",
+        "url": "https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 207327,
+      "name": "FEEL SOMETHING DIFFERENT",
+      "url": "https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY"
     },
     {
       "added_at": "2022-11-25 06:00:00",

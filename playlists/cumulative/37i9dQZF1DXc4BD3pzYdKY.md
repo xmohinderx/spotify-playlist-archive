@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Aaron Cole
 
-725 songs - 1 day 12 hr 32 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+726 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [high school never really ends](https://open.spotify.com/track/118hsk7OtRuULTUm82Xykh) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [high school never really ends](https://open.spotify.com/album/5pzqpz9Vv5nltsUxjLkkIi) | 2:17 | 2021-12-11 | 2022-04-25 |
 | [Higher](https://open.spotify.com/track/1fmzeyEKGSfsdYPlm14y9v) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [Raw \- B](https://open.spotify.com/artist/2NwiSMw1Uk63VbHRNkBu3M), [Weez the Satellite Kiid](https://open.spotify.com/artist/5KokUnp8Swo3ZkGFJXI7ZC) | [FOTO DUMP, Vol\. 1](https://open.spotify.com/album/3gEr63HSPrvDrhX4PuwUBg) | 2:40 | 2022-02-04 | 2022-04-26 |
 | [Highly Favoured](https://open.spotify.com/track/02JJjf7HWHylohQftv7muI) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Highly Favoured](https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA) | 3:00 | 2022-03-05 | 2022-03-22 |
-| [His Side](https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Donovan S Davis](https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG) | [His Side](https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM) | 2:48 | 2022-09-11 |  |
+| [His Side](https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Donovan S Davis](https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG) | [His Side](https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM) | 2:48 | 2022-09-11 | 2022-12-02 |
 | [His Will > Mine](https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [His Will > Mine](https://open.spotify.com/album/1YCZMAs3j2nkPiicRUQC15) | 1:51 | 2022-02-27 | 2022-03-13 |
 | [Hit My Line](https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Hit My Line](https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5) | 2:27 | 2022-06-03 |  |
 | [Hit On That Switch](https://open.spotify.com/track/5LvtYS4qLebDl5kgv6m6SE) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [Hit On That Switch](https://open.spotify.com/album/1nMs1PpWOxZzMlNfdXx6WS) | 2:23 | 2022-03-12 | 2022-04-25 |
@@ -311,6 +311,7 @@
 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 | 2021-12-11 | 2022-05-29 |
 | [Icarus](https://open.spotify.com/track/3h5kGTuLeiPiO5p2aw6Io8) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Wild Sons](https://open.spotify.com/album/74cMCoijO7oVaK1KkOSfQR) | 2:27 | 2022-05-28 | 2022-07-22 |
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-10-07 |  |
+| [If I'm Honest](https://open.spotify.com/track/6bMBAXji91RdFWpjihPLUH) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [If I'm honest](https://open.spotify.com/album/1RIpcD9zLx0NWCdMEq0X79) | 2:43 | 2022-11-25 |  |
 | [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 | 2022-10-14 |  |
 | [Impossible](https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Impossible](https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh) | 3:24 | 2022-05-28 |  |
 | [In Awe](https://open.spotify.com/track/5AlFkTiWBzl4a8ORlMAtNH) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [In Awe](https://open.spotify.com/album/0Az5pG8P7oph28gsFRSKx2) | 3:16 | 2021-12-11 | 2022-02-05 |

@@ -1,12 +1,12 @@
 {
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=bSTf1MajQS6L2ajf-MJZAA\">Dlala Thukzin</a>",
-  "num_followers": 55224,
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=6TZcDobZT6KDVIsCO-akFA\">Thakzin</a>",
+  "num_followers": 55286,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMyODE3NSwwMDAwMDAwMDViZTdiMWFjZjYxYTZjMzYwZGZiYmU1MTFjNjQ3NGM1",
+  "snapshot_id": "MTY2OTkzNDU3NCwwMDAwMDAwMDU1NzBjNjBhM2Q2MzM0ODgxMWNhODFiNDk1OTcxMGFm",
   "tracks": [
     {
       "added_at": "2022-09-09 02:17:06",
@@ -91,6 +91,22 @@
       "duration_ms": 322400,
       "name": "Asanda",
       "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+    },
+    {
+      "added_at": "2022-12-01 22:42:54",
+      "album": {
+        "name": "The Magnificent Dance",
+        "url": "https://open.spotify.com/album/5YuBv6DWEEVTxU19WkeXEs"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        }
+      ],
+      "duration_ms": 425722,
+      "name": "The Magnificent Dance",
+      "url": "https://open.spotify.com/track/28acShbQyEjdJHvdmnxkaw"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -365,6 +381,30 @@
       "url": "https://open.spotify.com/track/2XsrImizq3YjPuMyTVY6rH"
     },
     {
+      "added_at": "2022-12-01 22:42:54",
+      "album": {
+        "name": "The Underrated King",
+        "url": "https://open.spotify.com/album/54lSw5trXgoiCDLOAh8Wlk"
+      },
+      "artists": [
+        {
+          "name": "Heavy-K",
+          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
+        },
+        {
+          "name": "Bailey",
+          "url": "https://open.spotify.com/artist/2m8moPO8g157pOZoojNZYX"
+        },
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
+        }
+      ],
+      "duration_ms": 368577,
+      "name": "Dakiwe",
+      "url": "https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG"
+    },
+    {
       "added_at": "2022-11-17 21:59:00",
       "album": {
         "name": "INSIMBI",
@@ -497,6 +537,26 @@
       "url": "https://open.spotify.com/track/1uGivKy4r1xbPbxhI6Jp3q"
     },
     {
+      "added_at": "2022-12-01 22:42:54",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/0IGMuacSlufINDCHLNBNNa"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Philip Tabane",
+          "url": "https://open.spotify.com/artist/3wC1W9e4Ycoji9LEM1MBTa"
+        }
+      ],
+      "duration_ms": 164606,
+      "name": "Vha Vhenda (THEMBA's Herd Mix)",
+      "url": "https://open.spotify.com/track/23xHKVpe8QA9Nv0yoBQQ0P"
+    },
+    {
       "added_at": "2022-11-11 10:28:54",
       "album": {
         "name": "IQHAWE",
@@ -519,6 +579,34 @@
       "duration_ms": 449964,
       "name": "IQHAWE",
       "url": "https://open.spotify.com/track/30RylevGyD4EFyV4VYbPj3"
+    },
+    {
+      "added_at": "2022-12-01 22:42:54",
+      "album": {
+        "name": "Finally Famous",
+        "url": "https://open.spotify.com/album/1I6Kl9idNvQCeEkkN50Wc5"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Mk Productions",
+          "url": "https://open.spotify.com/artist/67hRZRbHByMJCRqSdkyZhi"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W"
+        },
+        {
+          "name": "Sfundo",
+          "url": "https://open.spotify.com/artist/0op0566RVAkuZQQ76RWxLG"
+        }
+      ],
+      "duration_ms": 313220,
+      "name": "Mina",
+      "url": "https://open.spotify.com/track/5aJTwe8xpO6799PDiMUojU"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -631,6 +719,26 @@
       "duration_ms": 343413,
       "name": "Munghana",
       "url": "https://open.spotify.com/track/4geNXVubg5QYEDx8zDuw0Z"
+    },
+    {
+      "added_at": "2022-12-01 22:42:54",
+      "album": {
+        "name": "Une Star Bebe",
+        "url": "https://open.spotify.com/album/6ypUvWOYcUxE7x4E4AHXix"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        }
+      ],
+      "duration_ms": 351074,
+      "name": "Une Star Bebe",
+      "url": "https://open.spotify.com/track/2adKCHjISddX6SUdTKPWGr"
     },
     {
       "added_at": "2022-11-03 21:59:00",
@@ -901,6 +1009,22 @@
       "url": "https://open.spotify.com/track/4X7kcp8rVUE3MWCD1hE3KL"
     },
     {
+      "added_at": "2022-09-22 21:59:00",
+      "album": {
+        "name": "AIYE (Afro Tech Mix)",
+        "url": "https://open.spotify.com/album/2eDO3fMkVOC2Qi3JNBjUzQ"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 386052,
+      "name": "AIYE",
+      "url": "https://open.spotify.com/track/5IYCGJP9AjEJiPomAoCQKw"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Don\u2019t Get Me Wrong",
@@ -985,6 +1109,22 @@
       "url": "https://open.spotify.com/track/2IsAQ0jG5kfDTNuKGhSLC6"
     },
     {
+      "added_at": "2022-12-01 22:42:54",
+      "album": {
+        "name": "Triomf",
+        "url": "https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5"
+      },
+      "artists": [
+        {
+          "name": "The Great Yawn",
+          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
+        }
+      ],
+      "duration_ms": 289895,
+      "name": "Triomf",
+      "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
+    },
+    {
       "added_at": "2022-10-13 21:59:00",
       "album": {
         "name": "Peace",
@@ -1007,26 +1147,6 @@
       "duration_ms": 240000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0N2WM0kZIYq5mMa0G6uh2E"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "We Here To Stay",
-        "url": "https://open.spotify.com/album/0KQw9FxgEPvZ0wxrIK1FRm"
-      },
-      "artists": [
-        {
-          "name": "TiMO ODV",
-          "url": "https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt"
-        },
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        }
-      ],
-      "duration_ms": 222926,
-      "name": "We Here To Stay",
-      "url": "https://open.spotify.com/track/6bQcDKEMFB0s7CRhnFsoK0"
     },
     {
       "added_at": "2022-11-03 21:59:00",
@@ -1111,22 +1231,6 @@
       "duration_ms": 196935,
       "name": "THE OTHER SIDE",
       "url": "https://open.spotify.com/track/2IGFXMQdh2AlVdPyd6woaR"
-    },
-    {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "AIYE (Afro Tech Mix)",
-        "url": "https://open.spotify.com/album/2eDO3fMkVOC2Qi3JNBjUzQ"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 386052,
-      "name": "AIYE",
-      "url": "https://open.spotify.com/track/5IYCGJP9AjEJiPomAoCQKw"
     }
   ],
   "unique_name": "mint South Africa",

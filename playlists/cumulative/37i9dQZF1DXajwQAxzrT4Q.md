@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: skaiwater.
 
-186 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+187 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [MY Shit GET Back](https://open.spotify.com/track/3xpuCJ8deChOE5O5pILJoa) | [DJNeptune973](https://open.spotify.com/artist/4mQASoKLwVS6pG0zZIbBwk), [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [MY Shit GET Back](https://open.spotify.com/album/5WwtFUuAvxhWaFH8BOgyFv) | 1:41 | 2022-02-11 |  |
 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 | 2022-02-11 |  |
 | [need](https://open.spotify.com/track/2Tsz0PAbba4ZxXi9Erfm6F) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [need](https://open.spotify.com/album/5At9VxGKV9SzCLwpRrzVRy) | 2:38 | 2022-08-15 | 2022-12-01 |
+| [need](https://open.spotify.com/track/4jULI2P5BL43Y9JmxR4AzW) | [Mernie](https://open.spotify.com/artist/57W3vx4NYiwKUCuBfIMBDL) | [need](https://open.spotify.com/album/3h51xwdIEkdAVU9mDnPiso) | 2:38 | 2022-11-18 |  |
 | [Need Your Body](https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI) | [Jaeo Draftpick](https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq), [DJ Scenario](https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE) | [Need Your Body](https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi) | 2:44 | 2022-09-02 |  |
 | [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 |  |
 | [Nxwxrk \- Dj Sliink Remix](https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ) | [Nadus](https://open.spotify.com/artist/59myknL407PNXcExTEeUpU), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Broke City \(Deluxe\)](https://open.spotify.com/album/6WBDzqrCcXti6p8sfRh3QL) | 4:24 | 2022-02-11 | 2022-07-29 |
@@ -177,7 +178,7 @@
 | [Sticky](https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:03 | 2022-06-21 |  |
 | [SuperBad \- Jersey Club Remix](https://open.spotify.com/track/1uRswTqUtGeuAZHEe4jG0p) | [Dmelz](https://open.spotify.com/artist/1blYLoeVh3GFXYz83uyvrK), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [SuperBad \(Jersey Club Remix\)](https://open.spotify.com/album/6omk1I2LEfKgEOIDg8OybN) | 2:03 | 2022-02-11 | 2022-07-29 |
 | [Swamp Life Anthem \- DJ Jayhood Jersey Club Remix](https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj) | [SWAMPLIFETERRY](https://open.spotify.com/artist/7vIPf48FaSPvxaYD4N1r4i), [337Mayhem](https://open.spotify.com/artist/3OHH2dQjcWIdx65HgQvRJG), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Swamp Life Anthem \(DJ Jayhood Jersey Club Remix\)](https://open.spotify.com/album/73MVESpvv1oLqSateO2ysa) | 1:53 | 2022-02-11 | 2022-07-06 |
-| [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 | 2022-09-16 |  |
+| [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 | 2022-09-16 | 2022-12-02 |
 | [Team Lilman Anthem](https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [Team Lilman Anthem](https://open.spotify.com/album/7keNPILEHzrizAaBpDTH2l) | 2:58 | 2022-02-11 |  |
 | [Trip to Brazil](https://open.spotify.com/track/20NsO7bS1TfMMBzwqWASjx) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Trip to Brazil](https://open.spotify.com/album/6tnEzZ6nrmb5XSYoiH2iGW) | 1:43 | 2022-10-14 | 2022-11-09 |
 | [Unavailable](https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Unavailable](https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS) | 3:21 | 2022-02-11 |  |

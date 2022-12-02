@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Jessie Reyez
 
-374 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+377 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [DON'T PLAY WITH MY HEART](https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DON'T PLAY WITH MY HEART](https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I) | 3:39 | 2021-12-15 | 2022-07-29 |
 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2022-10-21 |  |
 | [Don't Wanna Pretend](https://open.spotify.com/track/1H89H0hdMKjj7Q2I5vYM0V) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Wanna Pretend](https://open.spotify.com/album/6c4oI3p1JhWsJVUlVDuA3s) | 3:45 | 2021-12-15 | 2022-05-08 |
-| [Don't You Know](https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:14 | 2022-07-15 |  |
+| [Don't You Know](https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:14 | 2022-07-15 | 2022-12-02 |
 | [Don't You Know](https://open.spotify.com/track/6NstAfTbr3F6PnvGuis1YK) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Don't You Know](https://open.spotify.com/album/6QrAdAhJl3x79EGgBkKAtv) | 3:14 | 2022-03-25 | 2022-04-21 |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 | 2022-11-30 |
 | [DOWN BAD](https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:21 | 2022-11-11 |  |
@@ -119,7 +119,7 @@
 | [Feel](https://open.spotify.com/track/3iJf0dg0PGISj0ied0T0g0) | [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Feel](https://open.spotify.com/album/5oimSytgAUa5GF6pZRnzYD) | 2:56 | 2021-12-15 | 2022-07-29 |
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-18 | 2022-07-29 |
 | [Feelings 4 You](https://open.spotify.com/track/6FyadQAUc4Rrv9WT8sa8Ro) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/2kuH27HnAi396mXM1LqZ8q) | 4:16 | 2022-02-18 | 2022-02-26 |
-| [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 | 2022-05-20 |  |
+| [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 | 2022-05-20 | 2022-12-02 |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 |  |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-07-27 |
 | [Finesse](https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Finesse](https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx) | 2:53 | 2021-12-15 | 2022-07-28 |
@@ -192,6 +192,7 @@
 | [In This Room](https://open.spotify.com/track/22G602hpmvem9QnAZi1ckG) | [Lavaud](https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T) | [In This Room](https://open.spotify.com/album/7wHYTBmJQdmO2s38ockg6z) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [In Your Feelz](https://open.spotify.com/track/3hOj7GUeaB49lCRmxwUmYf) | [Josh K](https://open.spotify.com/artist/5sDi2TINo53uVZScP0lYYL) | [In Your Feelz](https://open.spotify.com/album/4OWTu9WDxCf9NCcfEbUyG6) | 3:10 | 2022-10-14 | 2022-10-22 |
 | [Innocent](https://open.spotify.com/track/7A1xtIabfrZ5X3xIa7KqWj) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Space and Time](https://open.spotify.com/album/3FsgJirEdTynPXLGvct53E) | 2:53 | 2021-12-15 | 2022-07-19 |
+| [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 | 2022-11-25 |  |
 | [Internet Trolls](https://open.spotify.com/track/3waut2R3lK5wLMo6HzKstv) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Internet Trolls](https://open.spotify.com/album/6cgml95XCwzKGVL0JIEriQ) | 3:59 | 2022-06-03 | 2022-07-21 |
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2022-09-16 |  |
 | [Issues](https://open.spotify.com/track/2UgN6hfqtJ0ZS2Ir4ZCgPg) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Issues](https://open.spotify.com/album/2mMH8IJOPTsso38tCLSl1o) | 3:01 | 2022-04-04 | 2022-04-16 |
@@ -268,7 +269,8 @@
 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 | 2022-08-05 |  |
 | [over and done](https://open.spotify.com/track/7gsKRrLsvTtOxcPb2GtGoI) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [over and done](https://open.spotify.com/album/0WHnr9dcrCnM4LqjfvE2pH) | 2:29 | 2022-03-25 | 2022-04-12 |
 | [Pack Lite](https://open.spotify.com/track/3Q0U0QJEGjA2rZPoGVVaWY) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Pack Lite](https://open.spotify.com/album/00IWbDt6d3LfbgnIdZ58OY) | 2:56 | 2021-12-15 | 2022-07-29 |
-| [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 | 2022-05-13 |  |
+| [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 | 2022-05-13 | 2022-12-02 |
+| [Pain](https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:33 | 2022-07-15 |  |
 | [Passionate](https://open.spotify.com/track/5yhxcKL2OEEJJLwn8Aekve) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood…still](https://open.spotify.com/album/6ozjO9GDFnrwYRpYuIhxzS) | 3:51 | 2021-12-15 | 2022-07-17 |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-12-01 |
 | [Pick A Side](https://open.spotify.com/track/5vXvD86WP93gFqrYrr93Q6) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Pick A Side](https://open.spotify.com/album/1xf8ut7calxvWuhLYyTrYK) | 3:12 | 2021-12-15 | 2022-06-23 |
@@ -332,6 +334,7 @@
 | [Sunset Eyes](https://open.spotify.com/track/43JDDAnJu7fyNToaRUsjGH) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:26 | 2022-05-06 | 2022-07-27 |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-15 |
+| [Tell Me](https://open.spotify.com/track/627yvru8268y11clOwn3f4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Tell Me](https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c) | 3:24 | 2022-11-11 |  |
 | [Temptations](https://open.spotify.com/track/4QokysYZE2otPdhq5L4EM0) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 2:59 | 2022-10-07 |  |
 | [Tension](https://open.spotify.com/track/4JDsi2ZxNDoMWlzWpr3dZj) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [My Way](https://open.spotify.com/album/3psW8SjqD6GFta8wCoBTes) | 2:26 | 2021-12-15 | 2022-02-03 |
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-12-15 | 2022-10-29 |

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8289,
+  "num_followers": 8292,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDk2YzEzZDVhM2I5ZGI4ZjJjM2I5Mjg1NmExMTM5YTgw",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDQ5MzE5MTU2Yjc0MjM2MjEwMWIxYmFiNWQ4ZGI0Yjc3",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Mobster",
+        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Mobster",
+      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Beat Dem Bad",
         "url": "https://open.spotify.com/album/1INQWVJOhCcOZHmLC7srG1"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 216405,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Mobster",
-        "url": "https://open.spotify.com/album/7qAR0K7zQHG9OsiNkZxriW"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Mobster",
-      "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rate Who Rate You",
-        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
+        "name": "Wotless Carnival Album",
+        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
       "artists": [
         {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
         }
       ],
-      "duration_ms": 216058,
-      "name": "Rate Who Rate You",
-      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
+      "duration_ms": 218228,
+      "name": "Wotless",
+      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wotless Carnival Album",
-        "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
+        "name": "Rate Who Rate You",
+        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
       },
       "artists": [
         {
-          "name": "KES the Band",
-          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
         }
       ],
-      "duration_ms": 218228,
-      "name": "Wotless",
-      "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+      "duration_ms": 216058,
+      "name": "Rate Who Rate You",
+      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -431,22 +431,6 @@
       "duration_ms": 237131,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Tic It & Tac It",
-        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
-      },
-      "artists": [
-        {
-          "name": "BoBo",
-          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Tic It & Tac It",
-      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -471,22 +455,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW"
+        "name": "Tic It & Tac It",
+        "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
       "artists": [
         {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "BoBo",
+          "url": "https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK"
         }
       ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/4WMQmMmceazgRSRr7har02"
+      "duration_ms": 123500,
+      "name": "Tic It & Tac It",
+      "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -503,6 +483,26 @@
       "duration_ms": 202422,
       "name": "Demon Girl",
       "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/4WMQmMmceazgRSRr7har02"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Wileside Government",
+        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 202332,
+      "name": "Wileside Government",
+      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Conch Shell",
         "url": "https://open.spotify.com/album/2Np7QomldZGz81VIVtzVEQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 211022,
       "name": "Stink Behavior",
       "url": "https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Wileside Government",
-        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 202332,
-      "name": "Wileside Government",
-      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Bad in Bum Bum / Back Bend",
-        "url": "https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q"
-      },
-      "artists": [
-        {
-          "name": "Subance",
-          "url": "https://open.spotify.com/artist/0OjTKknaOkq9QvKKffPdpU"
-        },
-        {
-          "name": "Mighty",
-          "url": "https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "Bad in Bum Bum / Back Bend",
-      "url": "https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Physique Riddim (Soca 2018 Trinidad and Tobago Carnival)",
         "url": "https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG"
       },
@@ -1035,22 +1015,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Gas Station Riddim",
-        "url": "https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/46tZ8IWlrpYgB9EDCa3Rfb"
       },
@@ -1071,6 +1035,22 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/6d9GMNNJpGEjrH8OFDGEXN"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Gas Station Riddim",
+        "url": "https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1255,6 +1235,26 @@
       "duration_ms": 230769,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Sick Jab Riddim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
+      },
+      "artists": [
+        {
+          "name": "Kisha",
+          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "The People Man (T.P.M.)",
+      "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
     }
   ],
   "unique_name": "Soca Bashment",

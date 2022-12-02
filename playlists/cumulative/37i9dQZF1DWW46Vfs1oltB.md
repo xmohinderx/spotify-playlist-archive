@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: WOO\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버:애쉬 아일랜드\)
+> The hottest K\-hip hop is here\. KR OWN \- KrOWN\. \(Cover: WOO\) \(가장 핫한 한국 힙합 곡들을 만나보세요!  커버: 우원재\)
 
 677 songs - 1 day 13 hr 30 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 

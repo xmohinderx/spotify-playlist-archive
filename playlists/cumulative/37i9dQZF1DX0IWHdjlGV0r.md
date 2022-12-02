@@ -2,7 +2,7 @@
 
 ### [Arsenico](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Certi amori bruciano di più\. Cover: Luchè
+> Certi amori bruciano di più\. Cover: Neima Ezza
 
 101 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 

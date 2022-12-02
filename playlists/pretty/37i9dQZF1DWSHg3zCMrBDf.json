@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=byhHllSOSqScaQ5PEWOpPg\"> Sarkodie </a>  ",
-  "num_followers": 24839,
+  "num_followers": 24893,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTYxOTQwNiwwMDAwMDAwMDM0YzdjYTA2OWJhMWUxYmYzYWRkMzYyZWY3Y2Q2ZmM3",
+  "snapshot_id": "MTY2OTkzNDMyNSwwMDAwMDAwMGI1YmUwZjkyODRiNGZhYjMwZTA2MTI4NjMwZTRlNWFi",
   "tracks": [
     {
       "added_at": "2022-11-28 07:10:06",
@@ -319,6 +319,26 @@
       "duration_ms": 216991,
       "name": "It's Plenty",
       "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": "2022-12-01 22:38:45",
+      "album": {
+        "name": "Sankofa (5 Star Remix)",
+        "url": "https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Sankofa - Remix",
+      "url": "https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9"
     },
     {
       "added_at": "2022-11-28 06:42:08",
@@ -1383,26 +1403,6 @@
       "duration_ms": 203093,
       "name": "Ring My Line (feat. Headie One)",
       "url": "https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4"
-    },
-    {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "Lighthouse EP",
-        "url": "https://open.spotify.com/album/5x6h4sq7bNekBjnBoeGHaN"
-      },
-      "artists": [
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        },
-        {
-          "name": "Cina Soul",
-          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
-        }
-      ],
-      "duration_ms": 255918,
-      "name": "Obiaa",
-      "url": "https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G"
     },
     {
       "added_at": "2021-02-22 19:13:22",

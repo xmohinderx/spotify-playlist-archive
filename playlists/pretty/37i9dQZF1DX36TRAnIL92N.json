@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 63893,
+  "num_followers": 64187,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NzIzMywwMDAwMDAwMDYzM2U2N2U2ODdhNGI3MjU3ODBjOGUxNDA4ZDMwYjcy",
+  "snapshot_id": "MTY2OTM4NzIzMywwMDAwMDAwMDVmMmU2ZWMyYzZlZmRkOTIyNDAyYWUwNjQ1NTkzOGU3",
   "tracks": [
     {
       "added_at": "2022-11-25 14:40:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
-      },
-      "artists": [
-        {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
-        }
-      ],
-      "duration_ms": 271729,
-      "name": "Affection - Radio Edit",
-      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
-    },
-    {
-      "added_at": "2022-11-25 14:40:32",
-      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 378184,
       "name": "The Door",
       "url": "https://open.spotify.com/track/2R5j17Th87vImCG2YEQY6p"
+    },
+    {
+      "added_at": "2022-11-25 14:40:32",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 271729,
+      "name": "Affection - Radio Edit",
+      "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
     },
     {
       "added_at": "2022-11-25 14:40:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2022-11-25 14:40:32",
-      "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 288671,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "added_at": "2022-11-25 14:40:32",
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
       "added_at": "2022-11-25 14:40:32",
@@ -791,38 +791,6 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
-        "name": "Sex and the Machine",
-        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        }
-      ],
-      "duration_ms": 240123,
-      "name": "Sex and the Machine",
-      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
-    },
-    {
-      "added_at": "2022-11-25 14:40:32",
-      "album": {
-        "name": "In Trance",
-        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 357305,
-      "name": "In Trance",
-      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
-    },
-    {
-      "added_at": "2022-11-25 14:40:32",
-      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
       },
@@ -855,6 +823,38 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
+        "name": "Sex and the Machine",
+        "url": "https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 240123,
+      "name": "Sex and the Machine",
+      "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
+    },
+    {
+      "added_at": "2022-11-25 14:40:32",
+      "album": {
+        "name": "In Trance",
+        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 357305,
+      "name": "In Trance",
+      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
+    },
+    {
+      "added_at": "2022-11-25 14:40:32",
+      "album": {
         "name": "1981",
         "url": "https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ"
       },
@@ -871,22 +871,18 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
-        "name": "Little Hero",
-        "url": "https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H"
+        "name": "Open Up",
+        "url": "https://open.spotify.com/album/0f8gsdHHUzesyF8rDqUcU5"
       },
       "artists": [
         {
-          "name": "Cosmic Boys",
-          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Little Hero",
-      "url": "https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm"
+      "duration_ms": 432000,
+      "name": "Open Up - Original Mix",
+      "url": "https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI"
     }
   ],
   "unique_name": "Techno Workout",

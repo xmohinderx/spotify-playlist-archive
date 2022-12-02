@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 10465,
+  "num_followers": 10494,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGVhYTdlYTczMzM4MGNiMzQ5NjhjZWY1MDA0ZTg0MGNm",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDQxODgxNmZhN2JlZmFlOTQxODdlNWMzOWFjMWFhMmQy",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -382,11 +382,27 @@
         {
           "name": "Marc Anthony",
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        },
+        {
+          "name": "Nora",
+          "url": "https://open.spotify.com/artist/2pH0QIWh7UyhPZHit7eCQG"
         }
       ],
-      "duration_ms": 388360,
-      "name": "Aguanile - Live Version",
-      "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
+      "duration_ms": 352853,
+      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
+      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -498,27 +514,11 @@
         {
           "name": "Marc Anthony",
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        },
-        {
-          "name": "Nora",
-          "url": "https://open.spotify.com/artist/2pH0QIWh7UyhPZHit7eCQG"
         }
       ],
-      "duration_ms": 352853,
-      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
-      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
+      "duration_ms": 388360,
+      "name": "Aguanile - Live Version",
+      "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
     },
     {
       "added_at": "2022-03-18 05:00:00",

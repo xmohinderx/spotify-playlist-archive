@@ -1,12 +1,12 @@
 {
   "description": "tropa do faf\u00e1 quem n\u00e3o gosta de nois t\u00e1 podre por dentro",
-  "num_followers": 1008069,
+  "num_followers": 1009120,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY2Mzg0MywwMDAwMDAwMGIyMzEyZTVjNmYxMzNlZGEyZDQ4YmM3Nzc5YzZmNDRl",
+  "snapshot_id": "MTY2OTY2Mzg0MywwMDAwMDAwMGViM2IzMTQ3NjE5NGFmOWYyZmU1MmJkYmUwNTYyNWVm",
   "tracks": [
     {
       "added_at": "2022-11-28 19:30:43",
@@ -959,6 +959,26 @@
     {
       "added_at": "2022-11-28 19:30:43",
       "album": {
+        "name": "Revela\u00e7\u00e3o do Ano",
+        "url": "https://open.spotify.com/album/69pD9wpbdbNMmcX2x4zgQR"
+      },
+      "artists": [
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Revela\u00e7\u00e3o do Ano",
+      "url": "https://open.spotify.com/track/5fKjpVyB8HIK9Gm1pV3PJm"
+    },
+    {
+      "added_at": "2022-11-28 19:30:43",
+      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2022-11-28 19:30:43",
       "album": {
-        "name": "Revela\u00e7\u00e3o do Ano",
-        "url": "https://open.spotify.com/album/69pD9wpbdbNMmcX2x4zgQR"
-      },
-      "artists": [
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Revela\u00e7\u00e3o do Ano",
-      "url": "https://open.spotify.com/track/5fKjpVyB8HIK9Gm1pV3PJm"
-    },
-    {
-      "added_at": "2022-11-28 19:30:43",
-      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -1031,34 +1031,6 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
-    },
-    {
-      "added_at": "2022-11-28 19:30:43",
-      "album": {
-        "name": "O Que O Igor Guilherme Anda Pensando ?",
-        "url": "https://open.spotify.com/album/7kZteNKgJng7xIhjvTY1Zg"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 251707,
-      "name": "Esquadrilha da Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/1XlFMIer2WxuSUKb43EQID"
     },
     {
       "added_at": "2022-11-28 19:30:43",
@@ -1095,6 +1067,34 @@
     {
       "added_at": "2022-11-28 19:30:43",
       "album": {
+        "name": "O Que O Igor Guilherme Anda Pensando ?",
+        "url": "https://open.spotify.com/album/7kZteNKgJng7xIhjvTY1Zg"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 251707,
+      "name": "Esquadrilha da Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/1XlFMIer2WxuSUKb43EQID"
+    },
+    {
+      "added_at": "2022-11-28 19:30:43",
+      "album": {
         "name": "Bem Melhor",
         "url": "https://open.spotify.com/album/6ZixmbQx5Rjm4H6wYkPrsp"
       },
@@ -1111,6 +1111,38 @@
       "duration_ms": 197000,
       "name": "Bem Melhor",
       "url": "https://open.spotify.com/track/14SljsjDUvcK8xLAJrR7qW"
+    },
+    {
+      "added_at": "2022-11-28 19:30:43",
+      "album": {
+        "name": "Pelo Momento",
+        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Pelo Momento",
+      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
     },
     {
       "added_at": "2022-11-28 19:30:43",
@@ -1179,34 +1211,26 @@
     {
       "added_at": "2022-11-28 19:30:43",
       "album": {
-        "name": "Pelo Momento",
-        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
+        "name": "BRAZIL",
+        "url": "https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd"
       },
       "artists": [
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "DJ Ery",
+          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Pelo Momento",
-      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
+      "duration_ms": 124564,
+      "name": "BRAZIL",
+      "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
     },
     {
       "added_at": "2022-11-28 19:30:43",
@@ -1251,30 +1275,6 @@
       "duration_ms": 376000,
       "name": "Festa de Maloka",
       "url": "https://open.spotify.com/track/6rVjToYxm3G5DkGCEOJg7S"
-    },
-    {
-      "added_at": "2022-11-28 19:30:43",
-      "album": {
-        "name": "BRAZIL",
-        "url": "https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "DJ Ery",
-          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
-        }
-      ],
-      "duration_ms": 124564,
-      "name": "BRAZIL",
-      "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
     },
     {
       "added_at": "2022-11-28 19:30:43",

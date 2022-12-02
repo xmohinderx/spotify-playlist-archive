@@ -4,7 +4,7 @@
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-52 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/0mF58AHVsyEjYfbQsQ6nFT)
+53 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0mF58AHVsyEjYfbQsQ6nFT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [I Come Out Of Your Sleep](https://open.spotify.com/track/5sR6qE0cQovmDpkfesXnje) | [Annea Lockwood/Ruth Anderson](https://open.spotify.com/artist/4lhXBy3ve574sqBmBseEyH) | [Sinopah](https://open.spotify.com/album/4207UkGWpur6nYHRJ5Mykb) | 23:32 | 2021-08-20 |  |
 | [I Could Sit Here All Day](https://open.spotify.com/track/0swq7jYmrIg7YCGJTkYD7P) | [Megan Roberts](https://open.spotify.com/artist/4mGZP1nw8jDRq3Q5dvoNgm), [Danny Sofer](https://open.spotify.com/artist/747JBTBJlV0hssCOOu5O9q), [Phil Loarie](https://open.spotify.com/artist/6CY7lw5DkMZW0ZBStQp0WV), [William Novak](https://open.spotify.com/artist/51KSjrvDLPswEku9JNonm3) | [New Music for Electronic and Recorded Media: Women In Electronic Music \- 1977](https://open.spotify.com/album/65PxTjGgU3QdZ70tCvtt6Z) | 6:31 | 2021-08-20 |  |
 | [In Dreaming](https://open.spotify.com/track/6NJFt45q01ZZx0Z4aoMCb3) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Gary Miraz](https://open.spotify.com/artist/32puo5NH9sjHN4OMphc8bh) | [Resonance](https://open.spotify.com/album/4iNADa6Esr3HGXxwIBmsCJ) | 8:52 | 2021-08-20 |  |
-| [Interval Signal](https://open.spotify.com/track/2jiyFTD3TSxQhy3zHDEUpS) | [Maddalena Fagandini](https://open.spotify.com/artist/1UCiMYXvdATF8gxLpxxRi7) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 1:39 | 2021-08-20 |  |
+| [Interval Signal](https://open.spotify.com/track/2jiyFTD3TSxQhy3zHDEUpS) | [Maddalena Fagandini](https://open.spotify.com/artist/1UCiMYXvdATF8gxLpxxRi7) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 1:39 | 2021-08-20 | 2022-12-02 |
+| [Interval Signal](https://open.spotify.com/track/7wm8PETEqxDysPx7Lm1XzF) | [Maddalena Fagandini](https://open.spotify.com/artist/1UCiMYXvdATF8gxLpxxRi7) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 1:39 | 2021-08-20 |  |
 | [Invisible Chariots: Voices of the Invisible / Archangels / Chariots](https://open.spotify.com/track/429ROvY56ooK0sRz0zhr8z) | [Priscilla McLean](https://open.spotify.com/artist/7f25bJntvX8JoKAvJXUqcH) | [McLean: Electro\-Symphonic Landscapes](https://open.spotify.com/album/3KxLXa0nFXb41cHbatD3jM) | 21:48 | 2021-08-20 |  |
 | [Kolyosa](https://open.spotify.com/track/01rBrGS9EhnXlqedf2O0Yk) | [Pril Smiley](https://open.spotify.com/artist/7z3zG5dWWjAgDd5NMDh3Sy) | [Pioneers Of Electronic Music](https://open.spotify.com/album/63ee2BYCQVmebj0ZgxhxL0) | 6:43 | 2021-08-20 |  |
 | [Koume](https://open.spotify.com/track/68yY905rINFVTKWAaTGQHm) | [Éliane Radigue](https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh) | [Trilogie De La Mort](https://open.spotify.com/album/2qLeLtVxS5N9A9B0qd1BC5) | 51:17 | 2021-08-20 |  |

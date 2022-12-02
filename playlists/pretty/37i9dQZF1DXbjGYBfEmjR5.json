@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 247694,
+  "num_followers": 247845,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDk5YmRkMmQzOGVlY2Q5YzVmNTg5MzA2ODMwZGE5ZTA3",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDQyOTAwZDBmMDMwNGQ1YTJiYjIzOWU1NDllZDMxMzky",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Best Before 1998",
+        "url": "https://open.spotify.com/album/4MeikwvA8AgiIEPqIaGBxC"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 210731,
       "name": "Dance Tonite",
       "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Best Before 1998",
-        "url": "https://open.spotify.com/album/4MeikwvA8AgiIEPqIaGBxC"
-      },
-      "artists": [
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Slowed Midnight",
-        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
       },
       "artists": [
         {
-          "name": "Cape Coral",
-          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
-        },
-        {
-          "name": "Android Apartment",
-          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
         }
       ],
-      "duration_ms": 155750,
-      "name": "Ritmo.",
-      "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+        },
+        {
+          "name": "Android Apartment",
+          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
         }
       ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+      "duration_ms": 155750,
+      "name": "Ritmo.",
+      "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "love u!!",
-        "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
       "artists": [
         {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+          "name": "Uni Deluxe",
+          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
         }
       ],
-      "duration_ms": 150004,
-      "name": "love u!!",
-      "url": "https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry"
+      "duration_ms": 248447,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
+        "name": "love u!!",
+        "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
       },
       "artists": [
         {
-          "name": "Uni Deluxe",
-          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
         }
       ],
-      "duration_ms": 248447,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
+      "duration_ms": 150004,
+      "name": "love u!!",
+      "url": "https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "You Can't Run",
-        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
+        "name": "This Is Just a Test",
+        "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+          "name": "UniBe@t",
+          "url": "https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg"
         }
       ],
-      "duration_ms": 201142,
-      "name": "You Can't Run",
-      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+      "duration_ms": 363156,
+      "name": "This Is Just a Test",
+      "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1255,18 +1251,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "This Is Just a Test",
-        "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
+        "name": "You Can't Run",
+        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
       "artists": [
         {
-          "name": "UniBe@t",
-          "url": "https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
         }
       ],
-      "duration_ms": 363156,
-      "name": "This Is Just a Test",
-      "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
+      "duration_ms": 201142,
+      "name": "You Can't Run",
+      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Glimmer / Change",
         "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 203389,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Mental Geller",
-        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
-      },
-      "artists": [
-        {
-          "name": "The Phantom's Revenge",
-          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
-        }
-      ],
-      "duration_ms": 348750,
-      "name": "DJ BFF Slideshow",
-      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Orca Adventure DX",
         "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
       },
@@ -1491,102 +1475,6 @@
       "duration_ms": 171135,
       "name": "Orca Adventure DX",
       "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz"
-      },
-      "artists": [
-        {
-          "name": "Shiruetto",
-          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
-        }
-      ],
-      "duration_ms": 191366,
-      "name": "La Musique",
-      "url": "https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Summer Splash",
-        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 227812,
-      "name": "Summer Splash",
-      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "First Season",
-        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 295894,
-      "name": "First Season",
-      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/3JxZbaUMmu8qUlT9emiVDd"
-      },
-      "artists": [
-        {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/0N0lYK1YjAIYp71bXBqTX4"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
-      },
-      "artists": [
-        {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1607,6 +1495,102 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Mental Geller",
+        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+      },
+      "artists": [
+        {
+          "name": "The Phantom's Revenge",
+          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "DJ BFF Slideshow",
+      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz"
+      },
+      "artists": [
+        {
+          "name": "Shiruetto",
+          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
+        }
+      ],
+      "duration_ms": 191366,
+      "name": "La Musique",
+      "url": "https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Summer Splash",
+        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Summer Splash",
+      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+      },
+      "artists": [
+        {
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "REFRESH",
         "url": "https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5"
       },
@@ -1619,6 +1603,38 @@
       "duration_ms": 132000,
       "name": "REFRESH",
       "url": "https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/3JxZbaUMmu8qUlT9emiVDd"
+      },
+      "artists": [
+        {
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/0N0lYK1YjAIYp71bXBqTX4"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Montaime, Vol. 1",
+        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
+      },
+      "artists": [
+        {
+          "name": "Bazz",
+          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+        }
+      ],
+      "duration_ms": 369500,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Montaime, Vol. 1",
-        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
-      },
-      "artists": [
-        {
-          "name": "Bazz",
-          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
-        }
-      ],
-      "duration_ms": 369500,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 128032,
       "name": "Dancefloor Sneakers",
       "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Back By Popular Demand",
+        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
+      },
+      "artists": [
+        {
+          "name": "Proux",
+          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
+        }
+      ],
+      "duration_ms": 110313,
+      "name": "Funk Express",
+      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1691,26 +1707,6 @@
       "duration_ms": 161314,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "quarterback",
-        "url": "https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ"
-      },
-      "artists": [
-        {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
-        },
-        {
-          "name": "D 4 1 N",
-          "url": "https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw"
-        }
-      ],
-      "duration_ms": 222841,
-      "name": "quarterback",
-      "url": "https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH"
     }
   ],
   "unique_name": "Future Funk",

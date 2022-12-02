@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-289 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
+290 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Faceplant](https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 3:41 | 2021-10-22 | 2022-07-28 |
 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 | 2021-10-22 |  |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-10-22 |  |
+| [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 | 2022-09-16 |  |
 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 | 2021-10-22 | 2022-11-16 |
 | [Fixed](https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:07 | 2021-10-22 | 2022-07-29 |
 | [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 | 2021-10-22 |  |
@@ -107,7 +108,7 @@
 | [I Am the Moon](https://open.spotify.com/track/3orSucDgEQvX0i2elZ7Lhd) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Darkest Darks, Lightest Lights](https://open.spotify.com/album/1YoD4aJa5VdUHmZ0uSzvUv) | 3:18 | 2021-10-22 | 2022-07-10 |
 | [I Just Love You](https://open.spotify.com/track/0q7kQr5gUO8SxzNfru6k9s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [I Just Love You](https://open.spotify.com/album/2owEBEzStwkeUDp7dHLj9R) | 3:15 | 2021-10-22 | 2022-07-29 |
 | [I Just Love You](https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 3:15 | 2022-05-27 |  |
-| [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 | 2021-10-22 |  |
+| [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 | 2021-10-22 | 2022-12-02 |
 | [i leave early](https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [i leave early](https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX) | 3:13 | 2021-10-22 |  |
 | [I Never Said](https://open.spotify.com/track/42SB64jRqtJxzdiBPgThkt) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [I Never Said](https://open.spotify.com/album/5TXFgqCHAn2vnEjCoYCZ2v) | 4:07 | 2021-10-22 | 2022-06-18 |
 | [I Wish I Could Write You a Song](https://open.spotify.com/track/3Gda4WI6ZeplS18kwubOfj) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [I Wish I Could Write You a Song](https://open.spotify.com/album/7EMFhBBfG9itHMug9vE02X) | 4:08 | 2021-10-22 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-127 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+130 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 | 2022-04-26 |  |
 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 | 2022-04-26 |  |
 | [Coração Dolorido](https://open.spotify.com/track/0aAlTbi3bgYvVex42whvDZ) | [Vitor Vagner](https://open.spotify.com/artist/18kiPS1TIJ9akOTddrW7DH) | [Puxar Do Amor](https://open.spotify.com/album/3NA3vF96CZMerNw6J4hGAC) | 3:27 | 2022-04-26 |  |
-| [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 | 2022-04-26 |  |
+| [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 | 2022-04-26 | 2022-12-02 |
 | [Cosme Velho](https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Cosme Velho](https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0) | 2:53 | 2022-04-26 |  |
 | [Dança Noturna](https://open.spotify.com/track/3K6SvPhXBdKhC3RCnfWIEl) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dança Noturna](https://open.spotify.com/album/0QLjiCIycregn3J6tycwul) | 4:14 | 2022-08-10 |  |
 | [Desafinado](https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [One For Roy](https://open.spotify.com/album/78OzDMPIdZQrYb5lnRLby2) | 3:47 | 2022-05-17 |  |
@@ -59,7 +59,7 @@
 | [Esqueleto](https://open.spotify.com/track/60MvQP2d1MtTkcLZXbw0wn) | [Elevador](https://open.spotify.com/artist/7oZpGYjTZ3Jkw8ugYlJf7E) | [Cão Vadio](https://open.spotify.com/album/0SXFiAavVPGoaTbeRtsMt1) | 3:50 | 2022-04-26 |  |
 | [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-04-26 | 2022-10-07 |
 | [Estamos Ái](https://open.spotify.com/track/4EcIXzbnuTibtjTL5UxL0N) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Estamos Ái](https://open.spotify.com/album/69GvftuW0XyTcVKRWxrcP7) | 3:25 | 2022-08-30 |  |
-| [Estate](https://open.spotify.com/track/4gzyWqG3sEWGOpe8DhIdS1) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estate](https://open.spotify.com/album/2aAHY1D8FLEOu0nPSMxmRQ) | 4:32 | 2022-04-26 |  |
+| [Estate](https://open.spotify.com/track/4gzyWqG3sEWGOpe8DhIdS1) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estate](https://open.spotify.com/album/2aAHY1D8FLEOu0nPSMxmRQ) | 4:32 | 2022-04-26 | 2022-12-02 |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2022-04-26 |  |
 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-04-26 | 2022-05-25 |
 | [Everything I Love](https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Everything I Love](https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP) | 4:31 | 2022-09-29 |  |
@@ -77,6 +77,7 @@
 | [How Insensitive](https://open.spotify.com/track/4U8uDeTOVWCNtMLNjrQo6N) | [Ivo Rio Band](https://open.spotify.com/artist/5ZIDWGBTOxrUE0Dd9qiUiv) | [Triste](https://open.spotify.com/album/7vfuRG7S9K0VJczr3L7CNO) | 4:15 | 2022-04-26 |  |
 | [I didn't know what time it was](https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 4:10 | 2022-04-26 |  |
 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-04-26 | 2022-05-25 |
+| [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-01 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 | 2022-04-26 | 2022-06-15 |
 | [Insônia](https://open.spotify.com/track/4Q92ioXrNYiaLaRDJEc1mq) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 2:44 | 2022-04-26 |  |
 | [Inútil paisagem](https://open.spotify.com/track/4VhDH7KDHeYqyGcRTity4J) | [Juliano Vidal Band](https://open.spotify.com/artist/5ZOhtZZUJLIUeiZOEJwVa2) | [O Morro Nao Tem Vez](https://open.spotify.com/album/1wgx5igIEBKoVA9jKGegKD) | 4:23 | 2022-04-26 |  |
@@ -84,7 +85,9 @@
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2022-04-26 |  |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2022-04-26 |  |
 | [Little Sunflower](https://open.spotify.com/track/6EBzxEkM0l4UkRBhqj3JWn) | [Mitchell Jackson Quartet](https://open.spotify.com/artist/6zV8mNPXyQHoNMxGxlcQXF) | [Soul Eyes](https://open.spotify.com/album/6Y1sADHp2yDRkT6iCPKYTG) | 4:23 | 2022-04-26 |  |
+| [Maua](https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 5:05 | 2022-12-01 |  |
 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 | 2022-04-26 |  |
+| [Mestre Sala](https://open.spotify.com/track/5R9gaRq8mNeuStZxXu1Sr9) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 4:32 | 2022-12-01 |  |
 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 | 2022-04-26 | 2022-05-11 |
 | [Nado Borboleta](https://open.spotify.com/track/1LK94Pkl6MQJouTSi8MyLS) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 4:26 | 2022-04-26 | 2022-09-30 |
 | [Nature Boy](https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8) | [Lighthouse Lounge Band](https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc) | [Nature Boy](https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR) | 4:23 | 2022-04-26 |  |

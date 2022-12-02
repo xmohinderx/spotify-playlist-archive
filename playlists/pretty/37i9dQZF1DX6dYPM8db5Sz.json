@@ -1,13 +1,81 @@
 {
-  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=TsDMEATKR_Gq-4FjsnL6Cw\">Tanaka</a>",
-  "num_followers": 5129,
+  "description": "The freshest South African indie music. Cover: <a href=\"https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=aCjbTw-CQk6Ogh9Mj5Fu_A\">Kloudink</a>",
+  "num_followers": 5131,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMyNzE0MCwwMDAwMDAwMGRmOGY2YWUxMGEwZTQ4ZGNlNDJkYzYyNjRkNjNhMzQ3",
+  "snapshot_id": "MTY2OTkzMTk0MCwwMDAwMDAwMGRhNzNlMzNhNzgxYmMwZTdjZjQ0MzQ4N2M1OGVkMzMz",
   "tracks": [
+    {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/7FaVyF7VR6tVLzV7IVHbv4"
+      },
+      "artists": [
+        {
+          "name": "Kloudink",
+          "url": "https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Triomf",
+        "url": "https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5"
+      },
+      "artists": [
+        {
+          "name": "The Great Yawn",
+          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
+        }
+      ],
+      "duration_ms": 289895,
+      "name": "Triomf",
+      "url": "https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Simple Things (feat. Theo Croker)",
+        "url": "https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Simple Things (feat. Theo Croker)",
+      "url": "https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Head Start (Fresh Start)",
+        "url": "https://open.spotify.com/album/5HIe6iAa0joluCQmVuajkI"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Head Start - Fresh Start",
+      "url": "https://open.spotify.com/track/62NHaoO0JcLD0EpD38HYgg"
+    },
     {
       "added_at": "2022-11-03 21:59:00",
       "album": {
@@ -23,6 +91,58 @@
       "duration_ms": 263172,
       "name": "Wait for Love",
       "url": "https://open.spotify.com/track/68Gn5LndqWnCh7BxrNw3TZ"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "sex symbol",
+        "url": "https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 178615,
+      "name": "sex symbol",
+      "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Shortcuts",
+        "url": "https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Shortcuts",
+      "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
+    },
+    {
+      "added_at": "2022-12-01 21:59:00",
+      "album": {
+        "name": "Harder",
+        "url": "https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2"
+      },
+      "artists": [
+        {
+          "name": "Dangerfields",
+          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
+        },
+        {
+          "name": "Mandi Lizamore",
+          "url": "https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX"
+        }
+      ],
+      "duration_ms": 366011,
+      "name": "Harder",
+      "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -57,52 +177,20 @@
       "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
     },
     {
-      "added_at": "2022-11-24 21:59:00",
+      "added_at": "2022-12-01 21:59:00",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/7FaVyF7VR6tVLzV7IVHbv4"
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq"
       },
       "artists": [
         {
-          "name": "Kloudink",
-          "url": "https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P"
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
         }
       ],
-      "duration_ms": 162626,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/2RtMLddrvgrurOyKM30w98"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Shortcuts",
-        "url": "https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Shortcuts",
-      "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
-      },
-      "artists": [
-        {
-          "name": "The Great Yawn",
-          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
-        }
-      ],
-      "duration_ms": 293389,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
+      "duration_ms": 169062,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -119,6 +207,22 @@
       "duration_ms": 193333,
       "name": "Saviour Complex",
       "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
+      },
+      "artists": [
+        {
+          "name": "The Great Yawn",
+          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
+        }
+      ],
+      "duration_ms": 293389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
     },
     {
       "added_at": "2022-11-17 21:59:00",
@@ -177,38 +281,6 @@
       "url": "https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A"
     },
     {
-      "added_at": "2022-03-03 21:59:00",
-      "album": {
-        "name": "WAGMI",
-        "url": "https://open.spotify.com/album/28yfEKfv7kmNGgoOTVVMnz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Page",
-          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "WAGMI",
-      "url": "https://open.spotify.com/track/4bxjgQ4hZ1kBsCzvpVFBFn"
-    },
-    {
-      "added_at": "2022-07-01 10:28:00",
-      "album": {
-        "name": "How to skate",
-        "url": "https://open.spotify.com/album/47KWlhSeN3mTuaVLHyXein"
-      },
-      "artists": [
-        {
-          "name": "Zach Leopard",
-          "url": "https://open.spotify.com/artist/32BTikkFQuadVcD1LHVgWd"
-        }
-      ],
-      "duration_ms": 233850,
-      "name": "How to skate",
-      "url": "https://open.spotify.com/track/1F828L9uVdKx0hfUcEZm62"
-    },
-    {
       "added_at": "2022-11-24 21:59:00",
       "album": {
         "name": "Take Me Home (One Take)",
@@ -223,22 +295,6 @@
       "duration_ms": 141480,
       "name": "Take Me Home (One Take)",
       "url": "https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz"
-    },
-    {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "You're over Me",
-        "url": "https://open.spotify.com/album/4QshjexDZvv7fpHNK6f5NX"
-      },
-      "artists": [
-        {
-          "name": "Louise Carver",
-          "url": "https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD"
-        }
-      ],
-      "duration_ms": 183174,
-      "name": "You're over Me",
-      "url": "https://open.spotify.com/track/4s3IyR6U98K18L5Fw5YrxG"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -573,22 +629,6 @@
       "url": "https://open.spotify.com/track/6Sd3bSqCaZ5O9Tn0m0P6IC"
     },
     {
-      "added_at": "2022-07-28 21:59:00",
-      "album": {
-        "name": "Gaslight (Caught Fire)",
-        "url": "https://open.spotify.com/album/1n2H1RFsKWsALRmyz1tewi"
-      },
-      "artists": [
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Gaslight (Caught Fire)",
-      "url": "https://open.spotify.com/track/6TYU5CqDddOWEcD0n2KiGJ"
-    },
-    {
       "added_at": "2022-08-18 21:59:00",
       "album": {
         "name": "If God Is The Pigeon",
@@ -619,26 +659,6 @@
       "duration_ms": 217506,
       "name": "Ride The Next One",
       "url": "https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu"
-    },
-    {
-      "added_at": "2022-09-02 10:58:49",
-      "album": {
-        "name": "Better Together (Acoustic)",
-        "url": "https://open.spotify.com/album/5HXfoEBYak7Iu5TjLt0IqE"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        },
-        {
-          "name": "Simmy",
-          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Together - Acoustic",
-      "url": "https://open.spotify.com/track/65j5HnUBVNkNZAi7wdCrVI"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -835,22 +855,6 @@
       "duration_ms": 191278,
       "name": "Rhinestone River",
       "url": "https://open.spotify.com/track/7mxcH6Ab9gnVjcVMPEeghZ"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "Home Grown Flowers",
-        "url": "https://open.spotify.com/album/7kzhGEkq46mfCiGXaTe6Sg"
-      },
-      "artists": [
-        {
-          "name": "We Are All Fossils",
-          "url": "https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw"
-        }
-      ],
-      "duration_ms": 219461,
-      "name": "Home Grown Flowers",
-      "url": "https://open.spotify.com/track/2W7JDgHdqoH32MMOxCzLYu"
     }
   ],
   "unique_name": "SAlt",

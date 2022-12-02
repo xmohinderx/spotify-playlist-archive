@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-353 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+354 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Confidence \(feat\. Jon Waltz\) \- Slow Magic Remix](https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Confidence \(feat\. Jon Waltz\) \[Slow Magic Remix\]](https://open.spotify.com/album/2PIshbxgCmpan3Q36Q3DFd) | 3:35 | 2022-03-30 |  |
 | [Could I Break Your Heart](https://open.spotify.com/track/1W0WTqgKKTmmEzcNQWNG6y) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Could I Break Your Heart](https://open.spotify.com/album/2GxMoCOHTcHK14F4pT7CD2) | 3:55 | 2022-01-18 | 2022-03-10 |
 | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 | 2022-07-15 |  |
+| [Crave Me](https://open.spotify.com/track/3HuVGDJHnnhXYv6AlNG0HF) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Are We Dreaming](https://open.spotify.com/album/5txnOKMif2rxCCZ2u9W4oa) | 4:11 | 2022-12-01 |  |
 | [Crazy \(feat\. Casey Cook\) \- Orchestral](https://open.spotify.com/track/4WPMI2Ndmj8pLMWkiqSfMf) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crazy \(feat\. Casey Cook\) \[Orchestral\]](https://open.spotify.com/album/7HLFXEXCGBWMmdNreBq7WE) | 3:30 | 2022-01-18 | 2022-02-05 |
 | [Crush Me](https://open.spotify.com/track/6KV155X0T39sg7oDqi3G4L) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Second Nature](https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1) | 4:02 | 2022-11-11 |  |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-15 | 2022-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,624 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,683 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 70 | [Yes We Can Can](https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:42 |
 | 71 | [Say It](https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT) | [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Say It](https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr) | 3:29 |
 | 72 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 |
-| 73 | [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/61T2Innvsx72ubByEcKtUx) | 3:57 |
+| 73 | [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/107l1YopKHWYtPbondo2oI) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/5nScYB4E1Fw0RSOV8QDUZN) | 3:57 |
 | 74 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07), [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 |
 | 75 | [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 |
 | 76 | [Unweaving the Rainbow Forever](https://open.spotify.com/track/4Yu599Am0GHlAMsnq158GD) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Unweaving the Rainbow Forever](https://open.spotify.com/album/3pY3Al7uDtfIaoayZ6KwEV) | 3:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 89 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 | 90 | [Voodoo](https://open.spotify.com/track/58uTw3T5gfAMvvQuNhJPJH) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/69nKR9FuDEnEw9b528RH1l) | 3:16 |
 
-Snapshot ID: `MTY2ODcyNzUxMiwwMDAwMDAwMGEzNTI0YTdiY2ZhYzBjNzcwNDA3MmVlNzZlMWMxNmYw`
+Snapshot ID: `MTY2ODcyNzUxMiwwMDAwMDAwMDhmYTMxM2IwZTY1Y2QwMTdmZGNhMzM0NTEzNjFlOTMw`

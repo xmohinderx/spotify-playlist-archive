@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: RAYE
 
-588 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+589 songs - 1 day 8 hr 36 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,8 +137,9 @@
 | [Desires](https://open.spotify.com/track/0ALG1F2J2DQa31Q48ZQOv5) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Desires](https://open.spotify.com/album/3PEfe5vOce57pyItUXKjWa) | 3:41 | 2022-06-24 | 2022-08-27 |
 | [didn't I](https://open.spotify.com/track/4mIHBM6Ozh1gBITjA6EZ47) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [didn't I](https://open.spotify.com/album/71cwvQjSGLluxn0M4GUTqF) | 1:47 | 2022-07-15 | 2022-08-27 |
 | [Digital Damage](https://open.spotify.com/track/6ysriWddMJP3xo4qElbQu7) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Digital Damage](https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb) | 2:29 | 2022-04-08 | 2022-06-11 |
-| [DIMANCHE SOIR](https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:09 | 2022-11-11 |  |
+| [DIMANCHE SOIR](https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:09 | 2022-11-11 | 2022-12-02 |
 | [DIMANCHE SOIR](https://open.spotify.com/track/0R7qTLkd6VR3QJeEmdG2by) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/3Njv7LsQ4QBCYrtAvexhdO) | 3:09 | 2022-11-11 | 2022-11-13 |
+| [DIMANCHE SOIR](https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:09 | 2022-11-25 |  |
 | [Dirty Work](https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Samantha](https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI) | [Dirty Work](https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT) | 2:04 | 2022-08-05 | 2022-10-01 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 |  |
 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0) | 3:04 | 2022-04-29 | 2022-07-23 |

@@ -2002,6 +2002,24 @@
     },
     {
       "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184216,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl"
+    },
+    {
+      "album": {
         "name": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u9583\u5149\u306e\u30cf\u30b5\u30a6\u30a7\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43"
       },
@@ -2465,6 +2483,24 @@
       "duration_ms": 202693,
       "name": "\u5316\u8eab\u306e\u7363",
       "url": "https://open.spotify.com/track/0TKtEyUOpH8RanuLIRsiUC"
+    },
+    {
+      "album": {
+        "name": "\u6700\u679c\u3066 (Complete Edition)",
+        "url": "https://open.spotify.com/album/4JmPUMhA4q9t7mvNJg9a16"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "\u6700\u679c\u3066",
+      "url": "https://open.spotify.com/track/4X5nAgWvHVhDuY19edXuLo"
     },
     {
       "album": {

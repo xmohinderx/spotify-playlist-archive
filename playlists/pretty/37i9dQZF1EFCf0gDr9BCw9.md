@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 142 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 143 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 95 | [Once Upon a Dream](https://open.spotify.com/track/2YGFBicfrUHsElpZOqmZoF) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 2:59 |
 | 96 | [Triple Play](https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 5:23 |
 | 97 | [A Train](https://open.spotify.com/track/5eXSfxJEQ97wabK59E4Q8V) | [The Bob Florence Limited Edition](https://open.spotify.com/artist/1j9ZcAj2ccKF0T05WIOtSZ) | [Legendary](https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3) | 9:06 |
-| 98 | [Elysee](https://open.spotify.com/track/05Phfs2CroaIG0SBzv7tCU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection](https://open.spotify.com/album/66Oost5ckDJDeVddVnAmcR) | 2:26 |
-| 99 | [Fantastic Rhythm](https://open.spotify.com/track/7ANqRzBkL37YYzqrvO18Tg) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 |
+| 98 | [Fantastic Rhythm](https://open.spotify.com/track/7ANqRzBkL37YYzqrvO18Tg) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 |
+| 99 | [Elysee](https://open.spotify.com/track/05Phfs2CroaIG0SBzv7tCU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection](https://open.spotify.com/album/66Oost5ckDJDeVddVnAmcR) | 2:26 |
 | 100 | [Blue Orchid \- ZetaJota Sessions](https://open.spotify.com/track/1Hcrjj60W6htYos0STdRnT) | [Virtual Frizz](https://open.spotify.com/artist/18CiLSBQv3tIfT3COqhqJ3), [Josefina Anselmo](https://open.spotify.com/artist/1juhF59PwTZYbqzHC64mQ3) | [El polvo trae \(ZetaJota Sessions\)](https://open.spotify.com/album/2JPko03NjzGEe8qsflLK0p) | 2:39 |
 | 101 | [Noir bleu](https://open.spotify.com/track/28IAo2AR6RQLV0EsfgLi5t) | [Barney Bigard](https://open.spotify.com/artist/28IxhsTl0mELeGN9E5J0Oh) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:11 |
 | 102 | [Blue Star](https://open.spotify.com/track/1QsveEUjpfTCc2q49FpvFD) | [Benny Carter Quartet](https://open.spotify.com/artist/7tLvqDKLlyhR5TcNk0rDmo) | [Summer Serenade](https://open.spotify.com/album/1Lnzlhg5Vt2SmRpfsgnvyi) | 8:10 |
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 140 | [Juanita](https://open.spotify.com/track/4MkCMbWsZ1J3MSkc5EAn1l) | [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [In the Evening by the Moonlight](https://open.spotify.com/album/6Gm70RcgXviUTf189V247x) | 3:22 |
 | 141 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 142 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
+| 143 | [Girls](https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:40 |
 
-Snapshot ID: `Mjc4MzA5NDEsMDAwMDAwMDA1MTMzMTg0NTQ0OTA1MzkxOGM1NDk4MTdhMjk1N2Q3MQ==`
+Snapshot ID: `Mjc4MzIzODEsMDAwMDAwMDA2MmU0MzcwODYwOGYwMmNjZTkwMGQyY2M2ZjEwN2U0Yg==`

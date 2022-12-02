@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Limi-T 21",
-  "num_followers": 373576,
+  "num_followers": 373601,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDQzNzA2OTVlZmZkMzUwNWI3NWIzYjBkZTBjYmQ0OTdm",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDhhMzhhZGQzYmI1YjJhZTM2Mzk2Y2M2OTg4MjE3NzAw",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
+        "name": "Acabando!",
+        "url": "https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB"
       },
       "artists": [
         {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 261146,
-      "name": "Traigo Fuego",
-      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
+      "duration_ms": 238160,
+      "name": "Borr\u00f3n y Cuenta Nueva",
+      "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Acabando!",
-        "url": "https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "Borr\u00f3n y Cuenta Nueva",
-      "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "El Poder de New York",
         "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 288866,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/2gU7z6VLvHtrRCZvLhVehS"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Traigo Fuego",
+      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Paso a Paso",
-        "url": "https://open.spotify.com/album/5U4bRc3qJu9cK6KtVSVoX7"
-      },
-      "artists": [
-        {
-          "name": "Kalimete",
-          "url": "https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw"
-        }
-      ],
-      "duration_ms": 238327,
-      "name": "Dominicano de Pura Cepa",
-      "url": "https://open.spotify.com/track/0HNUDkgeq44zX2kPXYyUZz"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "La Hora De La Verdad",
         "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 234426,
       "name": "Sandunga",
       "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Paso a Paso",
+        "url": "https://open.spotify.com/album/5U4bRc3qJu9cK6KtVSVoX7"
+      },
+      "artists": [
+        {
+          "name": "Kalimete",
+          "url": "https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw"
+        }
+      ],
+      "duration_ms": 238327,
+      "name": "Dominicano de Pura Cepa",
+      "url": "https://open.spotify.com/track/0HNUDkgeq44zX2kPXYyUZz"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Re-Haciendo La Historia-Los Exitos!",
-        "url": "https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a"
+        "name": "\u00d1angala Fuangala",
+        "url": "https://open.spotify.com/album/0k2ttHsnz3o8Xjt9Fi44sU"
       },
       "artists": [
         {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+          "name": "Merenglass Grupo",
+          "url": "https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA"
         }
       ],
-      "duration_ms": 297773,
-      "name": "Me Miras Y Te Miro",
-      "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
+      "duration_ms": 228000,
+      "name": "\u00d1angala Fuangala",
+      "url": "https://open.spotify.com/track/2bkIe2K7qMJO7Ai5OVPdBI"
     }
   ],
   "unique_name": "Merengue Mania",

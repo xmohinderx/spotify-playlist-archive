@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: LYELL & SkyDxddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,031 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,196 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 5 | [Take the Ride](https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Take the Ride](https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX) | 2:58 |
 | 6 | [Soju](https://open.spotify.com/track/0y6HDAADxL59jO3YxeJzxj) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Soju](https://open.spotify.com/album/0tDUuBysC1WpAsVm8rBtFV) | 2:41 |
 | 7 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 |
-| 8 | [Want You](https://open.spotify.com/track/6dcEVfoQiVn8ixlWn4AZst) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [WORSE](https://open.spotify.com/album/6Kdz2KA8tr14dyz0O3GSbq) | 3:11 |
+| 8 | [Want You](https://open.spotify.com/track/6dcEVfoQiVn8ixlWn4AZst) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Worse](https://open.spotify.com/album/6Kdz2KA8tr14dyz0O3GSbq) | 3:11 |
 | 9 | [This is All There Is](https://open.spotify.com/track/3yamFr9Mxqozi4fOLFNnTw) | [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [The Atheist](https://open.spotify.com/album/6TKSQWBrlXifkLPGUrbKW6) | 2:50 |
 | 10 | [Show You My Pain](https://open.spotify.com/track/6hcmMf722qybIx8OoyXvQd) | [all under heaven](https://open.spotify.com/artist/0RzwdSzh3shHCYdE36Fizn) | [Split](https://open.spotify.com/album/3G7HgD4vxg04rSF1WXYTFM) | 3:51 |
 | 11 | [I'm Rollin'](https://open.spotify.com/track/0QYhsHnG4PNrx104D2Gavz) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory \(Deluxe Edition\)](https://open.spotify.com/album/5bqAsAhjXyeM4KrsBQDwOA) | 2:37 |

@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 261977,
+  "num_followers": 262078,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMGI1Njc0NjM0Nzg0ODU5NmZjOTA2ODFhNDBhZTYyYmNi",
+  "snapshot_id": "MTYzNTY0NDEyNiwwMDAwMDAwMGE3YjgwYjEzZjQxNzhkZTMxNDU1OWI1ZDZiNjM3MjAz",
   "tracks": [
     {
       "added_at": "2021-10-31 01:35:26",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Lydia Laird",
-        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 194102,
-      "name": "Meet Me There",
-      "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "Quiet Talk",
         "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Lydia Laird",
+        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 194102,
+      "name": "Meet Me There",
+      "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
     },
     {
       "added_at": "2021-10-31 01:35:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-10-31 01:35:26",
       "album": {
-        "name": "Be Thou My Vision",
-        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
-      },
-      "artists": [
-        {
-          "name": "Cherry Wee",
-          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
-    },
-    {
-      "added_at": "2021-10-31 01:35:26",
-      "album": {
         "name": "If I Had Stayed",
         "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 131641,
       "name": "If I Had Stayed",
       "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+    },
+    {
+      "added_at": "2021-10-31 01:35:26",
+      "album": {
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7"
+      },
+      "artists": [
+        {
+          "name": "Cherry Wee",
+          "url": "https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
     },
     {
       "added_at": "2021-10-31 01:35:26",

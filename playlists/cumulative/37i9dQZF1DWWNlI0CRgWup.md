@@ -4,7 +4,7 @@
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
 
-83 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
+84 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 |  |
 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 | 2022-01-14 | 2022-11-25 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-07 |  |
+| [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-11-24 |  |
 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 | 2022-06-10 | 2022-09-30 |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2022-09-29 |  |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-02 | 2022-06-11 |

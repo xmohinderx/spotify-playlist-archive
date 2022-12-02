@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers Band
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
 
 390 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 

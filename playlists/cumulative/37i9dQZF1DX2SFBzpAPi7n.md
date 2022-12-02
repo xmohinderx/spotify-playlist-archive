@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lim Young Woong\(임영웅\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lee Seung Yoon\(이승윤\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-416 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
+417 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/6LGjkxX0dG6eEuNv9EUWQY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Song For You](https://open.spotify.com/track/3aaqNLus6XZVW2UtZzbLNl) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [GREEN MOTHERS' CLUB OST Part 5](https://open.spotify.com/album/79RNrjKKCwikaf8ask8mTY) | 3:32 | 2022-06-13 | 2022-07-09 |
 | [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-18 | 2022-07-02 |
 | [Addicted to TV](https://open.spotify.com/track/2OpUyPEh9mq0ZSrOMRIO7S) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [Addicted to TV](https://open.spotify.com/album/0tMersFXcFglAPfmHGiAug) | 3:44 | 2022-04-22 | 2022-07-27 |
-| [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-04-12 |  |
+| [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-04-12 | 2022-12-02 |
 | [Adrenaline \- Italian Version](https://open.spotify.com/track/20Fw8w7OnlLRAUMWBBXZHC) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [VINCENZO \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7ciMBSnUz17sJ8crca1tOD) | 3:27 | 2022-05-03 | 2022-05-10 |
 | [After the rain](https://open.spotify.com/track/7ixtNNaE45TecEqZtWbYRx) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [HOPE FOR THE FLOWER](https://open.spotify.com/album/4iY3YGIfLBlAz3NNwTmshr) | 4:42 | 2022-04-12 | 2022-04-22 |
 | [After Tonight](https://open.spotify.com/track/5KB3Qovr1wV5dapcWnnXDg) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [After Tonight](https://open.spotify.com/album/1Y0IXwWhiU2maaFcRyX7E5) | 4:25 | 2022-04-12 | 2022-07-27 |
@@ -313,7 +313,7 @@
 | [SITCOM](https://open.spotify.com/track/0jnrL4VAV0x3Jk4PlzkuLa) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [SITCOM](https://open.spotify.com/album/74io9lr0VPPNF52vAdOKQU) | 3:15 | 2022-05-11 | 2022-06-07 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
-| [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 |  |
+| [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2022-12-02 |
 | [sorry](https://open.spotify.com/track/54SuHqxVjZVNDyIUVpSgpJ) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:35 | 2022-04-12 | 2022-07-22 |
 | [Sorry](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Sorry](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) | 3:35 | 2022-07-22 |  |
 | [Sound](https://open.spotify.com/track/3NXq3EZ1dcIN0y2gZTqZXq) | [GOMCHI](https://open.spotify.com/artist/7uA35iZSc9vZLATSFqCRua) | [TRUE STORY](https://open.spotify.com/album/4dwceGQaqejgtkZ5hbkcbG) | 4:31 | 2022-06-03 | 2022-06-26 |
@@ -360,7 +360,7 @@
 | [Then, Now and Forever](https://open.spotify.com/track/2YLCxfPRnyYxgirjSYcTZZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [RE\-CODE](https://open.spotify.com/album/6LKHdbZ7TNMnLX4pI1jeF2) | 3:50 | 2022-04-21 | 2022-07-25 |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-04-22 | 2022-07-29 |
 | [Till The End](https://open.spotify.com/track/6346CzN9QIthoAXNlhmDw4) | [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [Again my life, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4F5qcsJk3zyB3PsPVebMV7) | 4:00 | 2022-05-03 | 2022-05-22 |
-| [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 | 2022-11-24 |
+| [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
@@ -369,6 +369,7 @@
 | [Uncertainty Principle \(Feat\. Dawon\)](https://open.spotify.com/track/0qEt2Iw9yurShrf7fEjSut) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 31](https://open.spotify.com/album/6XqtegrzV6dqdPu35TBDtJ) | 2:49 | 2022-04-21 | 2022-07-28 |
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-07-08 | 2022-07-29 |
 | [Unspoken](https://open.spotify.com/track/2berS6jFrr5FDB4XvqLgPr) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Unspoken](https://open.spotify.com/album/7za33muujtDaffMAvJq1Ld) | 4:17 | 2022-04-12 | 2022-07-23 |
+| [Upon A Smile](https://open.spotify.com/track/6hNfvDFIX77sXBAF737Vhl) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Upon A Smile](https://open.spotify.com/album/5MLPvQjADRbRSzAOXpIxKA) | 3:22 | 2022-12-01 |  |
 | [Violet](https://open.spotify.com/track/3vwtmExA3wwbr4GI5KvLkC) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [Violet](https://open.spotify.com/album/5sVqYLGmHA96l13kAUEVYv) | 4:20 | 2022-04-22 | 2022-06-08 |
 | [VOID](https://open.spotify.com/track/0keNzrJRUOBzewGHOrtSH7) | [RECORDBELL](https://open.spotify.com/artist/4PW6o9Gy6TZqrxpY6rHo8L) | [VOID](https://open.spotify.com/album/6ZIJNzoZIXjogl8iOinq3g) | 3:38 | 2022-04-22 | 2022-05-10 |
 | [Waiting For Your Calling Back](https://open.spotify.com/track/6GpyKE5T9si1V5QJMR6ra7) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Waiting For Your Calling Back](https://open.spotify.com/album/61E8qZbwN805gq18noEjFZ) | 3:58 | 2022-07-08 | 2022-07-10 |

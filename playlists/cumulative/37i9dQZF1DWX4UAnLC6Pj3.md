@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! El Fantasma en portada.
 
-159 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/029aY0bfQdNwToDmSRYzRr)
+160 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/029aY0bfQdNwToDmSRYzRr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,11 +132,12 @@
 | [Se Manda Sola](https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Se Manda Sola](https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk) | 2:34 | 2022-04-22 |  |
 | [Serafin \- En Vivo](https://open.spotify.com/track/0HjK2cWbHy5CwWQXk6HEj8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin \(En Vivo\)](https://open.spotify.com/album/1z6LJpFaTXx1C74tmzAsTg) | 3:07 | 2022-11-03 |  |
 | [Si Te Mirara](https://open.spotify.com/track/4Hmq3saCDEqDbirwgWkyOf) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Si Te Mirara](https://open.spotify.com/album/692wEGizdxsHDys4lVmjxK) | 4:11 | 2022-07-01 | 2022-07-28 |
-| [Si Te Vas A Ir](https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si Te Vas A Ir](https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH) | 3:17 | 2022-10-25 |  |
+| [Si Te Vas A Ir](https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si Te Vas A Ir](https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH) | 3:17 | 2022-10-25 | 2022-12-02 |
 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 | 2022-07-01 | 2022-09-03 |
 | [Somos Los Que Somos \- En Vivo](https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 4:40 | 2022-07-01 |  |
 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 | 2022-02-01 |  |
 | [Suena la Banda en Mi Rancho](https://open.spotify.com/track/3BOcfKoCKzyMJ8sD5eecwV) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [La Gran Fiesta](https://open.spotify.com/album/3xveWUSzfgeKaTg6qUBNwq) | 2:47 | 2022-07-01 | 2022-07-06 |
+| [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 | 2022-12-01 |  |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 | 2022-07-15 |  |
 | [Te Lo Debo a Ti](https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 3:25 | 2022-01-28 |  |
 | [Te Voy A Olvidar](https://open.spotify.com/track/0KcuXF5liGbs6JXsvZ7Y04) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Banda Reclutada](https://open.spotify.com/artist/6t2N5GqVasKcT1ddOHZ7dj) | [Te Voy A Olvidar](https://open.spotify.com/album/5d2RYTWGCqjdiRCtbrvQFK) | 4:14 | 2022-07-01 | 2022-08-17 |

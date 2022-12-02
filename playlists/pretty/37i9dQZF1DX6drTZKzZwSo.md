@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,606 likes - 58 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,674 likes - 58 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Wish \- Single Edit](https://open.spotify.com/track/6Fk2d1IMWZ5yOqUOvLfKdg) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/05IKjKz3leUEaULPbENUsy) | 4:31 |
 | 2 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 |
-| 3 | [Sea Groove](https://open.spotify.com/track/4lhFA1E4MFfPeO9gYJEZOs) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/7qMC3PZNBjYRXcBfOi7hgt) | 4:28 |
+| 3 | [Sea Groove](https://open.spotify.com/track/60vuy9MXz1dgM5EKGmGCYt) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/604icvBHTAfT7q9RvJak3A) | 4:28 |
 | 4 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
 | 5 | [Shakey Ground](https://open.spotify.com/track/1ELKkbWqtKRwvdCBGvETBp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [A Song For You](https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU) | 4:01 |
 | 6 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 57 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 58 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MTY2NTEzNzc3MCwwMDAwMDAwMDg2YjE0NTEyMDc3M2Y2OWQwNGRjNmRlOWY0Mzg1YjRk`
+Snapshot ID: `MTY2NTEzNzc3MCwwMDAwMDAwMGY3N2E5YTAxNzczNmI0N2NiYzRiMWM5MDM2MjI0MTY3`

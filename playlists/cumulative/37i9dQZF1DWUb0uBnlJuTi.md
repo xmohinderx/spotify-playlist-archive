@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-246 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
+247 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Can Do](https://open.spotify.com/track/2jnsYSi6TfXvYXw8YNqrW9) | [Dundundun](https://open.spotify.com/artist/0JKgKpJ7HLggYkQdh1jUVt) | [Future Hope](https://open.spotify.com/album/5il93kPFxxtExqoza6QQvh) | 6:25 | 2022-04-08 | 2022-07-26 |
 | [Can't Make It with Your Brain](https://open.spotify.com/track/5kaBvDFliuVJE8zy9BjVtb) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Can't Make It with Your Brain](https://open.spotify.com/album/1IbOBwX1JllNtalRMRZd2Y) | 5:49 | 2021-09-10 | 2022-07-29 |
 | [Capture This](https://open.spotify.com/track/1TVnApmkJFqFLN77oI9X3z) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Capture This](https://open.spotify.com/album/2ukCIXlfWg8W0nSCWhNpiV) | 3:45 | 2022-04-01 | 2022-07-29 |
+| [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 | 2022-04-01 |  |
 | [CATS GROOVE](https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Tony Rosenberg](https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh) | [THE FUNK WILL PREVAIL](https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd) | 1:31 | 2022-04-01 |  |
 | [Celestial Blues](https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg) | [Gary Bartz Ntu Troop](https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN) | [Harlem Bush Music \- Uhuru](https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D) | 7:36 | 2020-10-09 |  |
 | [Chameleon](https://open.spotify.com/track/4YsxaxfAA1dwsFy237azXq) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Chameleon](https://open.spotify.com/album/7Maxr67eS8mA5JVjZHBjfJ) | 4:42 | 2021-04-23 | 2022-07-24 |
@@ -122,7 +123,7 @@
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-04-09 | 2022-11-19 |
 | [Make It Happen](https://open.spotify.com/track/71GSsZ6FLorCVQHtrG9HVJ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [The Best Of Mindi Abair](https://open.spotify.com/album/1LqaZigMosz4mBJ3pQkbdk) | 5:05 | 2021-04-02 | 2022-04-21 |
 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 | 2021-07-23 | 2022-07-26 |
-| [May The Funk Be With You](https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ) | 4:27 | 2022-03-04 |  |
+| [May The Funk Be With You](https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ) | 4:27 | 2022-03-04 | 2022-12-02 |
 | [May The Funk Be With You](https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT) | 4:27 | 2022-03-04 | 2022-07-29 |
 | [Mean Green](https://open.spotify.com/track/4ABDChCwUR9D600e1Me2Tt) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:54 | 2022-09-30 |  |
 | [Miami Dream](https://open.spotify.com/track/1aIANWtddXVxegatVZWDBv) | [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY) | [Influencias Latinas](https://open.spotify.com/album/21OBXWjYU6CPzncXXHjCKk) | 5:16 | 2022-08-12 | 2022-08-20 |

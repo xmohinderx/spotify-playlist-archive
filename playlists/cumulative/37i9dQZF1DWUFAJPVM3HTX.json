@@ -2950,6 +2950,28 @@
     },
     {
       "album": {
+        "name": "Yam Grier",
+        "url": "https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Jane Handcock",
+          "url": "https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Closure (feat. Jane Handcock)",
+      "url": "https://open.spotify.com/track/1fAgrabzFmIZLe9sOiVaC2"
+    },
+    {
+      "album": {
         "name": "Paradise City",
         "url": "https://open.spotify.com/album/6gKz2zGbai5l2171Lr20bc"
       },

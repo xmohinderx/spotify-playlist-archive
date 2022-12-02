@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 287486,
+  "num_followers": 287659,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMwODcxMiwwMDAwMDAwMGI5MjgzNDA4ODc5MWRmMzVlYzlkMmJlYjIxOTFmYWEy",
+  "snapshot_id": "MTY2OTMwODcxMiwwMDAwMDAwMDEzY2Q2NzQyMDViNWM0MzI2NzUxNTRkOTAwZWRlMTk2",
   "tracks": [
     {
       "added_at": "2022-11-24 16:51:52",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-24 16:51:52",
       "album": {
-        "name": "QUARTERTHING",
-        "url": "https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn"
-      },
-      "artists": [
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        }
-      ],
-      "duration_ms": 126385,
-      "name": "Elastic",
-      "url": "https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv"
-    },
-    {
-      "added_at": "2022-11-24 16:51:52",
-      "album": {
         "name": "Jesus Piece (Deluxe)",
         "url": "https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 372706,
       "name": "Ali Bomaye",
       "url": "https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7"
+    },
+    {
+      "added_at": "2022-11-24 16:51:52",
+      "album": {
+        "name": "QUARTERTHING",
+        "url": "https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn"
+      },
+      "artists": [
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 126385,
+      "name": "Elastic",
+      "url": "https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv"
     },
     {
       "added_at": "2022-11-24 16:51:52",

@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 87594,
+  "num_followers": 87623,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGFmNmNjOGVkNDc5Y2RiODVkOTA5NjQ0YmJhMDYxMTRi",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGFhNWRlMGM0N2E4YWZhYTBjNzc2YmQ0ZTA5YWQ2MmEw",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "VIOLA \u2013 with Salmo",
         "url": "https://open.spotify.com/album/4QzGtuqMCLDo8dbyKfbLeC"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 182307,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Vieni nel mio cuore",
-        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 172761,
-      "name": "Vieni nel mio cuore",
-      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1399,18 +1383,38 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Extasi",
-        "url": "https://open.spotify.com/album/5D6d0m5tYnBz0wowzfLlQ6"
+        "name": "Vieni nel mio cuore",
+        "url": "https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV"
       },
       "artists": [
         {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 157846,
-      "name": "Extasi",
-      "url": "https://open.spotify.com/track/6ojrj2NSj3EkMm05yiuaMG"
+      "duration_ms": 172761,
+      "name": "Vieni nel mio cuore",
+      "url": "https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     }
   ],
   "unique_name": "Tra Amiche",

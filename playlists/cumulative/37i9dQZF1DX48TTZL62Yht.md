@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Quavo, Takeoff 🕊
 
-617 songs - 1 day 7 hr 39 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
+618 songs - 1 day 7 hr 42 min - [published](https://open.spotify.com/playlist/5LUYY08NHALqUOrBRkJKro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,8 @@
 | [Super Gremlin](https://open.spotify.com/track/2bBClS4zzrRd4Aj59NaKSv) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 3:20 | 2022-06-17 | 2022-07-29 |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-02-11 | 2022-02-19 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-07-08 | 2022-10-21 |
-| [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/46b23Nj2UftnN8jSWz4VR5) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:49 | 2022-10-19 |  |
+| [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2022-11-24 |  |
+| [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/46b23Nj2UftnN8jSWz4VR5) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:49 | 2022-10-19 | 2022-12-02 |
 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 | 2022-02-18 | 2022-09-17 |
 | [SWAG](https://open.spotify.com/track/2ap9kKsIEiWa4bzsjqACEx) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [SWAG](https://open.spotify.com/album/0n6glbZG9fvHtfx6Gro7dd) | 2:33 | 2022-04-01 | 2022-04-21 |
 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 | 2022-01-14 |  |

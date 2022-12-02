@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-187 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
+188 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/2pW8HvIBAmpjMrb0I9AKFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 | 2022-08-12 |  |
 | [A Lovely Day \- Combichrist Remix](https://open.spotify.com/track/11uHy5357PCMtPosATQtJr) | [Pure Obsessions & Red Nights](https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT), [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [A Lovely Day \(Combichrist Remix\)](https://open.spotify.com/album/1htenv8mn6GSc3ONcORknK) | 6:16 | 2022-07-01 | 2022-07-29 |
 | [A Matter of Time](https://open.spotify.com/track/2evoS3lDuKhiTACNU8T3ny) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [A Matter of Time](https://open.spotify.com/album/13YojjYoqTGSmHASOXUUra) | 6:02 | 2022-07-01 | 2022-07-29 |
-| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 |  |
+| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 | 2022-12-02 |
 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 | 2022-07-01 |  |
 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 | 2022-08-12 |  |
 | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/album/05hx91BgMBOcBKxR0QdwmZ) | 6:06 | 2022-07-01 | 2022-07-29 |
@@ -139,6 +139,7 @@
 | [Native Intellligence \- Ghostemane Natural Selection Remix](https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Native Intelligence \(Ghostemane Natural Selection Remix\)](https://open.spotify.com/album/4PAEIe0V7cLDUuxaZ3RKDK) | 3:33 | 2022-07-25 |  |
 | [Never Wanted To Dance](https://open.spotify.com/track/3nM1EJJ80pJGiG32WFfJxc) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/49KrtYvUHrMbO4kYKmxQly) | 3:08 | 2022-08-12 |  |
 | [New Blood \- Zardonic Remix](https://open.spotify.com/track/5jFoxzpYeDOzLpjsNbrn9m) | [Mechanical Vein](https://open.spotify.com/artist/5Uvsfedp0YTUBwr9v8qmtG), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [New Blood \(Zardonic Remix\)](https://open.spotify.com/album/0wfxJZQzF8pltK1jMvcHea) | 4:29 | 2022-07-01 | 2022-07-28 |
+| [Ofelia](https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Ofelia](https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x) | 3:08 | 2022-12-01 |  |
 | [One Fire](https://open.spotify.com/track/2FcrIQ9A3i6KO2ntF5Yfsu) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:00 | 2022-07-01 | 2022-07-27 |
 | [Onenemy \- Fury Weekend Remix](https://open.spotify.com/track/4fFGvYEG72Y3Imc1vKb8Yf) | [Circle of Dust](https://open.spotify.com/artist/60GtR6PIcDY1pikPgKHNk9), [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Onenemy \(Fury Weekend Remix\)](https://open.spotify.com/album/0umZ3sEPUw1FjHxvnLAW4V) | 4:32 | 2022-07-01 | 2022-07-29 |
 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 | 2022-07-01 |  |

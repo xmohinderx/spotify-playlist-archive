@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 447117,
+  "num_followers": 447104,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMDViMzE4MmYzMWFmNjNmZjliMzIxNTI1YmVlZGEyYjc4",
+  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMDY4OWFiMWVmMjg0ZjUyY2JkYzlkNjQwNzU5ZWFhNmI5",
   "tracks": [
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Mundos",
-        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Agua Que Quema",
-      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "BLUE 2000",
         "url": "https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Agua Que Quema",
+      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 153132,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "veinte",
         "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
       },
       "artists": [
         {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
         }
       ],
-      "duration_ms": 221716,
-      "name": "Summer Girl",
-      "url": "https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW"
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1659,6 +1643,22 @@
       "duration_ms": 142320,
       "name": "Dolce Banana",
       "url": "https://open.spotify.com/track/5o1IxDUb9XRCGmrVANbhM9"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 221716,
+      "name": "Summer Girl",
+      "url": "https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW"
     },
     {
       "added_at": "2022-08-17 18:53:09",

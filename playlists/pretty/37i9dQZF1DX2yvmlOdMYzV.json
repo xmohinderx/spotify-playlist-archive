@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 817808,
+  "num_followers": 818030,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMGFjYzE3NWQxNDI3NGNmMTMxYjk1YWFkN2Y3MzVmNTM2",
+  "snapshot_id": "MTY2ODAyNDg2OCwwMDAwMDAwMGE4ZTEwOWNjYjZiMjJmZDY5ZDIyODQ3YzczMzhjMGI4",
   "tracks": [
     {
       "added_at": "2022-11-09 20:14:28",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Is It Any Wonder?",
-      "url": "https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Is It Any Wonder?",
+      "url": "https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "aiMless",
         "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
       },
@@ -499,22 +483,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -535,6 +515,26 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Yah / Element (Medley)",
-        "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 176374,
-      "name": "Yah / Element - Medley",
-      "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+        "name": "Yah / Element (Medley)",
+        "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
       },
       "artists": [
         {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+      "duration_ms": 176374,
+      "name": "Yah / Element - Medley",
+      "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -655,6 +639,22 @@
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
+      },
+      "artists": [
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "duration_ms": 237049,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d"
       },
@@ -743,38 +759,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
-      },
-      "artists": [
-        {
-          "name": "August Charles",
-          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
-        }
-      ],
-      "duration_ms": 237049,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 178200,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Choose Your Weapon",
+        "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Fingerprints",
+      "url": "https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Choose Your Weapon",
-        "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 256920,
-      "name": "Fingerprints",
-      "url": "https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh"
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "neve give up",
-      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Slow Down (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 227673,
       "name": "Slow Down (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "neve give up",
+      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Travel Light",
-        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 207987,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Monologues",
         "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 207200,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Travel Light",
+        "url": "https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 207987,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Love and Hate in a Different Time",
-        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time - Demo",
-      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Yesterday's Tomorrow",
         "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230973,
       "name": "Somehow.",
       "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Love and Hate in a Different Time",
+        "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 282177,
+      "name": "Love and Hate in a Different Time - Demo",
+      "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "KMS - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "KMS - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "You Can't Steal My Joy",
         "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
+        "name": "KMS - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "KMS - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
       },
@@ -1223,6 +1223,30 @@
       "duration_ms": 239425,
       "name": "These Days",
       "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Flight 99",
+        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Flight 99",
+      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1279,26 +1303,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Flight 99",
-        "url": "https://open.spotify.com/album/5eLrnp3dDcaSgndx3qUSCL"
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
       "artists": [
         {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "matt mcwaters",
-          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Noname feat. Smino, Phoelix, Saba",
+          "url": "https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Flight 99",
-      "url": "https://open.spotify.com/track/7iwn9FANtRltiafratcH07"
+      "duration_ms": 311000,
+      "name": "Shadow Man",
+      "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Telefone",
-        "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
+        "name": "lived to love",
+        "url": "https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD"
       },
       "artists": [
         {
-          "name": "Noname feat. Smino, Phoelix, Saba",
-          "url": "https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo"
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
         }
       ],
-      "duration_ms": 311000,
-      "name": "Shadow Man",
-      "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
+      "duration_ms": 255517,
+      "name": "lived to love",
+      "url": "https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "lived to love",
-        "url": "https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD"
-      },
-      "artists": [
-        {
-          "name": "808vic",
-          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
-        }
-      ],
-      "duration_ms": 255517,
-      "name": "lived to love",
-      "url": "https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Save Me, Pt. 2",
         "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
       },
@@ -1387,74 +1387,6 @@
       "duration_ms": 151569,
       "name": "Save Me, Pt. 2",
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Pisonia Prologue",
-        "url": "https://open.spotify.com/album/5uudHDDRkFnpHNqpFsNdNA"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 112710,
-      "name": "Pisonia Prologue",
-      "url": "https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "C BOTH SIDES",
-        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "CYCLOPS",
-      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Where I'm From (feat. Mereba)",
-      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1475,6 +1407,74 @@
       "duration_ms": 220332,
       "name": "Bound",
       "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Pisonia Prologue",
+        "url": "https://open.spotify.com/album/5uudHDDRkFnpHNqpFsNdNA"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 112710,
+      "name": "Pisonia Prologue",
+      "url": "https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "C BOTH SIDES",
+        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "CYCLOPS",
+      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Where I'm From (feat. Mereba)",
+      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
     },
     {
       "added_at": "2022-11-09 20:14:28",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-11-09 20:14:28",
       "album": {
-        "name": "Tightrope",
-        "url": "https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        }
-      ],
-      "duration_ms": 169019,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK"
-    },
-    {
-      "added_at": "2022-11-09 20:14:28",
-      "album": {
         "name": "Lost In America",
         "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 232600,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
+    },
+    {
+      "added_at": "2022-11-09 20:14:28",
+      "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK"
     }
   ],
   "unique_name": "Lowkey",

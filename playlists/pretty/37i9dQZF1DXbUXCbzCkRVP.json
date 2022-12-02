@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 22519,
+  "num_followers": 22572,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMwODYxOCwwMDAwMDAwMGVlZDY3NjdiZTNhZWQxNDBmNDI3YzIyZjY4N2NmM2Jj",
+  "snapshot_id": "MTY2OTMwODYxOCwwMDAwMDAwMDM0NjhiYmIwMDk2MzZhMWIxMDZmODQ0MzAyMzIyZTA5",
   "tracks": [
     {
       "added_at": "2022-11-24 16:50:18",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 157400,
-      "name": "Hide Away",
-      "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 158266,
       "name": "Whammer Jammer",
       "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Big Band Bounce & Boogie",
-        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Millinder",
-          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Apollo Jump",
-      "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "Stand Back!",
         "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 192000,
       "name": "Cha Cha The Blues",
       "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Big Band Bounce & Boogie",
+        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Millinder",
+          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Apollo Jump",
+      "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Blue Guitar",
-        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 161479,
-      "name": "Blue Guitar",
-      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 294413,
       "name": "Blues 'Fore Dawn - Instrumental",
       "url": "https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205400,
       "name": "Tribute To Elmore James",
       "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
         }
       ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
-      },
-      "artists": [
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Blues On Blues",
-        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 183279,
-      "name": "Blues After Hours",
-      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
         "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 253733,
       "name": "The Creeper Returns",
       "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Blues On Blues",
+        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 183279,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
     }
   ],
   "unique_name": "Instrumental Blues",

@@ -1644,6 +1644,24 @@
     },
     {
       "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/6r97AWHGLaehVAhwMgCnWc"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf"
+    },
+    {
+      "album": {
         "name": "Hark The Herald Angels Sing",
         "url": "https://open.spotify.com/album/2EP9Q1buJSeGrL5Wm3u1pU"
       },
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 218393,
       "name": "My Best Christmas",
       "url": "https://open.spotify.com/track/6dMFQBqkz2q6QgshdmgOUz"

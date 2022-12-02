@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-585 songs - 1 day 11 hr 51 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+586 songs - 1 day 11 hr 55 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [How Long?](https://open.spotify.com/track/5yhPtPo3ZWW7T5iCJ5CNjk) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [How Long?](https://open.spotify.com/album/2oEnK6S1wlfIq1CECB9qL4) | 4:16 | 2020-05-15 | 2020-06-05 |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-02-12 | 2021-04-17 |
 | [Hurray](https://open.spotify.com/track/4pa46ELAejI7w1mkeKI4Hu) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Hurray](https://open.spotify.com/album/1hSEGYKjYidrzq8xXnxgu7) | 3:47 | 2021-08-31 | 2021-09-24 |
+| [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2022-12-01 |  |
 | [Hypnotizing](https://open.spotify.com/track/1opbB41vmLmbqP8liBT0iR) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Hypnotizing](https://open.spotify.com/album/4HDKdNqMxMHnAr56isi3fB) | 3:02 | 2020-03-25\* | 2020-03-27 |
 | [I \(Who Have Nothing\)](https://open.spotify.com/track/7tKieLOmr7FwvczE6rmg6p) | [Rachel Modest](https://open.spotify.com/artist/29oEJzlCjGFQoW7ZMQIyUl) | [Somebody Stole My Thunder](https://open.spotify.com/album/1KarspqS8BOnJaV9EQIYXU) | 3:10 | 2020-10-09 | 2021-02-28 |
 | [I Believe \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/track/62RgYp75DFmsXtdSnkUhOt) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [I Believe \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/album/3xS3jszFEQgRkww3F2d4R2) | 2:51 | 2020-07-11 | 2021-04-23 |
@@ -382,7 +383,7 @@
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-08 | 2020-08-25 |
 | [Parachutes](https://open.spotify.com/track/1FLl9H98n8TVPqGvPACnUq) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Parachutes](https://open.spotify.com/album/3cs8uoEmn3QNbUYfuJ1Jx5) | 3:43 | 2020-03-25\* | 2020-08-25 |
 | [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 | 2022-04-08 |  |
-| [Paris](https://open.spotify.com/track/0ZVgf0hXL2hdrhNbZ0DYdI) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Paris](https://open.spotify.com/album/6db4NbMyKv2N0HGPngeN4a) | 2:55 | 2022-10-14 |  |
+| [Paris](https://open.spotify.com/track/0ZVgf0hXL2hdrhNbZ0DYdI) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Paris](https://open.spotify.com/album/6db4NbMyKv2N0HGPngeN4a) | 2:55 | 2022-10-14 | 2022-12-02 |
 | [Patience](https://open.spotify.com/track/0v8AGlTcou0f49oeaJkfSR) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:09 | 2020-03-25\* | 2020-10-30 |
 | [Peace by Piece](https://open.spotify.com/track/3aWxO57NUJM1StrCzJLflQ) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Peace by Piece](https://open.spotify.com/album/2y5IH8hmjixAvhff4XdNiI) | 3:02 | 2020-12-05 | 2021-04-17 |
 | [People Wither](https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Warping Youth](https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN) | 5:11 | 2020-06-29 | 2020-11-20 |

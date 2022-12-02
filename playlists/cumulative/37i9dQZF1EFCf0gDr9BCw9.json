@@ -920,6 +920,24 @@
     },
     {
       "album": {
+        "name": "The Nutcracker Suite (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr"
+    },
+    {
+      "album": {
         "name": "Blue Rose (with Duke Ellington & His Orchestra)",
         "url": "https://open.spotify.com/album/5DBIhsPokIR45YuxdzQ7Kn"
       },

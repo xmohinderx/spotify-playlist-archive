@@ -456,6 +456,24 @@
     },
     {
       "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "I'm Going Away Smiling",
+      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
+    },
+    {
+      "album": {
         "name": "Arizona Dream (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
       },
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 304680,
       "name": "You Want It Darker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"

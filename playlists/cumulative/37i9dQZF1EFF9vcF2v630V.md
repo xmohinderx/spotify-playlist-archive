@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-68 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2qdl1OzkEdMIjDdU6N0mTK)
+70 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/2qdl1OzkEdMIjDdU6N0mTK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,13 +51,15 @@
 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 | 2022-10-18 |  |
 | [Naked](https://open.spotify.com/track/7wM5hNcY1bLFUmZKp9mKkw) | [The Tide](https://open.spotify.com/artist/6cXVCUCVlW1JSPxRHoelTb) | [Young Love](https://open.spotify.com/album/0NKH3ImlF1nODufKjyYpqT) | 2:55 | 2022-09-08 |  |
 | [Nie Pytaj Mnie](https://open.spotify.com/track/0Y7AZ1QsSijj9on5musHFv) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Nie Pytaj Mnie](https://open.spotify.com/album/21QeVMXYEJoJOdS3h9c6ip) | 3:19 | 2022-09-08 | 2022-10-24 |
-| [Nie Pytaj Mnie](https://open.spotify.com/track/5fB1BAJ7w9bCpjqycKiW3R) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:19 | 2022-10-23 |  |
+| [Nie Pytaj Mnie](https://open.spotify.com/track/5fB1BAJ7w9bCpjqycKiW3R) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:19 | 2022-10-23 | 2022-12-02 |
+| [Nie Pytaj Mnie](https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:19 | 2022-12-01 |  |
 | [Not Over You](https://open.spotify.com/track/4iLQ5KX7IYsqlaDNWL8xqf) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Not Over You](https://open.spotify.com/album/1cJSPEAABSatHfV2pwXBPG) | 3:04 | 2022-09-08 |  |
 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 | 2022-09-08 |  |
 | [Ocean](https://open.spotify.com/track/2bHxKHKbxE3EqooAFKdeeZ) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/72HIHxLnpFuAUWkBK81gyi) | 3:00 | 2022-09-08 |  |
 | [Paint Me](https://open.spotify.com/track/0UjE0j9KOcI3aZbivMRE3K) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/00A1XYsx9tgJGnIHVn1X9u) | 3:38 | 2022-09-08 |  |
 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 | 2022-09-08 |  |
-| [Riotka](https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:05 | 2022-10-23 |  |
+| [Riotka](https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:05 | 2022-12-01 |  |
+| [Riotka](https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:05 | 2022-10-23 | 2022-12-02 |
 | [Riotka](https://open.spotify.com/track/6ysyBMZgCjZTpANoUtPoS7) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Riotka](https://open.spotify.com/album/59rDFPetz3t0EOTAb0xG8s) | 3:05 | 2022-09-08 | 2022-10-24 |
 | [Romantic \- NOTD Remix](https://open.spotify.com/track/7e6FvCvngX5job1PUYIIIL) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:04 | 2022-09-08 |  |
 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 | 2022-09-08 |  |

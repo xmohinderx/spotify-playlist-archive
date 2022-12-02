@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Jhowzin",
-  "num_followers": 84584,
+  "num_followers": 84678,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTI2MCwwMDAwMDAwMGFiNTdiNGU5ZDEwNWFiZmM5NjE3YTI0N2MwMDg0MTBj",
+  "snapshot_id": "MTY2OTM0NTI2MCwwMDAwMDAwMDhkOWRlZmJmYWZhZGQ0NjUyMDhlYjZkNzYyNmNlOWNm",
   "tracks": [
     {
       "added_at": "2022-11-25 03:01:00",
@@ -743,6 +743,62 @@
     {
       "added_at": "2022-11-25 03:01:00",
       "album": {
+        "name": "Na Onda do Gin",
+        "url": "https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Marginal Supply",
+          "url": "https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ"
+        }
+      ],
+      "duration_ms": 264057,
+      "name": "Na Onda do Gin",
+      "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
+        "name": "Vida Louca",
+        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Vida Louca",
+      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
+    },
+    {
+      "added_at": "2022-11-25 03:01:00",
+      "album": {
         "name": "Giro dos Artistas",
         "url": "https://open.spotify.com/album/7dIiISUj9IcEcbcbABOEXq"
       },
@@ -775,62 +831,6 @@
       "duration_ms": 338823,
       "name": "Giro dos Artistas",
       "url": "https://open.spotify.com/track/0Pjd5h1ZOSyhSwZrDeCIXg"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "Vida Louca",
-        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Vida Louca",
-      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
-    },
-    {
-      "added_at": "2022-11-25 03:01:00",
-      "album": {
-        "name": "Na Onda do Gin",
-        "url": "https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Marginal Supply",
-          "url": "https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ"
-        }
-      ],
-      "duration_ms": 264057,
-      "name": "Na Onda do Gin",
-      "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
     },
     {
       "added_at": "2022-11-25 03:01:00",

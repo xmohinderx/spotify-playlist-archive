@@ -2,7 +2,7 @@
 
 ### [PopCo](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Jessie James Decker
+> Pop country hits of today and tomorrow\. Cover: Katy Perry and Thomas Rhett
 
 197 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 

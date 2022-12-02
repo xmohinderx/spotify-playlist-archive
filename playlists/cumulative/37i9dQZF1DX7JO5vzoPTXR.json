@@ -1098,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas, Love",
+        "url": "https://open.spotify.com/album/4VtCw9qGrC4NnbqcRGDzYc"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228860,
+      "name": "Bring on Christmas Day",
+      "url": "https://open.spotify.com/track/0DT4uYHuliro4s1P6L7p3x"
+    },
+    {
+      "album": {
         "name": "Brooklyn",
         "url": "https://open.spotify.com/album/3hgruyM3XuEg8yCaqGPYXP"
       },

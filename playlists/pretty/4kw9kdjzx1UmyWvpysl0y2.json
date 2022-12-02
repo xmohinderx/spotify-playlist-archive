@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127138,
+  "num_followers": 127141,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg0NyxmYWU0ZTYzOGVjMWUwNTc0YTI5OTUwODMwYjA1NzI4NzNjMmI2NzI2",
+  "snapshot_id": "Mzg0OSxjOGNkYTkxNTgwMTQ2MDFjZjdjZWFkZGRmYTMzYjcxYjRmOTZjYjNm",
   "tracks": [
+    {
+      "added_at": "2022-12-01 20:53:35",
+      "album": {
+        "name": "Nirvana (Tisoki Remix)",
+        "url": "https://open.spotify.com/album/0Kz8iQFEkPIyqgxBspHPzL"
+      },
+      "artists": [
+        {
+          "name": "Candyland",
+          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Nirvana - Tisoki Remix",
+      "url": "https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp"
+    },
     {
       "added_at": "2022-11-30 20:18:29",
       "album": {
@@ -1079,30 +1099,6 @@
       "duration_ms": 174400,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "FULL ASSAULT / ALL THAT U WANT",
-        "url": "https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS"
-      },
-      "artists": [
-        {
-          "name": "Varien",
-          "url": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7"
-        },
-        {
-          "name": "Psylla",
-          "url": "https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8"
-        },
-        {
-          "name": "JACKIE EXTREME",
-          "url": "https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr"
-        }
-      ],
-      "duration_ms": 164409,
-      "name": "FULL ASSAULT",
-      "url": "https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

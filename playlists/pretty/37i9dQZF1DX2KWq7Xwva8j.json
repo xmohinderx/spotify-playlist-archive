@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Camin",
-  "num_followers": 20217,
+  "num_followers": 20223,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMDM4Y2YxZjBlMzYzODk2MTQxYTdlMGM5MDIyNzQ5MTM1",
+  "snapshot_id": "MTY2ODE2NDUwNCwwMDAwMDAwMDBkNzIxZDI4YjJlODE3ZjhmMTE4MmJiMjJkYzkyMDFj",
   "tracks": [
     {
       "added_at": "2022-11-11 11:01:19",
@@ -87,6 +87,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/0idabbOWN94aQoL7uwI7Gg"
+      },
+      "artists": [
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP"
+    },
+    {
+      "added_at": "2022-11-11 11:01:19",
+      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 179055,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
-    },
-    {
-      "added_at": "2022-11-11 11:01:19",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/0idabbOWN94aQoL7uwI7Gg"
-      },
-      "artists": [
-        {
-          "name": "Nickzzy",
-          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -631,18 +631,22 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+        "name": "friki",
+        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        },
+        {
+          "name": "Pavlo Tambien",
+          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+      "duration_ms": 131871,
+      "name": "friki",
+      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
     },
     {
       "added_at": "2022-11-11 11:01:19",
@@ -663,22 +667,18 @@
     {
       "added_at": "2022-11-11 11:01:19",
       "album": {
-        "name": "friki",
-        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
       "artists": [
         {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        },
-        {
-          "name": "Pavlo Tambien",
-          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
         }
       ],
-      "duration_ms": 131871,
-      "name": "friki",
-      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2022-11-11 11:01:19",

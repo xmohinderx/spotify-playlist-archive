@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-129 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+132 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Body Control \- Edit](https://open.spotify.com/track/05QNX862U0b2TGNIP9Dbg4) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/06b7L6PMVHt3NH9YC8PeOg) | 3:48 | 2022-09-15 |  |
 | [Break The Needle](https://open.spotify.com/track/0qvoL27nMDfq1LaGc4Nxom) | [Waste Only](https://open.spotify.com/artist/0YLTSff9V7T0IJ3GEHS5kl) | [Break The Needle](https://open.spotify.com/album/5O4jYlIffre77Og0RhIOzk) | 2:57 | 2022-09-15 |  |
 | [Can I See You Tonight \(Young Marco Remix\)](https://open.spotify.com/track/2T1nzOkomRGzHeqhEdtHi4) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Can I See You Tonight \(Young Marco Remix\)](https://open.spotify.com/album/4OOzvrWoqfLqGbv6hGO3iO) | 7:18 | 2022-09-15 |  |
+| [Cellular](https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Cellular](https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP) | 7:05 | 2022-12-01 |  |
 | [Chutoro](https://open.spotify.com/track/2THxskift0F2b5wCjjLpzw) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Chutoro EP](https://open.spotify.com/album/2KmUmTZICpnb2pvJI1DiOb) | 5:50 | 2022-09-15 |  |
 | [Clap & Stomp](https://open.spotify.com/track/5Cs8GSuYsD7gSq0lbL5hqC) | [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi) | [Return of the Private Party](https://open.spotify.com/album/55SMgIcyCEkwCEv2ahugt7) | 5:37 | 2022-09-15 |  |
 | [Closer](https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 7:04 | 2022-09-15 |  |
@@ -74,6 +75,7 @@
 | [Mine Today](https://open.spotify.com/track/2kGKIrF61uP16n3GZIxjhg) | [Ant Klent](https://open.spotify.com/artist/0hCde7rh0vBLfMlsehLSGr) | [Mine Today EP](https://open.spotify.com/album/5bY9SLu6llEvhHPCVubMVx) | 6:03 | 2022-09-15 |  |
 | [Missing Chant](https://open.spotify.com/track/4nFjj8udiowsNZdJLt4sy2) | [Wendel Sield](https://open.spotify.com/artist/0wAIGy1x2050z4sUa0nKTe) | [Entity](https://open.spotify.com/album/6uatIrCbBoT6zYBOqJ3HpO) | 7:21 | 2022-09-15 |  |
 | [Monogold](https://open.spotify.com/track/1r64PqxyfuvK3mMW7MYXJ6) | [Stef Rijs](https://open.spotify.com/artist/2ooCA6wOdps3usNlxjFF7E), [Daan Kemp](https://open.spotify.com/artist/6qNGwJaNbeW13ejjKHgNnE) | [Monogold](https://open.spotify.com/album/5Agvj5pxJs37AeaSMPGmmx) | 8:14 | 2022-09-15 |  |
+| [More Love \- Edit](https://open.spotify.com/track/4mK4A2x8gT1WPmxZfrFhXD) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 3](https://open.spotify.com/album/04H1Yn2xEQjaD7sdXJqJlU) | 3:39 | 2022-12-01 |  |
 | [Mothercity \- Tom Jarmey Remix](https://open.spotify.com/track/1ju2P3fI1P0a41wLwjcBPn) | [Penner+Muder](https://open.spotify.com/artist/4fpAs40OBZoto9ZtoEdOuE), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Mothercity \(Tom Jarmey Remix\)](https://open.spotify.com/album/6VgrSHW2dVbP77n5I4rGHe) | 5:55 | 2022-09-15 |  |
 | [Moulin Rouge \- Original Mix](https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT) | [Stazzia](https://open.spotify.com/artist/17TOgS3UEH2wza058lRCQy) | [Groovin' Attitude EP](https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B) | 5:00 | 2022-09-15 |  |
 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 | 2022-09-15 |  |
@@ -123,6 +125,7 @@
 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 | 2022-09-15 |  |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2022-09-15 |  |
 | [Trying to Make it Home](https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Trying to Make it Home](https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi) | 5:42 | 2022-09-15 |  |
+| [Unfolding \(Momentum 73\) \- Ron Trent Remix](https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Unfolding \(Momentum 73\) \[Ron Trent Remix\]](https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS) | 8:32 | 2022-12-01 |  |
 | [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-09-15 |  |
 | [Vaal](https://open.spotify.com/track/1VwrgkMDeccLvOdX9q5QJs) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE) | [Vaal](https://open.spotify.com/album/7FuSN7H620KARGtXqV9LK6) | 3:48 | 2022-11-10 |  |
 | [Versace Sheets](https://open.spotify.com/track/6BIQD6X5xCUzo2npyxlI8q) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Versace Sheets](https://open.spotify.com/album/1dK1HNiuslX2RX6unebXYH) | 6:06 | 2022-09-15 |  |

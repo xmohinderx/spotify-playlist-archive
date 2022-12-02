@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 
 > ¡Rolas pa' pistear con Los Farmerz!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,365 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,367 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 44 | [El Dia Que Puedas](https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 4:09 |
 | 45 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 |
 | 46 | [El Doble R](https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [6 Tragos](https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt) | 2:33 |
-| 47 | [La Peda](https://open.spotify.com/track/07VdDPdVATetvjl5wfhvC3) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Homenaje A La Música Michoacana](https://open.spotify.com/album/0WGiwrPUKQ1Wxf3UQbqw9k) | 2:25 |
+| 47 | [El Amor No Se Vende](https://open.spotify.com/track/3V70eHylxLOGIbEj2Fzgbm) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Especialmente Para Ti](https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn) | 3:16 |
 | 48 | [El Ahuate](https://open.spotify.com/track/2hTWTQ3kXZVl2KTzBxqYBr) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 4:30 |
-| 49 | [El Amor No Se Vende](https://open.spotify.com/track/3V70eHylxLOGIbEj2Fzgbm) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Especialmente Para Ti](https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn) | 3:16 |
+| 49 | [La Peda](https://open.spotify.com/track/07VdDPdVATetvjl5wfhvC3) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Homenaje A La Música Michoacana](https://open.spotify.com/album/0WGiwrPUKQ1Wxf3UQbqw9k) | 2:25 |
 | 50 | [Brindo](https://open.spotify.com/track/6Ai9GfC9AxXfSLaqfcPTX5) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Directo a los Exitos](https://open.spotify.com/album/5egsE5XWZskkzNwZ32KJqW) | 2:20 |
 | 51 | [Amor a la Ligera](https://open.spotify.com/track/5hBDLZtFCA0wQ4cdxQqdW0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [40 Aniversario Con Invitados a Otro Nivel, Vol\. 1](https://open.spotify.com/album/5jEbFTiNlxGvfkGPTbCdKp) | 2:24 |
 | 52 | [La Emboscada del Gavilan](https://open.spotify.com/track/2BPDvnH9bddCsFM3hUWn3H) | [Jose Arana Y Su Grupo Invencible](https://open.spotify.com/artist/2Ua4rXNkgW4GE1WSind6I0) | [El Invencible](https://open.spotify.com/album/60NxPf4zjtY8QqVIsbU4c6) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44QTuU3AFB6.md) - [plain]
 | 59 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
 | 60 | [El Caminante](https://open.spotify.com/track/1Qji9zxko5AlpXamrMrNCu) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:07 |
 
-Snapshot ID: `MTY2NjMzMDA3NiwwMDAwMDAwMGNhYzE2YzhiNzY4YWFjYWNlYTcyNTdiODVlNTgzN2Rm`
+Snapshot ID: `MTY2NjMzMDA3NiwwMDAwMDAwMGZmOGM1ZDk5NTgzOWMwZDc3YTEwMzgzMzJjNGNjNmVj`

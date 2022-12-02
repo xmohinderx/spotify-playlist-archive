@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain](/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S)
 
-### [Best Indie Songs of 2022 \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX0lyZ45Ayi9S)
+### [Best Indie Songs of 2022](https://open.spotify.com/playlist/37i9dQZF1DX0lyZ45Ayi9S)
 
 > Our editorial picks of this year's best indie songs\. \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,575 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 630444,
+  "num_followers": 630477,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEzMzczNSwwMDAwMDAwMDM0MmExMTE0NTFmMzA3ZDhhYmUxZjdjM2M3MjNkNTdl",
+  "snapshot_id": "MTY2OTEzMzczNSwwMDAwMDAwMGMzMmNjYTU3NjU1M2NlN2YyOTBkYTJhNTBhN2ViYmUz",
   "tracks": [
     {
       "added_at": "2022-11-22 16:15:35",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Turiya",
-        "url": "https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu"
-      },
-      "artists": [
-        {
-          "name": "Aitana Bay\u00e1",
-          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
-        }
-      ],
-      "duration_ms": 120300,
-      "name": "Turiya",
-      "url": "https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Stilhed",
         "url": "https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 199106,
       "name": "Stilhed",
       "url": "https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "Turiya",
+        "url": "https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu"
+      },
+      "artists": [
+        {
+          "name": "Aitana Bay\u00e1",
+          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
+        }
+      ],
+      "duration_ms": 120300,
+      "name": "Turiya",
+      "url": "https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK"
     },
     {
       "added_at": "2022-11-22 16:15:35",
@@ -443,38 +443,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
-      },
-      "artists": [
-        {
-          "name": "Sanyo Green",
-          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
-        }
-      ],
-      "duration_ms": 215235,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Hum",
         "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
       },
@@ -491,6 +459,22 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
         "name": "A brand new day",
         "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 175713,
       "name": "A brand new day",
       "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj"
+      },
+      "artists": [
+        {
+          "name": "Sanyo Green",
+          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx"
     },
     {
       "added_at": "2022-11-22 16:15:35",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Son\u00e1mbulos",
-        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
-      },
-      "artists": [
-        {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Upwards",
         "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190000,
       "name": "Upwards",
       "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "Son\u00e1mbulos",
+        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
     },
     {
       "added_at": "2022-11-22 16:15:35",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Porto Fino",
-        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 247963,
-      "name": "Porto Fino",
-      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Rancul",
         "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 105626,
       "name": "Piano Ele\u0301ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "Porto Fino",
+        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 247963,
+      "name": "Porto Fino",
+      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
     },
     {
       "added_at": "2022-11-22 16:15:35",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Ver Weg",
-        "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
-      },
-      "artists": [
-        {
-          "name": "Pauline Huijbers",
-          "url": "https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Ver Weg",
-      "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Caleufu",
         "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 127693,
       "name": "Ali",
       "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "Ver Weg",
+        "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
+      },
+      "artists": [
+        {
+          "name": "Pauline Huijbers",
+          "url": "https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Ver Weg",
+      "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
     },
     {
       "added_at": "2022-11-22 16:15:35",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Healing Keys of Light",
         "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 308000,
       "name": "Healing Keys of Light",
       "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2022-11-22 16:15:35",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Purity 432hz",
-        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Purity 432hz",
-      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Memory Canvas",
         "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 215418,
       "name": "Becker's",
       "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "Purity 432hz",
+        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Purity 432hz",
+      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
     },
     {
       "added_at": "2022-11-22 16:15:35",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-11-22 16:15:35",
       "album": {
-        "name": "Open Eyes",
-        "url": "https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 212028,
-      "name": "Open Eyes",
-      "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
-    },
-    {
-      "added_at": "2022-11-22 16:15:35",
-      "album": {
         "name": "Lucent Path",
         "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 240000,
       "name": "Divine Light - Studio Edit",
       "url": "https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh"
+    },
+    {
+      "added_at": "2022-11-22 16:15:35",
+      "album": {
+        "name": "Open Eyes",
+        "url": "https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "duration_ms": 212028,
+      "name": "Open Eyes",
+      "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
     },
     {
       "added_at": "2022-11-22 16:15:35",

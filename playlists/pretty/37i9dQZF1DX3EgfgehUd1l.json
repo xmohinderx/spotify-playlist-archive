@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 141649,
+  "num_followers": 141670,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMGJjNjhmNTI3OWM3MGIxYWFhMDkyMzQ2M2NkZjMzODVk",
+  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMDUyNDJhMzExMWJjZDAzZDgxZTQ2YTUzMzNkMWI5ZWQw",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -291,22 +291,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 143826,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Sound Of Christmas",
         "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 158933,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -471,18 +471,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+        "name": "The Four Aces' Greatest Hits",
+        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
       "artists": [
         {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        },
+        {
+          "name": "Al Alberts",
+          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+      "duration_ms": 179466,
+      "name": "Love Is A Many-Splendored Thing",
+      "url": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -503,22 +507,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Four Aces' Greatest Hits",
-        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
       "artists": [
         {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        },
-        {
-          "name": "Al Alberts",
-          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Love Is A Many-Splendored Thing",
-      "url": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Presenting Eddie Fisher",
         "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180866,
       "name": "Cindy Oh Cindy",
       "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Oldies 101",
-        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
-      },
-      "artists": [
-        {
-          "name": "Debbie Reynolds",
-          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Tammy",
-      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 179373,
       "name": "The Black Hills of Dakota",
       "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Oldies 101",
+        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
+      },
+      "artists": [
+        {
+          "name": "Debbie Reynolds",
+          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Tammy",
+      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
     },
     {
       "added_at": "2020-07-08 17:36:08",

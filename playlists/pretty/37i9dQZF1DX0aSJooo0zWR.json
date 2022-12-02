@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 166114,
+  "num_followers": 166160,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDk3MWM0NjlkYjViZDYyZjBjMDc5NDMwZmJkODg4NWM5",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDIxMWZkY2UxZjZmNDYyOWFlN2VlNmQ0ZGE0NDIyOTg5",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Black Market",
-        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
-      },
-      "artists": [
-        {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
-        }
-      ],
-      "duration_ms": 390640,
-      "name": "Black Market",
-      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Romantic Warrior",
         "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "The Rhinebeck Sessions",
-        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
       },
       "artists": [
         {
-          "name": "Spyro Gyra",
-          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
         }
       ],
-      "duration_ms": 445013,
-      "name": "Sorbet",
-      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
+      "duration_ms": 390640,
+      "name": "Black Market",
+      "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -435,6 +419,22 @@
       "duration_ms": 243000,
       "name": "Hard-Wired",
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Rhinebeck Sessions",
+        "url": "https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq"
+      },
+      "artists": [
+        {
+          "name": "Spyro Gyra",
+          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+        }
+      ],
+      "duration_ms": 445013,
+      "name": "Sorbet",
+      "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
     },
     {
+      "added_at": "2021-06-04 04:01:00",
+      "album": {
+        "name": "MAINS",
+        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
+      },
+      "artists": [
+        {
+          "name": "J3PO",
+          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
+        }
+      ],
+      "duration_ms": 222554,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
+    },
+    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
@@ -535,22 +551,6 @@
       "duration_ms": 276293,
       "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "MAINS",
-        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
-      },
-      "artists": [
-        {
-          "name": "J3PO",
-          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
-        }
-      ],
-      "duration_ms": 222554,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -903,6 +903,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Lifetime: The Collection",
         "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 503213,
       "name": "Even Song",
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1333,30 +1333,6 @@
       "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Eastern Kaleidoscope",
-        "url": "https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI"
-      },
-      "artists": [
-        {
-          "name": "Usein Bekirov",
-          "url": "https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y"
-        },
-        {
-          "name": "Max Malyshev",
-          "url": "https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw"
-        },
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 384356,
-      "name": "Eastern Kaleidoscope",
-      "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
-    },
-    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "Catch me if you can!",
@@ -1391,6 +1367,30 @@
       "duration_ms": 289851,
       "name": "close tail",
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Eastern Kaleidoscope",
+        "url": "https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI"
+      },
+      "artists": [
+        {
+          "name": "Usein Bekirov",
+          "url": "https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y"
+        },
+        {
+          "name": "Max Malyshev",
+          "url": "https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw"
+        },
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 384356,
+      "name": "Eastern Kaleidoscope",
+      "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
       "added_at": "2021-02-12 00:49:35",

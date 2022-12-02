@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Jovem Dex, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,252 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,490 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 34 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 | 35 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 |
 | 36 | [Abusadão](https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Abusadão](https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6) | 2:56 |
-| 37 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
-| 38 | [INVEJOSO](https://open.spotify.com/track/5YURHESoQKz81fL4IxV7NJ) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [INVEJOSO](https://open.spotify.com/album/255NGGUak0BPXU1ImuceyR) | 5:00 |
+| 37 | [INVEJOSO](https://open.spotify.com/track/5YURHESoQKz81fL4IxV7NJ) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [INVEJOSO](https://open.spotify.com/album/255NGGUak0BPXU1ImuceyR) | 5:00 |
+| 38 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
 | 39 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 |
 | 40 | [Ronda](https://open.spotify.com/track/31WO5KyloADrEOP61iLm4i) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Ronda](https://open.spotify.com/album/244Lo3eSvAKmcf8cTRX9UU) | 3:22 |
 | 41 | [Gestão Inteligente](https://open.spotify.com/track/7hqoLCS3rhWYoWUBOgakaU) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Gestão Inteligente](https://open.spotify.com/album/0vVSwwO55in8qT3PimHJtJ) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 50 | [REVERSE](https://open.spotify.com/track/6EVxMejp12otEEADDqwNbs) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [REVERSE](https://open.spotify.com/album/1YQJnUtRI7utiKvLx8H76m) | 2:56 |
 
-Snapshot ID: `MTY2OTM0NTI2MCwwMDAwMDAwMDAxN2RhYWMwNjI1OTA4NzJkMGZjMzk0N2VhNGJlMmY1`
+Snapshot ID: `MTY2OTM0NTI2MCwwMDAwMDAwMGY1MGQ4ZDNhYTlhN2NiMmIxZTYyZWI4MTI2NzhmNjgx`

@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 300000,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg"
@@ -2254,6 +2254,24 @@
     },
     {
       "album": {
+        "name": "Distressor",
+        "url": "https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253443,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa"
+    },
+    {
+      "album": {
         "name": "Auras",
         "url": "https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq"
       },
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186866,
       "name": "Mobius",
       "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
@@ -2489,6 +2507,24 @@
       "duration_ms": 154920,
       "name": "Mumble",
       "url": "https://open.spotify.com/track/2N2vs5kpPy5Lcqnn8PYYdy"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
     },
     {
       "album": {

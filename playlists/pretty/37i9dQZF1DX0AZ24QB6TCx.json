@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 275774,
+  "num_followers": 275829,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTk2MiwwMDAwMDAwMDJkZWM5OGM0ZWMwNzY3NGNmOWNmMjY3MjYxOTIzOWM1",
+  "snapshot_id": "MTY2OTM4MTk2MiwwMDAwMDAwMDcwMWE2M2Q1MzFkYjAyNjVjOGFlYzkxZDQ3N2JhMzFh",
   "tracks": [
     {
       "added_at": "2022-11-16 11:12:48",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2022-12-01 01:21:06",
+      "added_at": "2022-12-02 01:15:02",
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI"
     },
     {
-      "added_at": "2022-12-01 01:21:06",
+      "added_at": "2022-12-02 01:15:02",
       "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
     },
     {
-      "added_at": "2022-12-01 01:21:06",
+      "added_at": "2022-12-02 01:15:02",
       "album": {
         "name": "Watergate 20 Years (Pt. 8/8)",
         "url": "https://open.spotify.com/album/5M9eVeNI6mG35HD3OvaPoc"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
     },
     {
-      "added_at": "2022-12-01 01:21:06",
+      "added_at": "2022-12-02 01:15:02",
       "album": {
         "name": "Immersion / Distance",
         "url": "https://open.spotify.com/album/2gBcnYz9kcl370rUijue7r"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
     },
     {
-      "added_at": "2022-12-01 01:21:06",
+      "added_at": "2022-12-02 01:15:02",
       "album": {
         "name": "Wolkenblau",
         "url": "https://open.spotify.com/album/2cntCEOxHrwMa08SlkxPa0"
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Finja",
         "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 462560,
       "name": "I'm Fallin (feat. RY X)",
       "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Eolian",
         "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 381965,
       "name": "Eolian",
       "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -951,6 +951,22 @@
       "duration_ms": 197796,
       "name": "Don't Go Asking - Radio Edit",
       "url": "https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
       },
       "artists": [
         {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
         }
       ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+      "duration_ms": 223906,
+      "name": "In The Morning - Edit",
+      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1015,22 +1031,6 @@
       "duration_ms": 230239,
       "name": "The Center Will Not Hold",
       "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "In The Morning - Edit",
-      "url": "https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "King Curtis",
+        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 226848,
+      "name": "King Curtis - Edit",
+      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Quarantine",
         "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
       },
@@ -1171,26 +1187,6 @@
       "duration_ms": 333223,
       "name": "Quarantine - Original",
       "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "False Gods EP (Short Edits)",
-        "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
-      },
-      "artists": [
-        {
-          "name": "Alegant",
-          "url": "https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO"
-        },
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        }
-      ],
-      "duration_ms": 214122,
-      "name": "Get Down - Short Edit",
-      "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
     },
     {
       "added_at": "2022-11-16 11:12:48",
@@ -1215,6 +1211,26 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
+        "name": "False Gods EP (Short Edits)",
+        "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
+      },
+      "artists": [
+        {
+          "name": "Alegant",
+          "url": "https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "duration_ms": 214122,
+      "name": "Get Down - Short Edit",
+      "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
       },
@@ -1231,38 +1247,6 @@
     {
       "added_at": "2022-11-16 11:12:48",
       "album": {
-        "name": "Made of Wood",
-        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 390371,
-      "name": "La Veleta",
-      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
-        "name": "King Curtis",
-        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 226848,
-      "name": "King Curtis - Edit",
-      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
-    },
-    {
-      "added_at": "2022-11-16 11:12:48",
-      "album": {
         "name": "Neunivai",
         "url": "https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 438533,
       "name": "Neunivai - Original Mix",
       "url": "https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m"
+    },
+    {
+      "added_at": "2022-11-16 11:12:48",
+      "album": {
+        "name": "Made of Wood",
+        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 390371,
+      "name": "La Veleta",
+      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
     }
   ],
   "unique_name": "Afterhours",

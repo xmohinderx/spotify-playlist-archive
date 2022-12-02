@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 128973,
       "name": "Fantastic Increments",
       "url": "https://open.spotify.com/track/1iqeU4xp8Qq8B6BC32kVan"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 125586,
       "name": "Favorite Spark",
       "url": "https://open.spotify.com/track/24cUGtJpX9aTWBNfRzqd09"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 216013,
       "name": "Lines of Inevitability",
       "url": "https://open.spotify.com/track/3CNI9FT4WuBhQYux5VwdF0"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 856346,
       "name": "Monument",
       "url": "https://open.spotify.com/track/6WWfPwQFOKNrdt5XDz6ViJ"
@@ -2025,9 +2025,39 @@
           "url": "https://open.spotify.com/artist/7nVIbVC1823oRcakpFbiWd"
         }
       ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Quartetto Telematico #1",
+      "url": "https://open.spotify.com/track/6gJwQqlBcKKS2M3K3MkuOr"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        },
+        {
+          "name": "Chris Chafe",
+          "url": "https://open.spotify.com/artist/7nVIbVC1823oRcakpFbiWd"
+        }
+      ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 184720,
       "name": "Quartetto Telematico #2",
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
@@ -2353,7 +2383,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 329586,
       "name": "Shear Viscosity",
       "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
@@ -2445,7 +2475,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 435000,
       "name": "Snow Drifts",
       "url": "https://open.spotify.com/track/0RDaGU8rrfG6MFZq2YPBvz"

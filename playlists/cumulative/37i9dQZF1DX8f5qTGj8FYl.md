@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-207 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+208 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Feel Good Inc.](https://open.spotify.com/track/4GVx7oT2KnKCN9Ia0YDGau) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN) | 4:35 | 2020-11-13 | 2022-10-15 |
 | [Feel It](https://open.spotify.com/track/1ZPexPMYcdOTQQr7BFnIpl) | [Dr\. Delight](https://open.spotify.com/artist/5JSEvaXZzKFArz329teDzI) | [Feel It](https://open.spotify.com/album/3bK9aGULeLbciNYE0vTzvX) | 2:07 | 2020-11-13 | 2022-04-20 |
 | [First Impression](https://open.spotify.com/track/19PYtP657yQEAwmduEf1R0) | [True Loves](https://open.spotify.com/artist/1DZpa2hXpHrR7yE3Xnn2Dx) | [First Impression](https://open.spotify.com/album/0CwsDXnmTk8TyTdbwQJXgF) | 4:12 | 2021-01-22 | 2022-07-29 |
-| [First Impression](https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:12 | 2021-01-22 |  |
+| [First Impression](https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:12 | 2021-01-22 | 2022-12-02 |
 | [Flatfoot](https://open.spotify.com/track/0RHr2hG0bIODmOjaex4oyT) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [Flatfoot](https://open.spotify.com/album/1qXOH9z8qIVELOkM3HZCAm) | 4:33 | 2020-11-13 | 2022-06-30 |
 | [Flying Home](https://open.spotify.com/track/5St8RhYDg6dyF43aFod1YM) | [Felix Magnus Grossmann](https://open.spotify.com/artist/7uWwYPKXHTU6JXRm8VVLtH) | [Big Band Around the World](https://open.spotify.com/album/2fgBvjukx0OLHEmTOK4Cb8) | 2:45 | 2020-11-13 | 2022-04-18 |
 | [Fried Soul](https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Fried Soul](https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O) | 3:36 | 2022-02-25 |  |
@@ -214,6 +214,7 @@
 | [Whistle Bump](https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [New York City / Whistle Bump](https://open.spotify.com/album/0EvrBroh6KnYLr6xbTTS6E) | 4:32 | 2020-11-13 | 2022-07-12 |
 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/6kElTefmRx2J8nYe84vWRj) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/0SGSbCsHJrgkaUe2FiR8Tp) | 3:21 | 2021-12-03 | 2022-07-16 |
 | [Work Tapes](https://open.spotify.com/track/5hVL3iwV00R4K10kPmfM5W) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/16E6N3NF4JmckFOIDuvRwp) | 2:18 | 2020-11-13 | 2022-07-29 |
+| [Work Tapes](https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML) | 2:18 | 2020-11-13 |  |
 | [Yes](https://open.spotify.com/track/5YytOCWoccBVzsETaXIqLU) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3), [Jordan Rose](https://open.spotify.com/artist/1EKM9MppWyNxJBWDxBqIra), [Itamar Gov Ari](https://open.spotify.com/artist/5mW7XJt3kIWZKBGSwkmeak), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Yes](https://open.spotify.com/album/2Gb6cb2tLhlhKcoaK7mvbC) | 2:06 | 2021-11-12 | 2022-07-24 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

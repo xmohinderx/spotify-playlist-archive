@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,439 likes - 304 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,472 likes - 304 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 18 | [Satin](https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ) | [L’avendine](https://open.spotify.com/artist/2kid9kBSigLwz9xKNfWBGG) | [Satin](https://open.spotify.com/album/2FXzWeH11oyMWqOz9OH6NA) | 2:31 |
 | 19 | [Without U](https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Without U](https://open.spotify.com/album/05H4wQDpRpe6vyAJw5bT6i) | 2:18 |
 | 20 | [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 |
-| 21 | [The Search](https://open.spotify.com/track/0peigjQiQdgHe2JvdfMxSJ) | [The Late Hours Preludes](https://open.spotify.com/artist/7yd8Z9nwt2rutYi50mTPai) | [Small Steps](https://open.spotify.com/album/2m6MYnrmMXSd78Knb0AWjq) | 2:48 |
+| 21 | [The Search](https://open.spotify.com/track/0peigjQiQdgHe2JvdfMxSJ) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Small Steps](https://open.spotify.com/album/2m6MYnrmMXSd78Knb0AWjq) | 2:48 |
 | 22 | [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 |
 | 23 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 |
 | 24 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 29 | [Rum & Tid](https://open.spotify.com/track/2HDIkvzHBYohuX1HztM7Qk) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Rum & Tid](https://open.spotify.com/album/67amONuVjJ9NHjSqcTiZo8) | 2:47 |
 | 30 | [Waves](https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 3:21 |
 | 31 | [Selfless](https://open.spotify.com/track/4b2IRjcQQrpCQfDHPwFG4d) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Selfless](https://open.spotify.com/album/6g4NmJWAtFCVcgPLIGflef) | 2:27 |
-| 32 | [With Open Eyes](https://open.spotify.com/track/6QXHqKvlat4nfKOqfCPKiP) | [Claud Des](https://open.spotify.com/artist/5HhxdrqxkChqV1Hjkh6UL7) | [Shore Of Dreams](https://open.spotify.com/album/4ZdktUBxsfIRCZOloKNtxk) | 2:48 |
+| 32 | [With Open Eyes](https://open.spotify.com/track/6QXHqKvlat4nfKOqfCPKiP) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [Shore Of Dreams](https://open.spotify.com/album/4ZdktUBxsfIRCZOloKNtxk) | 2:48 |
 | 33 | [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 |
 | 34 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 |
 | 35 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 |

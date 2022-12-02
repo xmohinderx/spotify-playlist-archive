@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-132 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
+133 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,11 +85,12 @@
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2022-05-25 |  |
 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2022-07-08 | 2022-11-30 |
+| [Lissa's Song](https://open.spotify.com/track/4iNxo2nENNlHos9KkwPYg4) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC), [Roberto Luti](https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 5:07 | 2022-12-02 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-05-27 | 2022-07-29 |
 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 | 2022-09-20 |  |
 | [Lost & Lonesome](https://open.spotify.com/track/3roVxzPquevSOKn0TlQVD1) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Back on Top](https://open.spotify.com/album/5tpqIo7C4bCdDKh4kZrjwW) | 3:42 | 2022-05-25 | 2022-07-29 |
 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 | 2022-07-08 |  |
-| [Mailman, Bring Me No More Blues](https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR) | [432 UK](https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo) | [Mailman, Bring Me No More Blues](https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz) | 2:33 | 2022-12-01 |  |
+| [Mailman, Bring Me No More Blues](https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR) | [432 UK](https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo) | [Mailman, Bring Me No More Blues](https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz) | 2:33 | 2022-12-01 | 2022-12-02 |
 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 | 2022-09-20 |  |
 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 | 2022-05-25 |  |
 | [Mojo Hand](https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 2:59 | 2022-07-08 |  |

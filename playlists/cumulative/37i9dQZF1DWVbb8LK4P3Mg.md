@@ -4,13 +4,13 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: IVE\)
 
-150 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
+151 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12월의 기적 Miracles in December](https://open.spotify.com/track/4HJEQr2hdXxKrRdNU5ible) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [12월의 기적 Miracles in December](https://open.spotify.com/album/7taKyOK4LYB8uEDoR0x2NQ) | 4:33 | 2021-12-21 | 2022-07-29 |
 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 | 2021-12-21 |  |
-| [A Slippery Christmas \(Feat\. Chan\)](https://open.spotify.com/track/06m4f8pAOZbrPSw54xDYPj) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [A Slippery Christmas](https://open.spotify.com/album/7KZNP0Tar7wIBdPFYQuAsi) | 3:20 | 2021-12-21 |  |
+| [A Slippery Christmas \(Feat\. Chan\)](https://open.spotify.com/track/06m4f8pAOZbrPSw54xDYPj) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [A Slippery Christmas](https://open.spotify.com/album/7KZNP0Tar7wIBdPFYQuAsi) | 3:20 | 2021-12-21 | 2022-12-02 |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2022-11-16 |  |
 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2021-12-21 |  |
 | [Be Your Christmas \(feat\. BOL4\)](https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 | 2021-12-21 |  |
@@ -97,6 +97,7 @@
 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 | 2021-12-21 |  |
 | [My Winter Trip](https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Winter Trip](https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci) | 4:11 | 2021-12-21 |  |
 | [My Winter Wonderland](https://open.spotify.com/track/078ruO4bb8PNlWo5BAwTZv) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Winter](https://open.spotify.com/album/3Sv9Di6p9mZbJAuYFt8Ado) | 3:36 | 2021-12-21 | 2022-07-29 |
+| [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-11-30 |  |
 | [One More Christmas \- English Version](https://open.spotify.com/track/0RhSRYfO6hV3MknwZXqfqI) | [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W) | [One More Christmas](https://open.spotify.com/album/7HtVuZLHiklL7oREgMht8d) | 3:32 | 2021-12-21 | 2022-07-29 |
 | [One More Christmas \- English Version](https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [One More Christmas](https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp) | 3:32 | 2021-12-21 |  |
 | [Our Christmas](https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx) | [Kylie](https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2) | [Our Christmas](https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih) | 3:36 | 2021-12-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 317122,
+  "num_followers": 317212,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDY5NWMwODhkMDE2Y2JiZDQ1NzM5NGM5NDlkMjEzMWY0",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDExMGNlNGNmZjVkOTViMmNhNjc1ZDhhZmFjY2VhMzMz",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Show Breaks",
-        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
-      },
-      "artists": [
-        {
-          "name": "AlgoRythmik",
-          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
-        }
-      ],
-      "duration_ms": 218796,
-      "name": "Andrew's Break",
-      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Outsidein",
         "url": "https://open.spotify.com/album/7pOxRMSTxF6xMJFoefUvRs"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 246973,
       "name": "No Strings Attached",
       "url": "https://open.spotify.com/track/5Ps6yt0FmXilnOeq1Djg9O"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Show Breaks",
+        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
+      },
+      "artists": [
+        {
+          "name": "AlgoRythmik",
+          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+        }
+      ],
+      "duration_ms": 218796,
+      "name": "Andrew's Break",
+      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Big Bad Wolf",
-        "url": "https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h"
-      },
-      "artists": [
-        {
-          "name": "Johnny Wright",
-          "url": "https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Big Bad Wolf",
-      "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Still Dancing",
@@ -575,6 +559,22 @@
       "duration_ms": 198453,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Big Bad Wolf",
+        "url": "https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h"
+      },
+      "artists": [
+        {
+          "name": "Johnny Wright",
+          "url": "https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Big Bad Wolf",
+      "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Merry-Go-Round-And-Round",
-        "url": "https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd"
-      },
-      "artists": [
-        {
-          "name": "The Fly Guy Five",
-          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
-        }
-      ],
-      "duration_ms": 120761,
-      "name": "Extra Fries",
-      "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Perfume",
@@ -687,6 +671,22 @@
       "duration_ms": 192741,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Merry-Go-Round-And-Round",
+        "url": "https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd"
+      },
+      "artists": [
+        {
+          "name": "The Fly Guy Five",
+          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
+        }
+      ],
+      "duration_ms": 120761,
+      "name": "Extra Fries",
+      "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1261,24 +1261,20 @@
       "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Dance, Dance, Dance (Extra Steps)",
-        "url": "https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
       },
       "artists": [
         {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        },
-        {
-          "name": "Extra Medium",
-          "url": "https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I"
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
         }
       ],
-      "duration_ms": 258750,
-      "name": "Sing Sing Sing - Extra Medium Remix",
-      "url": "https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC"
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1309,36 +1305,24 @@
       "url": "https://open.spotify.com/track/3F6kQwIiqzYphC1Kv77Ie8"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+        "name": "Dance, Dance, Dance (Extra Steps)",
+        "url": "https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS"
       },
       "artists": [
         {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Dizzy Street",
-        "url": "https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP"
-      },
-      "artists": [
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        },
         {
-          "name": "The Swing Bot",
-          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+          "name": "Extra Medium",
+          "url": "https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Dizzy Street",
-      "url": "https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl"
+      "duration_ms": 258750,
+      "name": "Sing Sing Sing - Extra Medium Remix",
+      "url": "https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC"
     },
     {
       "added_at": "2021-01-22 10:35:47",
@@ -1355,6 +1339,22 @@
       "duration_ms": 213120,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Dizzy Street",
+        "url": "https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP"
+      },
+      "artists": [
+        {
+          "name": "The Swing Bot",
+          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dizzy Street",
+      "url": "https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl"
     },
     {
       "added_at": "2020-10-30 09:06:04",

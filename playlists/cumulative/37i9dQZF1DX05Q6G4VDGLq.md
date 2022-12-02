@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-368 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+369 songs - 23 hr 24 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-06-28 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/6XdkzWraEtjlpD544ELbre) | [Back Room Jazz Trio](https://open.spotify.com/artist/0QsYYreXejEBRLCOp8v6bP) | [If You Could See Me Now](https://open.spotify.com/album/4t6mWcSyJBwJw17VkCrFb1) | 6:36 | 2022-06-28 | 2022-10-02 |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2022-06-28 |  |
+| [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |
 | [In A Mellow Tone](https://open.spotify.com/track/3L3QPczEW3sSf17X7rwwC3) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 3:35 | 2022-06-28 | 2022-10-08 |
 | [In A Sentimental Mood](https://open.spotify.com/track/4Yei8oBWmxHrq1pruXvB5X) | [Side Room Jazz Trio](https://open.spotify.com/artist/7DfzAmllvhumQ0GJEGPRd9) | [In A Sentimental Mood](https://open.spotify.com/album/614NnEy0gPe8NegggUquNa) | 5:28 | 2022-06-28 | 2022-10-08 |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-06-28 |  |
@@ -298,7 +299,7 @@
 | [Someone To Watch Over Me](https://open.spotify.com/track/42yJPYOs9v9OikUdrJyHTj) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Cheek To Cheek](https://open.spotify.com/album/2sZ4ZE5wxjfxqzGMKh1Jde) | 3:43 | 2022-06-28 | 2022-10-08 |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-30 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/3hG0RxJqxggDnSjg6tU6Py) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Somewhere Over The Rainbow](https://open.spotify.com/album/5N5QVPTLl1WVZE6yuWJGv6) | 3:35 | 2022-06-28 | 2022-10-02 |
-| [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-28 |  |
+| [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-28 | 2022-12-02 |
 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 | 2022-06-28 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 |  |
 | [Spring Is in the Air](https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [In a Deeper Sense](https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1) | 4:48 | 2022-06-28 |  |

@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-216 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+219 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,8 @@
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2021-12-14 |  |
 | [After Rain](https://open.spotify.com/track/62xixWZZULL8nW0bUJAi8J) | [Morgan Coleman Quintet](https://open.spotify.com/artist/2Ntcz3nIhmiM2R6LWNsjAZ) | [After Rain](https://open.spotify.com/album/3hCG5qX46IuTorWJSBloMI) | 3:40 | 2021-12-14 |  |
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-09-29 |  |
-| [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-05-17 |  |
-| [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 | 2021-12-14 |  |
+| [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-05-17 | 2022-12-02 |
+| [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 | 2021-12-14 | 2022-12-02 |
 | [Alone at Night](https://open.spotify.com/track/4HljpOZkfoUT97Ia7K3DFf) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [Alone at Night](https://open.spotify.com/album/4Ch9O6W16gFXTeL8FoGQGd) | 2:59 | 2022-04-01 |  |
 | [Alone Together \- Rudy Van Gelder Remaster 2006](https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S) | 3:10 | 2021-12-14 |  |
 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 | 2021-12-14 |  |
@@ -103,6 +103,7 @@
 | [Lake Natron](https://open.spotify.com/track/5SgPrYkFIr1WNd80A4BxfK) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Lake Natron](https://open.spotify.com/album/4aA4fD7p4ZRgUpHwGYhSOz) | 3:44 | 2022-03-17 |  |
 | [Lament](https://open.spotify.com/track/4t9htJTfaYIZJLDYMqrTCs) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Imagination](https://open.spotify.com/album/6HjWBzHz7sMtXfJ5tlFUqG) | 2:50 | 2021-12-14 |  |
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2021-12-14 | 2022-09-30 |
+| [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-01 |  |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
 | [Life in Space](https://open.spotify.com/track/1Z6vzQHFSxqJcgJfqPz3aZ) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 2:47 | 2022-11-24 |  |
@@ -157,7 +158,7 @@
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-08-30 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 |  |
 | [Rise Again](https://open.spotify.com/track/278NmaKNQjLEF3sNyEzcSN) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Rise Again](https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq) | 4:59 | 2022-05-03 |  |
-| [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 | 2021-12-14 |  |
+| [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 | 2021-12-14 | 2022-12-02 |
 | [Ruby, My Dear](https://open.spotify.com/track/4g3uehMazGScLiI42Xf9C4) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Ruby, My Dear](https://open.spotify.com/album/0rnHMooxC9N4V85h8dSuVp) | 2:48 | 2022-05-31 |  |
 | [Salar de Uyuni](https://open.spotify.com/track/4lmHHLC06pFMx2gb7KnDJW) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Salar de Uyuni](https://open.spotify.com/album/3RcrtLDdMGa4pvCtV4AMkp) | 4:14 | 2022-11-24 |  |
 | [Samantha](https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Samantha](https://open.spotify.com/album/4r54lzGKhdojX8v9QtJYg7) | 4:11 | 2022-06-22 |  |
@@ -172,6 +173,7 @@
 | [Skylark](https://open.spotify.com/track/29nK4itJtykZEtsVE8dt4R) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:00 | 2021-12-14 | 2022-01-20 |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2021-12-14 |  |
 | [Snow Keeps Falling](https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [Snow Keeps Falling](https://open.spotify.com/album/1rKjHI0aRqFSIP6mUDAW38) | 2:31 | 2021-12-14 | 2022-10-07 |
+| [Snowflakes](https://open.spotify.com/track/3OiG2WAVCWv2eCBS2Iyqsm) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Snowflakes](https://open.spotify.com/album/4XaJ0QnFlJfNbqIGVDeNUf) | 3:31 | 2022-12-01 |  |
 | [Some Other Time](https://open.spotify.com/track/4PWfrnO8uHHaym7JmlPeB3) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Some Other Time](https://open.spotify.com/album/3gfJkuMpRxheBsyQf5Sbc1) | 5:16 | 2021-12-14 |  |
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-01-26 |  |
 | [Sometimes](https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Sometimes](https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT) | 3:03 | 2022-04-01 |  |
@@ -181,6 +183,7 @@
 | [Soul Eyes](https://open.spotify.com/track/2WwFItAZw5RcYv3rECNFIZ) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:43 | 2021-12-14 |  |
 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 | 2022-05-31 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-01-27 |  |
+| [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2022-12-01 |  |
 | [Still Life](https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Still Life](https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w) | 3:06 | 2021-12-14 | 2022-11-18 |
 | [Sweet Apple](https://open.spotify.com/track/3oKCY5Fke7GTn0AuLYyqEq) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Sweet Apple](https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW) | 3:00 | 2022-11-10 |  |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-06-28 |  |
@@ -218,7 +221,7 @@
 | [You Can Call Me Again](https://open.spotify.com/track/2o0AN4oU66mlc9dH54ENFd) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [You Can Call Me Again](https://open.spotify.com/album/1FVvVtu6dwRrZlrx08pL6p) | 3:31 | 2022-08-17 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2021-12-14 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2021-12-14 |  |
-| [You Keep Coming Back Like A Song](https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red Garland Revisited!](https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD) | 5:35 | 2022-01-26 |  |
+| [You Keep Coming Back Like A Song](https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red Garland Revisited!](https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD) | 5:35 | 2022-01-26 | 2022-12-02 |
 | [You Left Your Mark On Me](https://open.spotify.com/track/5sIXcPEq8AfCiwIWBJakA7) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [You Left Your Mark On Me](https://open.spotify.com/album/7LdyKwrRZ6JcjaLyH44F2R) | 3:44 | 2022-10-27 |  |
 | [You Must Believe In Spring](https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Earthshine](https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM) | 3:42 | 2022-09-06 |  |
 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-04-26 |  |

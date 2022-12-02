@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,991 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,001 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 73 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
 | 74 | [Veinte Años](https://open.spotify.com/track/70XqvfxgfXusqHIUGmo65X) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Veinte Años](https://open.spotify.com/album/7y10h42cMtYY8FWliI9tfC) | 2:36 |
 | 75 | [Un Hombre Normal](https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 5:03 |
-| 76 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
-| 77 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 4:07 |
+| 76 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 4:07 |
+| 77 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
 | 78 | [Qué Maldición](https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT) | [Miky Mendozza](https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL), [Diego Amoz](https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN) | [Qué Maldición](https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z) | 2:05 |
 | 79 | [Háblame de Ti](https://open.spotify.com/track/0IyiKR4HMc4NMq2TgAXgQl) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Háblame de Ti](https://open.spotify.com/album/1w77qD5A199FETNc5k7UBZ) | 4:18 |
 | 80 | [Será](https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 3:32 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 82 | [Tan Enamorados](https://open.spotify.com/track/4Hxos1V3aaBXnJb4grtNMQ) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 3:40 |
 | 83 | [Lo Siento Mucho \- Versión Mariachi](https://open.spotify.com/track/1KWN7OGF1KqyLjD9EuWY6z) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho \(Versión Mariachi\)](https://open.spotify.com/album/53NlCXfNNhgP7F0LS2Z7yT) | 3:18 |
 | 84 | [El Triste](https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [El Triste](https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM) | 4:12 |
-| 85 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
-| 86 | [Te Metiste](https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 3:44 |
+| 85 | [Te Metiste](https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 3:44 |
+| 86 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
 | 87 | [Y Todo Para Que](https://open.spotify.com/track/0SsPLfptdC9CN8XRZzDWTu) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Mis Inicios](https://open.spotify.com/album/7xedJuQ4X8Z5vEwKTwrhqy) | 3:13 |
 | 88 | [No Te Olvido](https://open.spotify.com/track/15YxLf1k3l1YPka7At7o6b) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 |
 | 89 | [Somos Novios](https://open.spotify.com/track/0FHwYpEWfFQjwl19VLwI4y) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:26 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 94 | [Niña De Mi Corazón \- Versión Acústica](https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mis Canciones..\. Ustedes Y Yo](https://open.spotify.com/album/1IyqrlZOjdiOqFw7732Dfr) | 3:20 |
 | 95 | [Ayer Pedí](https://open.spotify.com/track/3E665uWyS30wGSFfqNxNFH) | [Luis Carlos Monroy](https://open.spotify.com/artist/5d4WMfgfWrcufKRJLhDIaZ), [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Ayer Pedí](https://open.spotify.com/album/5sjlh9Z1mXCQLek5NsVc7X) | 4:25 |
 | 96 | [Desvelado](https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl) | [Mau Soles](https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77) | [Canciones](https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X) | 3:36 |
-| 97 | [Mi Piel No Te Olvida](https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Piel No Te Olvida](https://open.spotify.com/album/63kE8DHQwfB7v26ikpFHfl) | 3:39 |
-| 98 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
+| 97 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
+| 98 | [Mi Piel No Te Olvida](https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Piel No Te Olvida](https://open.spotify.com/album/63kE8DHQwfB7v26ikpFHfl) | 3:39 |
 | 99 | [Usted](https://open.spotify.com/track/0dLmUxDPXQOJpf89eS6iIb) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:58 |
 | 100 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 |
 
-Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMGU0YmI1YjFjMjU5MDVmY2E0NTFiZmE3NGNmOTM1ODll`
+Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDgwZTQ1MTAzYmRlOTU0OWNjNjBkYWEyYmNiZDkxOWYz`

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1033218,
+  "num_followers": 1033286,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU0MzYxNCwwMDAwMDAwMDQyZjBiM2UzMGVhOTExY2YwM2M3YTMxZWM5YmMyMDJj",
+  "snapshot_id": "MTY2NTU0MzYxNCwwMDAwMDAwMGQ0OWM2MDcwYTQwYzVkNDYzZTc4ZDM2MGMxYmZlM2Zi",
   "tracks": [
     {
       "added_at": "2022-09-14 21:31:42",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 127464,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Pop Food",
         "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 127464,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Needs",
-        "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
-      },
-      "artists": [
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Shawcross",
         "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 136032,
       "name": "Warned You",
       "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
-      },
-      "artists": [
-        {
-          "name": "Michele Leigh",
-          "url": "https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "at least i'm pretty",
         "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 106800,
       "name": "at least i'm pretty",
       "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
+      },
+      "artists": [
+        {
+          "name": "Michele Leigh",
+          "url": "https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Looking Back",
-        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 176751,
-      "name": "Amtrak",
-      "url": "https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Cut Out",
         "url": "https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 155984,
       "name": "Bends",
       "url": "https://open.spotify.com/track/7neXef29cogkuASB5rTafo"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 176751,
+      "name": "Amtrak",
+      "url": "https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Moonlight/Rare",
-        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Prune, You Talk Funny",
         "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 212701,
       "name": "Prune, You Talk Funny",
       "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Moonlight/Rare",
+        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "Talk to You (remixes)",
+        "url": "https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 214724,
+      "name": "Talk to You",
+      "url": "https://open.spotify.com/track/2xi7ZaCjI9UPek4MpWabZ6"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Talk to You (remixes)",
-        "url": "https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 214724,
-      "name": "Talk to You",
-      "url": "https://open.spotify.com/track/2xi7ZaCjI9UPek4MpWabZ6"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Cotton Candy",
         "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Cat Heaven",
         "url": "https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 313663,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+        "name": "Over the Hill",
+        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
       },
       "artists": [
         {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
         }
       ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
+      "duration_ms": 167771,
+      "name": "Over the Hill",
+      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Over the Hill",
-        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 167771,
-      "name": "Over the Hill",
-      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Reverse Cowgirl",
+        "url": "https://open.spotify.com/album/4Bfck7ddk4kAhNLKkv711i"
+      },
+      "artists": [
+        {
+          "name": "Mickey Darling",
+          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
+        }
+      ],
+      "duration_ms": 219452,
+      "name": "Reverse Cowgirl",
+      "url": "https://open.spotify.com/track/1aBouZtfICZ1PRNCtPcdVL"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Reverse Cowgirl",
-        "url": "https://open.spotify.com/album/4Bfck7ddk4kAhNLKkv711i"
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
       "artists": [
         {
-          "name": "Mickey Darling",
-          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 219452,
-      "name": "Reverse Cowgirl",
-      "url": "https://open.spotify.com/track/1aBouZtfICZ1PRNCtPcdVL"
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1699,22 +1715,6 @@
       "duration_ms": 174622,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2022-09-14 21:31:42",

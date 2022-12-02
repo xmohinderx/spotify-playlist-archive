@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,397 likes - 61 songs - 3 hr 29 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,393 likes - 61 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

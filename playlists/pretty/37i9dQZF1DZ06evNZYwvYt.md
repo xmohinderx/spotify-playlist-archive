@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,287 likes - 45 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,293 likes - 45 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 44 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 | 45 | [Solo el Sol \- Remix](https://open.spotify.com/track/3TBTVJRElT9eO7WXcj2HMN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Solo el Sol \(Remix\)](https://open.spotify.com/album/14fNTy68j4YcrIjk2aV6RN) | 6:18 |
 
-Snapshot ID: `Mjc4MzAzOTcsMDAwMDAwMDBjMzI5N2NiOGU5ZDU1NTU3N2U5ZDk4MjA3YmE0MTY1MA==`
+Snapshot ID: `Mjc4MzE4ODAsMDAwMDAwMDBhNGVmZGZmZWYxNzI2ZTk5NWRlMGEyMTA5YmU4OTBiZg==`

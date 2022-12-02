@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Nej'
+> Le R&B français, nouvelle ère\. Photo : Lynda
 
-39 songs - 1 hr 57 min - not published yet
+41 songs - 2 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Dans ma tête](https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [Dans ma tête](https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW) | 2:44 | 2022-11-24 |  |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-24 |  |
 | [Encré](https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv) | 3:30 | 2022-11-24 |  |
-| [FAIS COMME SI](https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:01 | 2022-11-24 |  |
+| [FAIS COMME SI](https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:01 | 2022-11-24 | 2022-12-02 |
 | [Fini d'espérer](https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Fini d'espérer](https://open.spotify.com/album/1wjf1dJlUK9bun5IopzmyK) | 3:28 | 2022-11-24 |  |
 | [Ginger](https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Ginger](https://open.spotify.com/album/28wcW4kLHOwwRuiszCcNia) | 2:44 | 2022-11-24 |  |
 | [J'élimine](https://open.spotify.com/track/1U13A13YafzmqthKXiul91) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [J'élimine](https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo) | 2:17 | 2022-11-24 |  |
@@ -36,12 +36,14 @@
 | [Pardon](https://open.spotify.com/track/2Fq5X3Mk5wBXm0Ba6HLhRC) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Pardon](https://open.spotify.com/album/2lg8wdL4nCUipxVf6Rr0l4) | 2:47 | 2022-11-24 |  |
 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-11-24 |  |
 | [Pervers narcissique](https://open.spotify.com/track/4lwX9GAOcRsCl3WXyLO5vs) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Pervers narcissique](https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B) | 4:17 | 2022-11-24 |  |
+| [Pic au cœur](https://open.spotify.com/track/5gCEpTSrkOsJvPynrPnCtf) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Pic au cœur](https://open.spotify.com/album/6rf3Yn6OEpZroovlI5t6uu) | 2:40 | 2022-12-01 |  |
 | [Piqué](https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Piqué](https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG) | 2:36 | 2022-11-24 |  |
 | [Plan séquence](https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Plan séquence](https://open.spotify.com/album/7I8s09xLqtaNMjN3RGTX8q) | 2:49 | 2022-11-24 |  |
 | [Pourquoi pas](https://open.spotify.com/track/1X0N8oqu5d6K7gTxdPwIBO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 3:21 | 2022-11-24 |  |
 | [Préface \- Nouveau Départ](https://open.spotify.com/track/6Fj78TJ1CqYW0vYuIzs0Mt) | [Melina Sdk](https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn) | [Préface \(Nouveau Départ\)](https://open.spotify.com/album/3XiFwgz2J4PWogjndNT3f3) | 2:21 | 2022-11-24 |  |
 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 | 2022-11-24 |  |
 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 | 2022-11-24 |  |
+| [TE AMO \(en duo avec Tayc\)](https://open.spotify.com/track/3ofDyMOUeUqotT8C2ZmScK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [LDVM SYMPHONY](https://open.spotify.com/album/3azKfgAZRJXGiqQNFz1jfd) | 3:17 | 2022-12-01 |  |
 | [Tomber](https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Tomber](https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X) | 2:37 | 2022-11-24 |  |
 | [Trop tard](https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Trop tard](https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH) | 3:48 | 2022-11-24 |  |
 | [Un bout de nous](https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [L'amour change le monde](https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9) | 3:18 | 2022-11-24 |  |

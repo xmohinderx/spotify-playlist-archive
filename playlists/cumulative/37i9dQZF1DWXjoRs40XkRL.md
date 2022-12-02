@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-118 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+119 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-05-17 |  |
 | [Raga Hamsdhwani](https://open.spotify.com/track/7jtMQFKfAq1C9qPHJzMgfz) | [Utsav Lal](https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd) | [Piano Moods of Indian Ragas](https://open.spotify.com/album/6H4RCbPplqiFEDKrhKtcFL) | 13:01 | 2022-05-17 | 2022-07-29 |
 | [Raga Hamsdhwani](https://open.spotify.com/track/1H7V3AzrqHvO5wnP4AcUw1) | [Utsav Lal](https://open.spotify.com/artist/4Pcg6hzSg5EesPpNIbyYKd) | [Piano Moods of Indian Ragas](https://open.spotify.com/album/0w5TiC3gMe2m69oUsMskrC) | 13:01 | 2022-07-12 |  |
+| [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 |  |
 | [Rasiya](https://open.spotify.com/track/3HFJPw9sU2Ks2290Rlt3tU) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [World Music By Indian Maestros](https://open.spotify.com/album/4PBgCpCGwiiLE8xZrOdXH2) | 5:38 | 2022-05-17 | 2022-07-29 |
 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 | 2022-07-12 |  |
 | [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 |  |

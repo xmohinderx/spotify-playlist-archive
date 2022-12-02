@@ -1,12 +1,12 @@
 {
   "description": "Quiet mornings, wake up early and take a moment with nature for a positive start of your day.",
-  "num_followers": 151,
+  "num_followers": 155,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMGFiZThlMWJjNDI1Y2I4NTdjMTYyMTNkMWRlZDQyMGU1",
+  "snapshot_id": "MTY2Njk1Nzg2MCwwMDAwMDAwMDNjOWE5ZDE2OWFmYTdmYzczNTE3YjE3OTlhYTE5MDE3",
   "tracks": [
     {
       "added_at": "2022-10-28 11:51:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Song Birds",
-        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
-      },
-      "artists": [
-        {
-          "name": "Zen Master",
-          "url": "https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup"
-        }
-      ],
-      "duration_ms": 94874,
-      "name": "Birds & The Bees",
-      "url": "https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Spring Birds",
         "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 158267,
       "name": "Forest Birds HD",
       "url": "https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Song Birds",
+        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
+      },
+      "artists": [
+        {
+          "name": "Zen Master",
+          "url": "https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup"
+        }
+      ],
+      "duration_ms": 94874,
+      "name": "Birds & The Bees",
+      "url": "https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9"
     },
     {
       "added_at": "2022-10-28 11:51:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-28 11:51:00",
       "album": {
-        "name": "Timber Slumber",
-        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
-      },
-      "artists": [
-        {
-          "name": "The Sleepy Forest",
-          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Raindrops In The Forest - Seamless",
-      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
-    },
-    {
-      "added_at": "2022-10-28 11:51:00",
-      "album": {
         "name": "Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains",
         "url": "https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 250000,
       "name": "A Chit-Chat With Nature",
       "url": "https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY"
+    },
+    {
+      "added_at": "2022-10-28 11:51:00",
+      "album": {
+        "name": "Timber Slumber",
+        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+      },
+      "artists": [
+        {
+          "name": "The Sleepy Forest",
+          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Raindrops In The Forest - Seamless",
+      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
     },
     {
       "added_at": "2022-10-28 11:51:00",

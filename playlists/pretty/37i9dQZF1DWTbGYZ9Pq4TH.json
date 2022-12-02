@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 159301,
+  "num_followers": 159324,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDQ5MjAwZTU1MTgyYjFmOTljYjEwMDI0OWNhNjM5OTlh",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGM4NDVkZjU4Y2U1MDA3YmZmMTEzNjUyYzA4Y2UyZWVl",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Rimmel",
-        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "Rimmel",
-      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 264240,
       "name": "A Te",
       "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Rimmel",
+        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Rimmel",
+      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
     },
     {
       "added_at": "2021-09-26 18:38:53",

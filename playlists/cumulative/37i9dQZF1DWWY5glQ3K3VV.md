@@ -2,7 +2,7 @@
 
 ### [Club Rap ](https://open.spotify.com/playlist/37i9dQZF1DWWY5glQ3K3VV)
 
-> Canzoni rap per party fino al mattino! Cover: Rhove
+> Canzoni rap per party fino al mattino! Cover: Paky
 
 139 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5o7py36Yd4VocyDEPVW5BA)
 

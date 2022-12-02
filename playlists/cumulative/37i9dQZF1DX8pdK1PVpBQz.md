@@ -2,7 +2,7 @@
 
 ### [Fresh Finds AU & NZ: Best of 2022](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The top tracks from Fresh Finds AU & NZ this year\. Cover: RONA\. Artwork: Isu Kim
+> The top tracks from Fresh Finds AU & NZ this year\. Cover: RONA.
 
 1,493 songs - 3 day 10 hr 52 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
@@ -809,7 +809,7 @@
 | [Me & You](https://open.spotify.com/track/4rMegGKoZR9VaR0dxhr6Z4) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Me & You](https://open.spotify.com/album/0JYUq6zTN5QIExsARJ11xC) | 2:10 | 2022-10-04 | 2022-11-17 |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-10 | 2022-09-09 |
 | [measured in heartbeats](https://open.spotify.com/track/151unVAscYOFcbwYgs266N) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [measured in heartbeats](https://open.spotify.com/album/5ewjDH1ynwlBXft4lLFHWR) | 3:08 | 2022-11-23 | 2022-12-01 |
-| [Medicate Me](https://open.spotify.com/track/1d88UDqLKGh3QrReQ6x98O) | [DULCIE](https://open.spotify.com/artist/6hkXqvu5fT8qnUkjBJRQbF) | [Medicate Me](https://open.spotify.com/album/6km7ksCBUx4sFioGwjksS3) | 3:23 | 2022-03-01 |  |
+| [Medicate Me](https://open.spotify.com/track/1d88UDqLKGh3QrReQ6x98O) | [DULCIE](https://open.spotify.com/artist/6hkXqvu5fT8qnUkjBJRQbF) | [Medicate Me](https://open.spotify.com/album/6km7ksCBUx4sFioGwjksS3) | 3:23 | 2022-03-01 | 2022-12-02 |
 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 | 2022-08-16 | 2022-09-15 |
 | [medicine](https://open.spotify.com/track/4mPIKsieGWoURJWpj2zp3K) | [MUNGMUNG](https://open.spotify.com/artist/1WFXknBooWyCTpQuVhhCfd) | [medicine](https://open.spotify.com/album/7xVKCAZM4pR412hdAwJiab) | 3:41 | 2022-08-31 | 2022-09-29 |
 | [Megaflora](https://open.spotify.com/track/6ExwpOsI32YHkcfq5GR496) | [Patamon](https://open.spotify.com/artist/1V7GOZ6p8rizYheT601KtB) | [Megaflora](https://open.spotify.com/album/3RF6condfFNrtN5z2dXIkc) | 3:48 | 2022-02-02 | 2022-02-24 |
@@ -1437,7 +1437,7 @@
 | [WGMI \- We Gon Make It](https://open.spotify.com/track/7L9zs56paHAeCk7WxJ0AdU) | [Bandi](https://open.spotify.com/artist/6zhUd92ObNsir4qCjf85Jj), [Jupiter Project](https://open.spotify.com/artist/1wH5LoIgKQmq8VhaoP8FZO) | [WGMI \(We Gon Make It\)](https://open.spotify.com/album/7FtbILmGN8iy0zLze2oD67) | 3:03 | 2022-09-07 | 2022-09-29 |
 | [Whakapapa](https://open.spotify.com/track/2pAr9PyET0DHeLRlzRmku3) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Whakapapa](https://open.spotify.com/album/3L10Ng0ob4zuPIigHsAmzF) | 3:12 | 2022-06-01 | 2022-06-23 |
 | [What Goes Up](https://open.spotify.com/track/1TqV1m7XN6Y5jhwoZC6GKM) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [What Goes Up](https://open.spotify.com/album/10fasakCr3IthnqzFqmVqo) | 3:48 | 2022-03-01 | 2022-03-08 |
-| [What I Don't Know](https://open.spotify.com/track/24aBIKtbaWNolS439Fr66P) | [Lee Sugar](https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ) | [What I Don't Know](https://open.spotify.com/album/13JjycR07JZcVs22tvIObG) | 2:40 | 2022-06-01 | 2022-06-23 |
+| [What I Don't Know](https://open.spotify.com/track/24aBIKtbaWNolS439Fr66P) | [Lee Sugar](https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ) | [What I Don't Know](https://open.spotify.com/album/13JjycR07JZcVs22tvIObG) | 2:40 | 2022-06-01 |  |
 | [What The Hell Is Wrong With Me](https://open.spotify.com/track/3o7nSxUIVKYHZfVwJY54Fe) | [Baby Velvet](https://open.spotify.com/artist/77Ddh5UnAgDIfixnYjwOnI) | [What The Hell Is Wrong With Me](https://open.spotify.com/album/5UrfViNlhZfYAUsNbrDMt6) | 2:53 | 2022-04-13 | 2022-05-05 |
 | [What They Say](https://open.spotify.com/track/378QOKpGBbvh8nhFWfQ5pS) | [Ian Buller](https://open.spotify.com/artist/5mV5RdUE0DQw0z9pJcrKBS) | [What They Say](https://open.spotify.com/album/7q5DmM8ohWhr2Vy0XAk92S) | 2:38 | 2022-07-19 | 2022-08-25 |
 | [what's stopping u?](https://open.spotify.com/track/6ybAbKJ7Kl69A1dXqyGvXq) | [yung taj](https://open.spotify.com/artist/6OArouH9VE03TBrqTVCDBL) | [what's stopping u?](https://open.spotify.com/album/0OLzSRY5LlZ6ZLCAgKNpHL) | 2:20 | 2022-06-29 | 2022-07-20 |

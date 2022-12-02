@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-446 songs - 1 day 11 hr 45 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+447 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A Change of a Cityscape](https://open.spotify.com/track/2bQAefezv7y3MI6YumnjMc) | [Motoro Faam](https://open.spotify.com/artist/56TgrV3HK0Dt21DsSTMd92) | [Fragments](https://open.spotify.com/album/3j4kFmNhEp4kNZdltepUbT) | 7:56 | 2022-03-31 | 2022-07-02 |
 | [a few walks](https://open.spotify.com/track/3E5fgDgI17xqZzP1GNGxym) | [Ryoichi Kurokawa](https://open.spotify.com/artist/6ZWwBZl0boEJ7SOZFOlZNv) | [copynature](https://open.spotify.com/album/02WVXDLRKCh4gvuWRn8XyI) | 6:39 | 2022-03-31 | 2022-04-21 |
 | [a guide](https://open.spotify.com/track/6wS9O7pM9gtigUXLHzk242) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [after after hours](https://open.spotify.com/album/6srXbTqiImAu5zPZqbMcy6) | 2:43 | 2022-03-31 | 2022-07-13 |
-| [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 |  |
+| [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 |  |
 | [After Dark](https://open.spotify.com/track/3cSsJEy5tiGkJRpMRfPUO8) | [石井悠輝](https://open.spotify.com/artist/3WrQKuYGn08URJ35spu8vJ) | [REFLECTION](https://open.spotify.com/album/6pOjcCujDiE0DvR9aIk3LK) | 1:45 | 2022-03-31 | 2022-05-11 |
 | [AFTER IMAGE](https://open.spotify.com/track/1Jxb8fKZJrobr8T2NCBNlY) | [Masayuki Sakamoto](https://open.spotify.com/artist/3KkI7GpwZIcwRAXOEzP9Pr) | [プシュケ](https://open.spotify.com/album/0olvnM41x2P7CJJ4cvwyFQ) | 3:28 | 2022-04-07 | 2022-06-24 |
 | [Afterglow](https://open.spotify.com/track/7CZqWibNsryIJ3xa4dotBc) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Mirrors in Mirrors](https://open.spotify.com/album/3l3KPWoLYTeX9jYWTFDx4C) | 4:05 | 2022-04-07 | 2022-07-26 |
@@ -195,7 +195,7 @@
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
 | [koke](https://open.spotify.com/track/2dTFv9svbl63wUuuFcIE6e) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/5t2mle95HjGO6NVPqXn6wD) | 3:47 | 2022-03-31 | 2022-06-04 |
-| [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 | 2022-03-31 |  |
+| [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 | 2022-03-31 | 2022-12-02 |
 | [konpeito](https://open.spotify.com/track/16kYco2zMu85zQQEOa4sn7) | [UYUNI](https://open.spotify.com/artist/456fQGAt00AiCfXhNdZVU2) | [Ecosystem](https://open.spotify.com/album/2qSWvmGxWRCs3fdlyuBH0Q) | 5:14 | 2022-03-31 | 2022-07-29 |
 | [Kyoto](https://open.spotify.com/track/1oNJN6FR9eQhDffdb8sUQN) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [19871990](https://open.spotify.com/album/0kLUxZ36sIIbDk5agwaUOv) | 5:30 | 2022-04-07 | 2022-05-26 |
 | [Lactoc Fuck \- Isan Remix](https://open.spotify.com/track/6ACwHSACfdqj1JqV8YONRg) | [.tape.](https://open.spotify.com/artist/1iuxGT5PTiH3VpgZ3Lh0Wk) | [Repainted](https://open.spotify.com/album/43ubCjI2XoymlQBK3JZj8N) | 4:09 | 2022-03-31 | 2022-04-05 |
@@ -337,6 +337,7 @@
 | [Solarium](https://open.spotify.com/track/217whXH6oP07asAmFj2YV9) | [Mimicof](https://open.spotify.com/artist/6QdABScSRzyWQv2eD1Pee4) | [Koto Lyra](https://open.spotify.com/album/1M5td7EALTL3XLlaR3weJ1) | 3:08 | 2022-03-31 | 2022-04-13 |
 | [Somnia](https://open.spotify.com/track/7HpY6YxMGS5yw1UX16j2bF) | [kentaro nagata](https://open.spotify.com/artist/4OlkaBqYH5ucIfgoLNeOH9) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 3:26 | 2022-03-31 | 2022-04-14 |
 | [Soukyu](https://open.spotify.com/track/0G8dAvU0e2lKQnWFwOcqFx) | [ヨダタケシ](https://open.spotify.com/artist/6CtzbmA2wU6g83a5Kxyz96), [片山 千穂](https://open.spotify.com/artist/7M91rqZA3rL3s0RKriJQzB) | [KOKORO](https://open.spotify.com/album/5u0RY0JrVc9bnIjIMOAlWz) | 7:35 | 2022-04-16 | 2022-07-28 |
+| [Spatial](https://open.spotify.com/track/57aA35Sk8bvernl1JBGfdr) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Spatial](https://open.spotify.com/album/2s0jmqbAKEjzgnh6ayWfl3) | 3:55 | 2022-12-01 |  |
 | [Spica](https://open.spotify.com/track/2fbzsO9a3JHa9AWCoWTtg3) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:48 | 2022-04-07 | 2022-07-29 |
 | [Sprout](https://open.spotify.com/track/11CPzSMHxF8ZaYlqJlplgo) | [ghost and tape](https://open.spotify.com/artist/1TgZeHP8iks6YBGWdsS5Zp) | [Vár](https://open.spotify.com/album/6paB8AlF9N6vTYqDzbJMm0) | 3:39 | 2022-03-31 | 2022-04-17 |
 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 | 2022-03-31 |  |

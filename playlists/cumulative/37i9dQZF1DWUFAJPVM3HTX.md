@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds R&B in 2022\. Cover: Dylan Sinclair, Destin Conrad, and Jvck James
 
-904 songs - 1 day 23 hr 5 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+905 songs - 1 day 23 hr 9 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Close](https://open.spotify.com/track/0yZHUoUHEncBbgiKKtON7r) | [Tangina Stone](https://open.spotify.com/artist/4bfY46yOsnTqkW6FOzKSUZ) | [Close](https://open.spotify.com/album/2ii2KSlAiB49KiZf351WeF) | 2:22 | 2022-08-19 | 2022-09-29 |
 | [Close 2 U](https://open.spotify.com/track/57dETS2BAZptpeGeg4BKec) | [Savannah Dumetz](https://open.spotify.com/artist/4xFhyLd7xLpZ35Pz566Mow) | [Close 2 U](https://open.spotify.com/album/6Yu0kJjZpQumbNfiWr58Ze) | 3:00 | 2022-09-02 | 2022-10-06 |
 | [Closure](https://open.spotify.com/track/1V24cd8U157jM3w0vQLyt6) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Closure](https://open.spotify.com/album/2kuVd6ndzF4AmBwhk6wbqO) | 2:54 | 2022-11-18 | 2022-12-01 |
+| [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/1fAgrabzFmIZLe9sOiVaC2) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 3:30 | 2022-12-01 |  |
 | [Club 27](https://open.spotify.com/track/6vhqye53CP4Wa9Zl3spqNT) | [Nuhel](https://open.spotify.com/artist/5M3dhDHrzPIrx204hzL6WH) | [Paradise City](https://open.spotify.com/album/6gKz2zGbai5l2171Lr20bc) | 6:10 | 2022-02-02 | 2022-03-12 |
 | [Codependency](https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf) | [David Saint Val](https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J) | [Codependency](https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB) | 3:20 | 2022-02-23 | 2022-03-24 |
 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 | 2022-05-26 |  |

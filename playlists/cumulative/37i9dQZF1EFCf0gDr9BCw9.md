@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
+149 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/1UyIYAFlZaVwKHGX6GAsd7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 | 2022-09-08 |  |
 | [Flame Indigo](https://open.spotify.com/track/6CeZy1DpklSJtAiDLJDRUs) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:34 | 2022-09-08 |  |
 | [Fol\-de\-Rol\-Rol](https://open.spotify.com/track/6tlP53If003USpWDe0yy2d) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 2:35 | 2022-09-08 |  |
+| [Girls](https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 2:40 | 2022-12-01 |  |
 | [Grievin' \(with Duke Ellington & His Orchestra\)](https://open.spotify.com/track/6oICuyOFyRIPTrEJH9Aim9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blue Rose \(with Duke Ellington & His Orchestra\)](https://open.spotify.com/album/5DBIhsPokIR45YuxdzQ7Kn) | 4:09 | 2022-09-08 |  |
 | [Half the Fun \(aka Lately\)](https://open.spotify.com/track/08TpH1FwIzbmEkR720Duye) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:16 | 2022-09-08 |  |
 | [Hear Say \(O\. W\. Hearsay\)](https://open.spotify.com/track/5HD5H3atbtdQITgejlPRCr) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 4:58 | 2022-09-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 43338,
+  "num_followers": 43344,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDRiYzk0NDE3YzRhNWIzNGEzNzdmNDFiYjg5MmUzNzEz",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGIxZWNlZGEwYTNlZmExOGVhYWZhYWEyMzY0N2M5NGM0",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
-      },
-      "artists": [
-        {
-          "name": "Francisco T\u00e1rrega",
-          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
-        }
-      ],
-      "duration_ms": 108053,
-      "name": "Adelita",
-      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Cucchi, Flavio: American Portraits",
         "url": "https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 134893,
       "name": "7 Spanish songs (7 Canciones Sefaradies): No. 3. En la mar ay una torre",
       "url": "https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "duration_ms": 108053,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ponte Vecchio",
-        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
+        "name": "Luminosity",
+        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
       },
       "artists": [
         {
-          "name": "Indigo Mazati",
-          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
         }
       ],
-      "duration_ms": 148716,
-      "name": "Ponte Veccio",
-      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
+      "duration_ms": 332400,
+      "name": "Train to Rishikesh",
+      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Luminosity",
-        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
+        "name": "Ponte Vecchio",
+        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
       },
       "artists": [
         {
-          "name": "Govi",
-          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+          "name": "Indigo Mazati",
+          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
         }
       ],
-      "duration_ms": 332400,
-      "name": "Train to Rishikesh",
-      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
+      "duration_ms": 148716,
+      "name": "Ponte Veccio",
+      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Goia\u0302nia",
-        "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
+        "name": "Re-Foc",
+        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
       },
       "artists": [
         {
-          "name": "Joana Ema",
-          "url": "https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u"
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Goia\u0302nia",
-      "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
+      "duration_ms": 254933,
+      "name": "30 De Marzo",
+      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Re-Foc",
-        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
+        "name": "Goia\u0302nia",
+        "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
       },
       "artists": [
         {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+          "name": "Joana Ema",
+          "url": "https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u"
         }
       ],
-      "duration_ms": 254933,
-      "name": "30 De Marzo",
-      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
+      "duration_ms": 172500,
+      "name": "Goia\u0302nia",
+      "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
-        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
-      },
-      "artists": [
-        {
-          "name": "Paco Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Repiqueteos Flamencos (Zapateado)",
-      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Recital Flamenco. 12 de Sus Toques Originales",
         "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 279293,
       "name": "El Ca\u00f1averal - Guajira",
       "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
+        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
+      },
+      "artists": [
+        {
+          "name": "Paco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Repiqueteos Flamencos (Zapateado)",
+      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Just Feeling Great",
-        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
+        "name": "Only In Paris",
+        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
       },
       "artists": [
         {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
         }
       ],
-      "duration_ms": 121814,
-      "name": "Just Feeling Great",
-      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
+      "duration_ms": 178000,
+      "name": "Bossanova in My Heart",
+      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Only In Paris",
-        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
+        "name": "Just Feeling Great",
+        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
       },
       "artists": [
         {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Bossanova in My Heart",
-      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
+      "duration_ms": 121814,
+      "name": "Just Feeling Great",
+      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
-      },
-      "artists": [
-        {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
-        }
-      ],
-      "duration_ms": 109505,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "The Beatles for Classical Guitar",
         "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 165626,
       "name": "Girl",
       "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 109505,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
-        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
-      },
-      "artists": [
-        {
-          "name": "Panagiotis Margaris",
-          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Tango en Skai - Instrumental",
-      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Spanish Guitar EP",
         "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 132446,
       "name": "Adelita Mazurka",
       "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
+        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
+      },
+      "artists": [
+        {
+          "name": "Panagiotis Margaris",
+          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Tango en Skai - Instrumental",
+      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Colours of Greece / Instrumentals of Greek Music",
-        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
-      },
-      "artists": [
-        {
-          "name": "Yiorgos Zabetas",
-          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
-        }
-      ],
-      "duration_ms": 160560,
-      "name": "Tavernas' Hasapikos - Instrumental",
-      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 178515,
       "name": "Tango",
       "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Colours of Greece / Instrumentals of Greek Music",
+        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
+      },
+      "artists": [
+        {
+          "name": "Yiorgos Zabetas",
+          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Tavernas' Hasapikos - Instrumental",
+      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
     },
     {
       "added_at": "2022-10-27 22:01:00",

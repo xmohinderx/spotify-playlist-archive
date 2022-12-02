@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: ジェニーハイ \(genie high\)
 
-694 songs - 1 day 20 hr 32 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+696 songs - 1 day 20 hr 41 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [cruising memories](https://open.spotify.com/track/3X6Kg15H1B6tiz0WYt0XmG) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [cruising memories](https://open.spotify.com/album/3Tkmbdj09MTaSBJTv2qqJA) | 4:36 | 2022-06-07 | 2022-07-19 |
 | [Crybaby](https://open.spotify.com/track/3oWGtFaGDoixE3JVmUjhMB) | [さとうもかとDENIMS](https://open.spotify.com/artist/7toM2gDRoemt5UYdZi4yEm), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg), [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [Crybaby](https://open.spotify.com/album/2gFbOHCgQGwkx3nS4wAbmR) | 3:12 | 2022-06-02 | 2022-07-18 |
 | [dawn](https://open.spotify.com/track/08VicdA5GcOHHrizr77pA5) | [IN THE POOL](https://open.spotify.com/artist/10DhiyiwQ9FcZxmPO1vESW) | [S.O.O.M](https://open.spotify.com/album/7xceq6o7W4p8MN7xUgDbkY) | 5:34 | 2022-06-14 | 2022-06-22 |
+| [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-02 |  |
 | [debbie](https://open.spotify.com/track/1L3KhykfkDwn8e0thZQCl1) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [debbie](https://open.spotify.com/album/3hbyV1y0FBu458IiNEu7o8) | 3:44 | 2022-05-31 | 2022-07-28 |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-10-20 |  |
 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 | 2022-06-07 | 2022-06-12 |
@@ -399,6 +400,7 @@
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-07-28 | 2022-08-17 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-05-26 | 2022-07-29 |
 | [グッバイ来世でまた会おう](https://open.spotify.com/track/3tMAlCQkzdZaLY13drupYE) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [グッバイ来世でまた会おう](https://open.spotify.com/album/7awpbwywwAClGnc8pMrCPf) | 4:01 | 2022-05-26 | 2022-07-29 |
+| [クリスマスのよる](https://open.spotify.com/track/7EZhW28rCBdk7PEc39LaTA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [クリスマスのよる](https://open.spotify.com/album/77XMycZ6Xdok8wMQT31hqp) | 4:30 | 2022-12-02 |  |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2022-05-31 |  |
 | [グッドナイトベイベー](https://open.spotify.com/track/5sYJnoEO3q43mlAX7huztD) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ポップコーン](https://open.spotify.com/album/0L48DwxY1akUCwSnJnDNbQ) | 3:30 | 2022-05-26 | 2022-07-29 |
@@ -437,7 +439,7 @@
 | [トランスファー](https://open.spotify.com/track/3Yv2jXpOPgZdZPgnOVK0oI) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [いつかの海](https://open.spotify.com/album/2hWKbb8Vy5CUzu1IzvgRrZ) | 4:08 | 2022-06-07 | 2022-06-15 |
 | [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2022-07-25 |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
-| [ナリ](https://open.spotify.com/track/2iYVaNmdk2ILYqQMhFG6VH) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [ナリ](https://open.spotify.com/album/3Hz8WKenuIV2aXz1AFCaES) | 3:57 | 2022-11-24 |  |
+| [ナリ](https://open.spotify.com/track/2iYVaNmdk2ILYqQMhFG6VH) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [ナリ](https://open.spotify.com/album/3Hz8WKenuIV2aXz1AFCaES) | 3:57 | 2022-11-24 | 2022-12-02 |
 | [ニャロメ!](https://open.spotify.com/track/2BcDomfKRKB7ykMMLTiSlw) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [ニャロメ!](https://open.spotify.com/album/05WpStScuVguyaSn4AGHhn) | 5:08 | 2022-06-16 | 2022-07-21 |
 | [ニンゲンムシ \- \~One Night STAND Live\~](https://open.spotify.com/track/3zrnGTSfg1li3vRKHJP6Ku) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/album/60fCG4LsMmddJlnc5lUxWw) | 4:16 | 2022-05-31 | 2022-06-01 |
 | [ノクターン](https://open.spotify.com/track/5WVKs7xTk9bAhph3icORUG) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [ノクターン](https://open.spotify.com/album/3pukBpEtXCbtYQR5OkjtDH) | 4:15 | 2022-09-27 | 2022-09-29 |
@@ -659,7 +661,7 @@
 | [花々](https://open.spotify.com/track/7DBUFvfmZY7D1ZYJUEWaq7) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [花々](https://open.spotify.com/album/6LM4knFXG12tbLqyfE6seU) | 3:09 | 2022-10-13 | 2022-10-19 |
 | [花咲く君の滑走路](https://open.spotify.com/track/4yEyxgbDM0S3J55ECcUXEz) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [花咲く君の滑走路](https://open.spotify.com/album/2Welq5m1RXmGjJNe6w47Lo) | 3:11 | 2022-05-31 | 2022-07-29 |
 | [花言葉](https://open.spotify.com/track/3RpmK5KfoRlbw2KkMUTHUx) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Osm](https://open.spotify.com/album/73exMw87vtPTO22xplpK31) | 4:54 | 2022-11-17 | 2022-11-19 |
-| [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 | 2022-06-16 |  |
+| [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 | 2022-06-16 | 2022-12-02 |
 | [蜃気楼](https://open.spotify.com/track/6CLXb5vecXnX64ZjXVFFgC) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:38 | 2022-06-23 | 2022-06-27 |
 | [蜃気楼](https://open.spotify.com/track/64mQXhe60mj1CtlLv5gJZU) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [蜃気楼](https://open.spotify.com/album/4LuWkiqBLxnCIFupdgJ7lZ) | 4:38 | 2022-06-02 | 2022-06-08 |
 | [蟻とリンゴスター](https://open.spotify.com/track/6IeXMHqRjlfAtrAboFrOSW) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [KOURO](https://open.spotify.com/album/5ST87BH4YQhksbzh5Xx62A) | 4:58 | 2022-10-18 | 2022-11-02 |

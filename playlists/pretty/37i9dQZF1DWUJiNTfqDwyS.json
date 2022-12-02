@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 201572,
+  "num_followers": 201879,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDA2YmE5MDE2ZThjZDYxY2E5YzFjMTFiZmM5YTE5MGUw",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGE2NWIwMTk0YmZhYzc1YjRhMTExNDBiZDRlOTViZThj",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Chop Suey!",
-        "url": "https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 218187,
-      "name": "Chop Suey!",
-      "url": "https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Lovecraft & Witch Hearts",
         "url": "https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 430733,
       "name": "Hallowed Be Thy Name",
       "url": "https://open.spotify.com/track/0mJUxFpEI1eAOIIfnNoZ4G"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Chop Suey!",
+        "url": "https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 218187,
+      "name": "Chop Suey!",
+      "url": "https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Born Dead",
-        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Lovely (feat. Charlotte Buchholz)",
         "url": "https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 238043,
       "name": "Lovely (feat. Charlotte Buchholz)",
       "url": "https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Born Dead",
+        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Extreme Power Metal",
-        "url": "https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "My Heart Will Go On",
-      "url": "https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Human (Deluxe Version)",
         "url": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 240693,
       "name": "God of Thunder",
       "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Extreme Power Metal",
+        "url": "https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Hunting High and Low",
-      "url": "https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 168000,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Hunting High and Low",
+      "url": "https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Symphony of Destruction - cover version",
-      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Cover Me in Darkness",
         "url": "https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 218051,
       "name": "My Own Summer - Shove It",
       "url": "https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Symphony of Destruction - cover version",
+      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
     },
     {
       "added_at": "2022-11-25 05:00:00",

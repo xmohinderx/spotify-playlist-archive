@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie\. Cover: Selene
+> Fresh Latin Indie\. Cover: Yorghaki
 
-189 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
+191 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/7MnJ2IoUwoMwkesw4ELHCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 | 2022-05-06 |  |
 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 | 2021-11-18 | 2022-11-25 |
 | [Aeroplanos](https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Aeroplanos](https://open.spotify.com/album/2V5rVAdsjlL4fiwHzbQ1OG) | 3:59 | 2021-11-18 | 2022-11-25 |
+| [Alejémonos](https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Alejémonos](https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK) | 2:45 | 2022-12-02 |  |
 | [Algo Mejor](https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/0HYUyOcBGQhtdhC1woSkCt) | 2:33 | 2022-04-01 | 2022-11-25 |
 | [All That I Said](https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [All That I Said](https://open.spotify.com/album/62QiCnsViAGeHZo31aecbi) | 2:35 | 2022-01-10 | 2022-07-14 |
 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM) | 4:09 | 2022-01-10 | 2022-09-07 |
@@ -42,6 +43,7 @@
 | [Color my life](https://open.spotify.com/track/5W6PzzeG47CdCdPEKVtbv6) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT) | 3:28 | 2022-01-10 | 2022-08-12 |
 | [Common Places, Common Faces](https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Jardín Phantom](https://open.spotify.com/album/2Qs5WqjxU8zMBYKZ8PD6PH) | 2:51 | 2022-01-10 | 2022-07-25 |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-03 |  |
+| [CONTRA LA GRAVEDAD](https://open.spotify.com/track/5dwGYep3MF7lOpDvgQoj2q) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [QUIERO SENTIR \(ALGO MÁS\)](https://open.spotify.com/album/1wYpUy7QxpnvQiFhrx3pZY) | 3:02 | 2022-12-02 |  |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2022-11-24 |  |
 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 | 2021-11-18 | 2022-11-25 |
 | [Cul De Sac](https://open.spotify.com/track/0LPhD0LxOeR5O6LIwFrQqd) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Cul De Sac](https://open.spotify.com/album/5hp7RfGh9v2CvFdmTkZHaS) | 4:20 | 2022-01-10 | 2022-07-29 |
@@ -76,7 +78,7 @@
 | [Girasol](https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M) | [mi jardín](https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo) | [Girasol](https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI) | 2:14 | 2022-01-10 | 2022-07-29 |
 | [Gobiérname](https://open.spotify.com/track/6Nh3jUe0llv1BsbyGraH5T) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Gobiérname](https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08) | 3:31 | 2022-09-06 | 2022-10-28 |
 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 | 2021-11-18 | 2022-11-24 |
-| [Hace 10 Años](https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Hace 10 Años](https://open.spotify.com/album/71f277kinxputEU6wff8To) | 3:04 | 2022-10-27 |  |
+| [Hace 10 Años](https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Hace 10 Años](https://open.spotify.com/album/71f277kinxputEU6wff8To) | 3:04 | 2022-10-27 | 2022-12-02 |
 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 | 2021-11-18 | 2022-11-25 |
 | [happy in a haze / butterfly to ya](https://open.spotify.com/track/7F8dQNzJENUAysbOtKrKvl) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [happy in a haze / butterfly to ya](https://open.spotify.com/album/6SD7OOPSugwnXpSbwesrqm) | 3:20 | 2021-11-18 | 2022-07-26 |
 | [Hear Me Out](https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 2:17 | 2021-11-18 | 2022-11-25 |
@@ -130,7 +132,7 @@
 | [Obra de Arte](https://open.spotify.com/track/35Bd5CL2ZxmseJleM0mpiu) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Obra de Arte](https://open.spotify.com/album/5QxvKLDBwSqfaAIazJszfC) | 2:50 | 2021-11-18 | 2022-07-29 |
 | [Obra de Arte](https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 2:50 | 2022-06-29 | 2022-11-25 |
 | [Obra de Arte](https://open.spotify.com/track/5ntg6WcHvCEoIfWS1PpMtH) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Obra de Arte](https://open.spotify.com/album/5Gpr1tWltTqDMaVL367II0) | 2:50 | 2022-10-27 | 2022-11-14 |
-| [Obras](https://open.spotify.com/track/6f0HsVqhnyhIh4KqW6ew3K) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [Obras](https://open.spotify.com/album/4d0S9WvYAMv3cwuDOzgyCk) | 4:06 | 2022-10-27 |  |
+| [Obras](https://open.spotify.com/track/6f0HsVqhnyhIh4KqW6ew3K) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [Obras](https://open.spotify.com/album/4d0S9WvYAMv3cwuDOzgyCk) | 4:06 | 2022-10-27 | 2022-12-02 |
 | [Olvidarte](https://open.spotify.com/track/77t0JVEA0Y8jvdSk2m6rUr) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Olvidarte](https://open.spotify.com/album/5Kf3lNPZC50JcbEd8X6HWB) | 2:53 | 2022-09-06 |  |
 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 | 2021-11-18 | 2022-09-07 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-06 |  |

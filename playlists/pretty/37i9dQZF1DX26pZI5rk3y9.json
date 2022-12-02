@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2907,
+  "num_followers": 2915,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDllMjI2NjhiOWNiNTU2N2Y2MGEyYjYwMTQ0NjQ3Mjdk",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDE0M2ZlNjViYzc4MTk2ZjBlYWM1OTdhNjU4NTlhMTVi",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 112600,
-      "name": "I Hear You Knocking - Remastered 2002",
-      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 289666,
       "name": "Shake 'Em on Down",
       "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 112600,
+      "name": "I Hear You Knocking - Remastered 2002",
+      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
+      },
+      "artists": [
+        {
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+        }
+      ],
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "No Border Blues",
         "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 228826,
       "name": "Old School Player",
       "url": "https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-09-12 16:38:21",

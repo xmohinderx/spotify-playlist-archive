@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-373 songs - 1 day 3 hr 32 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+375 songs - 1 day 3 hr 39 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Adolescente](https://open.spotify.com/track/7sqzTpiF6JbDIYTMW2enlp) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg) | 4:26 | 2021-02-02 | 2022-10-16 |
 | [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 |  |
 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 | 2021-02-02 | 2022-07-29 |
-| [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 | 2021-02-02 |  |
+| [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 | 2021-02-02 | 2022-12-02 |
 | [Amaneciendo](https://open.spotify.com/track/3mxl5Y9skPEFKdnQWYcmOF) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 4:14 | 2021-02-02 |  |
 | [Amaneciendo](https://open.spotify.com/track/766T4qLT0fBFmO10TE22nT) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC) | 4:14 | 2021-02-02 | 2022-07-29 |
 | [Amor Magico](https://open.spotify.com/track/2VtzepnoI82CSMoVkbopcu) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Siempre Yo](https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI) | 4:30 | 2021-02-02 | 2022-07-26 |
@@ -276,7 +276,8 @@
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/35ioxGCu3Yc07YhhQfDxQe) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Siempre Diva](https://open.spotify.com/album/33KbyTdwcz7jwntBp7svfb) | 4:31 | 2021-02-02 |  |
 | [Que Me Perdone Tu Señora](https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 3:46 | 2021-02-02 | 2022-07-23 |
 | [Que Me Perdone Tu Señora](https://open.spotify.com/track/7EBoHMUXkF7PAu00Mb9yYA) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Me Sacudí](https://open.spotify.com/album/1pCLocpQ9BB96RILLpm1Ol) | 3:46 | 2021-02-02 |  |
-| [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 | 2021-02-02 |  |
+| [Que Pasara](https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3) | 3:38 | 2021-02-02 |  |
+| [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 | 2021-02-02 | 2022-12-02 |
 | [Que? Aha!](https://open.spotify.com/track/7zFnaskZB4uWrfZijnZDFK) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:48 | 2021-02-02 |  |
 | [Quero Conocerte](https://open.spotify.com/track/64EvOShIj4iNaQa1Y2kCbo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:48 | 2021-02-02 | 2022-07-14 |
 | [Quien Te Riza El Pelo](https://open.spotify.com/track/2a1YsVTT73sMg64KEDBPxK) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6) | 4:44 | 2021-02-02 | 2022-07-29 |
@@ -327,6 +328,7 @@
 | [Te Compro Tu Novia](https://open.spotify.com/track/7cMljBL3dSigvVGa2JmIId) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Merengue Clásico ¡Éxitos Latino!](https://open.spotify.com/album/42WNLGoCL3r41cHAlqDezg) | 4:27 | 2021-02-02 | 2022-11-13 |
 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 | 2021-02-02 |  |
 | [Te He Prometido \- Original](https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:48 | 2021-02-02 | 2022-07-29 |
+| [Te He Prometido \- Original](https://open.spotify.com/track/65VoPaWq9lJiArZUkNqWgm) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/7cyn7fvmfnDPxIcxHbY320) | 3:49 | 2021-02-02 |  |
 | [Te Odio y Te Quiero](https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 3:26 | 2021-02-02 |  |
 | [Te Odio y Te Quiero](https://open.spotify.com/track/1a9bWvRtaqgErUasfIpjRZ) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0) | 3:26 | 2021-02-02 | 2022-10-14 |
 | [Te Odio Y Te Quiero](https://open.spotify.com/track/2D60ZzObQdMo8k2LuczG9n) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Rubby Pérez ¡Grandes Éxitos!](https://open.spotify.com/album/02xo53N4j4TQSrY2haxM7D) | 3:26 | 2021-02-02 | 2022-11-14 |

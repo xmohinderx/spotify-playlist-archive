@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 110312,
       "name": "Aclima\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5ul4MZmzojMYEB6N8BWVF0"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 167770,
       "name": "Air",
       "url": "https://open.spotify.com/track/2WPlQnqZ3VMkv09nme29W3"
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 149373,
       "name": "All Or Nothing - grasime Soul Treat",
       "url": "https://open.spotify.com/track/0PL9TapxAdG6QHsYENcWfE"
@@ -5879,7 +5879,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Rcj4TlzlxJllSm1GZkef4"
@@ -13345,7 +13345,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 104651,
       "name": "Demora",
       "url": "https://open.spotify.com/track/2j254ZZ7vyIkGYCTxwa7ic"
@@ -14167,7 +14167,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 104036,
       "name": "Don Lemon",
       "url": "https://open.spotify.com/track/521mFtWavZtZFz85CLoXx3"
@@ -21267,7 +21267,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 158079,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/2okugVOve4zNsK1a3ZkvWj"
@@ -24695,7 +24695,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 118620,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4aKZ2t4wiRgiNxXSaffotF"
@@ -31159,7 +31159,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 129000,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi"
@@ -31243,7 +31243,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 109629,
       "name": "Lilutu",
       "url": "https://open.spotify.com/track/2qHy5286NNXTEMmXWOQ9q5"
@@ -34275,7 +34275,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/70gNm5mJVotZ6byfbmlW8q"
@@ -37639,7 +37639,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 167647,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/57MOIpaL6Bo7dTYMTAUaHT"
@@ -38906,6 +38906,28 @@
     },
     {
       "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/6r2x8ldfvnsNSomYfa8lGb"
+      },
+      "artists": [
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        },
+        {
+          "name": "Mvdk",
+          "url": "https://open.spotify.com/artist/4o7tRo120tjPGqAVvh15uH"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/5MKqAfnnp1lKUwUK65lnf6"
+    },
+    {
+      "album": {
         "name": "nite vibes",
         "url": "https://open.spotify.com/album/63XmU1ulBRjV0bmdEWfAIZ"
       },
@@ -39189,7 +39211,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 147349,
       "name": "No Passenger",
       "url": "https://open.spotify.com/track/42kewiCM6QIdTn4I4rjCPv"
@@ -43759,7 +43781,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 101647,
       "name": "Present",
       "url": "https://open.spotify.com/track/0ICLmKVuRYleOtxyrp2fQ8"
@@ -47533,7 +47555,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 120343,
       "name": "Santa Anna",
       "url": "https://open.spotify.com/track/1fBdiUETHIpwfekJQON8d9"
@@ -54963,7 +54985,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 124675,
       "name": "sweetness",
       "url": "https://open.spotify.com/track/24PeR3edxl2ywKf1ooCtLx"
@@ -55817,7 +55839,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 118536,
       "name": "Tender Springs",
       "url": "https://open.spotify.com/track/2V3D4xFe5bUwogudJsZIEJ"

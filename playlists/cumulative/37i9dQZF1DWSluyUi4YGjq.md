@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-212 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+214 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Cannibal Capital](https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Famously Alive](https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw) | 4:24 | 2022-01-21 |  |
 | [Catch a Fade](https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 3:50 | 2021-10-19 |  |
 | [Cellophane](https://open.spotify.com/track/34jhEjnmO28mTdWRFjURHY) | [Resenter](https://open.spotify.com/artist/2QJWYsb6A0Ox3OILrbwrkk) | [Psalms](https://open.spotify.com/album/2GS3hWAY4sKNVtFExXIHd8) | 3:45 | 2022-09-29 | 2022-10-28 |
-| [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 | 2021-10-19 |  |
+| [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 | 2021-10-19 | 2022-12-02 |
 | [Chance](https://open.spotify.com/track/2ULRusDLaLR8Di9kAt3JC2) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [The Dream of a Modern Day](https://open.spotify.com/album/5EuUAHaqEzJ6IrBjbdYlGK) | 4:15 | 2021-10-19 | 2022-07-28 |
 | [Cherry\-Cola Abyss](https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 5:56 | 2021-10-19 |  |
 | [Chinatown](https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/2UoAYpQzSNLuW47goFJE5x) | 3:18 | 2021-10-19 | 2022-07-27 |
@@ -131,6 +131,7 @@
 | [Keen on Boys](https://open.spotify.com/track/3wZL6ZuuEqz3uJTcblXdLJ) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/2X1mLosmBKkM765LiX53W7) | 4:53 | 2021-10-19 | 2022-07-29 |
 | [Lazy Lovers](https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:57 | 2022-08-02 | 2022-11-14 |
 | [Leave](https://open.spotify.com/track/0BvpyzCi6f36IqdRHdA5Fp) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/74ym7Us7V06Eox5Wg5WqkD) | 4:13 | 2021-10-19 | 2022-12-01 |
+| [Leave](https://open.spotify.com/track/6yjtcpFf9dLgflkS52PYNa) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2) | 4:13 | 2021-10-19 |  |
 | [Lemonade Beauty](https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Auras](https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq) | 4:08 | 2021-10-19 |  |
 | [Life in Color](https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [You Can Never Have a Long Enough Head Start](https://open.spotify.com/album/3F9nzTMzXo2rOpyYn5YrY1) | 3:47 | 2021-10-19 | 2022-07-29 |
 | [Lime \- Elliott Frazier remix](https://open.spotify.com/track/28CohxX0xYGKWdKsHKvDaV) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [Elliott Frazier](https://open.spotify.com/artist/2h5Ha3Cr7HoTCp82TQdUDO) | [Lime](https://open.spotify.com/album/6jRYJfOVHjixKyxZC7ZRSC) | 3:39 | 2022-08-31 | 2022-09-29 |
@@ -141,9 +142,10 @@
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 | 2022-04-12 |  |
 | [Mind the Wires](https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot) | [Tears Run Rings](https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ) | [Always, Sometimes, Seldom, Never](https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV) | 4:53 | 2021-10-19 |  |
-| [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 | 2022-09-29 |  |
+| [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 | 2022-09-29 | 2022-12-02 |
 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 | 2021-10-19 |  |
 | [Mumble](https://open.spotify.com/track/2N2vs5kpPy5Lcqnn8PYYdy) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 2:34 | 2021-10-19 | 2022-12-01 |
+| [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 | 2021-10-19 |  |
 | [Night Drive](https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Day By Day](https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n) | 4:57 | 2021-10-19 |  |
 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 | 2022-08-25 | 2022-11-07 |
 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 | 2021-10-19 |  |

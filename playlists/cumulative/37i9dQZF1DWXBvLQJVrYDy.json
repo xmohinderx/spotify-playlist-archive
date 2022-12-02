@@ -1256,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "My Heart Stood Still",
+        "url": "https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj"
+      },
+      "artists": [
+        {
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "My Heart Stood Still",
+      "url": "https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF"
+    },
+    {
+      "album": {
         "name": "My Little Brown Book",
         "url": "https://open.spotify.com/album/1anaHcKFfGvPfqhfaAEnmy"
       },
@@ -1303,10 +1321,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 512126,
       "name": "My Romance - Remastered",
       "url": "https://open.spotify.com/track/1enQcJDrTBeFo6PegF4FwS"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn"
     },
     {
       "album": {
@@ -1462,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "Quiet Weather",
+        "url": "https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP"
+      },
+      "artists": [
+        {
+          "name": "Ikigai",
+          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Quiet Weather",
+      "url": "https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ"
+    },
+    {
+      "album": {
         "name": "Rainbow Mountains",
         "url": "https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K"
       },
@@ -1603,6 +1657,24 @@
       "duration_ms": 262977,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX"
+    },
+    {
+      "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/4XaJ0QnFlJfNbqIGVDeNUf"
+      },
+      "artists": [
+        {
+          "name": "Darlington",
+          "url": "https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211275,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/3OiG2WAVCWv2eCBS2Iyqsm"
     },
     {
       "album": {

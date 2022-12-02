@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bialystocks / <br/>Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-542 songs - 1 day 8 hr 43 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+544 songs - 1 day 8 hr 50 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Brain Scratch](https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Brain Scratch](https://open.spotify.com/album/71tODak7A2364WwWyGhXcf) | 3:23 | 2022-08-16 | 2022-10-28 |
 | [Burning Fuel](https://open.spotify.com/track/6g9fyqAjF8zk4QhNYkjdYL) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [SEVEN THIRTY ONE](https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV) | 2:50 | 2022-03-29 | 2022-08-16 |
 | [Businessman](https://open.spotify.com/track/4pFT8B1n09iD1gMhcZnGcf) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Businessman](https://open.spotify.com/album/0VNDhYYxlpcvBLYJLFQ6dO) | 2:57 | 2022-07-28 | 2022-08-03 |
-| [by my side](https://open.spotify.com/track/1YjRuInbzyhuiiLIUhH2GT) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [by my side](https://open.spotify.com/album/7DiXZ9iUWqwkRHFv7Z6BNy) | 2:41 | 2022-11-01 |  |
+| [by my side](https://open.spotify.com/track/1YjRuInbzyhuiiLIUhH2GT) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [by my side](https://open.spotify.com/album/7DiXZ9iUWqwkRHFv7Z6BNy) | 2:41 | 2022-11-01 | 2022-12-02 |
 | [Bye Bye](https://open.spotify.com/track/4phvD3Hb8BOmKvCk8tg5aK) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Titles](https://open.spotify.com/album/5E46XMFqVKTJtLez7Pl2pE) | 3:40 | 2022-11-08 | 2022-11-13 |
 | [BYE BYE](https://open.spotify.com/track/2x7yirzFtKkatyq3MiGNk0) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [BYE BYE](https://open.spotify.com/album/5QqEam7ebMRqT4Mf0xO0h0) | 3:41 | 2022-08-25 | 2022-08-27 |
 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 | 2022-08-25 |  |
@@ -72,7 +72,8 @@
 | [Dance Alone](https://open.spotify.com/track/2kpZkWCfmuSvn8CZYGvNkO) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Dance Alone](https://open.spotify.com/album/2grXUKK5gDiBlcWcpbKm6Y) | 4:56 | 2022-09-13 | 2022-10-12 |
 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-20 | 2022-11-01 |
 | [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 | 2022-09-22 |
-| [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 | 2022-10-11 |  |
+| [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 | 2022-10-11 | 2022-12-02 |
+| [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-01 |  |
 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-16 | 2022-10-12 |
 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 | 2022-08-23 | 2022-09-28 |
 | [Defunk](https://open.spotify.com/track/4Sb2Ae3HEbu7m1EmZRzisq) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Defunk](https://open.spotify.com/album/6SZGneGO90oAYw5SYYKG07) | 4:03 | 2022-10-31 |  |
@@ -264,6 +265,7 @@
 | [stage](https://open.spotify.com/track/627hDeE90JKWhlFpwkvXM9) | [あぶらこぶ](https://open.spotify.com/artist/4w9ZSYjngBFnjA6tqRmyoi) | [stage](https://open.spotify.com/album/56oBF9FFbxn2yy7bGvS93d) | 4:03 | 2022-03-08 | 2022-04-01 |
 | [STARR](https://open.spotify.com/track/0clTIsciZ0bwWvpdeT6FVW) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [STARR](https://open.spotify.com/album/014VFwbOmXN4i4UzH0EUIA) | 3:00 | 2022-03-22 | 2022-03-30 |
 | [STARR](https://open.spotify.com/track/0zDBgKXgJMfPDrRBbMULja) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [SEVEN THIRTY ONE](https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV) | 3:00 | 2022-08-15 | 2022-09-15 |
+| [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2022-12-01 |  |
 | [Strange World](https://open.spotify.com/track/3QOuemHPvUS3rnTFBrmNzb) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/2bn6O3GayBt7HyEysgcSxR) | 3:05 | 2022-05-26 | 2022-06-15 |
 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 | 2022-10-11 | 2022-11-16 |
 | [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [菅原圭](https://open.spotify.com/artist/6QOnk7zoSFeg8ysHCUAOA8) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-05-12 | 2022-06-01 |

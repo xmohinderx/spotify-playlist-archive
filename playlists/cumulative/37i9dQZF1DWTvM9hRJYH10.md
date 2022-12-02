@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Jordana Bryant
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Erin Kinsey
 
 239 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 

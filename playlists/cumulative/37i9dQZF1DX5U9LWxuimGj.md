@@ -2,7 +2,7 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Frank Ray
+> Country music with a Latin flair\. Cover: Kat & Alex
 
 104 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 

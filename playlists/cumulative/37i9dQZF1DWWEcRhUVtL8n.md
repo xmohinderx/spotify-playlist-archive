@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,417 songs - 3 day 2 hr 39 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,418 songs - 3 day 2 hr 42 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Bloom \- Remix](https://open.spotify.com/track/1WWXRNfFhZWbLD3jGcC8T0) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp), [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Birthday Boy \(Party Favors\)](https://open.spotify.com/album/2ZjzdxS9GOQn9IEdOmWen1) | 3:48 | 2020-11-20 | 2021-02-28 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-04-03 | 2021-05-26 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-06-04 | 2022-04-16 |
+| [Blue Spirits](https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk) | 3:08 | 2022-12-01 |  |
 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 | 2022-06-01 | 2022-10-15 |
 | [Blue Valentine](https://open.spotify.com/track/6wJKi0aZQ1qKplzsoYlTLI) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Tranquilize](https://open.spotify.com/album/7F5YdjlknLv1i7gZCJuCyj) | 4:35 | 2021-07-02 | 2022-04-13 |
 | [Blues](https://open.spotify.com/track/0y1TguY6ZTUD0g29Wg8h04) | [Olive Amun](https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv) | [Blues](https://open.spotify.com/album/5zBKiptAKoDQnHtVRAs5b1) | 2:30 | 2021-03-27 | 2021-10-12 |
@@ -1196,7 +1197,7 @@
 | [Stuck Here Without You](https://open.spotify.com/track/2KmjwOAUJUs7UG1Z1zzoOy) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Stuck Here Without You](https://open.spotify.com/album/1oXM6adtUwiPaKbvHmgqZ2) | 2:07 | 2021-02-22 | 2022-04-12 |
 | [Stuck In A Bubble](https://open.spotify.com/track/1bSJ2FDSYUQHbg4hpnF4Li) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Stuck In A Bubble](https://open.spotify.com/album/23suzHFs2RSiknQtTOGIJi) | 2:38 | 2020-10-20 | 2020-10-21 |
 | [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 | 2022-05-06 | 2022-06-20 |
-| [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-18 |  |
+| [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-18 | 2022-12-02 |
 | [Stupid Boys](https://open.spotify.com/track/3VVTR5byzYX15kSLhENnVN) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Stupid Boys](https://open.spotify.com/album/0njsUW4yb3wviV0Ulopvfk) | 2:13 | 2020-10-13\* | 2021-02-27 |
 | [Subject](https://open.spotify.com/track/2jI4keyUwCmnn6kqA4GlAc) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [The Very Last Thoughts on Earth](https://open.spotify.com/album/0dDAfkBPnOP70LE5IhqoPY) | 3:35 | 2022-07-22 | 2022-08-06 |
 | [Sucker Punch](https://open.spotify.com/track/0y0xWEzCRBY47WRw67r4Ab) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Sucker Punch](https://open.spotify.com/album/1hB7OK8nNlPLslFuHoeC5e) | 2:26 | 2020-10-13\* | 2020-11-20 |

@@ -4,11 +4,12 @@
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-164 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
+165 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Zat You, Santa Claus?](https://open.spotify.com/track/2ESW2GiieFoR9tqkup2Vul) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [A Merry Jazzy Christmas](https://open.spotify.com/album/6784GNkAx7B7RzxR6r8Klu) | 2:49 | 2021-12-14 | 2022-07-28 |
+| ['Zat You, Santa Claus? \- Single Version](https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:49 | 2022-01-27 |  |
 | [\(I'm Gonna\) Love Me Again](https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 4:10 | 2022-01-27 |  |
 | [A Christmas Carol Main Title](https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [A Christmas Carol](https://open.spotify.com/album/35N2paA3Tb44f0a3beEU3V) | 4:21 | 2021-12-14 | 2022-04-20 |
 | [A Real Hero](https://open.spotify.com/track/53b1icRPhYU9dvy8p1qZkS) | [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6), [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [A Real Hero](https://open.spotify.com/album/73c34KIp08yd4Jp0mkufmV) | 4:27 | 2022-01-27 | 2022-11-13 |
@@ -36,7 +37,7 @@
 | [Dimensions](https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 5:39 | 2022-01-27 | 2022-11-13 |
 | [Django](https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:53 | 2022-01-27 | 2022-11-13 |
 | [Do You Realize??](https://open.spotify.com/track/60eyxDTMQnCOyJjRMrNJbG) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Boyhood: Music from the Motion Picture](https://open.spotify.com/album/6gVaSasSnh85NVEoAUCqbQ) | 3:32 | 2022-01-27 | 2022-07-29 |
-| [Down To The River To Pray](https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 2:55 | 2022-01-27 |  |
+| [Down To The River To Pray](https://open.spotify.com/track/79x6uDDP9EAT5c35zOZhXv) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 2:55 | 2022-01-27 | 2022-12-02 |
 | [Dry The Rain](https://open.spotify.com/track/0DAX2ETmLo0UIXB8AubQ8k) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [High Fidelity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7oL8mDzR5zbwmigvyaZ29a) | 6:04 | 2022-01-27 | 2022-07-29 |
 | [Dry the Rain](https://open.spotify.com/track/7ItpUlCUwTRyiXZ0YclPQ7) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three E.P.'s](https://open.spotify.com/album/6w7XFtdCQf871KU40Ot1Ra) | 6:06 | 2022-01-27 |  |
 | [E.T\. Is Alive! \- Soundtrack Reissue \(2002\)](https://open.spotify.com/track/5eaEIsfop4IQJryjvkBGl9) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [E.T\. The Extra Terrestrial \(Original Soundtrack \- 20th Anniversary Remaster\)](https://open.spotify.com/album/6qbtlYI0l4Fpj3hJ7e9jGY) | 4:06 | 2021-12-14 | 2022-07-29 |

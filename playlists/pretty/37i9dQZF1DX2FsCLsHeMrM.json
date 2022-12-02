@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 836840,
+  "num_followers": 837125,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc1MDg5NSwwMDAwMDAwMGQxMzVlNzRmZTVmZTY0NWYzODJkNWM3ODc5Y2U0N2Y3",
+  "snapshot_id": "MTY2ODc1MDg5NSwwMDAwMDAwMDFmYzVkYTJiODQ0OGE2OGIzYmYwZTFjMDc5ZTFlOTk2",
   "tracks": [
     {
       "added_at": "2022-11-17 15:13:56",
@@ -799,6 +799,26 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "What Goes Around...Comes Around",
-        "url": "https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "What Goes Around...Comes Around - Radio Edit",
-      "url": "https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 181644,
       "name": "Everything (feat. John Legend)",
       "url": "https://open.spotify.com/track/0V6imIPZVXJEtl2umdNILO"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "What Goes Around...Comes Around",
+        "url": "https://open.spotify.com/album/0NvpeY8oCm6oIlhH5Jw4fo"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "What Goes Around...Comes Around - Radio Edit",
+      "url": "https://open.spotify.com/track/0R03f3Axt495bkgGhivLEe"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Somebody Else's Guy",
-        "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 386026,
-      "name": "Somebody Else's Guy",
-      "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 269333,
       "name": "I Can't Help It",
       "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "Somebody Else's Guy",
+        "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 386026,
+      "name": "Somebody Else's Guy",
+      "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "Sumthin' Sumthin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 242035,
       "name": "February 3rd",
       "url": "https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 257670,
+      "name": "Sumthin' Sumthin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 194023,
+      "name": "Lost in Paris",
+      "url": "https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
         "name": "Still Groovin (Remastered)",
         "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
       },
@@ -1511,22 +1531,18 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 194023,
-      "name": "Lost in Paris",
-      "url": "https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT"
+      "duration_ms": 298120,
+      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -1575,22 +1591,6 @@
       "duration_ms": 249573,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 298120,
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz"
     },
     {
       "added_at": "2022-11-07 15:45:19",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2022-11-07 15:45:19",
       "album": {
-        "name": "Say Yes",
-        "url": "https://open.spotify.com/album/3jxR2bYhFJ20oyolM7ran4"
-      },
-      "artists": [
-        {
-          "name": "Phil Perry",
-          "url": "https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2cCwacOhxyfbk7sHKC5yLF"
-    },
-    {
-      "added_at": "2022-11-07 15:45:19",
-      "album": {
         "name": "Pass Time",
         "url": "https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 219963,
       "name": "Pass Time",
       "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
+    },
+    {
+      "added_at": "2022-11-07 15:45:19",
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/3jxR2bYhFJ20oyolM7ran4"
+      },
+      "artists": [
+        {
+          "name": "Phil Perry",
+          "url": "https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2cCwacOhxyfbk7sHKC5yLF"
     },
     {
       "added_at": "2022-11-07 15:45:19",

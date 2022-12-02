@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=0IyWnw1PSRCm3TShrrq6Xg\">Barto</a>",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=vxIWSXrRQ2WQa228xTvwlw\">FATMAN</a> and <a href=\"https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B?si=CmaIcUYHS_Sb08uwN766RA\">Lianie May</a>",
   "name": "Afrikaanse Hits",
   "published_playlist_ids": [
     "3e1GdHUgFT8NgWwl0UpVff"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 181715,
       "name": "Beheer Verloor",
       "url": "https://open.spotify.com/track/0f875VUlQ6bv1yoma2TYUZ"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 203000,
       "name": "Braaibroodjies",
       "url": "https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz"
@@ -260,6 +260,28 @@
     },
     {
       "album": {
+        "name": "Ditjies & Datjies",
+        "url": "https://open.spotify.com/album/7m3yfmPUbRm6FNFBmdyxD6"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        },
+        {
+          "name": "Lianie May",
+          "url": "https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198471,
+      "name": "Ditjies & Datjies",
+      "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
+    },
+    {
+      "album": {
         "name": "Dogter",
         "url": "https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i"
       },
@@ -275,6 +297,24 @@
       "duration_ms": 243893,
       "name": "Dogter",
       "url": "https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa"
+    },
+    {
+      "album": {
+        "name": "Drink",
+        "url": "https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx"
+      },
+      "artists": [
+        {
+          "name": "Frikkie Braaibroodjie",
+          "url": "https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198843,
+      "name": "Drink",
+      "url": "https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa"
     },
     {
       "album": {
@@ -1138,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Sandkasteel",
+        "url": "https://open.spotify.com/album/5Pj0DylpJ3P0KvtDhX1b8y"
+      },
+      "artists": [
+        {
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "Sandkasteel",
+      "url": "https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ"
+    },
+    {
+      "album": {
         "name": "Skattie",
         "url": "https://open.spotify.com/album/36cu3ZQxgHuLvIj3BUEynA"
       },
@@ -1149,7 +1207,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 210405,
       "name": "Skattie",
       "url": "https://open.spotify.com/track/1VJKNRIZ1LYNAOxIN01iNd"
@@ -1197,6 +1255,24 @@
       "duration_ms": 212533,
       "name": "Skobbejak",
       "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
+    },
+    {
+      "album": {
+        "name": "Skrik Vir Niks (Van Die Snotkop Movie: Skrik Vir Niks)",
+        "url": "https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199519,
+      "name": "Skrik Vir Niks (Van Die Snotkop Movie: Skrik Vir Niks)",
+      "url": "https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1"
     },
     {
       "album": {
@@ -1263,6 +1339,24 @@
       "duration_ms": 179513,
       "name": "Stoute Boude",
       "url": "https://open.spotify.com/track/6kBte7otKF6WvMdeP20rEg"
+    },
+    {
+      "album": {
+        "name": "Suikerbos",
+        "url": "https://open.spotify.com/album/64pO3zEBukMDwyZ8bUSBqU"
+      },
+      "artists": [
+        {
+          "name": "Stefan Jansen",
+          "url": "https://open.spotify.com/artist/1wemQwgdM4yTWWkxjlFFyD"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Suikerbos",
+      "url": "https://open.spotify.com/track/5xw1XMX2FkhfMDxJkImMEy"
     },
     {
       "album": {
@@ -1403,7 +1497,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 230581,
       "name": "Wat De Hel",
       "url": "https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e"
@@ -1439,7 +1533,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 205294,
       "name": "Wie's Jou Kat?",
       "url": "https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX"

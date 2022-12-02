@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sandy
 
-258 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+259 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Thunnindhu Sel](https://open.spotify.com/track/0x0Zys8tyGTaaAiDleN8WW) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Vishagar Arunan](https://open.spotify.com/artist/2YF2ZSkdHzaDVmA3rJRr5e) | [Thunnindhu Sel](https://open.spotify.com/album/0lvptAqJBvMhYCtSqJMlXG) | 3:16 | 2022-08-11 |  |
 | [Thuppuran](https://open.spotify.com/track/1lydse8hLlKcYXToArzzmy) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi), [Lucky Lakmina](https://open.spotify.com/artist/7og53mhidfE1YT2UuF6fPo), [Abu Karim Ismail](https://open.spotify.com/artist/5DvPlxy2COJhsiUEz37QpD) | [Thuppuran](https://open.spotify.com/album/6QQIosjJ1HGFCLFmMMFicM) | 2:54 | 2022-03-30 |  |
 | [Touch Screen Kadhal](https://open.spotify.com/track/4AU6KiMcQu8tdkqNXYWgMW) | [Naveed Rehman](https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq), [Edwin Louis Viswanath](https://open.spotify.com/artist/05t6zyU1voo2yoNFSYs7ZJ), [Krithika Konda](https://open.spotify.com/artist/0C6HJwIELlDdJqgDlIqnEp) | [Touch Screen Kadhal](https://open.spotify.com/album/6WXA3fS0VOCohESXYXVoKv) | 3:10 | 2021-12-01 | 2022-08-12 |
+| [Ulaa](https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ulaa](https://open.spotify.com/album/3TS2lHekqjnrUrwxoz3Cwy) | 4:25 | 2022-12-01 |  |
 | [Un Aruginil Yeno \(Original Soundtrack\)](https://open.spotify.com/track/4XUkuUTGkLJ16oePH46uOn) | [Anal Akash](https://open.spotify.com/artist/0Sc5IvyroAu9MuC9kFGjaR) | [Un Aruginil Yeno \(Original Soundtrack\)](https://open.spotify.com/album/5VZHAyDxEqyvOuJOxSaRuw) | 3:20 | 2022-07-11 |  |
 | [Un Mugavari Thedi \(Original Soundtrack\)](https://open.spotify.com/track/64DY73WJXUkeMnWiVrV7zl) | [Sajith MX](https://open.spotify.com/artist/6uuHL6jAx4p7n1HPHfC8sN), [Subhiksha](https://open.spotify.com/artist/23AyrHkWcliCW5MDMAibj8), [Anal Akash](https://open.spotify.com/artist/0Sc5IvyroAu9MuC9kFGjaR) | [Un Mugavari Thedi \(Original Soundtrack\)](https://open.spotify.com/album/4YnabWJDLMt6AfAqDZiIek) | 3:32 | 2022-08-05 |  |
 | [Un Ninaivugal \- From "In Your Memories"](https://open.spotify.com/track/3ysjboigvFM7UKnDKPlm1D) | [Theeson](https://open.spotify.com/artist/0vmZiK1KvPuLrLgznHL6VC), [A Pa Raja](https://open.spotify.com/artist/0yl8I0igWYBaHNsBHyccqm) | [Un Ninaivugal \(From "In Your Memories"\)](https://open.spotify.com/album/5ke4a8a48giAbmzFJU0oOg) | 4:29 | 2022-06-04 | 2022-07-15 |

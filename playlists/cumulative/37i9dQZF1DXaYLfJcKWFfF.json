@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG"
+      },
+      "artists": [
+        {
+          "name": "Senkulive",
+          "url": "https://open.spotify.com/artist/79ynBppzsEuPprCYBIMxac"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/6GMYPEjFx65qzILJVuLARk"
+    },
+    {
+      "album": {
         "name": "PALM WINE MUSIC",
         "url": "https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu"
       },
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 181478,
       "name": "WDYWFM (feat. L0la)",
       "url": "https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7"

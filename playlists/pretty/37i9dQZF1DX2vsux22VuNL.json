@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Rashid, Liniker",
-  "num_followers": 241410,
+  "num_followers": 241438,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY2MjIwNiwwMDAwMDAwMDNhN2Y4NDYxZjFkNGI4MTg2ZjE5NmE5YjUxMzRkY2Yx",
+  "snapshot_id": "MTY2OTY2MjIwNiwwMDAwMDAwMDI1YjdjYzk3Y2JkNTM2ODUxMGFhZjNjZjA5OTQxNjU3",
   "tracks": [
     {
       "added_at": "2022-11-28 19:03:26",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-11-28 19:03:26",
       "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/77YRQEWttYewhkSOXCHAZJ"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 213745,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/6XHg6HXseoI9JkBT8syZoG"
+    },
+    {
+      "added_at": "2022-11-28 19:03:26",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 174315,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2022-11-28 19:03:26",
-      "album": {
-        "name": "Bom Dia",
-        "url": "https://open.spotify.com/album/77YRQEWttYewhkSOXCHAZJ"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 213745,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/6XHg6HXseoI9JkBT8syZoG"
     },
     {
       "added_at": "2022-11-28 19:03:26",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-11-28 19:03:26",
       "album": {
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
+    },
+    {
+      "added_at": "2022-11-28 19:03:26",
+      "album": {
         "name": "Surreal",
         "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 171392,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/4stix6rwbQjjMde6z5IJjK"
-    },
-    {
-      "added_at": "2022-11-28 19:03:26",
-      "album": {
-        "name": "Marrenta",
-        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "Marrenta",
-      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
     },
     {
       "added_at": "2022-11-28 19:03:26",
@@ -1623,30 +1623,6 @@
     {
       "added_at": "2022-11-28 19:03:26",
       "album": {
-        "name": "Livro Aberto",
-        "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
-      },
-      "artists": [
-        {
-          "name": "Gibi8",
-          "url": "https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO"
-        },
-        {
-          "name": "FREELION",
-          "url": "https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 196559,
-      "name": "Livro Aberto",
-      "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
-    },
-    {
-      "added_at": "2022-11-28 19:03:26",
-      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -1679,6 +1655,30 @@
       "duration_ms": 147040,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2022-11-28 19:03:26",
+      "album": {
+        "name": "Livro Aberto",
+        "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
+      },
+      "artists": [
+        {
+          "name": "Gibi8",
+          "url": "https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO"
+        },
+        {
+          "name": "FREELION",
+          "url": "https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 196559,
+      "name": "Livro Aberto",
+      "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
     },
     {
       "added_at": "2022-11-28 19:03:26",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2022-11-28 19:03:26",
       "album": {
-        "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
-        "url": "https://open.spotify.com/album/39Cb83gAN5BBKXKGYBxB3K"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        },
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
-      "url": "https://open.spotify.com/track/2OHDTihV2aN7BRVfec9eVO"
-    },
-    {
-      "added_at": "2022-11-28 19:03:26",
-      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 170538,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
+    },
+    {
+      "added_at": "2022-11-28 19:03:26",
+      "album": {
+        "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
+        "url": "https://open.spotify.com/album/39Cb83gAN5BBKXKGYBxB3K"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        },
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
+      "url": "https://open.spotify.com/track/2OHDTihV2aN7BRVfec9eVO"
     }
   ],
   "unique_name": "brisa",

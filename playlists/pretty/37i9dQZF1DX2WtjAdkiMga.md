@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,375 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,392 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 6 | [Con Alma](https://open.spotify.com/track/5iOP4mVVppHxNUwonMF1St) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Con Alma](https://open.spotify.com/album/4PB3kgtOFwssoItP8ZuDAI) | 2:35 |
 | 7 | [A Good Day](https://open.spotify.com/track/4CKFgo4cHetK6zsBywwBIx) | [Mrs Lawson](https://open.spotify.com/artist/6GRdbp1aBLfEJCgNcdGKLM) | [A Good Day](https://open.spotify.com/album/4h73tz90SvA4W9P2EydSOt) | 2:28 |
 | 8 | [On A Clear Day](https://open.spotify.com/track/7dM3VnSFJt1wZMPmYmAfZp) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 2:12 |
-| 9 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 |
-| 10 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 |
-| 11 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 |
-| 12 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 |
-| 13 | [Under the Mango Tree](https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV) | [Erika Stevenson](https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE) | [Under the Mango Tree](https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj) | 2:08 |
-| 14 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
-| 15 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
-| 16 | [Stardust](https://open.spotify.com/track/2cwhWgieqTWkEC1BL1pmhh) | [Helene Augbert](https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV) | [Stardust](https://open.spotify.com/album/5IOWturujCNhauxjhTAeyn) | 3:26 |
-| 17 | [Sometimes When You Sleep](https://open.spotify.com/track/15LAuh3deuRHFf07mxhObf) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's All for Love](https://open.spotify.com/album/1R050Wd5VCHL7n3avYpgkz) | 3:06 |
-| 18 | [Autumn Leaves](https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ) | [Leo Doyle](https://open.spotify.com/artist/0iHePaUxXFl3dyJaCfbwbg) | [Moon River](https://open.spotify.com/album/42sPSx5wz9umkfdMf4XVCJ) | 2:07 |
-| 19 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr) | [Natalie Fall](https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/71HFzTLemAiujFpkRd6mxd) | 2:48 |
+| 9 | [Skating in Central Park](https://open.spotify.com/track/2IEI5ZjAIWvxw3rSJYXFxC) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Skating in Central Park](https://open.spotify.com/album/0Xg1W14PbDaBMGZwdzqBvf) | 2:36 |
+| 10 | [The Good Life](https://open.spotify.com/track/6oefIaSYrCIhNEoV4yPYuT) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [The Good Life](https://open.spotify.com/album/1v5ar0yMDRY2T9TTAM5Tr3) | 2:09 |
+| 11 | [Just Friends](https://open.spotify.com/track/1f3DJiFqPSWaWoPvEsbFTp) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:01 |
+| 12 | [My One and Only Love](https://open.spotify.com/track/6UFErRwNsXFmbZYnOdBLQb) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [My One and Only Love](https://open.spotify.com/album/10MOshcK6sWbLtlG9hQqMt) | 3:14 |
+| 13 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 |
+| 14 | [Under the Mango Tree](https://open.spotify.com/track/33KChiNPI0s6An3lRKjcQV) | [Erika Stevenson](https://open.spotify.com/artist/3qqiQwpDv5suNnRA8lCMAE) | [Under the Mango Tree](https://open.spotify.com/album/0oBtirMIo2gIJiK2m6zyHj) | 2:08 |
+| 15 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
+| 16 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 |
+| 17 | [Stardust](https://open.spotify.com/track/2cwhWgieqTWkEC1BL1pmhh) | [Helene Augbert](https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV) | [Stardust](https://open.spotify.com/album/5IOWturujCNhauxjhTAeyn) | 3:26 |
+| 18 | [Sometimes When You Sleep](https://open.spotify.com/track/15LAuh3deuRHFf07mxhObf) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's All for Love](https://open.spotify.com/album/1R050Wd5VCHL7n3avYpgkz) | 3:06 |
+| 19 | [Autumn Leaves](https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ) | [Leo Doyle](https://open.spotify.com/artist/0iHePaUxXFl3dyJaCfbwbg) | [Moon River](https://open.spotify.com/album/42sPSx5wz9umkfdMf4XVCJ) | 2:07 |
 | 20 | [Amazing Grace](https://open.spotify.com/track/1Ysn52DqNxhj2EWYIAvFWk) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [Amazing Grace](https://open.spotify.com/album/1Gw01tnxxPW9AKMgHE5Xmw) | 2:38 |
 | 21 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 |
 | 22 | [You Stepped Out of a Dream](https://open.spotify.com/track/5pgOIkYtekGg4F27IH1cgw) | [Lester Rosin](https://open.spotify.com/artist/0A2nXJBdV4EkQ7fiQPkELE) | [You Stepped Out of a Dream](https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM) | 1:45 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 60 | [The Song Is You](https://open.spotify.com/track/25lDslLJo5psoMvb2y1tfJ) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [The Song Is You](https://open.spotify.com/album/55IjhkZDjtWNC181obRV0a) | 4:56 |
 | 61 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 |
 | 62 | [God Bless the Child](https://open.spotify.com/track/5YNSyvsUOruOLD5mYCcBGZ) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [It Might as Well Be Spring](https://open.spotify.com/album/6WO4r82T9taAjZsIC0b3q2) | 3:54 |
-| 63 | [Over The Rainbow](https://open.spotify.com/track/3jqbNKYAxTIYGO22RzhK4K) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 3:00 |
-| 64 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 |
-| 65 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
-| 66 | [Emily](https://open.spotify.com/track/16EA5VBBsTJmrkyGw6mvfj) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:00 |
-| 67 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 |
-| 68 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 |
+| 63 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 |
+| 64 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
+| 65 | [Emily](https://open.spotify.com/track/16EA5VBBsTJmrkyGw6mvfj) | [Simon Parrish](https://open.spotify.com/artist/7CJ8E44Q0ShDRlMUojPQ3q) | [Just Friends](https://open.spotify.com/album/6aHQy26R8FbK2bMPGzEion) | 2:00 |
+| 66 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 |
+| 67 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 |
+| 68 | [Over The Rainbow](https://open.spotify.com/track/3jqbNKYAxTIYGO22RzhK4K) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 3:00 |
 | 69 | [Naima](https://open.spotify.com/track/4OxC4yBBsZ3BNmS9oFAzBx) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Naima](https://open.spotify.com/album/6Zoa4RTHHwt7FY6fxHLja2) | 3:40 |
 | 70 | [Polka Dots and Moonbeams](https://open.spotify.com/track/1wmi5br5223auUruMIWE1t) | [Lisbeth Rayner](https://open.spotify.com/artist/7KXBo2SSWy680ZGle8Zc6d) | [On A Clear Day](https://open.spotify.com/album/6Cya7dOUQMiirrjpbzDZsC) | 3:12 |
 | 71 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 77 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 |
 | 78 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MTY2OTI3OTg0NSwwMDAwMDAwMGY1MTQwZDkwNTJlMWIzOTk5NGJmNzhmZDgxNTNmMjIx`
+Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGNlNjk2NmNhNzk5YjU5YTEyNGNkZDY0NmYzMDkzNjgx`

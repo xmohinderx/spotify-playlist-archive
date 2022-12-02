@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,563 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,596 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 17 | [Groove](https://open.spotify.com/track/6aQWAtgTQsnNKRTVyG54ST) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Amapiano Now](https://open.spotify.com/album/4utVlAAihkM0AmxX0pddst) | 6:19 |
 | 18 | [Against the Grain](https://open.spotify.com/track/1lwY20WrWMiK85nj50Z6iO) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Out of Heart](https://open.spotify.com/album/4Qq7OS4FiIXkwyFaFUiJxW) | 3:12 |
 | 19 | [Translation to Heaven](https://open.spotify.com/track/1zv7nMIgMYZoBjOpurzDK9) | [Swimful](https://open.spotify.com/artist/5p2jjfukXGV71EKxpvG4nB) | [Translation to Heaven](https://open.spotify.com/album/5IAiKs09l4DvJdTlG07oba) | 5:26 |
-| 20 | [414bigfrank \(Backpack\)](https://open.spotify.com/track/1dK4M8URG1hNYngU6NqVJa) | [414bigfrank](https://open.spotify.com/artist/69LEfpwNQH6TalWVeml4QQ) | [414bigfrank \(Backpack\)](https://open.spotify.com/album/2GaAZT80RlURjoemrByihl) | 2:20 |
+| 20 | [414bigfrank \(Backpack\)](https://open.spotify.com/track/1dK4M8URG1hNYngU6NqVJa) | [Bigfrank414](https://open.spotify.com/artist/2RuSqEMFINuuZSVH4hr0vp) | [414bigfrank \(Backpack\)](https://open.spotify.com/album/2GaAZT80RlURjoemrByihl) | 2:20 |
 | 21 | [1471](https://open.spotify.com/track/1BVo3CqGJO3YMNeoK5Ihye) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [1471](https://open.spotify.com/album/6aazGhy1unBHW4nPE6uHlN) | 1:44 |
 | 22 | [Skittles](https://open.spotify.com/track/1SsbkXdk7SodHubBSeApSw) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Quick EP](https://open.spotify.com/album/3CUx8j4SgUTrS3CE9dudyS) | 6:06 |
 | 23 | [Rene Likes the Steak](https://open.spotify.com/track/1xnazYas0VlhuKOPkp5ChN) | [Aquarian](https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0) | [Mutations I: Death, Taxes & Hanger](https://open.spotify.com/album/5U2IrljnQtrNRWtarbA6vB) | 6:41 |

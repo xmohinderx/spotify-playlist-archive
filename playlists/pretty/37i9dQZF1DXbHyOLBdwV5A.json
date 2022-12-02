@@ -1,15 +1,15 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Gui Brazil",
-  "num_followers": 89856,
+  "num_followers": 89902,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1Mzg3MiwwMDAwMDAwMGM2MzllMzljZWU2Y2M5NjZiNmViMzI5NDk0OGJmZGEx",
+  "snapshot_id": "MTY2OTM1Mzg3MiwwMDAwMDAwMGExZjM1OGIwYzBmYWViOTQ0ZmM5ZDEwZWEyMTY4ZWMx",
   "tracks": [
     {
-      "added_at": "2022-12-01 01:42:53",
+      "added_at": "2022-12-02 01:39:28",
       "album": {
         "name": "Fim de Tarde",
         "url": "https://open.spotify.com/album/4kcDWDDlPyxkgj0h3mtlu2"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
     },
     {
-      "added_at": "2022-12-01 01:42:53",
+      "added_at": "2022-12-02 01:39:28",
       "album": {
         "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
         "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
@@ -475,30 +475,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Eu Confio Em Ti (Remix)",
-        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
-      },
-      "artists": [
-        {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
-        },
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "MAYK",
-          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
-        }
-      ],
-      "duration_ms": 235468,
-      "name": "Eu Confio Em Ti - Remix",
-      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Eternidade",
         "url": "https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7"
       },
@@ -519,6 +495,30 @@
       "duration_ms": 221269,
       "name": "Eternidade",
       "url": "https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "Eu Confio Em Ti (Remix)",
+        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
+      },
+      "artists": [
+        {
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+        },
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "MAYK",
+          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
+        }
+      ],
+      "duration_ms": 235468,
+      "name": "Eu Confio Em Ti - Remix",
+      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -647,8 +647,8 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Encontrei o Meu Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
+        "name": "Deus \u00c9 Bom o Tempo Todo",
+        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
       },
       "artists": [
         {
@@ -656,21 +656,17 @@
           "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
         }
       ],
-      "duration_ms": 165967,
-      "name": "Encontrei o Meu Lugar - Remix",
-      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
+      "duration_ms": 160846,
+      "name": "Deus \u00c9 Bom o Tempo Todo",
+      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -787,8 +783,8 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "Deus \u00c9 Bom o Tempo Todo",
-        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
+        "name": "Encontrei o Meu Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
       "artists": [
         {
@@ -796,17 +792,21 @@
           "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
         }
       ],
-      "duration_ms": 160846,
-      "name": "Deus \u00c9 Bom o Tempo Todo",
-      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
+      "duration_ms": 165967,
+      "name": "Encontrei o Meu Lugar - Remix",
+      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
     },
     {
-      "added_at": "2022-12-01 01:42:53",
+      "added_at": "2022-12-02 01:39:28",
       "album": {
         "name": "O Vazio",
         "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "O Le\u00e3o (Dj Del Mag Remix)",
-        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Victor Rodrigues",
-          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "O Le\u00e3o - Dj Del Mag Remix",
-      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 228480,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "O Le\u00e3o (Dj Del Mag Remix)",
+        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Victor Rodrigues",
+          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "O Le\u00e3o - Dj Del Mag Remix",
+      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
     },
     {
       "added_at": "2022-10-14 05:49:13",
@@ -1271,46 +1271,6 @@
     {
       "added_at": "2022-10-14 05:49:13",
       "album": {
-        "name": "S\u00f3 em Ti",
-        "url": "https://open.spotify.com/album/7EyTM3WHWk8R63fqCdqM9N"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Thalita Barros",
-          "url": "https://open.spotify.com/artist/2XcqwaVdCPErj0ah69UpbL"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "S\u00f3 em Ti",
-      "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"
-    },
-    {
-      "added_at": "2022-12-01 01:42:53",
-      "album": {
-        "name": "Alvo",
-        "url": "https://open.spotify.com/album/4IHa4QvURqyaLTBidFdwLg"
-      },
-      "artists": [
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        },
-        {
-          "name": "DJ Albery",
-          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
-        }
-      ],
-      "duration_ms": 166428,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/6aNbfAAucaaVlqtmqBVIu5"
-    },
-    {
-      "added_at": "2022-10-14 05:49:13",
-      "album": {
         "name": "Caminho Seguro",
         "url": "https://open.spotify.com/album/6D8RGTB4DS2DzlZf67la5Q"
       },
@@ -1333,7 +1293,47 @@
       "url": "https://open.spotify.com/track/2jsVKdyO5o04Y7uJwpItKe"
     },
     {
-      "added_at": "2022-12-01 01:42:53",
+      "added_at": "2022-12-02 01:39:28",
+      "album": {
+        "name": "Alvo",
+        "url": "https://open.spotify.com/album/4IHa4QvURqyaLTBidFdwLg"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "DJ Albery",
+          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
+        }
+      ],
+      "duration_ms": 166428,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/6aNbfAAucaaVlqtmqBVIu5"
+    },
+    {
+      "added_at": "2022-10-14 05:49:13",
+      "album": {
+        "name": "S\u00f3 em Ti",
+        "url": "https://open.spotify.com/album/7EyTM3WHWk8R63fqCdqM9N"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Thalita Barros",
+          "url": "https://open.spotify.com/artist/2XcqwaVdCPErj0ah69UpbL"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "S\u00f3 em Ti",
+      "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"
+    },
+    {
+      "added_at": "2022-12-02 01:39:28",
       "album": {
         "name": "Templo Fit Remix",
         "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"

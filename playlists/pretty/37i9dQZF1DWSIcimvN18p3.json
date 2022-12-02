@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Plains",
-  "num_followers": 264475,
+  "num_followers": 264559,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgzMzg0NCwwMDAwMDAwMDkxNTM1YjM3MWUyODZiZTFkZjg1OWIxYmMyMWZiMGEz",
+  "snapshot_id": "MTY2OTgzMzg0NCwwMDAwMDAwMDFhMDRhNjZhODdjYTE5ZDAzMWMwODRiZGU2MTkwZTUw",
   "tracks": [
     {
       "added_at": "2022-11-30 18:44:04",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
         "name": "I Walked With You A Ways",
         "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 214653,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "Simple Syrup",
         "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
       "artists": [
         {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -771,6 +755,22 @@
       "duration_ms": 279266,
       "name": "Love At The Five And Dime",
       "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
-        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Train Song",
-      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
+        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
       },
       "artists": [
         {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
         }
       ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+      "duration_ms": 137360,
+      "name": "Train Song",
+      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1143,6 +1127,22 @@
       "duration_ms": 130199,
       "name": "Animal Tracks",
       "url": "https://open.spotify.com/track/5PKVT15SubNsMQm4Py2eXG"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
-      },
-      "artists": [
-        {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        }
-      ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Sit Here And Love Me",
-      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Sit Here And Love Me",
+      "url": "https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1455,6 +1439,22 @@
       "duration_ms": 219680,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Ear to the Ground",
-        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
-      },
-      "artists": [
-        {
-          "name": "Malvina Reynolds",
-          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Little Boxes",
-      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "Ear to the Ground",
+        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
+      },
+      "artists": [
+        {
+          "name": "Malvina Reynolds",
+          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Canary",
-      "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 246611,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Canary",
+      "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "Time And Love: The Essential Masters",
-        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
-      },
-      "artists": [
-        {
-          "name": "Laura Nyro",
-          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Stoned Soul Picnic",
-      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "Lookaftering",
         "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 125293,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "Time And Love: The Essential Masters",
+        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
+      },
+      "artists": [
+        {
+          "name": "Laura Nyro",
+          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Stoned Soul Picnic",
+      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 287933,
       "name": "Iowa (Traveling, Pt. 3)",
       "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Till the Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Universal Soldier",
-      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
         "name": "A Southern Gothic",
         "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 209546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
     },
     {
       "added_at": "2022-11-30 18:44:04",
@@ -2515,6 +2515,22 @@
     {
       "added_at": "2022-11-30 18:44:04",
       "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
+    },
+    {
+      "added_at": "2022-11-30 18:44:04",
+      "album": {
         "name": "Highway 101, Vol. 2",
         "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
       },
@@ -2571,22 +2587,6 @@
       "duration_ms": 317466,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
-    },
-    {
-      "added_at": "2022-11-30 18:44:04",
-      "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
     }
   ],
   "unique_name": "Women of Folk",

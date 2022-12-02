@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest alternative love songs of all time.",
-  "num_followers": 460060,
+  "num_followers": 460539,
   "original_name": "Alternative Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDUzNzIyOCwwMDAwMDAwMDQyNThjOGRmNGJhZDNiZjRmZmU5MjE4NzQ4NjE4MTE4",
+  "snapshot_id": "MTY0NDUzNzIyOCwwMDAwMDAwMDY2OWRhMzE1ZDZhYWMwZjAxOGM4OTFhODcwMWE4NmJm",
   "tracks": [
     {
       "added_at": "2022-02-10 23:53:48",
@@ -315,8 +315,8 @@
     {
       "added_at": "2022-02-10 23:53:48",
       "album": {
-        "name": "In Love (US)",
-        "url": "https://open.spotify.com/album/1h5rAU1bcpAJezFuMBBbum"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2WF9WYqw0z4xs4hJi5eSmU"
       },
       "artists": [
         {
@@ -326,7 +326,7 @@
       ],
       "duration_ms": 238693,
       "name": "California Daze",
-      "url": "https://open.spotify.com/track/0GsLaBFChyC0vMh7qsFunp"
+      "url": "https://open.spotify.com/track/3Oa4HmaT53IzzyZDbqmT2b"
     },
     {
       "added_at": "2022-02-10 23:53:48",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-02-10 23:53:48",
       "album": {
-        "name": "no song without you",
-        "url": "https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 161536,
-      "name": "no song without you",
-      "url": "https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR"
-    },
-    {
-      "added_at": "2022-02-10 23:53:48",
-      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
+    },
+    {
+      "added_at": "2022-02-10 23:53:48",
+      "album": {
+        "name": "no song without you",
+        "url": "https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 161536,
+      "name": "no song without you",
+      "url": "https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR"
     },
     {
       "added_at": "2022-02-10 23:53:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-02-10 23:53:48",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
-    },
-    {
-      "added_at": "2022-02-10 23:53:48",
-      "album": {
         "name": "Me & You Together Song",
         "url": "https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 209500,
       "name": "Me & You Together Song",
       "url": "https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN"
+    },
+    {
+      "added_at": "2022-02-10 23:53:48",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
     },
     {
       "added_at": "2022-02-10 23:53:48",

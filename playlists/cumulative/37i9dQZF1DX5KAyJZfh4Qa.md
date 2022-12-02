@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU?si=gfm00MdpTL63d2aPVJdtZg">Can't Swim</a>.
 
-70 songs - 3 hr 51 min - not published yet
+71 songs - 3 hr 54 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Blood for the Blood God](https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [I’m Scared That’s All There Is](https://open.spotify.com/album/6qvYtT5gSuBLAGLdoSPmb3) | 3:31 | 2022-11-25 |  |
 | [cadence](https://open.spotify.com/track/4KXgaRo9FlOOkmQ5TD5A5h) | [Flight Patterns](https://open.spotify.com/artist/4fIqhR5AalmEBaUDNmGhb9) | [cadence](https://open.spotify.com/album/5W3HQVjsF1UCmsaehz5eiX) | 2:12 | 2022-11-25 |  |
 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 | 2022-11-25 |  |
-| [Callin Me](https://open.spotify.com/track/1u6DEiPt9CI214nVfF09Uu) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 2:52 | 2022-11-25 |  |
+| [Callin Me](https://open.spotify.com/track/1u6DEiPt9CI214nVfF09Uu) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 2:52 | 2022-11-25 | 2022-12-02 |
+| [Callin Me](https://open.spotify.com/track/274U15M8V7uahnK8OfEWz4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 2:52 | 2022-11-25 |  |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-11-25 |  |
 | [Company Calls Epilogue](https://open.spotify.com/track/1Y8BZ7eR0mPp9oO1RLPrvE) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Company Calls Epilogue](https://open.spotify.com/album/4u10umzNn7CKQFSlOSB6F5) | 4:32 | 2022-11-25 |  |
 | [computer exploder](https://open.spotify.com/track/1H7FYm7jZgINmMAsWsLaQL) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/5Qcv0Vr8N5XOwfR7IyzOh8) | 3:18 | 2022-11-25 |  |

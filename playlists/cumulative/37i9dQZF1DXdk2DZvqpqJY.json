@@ -199,6 +199,24 @@
     {
       "album": {
         "name": "Jazz Cats",
+        "url": "https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145272,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc"
+    },
+    {
+      "album": {
+        "name": "Jazz Cats",
         "url": "https://open.spotify.com/album/1lUR5pE0fCBd1RokHDIHr0"
       },
       "artists": [
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 188266,
       "name": "Ice-free",
       "url": "https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ"

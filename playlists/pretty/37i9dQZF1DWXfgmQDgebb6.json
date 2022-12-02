@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: blah)",
-  "num_followers": 6667,
+  "num_followers": 6676,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI4MTMzNywwMDAwMDAwMDQzM2EyZTE3MDQ1NjlhMDVkOWYzN2QyY2EyNWQ5MWM0",
+  "snapshot_id": "MTY2OTI4MTMzNywwMDAwMDAwMDY5NjM0ZTE4Mzg2YjMxYjQ5Y2UyOTYxMTI3OTEyN2Qx",
   "tracks": [
     {
       "added_at": "2022-11-24 09:15:37",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
+        "name": "Amoo-rae-do",
+        "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
+      },
+      "artists": [
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+        }
+      ],
+      "duration_ms": 108226,
+      "name": "Amoo-rae-do",
+      "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
+    },
+    {
+      "added_at": "2022-11-24 09:15:37",
+      "album": {
         "name": "Year to Year / 29",
         "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 228872,
       "name": "29",
       "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
-    },
-    {
-      "added_at": "2022-11-24 09:15:37",
-      "album": {
-        "name": "Amoo-rae-do",
-        "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
-      },
-      "artists": [
-        {
-          "name": "COCONA",
-          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
-        }
-      ],
-      "duration_ms": 108226,
-      "name": "Amoo-rae-do",
-      "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
     },
     {
       "added_at": "2022-11-24 09:15:37",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 254507,
-      "name": "Year to Year",
-      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
-    },
-    {
-      "added_at": "2022-11-24 09:15:37",
-      "album": {
         "name": "Virus Mix",
         "url": "https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 257258,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz"
+    },
+    {
+      "added_at": "2022-11-24 09:15:37",
+      "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 254507,
+      "name": "Year to Year",
+      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
     },
     {
       "added_at": "2022-11-24 09:15:37",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
+        "name": "yayou hoi",
+        "url": "https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 188149,
+      "name": "yayou hoi",
+      "url": "https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj"
+    },
+    {
+      "added_at": "2022-11-24 09:15:37",
+      "album": {
         "name": "Ideology",
         "url": "https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 201080,
       "name": "Sand",
       "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
-    },
-    {
-      "added_at": "2022-11-24 09:15:37",
-      "album": {
-        "name": "yayou hoi",
-        "url": "https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD"
-      },
-      "artists": [
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "yayou hoi",
-      "url": "https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj"
     },
     {
       "added_at": "2022-11-24 09:15:37",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx"
-      },
-      "artists": [
-        {
-          "name": "Chimmi",
-          "url": "https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ"
-        }
-      ],
-      "duration_ms": 182394,
-      "name": "New",
-      "url": "https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W"
-    },
-    {
-      "added_at": "2022-11-24 09:15:37",
-      "album": {
         "name": "SPACE TALK",
         "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 108562,
       "name": "Golden Mulan",
       "url": "https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF"
+    },
+    {
+      "added_at": "2022-11-24 09:15:37",
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx"
+      },
+      "artists": [
+        {
+          "name": "Chimmi",
+          "url": "https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ"
+        }
+      ],
+      "duration_ms": 182394,
+      "name": "New",
+      "url": "https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W"
     },
     {
       "added_at": "2022-11-24 09:15:37",
@@ -719,22 +719,22 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM"
+        "name": "SPACE TALK",
+        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
       },
       "artists": [
         {
-          "name": "CIFIKA",
-          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
         },
         {
-          "name": "Kim Chang Wan",
-          "url": "https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde"
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
         }
       ],
-      "duration_ms": 272840,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy"
+      "duration_ms": 159735,
+      "name": "GGOOM (feat. Jvcki Wai)",
+      "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
     },
     {
       "added_at": "2022-11-24 09:15:37",
@@ -751,6 +751,26 @@
       "duration_ms": 148000,
       "name": "redify",
       "url": "https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ"
+    },
+    {
+      "added_at": "2022-11-24 09:15:37",
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        },
+        {
+          "name": "Kim Chang Wan",
+          "url": "https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy"
     },
     {
       "added_at": "2022-11-24 09:15:37",
@@ -779,22 +799,6 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
-        "name": "Lauren",
-        "url": "https://open.spotify.com/album/47iCW4EIDHE8XeakoStZhf"
-      },
-      "artists": [
-        {
-          "name": "Dopein",
-          "url": "https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt"
-        }
-      ],
-      "duration_ms": 183616,
-      "name": "Lauren",
-      "url": "https://open.spotify.com/track/2mAhxwO0fLjISvxim2Seap"
-    },
-    {
-      "added_at": "2022-11-24 09:15:37",
-      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
       },
@@ -811,22 +815,18 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
-        "name": "SPACE TALK",
-        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
+        "name": "Lauren",
+        "url": "https://open.spotify.com/album/47iCW4EIDHE8XeakoStZhf"
       },
       "artists": [
         {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        },
-        {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+          "name": "Dopein",
+          "url": "https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt"
         }
       ],
-      "duration_ms": 159735,
-      "name": "GGOOM (feat. Jvcki Wai)",
-      "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
+      "duration_ms": 183616,
+      "name": "Lauren",
+      "url": "https://open.spotify.com/track/2mAhxwO0fLjISvxim2Seap"
     },
     {
       "added_at": "2022-11-24 09:15:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-24 09:15:37",
       "album": {
-        "name": "Kpop",
-        "url": "https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R"
-      },
-      "artists": [
-        {
-          "name": "CHE",
-          "url": "https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH"
-        }
-      ],
-      "duration_ms": 78106,
-      "name": "U-Turn",
-      "url": "https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO"
-    },
-    {
-      "added_at": "2022-11-24 09:15:37",
-      "album": {
         "name": "MAGO",
         "url": "https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s"
       },
@@ -891,6 +875,26 @@
       "duration_ms": 129255,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu"
+    },
+    {
+      "added_at": "2022-11-24 09:15:37",
+      "album": {
+        "name": "SOULBYSEL Compilation 03",
+        "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Lilith The Moonlan",
+          "url": "https://open.spotify.com/artist/4LCQokOhuSVwoRnZxCscrM"
+        }
+      ],
+      "duration_ms": 185290,
+      "name": "Hmmmmm (Prod. 1024)",
+      "url": "https://open.spotify.com/track/6Txu5OpH2EAo5xFiF0ucEu"
     }
   ],
   "unique_name": "Hipster K' Pack",

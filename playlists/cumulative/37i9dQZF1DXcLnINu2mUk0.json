@@ -128,6 +128,24 @@
     },
     {
       "album": {
+        "name": "V\u00e9nus",
+        "url": "https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd"
+      },
+      "artists": [
+        {
+          "name": "M.E.L.",
+          "url": "https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e"
+    },
+    {
+      "album": {
         "name": "Aguardent",
         "url": "https://open.spotify.com/album/1bnfGUqWM2rUSUMnxCDBY1"
       },
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 164756,
       "name": "Caixa De Pandora",
       "url": "https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 105110,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 265631,
       "name": "Hospedeira",
       "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 225982,
       "name": "Longe",
       "url": "https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 131662,
       "name": "Lumi",
       "url": "https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186976,
       "name": "L\u00e1 Fora",
       "url": "https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 175530,
       "name": "N1",
       "url": "https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 171467,
       "name": "Nuvem",
       "url": "https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 166000,
       "name": "N\u00e3o Reclama",
       "url": "https://open.spotify.com/track/15FPsKZZPKJHepWm7cGssD"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 178101,
       "name": "Papa",
       "url": "https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble"
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 132961,
       "name": "Paralyzed.",
       "url": "https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5"
@@ -2481,6 +2499,24 @@
       "duration_ms": 161163,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho"
+      },
+      "artists": [
+        {
+          "name": "Tino OG",
+          "url": "https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210237,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA"
     },
     {
       "album": {
@@ -2742,6 +2778,28 @@
     },
     {
       "album": {
+        "name": "Sou Melhor",
+        "url": "https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        },
+        {
+          "name": "BiDU",
+          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Sou Melhor",
+      "url": "https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7"
       },
@@ -2811,7 +2869,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 150803,
       "name": "Teia",
       "url": "https://open.spotify.com/track/0WO2C0embY06EtHVysWPnd"
@@ -2873,6 +2931,24 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+    },
+    {
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1"
+      },
+      "artists": [
+        {
+          "name": "Dvk",
+          "url": "https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209525,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/327d58CiAlFKwANkMW1cKC"
     },
     {
       "album": {
@@ -3036,6 +3112,24 @@
     },
     {
       "album": {
+        "name": "Wine for me",
+        "url": "https://open.spotify.com/album/6B9wuurKE6Y6PTNRmzzGvk"
+      },
+      "artists": [
+        {
+          "name": "Nsnow",
+          "url": "https://open.spotify.com/artist/1Algk1jxKZzQc5OF1pDrxL"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Wine for me",
+      "url": "https://open.spotify.com/track/4x3qG5OWwVBFL7I7uNbiPE"
+    },
+    {
+      "album": {
         "name": "XtraLife",
         "url": "https://open.spotify.com/album/2kaDHvQQkkxoP6PpLFSwF9"
       },
@@ -3051,6 +3145,24 @@
       "duration_ms": 150000,
       "name": "XtraLife",
       "url": "https://open.spotify.com/track/5mWBcTJHjj38y1JHOl34Gc"
+    },
+    {
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1"
+      },
+      "artists": [
+        {
+          "name": "Dvk",
+          "url": "https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171665,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 ### [Fresh Finds AU & NZ: Best of 2022](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The top tracks from Fresh Finds AU & NZ this year\. Cover: RONA\. Artwork: Isu Kim
+> The top tracks from Fresh Finds AU & NZ this year\. Cover: RONA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,614 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,658 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,28 +85,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 75 | [No Drones in the Afterlife](https://open.spotify.com/track/074Vujxd52c5IRO18GKJx7) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [No Drones in the Afterlife](https://open.spotify.com/album/6aoiQ7osT5yVNRq9LBkQX1) | 4:17 |
 | 76 | [I Don't Know Why I Don't Leave You](https://open.spotify.com/track/7zimPtq6EDQFkvq62hKxIr) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [April](https://open.spotify.com/album/3AtQ9Xv3mByZMz4xb7jvZA) | 3:22 |
 | 77 | [Just like you](https://open.spotify.com/track/2F7wZP9pNJJhjeA9w6Hgf2) | [Ian Buller](https://open.spotify.com/artist/5mV5RdUE0DQw0z9pJcrKBS) | [Just like you](https://open.spotify.com/album/48D3st7whFO4VEXlxjGIuV) | 2:32 |
-| 78 | [Medicate Me](https://open.spotify.com/track/1d88UDqLKGh3QrReQ6x98O) | [DULCIE](https://open.spotify.com/artist/6hkXqvu5fT8qnUkjBJRQbF) | [Medicate Me](https://open.spotify.com/album/6km7ksCBUx4sFioGwjksS3) | 3:23 |
-| 79 | [Winter Rabbits](https://open.spotify.com/track/5s0XVq6XdjBBOKVPVacokV) | [Meteor Infant](https://open.spotify.com/artist/0BWRrcwvs5ZGakOalvB1s6) | [Winter Rabbits](https://open.spotify.com/album/2mH0HV3hnHywzXgjkPmEA2) | 3:18 |
-| 80 | [Tell You Something](https://open.spotify.com/track/7iTDm6hdnFOpQCPIqhkzEh) | [GMC](https://open.spotify.com/artist/1mjliHn4gJcgY5U5YtmFiP), [Jessica Jade](https://open.spotify.com/artist/5QhvvCYzyDhD6awcfIQeSf) | [Tell You Something](https://open.spotify.com/album/5OAbFKepdX1z8oZ07sD7FW) | 3:10 |
-| 81 | [Rainbow Light Beam](https://open.spotify.com/track/2lGqNhLlDIGyK9wX7VeIoo) | [Dirty Versachi](https://open.spotify.com/artist/0gyh3MRutl5SLUS2jxIWus) | [Rainbow Light Beam](https://open.spotify.com/album/1EwHc0k2LhBvVZAOzDzI89) | 3:01 |
-| 82 | [SKI LIFT 001](https://open.spotify.com/track/5hLvxLHFWmJ3El0vcUKET7) | [Jack Panther](https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN) | [SKI LIFT 001](https://open.spotify.com/album/0yNC7mLZ2rHoCsKxR3kJQ4) | 3:13 |
-| 83 | [Crave](https://open.spotify.com/track/1N9gYTjsWWCxQcPQLy1ZSw) | [D'Arcy Spiller](https://open.spotify.com/artist/7o5WFn4X3YuycrDdoEXqaO) | [Crave](https://open.spotify.com/album/2hzhnaVfLbaKd9NZc5B95v) | 3:22 |
-| 84 | [crazy love](https://open.spotify.com/track/4DjkI2a5W1FefIe8YDePt6) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [crazy love](https://open.spotify.com/album/4LhgGYqEed5Qc3uCpVUopV) | 3:05 |
-| 85 | [River Nile](https://open.spotify.com/track/7x66iN6EDL6mk06b7Uvzek) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [River Nile](https://open.spotify.com/album/7sEPdx8QZ354ir4Ql2FJi4) | 3:22 |
-| 86 | [All In Place](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 |
-| 87 | [More Love Less Ego](https://open.spotify.com/track/0J108bktY5gFnkCKyjugaF) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [More Love Less Ego](https://open.spotify.com/album/5IM9RNc09y1w6CPQkHyHiD) | 3:33 |
-| 88 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 |
-| 89 | [Goodmorning](https://open.spotify.com/track/4p7X0UhdnqQNYv0JAlW3Vj) | [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV), [Silentjay](https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh) | [Goodmorning](https://open.spotify.com/album/4h9jXrBK8QNnbIpARQJZzi) | 3:01 |
-| 90 | [Falling Away](https://open.spotify.com/track/1a5Ai6hDNiFwCsxIw9d8b5) | [edith](https://open.spotify.com/artist/6l9Hv70cP4vLDZIMl9KfKQ), [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Falling Away](https://open.spotify.com/album/3yjeisWRJnusRrjswpZCqi) | 3:39 |
-| 91 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
-| 92 | [Yourself](https://open.spotify.com/track/6haJYpF2OvFMn4OhQJcO6I) | [Ruby May Moon](https://open.spotify.com/artist/0EXsIxcmyOEr9VxKwhaatp) | [Ruby May Moments](https://open.spotify.com/album/3F5evqDcelOp5BDuJyIjUo) | 6:41 |
-| 93 | [Wildones](https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Wildones](https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR) | 3:04 |
-| 94 | [Getting Down](https://open.spotify.com/track/2MobfDigHK3xfkAbPrkyCI) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Getting Down](https://open.spotify.com/album/41MDMdTH0aHm1K3uOdAP19) | 3:31 |
-| 95 | [For You I Try](https://open.spotify.com/track/1gAJ4AaTzafUdeVT5lkfvh) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 5:08 |
-| 96 | [Limousine Lies](https://open.spotify.com/track/6knXoLZCEFx4i9yAIScw56) | [Pirra](https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M) | [Spirals \(Deluxe\)](https://open.spotify.com/album/1LU6OfLGm0ex7YqWLphHFd) | 3:27 |
+| 78 | [Winter Rabbits](https://open.spotify.com/track/5s0XVq6XdjBBOKVPVacokV) | [Meteor Infant](https://open.spotify.com/artist/0BWRrcwvs5ZGakOalvB1s6) | [Winter Rabbits](https://open.spotify.com/album/2mH0HV3hnHywzXgjkPmEA2) | 3:18 |
+| 79 | [Tell You Something](https://open.spotify.com/track/7iTDm6hdnFOpQCPIqhkzEh) | [GMC](https://open.spotify.com/artist/1mjliHn4gJcgY5U5YtmFiP), [Jessica Jade](https://open.spotify.com/artist/5QhvvCYzyDhD6awcfIQeSf) | [Tell You Something](https://open.spotify.com/album/5OAbFKepdX1z8oZ07sD7FW) | 3:10 |
+| 80 | [Rainbow Light Beam](https://open.spotify.com/track/2lGqNhLlDIGyK9wX7VeIoo) | [Dirty Versachi](https://open.spotify.com/artist/0gyh3MRutl5SLUS2jxIWus) | [Rainbow Light Beam](https://open.spotify.com/album/1EwHc0k2LhBvVZAOzDzI89) | 3:01 |
+| 81 | [SKI LIFT 001](https://open.spotify.com/track/5hLvxLHFWmJ3El0vcUKET7) | [Jack Panther](https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN) | [SKI LIFT 001](https://open.spotify.com/album/0yNC7mLZ2rHoCsKxR3kJQ4) | 3:13 |
+| 82 | [Crave](https://open.spotify.com/track/1N9gYTjsWWCxQcPQLy1ZSw) | [D'Arcy Spiller](https://open.spotify.com/artist/7o5WFn4X3YuycrDdoEXqaO) | [Crave](https://open.spotify.com/album/2hzhnaVfLbaKd9NZc5B95v) | 3:22 |
+| 83 | [crazy love](https://open.spotify.com/track/4DjkI2a5W1FefIe8YDePt6) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [crazy love](https://open.spotify.com/album/4LhgGYqEed5Qc3uCpVUopV) | 3:05 |
+| 84 | [River Nile](https://open.spotify.com/track/7x66iN6EDL6mk06b7Uvzek) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [River Nile](https://open.spotify.com/album/7sEPdx8QZ354ir4Ql2FJi4) | 3:22 |
+| 85 | [All In Place](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 |
+| 86 | [More Love Less Ego](https://open.spotify.com/track/0J108bktY5gFnkCKyjugaF) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [More Love Less Ego](https://open.spotify.com/album/5IM9RNc09y1w6CPQkHyHiD) | 3:33 |
+| 87 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 |
+| 88 | [Goodmorning](https://open.spotify.com/track/4p7X0UhdnqQNYv0JAlW3Vj) | [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV), [Silentjay](https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh) | [Goodmorning](https://open.spotify.com/album/4h9jXrBK8QNnbIpARQJZzi) | 3:01 |
+| 89 | [Falling Away](https://open.spotify.com/track/1a5Ai6hDNiFwCsxIw9d8b5) | [edith](https://open.spotify.com/artist/6l9Hv70cP4vLDZIMl9KfKQ), [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Falling Away](https://open.spotify.com/album/3yjeisWRJnusRrjswpZCqi) | 3:39 |
+| 90 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 |
+| 91 | [Yourself](https://open.spotify.com/track/6haJYpF2OvFMn4OhQJcO6I) | [Ruby May Moon](https://open.spotify.com/artist/0EXsIxcmyOEr9VxKwhaatp) | [Ruby May Moments](https://open.spotify.com/album/3F5evqDcelOp5BDuJyIjUo) | 6:41 |
+| 92 | [Wildones](https://open.spotify.com/track/1Ron2iUpdGroN01UsS7U3C) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Wildones](https://open.spotify.com/album/73NOUXLUwlOpa8uX8MKkLR) | 3:04 |
+| 93 | [Getting Down](https://open.spotify.com/track/2MobfDigHK3xfkAbPrkyCI) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Getting Down](https://open.spotify.com/album/41MDMdTH0aHm1K3uOdAP19) | 3:31 |
+| 94 | [For You I Try](https://open.spotify.com/track/1gAJ4AaTzafUdeVT5lkfvh) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 5:08 |
+| 95 | [Limousine Lies](https://open.spotify.com/track/6knXoLZCEFx4i9yAIScw56) | [Pirra](https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M) | [Spirals \(Deluxe\)](https://open.spotify.com/album/1LU6OfLGm0ex7YqWLphHFd) | 3:27 |
+| 96 | [What I Don't Know](https://open.spotify.com/track/24aBIKtbaWNolS439Fr66P) | [Lee Sugar](https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ) | [What I Don't Know](https://open.spotify.com/album/13JjycR07JZcVs22tvIObG) | 2:40 |
 | 97 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 |
 | 98 | [Always Wanting](https://open.spotify.com/track/33wHDiiQqBKXPz1W0xWI1L) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [Always Wanting](https://open.spotify.com/album/4hmAsGAWfaxJNL7uL9XKj4) | 4:07 |
 | 99 | [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 |
 | 100 | [Holiday](https://open.spotify.com/track/5jXEDcyBNbRmeXDwTbxA5U) | [Sunbather](https://open.spotify.com/artist/0lSrXS3AviAI69PscG7BM8) | [Holiday](https://open.spotify.com/album/7L5MPYDSDMqjGxza5nA32r) | 3:38 |
 
-Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMDY0OWExYzk0Y2Q3NjYyNDEzYmUwZjAwMGJjODNjZDhm`
+Snapshot ID: `MTY2OTk0MzM2OCwwMDAwMDAwMDljNDNiY2E4Yzc0YWRmNmY4NzdjMjE0ZjI3NWU3NGQ5`

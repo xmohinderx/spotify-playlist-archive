@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,531,924 likes - 240 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532,324 likes - 240 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 15 | [Choices](https://open.spotify.com/track/0NbAwRGkpCrY8FZsH6Cf3H) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Rebirth](https://open.spotify.com/album/15HpGCrBSILKo4XjPgTocD) | 3:12 |
 | 16 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 |
 | 17 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 |
-| 18 | [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Emil Fortini](https://open.spotify.com/artist/1Ce1nbaoW2Uw18C21ES7QG) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 |
+| 18 | [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 |
 | 19 | [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 |
 | 20 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 |
 | 21 | [Free](https://open.spotify.com/track/4Gy64kPK6SVwKdb4rs1emJ) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4) | [Anxiety Relief](https://open.spotify.com/album/5XF1VUAdmwVLiFHLh2892C) | 2:23 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 58 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 |
 | 59 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 |
 | 60 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 |
-| 61 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
+| 61 | [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 |
 | 62 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 |
 | 63 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 |
 | 64 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 69 | [Leniter](https://open.spotify.com/track/6TsWlVkbmD6PUVFNuNrzmw) | [Mente](https://open.spotify.com/artist/0s44CtxQI8KCHmf9R9kwtQ) | [Leniter](https://open.spotify.com/album/0lKpz8qThCynvYNgB6EAgN) | 2:55 |
 | 70 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 |
 | 71 | [Seguro](https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Descanso](https://open.spotify.com/album/1pzm6eTtrCOHYuyqGeCpoZ) | 2:37 |
-| 72 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
+| 72 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
 | 73 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 |
 | 74 | [Hankering](https://open.spotify.com/track/7dZf1E475t9raui9KSVC0L) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Hankering](https://open.spotify.com/album/7yZlegVo0up43u1nuQHfzu) | 2:49 |
 | 75 | [Meet Me At Sundown](https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Meet Me At Sundown](https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ) | 3:05 |

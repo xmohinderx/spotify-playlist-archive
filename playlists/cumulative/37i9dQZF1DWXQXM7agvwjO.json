@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Oslo Ibrahim (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: lost spaces, JAIE (Malaysia)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
@@ -457,6 +457,24 @@
       "duration_ms": 222626,
       "name": "Around You",
       "url": "https://open.spotify.com/track/3zuFzgkWtyZrHHqyVQVRSx"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/5zIoUBN2Z6HRWqgWyPfpbu"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168920,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1m6OZWfg2jwtaoxh6QBXCv"
     },
     {
       "album": {
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 187840,
       "name": "Center of the Universe",
       "url": "https://open.spotify.com/track/5ZibH2171yDvE6mTVAVG25"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 161003,
       "name": "Cooking For One",
       "url": "https://open.spotify.com/track/2GurjJblHxTdQ7OVmQFfKJ"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 214711,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7"
@@ -3270,6 +3288,24 @@
     },
     {
       "album": {
+        "name": "A Little Cold",
+        "url": "https://open.spotify.com/album/2TQbE1BPPmklgjBJ4fd7KK"
+      },
+      "artists": [
+        {
+          "name": "yewee",
+          "url": "https://open.spotify.com/artist/1zQITcXMrdgZWsBF0dgwXD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272249,
+      "name": "homing",
+      "url": "https://open.spotify.com/track/59Z7pmEAeAdCBjX0bXfcNc"
+    },
+    {
+      "album": {
         "name": "honest (feat. moon tang)",
         "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
       },
@@ -3871,7 +3907,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 147959,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl"
@@ -4171,7 +4207,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 215113,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx"
@@ -4830,6 +4866,28 @@
     },
     {
       "album": {
+        "name": "Melody on Replay",
+        "url": "https://open.spotify.com/album/0nbF8G410gMpuDCv7TMIx6"
+      },
+      "artists": [
+        {
+          "name": "jomm",
+          "url": "https://open.spotify.com/artist/2izgD6xMmNboivbb1A6PHE"
+        },
+        {
+          "name": "readyaimfire27",
+          "url": "https://open.spotify.com/artist/2Y65mGq91IEC2tfXNotVQ2"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168164,
+      "name": "Melody on Replay",
+      "url": "https://open.spotify.com/track/1rXM4OirUNGGtkbYeqZ9je"
+    },
+    {
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/58X1FSKjMEcuWTyHWU9LSX"
       },
@@ -5413,6 +5471,28 @@
       "duration_ms": 249272,
       "name": "Night Swimming",
       "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+    },
+    {
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "album": {
@@ -6492,6 +6572,24 @@
     },
     {
       "album": {
+        "name": "Sera",
+        "url": "https://open.spotify.com/album/1ZTFntttDauVPZGMS2iiTH"
+      },
+      "artists": [
+        {
+          "name": "Dried Cassava",
+          "url": "https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "Sera",
+      "url": "https://open.spotify.com/track/5fJyD0EG6uBxcExhUlYZZq"
+    },
+    {
+      "album": {
         "name": "Shangri-La Is Calling",
         "url": "https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK"
       },
@@ -6521,7 +6619,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 184343,
       "name": "Shortcut To Heaven",
       "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
@@ -6687,6 +6785,24 @@
       "duration_ms": 173709,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2lv3jXwprDdxCMFo1op1hX"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218058,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/1Tn7cUi0j40twvnJKl5OOW"
     },
     {
       "album": {
@@ -7193,7 +7309,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 199820,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa"
@@ -7991,7 +8107,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 168413,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/0OhpCv3zEWYQzB00TdXEjz"
@@ -9377,6 +9493,28 @@
       "duration_ms": 238189,
       "name": "\u900f\u660e\u7684\u4f60",
       "url": "https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW"
+    },
+    {
+      "album": {
+        "name": "\u9014\u4e2d",
+        "url": "https://open.spotify.com/album/2JkrYRPnJyStuspThL1Raz"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        },
+        {
+          "name": "UQiYO",
+          "url": "https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211044,
+      "name": "\u9014\u4e2d",
+      "url": "https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f"
     },
     {
       "album": {

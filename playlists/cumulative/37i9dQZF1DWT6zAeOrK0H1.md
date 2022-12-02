@@ -4,7 +4,7 @@
 
 > Home of the best bands orbiting the universe right now\. Cover: Wet Leg
 
-183 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
+184 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/1G49YSmV3HVbe641zBfJx5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 | 2022-05-06 |  |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-03-18 | 2022-06-03 |
 | [The Walk Home](https://open.spotify.com/track/0H80LQh9hsFkw8KixEzzpK) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT II: EXILE](https://open.spotify.com/album/2N3H5myg0DidN2t5XejOWT) | 3:16 | 2022-08-11 | 2022-10-13 |
-| [The Walk Home](https://open.spotify.com/track/1f3BDEecxOnr0mdWKR38OB) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts I & II](https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz) | 3:16 | 2022-10-13 |  |
+| [The Walk Home](https://open.spotify.com/track/0sfrbCvmUUfJgZlKqXQbQ6) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:16 | 2022-11-17 |  |
+| [The Walk Home](https://open.spotify.com/track/1f3BDEecxOnr0mdWKR38OB) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts I & II](https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz) | 3:16 | 2022-10-13 | 2022-12-02 |
 | [The Walk Home](https://open.spotify.com/track/3qXnXLBFb0WOXWqC8VhfS8) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT II: EXILE](https://open.spotify.com/album/03lZO49V6jb5MiA0joXo4K) | 3:16 | 2022-10-13 | 2022-11-13 |
 | [The Walk Home](https://open.spotify.com/track/4kH6YMzlukEACFU36d7Ih7) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT I & II](https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb) | 3:16 | 2022-09-01 | 2022-11-02 |
 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 | 2022-09-01 | 2022-10-14 |

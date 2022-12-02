@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 462779,
+  "num_followers": 462905,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMGFjOWEzYzBmODZkMTliNjk4Zjk0Nzk5YTBkNjZlZGQw",
+  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMDBkOTJkOWUyODAzMDAzNDRiZjQwODc0Yzg3OTI0NWIx",
   "tracks": [
     {
       "added_at": "2022-10-14 07:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 355933,
-      "name": "Space Lord",
-      "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 343160,
       "name": "Dragonaut",
       "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 355933,
+      "name": "Space Lord",
+      "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Tame Impala",
         "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 266920,
       "name": "Half Full Glass Of Wine",
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        }
-      ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Agents Of Ahriman",
         "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Dig. Sow. Love. Grow.",
-        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
       },
       "artists": [
         {
-          "name": "Buffalo Killers",
-          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 209643,
       "name": "Enemy of My Enemy",
       "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Dig. Sow. Love. Grow.",
+        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Killers",
+          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 392000,
-      "name": "Look To Your Orb For The Warning",
-      "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Psychic Warfare",
         "url": "https://open.spotify.com/album/6lcvofLOkuwd6pxQxCE5iB"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 222134,
       "name": "X-Ray Visions",
       "url": "https://open.spotify.com/track/3MWjHnS7hpzrtRqNhT4DsS"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Look To Your Orb For The Warning",
+      "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ"
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
       "artists": [
         {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W"
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
         }
       ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Dead Roots Stirring",
         "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 196853,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
-      },
-      "artists": [
-        {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "The Sciences",
-        "url": "https://open.spotify.com/album/6X0ErPKlQAxQDhWKNprz7u"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 400415,
-      "name": "Marijuanaut's Theme",
-      "url": "https://open.spotify.com/track/6zIcwUvXpw1cTJWYGYdpX4"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Son of Earth and Sky",
         "url": "https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 549640,
       "name": "Ages Move the Earth",
       "url": "https://open.spotify.com/track/4w6W7kTcv13sbJutJXoPYh"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "The Sciences",
+        "url": "https://open.spotify.com/album/6X0ErPKlQAxQDhWKNprz7u"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 400415,
+      "name": "Marijuanaut's Theme",
+      "url": "https://open.spotify.com/track/6zIcwUvXpw1cTJWYGYdpX4"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Repeater",
-        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
-      },
-      "artists": [
-        {
-          "name": "King Buffalo",
-          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
-        }
-      ],
-      "duration_ms": 356824,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
+      },
+      "artists": [
+        {
+          "name": "King Buffalo",
+          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
+        }
+      ],
+      "duration_ms": 356824,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
-      },
-      "artists": [
-        {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
-        }
-      ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "All You Can Eat!!",
         "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 228693,
       "name": "Putain!",
       "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+      },
+      "artists": [
+        {
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+        }
+      ],
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Acid Roulette",
-        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
-      },
-      "artists": [
-        {
-          "name": "Scorpion Child",
-          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
-        }
-      ],
-      "duration_ms": 349466,
-      "name": "Acid Roulette",
-      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Back From The Abyss",
         "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 378920,
       "name": "Heavy Lies The Crown",
       "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Acid Roulette",
+        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
+      },
+      "artists": [
+        {
+          "name": "Scorpion Child",
+          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
+        }
+      ],
+      "duration_ms": 349466,
+      "name": "Acid Roulette",
+      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Boxriff",
-        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
-      },
-      "artists": [
-        {
-          "name": "The Atomic Bitchwax",
-          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "So Come On",
-      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "\u00c4ppeltr\u00e4det",
         "url": "https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 349026,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Boxriff",
+        "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
+      },
+      "artists": [
+        {
+          "name": "The Atomic Bitchwax",
+          "url": "https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "So Come On",
+      "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
     },
     {
       "added_at": "2022-10-14 07:00:00",

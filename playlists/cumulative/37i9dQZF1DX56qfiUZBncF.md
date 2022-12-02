@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-246 songs - 14 hr 36 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+247 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7) | [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp), [koby](https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02) | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb) | 3:39 | 2021-02-02 |  |
 | [On the Lookout](https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout](https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E) | 3:49 | 2022-04-29 |  |
 | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/track/3kYd839jswPw1go3Sd6nvf) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/album/3Pa9zmTEmVn16bzR0DWibl) | 3:49 | 2020-11-04\* | 2022-07-29 |
+| [On Your Side](https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 4:08 | 2022-04-29 |  |
 | [On Your Side](https://open.spotify.com/track/4QaNcBEEzo8iTetgnZ1PUj) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [On Your Side](https://open.spotify.com/album/03lh3gqeP8wvvqe2ou9jW3) | 4:08 | 2021-10-19 | 2022-09-29 |
 | [On Your Side](https://open.spotify.com/track/7eibB2Fznm06VctGGJnYd9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 4:08 | 2022-04-29 | 2022-11-18 |
 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 | 2021-02-26 | 2022-11-13 |
@@ -185,7 +186,7 @@
 | [Rebound](https://open.spotify.com/track/5VhqfEogUz8FvBZrFK8I4M) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb), [Nick Hill](https://open.spotify.com/artist/3UcDmN34xqN0zyMFZkY3jk), [JANEVA](https://open.spotify.com/artist/6gmHQVzmcuzRTAv2fhjSfm) | [Rebound](https://open.spotify.com/album/4bxtB1niW98Y3wvuh46zWj) | 4:04 | 2020-11-04\* | 2022-11-13 |
 | [Repeat Pleasure](https://open.spotify.com/track/1sMdCnlHMzKpOPcoZuHvQt) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 3:35 | 2020-11-04\* | 2021-10-20 |
 | [Right Here Right Now](https://open.spotify.com/track/0isjCoV7jZ3lx6Vuo2Slnu) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Right Here Right Now](https://open.spotify.com/album/7ejhAdGh6Mae7IuZLSKlel) | 3:03 | 2020-11-04\* | 2021-10-20 |
-| [River's Song](https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g) | [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [River's Song](https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc) | 4:08 | 2021-01-23 |  |
+| [River's Song](https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g) | [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [River's Song](https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc) | 4:08 | 2021-01-23 | 2022-12-02 |
 | [Run Run \- Japanese Wallpaper Remix](https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Run Run \(Japanese Wallpaper Remix\)](https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr) | 3:25 | 2021-01-08 |  |
 | [Santa Monica](https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 3:22 | 2020-11-04\* |  |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2022-04-29 |  |

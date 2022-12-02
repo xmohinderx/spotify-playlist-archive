@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: La Femme",
+  "description": "The best French indie tracks right now. Cover: November Ultra",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "BB toi & moi",
+        "url": "https://open.spotify.com/album/3kV1bmXtcOSdv8nEyZpuBv"
+      },
+      "artists": [
+        {
+          "name": "Petit Nuage",
+          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172509,
+      "name": "BB toi & moi",
+      "url": "https://open.spotify.com/track/1CyELRjfViP1ihdN8i0GKI"
+    },
+    {
+      "album": {
         "name": "bedroom walls",
         "url": "https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U"
       },
@@ -471,6 +489,24 @@
       "duration_ms": 224413,
       "name": "C'est Dur",
       "url": "https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K"
+      },
+      "artists": [
+        {
+          "name": "Hyphen Hyphen",
+          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220821,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK"
     },
     {
       "album": {
@@ -1299,7 +1335,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 201409,
       "name": "Grande Vitesse",
       "url": "https://open.spotify.com/track/6NYeUwjXuC87QmqS6ymZe2"
@@ -1610,6 +1646,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/1A8aK9FTyjeX0bJU1uOgaG"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/381x7xMIdqXgCnkpoMX2X7"
+    },
+    {
+      "album": {
         "name": "Insomnie",
         "url": "https://open.spotify.com/album/7qDXuKVsxawV8fLe9xl8N2"
       },
@@ -1664,6 +1718,28 @@
     },
     {
       "album": {
+        "name": "j'attends",
+        "url": "https://open.spotify.com/album/0lernxYMPwdcFGvEDv3att"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        },
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "j'attends",
+      "url": "https://open.spotify.com/track/23I9xqbbq8ii3SK59VoeuQ"
+    },
+    {
+      "album": {
         "name": "Je ne t'appartiens pas",
         "url": "https://open.spotify.com/album/4GN8F1jaywulz1Y88JkdEc"
       },
@@ -1675,7 +1751,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 157895,
       "name": "Je ne t'appartiens pas",
       "url": "https://open.spotify.com/track/4BHHWZKuwXCD4ipP8WhFhD"
@@ -2033,7 +2109,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 159240,
       "name": "La vie devant",
       "url": "https://open.spotify.com/track/5FI951jqwJAnzHaQ8f4ye2"
@@ -2709,6 +2785,24 @@
       "duration_ms": 202520,
       "name": "Nouveau Genre",
       "url": "https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb"
+    },
+    {
+      "album": {
+        "name": "novembre",
+        "url": "https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "novembre",
+      "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
     },
     {
       "album": {
@@ -3527,7 +3621,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 217714,
       "name": "Tactile",
       "url": "https://open.spotify.com/track/4mhQB2RbdTafiNaw6mIYnX"
@@ -3653,7 +3747,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 212000,
       "name": "Tired",
       "url": "https://open.spotify.com/track/2uRnFJyQ3OGk9Z1WzrPU9c"

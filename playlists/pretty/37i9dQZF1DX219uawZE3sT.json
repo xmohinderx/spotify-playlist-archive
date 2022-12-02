@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 103779,
+  "num_followers": 103810,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDQ3MmJhMDY1Y2VlYzcwZDZkZDllNGE4ZWRjOTFlZjBk",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMGQ1ZjNiN2Y5ZmNmMjk0MzQ3YmIxZjE5NzU4YzVjNDM1",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Entre Mariposas",
         "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 226733,
       "name": "En Su Lugar",
       "url": "https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Solo Bolero",
-        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 283680,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Ricardo Montaner Volumen 2",
         "url": "https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 256506,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/2yAQWxFEkBD7SWA1aemkua"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Solo Bolero",
+        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 283680,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
     },
     {
       "added_at": "2022-05-06 18:32:26",

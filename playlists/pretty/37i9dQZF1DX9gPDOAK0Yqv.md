@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 75 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 985 likes - 75 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 34 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 |
 | 35 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 |
 | 36 | [Otherside \- Fideles Remix Edit](https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Otherside \(Fideles Remix Edit\)](https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf) | 4:30 |
-| 37 | [System](https://open.spotify.com/track/5E8Q6eXY1EGAnf9a8vF8eT) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:07 |
-| 38 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 |
+| 37 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 |
+| 38 | [System](https://open.spotify.com/track/5E8Q6eXY1EGAnf9a8vF8eT) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:07 |
 | 39 | [Better Together](https://open.spotify.com/track/0NJRskEVmAdgBXq9LVuHPs) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Watergate 20 Years \(Pt\. 2/8\)](https://open.spotify.com/album/5wnaw4TaaogpSllYqt2Mix) | 3:21 |
 | 40 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 |
 | 41 | [Accordia](https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:08 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 69 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 |
 | 70 | [Mutant Disco \- Original](https://open.spotify.com/track/0oFgQ7eTFDuuvxV5aucMDq) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Mutant Series](https://open.spotify.com/album/6z7ja8yliHzpMMrZpzThjn) | 6:59 |
 | 71 | [Simulacrum](https://open.spotify.com/track/1W1uFNsvlGIpC2WFNCVNIr) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/3QLiQ0hFrcrlNoUjc8KGAb) | 6:06 |
-| 72 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 |
-| 73 | [New World](https://open.spotify.com/track/3q4e7f2g9FeA6yh9PfS78H) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Symbiosis One](https://open.spotify.com/album/64bLKFRFtgwGKWHs8qZe68) | 6:51 |
-| 74 | [Take Me 7](https://open.spotify.com/track/3ZDQDKDD7QaIaH6BaKwXJa) | [MOLLA](https://open.spotify.com/artist/2mtAqjFc61b8S8as9ZFvBN) | [Take Me 7](https://open.spotify.com/album/0cKigbWtjzuptUBAWOy6gE) | 6:02 |
-| 75 | [Unconventional](https://open.spotify.com/track/1JlWt0i5IvccZPa5VslXaS) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Unconventional Ride](https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq) | 6:39 |
+| 72 | [Unconventional](https://open.spotify.com/track/1JlWt0i5IvccZPa5VslXaS) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Unconventional Ride](https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq) | 6:39 |
+| 73 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 |
+| 74 | [New World](https://open.spotify.com/track/3q4e7f2g9FeA6yh9PfS78H) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Symbiosis One](https://open.spotify.com/album/64bLKFRFtgwGKWHs8qZe68) | 6:51 |
+| 75 | [Take Me 7](https://open.spotify.com/track/3ZDQDKDD7QaIaH6BaKwXJa) | [MOLLA](https://open.spotify.com/artist/2mtAqjFc61b8S8as9ZFvBN) | [Take Me 7](https://open.spotify.com/album/0cKigbWtjzuptUBAWOy6gE) | 6:02 |
 
-Snapshot ID: `MTY2OTY1OTgyMCwwMDAwMDAwMDMwNjdkYmJlYmNlYWI2ZTJlNzQ5MDZmZDA5MDBhOTA0`
+Snapshot ID: `MTY2OTY1OTgyMCwwMDAwMDAwMDcwZWEzYzFiMTI5MTdiZDhkMTY2Mzk0MTM2NGI5YjI4`

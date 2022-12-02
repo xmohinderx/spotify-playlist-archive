@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 19453,
+  "num_followers": 19462,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGM3NGJlYzM0MmVhZWI0N2Q0OTdjYzJkY2IzMTVjZGU5",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMGI1MzA0OGMzYzcwNDZkNGM5OWZkMjkzZGEwNDVlODdl",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Gran Pilastro",
-        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9onie Deval",
-          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Gran Pilastro",
-      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Daniela Liebman",
         "url": "https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 418546,
       "name": "Ponce: Balada Mexicana",
       "url": "https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Gran Pilastro",
+        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Deval",
+          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Gran Pilastro",
+      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
     },
     {
       "added_at": "2021-01-18 15:57:14",

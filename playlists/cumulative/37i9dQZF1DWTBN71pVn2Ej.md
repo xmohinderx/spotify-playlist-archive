@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-263 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+264 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Dead Wake](https://open.spotify.com/track/572Y0uRnjxPXYGzEAPChtb) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Dead Wake / Scavengers \(Acoustic\)](https://open.spotify.com/album/660CDua6AJT4ukoeursCgV) | 4:55 | 2022-05-19 | 2022-09-07 |
 | [Decompress](https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:39 | 2022-03-21 | 2022-04-06 |
 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-31 | 2022-09-07 |
+| [Didn't Even Know What I Was Looking For](https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:09 | 2022-11-25 |  |
 | [Didn’t Know](https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Future Me](https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ) | 3:07 | 2022-06-09 | 2022-09-07 |
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-03 | 2022-06-10 |
 | [Disgusting](https://open.spotify.com/track/37DRi2hcNwEhlT0jEnyLAX) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Disgusting](https://open.spotify.com/album/6AfbbjvJ5clKLalUyNZ4Dv) | 3:09 | 2022-06-16 | 2022-08-13 |

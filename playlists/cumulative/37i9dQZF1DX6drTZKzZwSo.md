@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-82 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
+83 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/66zY7GIyu4yLAF1qxJVp8B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 | 2020-04-14 |  |
 | [Put a Little Love On Me](https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 4:29 | 2020-04-14 |  |
 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 | 2020-04-14 |  |
-| [Sea Groove](https://open.spotify.com/track/4lhFA1E4MFfPeO9gYJEZOs) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/7qMC3PZNBjYRXcBfOi7hgt) | 4:28 | 2020-04-14 |  |
+| [Sea Groove](https://open.spotify.com/track/4lhFA1E4MFfPeO9gYJEZOs) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/7qMC3PZNBjYRXcBfOi7hgt) | 4:28 | 2020-04-14 | 2022-12-02 |
+| [Sea Groove](https://open.spotify.com/track/60vuy9MXz1dgM5EKGmGCYt) | [Big Boss Man](https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X) | [Humanize](https://open.spotify.com/album/604icvBHTAfT7q9RvJak3A) | 4:28 | 2020-04-14 |  |
 | [Serpentine Fire](https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:50 | 2020-04-14 |  |
 | [Shake Your Pants](https://open.spotify.com/track/0tfpEQyUeGuZ5bITdt8CfT) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [The Definitive Collection](https://open.spotify.com/album/0ewrF9ttoNB8FhDmWLDJzA) | 6:21 | 2020-04-14 | 2022-11-13 |
 | [Shake Your Pants](https://open.spotify.com/track/1PlbtE9lsZ1p9iDbXzvtCp) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Anthology](https://open.spotify.com/album/5QUldCK9QqBg5Gv1LVJvDI) | 6:22 | 2020-04-14 |  |

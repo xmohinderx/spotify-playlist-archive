@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-259 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+260 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [I Miss You](https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Within a Dream](https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4) | 4:18 | 2020-10-09 |  |
 | [I Remember Clifford](https://open.spotify.com/track/5LaTsDrhrpXwLniidLpnF7) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 7:08 | 2020-10-09 | 2022-06-29 |
 | [I Was So Young, And You Were So Beautiful](https://open.spotify.com/track/4N7iWwgqcWr3p5JzngOSEF) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 3:54 | 2020-10-09 |  |
+| [I Wish You Met Her](https://open.spotify.com/track/5Meffn7R7UxaTo7LbUjvWV) | [Claudio Jr De Rosa](https://open.spotify.com/artist/1gam3nB9smXwsHKjVffhuM) | [I Wish You Met Her](https://open.spotify.com/album/2Qmi1r9hpLHM0wHWWbx8vb) | 5:10 | 2022-12-01 |  |
 | [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2020-10-09 |  |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2021-10-22 |  |
 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 | 2020-10-09 |  |

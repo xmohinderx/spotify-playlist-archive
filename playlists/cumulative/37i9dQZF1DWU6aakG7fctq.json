@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Selene",
+  "description": "Fresh Latin Indie. Cover: Yorghaki",
   "name": "el nuevo indie",
   "published_playlist_ids": [
     "7MnJ2IoUwoMwkesw4ELHCy"
@@ -103,6 +103,28 @@
       "duration_ms": 239719,
       "name": "Aeroplanos",
       "url": "https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx"
+    },
+    {
+      "album": {
+        "name": "Alej\u00e9monos",
+        "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165458,
+      "name": "Alej\u00e9monos",
+      "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
     },
     {
       "album": {
@@ -645,6 +667,24 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "album": {
+        "name": "QUIERO SENTIR (ALGO M\u00c1S)",
+        "url": "https://open.spotify.com/album/1wYpUy7QxpnvQiFhrx3pZY"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "CONTRA LA GRAVEDAD",
+      "url": "https://open.spotify.com/track/5dwGYep3MF7lOpDvgQoj2q"
     },
     {
       "album": {
@@ -1311,7 +1351,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 184250,
       "name": "Hace 10 A\u00f1os",
       "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
@@ -2367,7 +2407,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 246750,
       "name": "Obras",
       "url": "https://open.spotify.com/track/6f0HsVqhnyhIh4KqW6ew3K"

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-197 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/2HGElLQ4Q40P5HXdU6etvf)
+198 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/2HGElLQ4Q40P5HXdU6etvf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amor de Colegio](https://open.spotify.com/track/5iL0uFVH2Tbs0va98alaim) | [Shamela](https://open.spotify.com/artist/4WTzL7Drkcq6YzOwhSE9Dj), [Baby Lores](https://open.spotify.com/artist/5xRtCPL9lt9Gp1HP4JhAkl) | [I Dance Cuban Salsa 2016 \(Salsa y Timba Hits\)](https://open.spotify.com/album/1dmWElr6x3DcO1HUJ5rODz) | 3:50 | 2020-08-25 | 2022-07-27 |
 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 | 2020-08-25 |  |
 | [Amor Verdadero](https://open.spotify.com/track/2qudLQVpY4JV1eq7ned5v1) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/0rRl0T3bOxEI72TSRfeFmq) | 6:38 | 2020-08-25 | 2022-07-29 |
-| [Arrebátate](https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Así Somos](https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF) | 3:46 | 2020-08-25 |  |
+| [Arrebátate](https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Así Somos](https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF) | 3:46 | 2020-08-25 | 2022-12-02 |
 | [Arrebátate](https://open.spotify.com/track/650iG8nnIvgj7KbQLzg5RW) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Así Somos](https://open.spotify.com/album/4nWmxmaBn9S0bbISrrXJ0Y) | 3:46 | 2020-08-25 | 2022-07-28 |
 | [Arriba de la bola](https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co) | [Manolín, El Médico De La Salsa](https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV) | [Grandes éxitos](https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759) | 5:10 | 2020-08-25 | 2022-07-15 |
 | [Arriba De Lo Mal Hecho](https://open.spotify.com/track/0HndPrOb4F9ZdM3HATjueL) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Latin Hits 2015 Summer Edition \- 34 Latin Music Hits \(Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton, Kuduro, Latin Fitness\)](https://open.spotify.com/album/5B3LPTQOqxmMk2fHKerTBc) | 4:13 | 2020-08-25 | 2022-04-21 |
@@ -180,6 +180,7 @@
 | [Tu Me Recordarás](https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 6:32 | 2020-08-25 |  |
 | [Tu Papi Soy Yo](https://open.spotify.com/track/1r5RcPz2VeZU54zo6wpUCL) | [Manana Club y Papucho](https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD) | [Mi Manana](https://open.spotify.com/album/44RPF43C1utCGmPBkLO7YO) | 4:55 | 2020-08-25 | 2022-05-29 |
 | [Tu Silueta](https://open.spotify.com/track/0C7lZ9CYEJ524uD0xJQmex) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Más Duro](https://open.spotify.com/album/3zR9fk3CXln9qMLVMrJyK6) | 4:24 | 2020-08-25 | 2022-07-24 |
+| [Un beso](https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Un beso](https://open.spotify.com/album/5YLIFTDokuqZWwAxuIqXRq) | 4:02 | 2020-08-25 |  |
 | [Un Beso](https://open.spotify.com/track/5e26zXhmhW8zlWgCSPfxLR) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 4:02 | 2020-08-25 | 2022-11-14 |
 | [Un Bonche en el Gao](https://open.spotify.com/track/1HDWo56kjU3GZ5FhG1r72q) | [Manana Club y Papucho](https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD) | [Mi Manana](https://open.spotify.com/album/44RPF43C1utCGmPBkLO7YO) | 3:46 | 2020-08-25 | 2022-06-16 |
 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 | 2020-08-25 | 2022-07-18 |

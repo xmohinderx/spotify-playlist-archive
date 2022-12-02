@@ -813,10 +813,28 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 199576,
       "name": "Nie Pytaj Mnie",
       "url": "https://open.spotify.com/track/5fB1BAJ7w9bCpjqycKiW3R"
+    },
+    {
+      "album": {
+        "name": "Aquaria",
+        "url": "https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv"
+      },
+      "artists": [
+        {
+          "name": "Doda",
+          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199576,
+      "name": "Nie Pytaj Mnie",
+      "url": "https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl"
     },
     {
       "album": {
@@ -915,6 +933,24 @@
     {
       "album": {
         "name": "Aquaria",
+        "url": "https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv"
+      },
+      "artists": [
+        {
+          "name": "Doda",
+          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Riotka",
+      "url": "https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6"
+    },
+    {
+      "album": {
+        "name": "Aquaria",
         "url": "https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe"
       },
       "artists": [
@@ -925,7 +961,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 185733,
       "name": "Riotka",
       "url": "https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle"

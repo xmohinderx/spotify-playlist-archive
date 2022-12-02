@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Avril Lavigne, YUNGBLUD
 
-505 songs - 1 day 4 hr 24 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
+506 songs - 1 day 4 hr 28 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,8 +477,9 @@
 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 | 2022-04-15 | 2022-05-07 |
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-05-06 | 2022-05-14 |
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-06-17 | 2022-10-13 |
-| [Wake Up](https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts I & II](https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz) | 3:36 | 2022-10-28 |  |
+| [Wake Up](https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts I & II](https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz) | 3:36 | 2022-10-28 | 2022-12-02 |
 | [Wake Up](https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT I & II](https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb) | 3:36 | 2022-10-07 | 2022-11-02 |
+| [Wake Up](https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:36 | 2022-11-25 |  |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-07-16 |
 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 | 2022-03-04 | 2022-04-29 |
 | [Warriors](https://open.spotify.com/track/5dq7kJxJRIWsu39gvp6DKz) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Warriors](https://open.spotify.com/album/4I61bW3dyG0G4FgmLwjXmg) | 3:34 | 2022-09-30 |  |

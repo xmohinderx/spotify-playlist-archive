@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Stormzy, Machine Gun Kelly, Avril Lavigne, Jung Kook of BTS, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,001,702 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,002,032 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 72 | [Last Week](https://open.spotify.com/track/08OYnbJZtfdyAg1QNF1hdY) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Last Week](https://open.spotify.com/album/0CkMou5uaVWlcgUlbyNLL5) | 1:50 |
 | 73 | [Suge Knight](https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Suge Knight](https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj) | 8:18 |
 | 74 | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju) | 3:13 |
-| 75 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 |
+| 75 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 |
 | 76 | [Cherry](https://open.spotify.com/track/0Jdbxs4C5epbA8hGwxWC8c) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cherry](https://open.spotify.com/album/0tIYqm90QMQfzMQDa0SCMO) | 2:46 |
 | 77 | [Same People](https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Same People](https://open.spotify.com/album/4oMlqE0MvhO3yYFHqIvDv6) | 3:07 |
 | 78 | [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 |

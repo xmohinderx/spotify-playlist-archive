@@ -2,7 +2,7 @@
 
 ### [Punk Christmas](https://open.spotify.com/playlist/37i9dQZF1DX3N4mXY2MuSz)
 
-> Holiday classics from your favourite punks\. Cover: Neck Deep
+> Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
 182 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
 

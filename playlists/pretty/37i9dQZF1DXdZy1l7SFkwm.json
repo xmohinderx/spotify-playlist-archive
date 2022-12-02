@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 31354,
+  "num_followers": 31360,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDU3ZGVkYzFkNzg4YTc5NGI2YTIzNzYxNGM0NGIzMmU2",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDVkZjRjYmE3OTQ5MmRmNmY2YjAyNGU2NDNkODRjNTIx",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 214933,
       "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
       "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Entre Dos Aguas",
-        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
         "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Wonderful World, Beautiful People",
         "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 164066,
       "name": "Many Rivers To Cross",
       "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Lonely Teardrops",
-        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Lonely Teardrops",
-      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -879,6 +863,22 @@
       "duration_ms": 219093,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Lonely Teardrops",
+        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Lonely Teardrops",
+      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Estoy Como Nunca",
         "url": "https://open.spotify.com/album/1R0WJw960zHMiruda6o1Lb"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 301600,
       "name": "Estoy como nunca",
       "url": "https://open.spotify.com/track/3aTSo5FtNDv6PQJFV9Jmxa"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Our Day Will Come",
+      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/4d8IqRNN8UX3vxtS6jnBA8"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 112466,
-      "name": "Remelexo",
-      "url": "https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Guisando: Doing A Job",
         "url": "https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 429840,
       "name": "No Me Den Candela",
       "url": "https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/4d8IqRNN8UX3vxtS6jnBA8"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 112466,
+      "name": "Remelexo",
+      "url": "https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Caetano Veloso",
-        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
+        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
+        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Soy Loco Por Ti America - Remastered 2006",
-      "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
+      "duration_ms": 152226,
+      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
-        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
+        "name": "Caetano Veloso",
+        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
       },
       "artists": [
         {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 152226,
-      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
+      "duration_ms": 223866,
+      "name": "Soy Loco Por Ti America - Remastered 2006",
+      "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
     },
     {
       "added_at": "2021-03-15 16:04:53",

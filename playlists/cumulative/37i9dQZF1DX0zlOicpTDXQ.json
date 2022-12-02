@@ -895,10 +895,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 113431,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/5MZIf575KHLmkjKaJUhN7B"
+    },
+    {
+      "album": {
+        "name": "Happy Holidays",
+        "url": "https://open.spotify.com/album/3ReUiVwo63hIrpuayiGyhe"
+      },
+      "artists": [
+        {
+          "name": "Steve Ornest",
+          "url": "https://open.spotify.com/artist/7lVE1IFtrZIwgHU7Y8Rt6B"
+        },
+        {
+          "name": "Lily Horrocks",
+          "url": "https://open.spotify.com/artist/3QtB7iPK0IZBnlT9fXLgBN"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113431,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/59Je1JnCLGs6PvdvDxZ6ln"
     },
     {
       "album": {

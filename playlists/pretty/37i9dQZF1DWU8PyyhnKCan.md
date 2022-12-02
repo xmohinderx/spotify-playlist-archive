@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 
 ### [Best of VOCALOID 2022](https://open.spotify.com/playlist/37i9dQZF1DWU8PyyhnKCan)
 
-> Best VOCALOID Songs in 2022! 2022年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生されたアーティスト別ベスト50 ! cover: ピノキオピー（PinocchioP\)
+> Best VOCALOID Songs in 2022! 2022年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生されたアーティスト別ベスト50 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: ピノキオピー（PinocchioP\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8PyyhnKCan.md) - [plain]
 | 49 | [チュルリラ・チュルリラ・ダッダッダ!](https://open.spotify.com/track/0M1JGQcBPw0Wx4HJTYSnAz) | [WADATAKEAKI KurageP](https://open.spotify.com/artist/3N1Bm1zHjxERruWhTsoQXO) | [わたしの未成年観測](https://open.spotify.com/album/49gFmYr9KCdaxCXr2d8HxF) | 3:16 |
 | 50 | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/track/060o2JWYP7I22bHf7ZpWfV) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/album/2kCOKJUHG8bLievJdoXaJy) | 3:28 |
 
-Snapshot ID: `MTY2OTgxOTc3OSwwMDAwMDAwMGQ4MzEyNjQwODkwZWNhMjQzMzU5ZTUwYTk0MDhhNjcz`
+Snapshot ID: `MTY2OTg1NzkwOSwwMDAwMDAwMGQ5YzI1YzA5MjJhMWZmNTZkNzg2NmZiZTNhYjIxM2Ji`

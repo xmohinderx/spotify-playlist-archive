@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: TiaCorine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,496 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,626 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 28 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 |
 | 29 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
 | 30 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 |
-| 31 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 |
+| 31 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/5jBQATS4iLhsYP7pGhdAcp) | 2:40 |
 | 32 | [i see london i see france](https://open.spotify.com/track/4wwoTaV7tQmGTshV7aYjBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i see london i see france](https://open.spotify.com/album/4SwqPUwME35rcRv2J30WYx) | 2:32 |
 | 33 | [Bane](https://open.spotify.com/track/2TKwo7J4oyyiYZvck7ky3R) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Bane](https://open.spotify.com/album/1DIa6H1AjmAg9SMrByTbiI) | 2:20 |
 | 34 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Bag](https://open.spotify.com/track/0CyqjmmaRh3TL3ebR7vLhc) | [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Bag](https://open.spotify.com/album/2l9HFZ8woqwKc9vX6hsprZ) | 1:43 |
 | 100 | [TOOYOUNG](https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [Boy On Mars 2](https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq) | 1:47 |
 
-Snapshot ID: `MTY2OTgxODIzMCwwMDAwMDAwMDI0NTBkYTk1MGI2NGE4MjRiOGJmZjIzNDE3YWMxZjUy`
+Snapshot ID: `MTY2OTgxODIzMCwwMDAwMDAwMDM5NTMyNjk2NzRjMGI5N2Q1MGYwYzgzYTkyYjdkOGQ0`

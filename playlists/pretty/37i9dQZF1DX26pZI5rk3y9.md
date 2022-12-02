@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,907 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,915 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 19 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
 | 20 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 21 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
-| 22 | [I Hear You Knocking \- Remastered 2002](https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 1:52 |
-| 23 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
+| 22 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
+| 23 | [I Hear You Knocking \- Remastered 2002](https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 1:52 |
 | 24 | [Country Child](https://open.spotify.com/track/30PKqHQREud0qvvSjBi4HU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:29 |
 | 25 | [Dust My Broom](https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 2:36 |
 | 26 | [Who Drank My Beer While I Was In The Rear \- Remastered](https://open.spotify.com/track/5J6Pe8az9hdBuOGairgVYH) | [Dave Bartholomew](https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:50 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 58 | [Honey Bee \(feat\. Willie Buck\)](https://open.spotify.com/track/2T857BosTppifCEGyKjkNz) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Willie Buck](https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:20 |
 | 59 | [Robbie\-Doby Boogie](https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:22 |
 | 60 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 |
-| 61 | [Old School Player](https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV) | [Johnny Burgin](https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5), [Iper Onishi](https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe), [Yoshi Mizuno](https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf), [Zee](https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6), [Takagiman](https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP) | [No Border Blues](https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4) | 3:48 |
-| 62 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
+| 61 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
+| 62 | [Old School Player](https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV) | [Johnny Burgin](https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5), [Iper Onishi](https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe), [Yoshi Mizuno](https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf), [Zee](https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6), [Takagiman](https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP) | [No Border Blues](https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4) | 3:48 |
 | 63 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 |
 | 64 | [I Got Your Ice Cold Nugrape](https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3) | [Nugrape Twins](https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM) | [The Road Is Rough and Rocky](https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U) | 2:56 |
 | 65 | [Atomic Cocktail](https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Fat Meat 'n Greens](https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu) | [Edgar Hayes](https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P) | [Kentuckian Bandleader](https://open.spotify.com/album/3EzfBPui2AEzpw3aEZJFgG) | 2:29 |
 | 70 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDllMjI2NjhiOWNiNTU2N2Y2MGEyYjYwMTQ0NjQ3Mjdk`
+Snapshot ID: `MTY2MzAwMDcwMSwwMDAwMDAwMDE0M2ZlNjViYzc4MTk2ZjBlYWM1OTdhNjU4NTlhMTVi`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273050,
+  "num_followers": 273052,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMDMyNDMzZThiYjdiMDU4ZjU0M2ZkMTk2NzA1MDFjODM3",
+  "snapshot_id": "MTY2NDU0NjQ3MiwwMDAwMDAwMGM3MzUyMjAzN2MxNzdhYTQ4NzA2OGMxM2JiZDBjNmJj",
   "tracks": [
     {
       "added_at": "2022-09-30 14:01:12",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/4XTi91nigdbuWtOGjimn9D"
-      },
-      "artists": [
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0Vw98EX4aRLiBcNbeUYst9"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Regardless (Acoustic)",
         "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 224053,
       "name": "Regardless - Acoustic",
       "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/4XTi91nigdbuWtOGjimn9D"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0Vw98EX4aRLiBcNbeUYst9"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Real Life (Acoustic)",
-        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "NAATIONS",
-          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
-        }
-      ],
-      "duration_ms": 222275,
-      "name": "Real Life - Acoustic",
-      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 238640,
       "name": "What Is Right",
       "url": "https://open.spotify.com/track/0kmnAeHOhccNv6cCRj1wks"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Real Life (Acoustic)",
+        "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NAATIONS",
+          "url": "https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f"
+        }
+      ],
+      "duration_ms": 222275,
+      "name": "Real Life - Acoustic",
+      "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
+        "name": "Paradise (The Acoustics)",
+        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 158830,
+      "name": "Paradise - Piano Version",
+      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
         "name": "Shed a Light (The Remixes Part 2)",
         "url": "https://open.spotify.com/album/65h91TpH6k56OdninmMeov"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 199120,
       "name": "Shed a Light - Acoustic Version",
       "url": "https://open.spotify.com/track/0GGVNLSXv3uaN0GrXvDsOC"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
-        "name": "Paradise (The Acoustics)",
-        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 158830,
-      "name": "Paradise - Piano Version",
-      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Another Chance (Remixes)",
         "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Spectrum EP",
-        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 110440,
-      "name": "Spectrum - Acoustic Version",
-      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Here Tonight (Acoustic Version)",
         "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 167619,
       "name": "Here Tonight - Acoustic Version",
       "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Spectrum EP",
+        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 110440,
+      "name": "Spectrum - Acoustic Version",
+      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
     },
     {
       "added_at": "2022-09-30 14:01:12",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2022-09-30 14:01:12",
       "album": {
-        "name": "Kids in Love (Remixes)",
-        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
-      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
-    },
-    {
-      "added_at": "2022-09-30 14:01:12",
-      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 201748,
       "name": "Fears - Acoustic Version",
       "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
+    },
+    {
+      "added_at": "2022-09-30 14:01:12",
+      "album": {
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
     },
     {
       "added_at": "2022-09-30 14:01:12",

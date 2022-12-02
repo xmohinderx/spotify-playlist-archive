@@ -4,7 +4,7 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-144 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
+145 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 | 2022-01-11 |  |
 | [Corazón De Melón](https://open.spotify.com/track/4lwhl74qt01u3U9ZOiQh3s) | [Hermanas Benítez](https://open.spotify.com/artist/67P9zHn7NV6r6bADkkr1TG) | [Corazón De Melón](https://open.spotify.com/album/7vN2pXl35jihF5vLGrK0JB) | 2:10 | 2022-01-11 |  |
 | [Cumbia del Mole](https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 3:00 | 2020-05-28 |  |
-| [Cumbia Pa Modernos](https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:19 | 2020-05-28 |  |
+| [Cumbia Pa Modernos](https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:19 | 2020-05-28 | 2022-12-02 |
 | [Dame Tu Querer](https://open.spotify.com/track/3SQauyf4T2j5XCTZxZ3gxY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 4:22 | 2022-01-11 |  |
 | [Donde Estas, Yolanda?](https://open.spotify.com/track/1HmZraO3IbtfojcnFoIQq4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 3:23 | 2022-01-11 |  |
 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 | 2020-05-28 |  |
@@ -147,6 +147,7 @@
 | [Tu Voz](https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 3:21 | 2022-01-11 | 2022-07-29 |
 | [Un Derecho de Nacimiento](https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0) | [Banda Filarmonica del CECAM](https://open.spotify.com/artist/2OXqK0Ec09b6ppw51V90oP), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Xëëw \(Volumen 1\)](https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf) | 5:38 | 2022-01-11 |  |
 | [Vereda Tropical](https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 2:45 | 2022-01-11 |  |
+| [Viene de Mi](https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7) | 3:50 | 2022-01-11 |  |
 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 | 2022-01-11 | 2022-12-01 |
 | [Watermelon Man](https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU) | 3:14 | 2020-05-28 |  |
 | [Yerbero Moderno](https://open.spotify.com/track/2ww6Z7Lnd8WuOg3Lk5idIJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia Cruz \- Greatest Hits](https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B) | 4:34 | 2020-05-28 | 2022-07-29 |

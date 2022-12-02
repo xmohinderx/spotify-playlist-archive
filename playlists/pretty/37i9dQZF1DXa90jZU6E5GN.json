@@ -1,12 +1,12 @@
 {
   "description": "The ultimate neon cowgirl Kelsea Ballerini is taking over to celebrate her brand new album SUBJECT TO CHANGE \ud83d\udc9b",
-  "num_followers": 85210,
+  "num_followers": 85242,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDgyODJlZTMyZjllYzgxYzQ3OWEyNTM0MjUyOTJlMzZm",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDQzNWE3Mzc2YzAzYTQ1YjM1NTY0MGI3Mzc1ZTI0MmIw",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Undo It",
-      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Potential Breakup Song",
         "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 218333,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Undo It",
+      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
     },
     {
       "added_at": "2022-09-30 04:00:00",

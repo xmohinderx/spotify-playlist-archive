@@ -1144,6 +1144,32 @@
     },
     {
       "album": {
+        "name": "In Paradise",
+        "url": "https://open.spotify.com/album/2u7MvKw0Vu0epUYy93HKwm"
+      },
+      "artists": [
+        {
+          "name": "Nyron",
+          "url": "https://open.spotify.com/artist/5Oi2wqYtdQoyK1tmmhy3ZG"
+        },
+        {
+          "name": "Franny J.",
+          "url": "https://open.spotify.com/artist/3w7gOS9jm6Savw7GcKquce"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "In Paradise",
+      "url": "https://open.spotify.com/track/7CZxmIhbmScbGIOT89UlLG"
+    },
+    {
+      "album": {
         "name": "Inside You",
         "url": "https://open.spotify.com/album/2iCi4dTguHMiSAR15UnstE"
       },
@@ -2429,6 +2455,58 @@
       "duration_ms": 163548,
       "name": "Wish We Never Met",
       "url": "https://open.spotify.com/track/7nE1Oo0I6ojq1TSxQ1oZCY"
+    },
+    {
+      "album": {
+        "name": "You're Still Home",
+        "url": "https://open.spotify.com/album/2d4kzj2WTwsHiTyLddvh5e"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Larce",
+          "url": "https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX"
+        },
+        {
+          "name": "Robin Vane",
+          "url": "https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "You're Still Home",
+      "url": "https://open.spotify.com/track/1ihSGolsCvQ85xIlUWINoP"
+    },
+    {
+      "album": {
+        "name": "You're Still Home",
+        "url": "https://open.spotify.com/album/2d4kzj2WTwsHiTyLddvh5e"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Larce",
+          "url": "https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX"
+        },
+        {
+          "name": "Robin Vane",
+          "url": "https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "You're Still Home - Blackcode Remode",
+      "url": "https://open.spotify.com/track/2bHcXgMCCTxXVHteDvQCF6"
     },
     {
       "album": {

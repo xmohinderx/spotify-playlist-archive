@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,457 likes - 51 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,535 likes - 51 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Après Vous \- Instrumental Version](https://open.spotify.com/track/7EyoZWxS6IkEYO1ivtLUrf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 5:23 |
 | 51 | [April \- 2000 Remaster](https://open.spotify.com/track/242juCDbq2XKb7FaPALYfO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 12:10 |
 
-Snapshot ID: `Mjc4MzAzOTgsMDAwMDAwMDAyODQyNDA4MTFmMjE0Y2RlOGE4ZWIyOGM1MmY3OWQ1NQ==`
+Snapshot ID: `Mjc4MzE4ODAsMDAwMDAwMDBlNTgxMGNmYTk3NDBlYjIxNjdjMTI2ZWY3ZDFiZjhiYQ==`

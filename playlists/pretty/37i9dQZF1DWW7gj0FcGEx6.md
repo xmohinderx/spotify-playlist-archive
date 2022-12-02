@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,162 likes - 124 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,304 likes - 124 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 8 | [Wednesday Main Titles](https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF) | 1:09 |
 | 9 | [The Frozen Planet \- From Frozen Planet II](https://open.spotify.com/track/3Jqj5iGN9OeK6aTJhjKSEA) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Adam Lukas](https://open.spotify.com/artist/4E39NH9eiLP3IMISn28wCd), [James Everingham](https://open.spotify.com/artist/2gn4jnqcC9yMXt6433gleQ), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Frozen Planet \(From Frozen Planet II\)](https://open.spotify.com/album/4KkII36tTfopBWuElxzaQt) | 4:23 |
 | 10 | [Love Is Not Enough](https://open.spotify.com/track/7wEaPRwNN1mrDrnqZZoQ3M) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Son \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7fKZaTDLIJHlyT0yiNk2PY) | 3:21 |
-| 11 | [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 |
+| 11 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 |
 | 12 | [Overture](https://open.spotify.com/track/3yFOslxT9EZHLaoZ9YKXoA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Caitlin Sullivan](https://open.spotify.com/artist/2yKRNZMmVZvvGf60cxTxqa) | [She Said \(Original Motion Picture Score\)](https://open.spotify.com/album/3UAjGfniReEmKuZjDQHnFN) | 2:02 |
 | 13 | [The Prince That Was Promised](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 |
 | 14 | [Teacher](https://open.spotify.com/track/6xxpRXHpaEtF0hAU5wNA9O) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [Emily: Original Motion Picture Soundtrack](https://open.spotify.com/album/6PufCfyhwd6AuIUXvDsgMc) | 2:27 |

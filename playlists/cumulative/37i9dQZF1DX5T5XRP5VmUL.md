@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-237 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+238 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Happy Xmas](https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Happy Xmas](https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW) | 3:11 | 2022-11-18 |  |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Happy Xmas \(War is Over\)](https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA) | 3:55 | 2021-12-24 | 2022-11-22 |
 | [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2021-12-24 | 2022-12-01 |
+| [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/6r97AWHGLaehVAhwMgCnWc) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-28 |  |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/72PSnMgQWeC4tcNdxgqXYM) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Hark The Herald Angels Sing](https://open.spotify.com/album/2EP9Q1buJSeGrL5Wm3u1pU) | 2:02 | 2021-12-24 | 2022-10-18 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3mPGMPw0NSpyaKbdcoOojP) | [Terra Lightfoot](https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4DifssqO8gcaLrdit8MR0R) | 3:49 | 2021-12-24 | 2022-01-05 |
 | [Hold on to Christmas Day](https://open.spotify.com/track/460mYWJRMeBop9psdCtc0w) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold on to Christmas Day](https://open.spotify.com/album/6LZwtQdCxHYSmFjZVFiWgO) | 4:03 | 2021-12-24 | 2022-07-24 |
@@ -159,7 +160,7 @@
 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 | 2021-12-24 |  |
 | [Moonshine & Mistletoe](https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc) | [Sons of Daughters](https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR) | [Moonshine & Mistletoe](https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg) | 3:27 | 2021-12-24 |  |
 | [Moonshine and Mistletoe](https://open.spotify.com/track/1AgjU4E9UjsKNDfO5ItZZG) | [Sons of Daughters](https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR) | [Moonshine and Mistletoe](https://open.spotify.com/album/5nL2tMpzePt3OFwAPiBs9e) | 3:27 | 2021-12-24 | 2022-07-28 |
-| [My Best Christmas](https://open.spotify.com/track/6dMFQBqkz2q6QgshdmgOUz) | [The Collection](https://open.spotify.com/artist/3sva1UjOJOx6cGISZOpItl) | [My Best Christmas](https://open.spotify.com/album/64sTOcJAqQMzfiXHw6P8ET) | 3:38 | 2022-10-29 |  |
+| [My Best Christmas](https://open.spotify.com/track/6dMFQBqkz2q6QgshdmgOUz) | [The Collection](https://open.spotify.com/artist/3sva1UjOJOx6cGISZOpItl) | [My Best Christmas](https://open.spotify.com/album/64sTOcJAqQMzfiXHw6P8ET) | 3:38 | 2022-10-29 | 2022-12-02 |
 | [My Christmas List](https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [My Christmas List](https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy) | 3:27 | 2021-12-24 |  |
 | [My Favorite Things](https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [My Favorite Things](https://open.spotify.com/album/1o1Dubh9U2GPKc1TzRey0k) | 2:55 | 2021-12-24 |  |
 | [My Little Snowflake](https://open.spotify.com/track/2AVOlfywRkziYM3DgzEPpG) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [My Little Snowflake](https://open.spotify.com/album/3kdqWoboAHEGeYfjOHBffO) | 2:52 | 2021-12-24 | 2022-10-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Blake Shelton
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,310 likes - 152 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,770 likes - 152 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

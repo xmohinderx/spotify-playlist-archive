@@ -1,15 +1,139 @@
 {
-  "description": "The best jazz new releases. Photo : Dhafer Youssef",
-  "num_followers": 103554,
+  "description": "The best jazz new releases. Photo : Samara Joy",
+  "num_followers": 103577,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGJmMTY3MzIyNmU5ZjdlOGQzNGQwYTlkNWEyOTdhNzZi",
+  "snapshot_id": "MTY2OTkzNTY2MCwwMDAwMDAwMDQyMjI5YWYzYmJjM2VmZDRiNjllZGViODA5NWU5NTIx",
   "tracks": [
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Warm In December",
+        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 161210,
+      "name": "Warm In December",
+      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Us - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 373953,
+      "name": "Us - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "duration_ms": 182412,
+      "name": "Lookin' Up",
+      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Siesta (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Your Mother Should Know",
+        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Your Mother Should Know",
+      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Sun Monkey Voltage",
+        "url": "https://open.spotify.com/album/4KSB0GQCjVWVXu9ad7jU9K"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9mi Panossian Trio",
+          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
+        }
+      ],
+      "duration_ms": 290259,
+      "name": "Purple Soul",
+      "url": "https://open.spotify.com/track/0UBw67u8gN9khlkXWjT84V"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Ondes of chakras",
         "url": "https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ"
@@ -37,7 +161,7 @@
       "url": "https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Buzzing Bee",
         "url": "https://open.spotify.com/album/6ihVmKIaIiiJVKdhRDs6dV"
@@ -53,7 +177,7 @@
       "url": "https://open.spotify.com/track/6avafXggIzFap9c21A63iZ"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "The Only Thing Missing Is You",
         "url": "https://open.spotify.com/album/7e3oiSXfu7UJcW18gZLrwB"
@@ -73,43 +197,7 @@
       "url": "https://open.spotify.com/track/6ZJE1w4rnFmr5QvkhoblIh"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Us - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 373953,
-      "name": "Us - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Siesta (feat. Emeli Sand\u00e9)",
-      "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Live at The Pool",
         "url": "https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6"
@@ -125,7 +213,7 @@
       "url": "https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "An Ode",
         "url": "https://open.spotify.com/album/4BEVT3SXNmALzwZOAONfby"
@@ -141,47 +229,7 @@
       "url": "https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Warm In December",
-        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 161210,
-      "name": "Warm In December",
-      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Lookin' Up",
-        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        },
-        {
-          "name": "Jules Bill\u00e9",
-          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
-        },
-        {
-          "name": "Christophe Piot",
-          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
-        }
-      ],
-      "duration_ms": 182412,
-      "name": "Lookin' Up",
-      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Estrellas",
         "url": "https://open.spotify.com/album/2WgEVB6gkJ8ijn08kafvrf"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/0QXACuwRiySqCCQAgekUkb"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/0ljHzwzMXHRuFAhA8eJZtd"
@@ -221,7 +269,7 @@
       "url": "https://open.spotify.com/track/5af00WOT3Ll62csxZ8qRrz"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Sicily' Box",
         "url": "https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v"
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "New Standards Vol. 1",
         "url": "https://open.spotify.com/album/3fn7tQJA1sjZuZbxPiqlWF"
@@ -277,7 +325,7 @@
       "url": "https://open.spotify.com/track/3JfEAQCzK3IjvhdwECQEs8"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Soufi dance",
         "url": "https://open.spotify.com/album/0gE3wRepREY0CePsnRLwNt"
@@ -293,7 +341,7 @@
       "url": "https://open.spotify.com/track/3ME7teeBRvZ6mmXcLrlMDF"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Just a friend of mine (Version piano - voix)",
         "url": "https://open.spotify.com/album/4B0Z2xiNwQJubhRrAlGqd7"
@@ -309,23 +357,7 @@
       "url": "https://open.spotify.com/track/5QhBRVaWlNYiPI6wY1MLCO"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Sun Monkey Voltage",
-        "url": "https://open.spotify.com/album/4KSB0GQCjVWVXu9ad7jU9K"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9mi Panossian Trio",
-          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
-        }
-      ],
-      "duration_ms": 290259,
-      "name": "Purple Soul",
-      "url": "https://open.spotify.com/track/0UBw67u8gN9khlkXWjT84V"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Angels & Queens - Part I",
         "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
@@ -341,23 +373,7 @@
       "url": "https://open.spotify.com/track/00DVBKks7yF8Mii6DSiO9g"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "My Days in Copenhagen",
         "url": "https://open.spotify.com/album/7uHalLMcXcHRQxtI8usglb"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/0pv0fKJSALa9MWseuzQFUR"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Convergency",
         "url": "https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Just Believe",
         "url": "https://open.spotify.com/album/3WiKABuiG4cH2pkY5t41oa"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/4K6JJAUsD4VeTU5mZ7viBk"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Dear John",
         "url": "https://open.spotify.com/album/6RlGEJ7lvJllvCu4bt80kA"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/1o8iovtJO1r9D0JAKZYr6t"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "You Never Ask (from 'Madame Sean Connery')",
         "url": "https://open.spotify.com/album/3L0HHKhSW7fAN0jjqOsOVi"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Unixsity",
         "url": "https://open.spotify.com/album/6KePYHM3ulBUqQiWYcnw0D"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/4Fp9AjTum16YyfrIj7KTPR"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Lokum",
         "url": "https://open.spotify.com/album/13WbmvW5c2LWLczF2Fygxf"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/1LhXwBdUdkN20igjixRGmy"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Steer Your Way",
         "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/6A30Bj33P8d4WWYfWeY6z8"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Follow the Light",
         "url": "https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "LongGone (feat. Brad Mehldau, Christian McBride & Brian Blade)",
         "url": "https://open.spotify.com/album/52Vr22XzeD9rIOnOQ3OSKR"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/5li75DMlmHshiqcMStzxhF"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Jazz Contenders",
         "url": "https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/0YnIdW5G68sN1TrXnAw6g5"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Come On & Get It",
         "url": "https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Cryin\u2019 Won\u2019t Help You",
         "url": "https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Meva Festa",
         "url": "https://open.spotify.com/album/36Jal3DfKpkkGEV5ZAA2s5"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/4YYaJVza3fZCPgLYv2k6Mh"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Y\u00e9n\u00e9",
         "url": "https://open.spotify.com/album/4OXhyeHzfweng5kALtgrNW"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/3w1A8Rd2PYlG8EKm6M4Wbk"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Rondo Arm\u00e9nien",
         "url": "https://open.spotify.com/album/0OC1TmbTXnMP46k0SmZ7TT"
@@ -749,7 +765,27 @@
       "url": "https://open.spotify.com/track/32kaDw2jHXYRv6kzdO04fP"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
+      "album": {
+        "name": "Capacity to Love",
+        "url": "https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 265833,
+      "name": "Capacity to Love",
+      "url": "https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O"
+    },
+    {
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Angels & Queens - Part I",
         "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
@@ -765,7 +801,7 @@
       "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
@@ -785,7 +821,7 @@
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Une Seule Etoile",
         "url": "https://open.spotify.com/album/30zOeBi8oIWyMvoMMuffVz"
@@ -801,7 +837,7 @@
       "url": "https://open.spotify.com/track/7HnbvhyOEmmIOX8CPUOVko"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "What's a Woman ? (Parce que - La Collection)",
         "url": "https://open.spotify.com/album/5kOHgAflrDLzNFzoRMME9W"
@@ -817,7 +853,7 @@
       "url": "https://open.spotify.com/track/5afmdUnP6YV1OSYHE0L6ca"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Dead Inside Shuffle",
         "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
@@ -833,7 +869,7 @@
       "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Did Somebody Make a Fool Out of You",
         "url": "https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs"
@@ -849,7 +885,7 @@
       "url": "https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/1tuRVv8vSpzKvh9aO1SnwA"
@@ -865,7 +901,7 @@
       "url": "https://open.spotify.com/track/0PTdxZ0QwqFFP1Zr0wtlEz"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Feel Like Making Love",
         "url": "https://open.spotify.com/album/3Ywtb8G1uRLWRSNBZSFia2"
@@ -881,7 +917,7 @@
       "url": "https://open.spotify.com/track/6KYUWlts5z7bIZMpVvWpfc"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/1TxksZoZOYltLztkow77CS"
@@ -901,7 +937,7 @@
       "url": "https://open.spotify.com/track/2j3u6MfjffdvS7TNGOj1BM"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Freedom Road",
         "url": "https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG"
@@ -917,7 +953,7 @@
       "url": "https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "West Coast Blues",
         "url": "https://open.spotify.com/album/0PWh0Tcn9Vy2YPU33H9I4E"
@@ -937,7 +973,7 @@
       "url": "https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2022-12-01 23:01:00",
       "album": {
         "name": "Empire Central",
         "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
@@ -951,42 +987,6 @@
       "duration_ms": 333979,
       "name": "Bet",
       "url": "https://open.spotify.com/track/7pnM9gB0aO7WrIYqjeZaPX"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Wisteria Forever",
-        "url": "https://open.spotify.com/album/36P1rgK99Phf3H8qpwpLzi"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9mi Panossian Trio",
-          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
-        }
-      ],
-      "duration_ms": 253896,
-      "name": "Wisteria Forever",
-      "url": "https://open.spotify.com/track/7rGJeB2w2Z8Vde1P1UpWWM"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/5oKYZptTBjlXmQKjkpwBrf"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 231487,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/2wJeDPbOfGRhzVLSQdjSgS"
     }
   ],
   "unique_name": "Jazz Club",

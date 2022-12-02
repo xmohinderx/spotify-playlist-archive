@@ -716,6 +716,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Richard",
+          "url": "https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206470,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb"
+    },
+    {
+      "album": {
         "name": "My Foolish Heart",
         "url": "https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ"
       },
@@ -785,6 +803,24 @@
       "duration_ms": 228250,
       "name": "On Satie",
       "url": "https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF"
+    },
+    {
+      "album": {
+        "name": "Berlin Baritone",
+        "url": "https://open.spotify.com/album/2UMdzyw84wCz3gKJtDVNhZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88016,
+      "name": "Peace Please",
+      "url": "https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC"
     },
     {
       "album": {

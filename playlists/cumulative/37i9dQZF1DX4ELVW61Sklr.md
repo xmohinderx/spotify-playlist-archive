@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-111 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
+112 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Someday At Christmas](https://open.spotify.com/track/2GQnHafw2F53REsJctsPCC) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Weihnachten 2020](https://open.spotify.com/album/2jM3hSRUb1U55ok8ad85tb) | 2:49 | 2021-12-15 | 2022-11-13 |
 | [Someday At Christmas](https://open.spotify.com/track/6VqLlCjW2IPuNWyVa6Ramd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Motown Christmas](https://open.spotify.com/album/109y0mnkGZAYVQNdT0SN3q) | 2:50 | 2021-12-15 | 2022-07-28 |
 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 | 2021-12-15 |  |
-| [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 | 2021-12-15 |  |
+| [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 | 2021-12-15 | 2022-12-02 |
 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 | 2021-12-15 | 2022-07-29 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf) | 2:54 | 2022-11-25 |  |
 | [The First Noel](https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [A Mary Christmas](https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke) | 4:24 | 2021-12-15 |  |
@@ -107,6 +107,7 @@
 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 | 2021-12-15 | 2022-11-26 |
 | [This Day \(feat\. Kiana Ledé\) \- from the Netflix Original Motion Picture Jingle Jangle](https://open.spotify.com/track/1ub1mjaj5QG9fdaCIBSPsH) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [This Day \(feat\. Kiana Ledé\) \[from the Netflix Original Motion Picture Jingle Jangle\]](https://open.spotify.com/album/18Y2FVvp3r41QQ5asBYWzl) | 3:48 | 2021-12-15 | 2022-11-26 |
 | [Try A Little Tenderness](https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 6:13 | 2022-11-25 |  |
+| [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-25 |  |
 | [Very Merry Christmas](https://open.spotify.com/track/0Wigv8bZvAWXI9KnzMDbql) | [Phaedra](https://open.spotify.com/artist/7INtiKMHZb5e9tOpMj5vUS), [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [J\-Sol](https://open.spotify.com/artist/0moTgm8lXIQpK1EXLSgJFR) | [Love at Christmas](https://open.spotify.com/album/2673S2JiNKmPHvbuct5oLs) | 4:31 | 2021-12-15 | 2022-11-26 |
 | [What Child Is This?](https://open.spotify.com/track/3hIRSyKuEG7C22MDmyaK1v) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/1nH7gyIHFcEAkDoGL0j49f) | 3:52 | 2021-12-15 | 2022-07-28 |
 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 | 2021-12-15 |  |

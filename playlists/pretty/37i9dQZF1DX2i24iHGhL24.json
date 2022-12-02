@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 83165,
+  "num_followers": 83218,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1Mzc0NywwMDAwMDAwMGZiNmJkMmM4ZDI0MDUwOGFjMTQyY2UwYWQzNDRmMGYw",
+  "snapshot_id": "MTY2OTA1Mzc0NywwMDAwMDAwMDc2ODNkNDliNGViNjk0NmE2MzNjYWNmMzAwM2IwNGNk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
     },
     {
-      "added_at": "2022-12-01 01:26:13",
+      "added_at": "2022-12-02 01:21:04",
       "album": {
         "name": "A Million Dreams",
         "url": "https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS"
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 186600,
       "name": "Teenage Dirtbag \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -1151,6 +1119,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
         }
       ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Wrecking Ball (Acoustic)",
         "url": "https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4"
       },
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "In Your Prime - EP",
-        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
-      },
-      "artists": [
-        {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Elliot's Song",
         "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 153124,
       "name": "Elliot's Song",
       "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "In Your Prime - EP",
+        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
+      },
+      "artists": [
+        {
+          "name": "Josef Salvat",
+          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1431,22 +1415,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 194595,
-      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "It's A Sin",
         "url": "https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg"
       },
@@ -1459,6 +1427,22 @@
       "duration_ms": 192078,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 194595,
+      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 248449,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Everybody Wants To Rule The World",
         "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248449,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 256278,
       "name": "Un-Break My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
         }
       ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -1723,22 +1723,6 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2231,6 +2215,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Walking On The Moon",
+        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/1dh2pFzrKtkLeuQ8uoMX0U"
       },
@@ -2259,22 +2259,6 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Walking On The Moon",
-        "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
-      },
-      "artists": [
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Walking On The Moon",
-      "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2351,6 +2335,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 242915,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Bam Bam (Acoustic)",
         "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
       },
@@ -2367,22 +2367,6 @@
       "duration_ms": 143522,
       "name": "Bam Bam - Acoustic",
       "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/6V820o63cpdpS7Jz9jXhhJ"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 242915,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2499,6 +2483,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 200539,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Meet Me At Our Spot",
         "url": "https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu"
       },
@@ -2515,22 +2515,6 @@
       "duration_ms": 162666,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 200539,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2683,6 +2667,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/3GmA1W7zAKUtEUpLjX8pFQ"
       },
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "God Is A Woman (Yours Truly: 2018)",
         "url": "https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ"
       },
@@ -2747,22 +2731,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4"
-      },
-      "artists": [
-        {
-          "name": "Jennel Garcia",
-          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "Under the Bridge",
         "url": "https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab"
       },
@@ -2775,6 +2743,22 @@
       "duration_ms": 140645,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4"
+      },
+      "artists": [
+        {
+          "name": "Jennel Garcia",
+          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2815,6 +2799,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2"
       },
@@ -2843,22 +2843,6 @@
       "duration_ms": 179333,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -2995,22 +2979,6 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "positions",
-        "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
-      },
-      "artists": [
-        {
-          "name": "Chaz Mazzota",
-          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
-        }
-      ],
-      "duration_ms": 145961,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
         "name": "A Blue State",
         "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
       },
@@ -3027,18 +2995,18 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv"
+        "name": "positions",
+        "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
       },
       "artists": [
         {
-          "name": "The Butterfly Effect",
-          "url": "https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY"
+          "name": "Chaz Mazzota",
+          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
         }
       ],
-      "duration_ms": 189242,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO"
+      "duration_ms": 145961,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -3055,6 +3023,22 @@
       "duration_ms": 218283,
       "name": "Black Velvet - Junos 365 Sessions",
       "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv"
+      },
+      "artists": [
+        {
+          "name": "The Butterfly Effect",
+          "url": "https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY"
+        }
+      ],
+      "duration_ms": 189242,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -3087,6 +3071,22 @@
       "duration_ms": 208866,
       "name": "gives you hell",
       "url": "https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Covers from Home",
+        "url": "https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -3195,6 +3195,22 @@
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi"
+      },
+      "artists": [
+        {
+          "name": "Lain Roy",
+          "url": "https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
         "name": "Big Yellow Taxi",
         "url": "https://open.spotify.com/album/3lVUKvR0ilXpgFCE7atpp7"
       },
@@ -3211,22 +3227,6 @@
       "duration_ms": 172763,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/1EPM0ttuTgfboT4MclZnQv"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi"
-      },
-      "artists": [
-        {
-          "name": "Lain Roy",
-          "url": "https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
     },
     {
       "added_at": "2022-11-18 05:01:00",

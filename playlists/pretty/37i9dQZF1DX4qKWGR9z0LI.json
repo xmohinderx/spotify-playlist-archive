@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1795946,
+  "num_followers": 1796013,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGU3ZmJhZTYyMDM2MTQxNTNmYjBkYTM0OThlMzA0ZTJj",
+  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMDIwZmRlNjcxOGFmOGE5ZGVmZmFiYmRmZDlmNTIzNGVm",
   "tracks": [
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
         "name": "Baila Salsa",
         "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 249160,
       "name": "Viene Y Se Va",
       "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
     },
     {
       "added_at": "2022-09-09 15:09:32",

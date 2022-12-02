@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-202 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+206 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [As Time Goes By](https://open.spotify.com/track/1YGrZ7JjSgG0F5mkPTLJd1) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [As Time Goes By](https://open.spotify.com/album/7scZsHKFNYwwCD7S6U057m) | 4:02 | 2022-05-24 |  |
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn In New York](https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Autumn In New York](https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz) | 4:19 | 2022-09-29 |  |
+| [Ballad For Hilda](https://open.spotify.com/track/0GGnf4gQNCrvwC32lroIJv) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 1:53 | 2022-12-01 |  |
 | [Be Free](https://open.spotify.com/track/3TuflVEQkgUdpMCIDZzg95) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [Be Free](https://open.spotify.com/album/1miiJPlOWBBXi41jf6J3CJ) | 2:17 | 2022-11-17 |  |
 | [Bellevue](https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:21 | 2022-04-12 |  |
 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
@@ -58,8 +59,10 @@
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2022-04-12 | 2022-11-25 |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-22 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-04-12 |  |
+| [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2022-04-12 |  |
 | [God Bless the Child](https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [God Bless the Child](https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn) | 4:14 | 2022-06-14 |  |
+| [Gone With The Wind](https://open.spotify.com/track/5Ipp7U3NUTdLcfUknpqYd3) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Gone With The Wind](https://open.spotify.com/album/5gWixXwisRX4dTF15toKLe) | 3:32 | 2022-12-01 |  |
 | [Good Night](https://open.spotify.com/track/2UatfwTngd99ugjekcg8Kw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Good Night](https://open.spotify.com/album/0N3Zd0I4F8iTTzorbht0xH) | 2:15 | 2022-11-10 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-04-12 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/3DgjObIndXAIIsTM4YdroG) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:37 | 2022-04-12 |  |
@@ -72,7 +75,7 @@
 | [I Remember Clifford](https://open.spotify.com/track/3UXUeSaBLCmwlNekfs4AQh) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [I Remember Clifford](https://open.spotify.com/album/49wPHJPN2SBWhiWPiBpgcR) | 4:05 | 2022-08-30 |  |
 | [I See Your Face Before Me](https://open.spotify.com/track/7dRtZIVS0B8clQdhvCSfuC) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [Soliloquy](https://open.spotify.com/album/2SVHtV1DqKXOYKd6vTLNxw) | 5:06 | 2022-04-12 |  |
 | [I Should Care](https://open.spotify.com/track/7N1MFr0xi5jt2KRwxitROp) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Should Care](https://open.spotify.com/album/0t76ZydmDChji48Ry6pvGN) | 4:24 | 2022-04-12 |  |
-| [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2022-04-12 |  |
+| [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2022-04-12 | 2022-12-02 |
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2022-04-12 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
@@ -100,6 +103,7 @@
 | [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2022-08-10 |  |
 | [Lovely Day](https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Lovely Day](https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK) | 3:25 | 2022-09-29 |  |
 | [Lover Man](https://open.spotify.com/track/57fzmVpvr8OGQ3BkfqUexq) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Steve Kuhn: Mostly Ballads](https://open.spotify.com/album/2xVes2Z1pyjUToAH1xFWdY) | 4:10 | 2022-04-12 | 2022-06-01 |
+| [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2022-12-01 |  |
 | [Maiden Voyage](https://open.spotify.com/track/6VOiZnNwb9ivWc4IkLpRNY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Maiden Voyage](https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw) | 2:35 | 2022-04-26 | 2022-08-31 |
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-04-12 |  |
 | [Misty](https://open.spotify.com/track/12lnRDf58tQ4qvmaEROE5r) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:29 | 2022-04-12 |  |

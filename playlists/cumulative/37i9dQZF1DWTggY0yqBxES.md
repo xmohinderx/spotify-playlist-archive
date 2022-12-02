@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: TOBi
 
-309 songs - 15 hr 35 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+310 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Cruise Control](https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:26 | 2022-08-05 | 2022-10-15 |
 | [CULT](https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [BLACK WALL STREET](https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU) | 4:40 | 2021-09-03 | 2022-06-04 |
 | [Curbside](https://open.spotify.com/track/18fdNMj2Dl7kInMAONSnp4) | [Kid Quill](https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro) | [Curbside](https://open.spotify.com/album/3Mlq674LCY0K1KRX41dOtQ) | 2:46 | 2022-03-25 | 2022-04-20 |
-| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-10-14 |  |
+| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 | 2022-11-18 |  |
+| [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-10-14 | 2022-12-02 |
 | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 | 2022-08-12 | 2022-10-21 |
 | [Dangerous](https://open.spotify.com/track/00EKCASItEc0lfZwzWF34N) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu), [Kingsley Ibeneche](https://open.spotify.com/artist/1sCEBYdJIHnx6VNv7RN4Je) | [Dangerous](https://open.spotify.com/album/7G39CE2qnxYcW5H2rPlP1K) | 4:22 | 2022-02-04 | 2022-06-01 |
 | [Dangerous](https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Dangerous](https://open.spotify.com/album/5BPr4MWTg1GmevzURudA8B) | 2:25 | 2022-08-19 | 2022-10-08 |

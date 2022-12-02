@@ -1154,6 +1154,28 @@
     },
     {
       "album": {
+        "name": "Go Easy",
+        "url": "https://open.spotify.com/album/3QfF9BOs6OFQ3ubGGQNI5X"
+      },
+      "artists": [
+        {
+          "name": "Uplink",
+          "url": "https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158474,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/7vHSOWBZUgZdkqX397Auyd"
+    },
+    {
+      "album": {
         "name": "Go Off",
         "url": "https://open.spotify.com/album/4QugeAvLTbWTcrAFcm9Ezz"
       },

@@ -2160,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "I Wish You Met Her",
+        "url": "https://open.spotify.com/album/2Qmi1r9hpLHM0wHWWbx8vb"
+      },
+      "artists": [
+        {
+          "name": "Claudio Jr De Rosa",
+          "url": "https://open.spotify.com/artist/1gam3nB9smXwsHKjVffhuM"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310013,
+      "name": "I Wish You Met Her",
+      "url": "https://open.spotify.com/track/5Meffn7R7UxaTo7LbUjvWV"
+    },
+    {
+      "album": {
         "name": "Powell to the People",
         "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
       },

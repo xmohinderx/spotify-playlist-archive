@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w"> Johnny Drille </a>
 
-60 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
+61 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/2z7lj51FcrlwnyaaEF8RCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Memories \- Remix](https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Remix Tape](https://open.spotify.com/album/5p7mlL4Sx5QaOmPFL0Lyxu) | 3:00 | 2021-07-30 |  |
 | [Milele](https://open.spotify.com/track/0ThlnzzzbQjw3WpbuPoafr) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Milele](https://open.spotify.com/album/3Zt55olh4hstOLmrFRNp2G) | 3:29 | 2021-09-30 |  |
 | [Mimi na wewe](https://open.spotify.com/track/4Os4kaUmrqDpLP0iefW2m3) | [Swahili Ally](https://open.spotify.com/artist/505upYNGyPZJdVAC95Iacr) | [NADUNDA](https://open.spotify.com/album/6jIbGRwcdfU18mvKB7r4aU) | 4:01 | 2020-05-26 |  |
+| [Money](https://open.spotify.com/track/6GMYPEjFx65qzILJVuLARk) | [Senkulive](https://open.spotify.com/artist/79ynBppzsEuPprCYBIMxac) | [Money](https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG) | 4:54 | 2022-12-02 |  |
 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 | 2022-09-09 |  |
 | [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 | 2022-10-14 |
 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 | 2021-06-21 |  |
@@ -62,7 +63,7 @@
 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 | 2020-12-17 |  |
 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 |  |
 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 |  |
-| [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-25 |  |
+| [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-25 | 2022-12-02 |
 | [What You Want](https://open.spotify.com/track/1faFaJQTmGg6CV39W2RvSB) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [What You Want](https://open.spotify.com/album/6LNHDMFwWvS9LKJ0ArIVki) | 2:56 | 2020-09-10 |  |
 | [Who No Know Go Know](https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Who No Know Go Know](https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH) | 3:17 | 2020-12-10 | 2022-11-04 |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 |  |

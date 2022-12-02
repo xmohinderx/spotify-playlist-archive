@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 266400,
       "name": "A Promise",
       "url": "https://open.spotify.com/track/6OunW3jvvQ1W5JX59HIUnl"
@@ -157,6 +157,24 @@
       "duration_ms": 182200,
       "name": "Baby Ntsoare",
       "url": "https://open.spotify.com/track/1TufBfWmIkAV9xniFxcazd"
+    },
+    {
+      "album": {
+        "name": "The Early Recordings",
+        "url": "https://open.spotify.com/album/1LWEFzW087PwWNzIJBEjYR"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Baby Ntsoare",
+      "url": "https://open.spotify.com/track/0CwP6lupmkgJX2ZJTa6Wxn"
     },
     {
       "album": {
@@ -319,7 +337,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 153800,
       "name": "Down on the Corner - Remastered",
       "url": "https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 188573,
       "name": "For What It's Worth - Remastered",
       "url": "https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 155906,
       "name": "Holilili",
       "url": "https://open.spotify.com/track/1XMwRVdQByfWdFNR2IzZm0"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 188946,
       "name": "In My Life - Remastered",
       "url": "https://open.spotify.com/track/1wVPIzTItUw1Mrczy6OXE6"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 215133,
       "name": "Jeux interdits",
       "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 167986,
       "name": "Lumumba - Remastered",
       "url": "https://open.spotify.com/track/6UiiS9cw9K2VzlOKsJffba"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 240600,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 164386,
       "name": "Suliram",
       "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"

@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-226 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+227 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Adrian, Ali and Gregory](https://open.spotify.com/track/1nATM2if0c7XcpkpFYeMsq) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Adrian, Ali and Gregory](https://open.spotify.com/album/4DU5AJbx04Q04DCcrn6NpS) | 2:23 | 2022-02-17 | 2022-07-29 |
 | [All We Know](https://open.spotify.com/track/43P9ATR9KbSpDlqsp2sGKW) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d) | [The River Doesn’t Like Strangers](https://open.spotify.com/album/0rMRVTA8NJBbQAa4FcFgpV) | 7:25 | 2022-02-17 | 2022-04-23 |
 | [Altered Time](https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Altered Time](https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN) | 2:10 | 2022-06-02 |  |
+| [Ancestors](https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:25 | 2022-12-01 |  |
 | [Ancestors](https://open.spotify.com/track/2EFSKB0bUUrfLkirjIKCBg) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/1lUR5pE0fCBd1RokHDIHr0) | 2:25 | 2022-06-02 | 2022-11-20 |
 | [And for My Next Trick](https://open.spotify.com/track/0c7ZSFdgjjhAZYo5StQbMU) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [And for My Next Trick](https://open.spotify.com/album/6DT5Y0ZmOmACITE3f7cfia) | 2:43 | 2022-02-17 | 2022-11-21 |
 | [Angel Feed](https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO) | [Yard Nule](https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq) | [Angel Feed](https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP) | 4:20 | 2022-02-17 | 2022-05-25 |
@@ -90,7 +91,7 @@
 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 | 2022-02-17 |  |
 | [I SING HIGH](https://open.spotify.com/track/02WXDgjQkcydnk4b24IRBG) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [I SING HIGH](https://open.spotify.com/album/7JQunqxD8xhe3XEmFVNVGz) | 2:25 | 2022-02-17 | 2022-02-22 |
 | [Ice Storm \- Psalm Trees Remix](https://open.spotify.com/track/0ZH8t0H6ndj9bsiW7AEFmR) | [Flyjack](https://open.spotify.com/artist/0YuChxoDEqioiZgb9X3vlD), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Ice Storm \(Psalm Trees Remix\)](https://open.spotify.com/album/7vDZIMhhr9z36jtFjW4ZK1) | 3:00 | 2022-04-14 |  |
-| [Ice\-free](https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Norbakken](https://open.spotify.com/artist/330550E6AXRr7jHSLX1GPd) | [Harbour](https://open.spotify.com/album/7rzUSG7h8pGwMOCvXAiGai) | 3:08 | 2022-02-17 |  |
+| [Ice\-free](https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Norbakken](https://open.spotify.com/artist/330550E6AXRr7jHSLX1GPd) | [Harbour](https://open.spotify.com/album/7rzUSG7h8pGwMOCvXAiGai) | 3:08 | 2022-02-17 | 2022-12-02 |
 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 | 2022-02-17 |  |
 | [Impulse](https://open.spotify.com/track/2OpCTTrEinags4toAT5od9) | [Dave Mackay](https://open.spotify.com/artist/0OP43xZYPF7td5hkJr0dsi), [Antoine Katz](https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC), [A.G\. Steele](https://open.spotify.com/artist/7sxBhnfmspbyVVgwXBJa74) | [Three: Vol\. 3 \[Utopia\]](https://open.spotify.com/album/7nhGyrXgeOc0wiadovp4YG) | 4:13 | 2022-03-17 |  |
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2022-04-14 |  |

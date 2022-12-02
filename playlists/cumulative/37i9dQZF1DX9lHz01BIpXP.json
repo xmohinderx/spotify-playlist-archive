@@ -114,6 +114,32 @@
     },
     {
       "album": {
+        "name": "Bru",
+        "url": "https://open.spotify.com/album/6RirppwJmnR5e0PTghCull"
+      },
+      "artists": [
+        {
+          "name": "BRU",
+          "url": "https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv"
+        },
+        {
+          "name": "Isaac Mutant",
+          "url": "https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX"
+        },
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266486,
+      "name": "Bring the Noise",
+      "url": "https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn"
+    },
+    {
+      "album": {
         "name": "By Die See",
         "url": "https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5"
       },
@@ -377,7 +403,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186017,
       "name": "Haartseer Naai",
       "url": "https://open.spotify.com/track/1o8sfR9JWRPgl2rwmiCaeR"
@@ -521,6 +547,28 @@
       "duration_ms": 158000,
       "name": "Is Duidelik",
       "url": "https://open.spotify.com/track/0XsFvyPoCtoLsZ9oZ2JQsa"
+    },
+    {
+      "album": {
+        "name": "Jou Mase",
+        "url": "https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8"
+      },
+      "artists": [
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        },
+        {
+          "name": "Bailomusiq",
+          "url": "https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184018,
+      "name": "Jou Mase",
+      "url": "https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm"
     },
     {
       "album": {
@@ -710,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Mooiste Meisies",
+        "url": "https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF"
+      },
+      "artists": [
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221571,
+      "name": "Mooiste Meisies",
+      "url": "https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw"
+    },
+    {
+      "album": {
         "name": "Moola",
         "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
       },
@@ -805,7 +871,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 212053,
       "name": "Pot Jie Kos",
       "url": "https://open.spotify.com/track/4q26B1ucwbE6DgGytVBXpV"
@@ -895,7 +961,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186500,
       "name": "Sex in Afrikaans",
       "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
@@ -917,6 +983,24 @@
       "duration_ms": 180166,
       "name": "Slaaplose Nagte",
       "url": "https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q"
+    },
+    {
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169062,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
       "album": {
@@ -971,7 +1055,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 201293,
       "name": "S\u00ea Net",
       "url": "https://open.spotify.com/track/5j6SZZCXd6h1N1bb00eaOu"
@@ -1123,10 +1207,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 275121,
       "name": "Windgat",
       "url": "https://open.spotify.com/track/6bttyQEk8x8i4pzNfqEjtd"
+    },
+    {
+      "album": {
+        "name": "WUTJAINJILLE",
+        "url": "https://open.spotify.com/album/4aza6nbvvOP3SPWK5NKOhL"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo 7945",
+          "url": "https://open.spotify.com/artist/42kYVWWbrUVyhsCWzxKwVp"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172434,
+      "name": "WUTJAINJILLE",
+      "url": "https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP"

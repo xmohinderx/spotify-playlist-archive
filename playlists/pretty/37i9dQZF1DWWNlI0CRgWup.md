@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,468 likes - 28 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,483 likes - 29 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 16 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 |
 | 17 | [Triste fête](https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:40 |
 | 18 | [Bohémien](https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Une saison en enfance](https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ) | 3:14 |
-| 19 | [Metaverse](https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Metaverse](https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt) | 3:16 |
-| 20 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 |
-| 21 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 |
-| 22 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 |
-| 23 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 |
-| 24 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 |
-| 25 | [Dans la sauce](https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:30 |
-| 26 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 |
-| 27 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 |
-| 28 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 |
+| 19 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 |
+| 20 | [Metaverse](https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Metaverse](https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt) | 3:16 |
+| 21 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 |
+| 22 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 |
+| 23 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 |
+| 24 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 |
+| 25 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 |
+| 26 | [Dans la sauce](https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:30 |
+| 27 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 |
+| 28 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 |
+| 29 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 |
 
 Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMGZiYjc2ODA5MjZiMjg3YjJkYzVhNDVjMzYzZmJmZmNl`

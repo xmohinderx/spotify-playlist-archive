@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "New Glasses",
+        "url": "https://open.spotify.com/album/2w7XYqojw19SoiPqNZYka8"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "New Glasses",
+      "url": "https://open.spotify.com/track/49D5HZJybTYkuVRSDQyQCF"
+    },
+    {
+      "album": {
         "name": "Kill Your Own",
         "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
       },

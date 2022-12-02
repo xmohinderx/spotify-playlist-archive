@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-124 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+125 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,8 +111,9 @@
 | [Samba do Boncy](https://open.spotify.com/track/7vr9QeelVrsCLk3XmnDUzU) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Samba do Boncy](https://open.spotify.com/album/6j2gkTfwhmLuxFYHQRBcPT) | 3:24 | 2022-06-24 | 2022-07-29 |
 | [Samba do Boncy](https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Samba do Boncy](https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg) | 3:24 | 2022-07-16 |  |
 | [SECRET](https://open.spotify.com/track/3YKlVrY90ttlrdXWTLToj4) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Nova Tunes 4.3](https://open.spotify.com/album/6E5PvuAL7G9eBBni9pqfaX) | 3:57 | 2022-09-23 | 2022-11-13 |
+| [SECRET](https://open.spotify.com/track/01Ls8VZHxWJS5Ql5LizO0i) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:57 | 2022-09-23 |  |
 | [SECRET](https://open.spotify.com/track/59Kiw8ihPooJ9dOVDnxC8u) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:57 | 2022-06-24 | 2022-07-29 |
-| [SECRET](https://open.spotify.com/track/6dTPAtFHU6GSDisnMu9C90) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:57 | 2022-07-16 |  |
+| [SECRET](https://open.spotify.com/track/6dTPAtFHU6GSDisnMu9C90) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:57 | 2022-07-16 | 2022-12-02 |
 | [Seul sur ton tandem](https://open.spotify.com/track/0it8h33bIpYBso2O7DVrbI) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/2V3UZKEoW1uxPXnZSIx1GR) | 3:53 | 2022-06-24 |  |
 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 | 2022-07-16 |  |
 | [Si je pleure](https://open.spotify.com/track/4KcBeLXAO66WKw40p06KBE) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 3:45 | 2022-06-24 | 2022-07-29 |

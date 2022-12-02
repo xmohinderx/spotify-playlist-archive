@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:5H4yInM5zmHqpKIoMNAx4r">Central Cee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,703,991 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,704,159 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 36 | [Do It Again \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5m9ey3mq1hq68jDytp4sw9) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Youngest N Charge](https://open.spotify.com/album/3ZrjdwkPytOsOz14qHnm4K) | 2:44 |
 | 37 | [By Myself \(feat\. Destroy Lonely\)](https://open.spotify.com/track/27o0xlsmaKZvyLFPZQRu99) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Livin Like That](https://open.spotify.com/album/2chG63Mq41Vn22tWTOATH0) | 3:24 |
 | 38 | [Slicin](https://open.spotify.com/track/65gJxCrRe6Ev9nRZOWw4EY) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Gutta Baby: Reloaded](https://open.spotify.com/album/1u8CUSOX8yKc0GOSi7hTN1) | 2:50 |
-| 39 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/6O9pntijEsKIAWTlWx1EmY) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
+| 39 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [BILLY B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 40 | [COUNTING SHEEP \(feat\. 21 Savage\)](https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [THIS IS NOT A DRILL](https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg) | 3:17 |
 | 41 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 |
 | 42 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 93 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 |
 | 94 | [My Body \(feat\. B.O.G\. Vonnie\)](https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [B.O.G\. Vonnie](https://open.spotify.com/artist/5ZDrZTQOHAwkOmg0IvQO9U) | [UNLV](https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU) | 2:54 |
 | 95 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 |
-| 96 | [STAY LOYAL](https://open.spotify.com/track/5tzKLsIqMGKOYpCCwnnYVA) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [STAY LOYAL](https://open.spotify.com/album/3MBGbbhpe0qSsZUTwJw25j) | 3:17 |
+| 96 | [STAY LOYAL](https://open.spotify.com/track/0WUeIyKQRsXl1glBm516tk) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [HEAVY IS THE HEAD](https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy) | 3:17 |
 | 97 | [Fearless](https://open.spotify.com/track/2aNdo4lf94W7YGaSIKuoKd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [DJ B Real](https://open.spotify.com/artist/6l4qISfLJ0wqdsL8DUGI1E) | [Fearless](https://open.spotify.com/album/7uzqVr5Kr14beuHAbalp7S) | 3:12 |
 | 98 | [Anotha 1](https://open.spotify.com/track/746KwUCnhLYNK1Jz7XA5Ir) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Anotha 1](https://open.spotify.com/album/1e6ikk92FBJmOLkRwjLIpy) | 2:24 |
 | 99 | [Richer](https://open.spotify.com/track/7t165yCy9QZoB50CxVLQ8A) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Richer](https://open.spotify.com/album/48z2k3V6BZm4fsJSp6LjKg) | 3:07 |
 | 100 | [SIN \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/0NtyaNXukC4yLz00xhLcCp) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Trick City \(Extended\)](https://open.spotify.com/album/5dnlF1iZDxqv0btALnQvqE) | 2:29 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGM4NjI0MWY4MTY0ZThhN2Q4NjlmODYzMDNhNzY1MDRm`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGM4ZjMxNGMzM2Y4Nzc1ODg3OTNiZDE0MzlmN2U3Mjdk`
