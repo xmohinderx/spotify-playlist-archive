@@ -1300,6 +1300,28 @@
     },
     {
       "album": {
+        "name": "Byrd: Retire My Soul",
+        "url": "https://open.spotify.com/album/1OpmDXX4BS0ZB7l8YhcKmQ"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Stile Antico",
+          "url": "https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "Retire My Soul",
+      "url": "https://open.spotify.com/track/6MKNiRPLEHZE8fikKRL3Vq"
+    },
+    {
+      "album": {
         "name": "Teach Me Thy Statutes",
         "url": "https://open.spotify.com/album/5lVObjwhqEWGcF8yvhUxS2"
       },

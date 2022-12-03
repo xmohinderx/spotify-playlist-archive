@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
-  "num_followers": 839841,
+  "num_followers": 839855,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI4MzU4MCwwMDAwMDAwMGEzOTk3M2YzOWUzNjU5ODAwMDIyMjBlY2QxMDhmMTkx",
+  "snapshot_id": "MTY2OTk2ODI0MCwwMDAwMDAwMGNjYjQ3ZWM0YjA0MjI3YTY2ZGI5Y2NlODI4Y2IxZTE2",
   "tracks": [
     {
       "added_at": "2022-11-24 09:53:00",
@@ -39,6 +39,22 @@
       "duration_ms": 144642,
       "name": "feel good",
       "url": "https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4"
+    },
+    {
+      "added_at": "2022-12-02 08:04:00",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
+      "added_at": "2022-12-02 08:04:00",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
+    },
+    {
       "added_at": "2022-11-04 04:05:00",
       "album": {
         "name": "Attaboy",
@@ -137,6 +169,22 @@
       "url": "https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo"
     },
     {
+      "added_at": "2022-12-02 08:04:00",
+      "album": {
+        "name": "Pastlife (Deluxe)",
+        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 182203,
+      "name": "Cold Like Me",
+      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
+    },
+    {
       "added_at": "2022-09-23 05:48:00",
       "album": {
         "name": "Romantic Homicide",
@@ -153,22 +201,6 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2022-11-24 09:53:00",
-      "album": {
-        "name": "How You Like",
-        "url": "https://open.spotify.com/album/61JrdyepvurPf5TRUUlQ5A"
-      },
-      "artists": [
-        {
-          "name": "meija",
-          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "How You Like",
-      "url": "https://open.spotify.com/track/441hmfeV0ZRRtGb944CblT"
-    },
-    {
       "added_at": "2022-11-04 04:05:00",
       "album": {
         "name": "Alpha Zulu",
@@ -183,6 +215,38 @@
       "duration_ms": 191733,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "added_at": "2022-12-02 08:04:00",
+      "album": {
+        "name": "It Could Be Me",
+        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 127458,
+      "name": "It Could Be Me",
+      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
+    },
+    {
+      "added_at": "2022-07-18 20:46:02",
+      "album": {
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2022-09-02 10:00:00",
@@ -225,20 +289,40 @@
       "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
     },
     {
-      "added_at": "2022-07-18 20:46:02",
+      "added_at": "2022-12-02 08:04:00",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+        "name": "biteback",
+        "url": "https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
         }
       ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+      "duration_ms": 122184,
+      "name": "biteback",
+      "url": "https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS"
+    },
+    {
+      "added_at": "2022-11-24 09:53:00",
+      "album": {
+        "name": "How You Like",
+        "url": "https://open.spotify.com/album/61JrdyepvurPf5TRUUlQ5A"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "How You Like",
+      "url": "https://open.spotify.com/track/441hmfeV0ZRRtGb944CblT"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -255,6 +339,22 @@
       "duration_ms": 359319,
       "name": "T Love - Extended",
       "url": "https://open.spotify.com/track/1qmBJijlYA148svgU0herL"
+    },
+    {
+      "added_at": "2022-12-02 08:04:00",
+      "album": {
+        "name": "howling @ the moon",
+        "url": "https://open.spotify.com/album/3dkTnNmHYTOZKET3JN7EI5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Garden",
+          "url": "https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi"
+        }
+      ],
+      "duration_ms": 103279,
+      "name": "howling @ the moon",
+      "url": "https://open.spotify.com/track/2BxiLfiKCxyOqG7FMXWlm2"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -401,6 +501,22 @@
       "url": "https://open.spotify.com/track/4chYGJ4RxKLpW5DqrYu93f"
     },
     {
+      "added_at": "2022-12-02 08:04:00",
+      "album": {
+        "name": "Figured Out Imma Liar",
+        "url": "https://open.spotify.com/album/6b3ARWhE8eO4S5jEpSkZ4i"
+      },
+      "artists": [
+        {
+          "name": "Kieran Ivy",
+          "url": "https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK"
+        }
+      ],
+      "duration_ms": 146745,
+      "name": "Figured Out",
+      "url": "https://open.spotify.com/track/5QVkgEPCCTOcOI4Ix6ZmJ5"
+    },
+    {
       "added_at": "2022-09-30 05:45:00",
       "album": {
         "name": "Body Paint",
@@ -543,22 +659,6 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Hello Sunshine",
-        "url": "https://open.spotify.com/album/4QO0A5dTLKEkjKMQuFGH9i"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/0gWJjbrMpbWkOauTiWghvV"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -729,22 +829,6 @@
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Tightrope",
-        "url": "https://open.spotify.com/album/5dOHA7hURlAbccdgpxmhP7"
-      },
-      "artists": [
-        {
-          "name": "Improvement Movement",
-          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/7aJxfa4BHhXR9mfexEbLEc"
-    },
-    {
       "added_at": "2022-10-14 07:40:00",
       "album": {
         "name": "REACH!",
@@ -775,22 +859,6 @@
       "duration_ms": 184314,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "The Living End",
-        "url": "https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B"
-      },
-      "artists": [
-        {
-          "name": "Sarah and the Sundays",
-          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "I'm So Bored",
-      "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
     },
     {
       "added_at": "2022-10-07 04:05:00",
@@ -905,26 +973,6 @@
       "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"
     },
     {
-      "added_at": "2022-09-23 05:48:00",
-      "album": {
-        "name": "Words and Guitar",
-        "url": "https://open.spotify.com/album/65xHh3Xt6eB7NhIFeEHwLA"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        },
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 143348,
-      "name": "Words and Guitar",
-      "url": "https://open.spotify.com/track/0Bcpp4FkZWscayqYaGVRxW"
-    },
-    {
       "added_at": "2022-10-07 04:05:00",
       "album": {
         "name": "Lying Through Their Teeth",
@@ -939,22 +987,6 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
-    },
-    {
-      "added_at": "2022-09-30 05:45:00",
-      "album": {
-        "name": "Bugs",
-        "url": "https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 162575,
-      "name": "Bugs",
-      "url": "https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j"
     },
     {
       "added_at": "2022-07-22 04:05:00",

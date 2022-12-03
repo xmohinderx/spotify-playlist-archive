@@ -4316,6 +4316,28 @@
     },
     {
       "album": {
+        "name": "MONOCROMO",
+        "url": "https://open.spotify.com/album/6kRIg0G0d7weWkQ8T2gp62"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201966,
+      "name": "MONOCROMO",
+      "url": "https://open.spotify.com/track/67KSpZbpnTU0ag5aHZmjcd"
+    },
+    {
+      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },

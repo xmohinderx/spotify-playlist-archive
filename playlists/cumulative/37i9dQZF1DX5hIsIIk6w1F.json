@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "20 DE 10",
+        "url": "https://open.spotify.com/album/3bN6Y8elYTZy0VQ8ErgYMr"
+      },
+      "artists": [
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150496,
+      "name": "20 DE 10",
+      "url": "https://open.spotify.com/track/5NcqccqI9aj1mp1sVYHxpx"
+    },
+    {
+      "album": {
         "name": "28",
         "url": "https://open.spotify.com/album/3wutFV7g5B2NbRPmJUjewl"
       },
@@ -409,7 +431,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 169801,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/20mREmWuPj9NFxzbQd5UbR"
@@ -1269,7 +1291,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 176882,
       "name": "Ella Me Llama",
       "url": "https://open.spotify.com/track/6xKtgOnvgxwO5JAmhte6nA"
@@ -1437,6 +1459,28 @@
       "duration_ms": 140117,
       "name": "Escondido",
       "url": "https://open.spotify.com/track/6w69CA5nEnFWBxyyDLjmbr"
+    },
+    {
+      "album": {
+        "name": "Ese Corte",
+        "url": "https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219401,
+      "name": "Ese Corte",
+      "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
     },
     {
       "album": {
@@ -2191,6 +2235,48 @@
       "duration_ms": 165047,
       "name": "La Gata",
       "url": "https://open.spotify.com/track/79maEGHcaiZ3aIVPFZb9QF"
+    },
+    {
+      "album": {
+        "name": "La Nena del Case",
+        "url": "https://open.spotify.com/album/3Lcl75jtgWsBk6Cu5CsW5O"
+      },
+      "artists": [
+        {
+          "name": "Chuchu Retro",
+          "url": "https://open.spotify.com/artist/3BhLm0rzP3kwnkLj7yXAaI"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "JLA Tu Gringito",
+          "url": "https://open.spotify.com/artist/3RThLFER3lz1upoqDlSB6P"
+        },
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Alexfer",
+          "url": "https://open.spotify.com/artist/383ZJmqhoMCt2l9H5RYMDG"
+        },
+        {
+          "name": "Yabel",
+          "url": "https://open.spotify.com/artist/3Zan5Poez2lZsuz9xXJfvn"
+        },
+        {
+          "name": "Nickboy",
+          "url": "https://open.spotify.com/artist/39Sjt2kA9smTRfN2zT9aEI"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460760,
+      "name": "La Nena del Case",
+      "url": "https://open.spotify.com/track/57pbVdbqT8B28V6FpJTKkw"
     },
     {
       "album": {
@@ -2949,7 +3035,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 310666,
       "name": "MONEYMAN (feat. Galee Galee & ITHAN NY)",
       "url": "https://open.spotify.com/track/40xJTwBKb5x3wjlLOeycaL"
@@ -3427,6 +3513,24 @@
       "duration_ms": 201178,
       "name": "Pa Mi Na Ma",
       "url": "https://open.spotify.com/track/1NnhfvqvkTizmt2ByeDjKX"
+    },
+    {
+      "album": {
+        "name": "Pa Pegarme",
+        "url": "https://open.spotify.com/album/3M077R4wOUfZjTB3VKVHnO"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Pa Pegarme",
+      "url": "https://open.spotify.com/track/7ufkiuikDLH6L70yVasUi6"
     },
     {
       "album": {
@@ -3965,7 +4069,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 186096,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
@@ -3987,7 +4091,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 197015,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/3y8stkhKVX4cFf66yr9QCw"
@@ -5213,6 +5317,24 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "album": {
+        "name": "UNA FIXA",
+        "url": "https://open.spotify.com/album/0ar4tw9RjVq48DIhUQVjkI"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190259,
+      "name": "UNA FIXA",
+      "url": "https://open.spotify.com/track/18Mw3bbAiqEYmaTt6S0LV6"
     },
     {
       "album": {

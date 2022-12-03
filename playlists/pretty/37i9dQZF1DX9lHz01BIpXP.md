@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ\-u8gnmqQaUJ8A">Loufi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 4 | [Bring the Noise](https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn) | [BRU](https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv), [Isaac Mutant](https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Bru](https://open.spotify.com/album/6RirppwJmnR5e0PTghCull) | 4:26 |
 | 5 | [Mooiste Meisies](https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Mooiste Meisies](https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF) | 3:41 |
 | 6 | [Jou Mase](https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Bailomusiq](https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm) | [Jou Mase](https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8) | 3:04 |
-| 7 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
-| 8 | [Mermaid](https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Mermaid](https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY) | 3:13 |
+| 7 | [Skattie](https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Skattie](https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq) | 3:13 |
+| 8 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
 | 9 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 |
 | 10 | [Watch Wat Jy Praat](https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Watch Wat Jy Praat](https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3) | 3:40 |
 | 11 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 49 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 |
 | 50 | [Ghetto Boi](https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK) | [Kulturegng](https://open.spotify.com/artist/2TOxM93PxHUXxznzATXhqD) | [Ghetto Boi](https://open.spotify.com/album/0L8k4lMOBdc3DNusEDEXRw) | 2:03 |
 
-Snapshot ID: `MTY2OTkzMTk0MCwwMDAwMDAwMDFhNjUwNjQ3NzQyNDE2YjA3MGJlNjZjMjEzNmU5OTU3`
+Snapshot ID: `MTY2OTk2MjgyOSwwMDAwMDAwMDc4NTBkZmFiZTI3YWMxYzM1Y2JhOTNiNjlhYWFlNzFj`

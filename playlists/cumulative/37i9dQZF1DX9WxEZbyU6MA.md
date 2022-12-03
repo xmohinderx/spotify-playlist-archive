@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-92 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
+93 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [O Sacrum Convivium](https://open.spotify.com/track/4HnlDmW3Dx80EbdC4nAta0) | [Gabriel Jackson](https://open.spotify.com/artist/5JevEERyvnakODzi6C1H10), [Samuel Rathbone](https://open.spotify.com/artist/22N6UJrlhXQ0F7UPesXokd), [The Choir of Royal Holloway](https://open.spotify.com/artist/1vasMRKeTuE5wtYduxAETj), [Rupert Gough](https://open.spotify.com/artist/5hzVruo6hza65D4Xz1iJsG) | [O Sacrum Convivium](https://open.spotify.com/album/0tZIkcvLqpJRvJKom0DZXp) | 6:22 | 2021-07-21 |  |
 | [Os justi](https://open.spotify.com/track/5y41AyXVAt68eHyY2Z75sP) | [Anton Bruckner](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [A Choral Tapestry](https://open.spotify.com/album/7GYUPGkWZHeYqC6bZUT68x) | 4:42 | 2022-01-26 |  |
 | [Requiem \- Herbert Howells: III\. Requiem Aeternam \(I\)](https://open.spotify.com/track/6uM2elLuQMKe47EV5yjJKT) | [Dale Warland Singers](https://open.spotify.com/artist/7lsn4vl91HSqb5byRmFu8I) | [Cathedral Classics](https://open.spotify.com/album/135IgSQrW28WnU4NgQMt3w) | 3:23 | 2021-07-21 |  |
+| [Retire My Soul](https://open.spotify.com/track/6MKNiRPLEHZE8fikKRL3Vq) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Stile Antico](https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG) | [Byrd: Retire My Soul](https://open.spotify.com/album/1OpmDXX4BS0ZB7l8YhcKmQ) | 4:26 | 2022-12-02 |  |
 | [Salvation Is Created, Op\. 25 No\. 5](https://open.spotify.com/track/0gWBZ2wFGLdCxZHaW4oNw4) | [Pavel Chesnokov](https://open.spotify.com/artist/0o7TvHMVIlWDZo98MCVume), [PaTRAM Institute Male Choir](https://open.spotify.com/artist/2jmIVeraMxCZ60AF1p7EVZ), [Vladimir Gorbik](https://open.spotify.com/artist/3upykx7scPlS3x4CS52SkV) | [Teach Me Thy Statutes](https://open.spotify.com/album/5lVObjwhqEWGcF8yvhUxS2) | 4:17 | 2021-07-21 |  |
 | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/track/1XAwBkH7vpJvNbq8yB3Rji) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Eleanor Turner](https://open.spotify.com/artist/2iWdlFp0AxoJNj3QH18at4) | [Infinity](https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb) | 3:58 | 2022-07-22 |  |
 | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/track/7x7Q3hlDD5ogcxztavyIxu) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Eleanor Turner](https://open.spotify.com/artist/2iWdlFp0AxoJNj3QH18at4) | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/album/39v1cvGmv8Oa8nniwO1q2Y) | 3:58 | 2021-07-21 | 2022-07-29 |

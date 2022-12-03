@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDL1QZQctw1.md) - [plain]
 
 > Relaxing jazz music for meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266 likes - 61 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303 likes - 61 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

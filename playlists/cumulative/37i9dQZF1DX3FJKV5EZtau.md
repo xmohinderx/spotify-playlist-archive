@@ -4,13 +4,13 @@
 
 > Electro tunes for your virtual world.
 
-312 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+313 songs - 18 hr 12 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [\#4u](https://open.spotify.com/album/7lSFPJJSetFsOVLPvRqeP4) | 1:48 | 2022-05-27 | 2022-07-25 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-10 |  |
-| [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 |  |
+| [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 | 2022-12-03 |
 | [A CYBER'S WORLD? \(From "Deltarune"\) \- Electro House Version](https://open.spotify.com/track/7s9VjAWhf8ypPqdOCR3hcn) | [Mykah](https://open.spotify.com/artist/3VYxuvrdxNbXmDIxiHYDqz) | [A CYBER'S WORLD? \(From "Deltarune"\) \[Electro House Version\]](https://open.spotify.com/album/38WxY9cf0avPDxehC3ubmL) | 4:29 | 2022-01-07 | 2022-07-29 |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 |  |
 | [Airway](https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Airway](https://open.spotify.com/album/1hvFDHasQOCnAMQfRNa3JO) | 3:15 | 2022-01-07 | 2022-07-27 |
@@ -78,6 +78,7 @@
 | [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 | 2022-09-16 |  |
 | [Dreams](https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Dreams](https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC) | 4:17 | 2022-01-07 |  |
 | [Drift](https://open.spotify.com/track/0AZ0HqGUw0YzMQqniiQWNa) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [Drift](https://open.spotify.com/album/72IlA8Mm8nNFjVVeTxsUh8) | 3:35 | 2022-01-07 | 2022-07-29 |
+| [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Drift Like A Cloud, Flow Like Water](https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE) | 3:20 | 2022-12-02 |  |
 | [Drowning](https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Sally Oh](https://open.spotify.com/artist/1rofHXMRiMdndtO5D34Gwp) | [Drowning](https://open.spotify.com/album/7h4jWZsNcOey1AhDSms5g1) | 3:25 | 2022-01-07 | 2022-11-26 |
 | [Dummo Loop](https://open.spotify.com/track/7fcLynQO9FrmYMOWuo1c1X) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [World Famous Tour](https://open.spotify.com/album/3WXeQznuGDKqbGn9VUbeVE) | 3:37 | 2022-07-14 | 2022-08-06 |
 | [ebb and flow](https://open.spotify.com/track/0pOiVq4xFmpeXwjEkzpD9U) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [ebb and flow](https://open.spotify.com/album/25TyFNrtJLZbIciT9udRhp) | 4:17 | 2022-07-14 | 2022-08-06 |

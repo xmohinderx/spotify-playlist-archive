@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Speed
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Ov Sulfur
 
-276 songs - 17 hr 43 min - not published yet
+282 songs - 18 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,10 @@
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 |  |
 | [Damnation](https://open.spotify.com/track/5afgTvdlApyuy2Ciu5DZyd) | [Raw Breed](https://open.spotify.com/artist/6QEopd1XsizMiGKMMqRRFn) | [Damnation](https://open.spotify.com/album/2z0KrMrHcKDNT48ae7aGrn) | 1:41 | 2022-09-02 |  |
 | [Dance Devil Dance](https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/1PUgDRbQP4XeJtbKRbOttp) | 4:00 | 2022-10-28 |  |
+| [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2022-12-02 |  |
 | [Death Cantation](https://open.spotify.com/track/3pAHBYxCvJ5GjkeTahTYgc) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Death Cantation](https://open.spotify.com/album/7r1GY0QUqDh3Glxg59iqRD) | 3:56 | 2022-04-29 |  |
 | [Death Is A Relief](https://open.spotify.com/track/3rKVRJE0yFl7Un8fMt4l28) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Is A Relief](https://open.spotify.com/album/6zWFEJ9oUQZRyqqLdEnvNt) | 5:53 | 2022-03-18 |  |
+| [Death Ov Circumstance](https://open.spotify.com/track/4aMw1McEiSKcwVzW2qwt2c) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Death Ov Circumstance](https://open.spotify.com/album/6lXJ45JATRhRieaySjLApg) | 4:33 | 2022-12-02 |  |
 | [DEATHWESTERN](https://open.spotify.com/track/70Uqyz7UjUfmCFQSQN9p6w) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/5yH2KEa6tVTfI9zTgwtVF1) | 3:26 | 2022-09-23 |  |
 | [Decider](https://open.spotify.com/track/1RDsaI3HmmqcCpAu6xjna3) | [City of Caterpillar](https://open.spotify.com/artist/6zRqJkcK9YW5muISa2kwZR) | [Decider](https://open.spotify.com/album/78opHBtvQxLJqlZ14uEHjW) | 4:29 | 2022-08-05 |  |
 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-02 |  |
@@ -75,6 +77,7 @@
 | [Dreamkiller](https://open.spotify.com/track/5z0Y6jwTDwH6YbhH0DLWRR) | [Sumerlands](https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW) | [Dreamkiller](https://open.spotify.com/album/7p3f8b0cCBnrHmP7VpGZgw) | 5:11 | 2022-07-22 |  |
 | [Driponomics](https://open.spotify.com/track/7yRrhhWwU9tOYYVKHiHpZD) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Mother Maryrose](https://open.spotify.com/artist/2nCvXCwODRmVexITlXalio) | [Driponomics](https://open.spotify.com/album/1H60jal6uXilRIsgZDwhJM) | 2:49 | 2022-03-04 |  |
 | [Dust](https://open.spotify.com/track/3U8ZeW7SCWMEJ5OCJ1Pp6c) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Dust](https://open.spotify.com/album/34YoSbT5nxTAFBMcc6rlHZ) | 5:39 | 2022-07-01 |  |
+| [Dying of Everything](https://open.spotify.com/track/7GgPZBrYvDLWUZV0ePStAE) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Dying of Everything](https://open.spotify.com/album/3oNJTBva2E8MhEPz4NHTPC) | 4:43 | 2022-12-02 |  |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 |  |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 |  |
@@ -84,6 +87,7 @@
 | [Extortion](https://open.spotify.com/track/2yIKuIZOyio39fRLexWyt1) | [Killing Pace](https://open.spotify.com/artist/35oHGxQhAMaExrcS9CPYOK) | [Killing Pace](https://open.spotify.com/album/6kh7J4Qvjgsm7yyasxQORY) | 2:02 | 2022-05-20 |  |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 |  |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 |  |
+| [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-02 |  |
 | [Fear in Non Fiction](https://open.spotify.com/track/48qldcY9MIstCu7JxcAGGj) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [Fear in Non Fiction](https://open.spotify.com/album/1wzFbbjthC4RwynzagKDJ1) | 3:24 | 2022-01-28 |  |
 | [Feel It Linger](https://open.spotify.com/track/61mPF8FLWs0b88T4HXlAgs) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Learning To Dissolve](https://open.spotify.com/album/6fvt916VE3qmh2NPCyfOfl) | 4:39 | 2022-08-19 |  |
 | [Fight Back](https://open.spotify.com/track/1KllUhrZirzSBJGZuc56Kp) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Fight Back](https://open.spotify.com/album/5km5tzjw0EVU8RwqQMoICb) | 1:50 | 2022-09-30 |  |
@@ -121,6 +125,7 @@
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 |  |
 | [III](https://open.spotify.com/track/3ZdDBUhVms1TsoaB1FltXk) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [III](https://open.spotify.com/album/57SswxWv0xIHwwJNlQuF55) | 4:08 | 2022-05-06 |  |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-01-28 |  |
+| [Immortalize](https://open.spotify.com/track/1AR0d9urAEX4a1WdTzmbKz) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Immortalize](https://open.spotify.com/album/3kJDQqifVrTnTEOj1alM13) | 3:35 | 2022-12-02 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/6Gyfnh212BLrBpIwjnXYIh) | [Whores](https://open.spotify.com/artist/1tK28YnQJ6edBujubs7FXo) | [Imposter Syndrome](https://open.spotify.com/album/4l0JAsTXAZyERJR2h7O6z6) | 4:04 | 2022-03-04 |  |
 | [In the Void](https://open.spotify.com/track/5AsHysrBAAPMusL0WUHsCl) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Johannes Persson](https://open.spotify.com/artist/3xV1nzks756iynRSEAN2ux), [Final Light](https://open.spotify.com/artist/4Uiua0tWypGcttzUkddFMH) | [In the Void](https://open.spotify.com/album/5aiIy9BVEoDh7AdP3PoDbf) | 8:58 | 2022-04-29 |  |
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-04-08 |  |
@@ -139,6 +144,7 @@
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 |  |
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 |  |
 | [Lowered](https://open.spotify.com/track/7iTdUbHzNBl5Io3AVQGtli) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi), [Reba Meyers](https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE) | [Lowered](https://open.spotify.com/album/3tfEyD1TjqTDnFqRDpzCnj) | 4:10 | 2022-02-25 |  |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 |  |
 | [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 |  |
 | [Mandatory Malevolence](https://open.spotify.com/track/7JzHzguxd5yaK66LX17dol) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Mandatory Malevolence](https://open.spotify.com/album/6YxRaWPGIa2CNk6TgLDh3K) | 4:04 | 2022-06-03 |  |
 | [Masters of Morbidity](https://open.spotify.com/track/0T6GFp0XeYDiQv083xTZyp) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/7IAQnZhOMVvzgeAS4BMRu7) | 4:22 | 2022-11-11 |  |

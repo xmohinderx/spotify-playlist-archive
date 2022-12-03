@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Nature's Awakening",
+        "url": "https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0"
+      },
+      "artists": [
+        {
+          "name": "Mhino",
+          "url": "https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171057,
+      "name": "Nature's Awakening",
+      "url": "https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek"
+    },
+    {
+      "album": {
         "name": "Nature's Drone 432Hz",
         "url": "https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA"
       },
@@ -1697,6 +1715,24 @@
       "duration_ms": 139663,
       "name": "Seatherny",
       "url": "https://open.spotify.com/track/5ZWxmqAvPQqLKaflbMnRWw"
+    },
+    {
+      "album": {
+        "name": "Serene Lake",
+        "url": "https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo"
+      },
+      "artists": [
+        {
+          "name": "Mjuk",
+          "url": "https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157499,
+      "name": "Serene Lake (Spa)",
+      "url": "https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ"
     },
     {
       "album": {

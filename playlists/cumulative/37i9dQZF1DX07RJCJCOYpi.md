@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: Gordo & Feid
 
-144 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+145 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Papi Chulo](https://open.spotify.com/track/7BDeacseVr0vdqL0ofjm5Y) | [Nickobella](https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt), [BeatItPunk](https://open.spotify.com/artist/4NihfBDoszDjMjIM64uJPT) | [Papi Chulo](https://open.spotify.com/album/2i8RUL42wpI7hcMMnOUHhd) | 3:10 | 2022-03-22 | 2022-04-21 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-03-22 | 2022-05-14 |
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2022-03-22 |  |
+| [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 | 2022-12-02 |  |
 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 | 2022-10-28 |  |
 | [Provenza](https://open.spotify.com/track/4cgKV8PTmNHIillgrxI0J8) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Provenza](https://open.spotify.com/album/3KJslj1QLLn1VO6QZPcSie) | 3:52 | 2022-07-04 |  |
 | [Purisima \- Marsal Ventura & Jbill Remix](https://open.spotify.com/track/2hz28SuI4hFvHQ5E6xSXTt) | [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Jheyzell](https://open.spotify.com/artist/3AYrBKh3Dd2cY4bfSSJThC), [Marsal Ventura](https://open.spotify.com/artist/3uGPais7i1uwcaa9xOjPjF), [Jbill](https://open.spotify.com/artist/15uUKLG8HlKhdUEAsgdejF) | [Purisima \(Marsal Ventura & Jbill Remix\)](https://open.spotify.com/album/3ZmM3WywY1Sy77o7eXAEPn) | 2:30 | 2022-03-22 | 2022-04-29 |

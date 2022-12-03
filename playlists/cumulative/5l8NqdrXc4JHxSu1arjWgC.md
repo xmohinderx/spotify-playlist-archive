@@ -4,7 +4,7 @@
 
 > 
 
-659 songs - 1 day 20 hr 19 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+660 songs - 1 day 20 hr 24 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Is She Weird](https://open.spotify.com/track/3Ao3tTpiXLSmch1kTJZ7Fx) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/60cRh5MCFNOrFeQykKnDej) | 3:01 | 2020-08-14 |  |
 | [Isolation \- Remastered 2010](https://open.spotify.com/track/3sRQJYlA7P4oIRUwy8Im9r) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 2:52 | 2020-03-20 |  |
 | [It Might Be Time](https://open.spotify.com/track/2P0NiuAfypaw5UZJoo0n0o) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [It Might Be Time](https://open.spotify.com/album/0xUNJrjy4ORR3xQKH93n3a) | 4:33 | 2019-10-30 |  |
+| [It's All In Your Mind \(feat\. Graham Coxon & Rahel Debebe\-Dessalegne\)](https://open.spotify.com/track/0GybSKd5oGeLMtCLbXhBoQ) | [Superstate](https://open.spotify.com/artist/0TLcN68jey7bYM2HQEdRgi), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rahel Debebe\-Dessalegne](https://open.spotify.com/artist/2SDNXRQ8uX3TJxu4t6EEO3) | [Superstate \(feat\. Graham Coxon\)](https://open.spotify.com/album/265K7BOpojsq3RvCVbjz1z) | 4:38 | 2022-12-02 |  |
 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 | 2019-08-24 |  |
 | [It's The End Of The World As We Know It \(And I Feel Fine\) \- Remastered](https://open.spotify.com/track/7MYbzpwYe4idnynYQCE998) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 4:07 | 2019-01-10 |  |
 | [Jesus Christ Pose \- Remastered](https://open.spotify.com/track/4oCgWwn7fN0Z678rbE12tN) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger](https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp) | 5:51 | 2020-06-30 |  |
@@ -655,7 +656,7 @@
 | [World Leader Pretend \- Remastered](https://open.spotify.com/track/7KBiPgHgfy5t1wo2alQvF6) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 4:19 | 2019-08-10 |  |
 | [World’s Strongest Man](https://open.spotify.com/track/3OycLR3U65iIJXrIQYVpIK) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [World’s Strongest Man](https://open.spotify.com/album/3GNgyMVDg6PSVsOxFfHZsO) | 3:28 | 2020-08-10 |  |
 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 | 2019-07-12 |  |
-| [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 | 2019-07-10 |  |
+| [Would?](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 | 2019-07-10 |  |
 | [Wouldn't Mama Be Proud](https://open.spotify.com/track/4GZRKea2czcuYBX2HhNNsI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:25 | 2018-10-26 |  |
 | [You Can't Hold on Too Long \- 2016 Remaster](https://open.spotify.com/track/6vW52QlmRrVJzP53jgXV99) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O \(Expanded Edition\)](https://open.spotify.com/album/4KnAHiizOLIE3O6Taypr8t) | 2:49 | 2019-09-11 |  |
 | [You Don't Know How It Feels](https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 4:49 | 2019-11-15 |  |

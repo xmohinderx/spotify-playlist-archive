@@ -4,7 +4,7 @@
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-142 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
+143 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/7J29LYotKBKO0d6uHHNKwN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Whole World's Got The Blues](https://open.spotify.com/track/1iMaESb3cbl0zzz0kBDIuQ) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Whole World's Got The Blues](https://open.spotify.com/album/1kAPTU1DiFdL5mk2dLLlJt) | 5:33 | 2021-12-01 | 2022-11-14 |
 | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/track/36K7AYc1UyMyjPoV4c3ozR) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE) | 5:33 | 2021-12-01 | 2022-07-29 |
 | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/track/5bzgruPfJ2W4mYetZAlZPk) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Dear America](https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3) | 5:33 | 2021-12-01 | 2022-07-29 |
-| [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 | 2022-11-30 |  |
+| [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 | 2022-11-30 | 2022-12-03 |
+| [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 | 2022-11-30 |  |
 | [You Don't Know the Blues](https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:34 | 2022-11-30 |  |
 | [You Got To Move](https://open.spotify.com/track/32Mf7nDU9RHDKazq2i7i0D) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 2:41 | 2022-11-30 |  |
 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 | 2022-11-30 |  |

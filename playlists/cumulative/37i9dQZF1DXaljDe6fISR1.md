@@ -2,9 +2,9 @@
 
 ### [Gigantes do Rap Nacional](https://open.spotify.com/playlist/37i9dQZF1DXaljDe6fISR1)
 
-> Ouça grandes MCs do hip hop nacional\. Foto: 509\-E
+> Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-92 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
+93 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/39eOoZa4goYLkWs21ZTiBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chama os mulekes](https://open.spotify.com/track/133wW6rNFytP7XKIsDhHza) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os neurônios evoluidos](https://open.spotify.com/album/2CGsS0dv6lplvO5KDkooIm) | 5:53 | 2022-03-11 | 2022-07-29 |
 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 | 2022-04-22 |  |
 | [Como Eu Te Quero](https://open.spotify.com/track/5JX81dHdlOVfTXim2itZKw) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:30 | 2022-03-11 |  |
+| [Compton Brasil](https://open.spotify.com/track/2oREOLfcHFrj7k9leuRZsh) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Compton Brasil](https://open.spotify.com/album/2TCNSz7BPIYf2ECMLxbfxI) | 4:15 | 2022-12-02 |  |
 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [A Arte Do Barulho](https://open.spotify.com/album/5ZfSz6IVs85lm5zRxlvAZi) | 2:55 | 2022-03-11 |  |
 | [Dia de Visita \- Ao Vivo](https://open.spotify.com/track/1A7uDimTjK1RRZwuWMDpzb) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Em Meio A Tudo Isso A História Continua \(Ao Vivo\)](https://open.spotify.com/album/6mbN3nlzU1rQTJmOFvI7iA) | 4:48 | 2022-09-23 |  |
 | [Diário de um Detento](https://open.spotify.com/track/7wglwZzZoWUr8sOECwpu6L) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:31 | 2022-03-11 |  |

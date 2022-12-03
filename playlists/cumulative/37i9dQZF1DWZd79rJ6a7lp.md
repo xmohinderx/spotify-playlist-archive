@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-733 songs - 1 day 13 hr 2 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+738 songs - 1 day 13 hr 17 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 | 2021-05-04 |  |
 | [After Dusk](https://open.spotify.com/track/5jlj0qkXgcRieANDFvg0mw) | [Gianni Goggia](https://open.spotify.com/artist/17wpSZjx0lWXcjoskfV2sQ) | [After Dusk](https://open.spotify.com/album/6BZuHMDtHuMmAhRReJ7wTf) | 2:04 | 2021-03-14 | 2022-03-25 |
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2020-10-20\* | 2020-12-12 |
+| [Air](https://open.spotify.com/track/0y9DY0rp8MkJvF3JrQjLBp) | [Cloudway](https://open.spotify.com/artist/5mDpJ4cbmZv0gIfvwehaeZ) | [Air](https://open.spotify.com/album/1ACUlru8Q8t86Mvor3VAA3) | 2:35 | 2022-12-02 |  |
 | [Al Vanda](https://open.spotify.com/track/157498zKslcWTRJGqzx3ad) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Al Vanda](https://open.spotify.com/album/184oRUumTGWbZjRSM6EV7C) | 2:27 | 2022-09-30 |  |
 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 | 2020-10-20\* | 2021-05-04 |
 | [All is Forgiven](https://open.spotify.com/track/2MS0JjmoW9JAu9NmeRYmPO) | [Helike](https://open.spotify.com/artist/3EqRbbQlEglmQGw3p815YD) | [Sparkle of Your Smile](https://open.spotify.com/album/7qlWqpDN7bwzoZAPIGI2cu) | 2:32 | 2020-10-20\* | 2021-02-06 |
@@ -47,6 +48,7 @@
 | [Anay degimay](https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Anay degimay](https://open.spotify.com/album/23hYRiBfshqH0kACbIGjiH) | 3:17 | 2020-10-20\* | 2020-12-12 |
 | [Andas](https://open.spotify.com/track/42Rzf70H0cM88EDU5YV0cq) | [Noa Sandberg](https://open.spotify.com/artist/4NuFGDpscdSenij0ZMw5nX) | [Andas](https://open.spotify.com/album/0Nz8DfGAHctAmudc26Il78) | 3:05 | 2021-02-06 |  |
 | [Andestus](https://open.spotify.com/track/1aTm8TO1G472gJR3c4g9Iv) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Andestus](https://open.spotify.com/album/1lyyjGpFOkOx9BUYSk3eo3) | 3:40 | 2020-10-20\* | 2021-06-16 |
+| [Anjuna](https://open.spotify.com/track/169cAdqQv1dcE8vZUtIxja) | [Anders\-Petter Carlskog](https://open.spotify.com/artist/1P42IGRkwBbq9f8W76tcK6) | [Spiritual Progression](https://open.spotify.com/album/4d1Y7hFVkCR2DZiVJw1C3o) | 3:15 | 2022-12-02 |  |
 | [Answers](https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH) | [Elmer Loyd](https://open.spotify.com/artist/4VIdNbofDE1Txze8n5jshd) | [Answers](https://open.spotify.com/album/6L7t3tZ2gQAJ3CYhM4joVp) | 2:58 | 2021-06-16 |  |
 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 | 2020-10-20\* | 2020-12-12 |
 | [Anzhela](https://open.spotify.com/track/1waE1SpgsOgxVcsJio3jOo) | [Stella Kovalyova](https://open.spotify.com/artist/1VcsmBSxaifP1LiG8WtsLA) | [Anzhela](https://open.spotify.com/album/3zw5CCaw4carDiHUiCZIDQ) | 3:11 | 2020-11-03 | 2021-05-04 |
@@ -136,14 +138,14 @@
 | [Close Your Eyes Once Again](https://open.spotify.com/track/0hFq6QVQSKRwgXcY6ilHvb) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Encounter](https://open.spotify.com/album/4O4UIoJHt1GHL7GkRkuyui) | 2:57 | 2021-09-03 |  |
 | [Closed Eyes](https://open.spotify.com/track/5jYNqiIbNQN4uEkGkmAe6H) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Soft featherS](https://open.spotify.com/album/2UkZdMXhrGiZhAJJhJUdgr) | 3:14 | 2020-10-20\* | 2020-12-12 |
 | [Closure](https://open.spotify.com/track/0yMF30FFvzQLlBDhHuwsPd) | [Reuben Hensley](https://open.spotify.com/artist/0mz4d5jY4R7Xby9AUlpViB) | [Closure](https://open.spotify.com/album/088v0YvPvnjID5bl6CwLgq) | 4:21 | 2020-11-03 | 2021-06-16 |
-| [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Roni Adrian](https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
+| [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 | 2021-10-30 |  |
 | [Cloudology](https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J) | [Moomu](https://open.spotify.com/artist/2eZRi0tR0RmIwq6lx3TEZt) | [Aguatic](https://open.spotify.com/album/1WSU1HlUTsOoa051MqIP6u) | 3:07 | 2021-06-16 |  |
 | [cognizant](https://open.spotify.com/track/5CC8QT7TuttcXXSlj5cx2T) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [cognizant](https://open.spotify.com/album/4Fb4c1N2xSMNyAJerSsnqF) | 3:11 | 2020-10-20\* | 2021-03-14 |
 | [Compassion](https://open.spotify.com/track/2mejNtx8hB6M56m4hs0bAh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:32 | 2021-09-03 |  |
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2022-09-30 |  |
 | [Constants](https://open.spotify.com/track/4MzZYs0cRFhnmqhJsxvLZz) | [Melody Leonard](https://open.spotify.com/artist/2e6gRlSKiBmCl14XXhFpHk) | [Constants](https://open.spotify.com/album/4V4Zq8rSIlibphoRvXZcv9) | 2:48 | 2020-10-20\* | 2021-05-04 |
-| [Contemplation](https://open.spotify.com/track/7J9wquS6KYMs8xStcEYoGr) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Contemplation](https://open.spotify.com/album/2kk849IDiM7iBiDv3KVF35) | 2:56 | 2021-09-03 |  |
+| [Contemplation](https://open.spotify.com/track/7J9wquS6KYMs8xStcEYoGr) | [Sara Edwards](https://open.spotify.com/artist/6GiFpBwBuF6ClavjfeRZnt) | [Contemplation](https://open.spotify.com/album/2kk849IDiM7iBiDv3KVF35) | 2:56 | 2021-09-03 | 2022-12-03 |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2020-10-20\* | 2021-08-17 |
 | [Conversant](https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Conversant](https://open.spotify.com/album/3fq3wucSSjzqUYDkSAPeEI) | 2:31 | 2022-11-11 |  |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2020-11-21 | 2021-01-21 |
@@ -212,6 +214,7 @@
 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 | 2020-11-21 | 2021-06-16 |
 | [Eenzame stilte](https://open.spotify.com/track/1e6nwN0hH6Ui144FkjL53z) | [Dries Wold](https://open.spotify.com/artist/7nUGsX8XXGenXjcE2ZLMEv) | [Eenzame stilte \(Ambient version\)](https://open.spotify.com/album/0tPYMZZWlYoevwpJUX79be) | 2:33 | 2021-05-04 | 2021-09-03 |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-09-22 |  |
+| [Eleven](https://open.spotify.com/track/2VS5gBeWwMYhrGOJAs1aYc) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [11](https://open.spotify.com/album/0oAnFMLX1yGvFXAQP7Uewx) | 2:50 | 2022-12-02 |  |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2020-11-21 | 2021-10-23 |
 | [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 | 2020-10-20\* | 2021-03-14 |
 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 | 2022-06-16 |  |
@@ -437,6 +440,7 @@
 | [Nechama](https://open.spotify.com/track/54IZYicWqjVsicv07CaP3m) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Nechama](https://open.spotify.com/album/5803li2yFmKPU2ThCUB4m3) | 3:32 | 2020-10-20\* | 2021-05-04 |
 | [Nepenthe](https://open.spotify.com/track/0kKOC50fPTnqmrYvtJInsT) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Nepenthe](https://open.spotify.com/album/7ARp3k61xr4HZrXTQVboW7) | 2:31 | 2020-10-20\* |  |
 | [Ngày Mai](https://open.spotify.com/track/3ZDiGCemtha740KIO5Ocpy) | [Haleema Pham](https://open.spotify.com/artist/1vdaAXHf2Bv6wYhyW2xXHe) | [Ngày Mai](https://open.spotify.com/album/5yBiBd2qFl3rYPU23ADfO7) | 3:10 | 2020-12-04 | 2021-05-04 |
+| [Nieve](https://open.spotify.com/track/6VXtIz60EI6GUYQRsFWxNe) | [Jademaia](https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo) | [Invierno](https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD) | 2:34 | 2022-12-02 |  |
 | [Night Ripples](https://open.spotify.com/track/5oDYLuEAn8UGTyyP4k5xhb) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Night Ripples](https://open.spotify.com/album/6zhu1ih3wmMPxyRE0eYrhF) | 2:55 | 2020-10-20\* | 2020-12-12 |
 | [Nightbird](https://open.spotify.com/track/2b0Sl3lyI3p4qZSYlVaGKg) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Nightbird](https://open.spotify.com/album/0vkqn39TjZcoEINbXXQkOp) | 3:19 | 2022-11-11 |  |
 | [Nightfall](https://open.spotify.com/track/4HeTp7uxT3yqJQYXP5RnPN) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Nightfall](https://open.spotify.com/album/1NFDvhPuSJWgIDfJjfqnXz) | 3:15 | 2021-09-22 | 2022-05-20 |
@@ -563,6 +567,7 @@
 | [Shinrabansho](https://open.spotify.com/track/6S1cvapi9HH9tr1uX9clVb) | [Eira Cloud](https://open.spotify.com/artist/6BvyFmg49l8pJToLeGKmi9) | [Shinrabansho](https://open.spotify.com/album/0Q9X3pgupHIP5LGyDkInOr) | 2:54 | 2022-02-25 |  |
 | [Silent Mind](https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Silent Mind](https://open.spotify.com/album/184Iu1UxOAYE4ZR9xdFJ9B) | 2:10 | 2022-04-21 |  |
 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 | 2020-10-20\* | 2021-03-14 |
+| [Silhouettes](https://open.spotify.com/track/5oTCj47iqYLxzE0fOxYbLL) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Silhouettes](https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz) | 3:08 | 2022-12-02 |  |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2021-06-16 |  |
 | [Simplistica](https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Simplistica](https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx) | 2:07 | 2022-07-15 |  |
 | [Sine One](https://open.spotify.com/track/0kCLXSE4bWhVdlUYis6oC5) | [Gentle States](https://open.spotify.com/artist/0BgcM7eignAv2PYIRlUTX0) | [Solaris](https://open.spotify.com/album/2SM2Fd7D38oQ9Ul3Io4nfE) | 2:57 | 2020-10-20\* | 2021-02-06 |

@@ -2,9 +2,9 @@
 
 ### [Lo + del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq)
 
-> Novedades y clásicos del popular género colombiano\. Foto: Peter Manjarrés
+> Novedades y clásicos del popular género colombiano\. Foto: Churo Díaz y Elías Mendoza
 
-82 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/5DUAgqOUAUpm54q7WTV3qb)
+83 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/5DUAgqOUAUpm54q7WTV3qb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Diez Mil Veces Tú](https://open.spotify.com/track/2Kh0B090ELw2MrJd2SY1LR) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Esto Que Dice!](https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH) | 4:08 | 2022-09-02 |  |
 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 | 2022-09-02 |  |
 | [Difícil de Igualar](https://open.spotify.com/track/1Wddg2lRIMZHDAjArUz3gW) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:03 | 2022-10-21 | 2022-11-13 |
-| [Déjame Ir](https://open.spotify.com/track/1Nmmd2LhObZ1XMN9ZzAfWn) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Déjame Ir](https://open.spotify.com/album/6oPsiM8MxuyfO86jVClZHl) | 3:31 | 2022-09-02 |  |
+| [Déjame Ir](https://open.spotify.com/track/1Nmmd2LhObZ1XMN9ZzAfWn) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Déjame Ir](https://open.spotify.com/album/6oPsiM8MxuyfO86jVClZHl) | 3:31 | 2022-09-02 | 2022-12-03 |
 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:35 | 2022-09-02 |  |
 | [El Confite](https://open.spotify.com/track/5yzGHMlHHMf859Aek6QgB9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 3:28 | 2022-09-02 |  |
 | [El Encarte](https://open.spotify.com/track/2M4GHQUCurlGyb9FVAdCUd) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [El Encarte](https://open.spotify.com/album/70snN06pgigNR1FYYaoQfT) | 3:43 | 2022-09-02 |  |
@@ -89,6 +89,7 @@
 | [Un Ser Extraño](https://open.spotify.com/track/6tOCCQOAeYQEzERHAXSqrd) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Un Ser Extraño](https://open.spotify.com/album/0f5LtYautf6UfoVdoTXS9k) | 4:22 | 2022-10-21 |  |
 | [Vivito y Coleando](https://open.spotify.com/track/6VmAAyizCOQbilBaxnE4mC) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [EL DE SIEMPRE](https://open.spotify.com/album/7xqSdlFFTvyw66hLx6fQJZ) | 3:53 | 2022-09-02 |  |
 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 | 2022-09-02 |  |
+| [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 | 2022-12-02 |  |
 | [Yo Soy Tu Cielo](https://open.spotify.com/track/5fECdk9R7Kd4wxVP1ok5hf) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Yo Soy Tu Cielo](https://open.spotify.com/album/3SsmDAT5gibexAkk7yLn0b) | 3:52 | 2022-09-02 | 2022-10-22 |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

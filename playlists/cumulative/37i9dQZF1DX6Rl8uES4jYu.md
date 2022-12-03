@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-331 songs - 18 hr 49 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+332 songs - 18 hr 52 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Don't Trip](https://open.spotify.com/track/1fWJ5Q2o5XJDO7aaoEEln3) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/6bncnRFItEWzbdaXwurKhe) | 3:00 | 2022-04-15 | 2022-07-29 |
 | [Don’t Care](https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 5:22 | 2022-10-14 |  |
 | [Dynamite](https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ), [Alex Ghenea](https://open.spotify.com/artist/1mGISDumAyOoK6epKA8gq1) | [Dynamite](https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja) | 2:56 | 2021-09-21 | 2022-06-15 |
+| [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 |  |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
 | [Easy](https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Who?](https://open.spotify.com/album/0B6zhl08QLXwQg2eBXofCx) | 2:58 | 2022-04-22 | 2022-07-29 |
 | [Electric](https://open.spotify.com/track/1ixBWXSofFhf5Oa9GdoF4O) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Electric](https://open.spotify.com/album/6lSKp6TouQtfZAduv7gLaj) | 2:53 | 2022-09-02 | 2022-09-10 |
@@ -156,7 +157,7 @@
 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 | 2022-02-04 | 2022-07-29 |
 | [Keep Her](https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Keep Her](https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW) | 2:51 | 2022-08-12 | 2022-11-13 |
 | [Keepin' Me Under](https://open.spotify.com/track/4OvTmsRwU5YH9dRqC6rojB) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Keepin' Me Under](https://open.spotify.com/album/4HnrcjFmT4V7MzB1YiscPt) | 3:58 | 2020-11-13 | 2022-03-26 |
-| [Keeping You](https://open.spotify.com/track/7rgbpvuPWpy0o3fyvb3Sop) | [Mindy](https://open.spotify.com/artist/4IVRW82OzrZZ4qZSf0xYJF), [whereisluna](https://open.spotify.com/artist/4eWPaOqG36uS4H7uTuPnFn), [Whensday](https://open.spotify.com/artist/5kGJj49tILjz1N5FHt77fm) | [Keeping You](https://open.spotify.com/album/2QV8qGa4SbBkCWWjmZWWmg) | 3:03 | 2022-11-25 |  |
+| [Keeping You](https://open.spotify.com/track/7rgbpvuPWpy0o3fyvb3Sop) | [Mindy](https://open.spotify.com/artist/4IVRW82OzrZZ4qZSf0xYJF), [whereisluna](https://open.spotify.com/artist/4eWPaOqG36uS4H7uTuPnFn), [Whensday](https://open.spotify.com/artist/5kGJj49tILjz1N5FHt77fm) | [Keeping You](https://open.spotify.com/album/2QV8qGa4SbBkCWWjmZWWmg) | 3:03 | 2022-11-25 | 2022-12-03 |
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-01 |  |
 | [Kind of Freak](https://open.spotify.com/track/6Z0VYYq9f7iDDRtPUiShrS) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Bless You](https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr) | 3:45 | 2021-05-14 | 2022-10-01 |
 | [Kind Of Freak](https://open.spotify.com/track/6pskPJ0O1dr5ziM9Oyo4Ui) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Kind of Freak](https://open.spotify.com/album/48zZsra0i4FCVPAbTRAEkg) | 3:45 | 2021-05-14 | 2022-07-28 |

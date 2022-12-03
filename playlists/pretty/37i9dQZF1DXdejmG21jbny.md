@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,169 likes - 271 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,183 likes - 271 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 56 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 |
 | 57 | [Silhouettes](https://open.spotify.com/track/5oTCj47iqYLxzE0fOxYbLL) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Silhouettes](https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz) | 3:08 |
 | 58 | [Carte Blanche](https://open.spotify.com/track/7d0VBGdkhubHhKTrU59F0x) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Carte Blanche](https://open.spotify.com/album/0cnTOqQkYKuLyyjgqJHUdX) | 2:41 |
-| 59 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Yepon](https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 |
+| 59 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 |
 | 60 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 |
 | 61 | [Beneath The Clouds](https://open.spotify.com/track/69JHzItxMyYakCOpqZhHUy) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Beneath The Clouds](https://open.spotify.com/album/0PEH9bzRJzUDz2mTDTxliA) | 3:10 |
 | 62 | [Ocean Dream](https://open.spotify.com/track/68E5Ozo4nkEZTLAE2dOBSj) | [Sjál](https://open.spotify.com/artist/025Y1MbIKTdJf8l7xXr8AT) | [Ocean Dream](https://open.spotify.com/album/4hInJ4HB0UeBL36OIqiUMg) | 2:51 |
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 149 | [Waves On Oceans](https://open.spotify.com/track/48WBjD33PzKd71iTwKBliv) | [microcontroller](https://open.spotify.com/artist/3ZpC5c4A8Lji21NCMBaW6D) | [Waves On Oceans](https://open.spotify.com/album/2oDTf4SKqhoxyedGs9jVwe) | 3:22 |
 | 150 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 |
 | 151 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
-| 152 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Idamal](https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 |
+| 152 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 |
 | 153 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 |
 | 154 | [High Flyer](https://open.spotify.com/track/4ofswta82cpa2mJv6jrpyb) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [High Flyer](https://open.spotify.com/album/5PYv6xEDp6z2VsfuNlTXGT) | 3:07 |
 | 155 | [Incipits](https://open.spotify.com/track/51cHdrCG6qyH5r9BPRK2K0) | [Elviras](https://open.spotify.com/artist/6OJrVwGJIhTvJNjav14KMN) | [Incipits](https://open.spotify.com/album/1q3O1Oa4aF4hyJorWa2shJ) | 2:40 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 196 | [Danube Clouded Yellow](https://open.spotify.com/track/2tXFUcFijfDFvoHtDZe104) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Red Earth](https://open.spotify.com/album/2sFKveR7F6GtnBB3VmIXcY) | 3:21 |
 | 197 | [Choices](https://open.spotify.com/track/0NbAwRGkpCrY8FZsH6Cf3H) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Rebirth](https://open.spotify.com/album/15HpGCrBSILKo4XjPgTocD) | 3:12 |
 | 198 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 |
-| 199 | [Antonia](https://open.spotify.com/track/05yZZGyIAKNaTCkKEXqG0j) | [Manaum](https://open.spotify.com/artist/39Ry4N6rKQEqYCDSF0zmSq) | [Antonia](https://open.spotify.com/album/7uv8GJfj4qtDMd6E58Bh0s) | 2:58 |
-| 200 | [Fields Of Thoughts](https://open.spotify.com/track/3572Gf3GzIVt7OcnavAILF) | [Lonaras](https://open.spotify.com/artist/2q7Iuol5fO3jyAL6qV3Lea) | [Fields Of Thoughts](https://open.spotify.com/album/0c75G7hjqOYfLt3GLGjqaP) | 2:49 |
+| 199 | [Antonia](https://open.spotify.com/track/05yZZGyIAKNaTCkKEXqG0j) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Antonia](https://open.spotify.com/album/7uv8GJfj4qtDMd6E58Bh0s) | 2:58 |
+| 200 | [Fields Of Thoughts](https://open.spotify.com/track/3572Gf3GzIVt7OcnavAILF) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Fields Of Thoughts](https://open.spotify.com/album/0c75G7hjqOYfLt3GLGjqaP) | 2:49 |
 | 201 | [Without U](https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Without U](https://open.spotify.com/album/05H4wQDpRpe6vyAJw5bT6i) | 2:18 |
 | 202 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 |
 | 203 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 |
@@ -234,7 +234,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 224 | [Voyage](https://open.spotify.com/track/4HeHMXNLyR4Nym7mgmaxsa) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Voyage](https://open.spotify.com/album/0ruApKQ9axPRwhjpPhaHra) | 2:36 |
 | 225 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 |
 | 226 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 |
-| 227 | [Vectors](https://open.spotify.com/track/2U52xGJHhe707I26sNXYaU) | [Noah Staern](https://open.spotify.com/artist/2kAwGtAzhiz2f6mviwUO2e) | [Vectors](https://open.spotify.com/album/1WKN14lk6fEVNaKoLyefVy) | 2:59 |
+| 227 | [Vectors](https://open.spotify.com/track/2U52xGJHhe707I26sNXYaU) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Vectors](https://open.spotify.com/album/1WKN14lk6fEVNaKoLyefVy) | 2:59 |
 | 228 | [Embrace The Dream](https://open.spotify.com/track/7uaIKej96SpLAqJqWI0lsY) | [Magnetic Sky](https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY) | [Embrace The Dream](https://open.spotify.com/album/6FbMy7PSHoy2kGfPWvPvVl) | 2:33 |
 | 229 | [Crystalé](https://open.spotify.com/track/3GEys1hRIgMNpfeYZj6Dtw) | [Sean Jin](https://open.spotify.com/artist/1QhojYkMDLU2BKExPlnnPs) | [Crystalé](https://open.spotify.com/album/4CBPYbiDdtukQ9quTtqoDp) | 3:06 |
 | 230 | [Sono In Bilico](https://open.spotify.com/track/2z2aFGYVDincSjBypjbrTy) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Sono In Bilico](https://open.spotify.com/album/1DBWlWJ5VKnK5WVywYnhjJ) | 3:02 |

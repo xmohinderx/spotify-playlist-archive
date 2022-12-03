@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The top tracks from Fresh Finds GSA this year\. Cover: BEACHPEOPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,696 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,787 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 32 | [Montreal](https://open.spotify.com/track/5M3rBRjfTjGATwoKSJGmyn) | [Ago](https://open.spotify.com/artist/0Lz0C2OokCQS2li0lGD9PE), [Nursel Kale](https://open.spotify.com/artist/27RzGSICZKwAGSvCByitlN) | [Chroma](https://open.spotify.com/album/3wwdsrXrjN2cARxzhW5FMI) | 3:14 |
 | 33 | [Jupi](https://open.spotify.com/track/5RKxOzTpM3IkfJifsDv0TM) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Illusion](https://open.spotify.com/album/6tkbXaUeodtx2x4eNa9wu9) | 2:46 |
 | 34 | [crave](https://open.spotify.com/track/0Ah7tw6kn6te3qIiGAOmY6) | [RAYNE](https://open.spotify.com/artist/7qDGLQOhaLJSLkGOpEo1Ld) | [crave](https://open.spotify.com/album/6G1OEjAtmAHNJLcsYHj6CI) | 2:27 |
-| 35 | [Omio](https://open.spotify.com/track/54NqnZFMlBxcViKm8nUdEN) | [Minorhead](https://open.spotify.com/artist/2FDOvmtiAK4BuVglzeIZXB) | [Am I in Your Head](https://open.spotify.com/album/16ifbq3rMLuSRaCAVOWk6y) | 4:09 |
+| 35 | [Omio](https://open.spotify.com/track/0dXIJKxgcT1ljG7OSL8b5T) | [Minorhead](https://open.spotify.com/artist/2FDOvmtiAK4BuVglzeIZXB) | [Omio](https://open.spotify.com/album/3q7AqTZY8CWWjZgL2hkrcK) | 4:09 |
 | 36 | [World of Mine](https://open.spotify.com/track/1JkdKPSdwGEcUhj6oOEc2z) | [Sophie Z](https://open.spotify.com/artist/5X8KkLBj2TuFtoPmxGxCzP) | [Merged Into the Blue \- EP](https://open.spotify.com/album/2aiXpXqThPFUptKrtKxvry) | 2:37 |
 | 37 | [I Am Alive \- Original Mix](https://open.spotify.com/track/1CWItV1c3LYMxpbXQL9R22) | [Oliver Jass](https://open.spotify.com/artist/2ODPpeNxF16AvaVFhbo0sy) | [I Am Alive](https://open.spotify.com/album/4HAJI1EAOj8YfvxRweePXg) | 5:18 |
 | 38 | [Villain](https://open.spotify.com/track/6QvUhzYIBiuRaMJbm120te) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Villain](https://open.spotify.com/album/1PzmgB0ZiowDNC68xdEWRV) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Shaded](https://open.spotify.com/track/2b3Oy0UcRS7sHaJfedEs5L) | [Xades](https://open.spotify.com/artist/2hrJX5VA0aLhBgRMrGAqHz) | [Shaded](https://open.spotify.com/album/4Zdv3BNkfH0lBNjlBmOvrY) | 2:53 |
 | 50 | [If You Think](https://open.spotify.com/track/2uI5vxaOCdNejEy8SE5O7X) | [Express Therapy](https://open.spotify.com/artist/2eFcn9PqRQDCZBRPNNj0yb) | [If You Think](https://open.spotify.com/album/6CRnauPASqqDYnD0V16e4V) | 3:16 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDhmZmE2OTBiMTE2ZDQ5YzE1OTk0NDI0NzBjY2UxMzRk`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGY4ZTA4YTg2NmJhMzEyMDA2YmVhYTEwODY5Yjg4M2Fl`

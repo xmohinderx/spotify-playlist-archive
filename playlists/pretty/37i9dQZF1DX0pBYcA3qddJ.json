@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 43392,
+  "num_followers": 43414,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMGIwNjM3YzBkMWI2ODNlODU3M2QzZjRmZDdmYjFkMTc3",
+  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMDUwYTMzMjY4NDdkOWRkZjJkNzdhZjczM2JlOTcyOGVk",
   "tracks": [
     {
       "added_at": "2022-12-01 15:00:00",
@@ -515,8 +515,8 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Sashiiro",
-        "url": "https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI"
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 183709,
+      "duration_ms": 185133,
       "name": "Sashiiro",
-      "url": "https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt"
+      "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "The Forever Now (From \"This Is Us: Season 6\")",
-        "url": "https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo"
+        "name": "The Berlin-Albuquerque Sessions Vol 3",
+        "url": "https://open.spotify.com/album/2HMsVCSKJx0Ujg6cQoMhcY"
       },
       "artists": [
         {
-          "name": "This Is Us Cast",
-          "url": "https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S"
-        },
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 198108,
-      "name": "The Forever Now - From \"This Is Us: Season 6\"",
-      "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
+      "duration_ms": 254583,
+      "name": "The Rip Tide - BER-ABQ Version",
+      "url": "https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "The Berlin-Albuquerque Sessions Vol 3",
-        "url": "https://open.spotify.com/album/2HMsVCSKJx0Ujg6cQoMhcY"
+        "name": "The Forever Now (From \"This Is Us: Season 6\")",
+        "url": "https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "This Is Us Cast",
+          "url": "https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S"
+        },
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
         }
       ],
-      "duration_ms": 254583,
-      "name": "The Rip Tide - BER-ABQ Version",
-      "url": "https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj"
+      "duration_ms": 198108,
+      "name": "The Forever Now - From \"This Is Us: Season 6\"",
+      "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Halfway",
-        "url": "https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi"
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
       "artists": [
         {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Halfway",
-      "url": "https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1"
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 182973,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "A Safe Place To Be",
-        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 199152,
-      "name": "I Wanna See You Smile",
-      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "A Quiet Grace",
         "url": "https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 170629,
       "name": "A Quiet Grace",
       "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "A Safe Place To Be",
+        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 199152,
+      "name": "I Wanna See You Smile",
+      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
+        "name": "Beethoven: Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto (Recorded 2021-2)",
+        "url": "https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "duration_ms": 140266,
+      "name": "Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto - Recorded 2021-2",
+      "url": "https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
         "name": "Koto",
         "url": "https://open.spotify.com/album/0z58hOr09oGPCmEj0fIIWv"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 189166,
       "name": "TO BE LOVED",
       "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
-        "name": "Beethoven: Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto (Recorded 2021-2)",
-        "url": "https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
-        }
-      ],
-      "duration_ms": 140266,
-      "name": "Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto - Recorded 2021-2",
-      "url": "https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "tasogare",
-        "url": "https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        },
-        {
-          "name": "The Flipside",
-          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
-        }
-      ],
-      "duration_ms": 136322,
-      "name": "tasogare",
-      "url": "https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "tasogare",
+        "url": "https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        },
+        {
+          "name": "The Flipside",
+          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
+        }
+      ],
+      "duration_ms": 136322,
+      "name": "tasogare",
+      "url": "https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM"
     },
     {
       "added_at": "2022-12-01 15:00:00",

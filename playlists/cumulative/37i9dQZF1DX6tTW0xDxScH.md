@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-210 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
+211 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,13 +153,14 @@
 | [Rolled Up](https://open.spotify.com/track/7enQQopiJ8KAsQGNJlm6ZH) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Rolled Up](https://open.spotify.com/album/5P28oI7C2QWYSeR0l48cIX) | 3:01 | 2021-10-18 | 2022-02-26 |
 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 | 2021-10-18 | 2022-02-11 |
 | [Run It](https://open.spotify.com/track/03zAw2uv4CfkW2quov1fWy) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/5QdrLd11irInpKv030UbHV) | 4:37 | 2021-10-18 | 2022-11-20 |
+| [Run It](https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh) | 4:37 | 2022-10-07 |  |
 | [Running from Home \- 2015 Remaster](https://open.spotify.com/track/5I4LTcEg5nFSnuMzAQumh5) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 2:20 | 2022-04-27 |  |
 | [Sailing](https://open.spotify.com/track/4V8kXBU9f0CwM4yC8v0jjc) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Turn To Something You Know](https://open.spotify.com/album/6up8uYZRbV7UI3FVbCH3Wl) | 3:05 | 2021-10-18 | 2022-07-24 |
 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 | 2021-10-18 |  |
 | [Say Goodbye](https://open.spotify.com/track/1hOAUdT3YRehvT8iANVASV) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Say Goodbye](https://open.spotify.com/album/2zTSbq3fr49X6ovALSo1yH) | 3:28 | 2021-10-18 | 2022-07-29 |
 | [Say It Ain't So](https://open.spotify.com/track/73qCssYvdf93OxwVf04JcT) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:43 | 2021-10-18 | 2022-07-25 |
 | [scared](https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [scared](https://open.spotify.com/album/2ghWrNy09Smk2if26srIGz) | 4:16 | 2021-10-18 | 2022-07-29 |
-| [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-10-18 |  |
+| [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-10-18 | 2022-12-03 |
 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 | 2021-10-18 |  |
 | [Sheep](https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Sheep](https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c) | 3:35 | 2021-10-18 |  |
 | [Show Up](https://open.spotify.com/track/3eX6q8ys28dIq4H83UUgPx) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/1SStqGeDzSDB80zpBZvSL9) | 3:21 | 2021-10-18 | 2022-02-11 |

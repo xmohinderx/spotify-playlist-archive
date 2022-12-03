@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "The Winds",
+        "url": "https://open.spotify.com/album/2gw0lecLee8TL5wjddfaRY"
+      },
+      "artists": [
+        {
+          "name": "Heuma",
+          "url": "https://open.spotify.com/artist/1cRS77FU2esuOXibmmVsYP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154098,
+      "name": "A Magic Light",
+      "url": "https://open.spotify.com/track/3t015kQ5yR1vVl8hwLgCRS"
+    },
+    {
+      "album": {
         "name": "A Mind At Peace",
         "url": "https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz"
       },
@@ -77,6 +95,24 @@
       "duration_ms": 151714,
       "name": "A Night In Spring",
       "url": "https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED"
+    },
+    {
+      "album": {
+        "name": "Refraction Of Light",
+        "url": "https://open.spotify.com/album/3XOiomjJPHuV4yaoNFU8Ie"
+      },
+      "artists": [
+        {
+          "name": "Endemoniada",
+          "url": "https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157638,
+      "name": "A Small Pause",
+      "url": "https://open.spotify.com/track/4QHEndaAkPF8Xg12e5uqdd"
     },
     {
       "album": {
@@ -1119,8 +1155,8 @@
       },
       "artists": [
         {
-          "name": "Roni Adrian",
-          "url": "https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY"
+          "name": "Pitouu",
+          "url": "https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG"
         }
       ],
       "date_added": "2022-09-13",
@@ -2217,8 +2253,8 @@
       },
       "artists": [
         {
-          "name": "Lonaras",
-          "url": "https://open.spotify.com/artist/2q7Iuol5fO3jyAL6qV3Lea"
+          "name": "St/llar",
+          "url": "https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B"
         }
       ],
       "date_added": "2022-05-19",
@@ -6230,6 +6266,24 @@
     },
     {
       "album": {
+        "name": "Skies Of Reverence",
+        "url": "https://open.spotify.com/album/5czawSZT0FWV21sCPbfelO"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198529,
+      "name": "Skies Of Reverence",
+      "url": "https://open.spotify.com/track/4lOpaYou6ZgcnCr9DlkvIo"
+    },
+    {
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa"
       },
@@ -7415,6 +7469,24 @@
       "duration_ms": 141055,
       "name": "Vinsamlegast",
       "url": "https://open.spotify.com/track/1bSIKUAxUGk2pUVctmRLrv"
+    },
+    {
+      "album": {
+        "name": "Vinternatt",
+        "url": "https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U"
+      },
+      "artists": [
+        {
+          "name": "Iben Haugen",
+          "url": "https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158941,
+      "name": "Vinternatt",
+      "url": "https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov"
     },
     {
       "album": {

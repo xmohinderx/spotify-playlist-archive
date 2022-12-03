@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 308157,
+  "num_followers": 308374,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDdmMmUwNDNmNzhmYWI4ZTgyZmUzZGNhNjQ0ZWRjYjVh",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDc1MjdkNzM0MzE5YmMwNWNkNDllNmUzZGE0ODE0YTI5",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Alfa e \u00d4mega",
+        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 364878,
+      "name": "Alfa e \u00d4mega",
+      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Eterno Presente (Ao Vivo)",
         "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Alfa e \u00d4mega",
-        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 364878,
-      "name": "Alfa e \u00d4mega",
-      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Diz",
         "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 275306,
       "name": "Diz",
       "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Fornalha Laura Souguellis",
-        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
-      },
-      "artists": [
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        },
-        {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
-        }
-      ],
-      "duration_ms": 735253,
-      "name": "Em Teus Bra\u00e7os",
-      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -923,6 +903,26 @@
       "duration_ms": 337896,
       "name": "Inexplic\u00e1vel Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Fornalha Laura Souguellis",
+        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
+      },
+      "artists": [
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        },
+        {
+          "name": "Dunamis Music",
+          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
+        }
+      ],
+      "duration_ms": 735253,
+      "name": "Em Teus Bra\u00e7os",
+      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
     },
     {
       "added_at": "2022-04-15 03:00:00",

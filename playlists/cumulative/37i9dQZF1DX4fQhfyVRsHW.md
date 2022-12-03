@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-122 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+124 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-05-25 |  |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2022-05-25 |  |
+| [Nature's Awakening](https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Nature's Awakening](https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0) | 2:51 | 2022-12-02 |  |
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
 | [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2022-05-25 |  |
 | [Ocean Unwind](https://open.spotify.com/track/2HLgn2iuSkMPlMCdV3BNdH) | [Haf](https://open.spotify.com/artist/4ZN3pGwIN6s1NNiKAivvuM) | [Ocean Unwind](https://open.spotify.com/album/6hAXiuDrYUvmhYjEZdfXkq) | 3:06 | 2022-07-08 |  |
@@ -102,6 +103,7 @@
 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 | 2022-05-25 |  |
 | [Sapphire Destiny](https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41) | [Real'ax Melody](https://open.spotify.com/artist/0PJmEawyjX5GHTMYmOZSif) | [A Relaxed Sleep](https://open.spotify.com/album/6tK8199QPE2y52zzGjxvkO) | 4:20 | 2022-05-25 |  |
 | [Seatherny](https://open.spotify.com/track/5ZWxmqAvPQqLKaflbMnRWw) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Seatherny](https://open.spotify.com/album/481jbINGvRyhPevllvQI1W) | 2:19 | 2022-05-25 |  |
+| [Serene Lake \(Spa\)](https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:37 | 2022-12-02 |  |
 | [Shades Of Hope](https://open.spotify.com/track/7B5FCREpEtL8DusAJ1zyN9) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Shades Of Hope](https://open.spotify.com/album/79M8bCOYkbIJ5MPtGUUteD) | 3:36 | 2022-05-25 |  |
 | [Sleep Under the Stars](https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie) | [Aron Stieg](https://open.spotify.com/artist/7ClOSDzQR2MESJ37Uqd0wi) | [Sleep Under the Stars](https://open.spotify.com/album/0w78gT2FjWEV9jvYZ2P07L) | 2:16 | 2022-05-25 |  |
 | [Slowing Down](https://open.spotify.com/track/6L1B91SV2QaGBHQBIbwLGC) | [Moments Of Peace](https://open.spotify.com/artist/20VOYZMiQvaqfLVsSCuwIi) | [Slowing Down](https://open.spotify.com/album/28BD9go9HnUxAQeSoWG2xK) | 3:29 | 2022-05-25 |  |

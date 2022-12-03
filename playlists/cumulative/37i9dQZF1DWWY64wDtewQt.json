@@ -196,6 +196,28 @@
     },
     {
       "album": {
+        "name": "Always Want Me",
+        "url": "https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130336,
+      "name": "Always Want Me",
+      "url": "https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz"
+    },
+    {
+      "album": {
         "name": "AMNESIA",
         "url": "https://open.spotify.com/album/1XLMa0f05anowH4OmrATqF"
       },
@@ -1406,6 +1428,24 @@
     },
     {
       "album": {
+        "name": "DEMONS OF THE NIGHT",
+        "url": "https://open.spotify.com/album/0fypll7NL1jph3onphccJm"
+      },
+      "artists": [
+        {
+          "name": "FORGOTTENAGE",
+          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115100,
+      "name": "DEMONS OF THE NIGHT",
+      "url": "https://open.spotify.com/track/1bEdwajS4nOegWxU0y0Vei"
+    },
+    {
+      "album": {
         "name": "Desolation 2",
         "url": "https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1"
       },
@@ -1675,7 +1715,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 129522,
       "name": "DON'T STOP",
       "url": "https://open.spotify.com/track/1ojYSWxYilEgtWyRiwEX0b"
@@ -2393,7 +2433,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 132884,
       "name": "GAROU",
       "url": "https://open.spotify.com/track/55lhFlky8qNSAsmDwHoXTP"
@@ -4060,6 +4100,28 @@
     },
     {
       "album": {
+        "name": "Mom's Here",
+        "url": "https://open.spotify.com/album/126wWhB8lKBZuPLGjiojQa"
+      },
+      "artists": [
+        {
+          "name": "TTM",
+          "url": "https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE"
+        },
+        {
+          "name": "ZALLI",
+          "url": "https://open.spotify.com/artist/6kEE2aNNuQQBu5V9z6fKyb"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106266,
+      "name": "Mom's Here",
+      "url": "https://open.spotify.com/track/55YAkx2jKPnFRqSUsldyxr"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/0EeN9DAkiJa5YmMFOmfdWB"
       },
@@ -4339,6 +4401,24 @@
       "duration_ms": 187750,
       "name": "Night Ride",
       "url": "https://open.spotify.com/track/1yVcviVfd5qtBab5Vzynoq"
+    },
+    {
+      "album": {
+        "name": "no confies en mujeres",
+        "url": "https://open.spotify.com/album/0FCSzaCWgRsohk84Rmuzlx"
+      },
+      "artists": [
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123135,
+      "name": "no confies en mujeres",
+      "url": "https://open.spotify.com/track/1JgsGofAL2rQ47MjgqCwk6"
     },
     {
       "album": {
@@ -4763,7 +4843,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 108876,
       "name": "Phonky Halloween",
       "url": "https://open.spotify.com/track/2n0oz5PcFsGWUYjcx1Uzz5"
@@ -6481,7 +6561,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 147144,
       "name": "TRANSPARENCY",
       "url": "https://open.spotify.com/track/0Y0MMUigsY2PA35bTim0Jd"

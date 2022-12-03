@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-144 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
+147 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Easy On Me](https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3) | 3:16 | 2021-11-19 |  |
 | [Eleanor Rigby \- Live](https://open.spotify.com/track/0khHkwiDvthnAUoos65sT5) | [Ted Yoder](https://open.spotify.com/artist/2I8XgaisVpuyjgtBAVDGr9) | [Ted Yoder Band Live](https://open.spotify.com/album/0LXJ1VxJk1ngStZ91N46gV) | 4:03 | 2022-10-28 |  |
 | [everything i wanted \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1ynzIvi8LlEYcy7QTJV2qT) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [everything i wanted \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw) | 4:05 | 2021-11-19 |  |
+| [everything i wanted \(notturno\)](https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [everything i wanted \(notturno\)](https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI) | 5:32 | 2022-12-02 |  |
 | [Fake Plastic Trees](https://open.spotify.com/track/6vrXoa46fJUbYKQJLVSyHO) | [Christopher O'Riley](https://open.spotify.com/artist/70sTS2TfD7x40e01or0h2I) | [True Love Waits \(Christopher O'Riley Plays Radiohead\)](https://open.spotify.com/album/3weiYbaSqJtuIBEyqLKNgm) | 4:54 | 2021-11-19 |  |
 | [Fingers Crossed](https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Fingers Crossed](https://open.spotify.com/album/70UQKzSLliDROGtzp8BV3k) | 2:57 | 2022-03-25 |  |
 | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ) | 3:07 | 2022-01-28 | 2022-03-26 |
@@ -74,6 +75,7 @@
 | [Human Nature \(Arr\. R\. Boyd & L\. Metcalf for Cello & Guitar\)](https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s) | [Steve Porcaro](https://open.spotify.com/artist/6uJ8A4c1Z4FbHUTdhHm5dn), [Boyd Meets Girl](https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR) | [Boyd Meets Girl](https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk) | 2:42 | 2021-11-19 |  |
 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-19 | 2022-05-07 |
 | [I Don't Care](https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [I Don't Care](https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf) | 3:35 | 2021-11-19 |  |
+| [I Want It That Way](https://open.spotify.com/track/6QylIoQHgQGE4YE7tYlkAt) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [I Want It That Way](https://open.spotify.com/album/7l4Dt8NNDtsAEGTlqmmqDY) | 3:27 | 2022-12-02 |  |
 | [IDOL](https://open.spotify.com/track/40THRMzCNR75ta2uRvcVlS) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [IDOL](https://open.spotify.com/album/0LzZLzIcCZmQNb63bH81Rj) | 3:41 | 2022-09-23 |  |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-19 | 2022-05-14 |
 | [In the End](https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R), [Dover Quartet](https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU) | [Chamber Music](https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl) | 4:07 | 2021-11-19 |  |
@@ -98,6 +100,7 @@
 | [Nothing Else Matters \- Instrumental Version](https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:45 | 2021-11-19 | 2022-07-29 |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 |  |
 | [P.I.M.P](https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [The Strings 'n' Things Album](https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW) | 2:08 | 2021-11-19 |  |
+| [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:22 | 2022-12-02 |  |
 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 | 2021-11-19 |  |
 | [positions \- Bonus Track](https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 2:52 | 2021-11-19 |  |
 | [Rainbow \- Instrumental](https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Rainbow \(Instrumental\)](https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB) | 3:23 | 2021-11-19 |  |

@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-744 songs - 1 day 9 hr 51 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+745 songs - 1 day 9 hr 53 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 | 2022-08-05 |  |
 | [altitude](https://open.spotify.com/track/5mzvGPhsCURCR6fAy099mq) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [altitude](https://open.spotify.com/album/0Eyiu4dWiLEN53ZCNICJJI) | 2:09 | 2021-03-14 | 2022-06-28 |
 | [ALWAYS DO](https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:31 | 2020-12-13\* |  |
+| [angeldust](https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [LIVE FOREVER](https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI) | 1:51 | 2022-12-03 |  |
 | [ANGELS & DEMONS](https://open.spotify.com/track/4GUj9MfPPkjpZskxb45uiX) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [ANGELS & DEMONS](https://open.spotify.com/album/2bik66u6GQAzrLi92oYsBj) | 2:40 | 2021-01-15 | 2022-04-21 |
 | [Angels Don't Fuck](https://open.spotify.com/track/5vKwj4F0gVE8T2Zy4T7mUW) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [Angels Don't Fuck](https://open.spotify.com/album/3jaUaD0eo2ao3Bc29EzWiB) | 1:42 | 2022-02-28 | 2022-03-05 |
 | [ANGST](https://open.spotify.com/track/0NNYa3XHmIxW0qPw5tqcKg) | [Noah Jack](https://open.spotify.com/artist/3dfG1KEC8SC5i9bG7sGtbD) | [ANGST](https://open.spotify.com/album/4x39m7PN2LAN6fy9xecS1S) | 2:08 | 2021-03-26 | 2021-05-29 |
@@ -311,7 +312,7 @@
 | [I Ate My Soul](https://open.spotify.com/track/5oCMkoVTUov4jKWzfkenAx) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [I Ate My Soul](https://open.spotify.com/album/3clwhikTAXNMVZ7vxW83Sn) | 1:44 | 2021-05-29 | 2022-07-01 |
 | [i can see clearly](https://open.spotify.com/track/0hTenOns6LBffrOtLg3rMe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [SWAMP](https://open.spotify.com/album/6Vhnu49bSHfEnnuwiN1Rf7) | 3:13 | 2021-12-21 | 2022-03-02 |
 | [I Can't Sleep](https://open.spotify.com/track/5GWAraPLRsJ5EFMzqo0C3g) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I Can't Sleep](https://open.spotify.com/album/02ZUqEVzRyGWTEaybFgRNB) | 3:22 | 2020-12-13\* | 2021-03-26 |
-| [i can't stop](https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [i can't stop](https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk) | 2:41 | 2022-05-23 |  |
+| [i can't stop](https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [i can't stop](https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk) | 2:41 | 2022-05-23 | 2022-12-03 |
 | [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/track/7pmLi2drbQTrVAjd8NCeDs) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/album/6YvAY8KhVZFB5y5NPdSR5S) | 2:50 | 2022-09-23 | 2022-11-12 |
 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 | 2021-01-29 | 2021-02-26 |
 | [I Dont Want](https://open.spotify.com/track/4nA6tCQYqdjcHNYU6etCVP) | [Lurk](https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN) | [I Dont Want](https://open.spotify.com/album/78ql7HzYwB4Ta2IhwuRvsr) | 1:54 | 2022-01-21 | 2022-04-19 |

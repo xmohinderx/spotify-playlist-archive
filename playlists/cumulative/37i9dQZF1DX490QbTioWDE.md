@@ -2,9 +2,9 @@
 
 ### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
 
-> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
+> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-271 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
+273 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Miel](https://open.spotify.com/track/7AZ7RDXiwt3TaNyNf54txQ) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Miel](https://open.spotify.com/album/1obdLtb9OxXlu5hZoruFJh) | 2:37 | 2022-04-29 | 2022-07-15 |
 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 | 2022-06-17 |  |
 | [Mientes / Un Dia Sin Ti](https://open.spotify.com/track/3dPreolNY6PUrSrOiWPhpg) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Karavana Quartetera](https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB) | [Mientes / Un Dia Sin Ti](https://open.spotify.com/album/1QnUdLsiso5W7sl1Wo9hoO) | 4:14 | 2022-04-15 | 2022-06-18 |
-| [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 | 2022-01-07 |  |
+| [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 | 2022-01-07 | 2022-12-03 |
 | [Mira](https://open.spotify.com/track/3w292R2aL3DCGnyeOiaLed) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Mira](https://open.spotify.com/album/5mwAE79BFC6eTViMVWW60k) | 3:48 | 2022-05-20 | 2022-07-29 |
 | [Monotonia](https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Monotonia](https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR) | 2:22 | 2022-10-28 |  |
 | [Mujer malvada](https://open.spotify.com/track/121yzW3a3gcgOfiJ0SXX8p) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [100% Cuarteto Cordobes](https://open.spotify.com/album/3hc1GY13mjjZFgMYUAH0TW) | 4:00 | 2022-03-25 | 2022-04-21 |
@@ -180,6 +180,7 @@
 | [Olvídala](https://open.spotify.com/track/0oKnBeVWVaopXk9YZgrd2T) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Únicos](https://open.spotify.com/album/3703IuXxRRdEYSgBUeBljK) | 4:39 | 2021-12-24 | 2022-07-29 |
 | [Olvídala](https://open.spotify.com/track/6XYPVrlhjJOTL1w2fHUwbF) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Olvídala](https://open.spotify.com/album/4YKhwSpRVhd9WpK60HjIoa) | 3:27 | 2022-03-25 | 2022-05-21 |
 | [Olvídate \(Remix\)](https://open.spotify.com/track/13MMOQ8Z8nAasSKchrfVJA) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvídate \(Remix\)](https://open.spotify.com/album/3I41vJoi2TDLxfGFfHLmFJ) | 3:19 | 2022-09-09 |  |
+| [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 | 2022-12-02 |  |
 | [Otra Noche en LA](https://open.spotify.com/track/5qKJOAB9DEq4GrdFjyi4Cq) | [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Otra Noche en LA](https://open.spotify.com/album/2MzORjyPqWHy5jjNcepwsv) | 4:09 | 2022-02-18 | 2022-07-12 |
 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 | 2021-12-24 |  |
 | [Payaso \- En Vivo](https://open.spotify.com/track/6Fr3387z9p0IP08Fw1yxtV) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Payaso \(En Vivo\)](https://open.spotify.com/album/2oMloTN3HaUffg1o2VzyyV) | 3:29 | 2022-04-29 | 2022-07-11 |
@@ -212,7 +213,7 @@
 | [Revolución](https://open.spotify.com/track/3FXT8971ZO7qZfQuDDW5ff) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/3mAphvOu2VsBYzMa1IKbZJ) | 2:40 | 2022-05-27 | 2022-06-01 |
 | [Secciones 2020: El Bombón / Llego Tu Mami: / No Me Enseñaste / Otro Día Más Sin Verte / Regresa a Mi / Quien Como Tú](https://open.spotify.com/track/06UaKYiz9otmfECQjsQi1M) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Secciones 2020: El Bombón / Llego Tu Mami: / No Me Enseñaste / Otro Día Más Sin Verte / Regresa a Mi / Quien Como Tú](https://open.spotify.com/album/1B6tiewTsyGxptzhcJ0A4Y) | 10:54 | 2021-12-24 | 2022-06-18 |
 | [Secretos](https://open.spotify.com/track/0MheE91p8ktWXN3qBv7hur) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Secretos](https://open.spotify.com/album/7Mwc0OqzOeYClWklcCLpyk) | 2:31 | 2022-06-17 | 2022-08-26 |
-| [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv) | 4:20 | 2022-09-16 |  |
+| [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv) | 4:20 | 2022-09-16 | 2022-12-03 |
 | [Si Faltas Tú](https://open.spotify.com/track/5qg6DJXbQTPTGGF5Ft94Oa) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Cuarteto Premium](https://open.spotify.com/album/5Bzeyk1auK1ebXzNZRnXvz) | 2:59 | 2022-06-03 | 2022-09-23 |
 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 |  |
 | [Si Te Vas de Mí \- Live](https://open.spotify.com/track/2gmLkti9beAsOfdX1mKF92) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Si Te Vas de Mí \(Live\)](https://open.spotify.com/album/7HLwOoPCfutbsgxruJ0Bmc) | 3:00 | 2022-01-07 | 2022-07-21 |
@@ -274,6 +275,7 @@
 | [Ya No Quiero](https://open.spotify.com/track/5ZRjSlIgKzTtjaLgyVZ1jY) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Ya No Quiero](https://open.spotify.com/album/03xaq8TIlNDwh16ksZUSTV) | 4:06 | 2021-12-24 | 2022-07-28 |
 | [Ya No Te Quiero](https://open.spotify.com/track/3zTllWHBEwo5iVg93X6yJp) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Ya No Te Quiero](https://open.spotify.com/album/5VsZqx1ZG8mBny9Bs49zwv) | 4:59 | 2022-05-13 | 2022-07-28 |
 | [Ya no volverá](https://open.spotify.com/track/2CjunqLdUix6YPoXcm68bT) | [Diego Olmos](https://open.spotify.com/artist/0HhAQGZNZAvnu9RZQOTetx) | [Siempre en mi Vivirás](https://open.spotify.com/album/2sT3U5A85atGvCVZdOkXG6) | 4:02 | 2021-12-24 | 2022-07-25 |
+| [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2022-12-02 |  |
 | [Yerba Mala](https://open.spotify.com/track/6DAZuerCWNL5TtgKo8M2jl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 6:16 | 2021-12-24 | 2022-07-29 |
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/3eQSwoKeqXtJ1Nu7n7Qup8) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [20 Grandes Exitos](https://open.spotify.com/album/5sODoADgphMzZfAuOC5sGk) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Yo No Te Pido la Luna](https://open.spotify.com/track/1pI0IZ9VjXmWKLRMoDMnpZ) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Yo No Te Pido la Luna](https://open.spotify.com/album/65zHSlxJ6lVfTrCi4U1f3V) | 3:20 | 2022-07-31 |  |

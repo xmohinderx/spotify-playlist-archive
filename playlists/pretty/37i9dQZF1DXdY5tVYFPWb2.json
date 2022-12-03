@@ -1,15 +1,15 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 126901,
+  "num_followers": 127010,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMGRiOGE3OTIyZWVhZjUyNjE5MzZhZjllMTJkOWQ5YmY3",
+  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMGJlYjU0ZmZmM2ZlMjllZTUxODI3MmNkYmVjNzRmZmNm",
   "tracks": [
     {
-      "added_at": "2022-12-02 01:43:34",
+      "added_at": "2022-12-03 01:37:41",
       "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "Last Train",
         "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 217000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "SEASONS",
-        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
+        "name": "Miki Matsubara Best Collection",
+        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
       },
       "artists": [
         {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
+      "duration_ms": 223920,
+      "name": "It's so Creamy",
+      "url": "https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Miki Matsubara Best Collection",
-        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
       },
       "artists": [
         {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
         }
       ],
-      "duration_ms": 223920,
-      "name": "It's so Creamy",
-      "url": "https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO"
+      "duration_ms": 241866,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
-      "added_at": "2022-12-02 01:43:34",
+      "added_at": "2022-12-03 01:37:41",
       "album": {
         "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
         "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
     },
     {
-      "added_at": "2022-12-02 01:43:34",
+      "added_at": "2022-12-03 01:37:41",
       "album": {
         "name": "monochrome",
         "url": "https://open.spotify.com/album/60NWccBArijUkRxJWTe9E1"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
     },
     {
-      "added_at": "2022-12-02 01:43:34",
+      "added_at": "2022-12-03 01:37:41",
       "album": {
         "name": "1997",
         "url": "https://open.spotify.com/album/6yxrNvlYKjfx2yRRiMquCb"
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "yugi",
-        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "yugi",
-      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -1091,70 +1075,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "IMA",
-        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
+        "name": "yugi",
+        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 217400,
-      "name": "IMA",
-      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "Sentimental (Neon Mix)",
-        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u7af9\u5185\u7f8e\u5ba5",
-          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
-        }
-      ],
-      "duration_ms": 203588,
-      "name": "Sentimental - Neon Mix",
-      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "TICKETS",
-        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
-      },
-      "artists": [
-        {
-          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
-          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "YOU+ME=",
-      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "PLASMA",
-        "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 376533,
-      "name": "Drive\u2019n The Rain",
-      "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+      "duration_ms": 201617,
+      "name": "yugi",
+      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1183,22 +1115,54 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
+        "name": "IMA",
+        "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         }
       ],
-      "duration_ms": 231440,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+      "duration_ms": 217400,
+      "name": "IMA",
+      "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "TICKETS",
+        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
+      },
+      "artists": [
+        {
+          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
+          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "YOU+ME=",
+      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "Sentimental (Neon Mix)",
+        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
+        }
+      ],
+      "duration_ms": 203588,
+      "name": "Sentimental - Neon Mix",
+      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1219,18 +1183,38 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Change My Life",
-        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
       "artists": [
         {
-          "name": "THE RAMPAGE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Change My Life",
-      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+      "duration_ms": 231440,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 376533,
+      "name": "Drive\u2019n The Rain",
+      "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1255,22 +1239,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Be With You feat. Ai Furihata",
-        "url": "https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is"
+        "name": "Change My Life",
+        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u964d\u5e61 \u611b",
-          "url": "https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD"
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
         }
       ],
-      "duration_ms": 207017,
-      "name": "Be With You feat. Ai Furihata",
-      "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
+      "duration_ms": 243600,
+      "name": "Change My Life",
+      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1295,22 +1275,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "ADVENTURE",
-        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
-      },
-      "artists": [
-        {
-          "name": "Momoko Kikuchi",
-          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "NOTE",
         "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
@@ -1327,6 +1291,42 @@
       "duration_ms": 234936,
       "name": "\u3053\u306e\u307e\u307e\u5922\u3067 feat. AAAMYYY",
       "url": "https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "Be With You feat. Ai Furihata",
+        "url": "https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u964d\u5e61 \u611b",
+          "url": "https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD"
+        }
+      ],
+      "duration_ms": 207017,
+      "name": "Be With You feat. Ai Furihata",
+      "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "slowdance",
-        "url": "https://open.spotify.com/album/3p2hTZIJrx0azJd5mEDZn4"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "slowdance",
-      "url": "https://open.spotify.com/track/1UGZqkkwnI7Suxsk2MnmQ3"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
         "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "slowdance",
+        "url": "https://open.spotify.com/album/3p2hTZIJrx0azJd5mEDZn4"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "slowdance",
+      "url": "https://open.spotify.com/track/1UGZqkkwnI7Suxsk2MnmQ3"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "\u90fd\u4f1a",
         "url": "https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 233199,
       "name": "\u90fd\u4f1a",
       "url": "https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "Perfect! Your Love",
-        "url": "https://open.spotify.com/album/51vH2O1lk2FAPPhLDY5QNo"
-      },
-      "artists": [
-        {
-          "name": "Yoko Kuzuya",
-          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Perfect! Your Love",
-      "url": "https://open.spotify.com/track/5NrqcSAxspspQHsSSoHgey"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1499,22 +1483,50 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Ladies In The City",
-        "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
+        "name": "Perfect! Your Love",
+        "url": "https://open.spotify.com/album/51vH2O1lk2FAPPhLDY5QNo"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Maki Nomiya",
-          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Tokyo Rouge",
-      "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
+      "duration_ms": 224560,
+      "name": "Perfect! Your Love",
+      "url": "https://open.spotify.com/track/5NrqcSAxspspQHsSSoHgey"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 190633,
+      "name": "CHASE",
+      "url": "https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "Signpost",
+        "url": "https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 212418,
+      "name": "Signpost",
+      "url": "https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1539,6 +1551,26 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "Ladies In The City",
+        "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Tokyo Rouge",
+      "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "Moonset with KozyPop",
         "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
       },
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 190633,
-      "name": "CHASE",
-      "url": "https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
         "name": "Music Restaurant Royal Host",
         "url": "https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 189359,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30a2\u30c9\u30d0\u30a4\u30b9",
       "url": "https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
-      },
-      "artists": [
-        {
-          "name": "Mime",
-          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
-        }
-      ],
-      "duration_ms": 222464,
-      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
-      "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1627,34 +1627,18 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
-        "name": "Signpost",
-        "url": "https://open.spotify.com/album/0wwZ8gbLXAvOMDSSB11UgH"
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
       },
       "artists": [
         {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+          "name": "Mime",
+          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
         }
       ],
-      "duration_ms": 212418,
-      "name": "Signpost",
-      "url": "https://open.spotify.com/track/2YE14p83b6aY6nbuM57ryc"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "white",
-        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "white",
-      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
+      "duration_ms": 222464,
+      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
+      "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
     },
     {
       "added_at": "2022-11-24 15:00:00",
@@ -1691,6 +1675,38 @@
     {
       "added_at": "2022-11-24 15:00:00",
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 207006,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
+        "name": "white",
+        "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "white",
+      "url": "https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y"
+    },
+    {
+      "added_at": "2022-11-24 15:00:00",
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 189773,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi"
-    },
-    {
-      "added_at": "2022-11-24 15:00:00",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 207006,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
     },
     {
       "added_at": "2022-11-24 15:00:00",

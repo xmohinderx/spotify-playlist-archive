@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md) - cumulative - [plain](/playlists/plain/62bReXvmroQzQfEUuTNe3Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62bReXvmroQzQfEUuTNe3Y)
 
-### [Chill House 2022](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
+### [Chill House 2023](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
 > Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-319 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+322 songs - 18 hr 21 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Decision](https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Decision](https://open.spotify.com/album/6ROv3mZKa3CV0dijCxqteV) | 2:23 | 2021-03-11 | 2021-09-04 |
 | [Delta](https://open.spotify.com/track/47LQEI2udisu7sRC9dYU4l) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Delta / Bartok EP](https://open.spotify.com/album/1xGvbgezgfzeFTndnwfY2U) | 3:24 | 2020-09-13\* | 2021-06-12 |
 | [Demons \- Massane Remix](https://open.spotify.com/track/5f4qquwjZzEXIdua2FId7b) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/0P2mWEmLyOtXeallz8cGXz) | 4:03 | 2021-04-24 |  |
+| [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2022-12-02 |  |
 | [DESTINY \(I.O.U\) \(feat\. Shibui\)](https://open.spotify.com/track/4eBMIU9A2DTYxcO0uOiGiS) | [WISEKIDS](https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2), [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [DESTINY \(I.O.U\) \(feat\. Shibui\)](https://open.spotify.com/album/4tgnw6Z4gzE1ju0o63qxQn) | 2:34 | 2021-06-19 | 2021-06-26 |
 | [Dominoes](https://open.spotify.com/track/0qQCWMHz32bQd8gIKc8LFd) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Innerlight EP](https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7) | 3:54 | 2021-10-16 | 2021-11-11 |
 | [Don't Say Goodbye](https://open.spotify.com/track/28mlBRCgMemGmW03BiYLlI) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Jungleboi](https://open.spotify.com/artist/1igVsxmGxt1VTKPulM0EuA) | [Don't Say Goodbye](https://open.spotify.com/album/2YNqD5qynDansRRpWbHLg9) | 2:17 | 2020-09-13\* | 2020-09-26 |
@@ -82,6 +83,7 @@
 | [Feel Like Home \- Embody Remix](https://open.spotify.com/track/4ZLQGkK1EMtFtYXistZ08R) | [Sander Kleinenberg](https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Feel Like Home \(Remixes\)](https://open.spotify.com/album/4uvxD8sm2XLCP4GTCZJihI) | 2:57 | 2020-09-13\* | 2021-03-06 |
 | [Feel Your Body](https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Feel Your Body](https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8) | 2:56 | 2022-08-05 |  |
 | [Feelings](https://open.spotify.com/track/1ZSuGfwnaWCLfIIVS5Qxp7) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Feelings](https://open.spotify.com/album/5syLJL7AyN1ZDfA1mvr2Nw) | 3:40 | 2020-09-13\* | 2021-07-24 |
+| [Feels so Good](https://open.spotify.com/track/4VLfNAwn0eo218nImtwvpN) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Feels so Good](https://open.spotify.com/album/2aCKYrT06QIhh7t1xy4Dnh) | 2:27 | 2022-12-02 |  |
 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 | 2021-03-11 |  |
 | [Fire](https://open.spotify.com/track/3wuVn9TJsfWYZnaTSicrx1) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Fire](https://open.spotify.com/album/3916RvUXnF5pTl3awG2yGM) | 1:53 | 2021-06-26 | 2021-10-23 |
 | [Flames \(feat\. Ruel\)](https://open.spotify.com/track/4JiuLIWKkLH2iluzOhXh5Y) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Flames \(feat\. Ruel\) \[Lastlings Remix\]](https://open.spotify.com/album/79jCjSW0TiYcTKhJLeQ9Hk) | 3:36 | 2021-06-12 | 2021-07-17 |
@@ -212,6 +214,7 @@
 | [Our Love](https://open.spotify.com/track/7wRzG4NhH6Vb6HvGkjM07I) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Our Love](https://open.spotify.com/album/19x0llDICOhN8uxi7kOHLF) | 3:29 | 2020-12-05 | 2021-03-26 |
 | [Out of Body](https://open.spotify.com/track/5K9YMRGK7E9oaTpiQYor5F) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN) | [Out of Body](https://open.spotify.com/album/2cHkRV7WUHzsVr6b7NKV3f) | 2:25 | 2022-09-09 |  |
 | [Out of My Head](https://open.spotify.com/track/1e0V7CMEcXaPAMtL4b5VtV) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Out of My Head](https://open.spotify.com/album/6yj3YyNMLt3fEKRcsVr31Z) | 2:42 | 2021-08-06 | 2022-08-06 |
+| [Out Of Time](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Out Of Time](https://open.spotify.com/album/1iJBdf1kJWRMDewaQG5CbV) | 3:47 | 2022-12-02 |  |
 | [Outta Time](https://open.spotify.com/track/17K2RsIj5xRgVsUlZurwB3) | [Julian Collet](https://open.spotify.com/artist/7cJOqT5WeCAwIbL8NKtWkC), [Jakob Oschmann](https://open.spotify.com/artist/7x81rTKIpNGOeTNaUBDLvJ) | [Outta Time](https://open.spotify.com/album/3RHmRUm9MZ7Cwg0QTGVJrr) | 5:27 | 2021-03-06 | 2021-06-12 |
 | [Over My Shoulder](https://open.spotify.com/track/0PZMLgwtacSHiNwAkH2A9B) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Over My Shoulder](https://open.spotify.com/album/5i4kFt6MXHt2O5PLpIluHd) | 2:40 | 2022-03-10 |  |
 | [Overdose](https://open.spotify.com/track/3naob59kPRRxTV12jhIU68) | [Pascal Junior](https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w) | [Overdose](https://open.spotify.com/album/46pbfEVTqzFnjIWk1NnHy4) | 5:54 | 2020-09-13\* | 2021-03-06 |

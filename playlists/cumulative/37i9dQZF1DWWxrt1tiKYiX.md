@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-143 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
+144 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 | 2022-01-28 |  |
 | [Devil Doesn’t Bargain \- Acoustic](https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Devil Doesn’t Bargain \(Acoustic\)](https://open.spotify.com/album/6R9I3f43R1OLJSGWixrqBo) | 2:41 | 2022-07-15 |  |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2022-01-28 |  |
+| [Evergreen \(You Didn't Deserve Me At All\) \- Stripped](https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Stripped\]](https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2) | 3:35 | 2022-12-02 |  |
 | [everything i wanted](https://open.spotify.com/track/1YYFccBnGLTgNpzVjmAKQr) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/1Nqzqrf8Gzapm03aVTQBWP) | 4:34 | 2022-01-28 | 2022-07-29 |
 | [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2022-07-15 |  |
 | [everything i wanted](https://open.spotify.com/track/7dj0cmssIZuJVj5BoGldRO) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [ACOUSTIC](https://open.spotify.com/album/3QOQBzwIpD6Xpg8RXxBc1R) | 4:34 | 2022-10-14 | 2022-11-13 |
@@ -69,7 +70,7 @@
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/25nRDHdWic4DCEJbaI6iDe) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/3EXg4D2T5PY1NBP2aiBWrf) | 3:06 | 2022-01-28 | 2022-07-29 |
 | [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 | 2022-07-15 |  |
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2022-01-28 |  |
-| [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4OQE489ScQdhBcELfacJw0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:07 | 2022-10-14 |  |
+| [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4OQE489ScQdhBcELfacJw0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 3:07 | 2022-10-14 | 2022-12-03 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/4dgY5vCvBBSylaRvgEd6dj) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:07 | 2022-07-15 | 2022-11-17 |
 | [i'm so tired..\. \- Stripped \- Live in LA](https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired..\. \(Stripped \- Live in LA\)](https://open.spotify.com/album/3bKSufZXpfGRvQ5qKBLJNh) | 3:07 | 2022-01-28 | 2022-07-29 |
 | [In Your Arms \(with X Ambassadors\) \- Stripped](https://open.spotify.com/track/33w2gkvsI5iAnMI8z8mYln) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [In Your Arms \(with X Ambassadors\) \- Stripped](https://open.spotify.com/album/1wXEZNc51l2gJSP3fm6Cni) | 4:04 | 2022-01-28 | 2022-11-26 |

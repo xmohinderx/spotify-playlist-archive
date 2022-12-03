@@ -320,6 +320,32 @@
     },
     {
       "album": {
+        "name": "Are U Live",
+        "url": "https://open.spotify.com/album/0cjc4cqqrmfuP1SLmvi0vi"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Valee",
+          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "Are U Live",
+      "url": "https://open.spotify.com/track/7yP65veNqfCOmc2j6vqmp6"
+    },
+    {
+      "album": {
         "name": "A Dipset Christmas",
         "url": "https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS"
       },
@@ -924,6 +950,28 @@
     },
     {
       "album": {
+        "name": "Merry Xmas (feat. Monty)",
+        "url": "https://open.spotify.com/album/50xt1ddKJg11xC4Y1ockqy"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Merry Xmas (feat. Monty)",
+      "url": "https://open.spotify.com/track/0XdmgBu6mvKWhzxa7qh2f1"
+    },
+    {
+      "album": {
         "name": "Mistletoe",
         "url": "https://open.spotify.com/album/2P7cI6pxIFfF03CfAOxdWc"
       },
@@ -1381,7 +1429,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 233400,
       "name": "Why'd You Leave Me On Christmas",
       "url": "https://open.spotify.com/track/0HAJpzhta0QljXSpzSQKmm"

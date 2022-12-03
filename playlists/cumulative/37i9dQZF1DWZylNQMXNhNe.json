@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "AMEIANOITE",
+        "url": "https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165996,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8"
+    },
+    {
+      "album": {
         "name": "111 1",
         "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
       },
@@ -376,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Contra Corrente",
+        "url": "https://open.spotify.com/album/0RK21g7bYrnXDjDcTQ64GD"
+      },
+      "artists": [
+        {
+          "name": "Leandro Buenno",
+          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209249,
+      "name": "Contra Corrente",
+      "url": "https://open.spotify.com/track/34Jekz6lvkUk3us5dAQeqx"
+    },
+    {
+      "album": {
         "name": "Diaba",
         "url": "https://open.spotify.com/album/7xC3hSIL2joMNxIXxKQa0h"
       },
@@ -391,6 +431,32 @@
       "duration_ms": 165890,
       "name": "Diaba",
       "url": "https://open.spotify.com/track/1Wj0h3MIeATuBNnxnbAmEu"
+    },
+    {
+      "album": {
+        "name": "Emoji de Fogo (Danny Bond & Cyberkills Remix)",
+        "url": "https://open.spotify.com/album/4OcBz7AFm3PVFIB6aLIrXU"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        },
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168515,
+      "name": "Emoji de Fogo (Danny Bond & Cyberkills Remix)",
+      "url": "https://open.spotify.com/track/2Xr1tVdvdGBTKuGfGQMIsw"
     },
     {
       "album": {
@@ -897,7 +963,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 135616,
       "name": "PANCADA",
       "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
@@ -973,7 +1039,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 126857,
       "name": "Perdeu",
       "url": "https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw"
@@ -1155,7 +1221,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 188226,
       "name": "Tarde D+",
       "url": "https://open.spotify.com/track/1oUEVYaAihtqWsWFJjuitL"

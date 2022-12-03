@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Alok & Issam Alnajjar.
 
-84 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+86 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 |  |
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 |  |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-28 |  |
+| [ANSAKI](https://open.spotify.com/track/4O3GYFwAk96plrsPBaTOAc) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [ANSAKI](https://open.spotify.com/album/5vkbZdEJqhnz7wgRfj6srU) | 2:47 | 2022-12-02 |  |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-08-29 |  |
 | [Bahebak Wadari \- Royo Remix](https://open.spotify.com/track/7EJiLcIRikqeOWUQ5bURBT) | [Madeleine Matar](https://open.spotify.com/artist/2WRcWx0NGGiJNmkoIZETha), [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [Bahebak Wadari \(Royo Remix\)](https://open.spotify.com/album/0BK7X6x7MflBP1SQdwMevT) | 4:10 | 2022-11-05 | 2022-11-08 |
 | [Bala Ehsas \- Remix](https://open.spotify.com/track/7tfqN79YOCofQUGKvdK6gj) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df), [Karno Baghdassarian](https://open.spotify.com/artist/0oOTVy8P8M01l6Pyg4Oz5v) | [Bala Ehsas \(Remix\)](https://open.spotify.com/album/7E6xelo6R9ccoBJguBMwPf) | 3:49 | 2022-08-05 |  |
@@ -82,6 +83,7 @@
 | [Ya Ghali](https://open.spotify.com/track/2E2CLOBLGokt6RKbhhIeCn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Ya Ghali](https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE) | 2:40 | 2022-03-30 |  |
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2022-03-30 |  |
 | [Ya Mustafa Ya Mustafa \- Moaaz Music Remix](https://open.spotify.com/track/0CaEUXeb3yKbem3QrQ5zin) | [Bob Azzam](https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE), [Moaaz Music](https://open.spotify.com/artist/7qwBZEZI6m4jLunVoJaUR5) | [Ya Mustafa Ya Mustafa \(Moaaz Music Remix\)](https://open.spotify.com/album/7HWVdFT7PnPB823muVrHKG) | 2:44 | 2022-03-30 | 2022-08-23 |
+| [Ya Rababa](https://open.spotify.com/track/0JbbFcObfoamPYxjFO3Bzo) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Toufic Hatem](https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH) | [Ya Rababa](https://open.spotify.com/album/39MFNRuzV8F5JOChDRpBxe) | 5:48 | 2022-12-02 |  |
 | [Ya Rawa'anek](https://open.spotify.com/track/63z26Te7baeagaYRW3BvbY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:15 | 2022-03-30 | 2022-05-20 |
 | [Ya Rayt \- Shkoon Radio Edit](https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Ya Rayt \(Shkoon Remix\)](https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg) | 3:32 | 2022-03-30 |  |
 | [Yena'al Li](https://open.spotify.com/track/5HhdXBRK4cI9mVO6Y9G4WT) | [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn), [Sahraaoui](https://open.spotify.com/artist/2dTsEuAzvCDqcUVeOt6yff) | [Yena'al Li](https://open.spotify.com/album/03q6CZrTFtaSAUDi1xdRhs) | 4:52 | 2022-10-11 |  |

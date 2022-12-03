@@ -1424,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "Onze por Oito",
+        "url": "https://open.spotify.com/album/6wlNqURb6pjDAVSRCUMYoG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Um",
+          "url": "https://open.spotify.com/artist/1bkSkFuMfHxnrnIWMA1NqQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292680,
+      "name": "Onze por Oito",
+      "url": "https://open.spotify.com/track/3o8OmVpHGukrmH7KRP4Vri"
+    },
+    {
+      "album": {
         "name": "Or\u00edn, a L\u00edngua dos Anjos",
         "url": "https://open.spotify.com/album/592rNszuxHVYJAiRbpQAbF"
       },
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 231666,
       "name": "Um Dia de Sol",
       "url": "https://open.spotify.com/track/7JLWHxhfQCcKrLp36egd0C"

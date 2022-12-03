@@ -2451,10 +2451,36 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193293,
       "name": "It Girl",
       "url": "https://open.spotify.com/track/4Kl8SbWXaOSyF5BbCUMHBL"
+    },
+    {
+      "album": {
+        "name": "It Girl",
+        "url": "https://open.spotify.com/album/6uhatq3BoCOKKwKKHWyk6R"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "Karma Fields",
+          "url": "https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ"
+        },
+        {
+          "name": "Associanu",
+          "url": "https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193293,
+      "name": "It Girl",
+      "url": "https://open.spotify.com/track/3gJM1t5bgVFzPyJkpZC8cd"
     },
     {
       "album": {

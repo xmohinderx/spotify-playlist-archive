@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 399873,
+  "num_followers": 400041,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMGI2NjAyZGQ5Mjk0MDBmNGY0ODA3NTllNDNlYTc2MTVk",
+  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMGVkOWZkZDYzMjg3MDc5MTVkZDI4ZDhiMTgwMWU1MjBh",
   "tracks": [
     {
       "added_at": "2022-10-21 12:02:40",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Dun\u00e9",
-        "url": "https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX"
+        "name": "The Small Room Sessions",
+        "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
       },
       "artists": [
         {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+          "name": "upper class",
+          "url": "https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0"
         }
       ],
-      "duration_ms": 158610,
-      "name": "Dun\u00e9",
-      "url": "https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO"
+      "duration_ms": 229835,
+      "name": "morning groove",
+      "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "The Small Room Sessions",
-        "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
+        "name": "Dun\u00e9",
+        "url": "https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX"
       },
       "artists": [
         {
-          "name": "upper class",
-          "url": "https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0"
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
         }
       ],
-      "duration_ms": 229835,
-      "name": "morning groove",
-      "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
+      "duration_ms": 158610,
+      "name": "Dun\u00e9",
+      "url": "https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Brasil",
         "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+        "name": "porco rosso",
+        "url": "https://open.spotify.com/album/5AlxMStxbXQCBrrZ3WJoql"
       },
       "artists": [
         {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+      "duration_ms": 219840,
+      "name": "porco rosso",
+      "url": "https://open.spotify.com/track/5zPFiALwRF6FwkECorlrUB"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -447,22 +463,6 @@
       "duration_ms": 375000,
       "name": "100 reasons",
       "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "porco rosso",
-        "url": "https://open.spotify.com/album/5AlxMStxbXQCBrrZ3WJoql"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "porco rosso",
-      "url": "https://open.spotify.com/track/5zPFiALwRF6FwkECorlrUB"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -775,6 +775,26 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "Sessions 2",
+        "url": "https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP"
+      },
+      "artists": [
+        {
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
+        },
+        {
+          "name": "Rick Flair",
+          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Vibrant Air",
+      "url": "https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Tokyo Cruise",
         "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Sessions 2",
-        "url": "https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP"
-      },
-      "artists": [
-        {
-          "name": "Klaus Layer",
-          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
-        },
-        {
-          "name": "Rick Flair",
-          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Vibrant Air",
-      "url": "https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "31 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Moonlite",
         "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
       },
@@ -1007,26 +1023,6 @@
       "duration_ms": 212554,
       "name": "Moonlite",
       "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Spaven x Sandunes",
-        "url": "https://open.spotify.com/album/0rQWKsKdG0SOZDSYhQYQM8"
-      },
-      "artists": [
-        {
-          "name": "Richard Spaven",
-          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
-        },
-        {
-          "name": "Sandunes",
-          "url": "https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn"
-        }
-      ],
-      "duration_ms": 290431,
-      "name": "1759 (Outro)",
-      "url": "https://open.spotify.com/track/1kGVpWlJn77314BjntTLNI"
     }
   ],
   "unique_name": "Lo-Fi House",

@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-82 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+83 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ) | [Guts](https://open.spotify.com/artist/3r4qwLniJrCWNsqgu156LN), [Nícolas Walter](https://open.spotify.com/artist/4LP8P7vaRoN90tqtgVJAYa), [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2), [Lil Sete](https://open.spotify.com/artist/6qLSdSOOYSTInRUVymkkOP), [Diogo Mariense](https://open.spotify.com/artist/7xfIhOqU6MetO17Czwjp1l), [Neew](https://open.spotify.com/artist/2SnQV33JSAlRWZdEIMOAvH) | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB) | 4:12 | 2021-11-12 |  |
 | [Idas e Vindas](https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Meucci](https://open.spotify.com/artist/7q5inmN8Sb3wfNtaLYZf8G), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Idas e Vindas](https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6) | 3:58 | 2021-11-12 |  |
 | [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 | 2021-11-12 |  |
+| [Inabalável](https://open.spotify.com/track/09G8dVMJCNiqaJg5yVhqvU) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Inabalável](https://open.spotify.com/album/52sfF9kzuFKf66aR6TdKYf) | 2:36 | 2022-12-02 |  |
 | [Ir Embora](https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO) | [Taz Mureb](https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW), [Scarlet Ohana](https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3) | [Ir Embora](https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj) | 2:05 | 2021-11-12 |  |
 | [Jatin](https://open.spotify.com/track/03WJFSKfoeWsAzKtcy9j4Y) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Jatin](https://open.spotify.com/album/5SElpACjwKeRzWaQaRaUuC) | 2:52 | 2021-11-12 | 2022-05-07 |
 | [Jeito Bom \#2](https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs) | [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t), [Caio Big](https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN), [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Jeito Bom \#2](https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z) | 3:29 | 2022-09-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1156663,
+  "num_followers": 1156940,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg5ODA2MSwwMDAwMDAwMDc1ZTA2NjllMDRhZWZmMGQ2NjBkOTBiYjgwZGU5ODE2",
+  "snapshot_id": "MTY2Njg5ODA2MSwwMDAwMDAwMDMyMDgyNGQ1YWE2ZDFhM2JkN2Y3MzY5ODU4NTdhNDUz",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Donde Estaras",
         "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
       "artists": [
         {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -231,6 +215,22 @@
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
-      "added_at": "2022-12-02 01:00:58",
-      "album": {
-        "name": "En Mi Escritorio",
-        "url": "https://open.spotify.com/album/6luDAF1ZwQWRb6j2UebJHi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sensac\u00edon Latina",
-          "url": "https://open.spotify.com/artist/0AxfwcgIunBWHErW7HtZmK"
-        }
-      ],
-      "duration_ms": 269279,
-      "name": "En Mi Escritorio",
-      "url": "https://open.spotify.com/track/2pvfjoRy3OVfPDJuSKZ9cU"
-    },
-    {
       "added_at": "2022-06-07 22:21:55",
       "album": {
         "name": "20 Exitos Originales 20",
@@ -543,6 +527,22 @@
       "duration_ms": 277028,
       "name": "El Amor de la Nena",
       "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
+    },
+    {
+      "added_at": "2022-12-03 00:56:52",
+      "album": {
+        "name": "En Mi Escritorio",
+        "url": "https://open.spotify.com/album/6luDAF1ZwQWRb6j2UebJHi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sensac\u00edon Latina",
+          "url": "https://open.spotify.com/artist/0AxfwcgIunBWHErW7HtZmK"
+        }
+      ],
+      "duration_ms": 269279,
+      "name": "En Mi Escritorio",
+      "url": "https://open.spotify.com/track/2pvfjoRy3OVfPDJuSKZ9cU"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 249773,
       "name": "Nunca Pense Llorar",
       "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
     },
     {
-      "added_at": "2022-12-02 01:00:58",
+      "added_at": "2022-12-03 00:56:52",
       "album": {
         "name": "Sensacion Latina",
         "url": "https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf"
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "La Cumbia Se\u00f1al",
+        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Orquesta Sonidera",
+          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
+        }
+      ],
+      "duration_ms": 375849,
+      "name": "La Cumbia Se\u00f1al",
+      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Serie Diamante - 15 S\u00faper Exitos",
         "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 366503,
       "name": "Pa' La Paloma",
       "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "La Cumbia Se\u00f1al",
-        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Orquesta Sonidera",
-          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
-        }
-      ],
-      "duration_ms": 375849,
-      "name": "La Cumbia Se\u00f1al",
-      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 238020,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Talentos Ocultos, Vol. 1",
         "url": "https://open.spotify.com/album/4DPoeHldPyrqyhlVHdC4K4"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 177005,
       "name": "Arpas Weperas",
       "url": "https://open.spotify.com/track/4sNGkzWTct1A1YuyDFYArl"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 238020,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "No Mientas Mas",
-        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 234605,
-      "name": "No Mientas Mas",
-      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Amor T\u00f3xico",
         "url": "https://open.spotify.com/album/48VIofynPJH1FbLciAyn5f"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 260928,
       "name": "Amor T\u00f3xico",
       "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "No Mientas Mas",
+        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 234605,
+      "name": "No Mientas Mas",
+      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1985,22 +1985,6 @@
       "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
     },
     {
-      "added_at": "2022-12-02 01:00:58",
-      "album": {
-        "name": "Y De Nuevo Otra Vez !!!",
-        "url": "https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A"
-      },
-      "artists": [
-        {
-          "name": "El Grupo De Mayor Impacto Apasionadoz",
-          "url": "https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8"
-        }
-      ],
-      "duration_ms": 227108,
-      "name": "Solo una Noche",
-      "url": "https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU"
-    },
-    {
       "added_at": "2022-06-07 22:21:55",
       "album": {
         "name": "No Mientas Mas",
@@ -2015,6 +1999,22 @@
       "duration_ms": 231105,
       "name": "Que Lastima",
       "url": "https://open.spotify.com/track/7lBAwDdNz4aui6HPLWmnBF"
+    },
+    {
+      "added_at": "2022-12-03 00:56:52",
+      "album": {
+        "name": "Y De Nuevo Otra Vez !!!",
+        "url": "https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A"
+      },
+      "artists": [
+        {
+          "name": "El Grupo De Mayor Impacto Apasionadoz",
+          "url": "https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8"
+        }
+      ],
+      "duration_ms": 227108,
+      "name": "Solo una Noche",
+      "url": "https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU"
     },
     {
       "added_at": "2022-06-07 22:21:55",

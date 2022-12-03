@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78682,
+  "num_followers": 78683,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzU5OSw1N2Y4MmRkODEyZThkZjllODRmNWU4YjA2Nzc3ZGMyZWI5ZWRiZGFl",
+  "snapshot_id": "MzYwMCwwZDdhZTc5YWJlZjIyOGM5MjMyNWRmMTZlNTRmZDYzOGY3Y2ViNmQ3",
   "tracks": [
+    {
+      "added_at": "2022-12-02 11:27:26",
+      "album": {
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/2GOtfNmU1wjE1JkTdL7ylu"
+      },
+      "artists": [
+        {
+          "name": "White Lung",
+          "url": "https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M"
+        }
+      ],
+      "duration_ms": 195784,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/3VJ5OHIiVjvxj7vN3SlbFd"
+    },
     {
       "added_at": "2022-11-30 12:12:50",
       "album": {

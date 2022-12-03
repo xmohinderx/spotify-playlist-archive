@@ -3843,7 +3843,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 257665,
       "name": "\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!",
       "url": "https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si"
@@ -4134,6 +4134,24 @@
     },
     {
       "album": {
+        "name": "TITLE IDOL",
+        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260035,
+      "name": "\u3082\u3046\u3044\u3061\u3069 \u30eb\u30df\u30ca\u30b9",
+      "url": "https://open.spotify.com/track/0kT66ZNn1rX0Qk9y9kw7Mv"
+    },
+    {
+      "album": {
         "name": "\u3082\u3046\u3044\u3061\u3069 \u30eb\u30df\u30ca\u30b9",
         "url": "https://open.spotify.com/album/4lS8Ob0Kt2Zui7LlcnRfPi"
       },
@@ -4275,6 +4293,24 @@
       "duration_ms": 294433,
       "name": "\u30a4\u30cb\u30b7\u30e3\u30eb",
       "url": "https://open.spotify.com/track/28K904SKzdLam6ZI7fF45u"
+    },
+    {
+      "album": {
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295235,
+      "name": "\u30a4\u30cb\u30b7\u30e3\u30eb",
+      "url": "https://open.spotify.com/track/0XkiNxWiq0F01MoGRGHuK6"
     },
     {
       "album": {
@@ -4611,7 +4647,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 242166,
       "name": "\u30bc\u30c3\u30bf\u30a4\u5ba3\u8a00~Recital~",
       "url": "https://open.spotify.com/track/6R4xCec3924oT1bZBOmVwu"

@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-120 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
+121 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,12 +96,13 @@
 | [Pibe Cantina](https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:15 | 2022-08-26 |  |
 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 | 2021-12-10 |  |
 | [Por Culpa del Vino](https://open.spotify.com/track/35u7dRVnxMJwA9TL9jQ3of) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Por Siempre](https://open.spotify.com/album/4XO4d5OymSnSwoQYYRPInc) | 3:47 | 2021-12-10 | 2022-04-20 |
+| [Por Una Vez En La Vida \- En Vivo en el Luna Park](https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Una Vez En La Vida \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6sEgcs4dMOP0yZc3ygcNBT) | 4:24 | 2022-12-02 |  |
 | [Presentación / Dejémoslo Así \- En Vivo](https://open.spotify.com/track/0KOhixb30mbp9ylyQXnufj) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 4:06 | 2022-01-07 | 2022-07-28 |
 | [Pupilas Lejanas \- En Vivo](https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 | 2022-01-03 | 2022-07-27 |
 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 | 2021-12-10 |  |
 | [Sabes \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:15 | 2021-12-10 |  |
 | [Se Te Ve la Tanga \- En Vivo](https://open.spotify.com/track/0lZxPTnWhyktE0T5dMAA0j) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [En Vivo \- Hasta las Manos](https://open.spotify.com/album/34hLpBNhr8YQXksZp9Vgwi) | 5:01 | 2021-12-10 | 2022-07-29 |
-| [Sencillamente \- En Vivo](https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Sencillamente \(En Vivo\)](https://open.spotify.com/album/148HwFdc4WPUhEEK0eeSGQ) | 2:11 | 2021-12-10 |  |
+| [Sencillamente \- En Vivo](https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Sencillamente \(En Vivo\)](https://open.spotify.com/album/148HwFdc4WPUhEEK0eeSGQ) | 2:11 | 2021-12-10 | 2022-12-03 |
 | [Session Live: Te Llevas Todo / Me Preocupa Sin Ti / Déjenla Que Llore Sola](https://open.spotify.com/track/0ipf9Js7CHIj2LXzuFMFkR) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Session Live: Te Llevas Todo / Me Preocupa Sin Ti / Déjenla Que Llore Sola](https://open.spotify.com/album/6GPnVSdpLG7EkcFBywAVmK) | 5:06 | 2022-03-25 | 2022-07-25 |
 | [Si No Te Hubieras Ido \- En Vivo](https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [En Vivo](https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB) | 4:41 | 2021-12-10 |  |
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2021-12-10 |  |

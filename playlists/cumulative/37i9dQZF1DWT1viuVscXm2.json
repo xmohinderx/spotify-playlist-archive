@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A bailar con la mejor cumbia sudamericana. Foto: Sergio Dalma & La K'onga.",
+  "description": "A bailar con la mejor cumbia sudamericana. Foto: Santaferia.",
   "name": "Esto es Cumbia",
   "published_playlist_ids": [
     "2BOWiJCT4dyOyema50dxx0"
@@ -103,6 +103,24 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "album": {
+        "name": "Desafi\u00e1ndolo Todo",
+        "url": "https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "Amor De Historia",
+      "url": "https://open.spotify.com/track/0kGBEJOC4g79SYaQ65WF2r"
     },
     {
       "album": {
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 190138,
       "name": "C\u00f3mo le Gusta",
       "url": "https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 208040,
       "name": "Deber\u00eda Odiarte",
       "url": "https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193826,
       "name": "EL Gil De Tu Ex",
       "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 225906,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM"
@@ -2522,6 +2540,24 @@
     },
     {
       "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "album": {
         "name": "Que Nadie Sepa Mi Sufrir",
         "url": "https://open.spotify.com/album/1t9cf3yWQcLKtBZT1s1DvY"
       },
@@ -2588,6 +2624,24 @@
     },
     {
       "album": {
+        "name": "Que Tiene la Noche",
+        "url": "https://open.spotify.com/album/61z2zm2d248rCOaPppWrd5"
+      },
+      "artists": [
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206118,
+      "name": "Que Tiene la Noche",
+      "url": "https://open.spotify.com/track/0ZY0V2lkqbxDxq3Ys0AU1U"
+    },
+    {
+      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91"
       },
@@ -2621,6 +2675,24 @@
       "duration_ms": 176509,
       "name": "Quieres Ser Mi Amante",
       "url": "https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Iron\u00eda",
+        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267445,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
     },
     {
       "album": {

@@ -4,14 +4,16 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-443 songs - 23 hr 6 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+447 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bed Of Clouds](https://open.spotify.com/track/2OaKSdtWgdSndVQCXlVgSr) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [A Bed Of Clouds](https://open.spotify.com/album/0DdObrz1wrIBCC5kye8bQM) | 4:00 | 2020-09-30\* | 2022-08-13 |
 | [A Fair Wind](https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [A Fair Wind](https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4) | 3:00 | 2021-10-06 |  |
+| [A Magic Light](https://open.spotify.com/track/3t015kQ5yR1vVl8hwLgCRS) | [Heuma](https://open.spotify.com/artist/1cRS77FU2esuOXibmmVsYP) | [The Winds](https://open.spotify.com/album/2gw0lecLee8TL5wjddfaRY) | 2:34 | 2022-12-02 |  |
 | [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-15 |  |
+| [A Small Pause](https://open.spotify.com/track/4QHEndaAkPF8Xg12e5uqdd) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Refraction Of Light](https://open.spotify.com/album/3XOiomjJPHuV4yaoNFU8Ie) | 2:37 | 2022-12-02 |  |
 | [Abditory](https://open.spotify.com/track/0sHAK04QYBqPdPL5BUP4aS) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Abditory](https://open.spotify.com/album/1g8cPZhYVIx3srH6kEduj4) | 2:27 | 2021-09-21 |  |
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-07-23 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2021-07-01 |  |
@@ -69,7 +71,7 @@
 | [Choices](https://open.spotify.com/track/0NbAwRGkpCrY8FZsH6Cf3H) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Rebirth](https://open.spotify.com/album/15HpGCrBSILKo4XjPgTocD) | 3:12 | 2022-10-14 |  |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-12 |  |
 | [Clear Blue](https://open.spotify.com/track/4UEs7H32py3zfPCor8nbZZ) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Clear Blue](https://open.spotify.com/album/570gd1Pe8AyrSI6KCayw4p) | 2:31 | 2022-04-01 |  |
-| [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Roni Adrian](https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
+| [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-09-13 |  |
 | [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 | 2022-07-22 |  |
 | [Coast](https://open.spotify.com/track/5cW7L5MwCeSetCmQT0G0kX) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/5alLzgrt637yiLkGiBBhLc) | 6:13 | 2022-11-11 | 2022-11-13 |
 | [Coast](https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn) | 6:13 | 2020-09-30\* | 2022-07-29 |
@@ -130,7 +132,7 @@
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-06-16 | 2022-08-13 |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2020-09-30\* | 2021-10-21 |
 | [Felicia](https://open.spotify.com/track/5EDa5MNxytx54nv0FjOWg4) | [Antoine Pepe](https://open.spotify.com/artist/1GZ7usuOguq1obg0YHjy2S) | [Felicia](https://open.spotify.com/album/1l3DCACuj0frbOVGKV0Iny) | 2:14 | 2020-09-30\* | 2021-01-18 |
-| [Fields Of Thoughts](https://open.spotify.com/track/3572Gf3GzIVt7OcnavAILF) | [Lonaras](https://open.spotify.com/artist/2q7Iuol5fO3jyAL6qV3Lea) | [Fields Of Thoughts](https://open.spotify.com/album/0c75G7hjqOYfLt3GLGjqaP) | 2:49 | 2022-05-19 |  |
+| [Fields Of Thoughts](https://open.spotify.com/track/3572Gf3GzIVt7OcnavAILF) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Fields Of Thoughts](https://open.spotify.com/album/0c75G7hjqOYfLt3GLGjqaP) | 2:49 | 2022-05-19 |  |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2020-09-30\* | 2022-08-13 |
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2022-05-25 |  |
 | [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2020-09-30\* | 2021-09-14 |
@@ -353,6 +355,7 @@
 | [Silver Ocean](https://open.spotify.com/track/0nUmtaGW0KUELFtMBhxeAt) | [Monet Benitez](https://open.spotify.com/artist/4oQZmRxjpBOfuINrvgElwz) | [Silver Ocean](https://open.spotify.com/album/2dyjYTPkDOwRfbBEuPxPNC) | 2:49 | 2022-09-13 |  |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2021-06-16 |  |
 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
+| [Skies Of Reverence](https://open.spotify.com/track/4lOpaYou6ZgcnCr9DlkvIo) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Skies Of Reverence](https://open.spotify.com/album/5czawSZT0FWV21sCPbfelO) | 3:18 | 2022-12-02 |  |
 | [Skylines](https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Magnetic](https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa) | 2:46 | 2020-09-30\* | 2021-09-14 |
 | [Sleep Hibernation](https://open.spotify.com/track/0ek2PwrDkUWRqoaTq6WKDj) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sleep Hibernation](https://open.spotify.com/album/11F5dVBbgB8wWuuACxtMYF) | 2:55 | 2020-09-30\* |  |
 | [Slow Crossings](https://open.spotify.com/track/0XTfWo6Sk5AUm3hww2ELuE) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Slow Crossings](https://open.spotify.com/album/2kKJSa2iciar5oL0gBdSQN) | 3:43 | 2020-09-30\* | 2021-09-14 |
@@ -419,6 +422,7 @@
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2020-12-03 |  |
 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 | 2021-04-24 |  |
 | [Vinsamlegast](https://open.spotify.com/track/1bSIKUAxUGk2pUVctmRLrv) | [Otri Jochumsson](https://open.spotify.com/artist/4x8y3T6YzB4qB3MKPZT0mh) | [Vinsamlegast](https://open.spotify.com/album/6GuDqcR9hJL41ONab2raLE) | 2:21 | 2021-11-19 |  |
+| [Vinternatt](https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov) | [Iben Haugen](https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow) | [Vinternatt](https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U) | 2:38 | 2022-12-02 |  |
 | [Violin Chant](https://open.spotify.com/track/3qI2j1likgm0mxUfyq1x2i) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Violin Chant](https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v) | 3:34 | 2020-09-30\* | 2021-09-14 |
 | [Visio](https://open.spotify.com/track/60k5vyaPD39R4N7LHSe7TP) | [Mario Venu](https://open.spotify.com/artist/42Zzzfde9xBQfxrUaLG4cB) | [Visio](https://open.spotify.com/album/77edfzqILArvP2fkoxJCGF) | 3:01 | 2022-02-09 |  |
 | [Visions of Sleep and Beyond](https://open.spotify.com/track/3TT0S61x8x2IFUn8lnqjq9) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Visions of Sleep and Beyond](https://open.spotify.com/album/3kCPg1GdYtz8ZdD3NILoTr) | 3:01 | 2020-09-30\* | 2021-10-21 |

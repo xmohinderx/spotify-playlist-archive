@@ -1724,6 +1724,28 @@
     },
     {
       "album": {
+        "name": "IN.TEMP.",
+        "url": "https://open.spotify.com/album/4NNnzLC4OAWwlOe0tHeVFl"
+      },
+      "artists": [
+        {
+          "name": "Barata",
+          "url": "https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN"
+        },
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185943,
+      "name": "Genu\u00edno",
+      "url": "https://open.spotify.com/track/37EuzIEKHvMjBFwh2mQ3H0"
+    },
+    {
+      "album": {
         "name": "Ghetto Superstars",
         "url": "https://open.spotify.com/album/4lMmnsh3W2lCxnV9tm33nf"
       },

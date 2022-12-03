@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX26pZI5rk3y9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX26pZI5rk3y9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX26pZI5rk3y9)
 
-### [BBQ Blues](https://open.spotify.com/playlist/37i9dQZF1DX26pZI5rk3y9)
+### [Blues BBQ](https://open.spotify.com/playlist/37i9dQZF1DX26pZI5rk3y9)
 
 > Classic music for cooking and eating with friends.
 

@@ -2,9 +2,9 @@
 
 ### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\.  Cover:  CeCe Winans
+> New songs from some of the latest and greatest Gospel music artists\.  Cover:  Jonathan McReynolds
 
-231 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
+232 songs - 20 hr 7 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Lord You Are Welcome](https://open.spotify.com/track/37GZjlzbSGy7WXi1EZmICz) | [Gia Wyre](https://open.spotify.com/artist/7FmDSNZC7LqUFprT5hCuTt) | [Lord You Are Welcome](https://open.spotify.com/album/2YRwE1Hbr1tcXgHi60eKJB) | 3:32 | 2022-07-22 |  |
 | [Lord, I Hear You](https://open.spotify.com/track/1ny8vWhcpg32DPjcR5vyHo) | [Lucinda Moore](https://open.spotify.com/artist/36NpWbQn9NARm2hy9oP58x) | [Lord, I Hear You](https://open.spotify.com/album/2UiElgZOrB6TCh5lTuA41G) | 4:17 | 2022-02-18 | 2022-07-09 |
 | [Love Me to Death](https://open.spotify.com/track/2F23ScUfmepIITJDZf3FgL) | [Thomas Ware](https://open.spotify.com/artist/5czwQsY7himQixSYkBvJ8Y) | [Love Me to Death](https://open.spotify.com/album/2vJv8qf2pB3qyVXCriwkkM) | 3:37 | 2022-02-25 | 2022-03-26 |
-| [Made A Way](https://open.spotify.com/track/2Ksw9oPrXQbcemCq4t4oew) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7), [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Made A Way](https://open.spotify.com/album/3kENXjs8dh7VkOSdEHPWCK) | 3:57 | 2022-02-18 |  |
+| [Made A Way](https://open.spotify.com/track/2Ksw9oPrXQbcemCq4t4oew) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7), [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Made A Way](https://open.spotify.com/album/3kENXjs8dh7VkOSdEHPWCK) | 3:57 | 2022-02-18 | 2022-12-03 |
 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 | 2022-06-10 |  |
 | [Make Me Better](https://open.spotify.com/track/3F9YKA0taoh6ofIXcNKSfy) | [Carnel Davis & Incorporated to Praise](https://open.spotify.com/artist/67xmsPTJBnWHzUhjVa3J4b), [Larry Jones](https://open.spotify.com/artist/5xGWDG9rY3Nk8V1q4vOzxJ) | [Make Me Better](https://open.spotify.com/album/4whwjfYkjmVuYSnbDbVwRj) | 5:51 | 2022-02-18 | 2022-04-23 |
 | [Making A Way \- Radio Edit](https://open.spotify.com/track/5JrHRLJi62RrJl8l8rowg4) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Making A Way \(Radio Edit\)](https://open.spotify.com/album/0Jl0raxQMaTow2s9S4YOSd) | 4:00 | 2022-02-18 |  |
@@ -239,5 +239,6 @@
 | [You're The Worthy One](https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You're The Worthy One](https://open.spotify.com/album/41nAXYitdpFqk1LmbekoP1) | 4:48 | 2022-11-11 |  |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2022-11-11 |  |
 | [Your World](https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Your World](https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS) | 3:16 | 2022-08-05 |  |
+| [Yours To Use](https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Yours To Use](https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH) | 3:26 | 2022-12-02 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

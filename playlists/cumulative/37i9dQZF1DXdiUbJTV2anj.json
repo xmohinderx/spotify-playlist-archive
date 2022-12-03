@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: alt.",
+  "description": "Heavy new bands you need to have an eye on. Cover: GAUPA",
   "name": "New Blood",
   "published_playlist_ids": [
     "0gTCJ5PNCODVC0yVCIKhB7"
@@ -149,10 +149,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 225718,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1"
+    },
+    {
+      "album": {
+        "name": "Blacklight",
+        "url": "https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219882,
+      "name": "Blacklight",
+      "url": "https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb"
     },
     {
       "album": {
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 173811,
       "name": "MY DRUGS ARE DIGITAL",
       "url": "https://open.spotify.com/track/5RXtSYCPSDSGwCFmcDSY7e"
@@ -1220,6 +1238,28 @@
     },
     {
       "album": {
+        "name": "No Cure",
+        "url": "https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t"
+      },
+      "artists": [
+        {
+          "name": "Elwood Stray",
+          "url": "https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr"
+        },
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202657,
+      "name": "No Cure",
+      "url": "https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/3VFpo1ADsgO5W4qhQyjUKk"
       },
@@ -1249,7 +1289,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 180000,
       "name": "Only",
       "url": "https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ"
@@ -1642,6 +1682,24 @@
     },
     {
       "album": {
+        "name": "Tearing Your Life Away",
+        "url": "https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196257,
+      "name": "Tearing Your Life Away",
+      "url": "https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi"
+    },
+    {
+      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
@@ -1855,7 +1913,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 396410,
       "name": "Tiny Disappointments",
       "url": "https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj"
@@ -2089,7 +2147,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 260333,
       "name": "WITNESS",
       "url": "https://open.spotify.com/track/143IjpY2zxe3Gkgd1LqyG2"
@@ -2143,7 +2201,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 180857,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr"

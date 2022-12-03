@@ -4,7 +4,7 @@
 
 > The essential works of Franz Schubert.
 
-106 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/7v2UnqFJJ6VNimJuITu1oj)
+107 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/7v2UnqFJJ6VNimJuITu1oj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Piano Sonata No.15 in C, D.840: 2\. Andante](https://open.spotify.com/track/6WE2vVhrk7MmWSEF28QgwR) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Schubert: Piano Sonatas Nos.15 & 18](https://open.spotify.com/album/1FZnsbVvNSkuKFOSTh8SFo) | 11:13 | 2022-07-15 |  |
 | [Piano Sonata No.18 in G, D.894: 4\. Allegretto](https://open.spotify.com/track/3HMTEUnziGvEeN1IZlJ5KX) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schubert: Piano Works 1822\-1828](https://open.spotify.com/album/7jbFzJCvGcbjGuAxJ28LMi) | 8:56 | 2021-10-22 | 2022-07-29 |
 | [Schubert / Transcr\. Tharaud: Rosamunde, Op\. 26, D\. 797: No\. 6, Entr'acte No\. 3](https://open.spotify.com/track/59JyhffzxORbdTQMJSYdlz) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Schubert: Rosamunde, Op\. 26, D\. 797: No\. 6, Entr'acte No\. 3](https://open.spotify.com/album/1f8Zlkx2DpAqWdPAYjNSIo) | 5:58 | 2021-10-22 |  |
+| [Schubert: Allegretto in C Minor, D\. 915](https://open.spotify.com/track/1RExWN6ZhUKNEp86lIF6r4) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonatas D\. 784 & 959](https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw) | 6:16 | 2022-12-02 |  |
 | [Schubert: Ave Maria, Op\. 52 No\. 6, D\. 839](https://open.spotify.com/track/3eLlW0GegkXy3o92t51xaJ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Barbara Bonney](https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr), [Geoffrey Parsons](https://open.spotify.com/artist/3x9SScXuqC40Sq6j4hpXCC) | [Schubert: Ave Maria, Die Forelle, Heidenröslein & Other Lieder](https://open.spotify.com/album/7xCjhI1Pjslxmec4FiZwhC) | 6:19 | 2021-10-22 |  |
 | [Schubert: Moments musicaux, Op\. 94, D\. 780: No\. 3 in F Minor](https://open.spotify.com/track/6jAQdK7lbclgMKQ97GmR6i) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Schubert: 4 Impromptus, D\. 899 & 6 Moments musicaux](https://open.spotify.com/album/3z8nvPaAh2debv4tOLzFT4) | 1:52 | 2021-10-22 |  |
 | [Schubert: Piano Sonata No\. 20 in A Major, D\. 959: II\. Andantino](https://open.spotify.com/track/0WuNhZkCPvfq1J9xtL4Yrz) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonata No\. 20 in A Major, D\. 959: II\. Andantino](https://open.spotify.com/album/6HjMISZfnBgoU6U9vwMa0A) | 9:29 | 2022-10-28 |  |

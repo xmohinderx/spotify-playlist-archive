@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-644 songs - 1 day 10 hr 57 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+645 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Kalakar](https://open.spotify.com/track/05Adss2JyZbZJMwtB7qRBo) | [Khaan Saab](https://open.spotify.com/artist/6cYidYxEwlnqAORxEdyu2E), [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Kalakar](https://open.spotify.com/album/1x90mYLwybnU9WePLFWFJ1) | 3:02 | 2022-05-09 | 2022-05-20 |
 | [Kalam Kalla](https://open.spotify.com/track/61nyr6HbWSO06IMnCHRle4) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es) | [Kalam Kalla](https://open.spotify.com/album/1N0XrT4ghr3Mmp9kT4wFYo) | 7:42 | 2022-10-25 |  |
 | [Kall Parso](https://open.spotify.com/track/0vC43cySi6pPkgzBNaxtaQ) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse) | [6G](https://open.spotify.com/album/53T9VzK1lc0Psa4tiAzLtb) | 3:29 | 2022-11-07 |  |
+| [Kalla Kalla Saah](https://open.spotify.com/track/7klr8SGVz5lVMv8GWqnpjW) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Kalla Kalla Saah](https://open.spotify.com/album/0cGHHptx4NLfqVmlJAzLEK) | 3:25 | 2022-12-02 |  |
 | [Kamaal](https://open.spotify.com/track/45nICJyXtqNMX7PvaTrwkV) | [Sandeep Gill](https://open.spotify.com/artist/1TinCcjEkSRXW0JLygRjJQ) | [Ambition](https://open.spotify.com/album/7p9YsHtwxhJPCtLRuJ9mR0) | 3:53 | 2022-05-31 | 2022-07-06 |
 | [Kamaal Ho Gea](https://open.spotify.com/track/7Ja3egkluF7BuxEIhSYdvu) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Kamaal Ho Gea](https://open.spotify.com/album/5CC1wvdf4kTeBlS6yBDOmj) | 4:56 | 2022-01-10 | 2022-05-20 |
 | [Kami](https://open.spotify.com/track/2k4ncNHZXjOmfu9Gcy4sI9) | [Masha Ali](https://open.spotify.com/artist/3xPUYrDgDJb1lQ17YYwcfd) | [Kami](https://open.spotify.com/album/6rEnRPUy1MPXqp6WDP4b3G) | 4:01 | 2022-06-30 | 2022-07-06 |

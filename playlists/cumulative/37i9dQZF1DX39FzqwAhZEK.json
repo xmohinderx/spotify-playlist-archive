@@ -1380,6 +1380,24 @@
     },
     {
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/0SR37Tsywrqw2SBims80Ij"
+      },
+      "artists": [
+        {
+          "name": "Merlin Loughty",
+          "url": "https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181208,
+      "name": "Dysania",
+      "url": "https://open.spotify.com/track/0DDAJ13i1P8PAG2uSmJxQA"
+    },
+    {
+      "album": {
         "name": "Early Morning Song",
         "url": "https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8"
       },
@@ -3195,6 +3213,24 @@
       "duration_ms": 213867,
       "name": "Midway",
       "url": "https://open.spotify.com/track/2kTv2khALDAQLexccNt7Ik"
+    },
+    {
+      "album": {
+        "name": "milagro",
+        "url": "https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC"
+      },
+      "artists": [
+        {
+          "name": "Ezechiel Almonte",
+          "url": "https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182579,
+      "name": "milagro",
+      "url": "https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a"
     },
     {
       "album": {

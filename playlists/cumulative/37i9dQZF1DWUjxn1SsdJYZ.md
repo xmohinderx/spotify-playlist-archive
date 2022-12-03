@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Lisi
 
-317 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+318 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Back Then](https://open.spotify.com/track/5QNsqbcnu7Mrmzr9Dt5N2C) | [Kiid Spyro](https://open.spotify.com/artist/6PIHKMrawce8FswYQe4O2U) | [Back Then](https://open.spotify.com/album/3crncbKSH0N4NZ6b5SloP6) | 2:44 | 2022-11-10 |  |
 | [Bad Boy](https://open.spotify.com/track/0w2INg5RVukivGRp9QYnGC) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb) | [Bad Boy](https://open.spotify.com/album/3Hj6q9U1TnpeRZCOvF8C0u) | 3:37 | 2022-06-02 |  |
 | [Badmind](https://open.spotify.com/track/6ssOZjJ6Wknkb8lUCuhVjp) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Badmind](https://open.spotify.com/album/4nd8q7HZwmxtfKUmBAEvWu) | 2:46 | 2022-03-21 | 2022-05-27 |
-| [BANK OF MEDELLIN \(Clean\)](https://open.spotify.com/track/7lqe5kz1ywtF91jCaFFZqi) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [KWEEN \(Clean\)](https://open.spotify.com/album/2uQ9MVX72xopbwPLfmHw2B) | 2:00 | 2022-12-01 |  |
+| [BANK OF MEDELLIN](https://open.spotify.com/track/2AIkuv0AyvzJbGAMZEBvqB) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [KWEEN](https://open.spotify.com/album/7c1TIASie4Vssx3aJRHDHb) | 2:01 | 2022-12-01 |  |
+| [BANK OF MEDELLIN \(Clean\)](https://open.spotify.com/track/7lqe5kz1ywtF91jCaFFZqi) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [KWEEN \(Clean\)](https://open.spotify.com/album/2uQ9MVX72xopbwPLfmHw2B) | 2:00 | 2022-12-01 | 2022-12-03 |
 | [Barbie](https://open.spotify.com/track/0BF4v12tPrfyqCJSpeR02w) | [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Rahboy](https://open.spotify.com/artist/3ns8xLK1vDgbcxWpnqAUoS) | [Barbie](https://open.spotify.com/album/4RSRK13VBV068Tbx7hvXAF) | 2:45 | 2022-10-13 |  |
 | [BBE](https://open.spotify.com/track/2oSuqsg3aH6Z7ZzWGv8spx) | [MUNGMUNG](https://open.spotify.com/artist/1WFXknBooWyCTpQuVhhCfd) | [BBE](https://open.spotify.com/album/3tzNDbc8J7FqqRxs9cZd5o) | 4:08 | 2022-07-28 | 2022-09-16 |
 | [Beamin](https://open.spotify.com/track/1MIk9aJwcmNA2frRANiERW) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P) | [Beamin](https://open.spotify.com/album/6T3rJt2hAhK5lb1UJM3xFW) | 2:03 | 2022-06-09 | 2022-07-29 |

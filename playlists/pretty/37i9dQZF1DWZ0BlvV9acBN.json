@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 109439,
+  "num_followers": 109473,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDkxNywwMDAwMDAwMDhkY2U5ZWQ3ODJjYTNkZmE0NDIzZGY3ZTdkYzYzMTVm",
+  "snapshot_id": "MTY2OTM1NDkxNywwMDAwMDAwMGUwN2E0N2QyMDM5ZmZlODBhYjBhZjFkNGQxMDE3NWU5",
   "tracks": [
     {
       "added_at": "2022-11-25 05:41:57",
@@ -187,6 +187,26 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "O Que Me Espera",
+        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        }
+      ],
+      "duration_ms": 221805,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "Meu Acampamento",
         "url": "https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm"
       },
@@ -243,26 +263,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "O Que Me Espera",
-        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 221805,
-      "name": "O Que Me Espera",
-      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "Retrato",
         "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
       },
@@ -291,6 +291,22 @@
       "duration_ms": 324617,
       "name": "Glorificar",
       "url": "https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "Baile das M\u00e1scaras",
+        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 215754,
+      "name": "Baile das M\u00e1scaras",
+      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -335,22 +351,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Eu Vou Amanhecer (ao Vivo)",
-        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 341789,
-      "name": "Eu Vou Amanhecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "Lembre-se 80's (Ao Vivo)",
         "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Baile das M\u00e1scaras",
-        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 215754,
-      "name": "Baile das M\u00e1scaras",
-      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "Mauro",
         "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
       },
@@ -395,6 +379,42 @@
       "duration_ms": 250475,
       "name": "Escolho Ser Fiel",
       "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "A F\u00eanix",
+        "url": "https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 240302,
+      "name": "A F\u00eanix",
+      "url": "https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "Eu Vou Amanhecer (ao Vivo)",
+        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 341789,
+      "name": "Eu Vou Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -447,6 +467,22 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "Lembre-se 80's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "Mente Brilhante",
         "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
@@ -467,18 +503,18 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Lembre-se 80's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+        "name": "A Porta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
         }
       ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder - Ao Vivo",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+      "duration_ms": 191569,
+      "name": "A Porta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -499,58 +535,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "A F\u00eanix",
-        "url": "https://open.spotify.com/album/5TTQATslcS8RatQMnppMh6"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 240302,
-      "name": "A F\u00eanix",
-      "url": "https://open.spotify.com/track/036y2ECw1GN9hzwYtUzcjh"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "A Porta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
-      },
-      "artists": [
-        {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
-        }
-      ],
-      "duration_ms": 191569,
-      "name": "A Porta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
         "name": "Lembre-se 90's (Ao Vivo)",
         "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 283933,
       "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "Quando Isso Passar",
+        "url": "https://open.spotify.com/album/6ddtjuWJOMnEoLDhuqDLOa"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        }
+      ],
+      "duration_ms": 219513,
+      "name": "Quando Isso Passar",
+      "url": "https://open.spotify.com/track/2hD21MSLIAwxupDM0LhedM"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Quando Isso Passar",
-        "url": "https://open.spotify.com/album/6ddtjuWJOMnEoLDhuqDLOa"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        }
-      ],
-      "duration_ms": 219513,
-      "name": "Quando Isso Passar",
-      "url": "https://open.spotify.com/track/2hD21MSLIAwxupDM0LhedM"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "Catarse: Lado B",
         "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -715,6 +699,22 @@
       "duration_ms": 231874,
       "name": "Uma Carta de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "LIVE",
-        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
-      },
-      "artists": [
-        {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
-        }
-      ],
-      "duration_ms": 353791,
-      "name": "Hoje Tem Cor",
-      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "O Mundo ao Seu Redor",
         "url": "https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188253,
       "name": "O Mundo ao Seu Redor",
       "url": "https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
+      },
+      "artists": [
+        {
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        }
+      ],
+      "duration_ms": 353791,
+      "name": "Hoje Tem Cor",
+      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Lado a Lado",
-        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lado a Lado",
-      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
-    },
-    {
-      "added_at": "2022-11-25 05:41:57",
-      "album": {
         "name": "Meu Valor",
         "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
+    },
+    {
+      "added_at": "2022-11-25 05:41:57",
+      "album": {
+        "name": "Lado a Lado",
+        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lado a Lado",
+      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "Tudo Muda Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/72sIaqNgznTJCbLOSXMncf"
+        "name": "\u00danica Paz",
+        "url": "https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/7p7x7OL8D73ujzsNHF7jHR"
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        },
+        {
+          "name": "Fruto Sagrado",
+          "url": "https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K"
         }
       ],
-      "duration_ms": 216427,
-      "name": "Tudo Muda Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"
+      "duration_ms": 279914,
+      "name": "\u00danica Paz",
+      "url": "https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV"
     },
     {
       "added_at": "2022-11-25 05:41:57",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2022-11-25 05:41:57",
       "album": {
-        "name": "\u00danica Paz",
-        "url": "https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3"
+        "name": "Tudo Muda Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/72sIaqNgznTJCbLOSXMncf"
       },
       "artists": [
         {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        },
-        {
-          "name": "Fruto Sagrado",
-          "url": "https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/7p7x7OL8D73ujzsNHF7jHR"
         }
       ],
-      "duration_ms": 279914,
-      "name": "\u00danica Paz",
-      "url": "https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV"
+      "duration_ms": 216427,
+      "name": "Tudo Muda Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"
     },
     {
       "added_at": "2022-11-25 05:41:57",

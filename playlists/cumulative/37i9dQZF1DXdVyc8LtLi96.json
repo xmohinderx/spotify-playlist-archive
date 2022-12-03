@@ -535,8 +535,8 @@
       },
       "artists": [
         {
-          "name": "Manaum",
-          "url": "https://open.spotify.com/artist/39Ry4N6rKQEqYCDSF0zmSq"
+          "name": "Danoa",
+          "url": "https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2"
         }
       ],
       "date_added": "2022-07-28",
@@ -782,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW"
+      },
+      "artists": [
+        {
+          "name": "Haldur",
+          "url": "https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153299,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3"
+    },
+    {
+      "album": {
         "name": "Newborn Soul",
         "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
       },
@@ -797,24 +815,6 @@
       "duration_ms": 247257,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
-    },
-    {
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW"
-      },
-      "artists": [
-        {
-          "name": "Yepon",
-          "url": "https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA"
-        }
-      ],
-      "date_added": "2022-11-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153299,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3"
     },
     {
       "album": {
@@ -6181,8 +6181,8 @@
       },
       "artists": [
         {
-          "name": "Mo Fiera",
-          "url": "https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-05-31",
@@ -6577,8 +6577,8 @@
       },
       "artists": [
         {
-          "name": "Arna Wersch",
-          "url": "https://open.spotify.com/artist/5pu95DPHT1GW3RHDZ3LBbT"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-05-31",
@@ -6811,8 +6811,8 @@
       },
       "artists": [
         {
-          "name": "Idamal",
-          "url": "https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu"
+          "name": "Haldur",
+          "url": "https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx"
         }
       ],
       "date_added": "2022-09-01",
@@ -6973,8 +6973,8 @@
       },
       "artists": [
         {
-          "name": "Mesiki",
-          "url": "https://open.spotify.com/artist/583apEAhOJAxhyzuljX9dL"
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
         }
       ],
       "date_added": "2022-05-31",
@@ -8089,8 +8089,8 @@
       },
       "artists": [
         {
-          "name": "Mo Fiera",
-          "url": "https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-11-25",

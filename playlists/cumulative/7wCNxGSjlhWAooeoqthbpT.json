@@ -356,6 +356,24 @@
     },
     {
       "album": {
+        "name": "Big Payment",
+        "url": "https://open.spotify.com/album/0HWRp4KD4U8k3C6p8E0edk"
+      },
+      "artists": [
+        {
+          "name": "AAP Deno",
+          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141272,
+      "name": "Big Payment",
+      "url": "https://open.spotify.com/track/55ZFgWnBbvzPQNwlIczIx0"
+    },
+    {
+      "album": {
         "name": "Blessings (feat. Chronixx)",
         "url": "https://open.spotify.com/album/59eVgCnvJgjlEX4vLiOSHm"
       },
@@ -2841,7 +2859,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 163187,
       "name": "Wishin (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0"

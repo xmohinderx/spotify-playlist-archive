@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 111352,
+  "num_followers": 111361,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDllMDllOGYzOWQ4ZDY0NWI0ODdiMTNjMmEyNzQ3YzRm",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDMwZTg4MTU3ZTNkZjEwMGQ0NmU4NGM1YjZiYTcyMTk5",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "12/12 (Acoustic)",
         "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 179908,
       "name": "I Didn't Love You",
       "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "EOM - EP",
-        "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
+        "name": "While You're Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
         }
       ],
-      "duration_ms": 221525,
-      "name": "Every Other Memory - Acoustic",
-      "url": "https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39"
+      "duration_ms": 219385,
+      "name": "While You're Gone - Acoustic",
+      "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
     }
   ],
   "unique_name": "Nashville Stripped",

@@ -2,9 +2,9 @@
 
 ### [Pressure](https://open.spotify.com/playlist/37i9dQZF1DWZwCeILEyQAy)
 
-> Real Rap\. All Pressure\. Cover: Megan Thee Stallion
+> Real Rap\. All Pressure\. Cover: Omeretta The Great
 
-245 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
+246 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Could Never](https://open.spotify.com/track/5T4gMIgA9HS9lt3x0S1z1m) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Could Never](https://open.spotify.com/album/6yCkQrOOdMMdpYqQvnvjDJ) | 3:20 | 2021-11-05 | 2022-07-25 |
 | [Could Never \(Remix\) \[feat\. Moneybagg Yo\]](https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Could Never \(Remix\) \[feat\. Moneybagg Yo\]](https://open.spotify.com/album/65a4xOJ9i58wpUnqy2Pyyj) | 3:28 | 2021-11-05 | 2022-07-29 |
 | [Decisions](https://open.spotify.com/track/4Q67qRlkLStbxuuHsCGCDe) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Decisions](https://open.spotify.com/album/4PRL3MHDIs9P72UOSs6Skr) | 3:20 | 2022-06-24 | 2022-06-26 |
+| [Diamond in the Rough](https://open.spotify.com/track/7o4YKb7XhbLGvzJ7CXrkHD) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Diamond in the Rough](https://open.spotify.com/album/0OyiVMDfxkwIfXn5U32iWn) | 2:31 | 2022-12-02 |  |
 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 | 2022-09-30 |  |
 | [Different \- Freestyle](https://open.spotify.com/track/3VRlnEG1YXsuMCiaf1ybY0) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Different \(Freestyle\)](https://open.spotify.com/album/1z5Gg335y9A2W7pd152qFT) | 1:48 | 2021-11-05 | 2022-07-14 |
 | [Do Too Much](https://open.spotify.com/track/5LeHigT7pl8owmXu1rQMYR) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Do Too Much](https://open.spotify.com/album/4kJuPrQSvRi66p3JbuH9qu) | 3:13 | 2021-11-05 | 2022-07-29 |
@@ -252,6 +253,6 @@
 | [Why Me](https://open.spotify.com/track/58t3CCrolRpZOsuAMdDZSQ) | [Neisha Neshae](https://open.spotify.com/artist/7IAHqUnycA5bsMGTVxmqJg) | [Why Me](https://open.spotify.com/album/4i9hsqsasNXuj6RXXAtyXE) | 2:19 | 2022-10-14 |  |
 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 | 2022-06-10 | 2022-10-15 |
 | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/album/2TJan1yGyJ1Rq6IissY9Gu) | 2:35 | 2021-11-05 | 2022-02-25 |
-| [Young And Turnt](https://open.spotify.com/track/6J5bbXGG1GdDxIYex4tSg5) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [My Bad I’m Late](https://open.spotify.com/album/5t7W5Ds5cX4fMs8l1lFIIN) | 1:50 | 2022-10-14 |  |
+| [Young And Turnt](https://open.spotify.com/track/6J5bbXGG1GdDxIYex4tSg5) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [My Bad I’m Late](https://open.spotify.com/album/5t7W5Ds5cX4fMs8l1lFIIN) | 1:50 | 2022-10-14 | 2022-12-03 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

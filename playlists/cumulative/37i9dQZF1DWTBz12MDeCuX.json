@@ -750,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Baby Blizzard (Babycor3 Version)",
+        "url": "https://open.spotify.com/album/01ptxLzi6VNqLBUUuBdH1O"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113913,
+      "name": "Baby Blizzard - Babycor3 Version",
+      "url": "https://open.spotify.com/track/0UGh6ZoRrcNsAHMzdBH7Ix"
+    },
+    {
+      "album": {
         "name": "Baby dont hurt me",
         "url": "https://open.spotify.com/album/6wa4P0rzzVArBxQf0SFve3"
       },
@@ -2069,6 +2087,32 @@
       "duration_ms": 130740,
       "name": "Crazy Phonk - Remix - Slowed",
       "url": "https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
     },
     {
       "album": {
@@ -4977,7 +5021,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"

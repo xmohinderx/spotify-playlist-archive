@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Evra
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,973 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,985 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 55 | [Soqquadro](https://open.spotify.com/track/4J4vyiu3YAO1vT8tepU6zw) | [Valerienne](https://open.spotify.com/artist/79dkAMxiQQf2gPZ31ZcXIf) | [Soqquadro](https://open.spotify.com/album/6mrWju1mCi2U0cJyZRNo2F) | 3:17 |
 | 56 | [Lui](https://open.spotify.com/track/2CA7x4w6ozAUZFHChxcyxt) | [Greeyce](https://open.spotify.com/artist/2jEpqbBVGFfzmXn51dDqMe), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [Lui](https://open.spotify.com/album/1bIh6pQCJh7OBIWpqtQDZd) | 2:36 |
 | 57 | [Resta \(so che fa male\)](https://open.spotify.com/track/5fEH93j4MVZwl8qOPYBih9) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Resta \(so che fa male\)](https://open.spotify.com/album/2gbzlK6wbVjm549UV8obb0) | 2:25 |
-| 58 | [Fidarti di me](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Big Joe](https://open.spotify.com/artist/4QoNMSDOoT1DkexKr6VqQR), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 |
+| 58 | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Big Joe](https://open.spotify.com/artist/4QoNMSDOoT1DkexKr6VqQR), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 |
 | 59 | [Mariposa](https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Mariposa](https://open.spotify.com/album/2OZ46QQ4k72Hsy15w4Lvsl) | 3:36 |
 | 60 | [INFERNO](https://open.spotify.com/track/2GOqPgex034ZvAisHzNWmZ) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [INFERNO](https://open.spotify.com/album/00Vd4Gdptal8powyOLfN22) | 3:54 |
 | 61 | [NAMASTE](https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw) | [Sir](https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg) | [NAMASTE](https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8) | 1:57 |

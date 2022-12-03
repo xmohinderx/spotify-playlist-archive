@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: slipmami
 
-113 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+114 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,11 @@
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-18 |  |
 | [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 | 2022-07-09 |
 | [Bahamas](https://open.spotify.com/track/7HfiOshF1YAe7rDF7e47XW) | [honeyyvm](https://open.spotify.com/artist/6FRAAq4oJpZ8MVmnzc9Qvw), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Bahamas](https://open.spotify.com/album/5rEUBcuC0pMEaGcH0J5oQ9) | 2:27 | 2022-09-02 |  |
+| [Big Mac](https://open.spotify.com/track/6G5ggFv65KKrvb2rXAuNfM) | [Og Nina](https://open.spotify.com/artist/2yurgiGE67rGV8Ra5Qqkso), [SHOTBYBZK](https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm) | [Big Mac](https://open.spotify.com/album/6k1bWLpxlLeKMcIPTfyuwo) | 2:47 | 2022-12-02 |  |
 | [BNTA](https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk) | 3:57 | 2022-03-18 |  |
 | [Braba](https://open.spotify.com/track/2S9eAfAmIExYjbpclUpqEv) | [Camilli Miranda](https://open.spotify.com/artist/7fLjiciAnNIg6r6YdYOjvW), [Dj Tom Rc](https://open.spotify.com/artist/0gNoMkZ14tXJmgyPBIIq4N) | [Braba](https://open.spotify.com/album/0pUKN9S8Z1JxZJSbarZbWH) | 2:01 | 2022-03-18 | 2022-08-13 |
 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 | 2022-06-24 |  |
-| [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 |  |
+| [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 | 2022-12-03 |
 | [Camisa 10](https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Camisa 10](https://open.spotify.com/album/1BT1zwJm02tDL5W2kNAk2H) | 2:34 | 2022-03-18 | 2022-10-29 |
 | [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 | 2022-04-22 |  |
 | [Cofre](https://open.spotify.com/track/4Ob435otPVxJEvhYVDyaxW) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Cofre](https://open.spotify.com/album/1zeiWi4ap2VXX9ldNQXxCK) | 2:17 | 2022-05-27 |  |
@@ -51,7 +52,7 @@
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2022-03-18 |  |
 | [Haters And Snakes](https://open.spotify.com/track/0GrH8cHTWShAdjaQtS9yBy) | [Casa De Musique](https://open.spotify.com/artist/0hZopCUa9lvzrv2GGsHfxz), [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters And Snakes](https://open.spotify.com/album/1ezQ47LA8hNsUdZafyOUSY) | 2:28 | 2022-07-08 |  |
 | [Haters and Snakes](https://open.spotify.com/track/4yPrZjRwN6vB07Qx6zyxVa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters and Snakes](https://open.spotify.com/album/2KGOOACrBMEGoEWFY7RWEM) | 2:28 | 2022-03-18 | 2022-07-29 |
-| [Hija de Kuyen \- Ao Vivo](https://open.spotify.com/track/2ca0ORNc1zHBU55rENU09T) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Brisa Flow no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/3ln6jlK3dSMATTdhHnm2w1) | 3:32 | 2022-07-01 |  |
+| [Hija de Kuyen \- Ao Vivo](https://open.spotify.com/track/2ca0ORNc1zHBU55rENU09T) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Brisa Flow no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/3ln6jlK3dSMATTdhHnm2w1) | 3:32 | 2022-07-01 | 2022-12-03 |
 | [Hino](https://open.spotify.com/track/76WBiLzMTj5JDHPQl4bKRG) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/0A9LwErBKgaY0TMHcrNt5p) | 2:56 | 2022-03-18 |  |
 | [Invisível](https://open.spotify.com/track/12Ue4VoNFehYCgNcFfcrFL) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Invisível](https://open.spotify.com/album/4q1vv6Ymy01U0oHxfcODyB) | 3:29 | 2022-03-18 | 2022-05-28 |
 | [Kali](https://open.spotify.com/track/4ErEw1XXvgV5SvaUtmqXgS) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Kali](https://open.spotify.com/album/513Vo5nnWl40hZNpIsD3NL) | 2:20 | 2022-03-18 |  |

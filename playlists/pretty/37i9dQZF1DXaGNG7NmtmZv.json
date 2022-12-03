@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 171247,
+  "num_followers": 171375,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDg2NDNiZDlkYjAxZTJmNGRmZWU4ZDRiZWY3MmNmZmMy",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGFjY2JjMDcyMTk4NDdjZDcxY2FkZGI4NDM2NzJlYTg1",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "The Damned, the Shamed",
-        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
-      },
-      "artists": [
-        {
-          "name": "Terror",
-          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Hail Destroyer",
         "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 196680,
       "name": "Hail Destroyer",
       "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "The Damned, the Shamed",
+        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Break Down the Walls",
-      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 170213,
       "name": "I Know Why",
       "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 124373,
+      "name": "Break Down the Walls",
+      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "The Wounds That Never Heal",
         "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 108279,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
     },
     {
       "added_at": "2020-12-08 15:12:11",

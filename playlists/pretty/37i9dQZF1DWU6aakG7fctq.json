@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Yorghaki",
-  "num_followers": 504238,
+  "num_followers": 504266,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMGY5MmE2MTM4NDUxN2E0NjY2NGYyNWVkZjRlZDc3OGIy",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMGQ2OWU2YjJjMTdmNmI4MzQ1MjFhNTA3OWEyY2NkNmEw",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
+        "name": "Aquel Bolero",
+        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Aquel Bolero",
+      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 208502,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "Aquel Bolero",
-        "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Aquel Bolero",
-      "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "Todo Es Perfecto",
-        "url": "https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Todo Es Perfecto",
-      "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219566,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Todo Es Perfecto",
+        "url": "https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Todo Es Perfecto",
+      "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Cohen's Cumbia",
-      "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "Verbenas",
         "url": "https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 253134,
       "name": "Verbenas",
       "url": "https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Cohen's Cumbia",
+      "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
     }
   ],
   "unique_name": "el nuevo indie",

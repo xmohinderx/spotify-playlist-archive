@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-326 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
+328 songs - 15 hr 42 min - [published](https://open.spotify.com/playlist/3q5fzefL9WiW4VycS5FPmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 | 2020-10-20\* |  |
 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2020-10-20\* |  |
 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 | 2020-10-20\* |  |
-| [Dreamy Days](https://open.spotify.com/track/383UHUBQYnyrnFnfY1n3b8) | [Moiki](https://open.spotify.com/artist/0SbXVLqHl9UCKZ0YxDKWAq) | [Dreamy Days](https://open.spotify.com/album/0mrp5JodYIw5JHNkszmJlj) | 2:28 | 2022-09-30 |  |
+| [Dreamy Days](https://open.spotify.com/track/383UHUBQYnyrnFnfY1n3b8) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Dreamy Days](https://open.spotify.com/album/0mrp5JodYIw5JHNkszmJlj) | 2:28 | 2022-09-30 |  |
 | [Drifting](https://open.spotify.com/track/3d7ANjpM6qpxLdp2v1BFkI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Drifting](https://open.spotify.com/album/4y5HjVDtqHT41t9ST85f5c) | 2:59 | 2021-07-04 |  |
 | [Drifting](https://open.spotify.com/track/6ZPr9b4odEGaYIFdYDRGM4) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Drifting](https://open.spotify.com/album/7rb1ZtyB3i3h9pCdMJRZr6) | 3:00 | 2021-09-08 |  |
 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 | 2020-10-20\* |  |
@@ -120,6 +120,7 @@
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-07-22 |  |
 | [Future Aquatic](https://open.spotify.com/track/5ngJea47AW8T8y80h2KMOd) | [Nosh Sank](https://open.spotify.com/artist/69L7WtIFxX2OylS42CC2qL) | [Future Aquatic](https://open.spotify.com/album/30AlrbsBzIy9wb3aXJuGCj) | 3:18 | 2020-10-20\* | 2022-08-13 |
 | [Ganymede](https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Ganymede](https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89) | 2:32 | 2021-07-29 |  |
+| [Gateless Gate](https://open.spotify.com/track/5VVmyWBrrmqkXGAc3VptjN) | [Magnetic Sky](https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY) | [Gateless Gate](https://open.spotify.com/album/6XjfJ3qI6NtDmtyZr4Mdew) | 2:06 | 2022-12-02 |  |
 | [Gentle Mindset](https://open.spotify.com/track/04joznr5hR5oMYSmou54lX) | [Cedar Woods](https://open.spotify.com/artist/2r2SYethLQSadp7n7v266y) | [Prayers & Observations](https://open.spotify.com/album/16avYp0FJv6NZ5ingCUwWe) | 2:33 | 2020-10-20\* |  |
 | [Gloss](https://open.spotify.com/track/1GUdCZLL5KxqpaaB5MtMma) | [Nova Meme](https://open.spotify.com/artist/2R80ZaY2Mq8AeBSwocFJql) | [Gloss](https://open.spotify.com/album/0MFEUVxPYQnQkZ3ae1csuc) | 2:36 | 2020-10-20\* | 2022-08-13 |
 | [Go Peaceful](https://open.spotify.com/track/1M9b6vGSZUoRr8AKkRBs3b) | [Wynton Davidson](https://open.spotify.com/artist/37Q6iiVFO4GhLHVbjIbwTg) | [Omnipresence](https://open.spotify.com/album/1ORZeqjuP3L6nf2DVEtB25) | 2:51 | 2020-10-20\* | 2021-07-16 |
@@ -191,7 +192,7 @@
 | [New Night, New Dream](https://open.spotify.com/track/0TRIGqdgqVtZBATepPWjts) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [New Night, New Dream](https://open.spotify.com/album/7fsCAGPpkFXiZW9SCvHIgm) | 3:01 | 2020-10-20\* |  |
 | [New Star](https://open.spotify.com/track/17511fdxVIh76Mw6Md4rzC) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 2:43 | 2020-10-20\* |  |
 | [Newborn Soul](https://open.spotify.com/track/61I4iLWIWmmx7knqM6f5HL) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:36 | 2020-10-20\* |  |
-| [Night Odyssey](https://open.spotify.com/track/4Ug76OZs6b1euMLGiun4Ru) | [Idamal](https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu) | [Luna](https://open.spotify.com/album/72liyoGwQ6zcfuRvvMls5t) | 2:48 | 2022-11-11 |  |
+| [Night Odyssey](https://open.spotify.com/track/4Ug76OZs6b1euMLGiun4Ru) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Luna](https://open.spotify.com/album/72liyoGwQ6zcfuRvvMls5t) | 2:48 | 2022-11-11 |  |
 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2020-10-20\* | 2022-08-13 |
 | [Nocturne in Green](https://open.spotify.com/track/56nl0PcICHCOoVazhLQEFb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 4:03 | 2020-10-20\* | 2021-06-16 |
 | [North Haven](https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [North Haven](https://open.spotify.com/album/0ai2noQFlGW1Fx57amRNls) | 3:44 | 2020-10-20\* |  |
@@ -257,6 +258,7 @@
 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 | 2020-10-20\* | 2022-07-29 |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2022-07-22 |  |
 | [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2020-10-20\* |  |
+| [Soft Remembrance](https://open.spotify.com/track/2Dn6n9kmDoHbP51xVeNM6s) | [The Eternalists](https://open.spotify.com/artist/5QtPdyrH3QEW55lpWcupc5) | [Soft Remembrance](https://open.spotify.com/album/77ysdKUcg8byKdeOykNDEb) | 2:44 | 2022-12-02 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-04-15 |  |
 | [Solo](https://open.spotify.com/track/3d7eF49gLIxdOo6plwr6kP) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Solo](https://open.spotify.com/album/71DeeYazwxnzRgvBHY2rEl) | 2:18 | 2022-11-11 |  |
 | [Solêr](https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:35 | 2020-10-20\* |  |

@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-177 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
+178 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Burn the Guez! \- Edit](https://open.spotify.com/track/466NOCpKev907jPlqaXdPe) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [Burn The Guez!](https://open.spotify.com/album/6PxvGptAPOvzLBKuHOYEKn) | 4:35 | 2021-12-07 | 2022-07-20 |
 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 | 2021-12-07 |  |
 | [Chilli Heatwave](https://open.spotify.com/track/0I5CXOrOHwCg13oTgG3TAr) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [25 Minutes of Relaxing ASMR](https://open.spotify.com/album/6jbwFqmwVH89xXyNKaRcgG) | 4:35 | 2021-12-07 | 2022-07-29 |
-| [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 | 2022-03-11 |  |
+| [Chilli Heatwave](https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [31 Minutes of Relaxing ASMR](https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk) | 4:35 | 2022-03-11 | 2022-12-03 |
 | [Choom](https://open.spotify.com/track/3K1if03hKhYVnArWaoHAxi) | [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw) | [Square Peg, Round Hole](https://open.spotify.com/album/2g0xz5c4IF1CDqVs03dSKE) | 5:55 | 2021-12-07 | 2022-07-12 |
 | [Clam Factory](https://open.spotify.com/track/1ytBSZM9XcPxcxIaHMk4qA) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Clam Factory](https://open.spotify.com/album/4FtjKjfY2EixthfAcX2yRM) | 6:37 | 2021-12-07 | 2022-06-23 |
 | [Closer](https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE) | 4:10 | 2021-12-07 | 2022-10-14 |
@@ -52,6 +52,7 @@
 | [Don't Want It \- Demi Riquísimo Remix](https://open.spotify.com/track/7mg43R4xqV7ciIJyTknWld) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct), [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Don't Want It \(Demi Riquísimo Remix\)](https://open.spotify.com/album/62NpqGj03srpLZCoh68FIn) | 4:33 | 2021-12-07 | 2022-07-28 |
 | [Dream On Dreamer \- Radio Edit](https://open.spotify.com/track/4jMwf6BH9X5VPudSl835ih) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Zetaphunk](https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx) | [Dream On Dreamer](https://open.spotify.com/album/7ed9qIevxJS9l2N0HxDlMi) | 3:29 | 2021-12-07 | 2022-03-10 |
 | [Empty Heart](https://open.spotify.com/track/7eDWOkSstRIObrzFGkcUE3) | [Sean Roman](https://open.spotify.com/artist/3v4eFdI9pxt9UdfwqDRe4c), [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Empty Heart](https://open.spotify.com/album/2gUh3PFl8GzwzreFmxoFqQ) | 5:52 | 2021-12-07 | 2022-07-25 |
+| [Everybody Dance](https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance](https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD) | 2:48 | 2022-03-11 |  |
 | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb) | 2:48 | 2021-12-07 | 2022-12-02 |
 | [Everything Happens for a Reason](https://open.spotify.com/track/0ILsPYWoQWuioCNMUVBpjb) | [Pool Attendant](https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur) | [Good Times](https://open.spotify.com/album/0RXi6MtsGtdUVydkhy8wNc) | 3:09 | 2021-12-07 | 2022-07-29 |
 | [Everything Happens for a Reason](https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b) | [Pool Attendant](https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur) | [Everything Happens for a Reason](https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP) | 3:09 | 2022-03-11 |  |

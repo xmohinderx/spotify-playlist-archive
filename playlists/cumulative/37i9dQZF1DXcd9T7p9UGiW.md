@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=nKrIAInNTeSpQZnRMZGaLw" > Naira Marley </a>  and <a href="https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL?si=QYs1j5iLSJaNsetulQjllA" > BackRoad Gee</a>
 
-263 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
+264 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-08-05 | 2022-11-26 |
 | [Intense](https://open.spotify.com/track/0tGqNkqJUqzp1Qt2Z6lG2c) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Intense](https://open.spotify.com/album/56JDsUWoDn1LevMpYiSxdK) | 2:46 | 2021-10-08 | 2022-02-04 |
 | [Intentionally \- Remix](https://open.spotify.com/track/1uEgtxDYgAkGMwTxc4dOAA) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Smyley](https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx) | [Intentionally \(Remix\)](https://open.spotify.com/album/6TyDoGRE4MPi5pAoQV8U5F) | 3:25 | 2022-02-03 | 2022-02-25 |
-| [It Girl](https://open.spotify.com/track/4Kl8SbWXaOSyF5BbCUMHBL) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [It Girl](https://open.spotify.com/album/1a9eoJ37SYp0avDwQ7wGdS) | 3:13 | 2022-12-02 |  |
+| [It Girl](https://open.spotify.com/track/4Kl8SbWXaOSyF5BbCUMHBL) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [It Girl](https://open.spotify.com/album/1a9eoJ37SYp0avDwQ7wGdS) | 3:13 | 2022-12-02 | 2022-12-03 |
+| [It Girl](https://open.spotify.com/track/3gJM1t5bgVFzPyJkpZC8cd) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl](https://open.spotify.com/album/6uhatq3BoCOKKwKKHWyk6R) | 3:13 | 2022-12-02 |  |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-25 |  |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-01-13 | 2022-03-11 |
 | [JUMPING SHIP](https://open.spotify.com/track/5qaUDvqjsI6lnrtEhQqMle) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:21 | 2021-10-08 |  |

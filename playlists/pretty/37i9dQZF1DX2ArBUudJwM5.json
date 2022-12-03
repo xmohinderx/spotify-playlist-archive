@@ -1,12 +1,12 @@
 {
   "description": "Las artistas que marcaron el a\u00f1o con Nicki Nicole en portada.",
-  "num_followers": 22637,
+  "num_followers": 22698,
   "original_name": "Lo mejor de EQUAL Argentina 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMGM3OTQ4NDRjOTM2YjIyOWNlYjJmODZiZTM5MTUyZGU5",
+  "snapshot_id": "MTY2OTgxMzIwMCwwMDAwMDAwMDFhOWQzYjA1ODczNDRhZWNiMWZiZmY4ZWM2NTcwNjk4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Que Me Duela",
-        "url": "https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "\u00daltimo Intento",
-      "url": "https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "pensando en ti",
         "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 197508,
       "name": "pensando en ti",
       "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Que Me Duela",
+        "url": "https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "\u00daltimo Intento",
+      "url": "https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7"
     },
     {
       "added_at": "2022-11-30 13:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-30 13:00:00",
       "album": {
-        "name": "Aquellos Misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos Misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
-    },
-    {
-      "added_at": "2022-11-30 13:00:00",
-      "album": {
         "name": "Dwele",
         "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 192800,
       "name": "Dwele",
       "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+    },
+    {
+      "added_at": "2022-11-30 13:00:00",
+      "album": {
+        "name": "Aquellos Misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos Misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2022-11-30 13:00:00",

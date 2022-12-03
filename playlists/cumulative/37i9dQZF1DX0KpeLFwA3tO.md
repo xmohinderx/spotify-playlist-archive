@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Against The Current
 
-766 songs - 1 day 14 hr 26 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+767 songs - 1 day 14 hr 29 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Blame Thrower!](https://open.spotify.com/track/5gHaYHGX5oA9baTTbGeb8R) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Blame Thrower!](https://open.spotify.com/album/1kQgFT9bBMFPlOq2I5c0tR) | 2:51 | 2022-08-04 | 2022-09-23 |
 | [Blank Curtain](https://open.spotify.com/track/5TY7d3yQmsIad8NlwmuFvN) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Blank Curtain](https://open.spotify.com/album/52LYHwmooQOlKRU56HaOoZ) | 3:49 | 2022-04-07 | 2022-05-21 |
 | [Blessed Be Thy](https://open.spotify.com/track/6oOrDOcWae9TplDG761Zvn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Blessed Be Thy](https://open.spotify.com/album/3GFlXi5j7CgQgNDo4islwF) | 3:12 | 2022-04-14 | 2022-05-27 |
+| [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2022-12-02 |  |
 | [BLOOD](https://open.spotify.com/track/0D2jBBZcsedncHQcO6FGoh) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [BLOOD](https://open.spotify.com/album/1CGWtH3bwXd21ClTFC0kUL) | 1:48 | 2022-03-11 | 2022-04-22 |
 | [Blood and dance](https://open.spotify.com/track/4Pm6BVdUJD4MgSxchmoAGM) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Kill us all](https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF) | 3:45 | 2022-09-01 | 2022-10-21 |
 | [Blood Money](https://open.spotify.com/track/0mtTpJWvLCICDbjshlMpX0) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Blood Money](https://open.spotify.com/album/0eiBDyD35crWZEu8GaPHr3) | 3:32 | 2022-05-12 | 2022-06-18 |

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-459 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+460 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [God Knows](https://open.spotify.com/track/0lrucYudLJu3JSdEiTlH7W) | [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [God Knows](https://open.spotify.com/album/2aGGPFNEdfhACrXIi5LScM) | 3:42 | 2022-03-30 | 2022-04-18 |
 | [Gold Past Life](https://open.spotify.com/track/1zkBRlk5YyMmQPNJOXaiyU) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu) | 3:29 | 2022-02-23 | 2022-07-29 |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2021-12-30 |  |
+| [Goodbye My Love](https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:14 | 2022-11-11 |  |
 | [Goodbye My Love \(feat\. Priya Ragu\)](https://open.spotify.com/track/13oV3JUJWwMtqoSJIIUINr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 3:14 | 2021-12-16 | 2022-11-02 |
 | [Got a Feelin'](https://open.spotify.com/track/6h51UtqMTIShRjSLmksrLZ) | [Rookie Season](https://open.spotify.com/artist/1RHPoWCzOTCLxRgABHDQ9e) | [The Collide](https://open.spotify.com/album/3W5eyGMbwt19lCNwSQ2Sit) | 3:43 | 2021-12-16 | 2022-07-29 |
 | [Got It Bad](https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:25 | 2022-07-26 |  |
@@ -211,7 +212,7 @@
 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 |  |
 | [Kelly](https://open.spotify.com/track/3Mj5wXVgnFs0HhBI4iYHCd) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Sky City](https://open.spotify.com/album/2lYmxilk8cXJlxxXmns1IU) | 3:38 | 2022-03-30 | 2022-04-21 |
-| [Kids Fallin' In Love](https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g) | 3:47 | 2021-12-16 |  |
+| [Kids Fallin' In Love](https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g) | 3:47 | 2021-12-16 | 2022-12-03 |
 | [King Prawn The 1st](https://open.spotify.com/track/0ybcE5T4NKLJSMIZUHSRlD) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4g5owqOYwBR805mYofw5cg) | 2:36 | 2022-03-30 | 2022-07-29 |
 | [LA.BELLE.JOURNÉE 1971](https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [A.M.I.E.S.A.M.O.U.R](https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX) | 5:05 | 2022-02-18 | 2022-07-29 |
 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 | 2022-07-26 |  |

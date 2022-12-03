@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Oceans
+> This is the new Core at its finest\. Cover: Bury Tomorrow
 
-600 songs - 1 day 13 hr 53 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+602 songs - 1 day 14 hr 0 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Blood & Honey](https://open.spotify.com/track/2stPzQY6XyjRTtsevzgjdA) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol\. 2](https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx) | 3:17 | 2022-02-11 | 2022-05-06 |
 | [Blood Eagle](https://open.spotify.com/track/7k4bQ69rhUem3UcfJN8brF) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Blood Eagle](https://open.spotify.com/album/5bGQuHM7O09qh8Iqftm9lD) | 4:37 | 2021-12-17 | 2022-01-22 |
 | [Blood Spiller](https://open.spotify.com/track/4U0ZkhJ5q8JOFzDhRrCsVI) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Blood Spiller](https://open.spotify.com/album/4INTfLLX0IkZALmFceJKuZ) | 4:01 | 2022-04-29 | 2022-06-11 |
+| [Boltcutter](https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Boltcutter](https://open.spotify.com/album/6OP2USRvGKWn7YUrwa8zur) | 3:37 | 2022-12-02 |  |
 | [Bonebreaker](https://open.spotify.com/track/4XIyKIqxM2wo4mZJYPwoqa) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 4:25 | 2022-07-13 | 2022-07-23 |
 | [Borderline Existence](https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O) | [Drown This City](https://open.spotify.com/artist/0miE6U5IB1KocKNfn8Cxt7) | [Borderline Existence](https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY) | 3:07 | 2022-07-13 | 2022-07-23 |
 | [Boy](https://open.spotify.com/track/3XhrFBIBskDUeujyzNFwXf) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2CL5UiUdXNe1EKoOObuNui) | 3:50 | 2022-07-13 | 2022-07-23 |
@@ -457,11 +458,12 @@
 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 | 2022-04-29 | 2022-06-11 |
 | [Serenity](https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk) | [Viscaya](https://open.spotify.com/artist/6DY7U02a4pR7XzB55SSQcE) | [Serenity](https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA) | 2:39 | 2021-12-17 | 2022-04-02 |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2022-07-13 | 2022-07-23 |
-| [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 |  |
+| [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-04-29 | 2022-12-03 |
 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 | 2022-07-01 |  |
 | [Shadow Walker](https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Shadow Walker](https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O) | 3:57 | 2022-02-11 | 2022-04-23 |
 | [Shadows in Time](https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Shadows in Time](https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT) | 3:44 | 2022-08-05 | 2022-11-23 |
 | [Shimmer](https://open.spotify.com/track/5fuq9zEt8fMmwz66Ks9wrU) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Shimmer](https://open.spotify.com/album/69tKJT4Z6ddrF9uOFuJH9G) | 3:46 | 2022-06-17 | 2022-07-27 |
+| [Show Me Your God](https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Show Me Your God](https://open.spotify.com/album/6NNVcyPL17qA1ehI4ZgLnm) | 3:37 | 2022-12-02 |  |
 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2022-06-10 |  |
 | [Silence Broken](https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Silence Broken](https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6) | 3:56 | 2022-03-03 | 2022-04-23 |
 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 | 2022-01-14 | 2022-04-23 |
@@ -570,7 +572,7 @@
 | [UPS AND DOWNS](https://open.spotify.com/track/2lKoPdYVhWsTiZpi23BBdH) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [UPS AND DOWNS](https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL) | 3:14 | 2022-01-28 | 2022-07-22 |
 | [VAMPYR](https://open.spotify.com/track/3ZqfaP23vRTS4tSre8HAwk) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [VAMPYR](https://open.spotify.com/album/3A9Pi2b6Svur1Ij3j9Lnz7) | 3:34 | 2021-12-17 | 2022-01-15 |
 | [Vanguard](https://open.spotify.com/track/5NxVQJrYanVUMotKD02TaP) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Vanguard](https://open.spotify.com/album/24NxO7DeaovwyHViu4Qygj) | 4:23 | 2022-03-11 | 2022-04-09 |
-| [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 | 2022-05-06 |  |
+| [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 | 2022-05-06 | 2022-12-03 |
 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 | 2022-07-13 | 2022-07-23 |
 | [Vertigo](https://open.spotify.com/track/4sEzO3UhMRg2DTYsC05BU8) | [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8), [Marvin Bruckwilder](https://open.spotify.com/artist/7lv6PfjpMO4LNBP4fG8dOK) | [Vertigo](https://open.spotify.com/album/0mqOucOjNP3rOcDuzzchTT) | 5:28 | 2022-01-07 | 2022-04-09 |
 | [Vile Genesis](https://open.spotify.com/track/3LuCXxrytnHzIldoHQXbgt) | [Inferi](https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A) | [Vile Genesis](https://open.spotify.com/album/4sBrQDIdbC4nUN5xxJPV9W) | 5:44 | 2022-07-13 | 2022-07-21 |

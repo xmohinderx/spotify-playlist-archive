@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-253 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+254 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [60 bpm Slow Drone Sleep](https://open.spotify.com/track/1DgW2B2EyeU51Ia6VBCeHt) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Deep Sleep Music Experience](https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE) | [Slow Deep Breathing & Meditation](https://open.spotify.com/album/5YHclMPKKk585VPWeJiZDV) | 4:01 | 2021-12-08 |  |
 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 | 2021-12-08 |  |
 | [A Glimpse of Eternity](https://open.spotify.com/track/4gIkhmRSrvTltuBGYVp3TX) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 3:39 | 2021-12-08 |  |
+| [A Glorious Morning \(Spa\)](https://open.spotify.com/track/3gF1BjpJbEiJFHr646872q) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [A Glorious Morning \(Spa\)](https://open.spotify.com/album/0r6cTXwz1LvmGfa5C9wPdW) | 3:23 | 2022-12-02 |  |
 | [A Mirror in Every Drawer](https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN) | [Tiger Stories](https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U) | [Dinami](https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB) | 4:06 | 2021-12-08 | 2022-06-25 |
 | [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2021-12-08 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-05 |  |
@@ -215,7 +216,7 @@
 | [Terme di Caracalla](https://open.spotify.com/track/7rPWpqAcS9yArMDgx8GBRu) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc) | 3:44 | 2022-07-27 |  |
 | [Tetrahedron](https://open.spotify.com/track/10KfNUfrjGsqfLgb5Dvc9d) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Platonic Solids](https://open.spotify.com/album/0D8UJP5cneQe3ij4cA6t9W) | 4:19 | 2021-12-08 |  |
 | [Thankful](https://open.spotify.com/track/1nFLUSu9eQxibCz0BP4BtO) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [LiKKma](https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d) | 3:19 | 2021-12-08 |  |
-| [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2021-12-08 |  |
+| [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 | 2021-12-08 | 2022-12-03 |
 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2021-12-08 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-12-08 |  |
 | [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2021-12-08 |  |

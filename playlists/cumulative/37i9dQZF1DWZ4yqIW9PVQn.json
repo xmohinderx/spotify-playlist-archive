@@ -329,10 +329,28 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 251569,
       "name": "Autumn wind",
       "url": "https://open.spotify.com/track/3ePi4qdoOXdnxmd9fkLn5O"
+    },
+    {
+      "album": {
+        "name": "Autumn wind",
+        "url": "https://open.spotify.com/album/6MHMfBxopuGMujoeR1uEoR"
+      },
+      "artists": [
+        {
+          "name": "Gemstone",
+          "url": "https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251569,
+      "name": "Autumn wind",
+      "url": "https://open.spotify.com/track/4XDvWyY9xZRxrfmklKKmwV"
     },
     {
       "album": {
@@ -1927,6 +1945,28 @@
       "duration_ms": 196329,
       "name": "\ub09c \ud63c\uc790\uac00 \ud3b8\ud574",
       "url": "https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6"
+    },
+    {
+      "album": {
+        "name": "\uacc1 1/2 On you 1/2",
+        "url": "https://open.spotify.com/album/7IMNiZLrpONVt9cxPv328J"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hansol",
+          "url": "https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR"
+        },
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\ubaa9\uc18c\ub9ac \ub4e3\uace0 \uc2f6\ub2e4 Autumnal love",
+      "url": "https://open.spotify.com/track/3peIyC4z6HstADkfpX4VJh"
     },
     {
       "album": {

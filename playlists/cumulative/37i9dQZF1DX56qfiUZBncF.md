@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-247 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+248 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2021-01-13 | 2022-07-29 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 | 2022-04-29 |  |
 | [Bonfire](https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Bonfire](https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA) | 3:23 | 2020-11-04\* | 2021-10-21 |
-| [Caffeine](https://open.spotify.com/track/15SeSt7NAugpbYquPhF5dD) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/4AHH4Ekn7AoYTJNxocY2Qg) | 3:05 | 2022-04-29 |  |
+| [Caffeine](https://open.spotify.com/track/15SeSt7NAugpbYquPhF5dD) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/4AHH4Ekn7AoYTJNxocY2Qg) | 3:05 | 2022-04-29 | 2022-12-03 |
 | [Caffeine](https://open.spotify.com/track/61b8dII0C3ybIRdQY6dl3d) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Caffeine](https://open.spotify.com/album/4c0h2zDKWkMnYjjwWitaCM) | 3:05 | 2020-11-04\* | 2021-10-20 |
 | [Call My Name \(feat\. Robyn\)](https://open.spotify.com/track/0MWWwPMfS5DkvW6H6NftKa) | [Smile](https://open.spotify.com/artist/7dKyMx9hAhSNKiDKFdWFJ7), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Call My Name \(feat\. Robyn\)](https://open.spotify.com/album/0zMx4DPT5pNur5uP9lRZlH) | 4:14 | 2021-10-19 | 2022-07-29 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-01-29 |  |
@@ -211,6 +211,7 @@
 | [superpowerful \(with Crooked Colours\)](https://open.spotify.com/track/21EaUSWwMQInuWOvH2t4gI) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [superpowerful \(with Crooked Colours\)](https://open.spotify.com/album/00CLtwefcxPFyOuBOs6bxa) | 3:05 | 2021-01-21 | 2022-07-29 |
 | [superpowerful \(with Crooked Colours\)](https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 3:05 | 2022-04-29 |  |
 | [Surprise Yourself](https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:20 | 2020-11-04\* |  |
+| [Sweet Summer Sweat](https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 3:03 | 2022-04-29 |  |
 | [Sweet Summer Sweat \(feat\. Dijon\)](https://open.spotify.com/track/6gr9bP5jpNjlRpbF4gLjqi) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Sweet Summer Sweat \(feat\. Dijon\)](https://open.spotify.com/album/3MEECjgqTlGz2HYzRdhrBv) | 3:03 | 2020-11-04\* | 2022-07-29 |
 | [Swim](https://open.spotify.com/track/2vbwY93OSQjlbEQvl6GYjy) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Swim](https://open.spotify.com/album/5gIeq24IhPSQEv2V9q1rhO) | 3:20 | 2020-11-04\* | 2022-07-29 |
 | [Swing Tree](https://open.spotify.com/track/0kPWjVyvas9lc4oXakOiBj) | [Discovery](https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5) | [LP](https://open.spotify.com/album/3qcXtSsTV6L0Zwf3BpcjDZ) | 2:38 | 2020-11-04\* | 2021-10-20 |

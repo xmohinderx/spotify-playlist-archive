@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-59 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+60 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1qXc4y3UMJeAaSjBnXdPos) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Leonardo Lucero](https://open.spotify.com/artist/0RmoXT2viR9SdWDQznufRE) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/73NbCZ1FCzXKpozFfpcOSd) | 1:53 | 2022-11-04 |  |
 | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/track/6oDXX38npeVEQhDMIkdXcM) | [Hugh Martin](https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW), [Ralph Blane](https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Oscar Holch](https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z), [Matthew Sharp](https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Ming Liu](https://open.spotify.com/artist/1y6zFseZunoGSLcUk161Le) | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/album/2VU6vUsCJNXjuVKpvJlgJP) | 3:05 | 2021-12-16 |  |
 | [Huron Carol](https://open.spotify.com/track/7dkXnwn1iKD6DZ28gA5OY5) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 3:13 | 2021-12-16 |  |
+| [I Saw Three Ships](https://open.spotify.com/track/4DHmQW2gtRc4Gx991GZrsS) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [I Saw Three Ships](https://open.spotify.com/album/7zV7gDophcjhvTynWSI9ju) | 2:28 | 2022-12-02 |  |
 | [I Wonder as I Wander](https://open.spotify.com/track/4MgmjwYiDDj7h0MZF8Km5m) | [Barron Ryan](https://open.spotify.com/artist/4gj7WndN1VykJMR3z4j9to) | [I Wonder as I Wander](https://open.spotify.com/album/5djuC60i0uFWvVhYbGLvOe) | 4:46 | 2021-12-16 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/2AlhKcEFRYnlvtt5FyYmR5) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [I'll Be Home for Christmas](https://open.spotify.com/album/0z3OrHSOvYlME9tNVajV8n) | 4:21 | 2021-12-16 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/5npbKR3fjmyfnYY1RtjxGc) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [I'll Be Home for Christmas](https://open.spotify.com/album/6ABJT39u4YaKGD33L3080f) | 4:21 | 2021-12-16 | 2022-07-29 |

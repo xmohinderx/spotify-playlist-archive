@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 204067,
       "name": "20min",
       "url": "https://open.spotify.com/track/2u4aD9hjuT1UHDsmHVEOjr"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 234256,
       "name": "500 Hevosta",
       "url": "https://open.spotify.com/track/3HD1IgJXdTI3guoBatBVSG"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "666",
       "url": "https://open.spotify.com/track/7aP68E6dMvQ54Mu41Omke4"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 158472,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/3oL6LBuc6KTge87a0lj6f3"
@@ -1847,6 +1847,24 @@
       "duration_ms": 152382,
       "name": "Blondi",
       "url": "https://open.spotify.com/track/1bDGyHQ0GC8zg8nIpEIhG0"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "album": {
@@ -4341,7 +4359,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 166125,
       "name": "Erilainen",
       "url": "https://open.spotify.com/track/5e7XVJJcGbecTB9N4asFsu"
@@ -8507,7 +8525,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 176428,
       "name": "Kangastus",
       "url": "https://open.spotify.com/track/5zHwltOissBAu6ZedTFFLW"
@@ -9209,7 +9227,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "KiMi",
       "url": "https://open.spotify.com/track/4lqwfA11KZ0wYfbCddjHj8"
@@ -10057,7 +10075,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 129906,
       "name": "K\u00e4yt\u00f6stapoi (feat. william)",
       "url": "https://open.spotify.com/track/0JbfBxlJxSqjbI9vbzi4Vn"
@@ -10479,7 +10497,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -11249,7 +11267,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 202262,
       "name": "L\u00f6yly\u00e4 liss\u00e4\u00e4 (feat. JVG)",
       "url": "https://open.spotify.com/track/77Xs6TA4v3Eems2C0fM1sR"
@@ -12869,7 +12887,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 184515,
       "name": "Mua ei voi pelastaa",
       "url": "https://open.spotify.com/track/47drlryQwQv8K2z0WzP4RZ"
@@ -13807,7 +13825,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 135188,
       "name": "No Good 4 U",
       "url": "https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT"
@@ -14051,7 +14069,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 149673,
       "name": "N\u00e4iden t\u00e4htien alla",
       "url": "https://open.spotify.com/track/4RjP1NfFGbCF4rFY298jnA"
@@ -15375,7 +15393,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 175113,
       "name": "Pohjola",
       "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
@@ -16973,7 +16991,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 184381,
       "name": "Seitsem\u00e4n p\u00e4iv\u00e4\u00e4 selvinp\u00e4in - 40 versio",
       "url": "https://open.spotify.com/track/0ZhvwUhqehBYvnQIif75Iq"
@@ -17731,7 +17749,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -20075,7 +20093,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 185417,
       "name": "T\u00e4\u00e4 tunne",
       "url": "https://open.spotify.com/track/4CUwPg9TWRoXYbPaB5K6oU"

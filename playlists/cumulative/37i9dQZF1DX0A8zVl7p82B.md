@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-219 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
+220 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/1cWqFYI6ySnzsyIBE6xMhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [HERE \(For Christmas\)](https://open.spotify.com/track/1Cth2nNUYYfCiSoIei6rCi) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [HERE \(For Christmas\)](https://open.spotify.com/album/1a8Dr6FUUhI7Z6dqSxS8hA) | 4:00 | 2021-12-24 |  |
 | [Ho Ho Ho](https://open.spotify.com/track/22Vt9E25fsRcQdcUjNTUQr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 | 2021-12-24 | 2022-10-26 |
 | [Ho Ho Ho](https://open.spotify.com/track/7bVtNuuRXxwEvKelw08FB0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:25 | 2021-12-24 | 2022-07-29 |
-| [Holiday Party](https://open.spotify.com/track/29mIEUY4YHQmFyZ2tspe71) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Pick Out A Christmas Tree](https://open.spotify.com/album/5vvy2MDeEzVJc4CvGpPKDu) | 3:01 | 2022-11-30 |  |
+| [Holiday Party](https://open.spotify.com/track/29mIEUY4YHQmFyZ2tspe71) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Pick Out A Christmas Tree](https://open.spotify.com/album/5vvy2MDeEzVJc4CvGpPKDu) | 3:01 | 2022-11-30 | 2022-12-03 |
+| [Holiday Party](https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Holiday Party](https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1) | 3:01 | 2022-12-02 |  |
 | [Holidays](https://open.spotify.com/track/4WsvWaANExEQ5qx2m4TEmr) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Holidays](https://open.spotify.com/album/2Ko5PYRQhXcrfRqFcX8RaY) | 3:05 | 2021-12-24 | 2022-10-26 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-24 |  |
 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 | 2021-12-24 | 2022-10-26 |

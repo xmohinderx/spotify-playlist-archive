@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/2GsJBfIe3vYZBSf0cYGEgc"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201567,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/1duM1mVSV3lJzK5ZMnRgA3"
+    },
+    {
+      "album": {
         "name": "Beautifully Black",
         "url": "https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG"
       },
@@ -593,6 +611,24 @@
       "duration_ms": 295454,
       "name": "Change",
       "url": "https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI"
+    },
+    {
+      "album": {
+        "name": "Charioteer",
+        "url": "https://open.spotify.com/album/4xcXXjKXcm8FaoNwCGMBzP"
+      },
+      "artists": [
+        {
+          "name": "Shirley Hurt",
+          "url": "https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259168,
+      "name": "Charioteer",
+      "url": "https://open.spotify.com/track/2xY3s8F9xrCuSufGjODYok"
     },
     {
       "album": {
@@ -2067,7 +2103,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 186748,
       "name": "Joint Account",
       "url": "https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm"
@@ -3087,7 +3123,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 222312,
       "name": "Problem Child",
       "url": "https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl"
@@ -3149,7 +3185,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 221062,
       "name": "Remember Me For Me",
       "url": "https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8"
@@ -3287,6 +3323,24 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "album": {
+        "name": "Salt Circle",
+        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
+      },
+      "artists": [
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260721,
+      "name": "Salt Circle",
+      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
     },
     {
       "album": {

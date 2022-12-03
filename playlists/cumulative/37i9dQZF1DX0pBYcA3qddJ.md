@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-192 songs - 11 hr 58 min - not published yet
+193 songs - 12 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 | 2022-10-20 |  |
 | [Saihate](https://open.spotify.com/track/1jcSB32MP8GhWnqfLRndIJ) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Saihate](https://open.spotify.com/album/71QVVWnO8BDQIkBLD1U1ex) | 3:44 | 2022-11-08 | 2022-11-23 |
 | [Sanson Yojo](https://open.spotify.com/track/7nZvrHlJNffOsqLQ7ePZn2) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [Landscape in Portrait](https://open.spotify.com/album/24uG3LnJjohdiMMRw2DLfw) | 3:46 | 2022-10-20 | 2022-11-11 |
-| [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-12-01 |  |
+| [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-12-01 | 2022-12-03 |
+| [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2022-12-01 |  |
 | [Savior of the Nations, Come, BWV 659 \(Arr\. for 4 Cellos\)](https://open.spotify.com/track/7Il5v7dknoshlFkQRpIqxm) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Hannah Roberts](https://open.spotify.com/artist/1B14EjyPPZZWctTrY2vXFr), [Ben Davies](https://open.spotify.com/artist/5ODF3ZVZTnK7T3nvPprURU), [Max Ruisi](https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ) | [Song](https://open.spotify.com/album/7oncxQ9LukVa3u0SOTAuWd) | 4:39 | 2022-11-10 | 2022-11-23 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-10-20 |  |
 | [Snow](https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC) | [Tomoya Naka](https://open.spotify.com/artist/16swNvdMD5sQAXlVaHc8Hx) | [Luna e Sole](https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM) | 3:08 | 2022-12-01 |  |

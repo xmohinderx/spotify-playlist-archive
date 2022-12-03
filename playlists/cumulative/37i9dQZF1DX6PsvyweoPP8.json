@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e1 Na Manh\u00e3",
+        "url": "https://open.spotify.com/album/6MFbhRUqBUHqzzKdVPFsPQ"
+      },
+      "artists": [
+        {
+          "name": "Saint Rnb",
+          "url": "https://open.spotify.com/artist/47ah2Gtvo0KX6Ce0H9EuX0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171141,
+      "name": "Ch\u00e1 Na Manh\u00e3",
+      "url": "https://open.spotify.com/track/6V7RkFPhutCifuczPssKls"
+    },
+    {
+      "album": {
         "name": "Ciranda",
         "url": "https://open.spotify.com/album/6YUr9zxYTA3QbXTloydx6Y"
       },

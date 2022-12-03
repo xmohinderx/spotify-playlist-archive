@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume! Cover: <a href="spotify:artist:5Oc4knEQaid8K7AFqO5lHu">Selah Sue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,277 likes - 58 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,290 likes - 58 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 32 | [It Wasn't You](https://open.spotify.com/track/0JXHYz6XBO7E4PepXY67xP) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [Reveal](https://open.spotify.com/album/3vdtu2yxqGsLElDSmwxsmf) | 3:28 |
 | 33 | [Nuit Noire](https://open.spotify.com/track/4w6X673O3mrD1E5pOsDVrb) | [ML](https://open.spotify.com/artist/2zYOYW80qD91lBNQ0i1bH8) | [Nuit Noire](https://open.spotify.com/album/3mRrWcAhFJqqBFhCJqzoa0) | 3:41 |
 | 34 | [Bring the Fire](https://open.spotify.com/track/2Sjxmbe9I2drhMG5sB1jmu) | [AMARI](https://open.spotify.com/artist/2UJ9tfT0cOFGo1FljX1vwM) | [Bring the Fire](https://open.spotify.com/album/7sD3ubWs1fHDN8yzgJzHgO) | 3:23 |
-| 35 | [Cruel](https://open.spotify.com/track/1TBBIjxfN2jJ40ozWsMq7I) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [Cruel](https://open.spotify.com/album/1L62r7h2gFUQPhLpVqI7vN) | 3:10 |
+| 35 | [cruel](https://open.spotify.com/track/1TBBIjxfN2jJ40ozWsMq7I) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [cruel](https://open.spotify.com/album/1L62r7h2gFUQPhLpVqI7vN) | 3:10 |
 | 36 | [Tête brûlée](https://open.spotify.com/track/2WbO03LqBgClR6Cba85lJb) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 4:45 |
 | 37 | [illusion](https://open.spotify.com/track/0p5wnvG3ofWkm5MDraDX6h) | [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [illusion](https://open.spotify.com/album/6vF1DfRn78Kt7kzUELpxJH) | 3:20 |
 | 38 | [Insomnia](https://open.spotify.com/track/3U4Iw0HIxAU1dnQovOAFbJ) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [Insomnia](https://open.spotify.com/album/2O7c8e5lIKeLvXZCWSGHcN) | 3:23 |

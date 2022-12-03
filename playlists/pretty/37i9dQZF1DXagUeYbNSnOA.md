@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Latin this year\. Cover: Estevie \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,136 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,174 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 24 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
 | 25 | [No Me Quieras Tanto](https://open.spotify.com/track/2Nde4gcLvyDoy5Fw1UULOl) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Me Quieras Tanto](https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO) | 3:34 |
 | 26 | [Esto me pertenece](https://open.spotify.com/track/6FKcOmJVNmAq4OsuB4FtLV) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Esto me pertenece](https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9) | 4:35 |
-| 27 | [To' Los Días](https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [To' Los Días](https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI) | 3:38 |
-| 28 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 |
+| 27 | [Money](https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Money](https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P) | 2:33 |
+| 28 | [To' Los Días](https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [To' Los Días](https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI) | 3:38 |
 | 29 | [Escaparnos](https://open.spotify.com/track/3XA8AUMd7XzjcDKM8OYKvp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Escaparnos](https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7) | 3:25 |
 | 30 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 |
 | 31 | [Bby Grl](https://open.spotify.com/track/6w0JTilwoLz5xwTWPSeuf0) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [Bby Grl](https://open.spotify.com/album/43uszYWNYyigwvqIMVulL9) | 2:46 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 33 | [Medusa](https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Medusa](https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G) | 4:07 |
 | 34 | [VA HABLAR](https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [HUGITO](https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU) | 2:27 |
 | 35 | [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 |
-| 36 | [Mensaje](https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Mensaje](https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8) | 2:52 |
-| 37 | [piano, piano](https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [piano, piano](https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7) | 2:21 |
-| 38 | [Acércate](https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1) | [iLLGrindio](https://open.spotify.com/artist/3ou2XazR60t7BJGYCdwZPR), [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl), [S.A.B.O.R.](https://open.spotify.com/artist/6ByRR3G4Bzmt0sP3X1VDOF) | [Acércate](https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s) | 3:15 |
+| 36 | [piano, piano](https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [piano, piano](https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7) | 2:21 |
+| 37 | [Acércate](https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1) | [iLLGrindio](https://open.spotify.com/artist/3ou2XazR60t7BJGYCdwZPR), [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl), [S.A.B.O.R.](https://open.spotify.com/artist/6ByRR3G4Bzmt0sP3X1VDOF) | [Acércate](https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s) | 3:15 |
+| 38 | [Mensaje](https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Mensaje](https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8) | 2:52 |
 | 39 | [dices](https://open.spotify.com/track/1k0o4QwCNf3Fv5Bspwze13) | [San Marcos](https://open.spotify.com/artist/5Lr96GHiv4KqLl2IvpPouE) | [dices](https://open.spotify.com/album/1G9Ci35tCN4zZLtitXNe7c) | 3:20 |
 | 40 | [Amuleto](https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Amuleto](https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG) | 3:38 |
 | 41 | [Espejos](https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Lo que no ves](https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW) | 2:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 46 | [Quédate](https://open.spotify.com/track/61R9b6bR0ikp0ezhjJ0AtL) | [Gala Brie](https://open.spotify.com/artist/1QiR1T9GDuS9E5hrxbkLbE) | [Quédate](https://open.spotify.com/album/0SWw8wLHOkel2D5H1Y5pFo) | 3:58 |
 | 47 | [Chance](https://open.spotify.com/track/6JdoUwgvZFCCiIDapXqax4) | [SANT1](https://open.spotify.com/artist/7u00EoTTmN7RJWLblmgxlK) | [Chance](https://open.spotify.com/album/3xwgOghwfxD3lzpqgu1w3j) | 3:02 |
 | 48 | [Madrid](https://open.spotify.com/track/1330i3UvrgEgBJXEPPO3ba) | [Jesse Chacón](https://open.spotify.com/artist/55sk6MAN847i5rUk9jpxO3), [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Madrid](https://open.spotify.com/album/7H5rIPaAVi5xBvqcq77a7a) | 2:51 |
-| 49 | [Jardin de Rosas](https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C) | [Ramona Vee](https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B) | [Jardin de Rosas](https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR) | 3:22 |
-| 50 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
+| 49 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 |
+| 50 | [Jardin de Rosas](https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C) | [Ramona Vee](https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B) | [Jardin de Rosas](https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR) | 3:22 |
 
-Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMGQyZTQzYzE4NTFjMjEzYzA3NDFlNGY5NjA0MTI0MGU2`
+Snapshot ID: `MTY2OTgyMjYxNiwwMDAwMDAwMDUxYTJhNjJmNzFjNGEzNjQyYWQ4Y2UxYWJhYmQ0NmVi`

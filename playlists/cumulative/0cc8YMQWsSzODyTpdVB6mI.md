@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-104 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+105 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 | 2022-08-06 |
 | [Alleviate](https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Alleviate](https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD) | 3:31 | 2022-08-05 | 2022-11-05 |
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 | 2022-10-11 |
+| [Away](https://open.spotify.com/track/3AUVgd5EWkAGDzqrKR36DN) | [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF), [Max Wheeler](https://open.spotify.com/artist/3VfVPS04066laDWCxcVe1j) | [Away](https://open.spotify.com/album/0hhqR9E19JXrsqF2EjPUNc) | 3:37 | 2022-12-02 |  |
 | [Azibi](https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c) | [Record Club](https://open.spotify.com/artist/4cArYfwQ0BrfSEhaDwhVYQ) | [Azibi](https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL) | 3:52 | 2022-09-09 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 | 2022-10-04 |
 | [Besserwisser](https://open.spotify.com/track/0TP6kkEvdHXoRWAhW8Urva) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [Besserwisser](https://open.spotify.com/album/4Dh6k3ofE42IeCCpPQhB5K) | 3:35 | 2022-10-28 |  |
@@ -24,7 +25,7 @@
 | [Dead Ideas](https://open.spotify.com/track/6kcBkp3vklsEdkoX4UowB4) | [Don't Connect](https://open.spotify.com/artist/7MMXoJIkvbJwm7kugu3gmt), [Flyboy Jetty](https://open.spotify.com/artist/76bn42h0a8NQKoqPOuzHFM) | [Dead Ideas](https://open.spotify.com/album/261FxBzquUe3fSrhoJmpzl) | 3:18 | 2022-04-01 | 2022-06-11 |
 | [Deezy Daisy \- Oxford Remix](https://open.spotify.com/track/5EHEEtGjuDstWdlPJk8aiY) | [Portland](https://open.spotify.com/artist/3t56cz9dhL53ioNIZFCDBo), [Oxford](https://open.spotify.com/artist/0RcOhppBdwj9IPV5ByDV8X) | [Kitsuné: Deezy Daisy \(Remixes\)](https://open.spotify.com/album/3xct0okCH1yFJPQ7Sc1iU2) | 4:27 | 2021-11-05 |  |
 | [Denouement](https://open.spotify.com/track/4ml7mrfUUxg8VtLwnu38nr) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [eisenach](https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7) | [Denouement](https://open.spotify.com/album/4OM9A1NtnL1vVCuPMj8gfT) | 3:12 | 2021-11-05 |  |
-| [DO MAR](https://open.spotify.com/track/0ra2NmkSqQzmRE5DUdNUTb) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [DO MAR](https://open.spotify.com/album/1Gdc4ABDwkAAPO6UP3cY7Q) | 2:42 | 2022-09-07 |  |
+| [DO MAR](https://open.spotify.com/track/0ra2NmkSqQzmRE5DUdNUTb) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [DO MAR](https://open.spotify.com/album/1Gdc4ABDwkAAPO6UP3cY7Q) | 2:42 | 2022-09-07 | 2022-12-03 |
 | [Does the Magic Spin?](https://open.spotify.com/track/00DVwBTumBG1dH9OYMDolv) | [POCKET](https://open.spotify.com/artist/55xouRrT7A66F3oitgm0Yw) | [Does the Magic Spin?](https://open.spotify.com/album/1bNKiavjNgYlbJudcRX3Kg) | 3:00 | 2022-06-17 | 2022-09-06 |
 | [Don't Let Me Down](https://open.spotify.com/track/6eowOvcJ7v9OAMzzt9HhPG) | [Mateyo](https://open.spotify.com/artist/0B0O3zN1qA3VmxGoF7sHiE), [Rashaad Dailey](https://open.spotify.com/artist/44jle8k8LxfWM00MnfUbQA) | [Don't Let Me Down](https://open.spotify.com/album/2p3hX6CPLy6Sbk7SExyrq4) | 2:51 | 2022-10-21 |  |
 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 | 2021-11-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25106,
+  "num_followers": 25113,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDdhNmY2ODQ2NGY0MTk1NDAzM2IzN2NiNzU0NzgwMjU3",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDJhMzc5MDA5NTI3MTEzN2E1YjA1Yzg0Mzk3MjQyYzBh",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Lapointe 1994-2006 N'importe qui",
-        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
-      },
-      "artists": [
-        {
-          "name": "\u00c9ric Lapointe",
-          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "La bartendresse",
-      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Rendez-vous doux",
         "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Une femme avec toi - Single",
-        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
+        "name": "Lapointe 1994-2006 N'importe qui",
+        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
       },
       "artists": [
         {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+          "name": "\u00c9ric Lapointe",
+          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
         }
       ],
-      "duration_ms": 263520,
-      "name": "Une femme avec toi",
-      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
+      "duration_ms": 246333,
+      "name": "La bartendresse",
+      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -399,6 +383,22 @@
       "duration_ms": 225426,
       "name": "Faire la paix avec l'amour",
       "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Une femme avec toi - Single",
+        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Une femme avec toi",
+      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -451,38 +451,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
-      },
-      "artists": [
-        {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "C'est z\u00e9ro",
-      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
-        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
-      },
-      "artists": [
-        {
-          "name": "Bruno Pelletier",
-          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Le temps des cath\u00e9drales",
-      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Rendez-vous doux",
         "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
@@ -499,6 +467,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
+      },
+      "artists": [
+        {
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "C'est z\u00e9ro",
+      "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Parlez-moi de lui - Single",
         "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 200760,
       "name": "Parlez-moi de lui",
       "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
+        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Pelletier",
+          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Le temps des cath\u00e9drales",
+      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "1992-2002 tout...",
-        "url": "https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC"
-      },
-      "artists": [
-        {
-          "name": "Dan Bigras",
-          "url": "https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Tue-moi",
-      "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Tant qu'il y aura des enfants",
         "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 438840,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/1UX0cAfJoC2mkPCbCxrKh3"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "1992-2002 tout...",
+        "url": "https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC"
+      },
+      "artists": [
+        {
+          "name": "Dan Bigras",
+          "url": "https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Tue-moi",
+      "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Marie-Chantal Toupin",
-        "url": "https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs"
-      },
-      "artists": [
-        {
-          "name": "Marie-Chantal Toupin",
-          "url": "https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Comment j'pourrais te l'dire",
-      "url": "https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Best of Herbert L\u00e9onard",
         "url": "https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 272746,
       "name": "Flagrant d\u00e9lit",
       "url": "https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Marie-Chantal Toupin",
+        "url": "https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs"
+      },
+      "artists": [
+        {
+          "name": "Marie-Chantal Toupin",
+          "url": "https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Comment j'pourrais te l'dire",
+      "url": "https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Incognito",
-        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Volume un",
         "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 204493,
       "name": "Je reviendrai \u00e0 montr\u00e9al",
       "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
       },
       "artists": [
         {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
         }
       ],
-      "duration_ms": 244933,
-      "name": "La berceuse du petit diable",
-      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
+      "duration_ms": 224506,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
       },
       "artists": [
         {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
         }
       ],
-      "duration_ms": 224506,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
+      "duration_ms": 244933,
+      "name": "La berceuse du petit diable",
+      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
     },
     {
       "added_at": "2020-04-07 15:18:18",

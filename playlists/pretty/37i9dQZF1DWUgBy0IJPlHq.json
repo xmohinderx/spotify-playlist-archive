@@ -1,32 +1,44 @@
 {
-  "description": "The soundtrack for your road trips, campfires, and keeping you busy in between episodes of Yellowstone. Curated by Yellowstone music supervisor, Andrea von Foerster. Cover: Drayton Farley",
-  "num_followers": 407484,
+  "description": "A new shade of Country. Cover: Elle King",
+  "num_followers": 407575,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDhhNDg5OGE0OWEwZWI1Y2Q4ODExMWE5NzU4MmVhMjM5",
+  "snapshot_id": "MTY2OTk5Nzg4NCwwMDAwMDAwMDM5YzcwZmUwYWY2YWFmOGE1MzdkMzFmYjIyYTY0MTU3",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Long Time Coming",
-        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
+        "name": "High Top Mountain",
+        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 255440,
-      "name": "Bells Of Every Chapel [Feat. Billy Strings]",
-      "url": "https://open.spotify.com/track/2ckXdMhlCVl2bzWjAD0BqX"
+      "duration_ms": 126466,
+      "name": "Life Ain't Fair and the World Is Mean",
+      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -43,6 +55,42 @@
       "duration_ms": 268856,
       "name": "Burn, Burn, Burn",
       "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
+    },
+    {
+      "added_at": "2022-12-02 16:18:04",
+      "album": {
+        "name": "Crooked Tree (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 212251,
+      "name": "Dire Wolf - Bonus Track",
+      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Can I Take My Hounds to Heaven?",
+        "url": "https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Way of the Triune God - Jubilee Version",
+      "url": "https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -75,6 +123,26 @@
       "duration_ms": 227366,
       "name": "Pitchin' fits",
       "url": "https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Long Time Coming",
+        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 255440,
+      "name": "Bells Of Every Chapel [Feat. Billy Strings]",
+      "url": "https://open.spotify.com/track/2ckXdMhlCVl2bzWjAD0BqX"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -143,22 +211,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 190619,
-      "name": "If I May Be So Bold",
-      "url": "https://open.spotify.com/track/6tVvfvsV7aIhTwKGy6c9R7"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL"
       },
@@ -191,26 +243,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "All of My Love",
-        "url": "https://open.spotify.com/album/09GlWNlMfUNVedsw9So3JR"
+        "name": "The Greatest Day of My Life",
+        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
       },
       "artists": [
         {
-          "name": "Senora May",
-          "url": "https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD"
-        },
-        {
-          "name": "Chloe Edmonstone",
-          "url": "https://open.spotify.com/artist/6kgVWfXC4jGyad7xT5EKp3"
-        },
-        {
-          "name": "Seth Avett",
-          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 240170,
-      "name": "Intertwine",
-      "url": "https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD"
+      "duration_ms": 238624,
+      "name": "The Greatest Day of My Life",
+      "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -251,6 +295,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 190619,
+      "name": "If I May Be So Bold",
+      "url": "https://open.spotify.com/track/6tVvfvsV7aIhTwKGy6c9R7"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "From A Room: Volume 1",
         "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
       },
@@ -268,7 +328,7 @@
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf"
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
       },
       "artists": [
         {
@@ -278,39 +338,7 @@
       ],
       "duration_ms": 193853,
       "name": "This One's Gonna Cost Me",
-      "url": "https://open.spotify.com/track/72YJsct5l2rGUVfMzWeTmz"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "High Top Mountain",
-        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 126466,
-      "name": "Life Ain't Fair and the World Is Mean",
-      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Can I Take My Hounds to Heaven?",
-        "url": "https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Way of the Triune God - Jubilee Version",
-      "url": "https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS"
+      "url": "https://open.spotify.com/track/3wnrKK7mvADKAyX23SI01F"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -343,38 +371,6 @@
       "duration_ms": 163626,
       "name": "Using Again",
       "url": "https://open.spotify.com/track/6TQzLEc2mFHyZ4eYXu50ma"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Jersey Giant",
-        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "The Greatest Day of My Life",
-        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 238624,
-      "name": "The Greatest Day of My Life",
-      "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -443,22 +439,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "When It's My Time",
-        "url": "https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 273293,
-      "name": "When It's My Time",
-      "url": "https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -507,6 +487,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -523,22 +519,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Ain't a Day Goes By",
-        "url": "https://open.spotify.com/album/1JTRsrFrlm39gUqQMvhJNJ"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Ain't a Day Goes By",
-      "url": "https://open.spotify.com/track/5QvCKK52a348z920a2fH3X"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -551,6 +531,22 @@
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Ain't a Day Goes By",
+        "url": "https://open.spotify.com/album/1JTRsrFrlm39gUqQMvhJNJ"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Ain't a Day Goes By",
+      "url": "https://open.spotify.com/track/5QvCKK52a348z920a2fH3X"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -611,22 +607,6 @@
       "duration_ms": 221302,
       "name": "Dooley's Farm (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -875,6 +855,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "When It's My Time",
+        "url": "https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "When It's My Time",
+      "url": "https://open.spotify.com/track/2HKTn21q37EC4EibvaoEzg"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "I Walked With You A Ways",
         "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
@@ -931,6 +927,30 @@
       "duration_ms": 228431,
       "name": "This Time",
       "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "All of My Love",
+        "url": "https://open.spotify.com/album/09GlWNlMfUNVedsw9So3JR"
+      },
+      "artists": [
+        {
+          "name": "Senora May",
+          "url": "https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD"
+        },
+        {
+          "name": "Chloe Edmonstone",
+          "url": "https://open.spotify.com/artist/6kgVWfXC4jGyad7xT5EKp3"
+        },
+        {
+          "name": "Seth Avett",
+          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
+        }
+      ],
+      "duration_ms": 240170,
+      "name": "Intertwine",
+      "url": "https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD"
     },
     {
       "added_at": "2022-11-25 05:00:00",

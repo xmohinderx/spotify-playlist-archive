@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 
 > Best Anime Songs in 2022! 2022年の<a href="spotify:user:spotify:playlist:37i9dQZF1DWT8aqnwgRt92">Anime Now</a>総まとめ！今年Anime Nowで再生された楽曲ベスト50! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,651 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,236 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

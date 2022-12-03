@@ -516,6 +516,28 @@
     },
     {
       "album": {
+        "name": "Deja Su Lugar",
+        "url": "https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4"
+      },
+      "artists": [
+        {
+          "name": "La Triple Nelson",
+          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Deja Su Lugar",
+      "url": "https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp"
+    },
+    {
+      "album": {
         "name": "Dejo Atr\u00e1s",
         "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
       },
@@ -2185,7 +2207,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 292400,
       "name": "Y Quem\u00e1s",
       "url": "https://open.spotify.com/track/499kpq8yWHsIWhWrM0Wk6v"

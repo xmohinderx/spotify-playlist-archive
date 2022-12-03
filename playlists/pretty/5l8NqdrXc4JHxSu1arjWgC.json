@@ -6,7 +6,7 @@
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTY4Miw2MDcxMzA2ZmIyZDhiOGMwNmMzNDFjYzk3NTViOWUwNDNjZTYyZGVj",
+  "snapshot_id": "MTY4MyxlNDBkM2VjNGJiNmZmNmJiOTZiNTcxMTg2YTdkZWYyM2U0ZDRmMWYw",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -6485,7 +6485,7 @@
         }
       ],
       "duration_ms": 206773,
-      "name": "Would? (2022 Remaster)",
+      "name": "Would?",
       "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
     },
     {
@@ -10679,6 +10679,30 @@
       "duration_ms": 364599,
       "name": "Magenta Mountain",
       "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "added_at": "2022-12-02 19:21:38",
+      "album": {
+        "name": "Superstate (feat. Graham Coxon)",
+        "url": "https://open.spotify.com/album/265K7BOpojsq3RvCVbjz1z"
+      },
+      "artists": [
+        {
+          "name": "Superstate",
+          "url": "https://open.spotify.com/artist/0TLcN68jey7bYM2HQEdRgi"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        },
+        {
+          "name": "Rahel Debebe-Dessalegne",
+          "url": "https://open.spotify.com/artist/2SDNXRQ8uX3TJxu4t6EEO3"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "It's All In Your Mind (feat. Graham Coxon & Rahel Debebe-Dessalegne)",
+      "url": "https://open.spotify.com/track/0GybSKd5oGeLMtCLbXhBoQ"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

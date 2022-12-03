@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds GSA this year\. Cover: BEACHPEOPLE
 
-549 songs - 1 day 8 hr 5 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
+550 songs - 1 day 8 hr 9 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,8 +348,9 @@
 | [Oh Mother](https://open.spotify.com/track/2BnFCwgtDGrjCGv9DD3fHj) | [Lightning Jules](https://open.spotify.com/artist/1Ie9Bw7eOO2d3qys5lWxc0), [nlly](https://open.spotify.com/artist/0Z2Y5M9xKm0hhGvF7JbTnT) | [Oh Mother](https://open.spotify.com/album/3ohZw0qtwf9EfDzkDdQw0l) | 2:58 | 2022-05-11 | 2022-06-09 |
 | [Ohne Benzin](https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ohne Benzin](https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0) | 2:35 | 2022-03-07 | 2022-07-07 |
 | [Okay Girl](https://open.spotify.com/track/0aJghh7Rgn6gYaq9tNYKt8) | [DiorSabe](https://open.spotify.com/artist/5pk31A3blc0OdY2cXoiJBz) | [Okay Girl](https://open.spotify.com/album/1dWLdlt24991OvhzrfRYqk) | 2:51 | 2022-08-03 | 2022-10-27 |
+| [Omio](https://open.spotify.com/track/0dXIJKxgcT1ljG7OSL8b5T) | [Minorhead](https://open.spotify.com/artist/2FDOvmtiAK4BuVglzeIZXB) | [Omio](https://open.spotify.com/album/3q7AqTZY8CWWjZgL2hkrcK) | 4:09 | 2022-11-30 |  |
 | [Omio](https://open.spotify.com/track/1lSvDlQwPxcAwhHjtePBpN) | [Minorhead](https://open.spotify.com/artist/2FDOvmtiAK4BuVglzeIZXB) | [Omio](https://open.spotify.com/album/4c6FNJfvbkg9MnlYr14ufj) | 4:09 | 2022-03-07 | 2022-08-25 |
-| [Omio](https://open.spotify.com/track/54NqnZFMlBxcViKm8nUdEN) | [Minorhead](https://open.spotify.com/artist/2FDOvmtiAK4BuVglzeIZXB) | [Am I in Your Head](https://open.spotify.com/album/16ifbq3rMLuSRaCAVOWk6y) | 4:09 | 2022-11-30 |  |
+| [Omio](https://open.spotify.com/track/54NqnZFMlBxcViKm8nUdEN) | [Minorhead](https://open.spotify.com/artist/2FDOvmtiAK4BuVglzeIZXB) | [Am I in Your Head](https://open.spotify.com/album/16ifbq3rMLuSRaCAVOWk6y) | 4:09 | 2022-11-30 | 2022-12-03 |
 | [One Drip Two Drip](https://open.spotify.com/track/1Vf3A4TbzYfOKOoca2Tcsc) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [One Drip Two Drip](https://open.spotify.com/album/3hzMytDAg3VY44vrnaFa1R) | 2:52 | 2022-06-01 | 2022-07-28 |
 | [One Life](https://open.spotify.com/track/1YKLEgIwUnkalYonhLmoSS) | [SEDA](https://open.spotify.com/artist/6ewL4sBYp6iLnHGupcyyX3) | [somewhere in between](https://open.spotify.com/album/3TNaHETPfnG9uHHK2ve6i5) | 3:55 | 2022-06-29 | 2022-10-27 |
 | [Oscar](https://open.spotify.com/track/2pfXHPxobuMW7nBI9kdDqp) | [Alocasia](https://open.spotify.com/artist/3TCLgIPS0q3UkDdCKXnQ4a) | [Oscar](https://open.spotify.com/album/4nApkidYbHJiF9qpHLFWYr) | 3:06 | 2022-08-10 | 2022-10-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "That real hip-hop. Cover: Ab-Soul",
+  "description": "That real hip-hop. Cover: 38 Spesh",
   "name": "Mind Right",
   "published_playlist_ids": [
     "3aBEPaCmxnNZhkIPP42r3z"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 167223,
       "name": "Blackest in the Room",
       "url": "https://open.spotify.com/track/5whawbmOtjIogkTeWv8PW3"
@@ -2294,6 +2294,32 @@
     },
     {
       "album": {
+        "name": "God Flows",
+        "url": "https://open.spotify.com/album/7ERW7lfTmuvNvgCLOqjZpY"
+      },
+      "artists": [
+        {
+          "name": "R-Mean",
+          "url": "https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP"
+        },
+        {
+          "name": "Justin Credible",
+          "url": "https://open.spotify.com/artist/1YY4eLmCC90sflG3VHn7Qy"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219940,
+      "name": "God Flows",
+      "url": "https://open.spotify.com/track/14wrStF74l3HwpvgIMyCPU"
+    },
+    {
+      "album": {
         "name": "Book of David",
         "url": "https://open.spotify.com/album/0TCbEBrufEVNfgThlJooIo"
       },
@@ -3507,7 +3533,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 266345,
       "name": "Money",
       "url": "https://open.spotify.com/track/5050y1NZdlMdTKMLNWv4nl"
@@ -4549,6 +4575,28 @@
       "duration_ms": 91406,
       "name": "Robert Horry Freestyle",
       "url": "https://open.spotify.com/track/1YqWbETAgGG8sKS5yEFDHB"
+    },
+    {
+      "album": {
+        "name": "Rose Gold Rolies",
+        "url": "https://open.spotify.com/album/3hGD5PvepQpxtVypyIPaJl"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182883,
+      "name": "Rose Gold Rolies",
+      "url": "https://open.spotify.com/track/5fmAEJamWlGXAVu7K1pLuR"
     },
     {
       "album": {

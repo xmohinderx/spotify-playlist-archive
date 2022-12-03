@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-413 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+414 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bass Drama](https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi) | [Hubwar](https://open.spotify.com/artist/5nR6SzYpEXdbRHRAJIO4aZ) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:20 | 2022-02-17 |  |
 | [Bawl Out](https://open.spotify.com/track/2lAWlPQRlAAG0dO9b1Q6k6) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [Hatched 10](https://open.spotify.com/album/0svpF8ZTD5pSiOPD2nwSpi) | 4:24 | 2022-02-17 | 2022-04-21 |
 | [Bear Witness](https://open.spotify.com/track/7gbJSuanWAq7mnDVuuawDG) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Scuba Presents Hotflush, Vol\. 5: Post Dub \(2009 \- 2011\)](https://open.spotify.com/album/1PyEkMY8ugjbWI2GvhTuGE) | 6:19 | 2022-02-17 | 2022-04-21 |
-| [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 | 2022-12-01 |
+| [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 |  |
 | [Bhuta](https://open.spotify.com/track/3n5KOTr85y3NOdDPmMIFD9) | [Sabasonik](https://open.spotify.com/artist/1bJVUQC8Ag7LR15xEJS45G) | [Taala / Bhuta](https://open.spotify.com/album/4hDqxbvHFRRTGPQFFmI6Wi) | 3:52 | 2022-02-17 | 2022-07-30 |
 | [Big Boi](https://open.spotify.com/track/4nJ7HHtJat66JqV8Oa6Tlv) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL) | [Big Boi](https://open.spotify.com/album/21cs74Puy6O94G398bJ6jb) | 4:53 | 2022-02-17 | 2022-06-30 |
 | [Big Sound](https://open.spotify.com/track/6AwqqoSLwFSHHEsh4wB3id) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj) | 4:39 | 2022-02-17 | 2022-07-29 |
@@ -176,6 +176,7 @@
 | [Juan40](https://open.spotify.com/track/2mLnO19YpsMZ7KOdsBWMi5) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Juan40](https://open.spotify.com/album/2xPmwMIOGyWFwK99q4YKou) | 4:13 | 2022-07-08 | 2022-11-19 |
 | [Juce](https://open.spotify.com/track/199zSCFLQLcXyY9Zgxfp7p) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/1BrXQYAL1k8owmS9OUf1zK) | 5:12 | 2022-07-08 | 2022-07-30 |
 | [Juce](https://open.spotify.com/track/1YLCRZDFbNNdBJc53jUfF9) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/6Quzmmpf3RmbIWPzRIYXsd) | 5:12 | 2022-02-17 | 2022-07-27 |
+| [Juggernaut](https://open.spotify.com/track/264EGoBnQlgF4mZb2yMztM) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Kyral X Banko](https://open.spotify.com/artist/2PLa4ADUFioknBIegBIZiY) | [Juggernaut](https://open.spotify.com/album/5OHMbs84fjN7Et1KU4Gr11) | 3:06 | 2022-12-02 |  |
 | [Jupiter](https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD), [JLEON](https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6) | [Jupiter](https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN) | 4:41 | 2022-11-11 |  |
 | [Just 9](https://open.spotify.com/track/6UnDwA5llAiBExm9nlqato) | [Content](https://open.spotify.com/artist/14PVoXMAznefQRGFVrBRAA), [Krudkutter](https://open.spotify.com/artist/4uacqKlQmCHQz7VWgt0qKQ) | [ENC018](https://open.spotify.com/album/6hhZw4V8DX3FRilPlX92IX) | 4:06 | 2022-02-17 | 2022-07-28 |
 | [Justice](https://open.spotify.com/track/3CFoYq5cPKpGyIralOL9Hv) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR) | [Justice](https://open.spotify.com/album/3hleBq4VrHXrh1sosMD3qR) | 5:07 | 2022-02-17 | 2022-06-11 |
@@ -187,7 +188,7 @@
 | [Kopstoot \- Hebbe Remix](https://open.spotify.com/track/1Eey1ZEf4hXRAOvJLQOAK2) | [Sweepa](https://open.spotify.com/artist/0mfu0QSlPDMgCNNskqdDDY), [Francesco Paolo Tosti](https://open.spotify.com/artist/4JMye18gQjYis7boz7XWyC), [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Kopstoot \(Hebbe remix\)](https://open.spotify.com/album/3gvAGT8z2rrPTZkRgwFgEz) | 4:27 | 2022-02-17 | 2022-07-26 |
 | [Kula Kula \- The Widdler Remix](https://open.spotify.com/track/74EvryuRQteh7iK4OOyKYv) | [Pushloop](https://open.spotify.com/artist/4FgEa4SLDSV3oGpaFvlZi9), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Midnight Wax](https://open.spotify.com/album/2JMJL7VIJZcZQjffjjwnVJ) | 4:48 | 2022-02-17 |  |
 | [Lana](https://open.spotify.com/track/0mnUXaOHyLDnhJ34qllbKB) | [Oxossi](https://open.spotify.com/artist/33KoTOB6gxLIYPsAfkPx9z), [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Lana](https://open.spotify.com/album/1JgqOngNc6aP7LPCsWUfWC) | 3:51 | 2022-11-11 |  |
-| [Lankershim Stroll](https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/4hsPWLX9kUyCecLp2BsNIj) | 5:03 | 2022-07-08 |  |
+| [Lankershim Stroll](https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/4hsPWLX9kUyCecLp2BsNIj) | 5:03 | 2022-07-08 | 2022-12-03 |
 | [Lankershim Stroll](https://open.spotify.com/track/7bgsXfDhYf7ueIUJwTG6q5) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/0BN2Z3kViWJevgBmZ5nSSG) | 5:03 | 2022-02-17 | 2022-07-29 |
 | [Lark Ascending](https://open.spotify.com/track/5gOTLdE7dwmGFhaXhUko1u) | [Geode](https://open.spotify.com/artist/4tGSBDIaOYKNt0xhYjtdQd) | [Geode Selection](https://open.spotify.com/album/2q6m3cqBB8nU6MEC17QGx8) | 5:07 | 2022-02-17 |  |
 | [Latter](https://open.spotify.com/track/3dXRUF6hOOjrhEJrRR7r3R) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet), [Surge](https://open.spotify.com/artist/2hs3oToysI1GJJi8lS80ac) | [The Trial](https://open.spotify.com/album/2jt66gHlgZnYPfxpikMaV5) | 5:22 | 2022-02-17 | 2022-07-29 |
@@ -241,7 +242,7 @@
 | [NASDAQ](https://open.spotify.com/track/6QTPOefo84L0naOFmEYurX) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/0nBnyyGbsT81K2qT4GuSgG) | 3:17 | 2022-02-17 |  |
 | [Natural Charge](https://open.spotify.com/track/3HxOGz0yCfDS8RCWqZbTNj) | [Loefah](https://open.spotify.com/artist/1ICQEDALtLouPV8yEaJXVb) | [Natural Charge / Crack Bong Rmx](https://open.spotify.com/album/2lr9scpJPuoQs9XFbIMZQI) | 4:30 | 2022-02-17 | 2022-04-29 |
 | [Neurological](https://open.spotify.com/track/6O0t3Pm3HcVbuR6SokUXby) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Vibrations](https://open.spotify.com/album/34E1kgCm1PZ6y0jdyGVXtc) | 4:34 | 2022-02-17 |  |
-| [Night Flight](https://open.spotify.com/track/46lWKeYyIQN7F3OnZqjFMb) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Night Flight](https://open.spotify.com/album/2BkHRyI4EYoEQUcOKCNbGT) | 4:22 | 2022-02-17 |  |
+| [Night Flight](https://open.spotify.com/track/46lWKeYyIQN7F3OnZqjFMb) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Night Flight](https://open.spotify.com/album/2BkHRyI4EYoEQUcOKCNbGT) | 4:22 | 2022-02-17 | 2022-12-03 |
 | [Noid](https://open.spotify.com/track/4nGups0fUicg4Khw30jXSx) | [Noer the Boy](https://open.spotify.com/artist/4PD6K1K2nNk6xIpFhtoSMT) | [Noid](https://open.spotify.com/album/6NBCoOBu1Wm9PfDGNS7mVu) | 3:41 | 2022-02-17 | 2022-09-11 |
 | [Norman](https://open.spotify.com/track/536U728aadWGV86KDvQs0m) | [p0gman](https://open.spotify.com/artist/3cw7SynPNBpGg16PRXJI2I) | [Norman](https://open.spotify.com/album/2EamMa2jk8G9CstjDqn8Aa) | 3:15 | 2022-02-17 | 2022-10-20 |
 | [Nostromo](https://open.spotify.com/track/1iuqxIMSa51b3XIt8PXyxn) | [Zygos](https://open.spotify.com/artist/7555FTON3X5sDFo7SD2W4o) | [Erf](https://open.spotify.com/album/58gNWJByyRMwUJ8a0gR244) | 3:39 | 2022-02-17 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,577 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,665 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 46 | [Real Love \- Sak Noel, Salvi & Franklin Dam Remix](https://open.spotify.com/track/21LO2b29sLEypeJFXWqEQl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Real Love \(Sak Noel, Salvi & Franklin Dam Remix\)](https://open.spotify.com/album/762BWVMk6By89MAXZNCM20) | 2:32 |
 | 47 | [Mesera](https://open.spotify.com/track/0DJCGoZodGjfEz5TUOJLKc) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Mesera](https://open.spotify.com/album/5XyrI2rounQVQaxybEYmea) | 4:17 |
 | 48 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 |
-| 49 | [Si Es Trucho Es Trucho \(feat\. Farruko and El Alfa\) \- Remix](https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Si Es Trucho Es Trucho \(feat\. Farruko and El Alfa\) \[Remix\]](https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX) | 3:33 |
+| 49 | [Si Es Trucho Es Trucho \(feat\. Farruko & El Alfa\) \- Remix](https://open.spotify.com/track/79TmKWcU3YfyqkmE34pCRr) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Si Es Trucho Es Trucho \(feat\. Farruko & El Alfa\) \[Remix\]](https://open.spotify.com/album/59639HF0Gv2YA57xkJ28NC) | 3:33 |
 | 50 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 | 51 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 |
 | 52 | [Salio Pa Guarachar](https://open.spotify.com/track/2t0ObwmBnS7UuefeVSC3IF) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [MC Killer](https://open.spotify.com/artist/6O5pykCTn1t2hp3fL6j1aE) | [Salio Pa Guarachar](https://open.spotify.com/album/6dcaUkqrJyMIdrUitMygdx) | 4:15 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 72 | [Perdiendo El Control](https://open.spotify.com/track/02Zu3RK6EJdJA5MqgkN5iX) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC) | [Perdiendo El Control](https://open.spotify.com/album/48GzWmYraDHofGXOhtMlx4) | 3:04 |
 | 73 | [Drifting & Burning](https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 2:50 |
 
-Snapshot ID: `MTY1NDI4Nzg0NSwwMDAwMDAwMGQ0MTk0OTZmNjU2YzFkNTcxMDkyZmYwMDMxYmQ4ZmRh`
+Snapshot ID: `MTY1NDI4Nzg0NSwwMDAwMDAwMGM1M2U4NmYxMzc1N2M3NmY0NTZjN2RhOGQ3YzA0YWE4`

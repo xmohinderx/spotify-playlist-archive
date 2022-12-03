@@ -2117,7 +2117,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 177710,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO"
@@ -2707,7 +2707,7 @@
           "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         }
       ],
-      "date_added": "2022-11-29",
+      "date_added": "2022-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247680,
@@ -2793,6 +2793,32 @@
       "duration_ms": 142921,
       "name": "YOUNG PREACHER",
       "url": "https://open.spotify.com/track/76aQdQbQYLUAp3I7ywE1jx"
+    },
+    {
+      "album": {
+        "name": "Your Waist",
+        "url": "https://open.spotify.com/album/6hnoe77FhbYGe73vGOvBVo"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205794,
+      "name": "Your Waist",
+      "url": "https://open.spotify.com/track/2QKkkwmfTUA71dfLnMES9P"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N"

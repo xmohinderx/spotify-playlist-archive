@@ -1,13 +1,117 @@
 {
-  "description": "New Rock driving the current, every week. Cover: James Mantis\n",
-  "num_followers": 18977,
+  "description": "New Rock driving the current, every week. Cover: DE'WAYNE\n",
+  "num_followers": 19037,
   "original_name": "Rock Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTQwMTQwOCwwMDAwMDAwMDJlMmQzMDQyYjUzNWZjNTdmZTI4NWIzOGQ1NzkwZjMx",
+  "snapshot_id": "MTY3MDAyMzAyOCwwMDAwMDAwMGRjYjdlYjc2OGY5NWY0ZGFlNjM0MWE2MzBlNTljNWM1",
   "tracks": [
+    {
+      "added_at": "2022-12-02 23:17:08",
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff"
+    },
+    {
+      "added_at": "2022-12-02 23:17:08",
+      "album": {
+        "name": "Bookie's Dirtbag",
+        "url": "https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        },
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "duration_ms": 240002,
+      "name": "Bookie's Dirtbag",
+      "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
+    },
+    {
+      "added_at": "2022-12-02 23:17:08",
+      "album": {
+        "name": "My Favorite Blue Jeans",
+        "url": "https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "duration_ms": 134266,
+      "name": "DIE OUT HERE (FEAT. POORSTACY)",
+      "url": "https://open.spotify.com/track/0iAgTXl1wWqfFMh5Ci12Ew"
+    },
+    {
+      "added_at": "2022-12-02 23:17:08",
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg"
+    },
+    {
+      "added_at": "2022-12-02 23:17:08",
+      "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Till The World's Awake",
+      "url": "https://open.spotify.com/track/3QHSudHjKsjzWIUrIc3Pya"
+    },
+    {
+      "added_at": "2022-12-02 23:17:08",
+      "album": {
+        "name": "Fakin' Tha Funk (You Get Did)",
+        "url": "https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "duration_ms": 78733,
+      "name": "Fakin' Tha Funk (You Get Did)",
+      "url": "https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT"
+    },
     {
       "added_at": "2022-11-25 18:36:48",
       "album": {
@@ -39,6 +143,22 @@
       "duration_ms": 149840,
       "name": "OFFLINE",
       "url": "https://open.spotify.com/track/01TZYbhQiq0aswhImSbsUC"
+    },
+    {
+      "added_at": "2022-12-02 23:17:08",
+      "album": {
+        "name": "Buggin Out",
+        "url": "https://open.spotify.com/album/1O5No0llscbBeLTjdirKZd"
+      },
+      "artists": [
+        {
+          "name": "Buggin",
+          "url": "https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ"
+        }
+      ],
+      "duration_ms": 100031,
+      "name": "My Rules",
+      "url": "https://open.spotify.com/track/4xgO0AFVemVCeykCtnMclo"
     },
     {
       "added_at": "2022-11-25 18:36:48",
@@ -763,154 +883,6 @@
       "duration_ms": 263946,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "Smack a Bitch",
-        "url": "https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Smack a Bitch",
-      "url": "https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/1S3YhavDzM2XHiZbTjNdIs"
-      },
-      "artists": [
-        {
-          "name": "Chief Cleopatra",
-          "url": "https://open.spotify.com/artist/4JtoyhF0vrGEvOh0O6z2vK"
-        }
-      ],
-      "duration_ms": 234389,
-      "name": "Nine Inch Nail",
-      "url": "https://open.spotify.com/track/0aAfcurVtjspu4S7SLNy4B"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "i gave you everything",
-        "url": "https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "i gave you everything",
-      "url": "https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "LET IT SINK IN",
-        "url": "https://open.spotify.com/album/0X5qYffN3B8SwczRa1T6Im"
-      },
-      "artists": [
-        {
-          "name": "Cam Kahin",
-          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
-        }
-      ],
-      "duration_ms": 204159,
-      "name": "junky",
-      "url": "https://open.spotify.com/track/2ZrPCVQCGWiEOA3bSzcAkq"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "SUCKAPUNCH",
-        "url": "https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB"
-      },
-      "artists": [
-        {
-          "name": "James Mantis",
-          "url": "https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "SUCKAPUNCH",
-      "url": "https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "Poser",
-        "url": "https://open.spotify.com/album/0RS7DFD78rcCxwIofO13et"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 59757,
-      "name": "Barricades",
-      "url": "https://open.spotify.com/track/3NMToDCphGcHJMt3aYmIMC"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "Kids Don't Buy Groceries",
-        "url": "https://open.spotify.com/album/7gy5MwfTEMiom8RoUdIBLp"
-      },
-      "artists": [
-        {
-          "name": "Hyattsvillain",
-          "url": "https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr"
-        }
-      ],
-      "duration_ms": 123962,
-      "name": "Kids Don't Buy Groceries",
-      "url": "https://open.spotify.com/track/3qpZF480vZzafyfVqIaf4f"
-    },
-    {
-      "added_at": "2022-11-25 18:36:48",
-      "album": {
-        "name": "Abuse Me (ft. L'exquisite Douleur)",
-        "url": "https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH"
-      },
-      "artists": [
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        },
-        {
-          "name": "L'exquisite Douleur",
-          "url": "https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Abuse Me (ft. L'exquisite Douleur)",
-      "url": "https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC"
     }
   ],
   "unique_name": "Rock Frequency",

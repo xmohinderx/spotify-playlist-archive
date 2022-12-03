@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 192590,
+  "num_followers": 192725,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMGE1ZTI0YzY4ODMyNGIxNGVmZmUyZDUyODA2MmFkZTE1",
+  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMDVhMTcyZTYzODBjZjgwZTkxZGI3Y2JhYWQyZmJkMWZh",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -95,8 +95,32 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "You Know What I Need",
-        "url": "https://open.spotify.com/album/1lp2zvRCCMYOAxAgtVLFU2"
+        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
       "artists": [
         {
@@ -110,7 +134,7 @@
       ],
       "duration_ms": 170000,
       "name": "You Know What I Need",
-      "url": "https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl"
+      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -463,6 +487,26 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "\uc870\uc720\uc9c4",
+          "url": "https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW"
+        }
+      ],
+      "duration_ms": 273499,
+      "name": "Wild Flower (with youjeen)",
+      "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "surrounded by hounds and serpents",
         "url": "https://open.spotify.com/album/5iFPxq21dVb6E7RFjBSYvG"
       },
@@ -531,6 +575,30 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+      "url": "https://open.spotify.com/track/5XJWEh8huqG0l9RgRyArtv"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -656,7 +724,7 @@
       "added_at": "2022-12-01 23:00:00",
       "album": {
         "name": "All Around The World (La La La) [Alan Walker Remix]",
-        "url": "https://open.spotify.com/album/77ePyl2cHKlMqKd1ciW2Ju"
+        "url": "https://open.spotify.com/album/6a1YJb4HANat69YqOwcC7m"
       },
       "artists": [
         {
@@ -674,7 +742,7 @@
       ],
       "duration_ms": 125760,
       "name": "All Around The World (La La La) - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/3zwqiYQQblStb1qHxge8g7"
+      "url": "https://open.spotify.com/track/0j4gKk4UCXiYPNb5gJNSwT"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -808,7 +876,7 @@
           "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
         }
       ],
-      "duration_ms": 206561,
+      "duration_ms": 207120,
       "name": "6am in amsterdam.",
       "url": "https://open.spotify.com/track/4SRmLLMhqGvYc4QuvVhFsO"
     },
@@ -1183,6 +1251,50 @@
       "duration_ms": 108949,
       "name": "listen up - Radio Edit",
       "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/4DGrMHTVjxecZbYStawUK1"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "MOB",
+        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "Wonderful Wayne & Jackie Boy (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1644,7 +1756,7 @@
           "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 310709,
+      "duration_ms": 310153,
       "name": "KILO",
       "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
     },

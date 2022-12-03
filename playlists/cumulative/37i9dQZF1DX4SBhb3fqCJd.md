@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\.  Cover: SZA
+> The pulse of R&B music today\.  Cover: CoCo Jones
 
 224 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 

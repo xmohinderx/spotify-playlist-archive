@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763,855 likes - 385 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,764,095 likes - 385 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 98 | [Sunsets](https://open.spotify.com/track/0gGV5b1xukai7PntTpPFBR) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Sunsets](https://open.spotify.com/album/0Mj9eUyWpxwOcCE387OpRl) | 2:44 |
 | 99 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 |
 | 100 | [Somnolente](https://open.spotify.com/track/3jnupMmEH5htGamP01T0PB) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Somnolente](https://open.spotify.com/album/0gsvnIxyfAJl24pFzFrBtj) | 2:49 |
-| 101 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Yepon](https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 |
+| 101 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 |
 | 102 | [Egyensúly](https://open.spotify.com/track/4gH0O4JlIMyvHHYqJ3hJXG) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Egyensúly](https://open.spotify.com/album/6LQGKx0QSk59TZGBDlvtVl) | 3:30 |
 | 103 | [Seda](https://open.spotify.com/track/1VEGUwRnImIqt1JsV8j7aE) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Seda](https://open.spotify.com/album/6S0qbEyWuUGCSpsuu6PFMI) | 2:45 |
 | 104 | [Crystals](https://open.spotify.com/track/1YpXhScYe8acVxMPtAaj89) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [Crystals](https://open.spotify.com/album/2OJofztg1QQ3J6RFEvRHrl) | 3:02 |
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 160 | [Let The Lights On](https://open.spotify.com/track/5jbEgWSfbxBA7573jEnYhr) | [Christine Malowe](https://open.spotify.com/artist/6v132t3GaQZqfu3okc5VoO) | [Let The Lights On](https://open.spotify.com/album/4L3rZkyKokj7M23tAAgLCF) | 3:01 |
 | 161 | [Sono In Bilico](https://open.spotify.com/track/2z2aFGYVDincSjBypjbrTy) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Sono In Bilico](https://open.spotify.com/album/1DBWlWJ5VKnK5WVywYnhjJ) | 3:02 |
 | 162 | [Conversant](https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Conversant](https://open.spotify.com/album/3fq3wucSSjzqUYDkSAPeEI) | 2:31 |
-| 163 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Idamal](https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 |
+| 163 | [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 |
 | 164 | [Drømmende](https://open.spotify.com/track/417Rk6IHsMmM8tKtP3CNfB) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Drømmende](https://open.spotify.com/album/786ZDMgiNEMHHTqEm376n5) | 2:23 |
 | 165 | [Sant](https://open.spotify.com/track/6Y8v8sSvSEGSZi5tkW5Nhw) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Sant](https://open.spotify.com/album/7pt1yJzAhU0RaxvTkno8Of) | 3:38 |
 | 166 | [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 |
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 168 | [Following](https://open.spotify.com/track/61oaJ6eADhj3d59FwZXYPh) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Guiding Light](https://open.spotify.com/album/2A2B37rbYWXaHP7RqSBgHr) | 2:31 |
 | 169 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 |
 | 170 | [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 |
-| 171 | [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Mo Fiera](https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 |
+| 171 | [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 |
 | 172 | [Ricreazione](https://open.spotify.com/track/1gWgWXJUK6wVGYyv1TGuCY) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Ricreazione](https://open.spotify.com/album/3bmXE4jBcMmHW5sL2xkKh4) | 2:34 |
 | 173 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 |
 | 174 | [Deseo](https://open.spotify.com/track/26hCpTBuCM2Irs5GW5kA9n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Deseo](https://open.spotify.com/album/5cN5EvRniK9U7j6mooE9xf) | 2:25 |
@@ -284,7 +284,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 274 | [Transpiration](https://open.spotify.com/track/3Koh8Xr3jVE6CpvScHeoa0) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Transpiration](https://open.spotify.com/album/6mK9hZXchfrJhX1249on2o) | 2:52 |
 | 275 | [Northbound](https://open.spotify.com/track/3BocByfSFx7Jf5khhScTA2) | [Jerikoo](https://open.spotify.com/artist/26ZsC8d7JISyKcw6g4HZVf) | [Northbound](https://open.spotify.com/album/2sT6JfcIOzh6w6iNI17LAi) | 2:53 |
 | 276 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 |
-| 277 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Euryn](https://open.spotify.com/artist/3gZqDSLp1atN62BEKtHMyS) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
+| 277 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
 | 278 | [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 |
 | 279 | [Bring Us Back](https://open.spotify.com/track/59Vt25MOgFp1CkzdRFzMJP) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Bring Us Back](https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu) | 2:38 |
 | 280 | [Röd Himmel](https://open.spotify.com/track/76w0v1hDBWuijmwmvsGDQk) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [Röd Himmel](https://open.spotify.com/album/2CEBJal9nnIAb9bNjaBhIP) | 3:26 |
@@ -318,7 +318,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 308 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 |
 | 309 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 |
 | 310 | [A Tu Lado](https://open.spotify.com/track/2774iv7rt5UytxvyYe4z4O) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [A Tu Lado](https://open.spotify.com/album/3rxGCfwUAdQuABxVVYmY3k) | 3:17 |
-| 311 | [Antonia](https://open.spotify.com/track/05yZZGyIAKNaTCkKEXqG0j) | [Manaum](https://open.spotify.com/artist/39Ry4N6rKQEqYCDSF0zmSq) | [Antonia](https://open.spotify.com/album/7uv8GJfj4qtDMd6E58Bh0s) | 2:58 |
+| 311 | [Antonia](https://open.spotify.com/track/05yZZGyIAKNaTCkKEXqG0j) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Antonia](https://open.spotify.com/album/7uv8GJfj4qtDMd6E58Bh0s) | 2:58 |
 | 312 | [Fantasy Rose](https://open.spotify.com/track/4sA5k1J1JG1CSdFcAnlDKm) | [Calm Lecce](https://open.spotify.com/artist/0CAwGUfZRUjr3HZHOpqSkz) | [Sleepy Game](https://open.spotify.com/album/1eO0MT1eCOMz2jsYBALHEs) | 4:00 |
 | 313 | [Carefree](https://open.spotify.com/track/32OOHG0MECG8CgbYgKjqzA) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Carefree](https://open.spotify.com/album/3wCSeFrfeN2ghVXIJdyK4v) | 3:24 |
 | 314 | [Blurred](https://open.spotify.com/track/2rj6EX8Ji51d2V6ozhsM52) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Soundscapes For Sleep And Peace](https://open.spotify.com/album/6h9uupM1zMMILaPQSZ3Ywj) | 2:49 |

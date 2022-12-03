@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: El Mató a un Policía Motorizado.
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Eruca Sativa.
 
-141 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+143 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-06-24 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/0YY18uS5eRKnrYCOdc17Iu) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/7muhd0Y84UAOqkIYXFpLfd) | 4:47 | 2022-07-15 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/6Prlpu5trk3YsAaapseoUj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/5zIRrz2GkJhIE1QBwaos8w) | 4:47 | 2022-06-24 | 2022-07-29 |
+| [Camionero Blues](https://open.spotify.com/track/3vDmgKzZPrK4Hn7IHYCYWy) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Cintas Mágicas Volumen III](https://open.spotify.com/album/2ynkZW347XOVLIBdyGdmFp) | 3:50 | 2022-12-02 |  |
 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 | 2022-06-24 | 2022-07-30 |
 | [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-15 |  |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug) | 3:58 | 2022-11-02 | 2022-11-14 |
@@ -46,7 +47,7 @@
 | [Encuentro Con un Ángel Amateur \- En Vivo](https://open.spotify.com/track/0tyUt9J9teuyBsuZqaeKWh) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Encuentro Con un Ángel Amateur \(En Vivo\)](https://open.spotify.com/album/4gt3JKDF9BbTsJb1Np8PSp) | 3:33 | 2022-06-24 |  |
 | [Encuentros Cercanos](https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 4:26 | 2022-06-24 |  |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-06-24 |  |
-| [Escapar](https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Escapar](https://open.spotify.com/album/1RIilWLhdLU2dhUvhxx0EQ) | 2:56 | 2022-09-02 |  |
+| [Escapar](https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Escapar](https://open.spotify.com/album/1RIilWLhdLU2dhUvhxx0EQ) | 2:56 | 2022-09-02 | 2022-12-03 |
 | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/track/0BF8OUoMz4w4EHzqKV5TpY) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/album/4kUrH3Fb6Fx7Ps0AkgzQMS) | 3:45 | 2022-09-02 |  |
 | [Esperando Nacer](https://open.spotify.com/track/2Ymx1N04hDeyi0c9V7ckPT) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Esperando Nacer](https://open.spotify.com/album/6nMSnZqmI52qTP0scuf6Kh) | 5:45 | 2022-06-24 | 2022-11-19 |
 | [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-06-24 |  |
@@ -90,7 +91,7 @@
 | [Luna de Miel en la Mano](https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [ADN \(Capítulo A\)](https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs) | 2:48 | 2022-06-24 |  |
 | [Maldito Show](https://open.spotify.com/track/1qCjDUdUvji7I56MLHPKqR) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Maldito Show](https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO) | 4:07 | 2022-06-24 |  |
 | [Mariposa](https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Mariposa](https://open.spotify.com/album/4mbkKo7ctuU3BeRo41P972) | 5:03 | 2022-06-24 |  |
-| [Miedo](https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Miedo](https://open.spotify.com/album/4ASiIcEpLwd67EyucGsuwY) | 4:18 | 2022-08-05 |  |
+| [Miedo](https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Miedo](https://open.spotify.com/album/4ASiIcEpLwd67EyucGsuwY) | 4:18 | 2022-08-05 | 2022-12-03 |
 | [Mirando El Fuego](https://open.spotify.com/track/1g9JG1fls4pDj1mcTE04rM) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Después de la Tormenta](https://open.spotify.com/album/1I0ZrmnG7sGOAhmyHsvqur) | 3:46 | 2022-06-24 |  |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/3q77DS8eOXSozmO20xLlOq) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 3:46 | 2022-06-24 | 2022-07-29 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/6R8tDnEjgcwIkPsJ184dGt) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/0oQaioOa2Llys73xpoYUHb) | 3:46 | 2022-07-15 | 2022-09-03 |
@@ -118,6 +119,7 @@
 | [Rugido de Cien Mil Dragones](https://open.spotify.com/track/4n2NJgfghIDakkGEShfQEm) | [Willy Quiroga](https://open.spotify.com/artist/2qQX5DzzT2p5Uhf5nVkTyE), [Claudio Marciello](https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr), [Gustavo "Chizzo" Napoli](https://open.spotify.com/artist/7r4ICA6MTzRjaAZoeBZ66E) | [Rugido de Cien Mil Dragones](https://open.spotify.com/album/2USasy5iVrMq5FNwnUuZT4) | 3:30 | 2022-06-24 | 2022-09-03 |
 | [Se Va](https://open.spotify.com/track/7Hs3Jvpa7H24HoX6tp9uLg) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Marciano Cantero](https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO) | [Se Va](https://open.spotify.com/album/5nIqPSvmByeLfANeu84fEW) | 3:41 | 2022-07-15 |  |
 | [SIBERIA](https://open.spotify.com/track/4FUbTQsBDmoO99i1TXwKeK) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Caminos Bríos](https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF) | 3:54 | 2022-06-24 |  |
+| [Sola en los Bares](https://open.spotify.com/track/0xajGYgwjkBTz2rFAQlFkN) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Sola en los Bares](https://open.spotify.com/album/4EYbcIicrpX0tsqUtGGDO9) | 3:26 | 2022-12-02 |  |
 | [Soldado de Neón](https://open.spotify.com/track/326TyMiZ44Z4ivGKtbYFBO) | [KURZ](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Brillando Azul](https://open.spotify.com/album/5JSehM5iItG5yLBN6Vh7xV) | 3:33 | 2022-06-24 |  |
 | [Solo por Ser Indios](https://open.spotify.com/track/2cwlrXkjj3ZGNK8kM67MZI) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Solo por Ser Indios](https://open.spotify.com/album/69EohuWT4cTGczAB2A18ZC) | 3:59 | 2022-10-14 |  |
 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 | 2022-06-24 |  |

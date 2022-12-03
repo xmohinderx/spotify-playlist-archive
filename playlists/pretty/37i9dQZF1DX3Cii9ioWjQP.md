@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: youra, Mandong \(유라, 만동\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,444 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,472 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 60 | [Rum Pum Pum](https://open.spotify.com/track/2JaVEjpz0CVmO7lKP4MqL4) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 5:06 |
 | 61 | [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 |
 | 62 | [Rhythm of Hope \(Prod\. DPR CREAM\)](https://open.spotify.com/track/0337drC05b9vF1yD8gA66L) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 3:47 |
-| 63 | [Challenge](https://open.spotify.com/track/1efuuWPLLISJEcL50QBqJu) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/7i2BaCWyYFCbHv7ds6IXSJ) | 5:33 |
+| 63 | [Challenge](https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/1K2GzbrJLDIRfzpVBIw6FR) | 5:33 |
 | 64 | [Love Poem \(戀歌\)](https://open.spotify.com/track/7l8I3o4QZaMCJ228JNheqj) | [Nery Kim](https://open.spotify.com/artist/3mP01gXSZGuCxIyX9nF9cf) | [PURPLE REFLECTION](https://open.spotify.com/album/4x9TtrUlUK9u6OnKF28OXr) | 5:45 |
-| 65 | [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 |
+| 65 | [멈춰선 채 Standstill](https://open.spotify.com/track/2FO4NG072mM775tWuGErNB) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr) | 4:26 |
 | 66 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 |
 | 67 | [20th century peoples](https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [20th century peoples](https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8) | 3:37 |
 | 68 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 74 | [Lost in My Heart](https://open.spotify.com/track/5UPNxRMr8YQWhfpPJtsoQH) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Lost in My Heart](https://open.spotify.com/album/49kE2DER1Ohvkiku0Iue1O) | 5:41 |
 | 75 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MTY2OTE4MzI5NywwMDAwMDAwMDZjNTY3ZmY3NmRjNGY2NTMxMzg3ZDk4MzIzNzI4NDE0`
+Snapshot ID: `MTY2OTE4MzI5NywwMDAwMDAwMDFiZWJkMzA0YmFjNWFmYmY0NTZjNjJlYzdmYWM0MDQ5`

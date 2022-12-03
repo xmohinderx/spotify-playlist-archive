@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=unNoBURgRqamgVK4iFpzqQ" > Yaw TOG </a>
+> The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tPKTmHNTQa2S1MpSDge2Wg" > Jay Bahd </a>
 
-65 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/2DLSiQlBpHI8M4HICO2Y4A)
+66 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/2DLSiQlBpHI8M4HICO2Y4A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Akatafoc](https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/0VuX86IpWGJBEv1PUCRgNP), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Akatafoc](https://open.spotify.com/album/41IfG6m1JTCyYcuMswd6Gi) | 4:17 | 2022-06-09 |  |
 | [AKOBAM](https://open.spotify.com/track/0swMLKHRsRTnt9Nd5WwxFa) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kofi Mole](https://open.spotify.com/artist/0xhGPeT5o5Jt2xdywtD5by), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [AKOBAM](https://open.spotify.com/album/28jWq9AwZF1UpwWfnDjpR4) | 3:09 | 2022-06-09 |  |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-09 |  |
+| [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 |  |
 | [ANADWO](https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sherif](https://open.spotify.com/artist/7vUqrkIW1S62gRXf3lGhdc), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/7MzcMtFt7MIxdGNdEKA2Bw) | 2:43 | 2022-06-09 |  |
 | [Anadwo](https://open.spotify.com/track/5yqluqBQfM3QyBYy42kXT4) | [Xnaiq](https://open.spotify.com/artist/4lCUv4U30YkkIAmVPfcTXR), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sammy Black](https://open.spotify.com/artist/0ul8oqTNdGYbWRpbxBXgjs), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I) | [Anadwo](https://open.spotify.com/album/1Y2DCQ9x2wVGYwjy7MkwGp) | 4:21 | 2022-09-19 | 2022-11-05 |
 | [Aso\)den](https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Aso\)den](https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK) | 3:15 | 2022-11-04 |  |

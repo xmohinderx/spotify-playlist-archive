@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-139 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
+140 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/6P9X9MwCBeNsFzdG2NDQp3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 | 2022-11-18 |  |
 | [BEAM \(feat\. KALIQ\)](https://open.spotify.com/track/3CG9KBVHm20sqYDpNMFeHe) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [KALIQ](https://open.spotify.com/artist/0jEh2LSTBnGfUf6A0zefdR) | [BEAM \(feat\. KALIQ\)](https://open.spotify.com/album/5tRtIAhnIprppyv4if1GAB) | 2:12 | 2022-08-12 | 2022-09-17 |
 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-08-26 |  |
+| [Big Payment](https://open.spotify.com/track/55ZFgWnBbvzPQNwlIczIx0) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G) | [Big Payment](https://open.spotify.com/album/0HWRp4KD4U8k3C6p8E0edk) | 2:21 | 2022-12-02 |  |
 | [Blessings \(feat\. Chronixx\)](https://open.spotify.com/track/0VoCmyKz6GRRl6AuT7if6t) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Blessings \(feat\. Chronixx\)](https://open.spotify.com/album/59eVgCnvJgjlEX4vLiOSHm) | 3:44 | 2022-01-07 | 2022-07-09 |
 | [Bradley Beal](https://open.spotify.com/track/0Nc9IKSP3I0e8NWuqJetKc) | [ADÉ](https://open.spotify.com/artist/5pDY9dgZO8O1yNZDARb62q), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Bradley Beal](https://open.spotify.com/album/7gkje8lNZkA2Jaa30SYrPb) | 3:00 | 2021-09-10 | 2022-07-16 |
 | [Bulletproof Maybach \(feat\. Offset\)](https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:57 | 2022-10-07 |  |
@@ -145,7 +146,7 @@
 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-08-24 | 2022-08-13 |
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2021-07-30 |  |
 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 | 2022-01-14 | 2022-06-11 |
-| [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc) | 2:43 | 2022-07-08 |  |
+| [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Wishin \(feat\. B\-Lovee\)](https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc) | 2:43 | 2022-07-08 | 2022-12-03 |
 | [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

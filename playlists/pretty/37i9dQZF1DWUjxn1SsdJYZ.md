@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Lisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,731 likes - 98 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,768 likes - 98 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 15 | [TRENDY](https://open.spotify.com/track/5ns15BHFfxQC5cDRaP951h) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n) | [TRENDY](https://open.spotify.com/album/2bOkm96p7jVZIQ5yteIk7B) | 2:01 |
 | 16 | [Thrills](https://open.spotify.com/track/6KIzlY8UWgOGklbAXj2qOG) | [Jono](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [Thrills](https://open.spotify.com/album/7qlSL47CwosI69FHbB16Xy) | 2:16 |
 | 17 | [Blessings](https://open.spotify.com/track/2Wo9IKsWh301oVaSV6DYDi) | [E.T](https://open.spotify.com/artist/1o2sHR0qEnL1JVSbkxEf4w), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Blessings](https://open.spotify.com/album/2gZQTUKH36qjZRiCUcHESO) | 2:36 |
-| 18 | [BANK OF MEDELLIN \(Clean\)](https://open.spotify.com/track/7lqe5kz1ywtF91jCaFFZqi) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [KWEEN \(Clean\)](https://open.spotify.com/album/2uQ9MVX72xopbwPLfmHw2B) | 2:00 |
+| 18 | [BANK OF MEDELLIN](https://open.spotify.com/track/2AIkuv0AyvzJbGAMZEBvqB) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [KWEEN](https://open.spotify.com/album/7c1TIASie4Vssx3aJRHDHb) | 2:01 |
 | 19 | [Better Run](https://open.spotify.com/track/6BjDb705cWgO3Uq5tESE8H) | [430TheLabel](https://open.spotify.com/artist/3m1suDHaOcBLp53dK6vUrS), [GG Stretch](https://open.spotify.com/artist/3uDMPodj6cuPR6O5UI4gzM), [Dplugz](https://open.spotify.com/artist/2a4EjbIk2w9V6mSw02Szk8) | [Better Run](https://open.spotify.com/album/0EtUoWci2pS4WVHcIJ5GwY) | 2:55 |
 | 20 | [Handle It](https://open.spotify.com/track/6fwQkSQnIuM6ihR1CH6rm7) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Handle It](https://open.spotify.com/album/2dF5XfyWIxHltWizNawVdL) | 3:02 |
 | 21 | [Relevant](https://open.spotify.com/track/7KU1UP6rNJacxyeVMKvMIQ) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR) | [Relevant](https://open.spotify.com/album/2e2JiNp622FErYEGedLVwJ) | 1:51 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 97 | [Bad Boy](https://open.spotify.com/track/0w2INg5RVukivGRp9QYnGC) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb) | [Bad Boy](https://open.spotify.com/album/3Hj6q9U1TnpeRZCOvF8C0u) | 3:37 |
 | 98 | [U AIN'T SH!T](https://open.spotify.com/track/64ZMypk4r79o4o5ryQ9hbE) | [Lil Rae](https://open.spotify.com/artist/7iVscW49OWowl9SoLmWzfy), [Lil Raven](https://open.spotify.com/artist/3lVqIkYlSwyv22KJKHvW8t) | [U AIN'T SH!T](https://open.spotify.com/album/7sAsB5uv491bSuYw6ZsOwm) | 2:22 |
 
-Snapshot ID: `MTY2OTkwMjIxMywwMDAwMDAwMDg4NDJjY2E5ODAxZDU4MjVhYWNmMzBiODMyZmUxYTE4`
+Snapshot ID: `MTY2OTkwMjIxMywwMDAwMDAwMDdlNjczZWM5YmI5NmJkMWQ0NmQxNTRlOThhZmJhNmM3`

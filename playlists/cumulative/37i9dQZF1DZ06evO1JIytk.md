@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/3ntLLbFu4xW2KbCpfe6IH1)
+62 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/3ntLLbFu4xW2KbCpfe6IH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Turn Your Back With Anti\-Flag](https://open.spotify.com/track/4hnR3vkREdoAIk5AMIp1E8) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg), [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Turn Your Back With Anti\-Flag](https://open.spotify.com/album/7td1jC31dkN3AEfY2dosxZ) | 3:24 | 2022-09-16 |  |
 | [Turncoat](https://open.spotify.com/track/3HA8pLvjBGoBpDJbaLjFNo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 2:10 | 2022-09-16 |  |
 | [Underground Network](https://open.spotify.com/track/3PcbU6v5Fw118EKLEvWNEu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 4:03 | 2022-09-16 |  |
-| [War Sucks, Let's Party!](https://open.spotify.com/track/1Pf0Aq9h9F09S83nulvM16) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:17 | 2022-09-16 |  |
+| [VICTORY OR DEATH \(WE GAVE ‘EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/4P5rqjqcNmCkD5ipTUhhFS) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [VICTORY OR DEATH \(WE GAVE ‘EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/album/1g9OgCVZgWNVmQfHoSJ72Q) | 3:31 | 2022-12-02 |  |
+| [War Sucks, Let's Party!](https://open.spotify.com/track/1Pf0Aq9h9F09S83nulvM16) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:17 | 2022-09-16 | 2022-12-03 |
 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 | 2022-09-16 |  |
 | [Whistleblower](https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike \(10 Year Anniversary\)](https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE) | 2:39 | 2022-09-16 |  |
 | [You Can Kill the Protester, But You Can't Kill the Protest](https://open.spotify.com/track/5OaXNffdz8rFxVTUgWo9ws) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 2:33 | 2022-09-21 | 2022-10-12 |

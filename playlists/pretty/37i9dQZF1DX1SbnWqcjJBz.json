@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 34009,
+  "num_followers": 34253,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzMTMyNiwwMDAwMDAwMDYwNWJjYTY1ZjFlZjRhZGRmMTA4YjE4OTdjNWVhNTgz",
+  "snapshot_id": "MTY2OTkzMTMyNiwwMDAwMDAwMGFjYjhkNjY0ZGQ2ZWZlYWE3ZDE5YzA4NGQxZDE4Y2Fi",
   "tracks": [
     {
       "added_at": "2022-11-11 22:33:49",
@@ -143,22 +143,18 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 214840,
-      "name": "Break Free",
-      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -179,18 +175,18 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
+      "duration_ms": 186840,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -211,18 +207,18 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -243,18 +239,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
         {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+      "duration_ms": 214840,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
+      },
+      "artists": [
+        {
+          "name": "Kate Winslet",
+          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
+        }
+      ],
+      "duration_ms": 243039,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "Gourmandises",
         "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
-      },
-      "artists": [
-        {
-          "name": "Kate Winslet",
-          "url": "https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK"
-        }
-      ],
-      "duration_ms": 243039,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/1FFUXkoWIc9of8yOscGiaC"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W"
       },
@@ -1015,38 +1031,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/1FFUXkoWIc9of8yOscGiaC"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "Better Mistakes",
-        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 160871,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "React",
         "url": "https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "TURN OFF THE LIGHT",
-        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
+        "name": "Better Mistakes",
+        "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 197651,
-      "name": "There Will Be Blood",
-      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
+      "duration_ms": 160871,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "TURN OFF THE LIGHT",
+        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197651,
+      "name": "There Will Be Blood",
+      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "One Heart",
         "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 240600,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Hush Hush; Hush Hush",
-        "url": "https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Hush Hush; Hush Hush - Main",
-      "url": "https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1219,6 +1187,38 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "Hush Hush; Hush Hush",
+        "url": "https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Hush Hush; Hush Hush - Main",
+      "url": "https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/0v9PueTztOFDKSFkJ3Fkfn"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 204150,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/5ubwXXOsH9bUhZsQ0Cybha"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "When I Rule the World",
         "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Christina Milian",
-        "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/0v9PueTztOFDKSFkJ3Fkfn"
       },
       "artists": [
         {
-          "name": "Christina Milian",
-          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         }
       ],
-      "duration_ms": 231213,
-      "name": "AM To PM",
-      "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
+      "duration_ms": 204150,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/5ubwXXOsH9bUhZsQ0Cybha"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1299,6 +1283,22 @@
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "Christina Milian",
+        "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
+      },
+      "artists": [
+        {
+          "name": "Christina Milian",
+          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "AM To PM",
+      "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "Welcome to the Dollhouse",
         "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+      "duration_ms": 241920,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1531,6 +1515,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6IFjVdrrtV3MngDnP89bHM"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Meaning of Life",
-        "url": "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 172426,
-      "name": "Love So Soft",
-      "url": "https://open.spotify.com/track/16QN8cBubEq706vNtPpOME"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "Love You Like That",
         "url": "https://open.spotify.com/album/4bQ7I6MzchpBs3tJh1mwoW"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 177946,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "Meaning of Life",
+        "url": "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 172426,
+      "name": "Love So Soft",
+      "url": "https://open.spotify.com/track/16QN8cBubEq706vNtPpOME"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "On A Roll (Remixes)",
         "url": "https://open.spotify.com/album/6ITgaGfZgcdZZjnY91o76g"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 180038,
       "name": "On A Roll - Basic Tape Remix",
       "url": "https://open.spotify.com/track/5YtM5WjclCystH2Xzct19Y"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -2219,6 +2219,30 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
+        "name": "It\u2019s About Time",
+        "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
+      },
+      "artists": [
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -2247,30 +2271,6 @@
       "duration_ms": 226666,
       "name": "He Loves You Not",
       "url": "https://open.spotify.com/track/2ozJmnjqCMJavEKoHqiou0"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "It\u2019s About Time",
-        "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
-      },
-      "artists": [
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-11-11 22:33:49",
       "album": {
-        "name": "Froot",
-        "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 331324,
-      "name": "Froot",
-      "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
-    },
-    {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
         "name": "We Don\u2019t Stop",
         "url": "https://open.spotify.com/album/21mYdkYstr4I2gyzoV4nES"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 206866,
       "name": "Joan of Arc on the Dance Floor",
       "url": "https://open.spotify.com/track/6OtjXmAe3pGZxcrT1Cx2Br"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "Froot",
+        "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 331324,
+      "name": "Froot",
+      "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
     },
     {
       "added_at": "2022-11-11 22:33:49",
@@ -2369,23 +2369,7 @@
       "url": "https://open.spotify.com/track/7DjTfU6kIcoXaAO02f5EOz"
     },
     {
-      "added_at": "2022-11-11 22:33:49",
-      "album": {
-        "name": "A Joyful Noise",
-        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Move in the Right Direction",
-      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
-    },
-    {
-      "added_at": "2022-12-02 01:17:47",
+      "added_at": "2022-12-03 01:12:15",
       "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
@@ -2403,6 +2387,22 @@
       "duration_ms": 182799,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
+    },
+    {
+      "added_at": "2022-11-11 22:33:49",
+      "album": {
+        "name": "A Joyful Noise",
+        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Move in the Right Direction",
+      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
     },
     {
       "added_at": "2022-11-11 22:33:49",

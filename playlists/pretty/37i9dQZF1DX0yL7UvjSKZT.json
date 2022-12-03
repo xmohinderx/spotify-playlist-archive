@@ -1,72 +1,28 @@
 {
   "description": "Fresh takes on that high lonesome sound. Cover: Violet Bell",
-  "num_followers": 243376,
+  "num_followers": 243426,
   "original_name": "Indie Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGFiM2JjZWZkZmQ4YmFhZTFkMDQ4YzQ1ZWRjYmVlMjg5",
+  "snapshot_id": "MTY2OTk0NTM0NywwMDAwMDAwMGUyYTlhMDI1ZGRkOWVmYmY0NWNmODEwMjYzODkzM2Zj",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
+        "name": "Deep Waters",
+        "url": "https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c"
       },
       "artists": [
         {
-          "name": "Violet Bell",
-          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
+          "name": "The Lonely Heartstring Band",
+          "url": "https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26"
         }
       ],
-      "duration_ms": 228083,
-      "name": "All the Stars (Radio Edit)",
-      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Evergreen (feat. Molly Tuttle)",
-        "url": "https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 191993,
-      "name": "Evergreen (feat. Molly Tuttle)",
-      "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
-      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
+      "duration_ms": 258453,
+      "name": "The Tide",
+      "url": "https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -91,34 +47,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Deep Waters",
-        "url": "https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c"
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ"
       },
       "artists": [
         {
-          "name": "The Lonely Heartstring Band",
-          "url": "https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26"
+          "name": "Violet Bell",
+          "url": "https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8"
         }
       ],
-      "duration_ms": 258453,
-      "name": "The Tide",
-      "url": "https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The Lights from the Chemical Plant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32kFjsz0DC3HWAftZuvVpc"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 243078,
-      "name": "Sing Along - Demo",
-      "url": "https://open.spotify.com/track/2EURFydZv09nLb8WrGBwBd"
+      "duration_ms": 228083,
+      "name": "All the Stars (Radio Edit)",
+      "url": "https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -207,26 +147,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Horse Camp",
-        "url": "https://open.spotify.com/album/1ODN74LHSCnOjxXLONNau8"
-      },
-      "artists": [
-        {
-          "name": "The Lowest Pair",
-          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
-        },
-        {
-          "name": "Small Town Therapy",
-          "url": "https://open.spotify.com/artist/1ZcHWUVh8VPTXDNiCshH7y"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Oak Leaf",
-      "url": "https://open.spotify.com/track/06VlkEKZwY1iuTWSYbMuAL"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Bad Thoughts",
         "url": "https://open.spotify.com/album/67wFtxl9dpKz6WUp1ZPd2g"
       },
@@ -255,6 +175,26 @@
       "duration_ms": 275600,
       "name": "Close Enough to Hear",
       "url": "https://open.spotify.com/track/1yzHQWBQPISoWaNfcyekyD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Evergreen (feat. Molly Tuttle)",
+        "url": "https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 191993,
+      "name": "Evergreen (feat. Molly Tuttle)",
+      "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -519,6 +459,30 @@
       "duration_ms": 181666,
       "name": "Just Pick One",
       "url": "https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -799,38 +763,6 @@
       "duration_ms": 244186,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/4iyzKBDP4JlMbYvHYwaHOV"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Dead Leaves And The Dirty Ground",
-      "url": "https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "LIVE CHIMES: Volume One",
-        "url": "https://open.spotify.com/album/0TFngGzCdzokCIoZ2FNJKR"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Windchimes",
-          "url": "https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2"
-        }
-      ],
-      "duration_ms": 142663,
-      "name": "The Devil In You",
-      "url": "https://open.spotify.com/track/2JdrptIXTn0xLCy3gRVbMx"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1147,6 +1079,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Narrow Line",
+      "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Fish Pond Fish",
         "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
@@ -1259,22 +1207,6 @@
       "duration_ms": 211120,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/66IADnbHU3X1kasqfUtenr"
-      },
-      "artists": [
-        {
-          "name": "The Foreign Landers",
-          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/1d8RnzcjBkxDjnotF8KaAp"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1459,22 +1391,6 @@
       "duration_ms": 188460,
       "name": "From The Dust",
       "url": "https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Blooming Through The Black",
-        "url": "https://open.spotify.com/album/3ZqHrA9OBmJhb8d8uhBMjf"
-      },
-      "artists": [
-        {
-          "name": "Parsonsfield",
-          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/0aflzvWrhVpTsLyBmkSlfK"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2087,22 +2003,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Narrow Line",
-      "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Wild as We Came Here",
         "url": "https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7"
       },
@@ -2115,26 +2015,6 @@
       "duration_ms": 180546,
       "name": "Scrape Me Off the Ceiling",
       "url": "https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Couple of Jerks",
-        "url": "https://open.spotify.com/album/7IRD2lx2qbu6yoYdK0Nzpu"
-      },
-      "artists": [
-        {
-          "name": "The Lowest Pair",
-          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
-        },
-        {
-          "name": "Small Town Therapy",
-          "url": "https://open.spotify.com/artist/1ZcHWUVh8VPTXDNiCshH7y"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Couple of Jerks",
-      "url": "https://open.spotify.com/track/42hRq19RiZd7Q9J4K1nEfV"
     },
     {
       "added_at": "2022-11-18 05:00:00",

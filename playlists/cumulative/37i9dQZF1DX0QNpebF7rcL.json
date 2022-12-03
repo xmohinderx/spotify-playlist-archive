@@ -1390,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Hello, it's the Blues",
+        "url": "https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406261,
+      "name": "Hello, it's the Blues",
+      "url": "https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes"
+    },
+    {
+      "album": {
         "name": "Here I'm Is",
         "url": "https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9"
       },

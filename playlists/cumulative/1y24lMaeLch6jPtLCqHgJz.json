@@ -875,7 +875,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 236420,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/312ScazNcrS408yUVIGrPC"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 199384,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/44fKrt6SHESPvP3H1IpvBy"
@@ -1490,6 +1490,28 @@
     },
     {
       "album": {
+        "name": "One Life (Festival Mix)",
+        "url": "https://open.spotify.com/album/6YnX8UuHdW8sph8ZHUYE45"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "sonofsteve",
+          "url": "https://open.spotify.com/artist/199v8qPhMq3MGLfKsOgD2v"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "One Life (Festival Mix)",
+      "url": "https://open.spotify.com/track/2MNtObv5bxyUprOKewE28m"
+    },
+    {
+      "album": {
         "name": "Own The Night",
         "url": "https://open.spotify.com/album/2qA0Z9KmCeqtH2IiYSqDtt"
       },
@@ -1897,7 +1919,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 196932,
       "name": "Survivors",
       "url": "https://open.spotify.com/track/1Ip9YT9kPBC0rl7qCm3skS"
@@ -2377,7 +2399,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 224062,
       "name": "What They Want",
       "url": "https://open.spotify.com/track/7a7sY5JTAUu7jMFjJlcCds"

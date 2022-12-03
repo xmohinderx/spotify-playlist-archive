@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-128 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+129 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Good Vibes Only](https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [The Colonel](https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD) | 2:37 | 2022-07-22 |  |
 | [Good Vibes Only](https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [The Colonel](https://open.spotify.com/album/0lHlQncYmvSo7TujyIz7ZQ) | 2:37 | 2021-08-20 | 2022-07-29 |
 | [Hillbilly Shake \- Shake\-A\-Leg Remix](https://open.spotify.com/track/2fSxsqpLU6RqjK8BeRd3do) | [Ac Thomas](https://open.spotify.com/artist/6oItULQHSBtnLr2RbIRgdB), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Chance](https://open.spotify.com/artist/0R4PWrJAthc0hnURUkh97x), [Shake\-A\-Leg](https://open.spotify.com/artist/4ByTGHMoMaH7HMPUiekhsd) | [Hillbilly Shake \(Shake\-A\-Leg Remix\)](https://open.spotify.com/album/11cmgFtSZmSQxghTC7LZDp) | 3:23 | 2021-08-13 | 2022-02-05 |
+| [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 | 2022-12-02 |  |
 | [Honky Tonkin'](https://open.spotify.com/track/27SlfCkQ5pxaGz7XnomXuM) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Honky Tonkin'](https://open.spotify.com/album/3hBSgothWjIatYA6E9JZvf) | 3:44 | 2021-06-25 |  |
 | [Hood](https://open.spotify.com/track/4QJpdcOcFubTS0VEWu5Guj) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Keys To The Country](https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ) | 3:09 | 2021-11-05 |  |
 | [I'm Still Me](https://open.spotify.com/track/35T4rqTGxHPv5fDfOLsjrx) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:52 | 2021-05-21 |  |

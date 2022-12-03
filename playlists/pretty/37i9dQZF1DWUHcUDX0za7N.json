@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 12502,
+  "num_followers": 12524,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTYxODY2NywwMDAwMDAwMDk5ZjNiNTMzOTUyOTZhMjQ4MDljYzFhNTU4ZGQ5YTg1",
+  "snapshot_id": "MTY2OTk1Njg1MSwwMDAwMDAwMGY4M2Q1ODhmNDUxMmNhZDZhMGVkNjA1NGI0MjhlYTI0",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
-      "added_at": "2022-12-02 01:01:55",
+      "added_at": "2022-11-28 06:57:47",
       "album": {
         "name": "Won Da Mo",
         "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
@@ -593,20 +593,28 @@
       "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-12-02 04:54:11",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+        "name": "Your Waist",
+        "url": "https://open.spotify.com/album/6hnoe77FhbYGe73vGOvBVo"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
+      "duration_ms": 205794,
+      "name": "Your Waist",
+      "url": "https://open.spotify.com/track/2QKkkwmfTUA71dfLnMES9P"
     },
     {
       "added_at": "2022-09-30 06:35:17",
@@ -627,6 +635,22 @@
       "duration_ms": 221399,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -705,26 +729,6 @@
       "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Mama Maradona",
-        "url": "https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y"
-      },
-      "artists": [
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Mama Maradona",
-      "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Providence",
@@ -743,6 +747,26 @@
       "duration_ms": 186923,
       "name": "Afro Jigga",
       "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
+    },
+    {
+      "added_at": "2022-09-01 23:00:00",
+      "album": {
+        "name": "Mama Maradona",
+        "url": "https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mama Maradona",
+      "url": "https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -809,34 +833,6 @@
       "url": "https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
-    },
-    {
       "added_at": "2022-08-12 05:06:58",
       "album": {
         "name": "Vigilante Bop",
@@ -877,6 +873,34 @@
       "url": "https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
+    },
+    {
       "added_at": "2022-11-04 06:17:39",
       "album": {
         "name": "YPSZN3",
@@ -891,22 +915,6 @@
       "duration_ms": 200833,
       "name": "Silent Mode",
       "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Go Home",
-        "url": "https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Go Home",
-      "url": "https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV"
     },
     {
       "added_at": "2022-09-12 09:50:28",
@@ -963,6 +971,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Go Home",
+        "url": "https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Go Home",
+      "url": "https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Alaye Toh Se Gogo",
         "url": "https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a"
       },
@@ -1015,22 +1039,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1055,22 +1063,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Symbiosis",
-        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Nissi",
-          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 249286,
-      "name": "Symbiosis",
-      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1087,26 +1091,6 @@
       "duration_ms": 174658,
       "name": "Cram",
       "url": "https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "All I Please",
-        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
-      },
-      "artists": [
-        {
-          "name": "Wale Turner",
-          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "All I Please",
-      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1131,6 +1115,26 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Symbiosis",
+        "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        }
+      ],
+      "duration_ms": 249286,
+      "name": "Symbiosis",
+      "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/68p8Jpj5aTeZHeyEVpApJA"
       },
@@ -1147,22 +1151,6 @@
       "duration_ms": 194000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1b8F3ZCFhasUrh8nvDgADz"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Another Me",
-      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1187,6 +1175,42 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "All I Please",
+        "url": "https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL"
+      },
+      "artists": [
+        {
+          "name": "Wale Turner",
+          "url": "https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "All I Please",
+      "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Another Me",
+      "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Suliya",
         "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
       },
@@ -1201,20 +1225,20 @@
       "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-11-18 11:40:22",
       "album": {
-        "name": "Elephant Man",
-        "url": "https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3"
       },
       "artists": [
         {
-          "name": "Cobhams Asuquo",
-          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Elephant Man",
-      "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
+      "duration_ms": 146527,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1237,20 +1261,20 @@
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
     },
     {
-      "added_at": "2022-11-18 11:40:22",
+      "added_at": "2022-07-07 23:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3"
+        "name": "Elephant Man",
+        "url": "https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm"
       },
       "artists": [
         {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+          "name": "Cobhams Asuquo",
+          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
         }
       ],
-      "duration_ms": 146527,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
+      "duration_ms": 166736,
+      "name": "Elephant Man",
+      "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1351,22 +1375,6 @@
       "duration_ms": 185228,
       "name": "Vawulence",
       "url": "https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Stacks",
-        "url": "https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 177710,
-      "name": "Stacks",
-      "url": "https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO"
     },
     {
       "added_at": "2022-11-24 23:00:00",

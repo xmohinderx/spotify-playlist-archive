@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
+    },
+    {
+      "album": {
         "name": "11 Beers (feat. Jake Owen)",
         "url": "https://open.spotify.com/album/0NMpxcd0QLTrDqJ9bb58Qw"
       },
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 216626,
       "name": "Another Mile",
       "url": "https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu"
@@ -1095,6 +1113,24 @@
       "duration_ms": 181664,
       "name": "Bad Day To Be A Beer",
       "url": "https://open.spotify.com/track/1l2x572l1wPcxxiL2wVAO7"
+    },
+    {
+      "album": {
+        "name": "Bad for You",
+        "url": "https://open.spotify.com/album/6bpWPwgmeWyC0MtNtn9KJX"
+      },
+      "artists": [
+        {
+          "name": "Kylie Dakota",
+          "url": "https://open.spotify.com/artist/6YVxlm3sSZJP9ojboBzUYV"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205297,
+      "name": "Bad for You",
+      "url": "https://open.spotify.com/track/4QqEdYBqsh9ALX2jBjLj5C"
     },
     {
       "album": {
@@ -1713,6 +1749,24 @@
       "duration_ms": 233213,
       "name": "Bloodlines",
       "url": "https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw"
+    },
+    {
+      "album": {
+        "name": "Blue Collar",
+        "url": "https://open.spotify.com/album/6601FgkVnIeSqCOzYlhdMR"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Hutcherson",
+          "url": "https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188855,
+      "name": "Blue Collar",
+      "url": "https://open.spotify.com/track/2VgDL5lHAlfANZWX62t84S"
     },
     {
       "album": {
@@ -4837,7 +4891,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200475,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/0tNRWjHDJNsZzO17gtGLVH"
@@ -4909,7 +4963,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 198998,
       "name": "Get A Dog",
       "url": "https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z"
@@ -5111,6 +5165,24 @@
       "duration_ms": 167893,
       "name": "Glad She Got Away",
       "url": "https://open.spotify.com/track/70DJhQRDuGCTWcSuqueFCB"
+    },
+    {
+      "album": {
+        "name": "Go Easy",
+        "url": "https://open.spotify.com/album/7rnvTK2qj7TzULoz7ck3KI"
+      },
+      "artists": [
+        {
+          "name": "Joey Hyde",
+          "url": "https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183084,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/4XZP9LnptkN57n2XOoTYlk"
     },
     {
       "album": {
@@ -6529,6 +6601,24 @@
     {
       "album": {
         "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf"
       },
       "artists": [
@@ -6539,7 +6629,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 206240,
       "name": "Hold My Halo",
       "url": "https://open.spotify.com/track/3GfARtnRJcsM5JTrpVAunR"
@@ -8146,6 +8236,24 @@
     },
     {
       "album": {
+        "name": "Just Being Honest",
+        "url": "https://open.spotify.com/album/49HuoGgtwt1eSaHtifGCpc"
+      },
+      "artists": [
+        {
+          "name": "Kacy Moon",
+          "url": "https://open.spotify.com/artist/4yCDlGLH4zfJHp400hMAwg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210871,
+      "name": "Just Being Honest",
+      "url": "https://open.spotify.com/track/7IHcCpSyRjHr9R5OPbnrUH"
+    },
+    {
+      "album": {
         "name": "Just Fall",
         "url": "https://open.spotify.com/album/0XLe1gPK0SFvi2oWJKYoNR"
       },
@@ -8409,7 +8517,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 232640,
       "name": "Late",
       "url": "https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF"
@@ -8789,10 +8897,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 222577,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/5PH2azGd2OAljqcT7Ikke1"
+    },
+    {
+      "album": {
+        "name": "Like We Never Did",
+        "url": "https://open.spotify.com/album/0UnwVSTBT2aQOwZTnF5AKk"
+      },
+      "artists": [
+        {
+          "name": "FINMAR",
+          "url": "https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168913,
+      "name": "Like We Never Did",
+      "url": "https://open.spotify.com/track/6o7HbUO2Ejka4tpK7koKMA"
     },
     {
       "album": {
@@ -9438,6 +9564,24 @@
     },
     {
       "album": {
+        "name": "Make Her Me",
+        "url": "https://open.spotify.com/album/4DeMZ9d3OpDnTFph8MjPHU"
+      },
+      "artists": [
+        {
+          "name": "Hunter Rae",
+          "url": "https://open.spotify.com/artist/5O0EXl0DwXZHRbzeJVFh6y"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207124,
+      "name": "Make Her Me",
+      "url": "https://open.spotify.com/track/7vWkoaFmFPw0wDC45AMkUB"
+    },
+    {
+      "album": {
         "name": "Make It Last Forever",
         "url": "https://open.spotify.com/album/6w6NwTSxvxcG99IRtKSVEU"
       },
@@ -9449,10 +9593,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 220430,
       "name": "Make It Last Forever",
       "url": "https://open.spotify.com/track/2DN7PiLx7x5lUhxRQSBM2E"
+    },
+    {
+      "album": {
+        "name": "Make Me Hate You",
+        "url": "https://open.spotify.com/album/1IPPt2fjG0fFkgIsnMpKgV"
+      },
+      "artists": [
+        {
+          "name": "Derek Austin",
+          "url": "https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177037,
+      "name": "Make Me Hate You",
+      "url": "https://open.spotify.com/track/7k0i1uggX1ZkMmB32e7y3J"
     },
     {
       "album": {
@@ -11028,6 +11190,24 @@
     },
     {
       "album": {
+        "name": "Old Truck Young Love",
+        "url": "https://open.spotify.com/album/6hdRpLYFhKiNvdnypZd2Lg"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154809,
+      "name": "Old Truck Young Love",
+      "url": "https://open.spotify.com/track/0WYdORctoTvizmcxdasRbn"
+    },
+    {
+      "album": {
         "name": "On A Different Night",
         "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
       },
@@ -12428,6 +12608,24 @@
     },
     {
       "album": {
+        "name": "Round Here No More",
+        "url": "https://open.spotify.com/album/14yj5RVPueaa6Y8qPynqha"
+      },
+      "artists": [
+        {
+          "name": "The Tuten Brothers",
+          "url": "https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206854,
+      "name": "Round Here No More",
+      "url": "https://open.spotify.com/track/0WXFicFJtKlGWgCGoZgQYZ"
+    },
+    {
+      "album": {
         "name": "RSVP",
         "url": "https://open.spotify.com/album/08QbTZ27CNzIGQZOg3gJAK"
       },
@@ -12753,6 +12951,24 @@
       "duration_ms": 206737,
       "name": "Seeing Someone Else",
       "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/5XXM9iaMq46XdPrCbWTmz3"
+      },
+      "artists": [
+        {
+          "name": "Cameron Hobbs",
+          "url": "https://open.spotify.com/artist/0W9UKG9O3JmCttukc9n0KJ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187743,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7yQFs634RR25erKuynFVch"
     },
     {
       "album": {
@@ -16273,7 +16489,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 201544,
       "name": "What If I Don't",
       "url": "https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R"
@@ -16905,6 +17121,24 @@
       "duration_ms": 169800,
       "name": "Why'd We Break Up Again",
       "url": "https://open.spotify.com/track/6JtzwtwvQZQNuiE24hfa70"
+    },
+    {
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/26t4uVVqQ4noVrMQPt3lAl"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210876,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/0YShQ5alIoF9aSPUtWUryx"
     },
     {
       "album": {

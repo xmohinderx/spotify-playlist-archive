@@ -2,7 +2,7 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: Lil Tjay
+> Neighborhood Storytellers\. Cover: Rich Homie Quan
 
 158 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
@@ -136,7 +136,7 @@
 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 | 2022-07-15 | 2022-08-13 |
 | [Soul Bleed](https://open.spotify.com/track/4jHz6x0LTLdRsAnWWlVx5w) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Soul Bleed](https://open.spotify.com/album/74S4OzUeGxO911OCx638cM) | 2:51 | 2022-02-18 | 2022-09-17 |
 | [Soul Ties \(feat\. Derez De'Shon\)](https://open.spotify.com/track/10HzSWF46MUNO25LkqJjaW) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Shottaz 4Eva \(Deluxe\)](https://open.spotify.com/album/3cLu28v4PpkegWYw9CxhdU) | 3:10 | 2021-08-27 | 2022-02-12 |
-| [Static Rain \(feat\. Birdy\)](https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT) | 2:55 | 2022-04-22 |  |
+| [Static Rain \(feat\. Birdy\)](https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT) | 2:55 | 2022-04-22 | 2022-12-03 |
 | [Still Here \(feat\. Cordae\)](https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Still Here \(feat\. Cordae\)](https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b) | 3:16 | 2022-03-04 | 2022-08-27 |
 | [Strong \(EST Gee, Moneybagg Yo\)](https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:11 | 2022-07-15 |  |
 | [Suit Me Up](https://open.spotify.com/track/5pyve48qwbI8CTWDnW9eiQ) | [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Suit Me Up](https://open.spotify.com/album/6amcMGHHDQQZ9uCGl23ZpU) | 3:54 | 2021-10-15 | 2022-04-16 |

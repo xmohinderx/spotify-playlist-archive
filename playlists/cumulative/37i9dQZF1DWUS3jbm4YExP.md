@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-473 songs - 1 day 11 hr 3 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+474 songs - 1 day 11 hr 6 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2021-12-17 |  |
 | [Babalawo](https://open.spotify.com/track/6ifwhjw3szFwweQbAZAu7j) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:08 | 2021-10-06 | 2022-07-28 |
 | [Babel](https://open.spotify.com/track/02sVh7Sa1kaJBqUYYFog9w) | [Gratien Midonet](https://open.spotify.com/artist/0Zn7jloZgJ19mgN6YBkeIh) | [Bourg La Folie](https://open.spotify.com/album/3wSYFDchDY5T6FCd4jXEES) | 5:27 | 2021-10-06 | 2022-07-15 |
+| [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB) | 3:10 | 2021-10-06 |  |
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/1G4aMGkzJV5yqF3XRHNqWL) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/4S0GIZfnkA1kK07ACLPyZJ) | 3:10 | 2021-10-06 | 2022-11-20 |
 | [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 | 2022-10-01 |
 | [Baixada](https://open.spotify.com/track/4zzMUiu5slOh0lI7QL2yNd) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Baixada](https://open.spotify.com/album/76AlDMHVPDI9ao1r5lppHU) | 2:21 | 2022-01-07 | 2022-07-29 |
@@ -373,7 +374,7 @@
 | [Sankofa Song](https://open.spotify.com/track/5KaSo0t3rbcmgd7gDIvlpK) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:25 | 2021-10-06 | 2022-06-02 |
 | [Say the Word](https://open.spotify.com/track/3ki2cRGh2tviyJHM2Ygdq5) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Say the Word](https://open.spotify.com/album/2GqM2KPg3egBeZk1bFEvlg) | 3:27 | 2021-10-06 | 2022-04-21 |
 | [Say the Word](https://open.spotify.com/track/5ySFN6UT59uqDxp9TrSFvT) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Andy Cooper](https://open.spotify.com/artist/7xLdezwE6OgwbhOSWolWuz), [Marietta Smith](https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:27 | 2021-10-06 | 2022-04-21 |
-| [Serpentines \(to Nikšić\)](https://open.spotify.com/track/5nLwagkCr9b7kvXGqmPGMZ) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA) | [Serpentines \(to Nikšić\)](https://open.spotify.com/album/08BlKbdWhzZpClKQnFIX9s) | 4:47 | 2022-08-31 |  |
+| [Serpentines \(to Nikšić\)](https://open.spotify.com/track/5nLwagkCr9b7kvXGqmPGMZ) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA) | [Serpentines \(to Nikšić\)](https://open.spotify.com/album/08BlKbdWhzZpClKQnFIX9s) | 4:47 | 2022-08-31 | 2022-12-03 |
 | [Shake](https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Shake](https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ) | 1:41 | 2022-08-13 | 2022-10-31 |
 | [Shake Your Tumba](https://open.spotify.com/track/5av46FVXB2CDK4lHi9r2u0) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [We Famous](https://open.spotify.com/album/2lZJnHKsgyqWbktrh8tX1M) | 4:50 | 2022-01-13 | 2022-07-24 |
 | [She Doesn't Love You](https://open.spotify.com/track/17YZ2Z6z1wRJhN5LSgFKmO) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF), [Mariama](https://open.spotify.com/artist/6QBXN3vAlzmX5e6QQvkiVU) | [She Doesn't Love You](https://open.spotify.com/album/0s8UWpBsEKmiguGmQBBrrc) | 3:40 | 2021-10-06 | 2022-07-18 |

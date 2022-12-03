@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,121 likes - 97 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,193 likes - 97 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 79 | [Walkin' After Midnight](https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:34 |
 | 80 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
 | 81 | [A Little Past Little Rock](https://open.spotify.com/track/3Xl5apC8UhqZ1FZ7u3HHfO) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet), [Jason Sellers](https://open.spotify.com/artist/5TRj3DqC4pcZaTIGFq99Bg) | [Greatest Hits](https://open.spotify.com/album/3Tdb9TrHS3ne1SjFqBYA5V) | 4:16 |
-| 82 | [Do Me with Love](https://open.spotify.com/track/4BOLIOeDnuQqrd1O4j1okS) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Janie Fricke](https://open.spotify.com/album/1ZAqjmQz7KghNFTeThuQJ7) | 2:49 |
+| 82 | [Do Me with Love](https://open.spotify.com/track/4BOLIOeDnuQqrd1O4j1okS) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [17 Greatest Hits](https://open.spotify.com/album/1ZAqjmQz7KghNFTeThuQJ7) | 2:49 |
 | 83 | [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 3:02 |
 | 84 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 85 | [Shut Up And Drive](https://open.spotify.com/track/59aKpxi49wtCe9a1CscDTc) | [Chely Wright](https://open.spotify.com/artist/1aSIXmBKKrEVIbGLwhedIe) | [Let Me In](https://open.spotify.com/album/07eW2eBZwtpfDkSWOAB3jv) | 3:49 |

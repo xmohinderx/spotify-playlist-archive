@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Icy Subzero
 
-329 songs - 14 hr 21 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+330 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Minorè](https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Minorè](https://open.spotify.com/album/1qjHdrXzVMs4ielAd5IkIZ) | 2:26 | 2022-05-26 | 2022-10-28 |
 | [MISS YOU](https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [MISS YOU](https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic) | 3:10 | 2022-09-15 | 2022-10-14 |
 | [Misère](https://open.spotify.com/track/3HkGR5ajSAUQzghxcSvJFX) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Misère](https://open.spotify.com/album/3VFxZgTwenSCh3e3K5kDEU) | 2:16 | 2022-10-27 | 2022-11-25 |
+| [MONOCROMO](https://open.spotify.com/track/67KSpZbpnTU0ag5aHZmjcd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [MONOCROMO](https://open.spotify.com/album/6kRIg0G0d7weWkQ8T2gp62) | 3:21 | 2022-12-02 |  |
 | [MOTO GP](https://open.spotify.com/track/5Nk8EEtOy5vwWfes83OW3n) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 1:56 | 2022-05-10 | 2022-05-27 |
 | [MOTORSPORT](https://open.spotify.com/track/2TZrC4DQY7dEohUl00UAmS) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [MOTORSPORT](https://open.spotify.com/album/3FT9uA9e5WuwMM1BuFU2PQ) | 1:55 | 2022-05-10 | 2022-05-27 |
 | [Mr Fantastic](https://open.spotify.com/track/2riHoijGYGEDrMh1OWZSKT) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [Sala](https://open.spotify.com/artist/5uTlpvE7CmkCvRHaHd9pP3) | [LA CERIMONIA](https://open.spotify.com/album/1HL4UUvVzE3j7P7ejoRBkQ) | 2:12 | 2022-11-10 |  |

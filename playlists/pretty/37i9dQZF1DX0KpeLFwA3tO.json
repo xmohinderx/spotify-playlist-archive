@@ -1,6 +1,6 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Against The Current",
-  "num_followers": 273117,
+  "num_followers": 273255,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDIyYjRjMGMxZmJmOTZjNzE2MTc4YjJlNDM0MDBkY2Nk",
   "tracks": [
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {

@@ -1,328 +1,244 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10455,
+  "num_followers": 10457,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjQ1OSw0YjRhNjdmMTEyYTNjMTFlOTZkZjkwNDU1NmYxNjJkNTdiZmVhZjcy",
+  "snapshot_id": "MjQ2MSxiODhmZDI2YjdjZDUwMTNmZGUyOTIyOTZhNTc3Nzc4YmM5ZjYxZjZm",
   "tracks": [
     {
-      "added_at": "2022-11-25 10:15:02",
+      "added_at": "2022-12-02 07:18:44",
       "album": {
-        "name": "Heaven (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/7lmw5hOPnf4bPgD2XZ0oEh"
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 244842,
-      "name": "Heaven - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1nrKEQ0i1V3NenapWNKmiw"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 145824,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Coeur Encore",
-        "url": "https://open.spotify.com/album/0eYbpLwV7r2HHooowI15s7"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "C\u2019est l'amour",
-      "url": "https://open.spotify.com/track/23pBiEPBdGrz5nb8IALTtT"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Supersonic L.U.V",
-        "url": "https://open.spotify.com/album/63ujE1m5l5oMrRMRMXNkZ8"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "Supersonic L.U.V",
-      "url": "https://open.spotify.com/track/17Z9tFg1qFpC2cRbSPQadL"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Pray For Us",
-        "url": "https://open.spotify.com/album/5kRinFJOJYFFLo7En7WKwf"
-      },
-      "artists": [
-        {
-          "name": "Kids Of The Apocalypse",
-          "url": "https://open.spotify.com/artist/1AKYhnKRFqIs4DorSU4wUt"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         },
         {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Pray For Us",
-      "url": "https://open.spotify.com/track/0qOqwfuVTEug32tyripQeK"
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
-      "added_at": "2022-11-25 10:15:02",
+      "added_at": "2022-12-02 07:18:44",
       "album": {
-        "name": "Kiss You",
-        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
+        "name": "You Know What I Need",
+        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
       "artists": [
         {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Kiss You",
-      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "shapeless",
-        "url": "https://open.spotify.com/album/79FBDI7b55hluaStp9BbQe"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 165039,
-      "name": "shapeless",
-      "url": "https://open.spotify.com/track/37hTy5a1MpizyBoAZk8GlS"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Lionheart (Come On England) [feat. Martin Tyler]",
-        "url": "https://open.spotify.com/album/3UzpJFPp4HJXqTP8lM9no8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "You Know What I Need",
+      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "added_at": "2022-12-02 07:18:44",
+      "album": {
+        "name": "Boy's a liar",
+        "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Boy's a liar",
+      "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
+    },
+    {
+      "added_at": "2022-12-02 07:18:44",
+      "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/5VtXT9YEdsQxIXhgfLsQdT"
+      },
+      "artists": [
+        {
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        }
+      ],
+      "duration_ms": 174227,
+      "name": "Go Ghost",
+      "url": "https://open.spotify.com/track/3kMvXUDTA5Iavx7NBWJtoN"
+    },
+    {
+      "added_at": "2022-12-02 07:18:44",
+      "album": {
+        "name": "V838 (Intro)",
+        "url": "https://open.spotify.com/album/3X9HZhdZxXZ7iN3PONeslg"
+      },
+      "artists": [
+        {
+          "name": "Tiggi Hawke",
+          "url": "https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l"
         },
         {
-          "name": "Martin Tyler",
-          "url": "https://open.spotify.com/artist/1huvfGCyyPB9OSTOXCqdEk"
+          "name": "Oliver JT Dipre",
+          "url": "https://open.spotify.com/artist/6ftSKi8PRdFmR1xGbeZZGn"
         }
       ],
-      "duration_ms": 196190,
-      "name": "Lionheart (Come On England) [feat. Martin Tyler]",
-      "url": "https://open.spotify.com/track/0cCIYg1zA2BwwkWWuMLyoa"
+      "duration_ms": 147488,
+      "name": "V838 (Intro)",
+      "url": "https://open.spotify.com/track/52ExDfIz07NnmMJIjbsd5u"
     },
     {
-      "added_at": "2022-11-25 10:15:02",
+      "added_at": "2022-12-02 07:18:44",
       "album": {
-        "name": "SOFTMETAL",
-        "url": "https://open.spotify.com/album/3J80WoNDKZWObF8hcSTctG"
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
       },
       "artists": [
         {
-          "name": "BRONZE AVERY",
-          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 154304,
-      "name": "BIBLE NAME",
-      "url": "https://open.spotify.com/track/3HP9huc2uzrFUVxpq2Ga07"
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
-      "added_at": "2022-11-25 10:15:02",
+      "added_at": "2022-12-02 07:18:44",
       "album": {
-        "name": "Have It All (feat. Franky)",
-        "url": "https://open.spotify.com/album/0NHCitf8CZjmXsUmAJ6tWM"
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/0BelpsRp8VUFESM1zUbq6c"
       },
       "artists": [
         {
-          "name": "Jack Wins",
-          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/2CBvjn9Nqxb2zjhKFz6cEV"
+    },
+    {
+      "added_at": "2022-12-02 07:18:44",
+      "album": {
+        "name": "Disco Machine Sound\u2019 / \u2018This Dance Isn\u2019t Over",
+        "url": "https://open.spotify.com/album/49qrTIPhXEndH93olUNl2B"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "duration_ms": 201587,
+      "name": "This Dance Isn't Over - Edit",
+      "url": "https://open.spotify.com/track/2hoGEGsFVMzzz0TDjaer9n"
+    },
+    {
+      "added_at": "2022-12-02 07:18:44",
+      "album": {
+        "name": "Sensitive Child (Soulwax Remix)",
+        "url": "https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
         },
         {
-          "name": "Franky",
-          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Have It All (feat. Franky)",
-      "url": "https://open.spotify.com/track/3PryuZr5TAxT74B8290q51"
+      "duration_ms": 346093,
+      "name": "Sensitive Child - Soulwax Remix",
+      "url": "https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O"
     },
     {
-      "added_at": "2022-11-25 10:15:02",
+      "added_at": "2022-12-02 07:18:44",
       "album": {
-        "name": "Not Like the Movies",
-        "url": "https://open.spotify.com/album/51TX9D9du46rKrGGGgIKvI"
+        "name": "I'll Never Let You Go",
+        "url": "https://open.spotify.com/album/4DFL74rppKwnY7zRbj8ES5"
       },
       "artists": [
         {
-          "name": "April Jai",
-          "url": "https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ"
-        }
-      ],
-      "duration_ms": 187145,
-      "name": "Not Like the Movies",
-      "url": "https://open.spotify.com/track/6wfccVQxst4ERNGIMAFrXY"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "SHUT UP",
-        "url": "https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV"
-      },
-      "artists": [
-        {
-          "name": "Hayes Warner",
-          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
-        }
-      ],
-      "duration_ms": 153343,
-      "name": "SHUT UP",
-      "url": "https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Destructive",
-        "url": "https://open.spotify.com/album/0T02JOnE40qkG28DhPTsyt"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Destructive",
-      "url": "https://open.spotify.com/track/0sr826ATpoDLowC0OJ2TCb"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Flyga",
-        "url": "https://open.spotify.com/album/4nZYnOABTSVERld8R67WgW"
-      },
-      "artists": [
-        {
-          "name": "Kim Cesarion",
-          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Flyga",
-      "url": "https://open.spotify.com/track/2NYq3cFJKFtGkxbGLzSXLP"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Jurgen Kropper (feat. Local)",
-        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+          "name": "Sam Girling",
+          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
         },
         {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+          "name": "William S",
+          "url": "https://open.spotify.com/artist/5t8pPAOxUSIfEPipFCWY12"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Jurgen Kropper (feat. Local)",
-      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
+      "duration_ms": 205383,
+      "name": "I'll Never Let You Go",
+      "url": "https://open.spotify.com/track/3tfHAxVT3liJRbYx1WQMPL"
     },
     {
-      "added_at": "2022-11-25 10:15:02",
+      "added_at": "2022-12-02 07:18:44",
       "album": {
-        "name": "take me back (edit)",
-        "url": "https://open.spotify.com/album/7w51AxdVjDFJyUMTURVwF5"
+        "name": "I Think I Love You",
+        "url": "https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1"
       },
       "artists": [
         {
-          "name": "isomonstrosity",
-          "url": "https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi"
+          "name": "ABISHA",
+          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
+        }
+      ],
+      "duration_ms": 252599,
+      "name": "I Think I Love You",
+      "url": "https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f"
+    },
+    {
+      "added_at": "2022-12-02 07:18:44",
+      "album": {
+        "name": "Wishlist",
+        "url": "https://open.spotify.com/album/4bJoRazDOrMpA58mF7n5HT"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4WCOxwqS5NqmcGCO0FngNb"
+    },
+    {
+      "added_at": "2022-12-02 07:18:44",
+      "album": {
+        "name": "Side by Side",
+        "url": "https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         },
         {
-          "name": "International Contemporary Ensemble",
-          "url": "https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Hugh Laurie",
+          "url": "https://open.spotify.com/artist/5WM5zPOswRcPu07rxP2dQv"
         }
       ],
-      "duration_ms": 117054,
-      "name": "take me back - edit",
-      "url": "https://open.spotify.com/track/1mUL8wNZy0OePVSTjMWqU7"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Everybody Wants Somebody",
-        "url": "https://open.spotify.com/album/5v4zx0x0sXXrScjTg7KYep"
-      },
-      "artists": [
-        {
-          "name": "Quarry",
-          "url": "https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "Everybody Wants Somebody",
-      "url": "https://open.spotify.com/track/3aH3f4A0SaYQHwmy6ZRIx7"
-    },
-    {
-      "added_at": "2022-11-25 10:15:02",
-      "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
+      "duration_ms": 167031,
+      "name": "Side by Side",
+      "url": "https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

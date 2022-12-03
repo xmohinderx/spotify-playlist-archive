@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,002 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,187 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 3 | [Synrise](https://open.spotify.com/track/4SD5ttMTZP2HF3EP9bWe4W) | [GOOSE](https://open.spotify.com/artist/3gAnduA93Ykv75yNrwXhz5) | [Synrise](https://open.spotify.com/album/56XubiYgiBFYFV7TrYIzWC) | 5:31 |
 | 4 | [Deadlines \(Thoughtful\)](https://open.spotify.com/track/2mQNBBeUUjzkEyQFibqePn) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg) | 5:51 |
 | 5 | [Sun Skin Air](https://open.spotify.com/track/1hbhPTc1daDTwZHddvXyCE) | [SUN SILVA](https://open.spotify.com/artist/5f84MJAiHgRVmGpDOQI1fU) | [Sun Skin Air](https://open.spotify.com/album/6NRyjVUbyvQgr1n1cbTUyT) | 4:45 |
-| 6 | [You And I \- Late Nite Tuff Guy Remix](https://open.spotify.com/track/4BOSCizWFzd97VoSNLc0yg) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/7tcY0CDVVadBVksF727ITl) | 6:25 |
+| 6 | [You And I \- Late Nite Tuff Guy Dub Remix](https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl) | 6:24 |
 | 7 | [Like Whoa](https://open.spotify.com/track/27uLq3wrOYZYPAtNkOFBE3) | [Nbhd Nick](https://open.spotify.com/artist/0bVFLYmOtn6jqiRlmVnz9w) | [Going Global](https://open.spotify.com/album/1xKUjFay6tnaFvcVbLwLfJ) | 2:10 |
 | 8 | [4'18" 'Till the End](https://open.spotify.com/track/1EwRARiZtp6P0X9wrlKsmq) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Globe, Vol\. 1](https://open.spotify.com/album/1eSaZcyblWVOWv9Q43zMUq) | 4:18 |
 | 9 | [Push](https://open.spotify.com/track/4d3ltLyciH816ekGMM3VbK) | [ALTA](https://open.spotify.com/artist/4dH7zjreLGJ4dcBfpHIg0L), [Hannah Lesser](https://open.spotify.com/artist/0IsMFEnd2vqcciDqoiYsB8), [Julius Dowson](https://open.spotify.com/artist/38rnAZvWkFctxFzce72788) | [Push](https://open.spotify.com/album/1BP7s8VMSNi0uH2g0sBh7X) | 3:14 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MTY2OTgyNjIwMywwMDAwMDAwMDdkOTkxZDUwOWZiOWFlZGMzZGU5YWFmYTVhODQ3ZTcw`
+Snapshot ID: `MTY2OTgyNjIwMywwMDAwMDAwMDhjZmQwMzFhNjM4MzY1YjM2MTU1OTc4MDc4ZGQ4NzE0`

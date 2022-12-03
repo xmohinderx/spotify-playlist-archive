@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 11696,
+  "num_followers": 11706,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MDU2NiwwMDAwMDAwMGY4MDg0MmU3YTJjZTBkNDU1MzFjZmM4YTk5NzI0YTE3",
+  "snapshot_id": "MTY2ODc3MDU2NiwwMDAwMDAwMGY4NzBjZDVkZmYyMWFiZWE0MTQ1Mzk1ZjIwMzUzYjI0",
   "tracks": [
     {
       "added_at": "2022-11-18 11:22:46",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Tomb for Rockets",
-        "url": "https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Tomb for Rockets",
-      "url": "https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
+        "name": "Tomb for Rockets",
+        "url": "https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Tomb for Rockets",
+      "url": "https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Ties",
-        "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
-      },
-      "artists": [
-        {
-          "name": "FELIVAND",
-          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
         "name": "Don't Forget to Look Up",
         "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 210873,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
+        "name": "Ties",
+        "url": "https://open.spotify.com/album/4FxnjC8luyeVutpg5OFNdR"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/2Akf7c4ZjddtzAd3lj6bI8"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Crazy Good",
-        "url": "https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        },
-        {
-          "name": "Roxanne",
-          "url": "https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Crazy Good",
-      "url": "https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p"
       },
@@ -647,18 +627,22 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Moral",
-        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
+        "name": "Crazy Good",
+        "url": "https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3"
       },
       "artists": [
         {
-          "name": "Sofie Winterson",
-          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Roxanne",
+          "url": "https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c"
         }
       ],
-      "duration_ms": 154986,
-      "name": "Be Bad",
-      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
+      "duration_ms": 231976,
+      "name": "Crazy Good",
+      "url": "https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -675,6 +659,22 @@
       "duration_ms": 195971,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
+        "name": "Moral",
+        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
+      },
+      "artists": [
+        {
+          "name": "Sofie Winterson",
+          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "Be Bad",
+      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
+        "name": "Never Compare",
+        "url": "https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I"
       },
       "artists": [
         {
-          "name": "Camo Columbo",
-          "url": "https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm"
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
         }
       ],
-      "duration_ms": 166363,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
+      "duration_ms": 267237,
+      "name": "Never Compare",
+      "url": "https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Never Compare",
-        "url": "https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
       },
       "artists": [
         {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+          "name": "Camo Columbo",
+          "url": "https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm"
         }
       ],
-      "duration_ms": 267237,
-      "name": "Never Compare",
-      "url": "https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM"
+      "duration_ms": 166363,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Something I Know",
-        "url": "https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF"
-      },
-      "artists": [
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Something I Know",
-      "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
         "name": "Rearview Paradise",
         "url": "https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 257239,
       "name": "Ain't Gonna Let You Drown",
       "url": "https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
+        "name": "Something I Know",
+        "url": "https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Something I Know",
+      "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
     },
     {
       "added_at": "2022-11-18 11:22:46",

@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-106 songs - 4 hr 47 min - not published yet
+107 songs - 4 hr 51 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,12 +106,13 @@
 | [Tension](https://open.spotify.com/track/38jLy7No0eF0SW3E5gjMC7) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Tension](https://open.spotify.com/album/1yhhCgv2WnGuAXbNVKtecA) | 2:42 | 2022-10-10 |  |
 | [The Creeps](https://open.spotify.com/track/4ZeHPxe1QYjYWWGC06gZ2P) | [GWRZTRMNR](https://open.spotify.com/artist/5mqGv6vgs3ZMJbbBOvWtQi) | [The Creeps](https://open.spotify.com/album/23TDQRMfrMD0W4nTiB1EuD) | 2:25 | 2022-11-18 |  |
 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 | 2022-10-10 |  |
-| [Tokyo Night](https://open.spotify.com/track/5om4dKxQi2NztFha8FOYbl) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Tokyo Night](https://open.spotify.com/album/1ayeDxvVIdrqPVHToyZa4h) | 2:02 | 2022-10-10 |  |
+| [Tokyo Night](https://open.spotify.com/track/5om4dKxQi2NztFha8FOYbl) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Tokyo Night](https://open.spotify.com/album/1ayeDxvVIdrqPVHToyZa4h) | 2:02 | 2022-10-10 | 2022-12-03 |
 | [UNDERWORLD](https://open.spotify.com/track/6vJVpxuHoWs3dmjYXyjfyW) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [UNDERWORLD](https://open.spotify.com/album/5ZZ4QO3bzFBOG2Gdy4eidW) | 2:10 | 2022-10-10 |  |
 | [UNREQUITED LOVE](https://open.spotify.com/track/6ggG03IXJujvzWX7SShGtG) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [UNREQUITED LOVE](https://open.spotify.com/album/5C8w6NNouScjByKvjMkjic) | 2:30 | 2022-10-10 |  |
 | [Void](https://open.spotify.com/track/1tZMS81fc3APyMkU14cTWk) | [SOULIFY](https://open.spotify.com/artist/4jnJA6v62HXFktScoZQHIw), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl) | [Void](https://open.spotify.com/album/3afCmbwcfdCYouUXV04xTO) | 2:38 | 2022-10-10 |  |
 | [VOODOO](https://open.spotify.com/track/18D25d3voTo9ZaUh5Ij46I) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [VOODOO](https://open.spotify.com/album/3T3mxTfHJm504OXFmgO5Jw) | 2:13 | 2022-10-10 | 2022-11-19 |
 | [vxzduh](https://open.spotify.com/track/702NDQuG9DGPJmwbAUFHTa) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [vxzduh](https://open.spotify.com/album/1aY5R5j1a5dqXXdrFo5lrM) | 3:05 | 2022-10-10 |  |
+| [We're Not Children Anymore](https://open.spotify.com/track/7Jddd2nB8kFKsJPJCq8SB4) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM), [brxken sxul](https://open.spotify.com/artist/7DfIRKGej5bJAbjunotyUf) | [We're Not Children Anymore](https://open.spotify.com/album/7GZyA3UjfoprmWp8AiwdMy) | 3:03 | 2022-12-02 |  |
 | [you're my moon](https://open.spotify.com/track/3QS2MR6CbGUliVnbRi8k1f) | [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [you're my moon](https://open.spotify.com/album/1fHsZc8gUUsdqVHA22N9Rw) | 2:22 | 2022-10-10 |  |
 | [Перестал мечтать](https://open.spotify.com/track/7LmeYVqtNa5FUxLK2Iyam8) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Перестал мечтать](https://open.spotify.com/album/2qBHvwmiX5p9Od7D1QFadg) | 2:48 | 2022-10-10 |  |
 

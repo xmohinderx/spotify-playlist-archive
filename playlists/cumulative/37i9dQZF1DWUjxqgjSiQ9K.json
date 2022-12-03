@@ -864,6 +864,24 @@
     },
     {
       "album": {
+        "name": "Bello Jes\u00fas",
+        "url": "https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB"
+      },
+      "artists": [
+        {
+          "name": "Alisha Quinonez",
+          "url": "https://open.spotify.com/artist/6QrruJcuTbmHWCZNxvnJR8"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281945,
+      "name": "Bello Jes\u00fas",
+      "url": "https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s"
+    },
+    {
+      "album": {
         "name": "Bendita Esperanza (Live)",
         "url": "https://open.spotify.com/album/3HfqQdQJPKHIsikpX2xWac"
       },
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 302538,
       "name": "Estar contigo",
       "url": "https://open.spotify.com/track/4O7TLknCyDmUAiWOTLEhrG"
@@ -3277,6 +3295,24 @@
       "duration_ms": 258795,
       "name": "La Mesa",
       "url": "https://open.spotify.com/track/02LK8U3ubV5HzZYTBVXj54"
+    },
+    {
+      "album": {
+        "name": "La Oraci\u00f3n",
+        "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "La Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
     },
     {
       "album": {
@@ -4647,7 +4683,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 162203,
       "name": "Prendio",
       "url": "https://open.spotify.com/track/0AFZ3q755SUhvquX6EVpnJ"

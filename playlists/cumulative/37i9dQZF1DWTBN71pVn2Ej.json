@@ -1092,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "repaper",
+        "url": "https://open.spotify.com/album/7iO6H6I4MdRY91NaA0GrOb"
+      },
+      "artists": [
+        {
+          "name": "Horror My Friend",
+          "url": "https://open.spotify.com/artist/0beSP3JKpM7CKshcYrNMyb"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Corners Peeling",
+      "url": "https://open.spotify.com/track/4xsnwt1XXsIhlH71cbgto9"
+    },
+    {
+      "album": {
         "name": "Sick Moon",
         "url": "https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd"
       },
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 211237,
       "name": "Giving The Past Away",
       "url": "https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm"
@@ -2022,6 +2040,24 @@
     },
     {
       "album": {
+        "name": "Stadium Dreams On A Bedroom Budget",
+        "url": "https://open.spotify.com/album/2ALvJNxFwqPtzq22hnPp0s"
+      },
+      "artists": [
+        {
+          "name": "LOSER",
+          "url": "https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204145,
+      "name": "Hold On You",
+      "url": "https://open.spotify.com/track/3ML65FJl6LE3s0e7SXevwm"
+    },
+    {
+      "album": {
         "name": "Honeybrains",
         "url": "https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt"
       },
@@ -2159,7 +2195,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 129147,
       "name": "I'm Feelin Alive",
       "url": "https://open.spotify.com/track/0ZdHUrfHYZpkmztomaDnIn"
@@ -2881,6 +2917,24 @@
       "duration_ms": 218200,
       "name": "New England",
       "url": "https://open.spotify.com/track/6Xc7LinCrQ5qwqVihDXrtr"
+    },
+    {
+      "album": {
+        "name": "New Glasses",
+        "url": "https://open.spotify.com/album/0RlbSe60TYD2V8zx8C7mny"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "New Glasses",
+      "url": "https://open.spotify.com/track/4miicEbDryBAnFO0c2xODc"
     },
     {
       "album": {
@@ -4509,7 +4563,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 239558,
       "name": "Waltzer",
       "url": "https://open.spotify.com/track/0etpfM0NrM6ByWqDtma4ss"

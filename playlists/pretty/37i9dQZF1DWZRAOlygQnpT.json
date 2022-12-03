@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 55598,
+  "num_followers": 55674,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY3OTUyMiwwMDAwMDAwMDllNjE1ZDg1ODRiMWE3ZWM4ZjM0YWM2NzY2NGRiMTE5",
+  "snapshot_id": "MTY1MTY3OTUyMiwwMDAwMDAwMGQyZDNmMzAwNzdlZDQ2MDk5MjY1NjJiMjQ5ZjhhNGQ2",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -487,18 +487,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "\u00c9xitos Del Rock",
-        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
+        "name": "Lo Mejor De Los Hermanos",
+        "url": "https://open.spotify.com/album/5pdI245Kbb9krwAdURocn4"
       },
       "artists": [
         {
-          "name": "Los Gliders",
-          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
         }
       ],
-      "duration_ms": 138000,
-      "name": "La Llorona Loca",
-      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
+      "duration_ms": 182000,
+      "name": "Las Cerezas (Le Celiege)",
+      "url": "https://open.spotify.com/track/22QsJTK2JQXZKSUW2sKj9w"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Lo Mejor De Los Hermanos",
-        "url": "https://open.spotify.com/album/5pdI245Kbb9krwAdURocn4"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Las Cerezas (Le Celiege)",
-      "url": "https://open.spotify.com/track/22QsJTK2JQXZKSUW2sKj9w"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 178665,
       "name": "La Pera Madura",
       "url": "https://open.spotify.com/track/4owGahTFwLeXEwcngODVC4"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "\u00c9xitos Del Rock",
+        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
+      },
+      "artists": [
+        {
+          "name": "Los Gliders",
+          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "La Llorona Loca",
+      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Buen Rock Esta Noche",
-        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
-      },
-      "artists": [
-        {
-          "name": "Los Loud Jets",
-          "url": "https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Hermosa Laura",
-      "url": "https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "P\u00f3lvora",
         "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 116715,
       "name": "P\u00f3lvora",
       "url": "https://open.spotify.com/track/0ZOq50OYzTgdhELqOoawz8"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Buen Rock Esta Noche",
+        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
+      },
+      "artists": [
+        {
+          "name": "Los Loud Jets",
+          "url": "https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Hermosa Laura",
+      "url": "https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu"
     },
     {
       "added_at": "2020-04-17 21:51:59",

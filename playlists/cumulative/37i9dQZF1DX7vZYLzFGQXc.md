@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Korea in 2022\. \(Cover: Evelyn Hahn\(에이블린 한\)\) 2022년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요!
 
-759 songs - 1 day 18 hr 54 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
+762 songs - 1 day 19 hr 6 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,8 @@
 | [NO MORE](https://open.spotify.com/track/4BQS5zaBI5J249sG2esoU9) | [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa), [Chae Subin](https://open.spotify.com/artist/15SOsJr51PEG1YLaQNdetM) | [NO MORE](https://open.spotify.com/album/1eJdpRmuiuKQsamZPCauk5) | 3:23 | 2022-03-17 | 2022-04-21 |
 | [No\. 2 Blade](https://open.spotify.com/track/35MjZSUkpAwLNcQ7yPZbR9) | [Xeuda](https://open.spotify.com/artist/1Horz2kjvySanhtv2nDgYX) | [Dream of, Blade, Breath](https://open.spotify.com/album/1zH13cusEl5X0kXuk1fel1) | 4:36 | 2022-01-24 | 2022-03-03 |
 | [No.5](https://open.spotify.com/track/49n3XWprPOrQP8O50Ue9ls) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [No.5](https://open.spotify.com/album/2Wnge9eiuPNX0EJFzDNfys) | 2:53 | 2022-01-10 | 2022-01-28 |
-| [nobody in the sea](https://open.spotify.com/track/4M4hcDWeT39ofj1zPzzhiR) | [Coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/3KyuLkpPD0YX7SDJNBuCd8) | 3:17 | 2022-02-04 |  |
+| [nobody in the sea](https://open.spotify.com/track/4M4hcDWeT39ofj1zPzzhiR) | [Coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/3KyuLkpPD0YX7SDJNBuCd8) | 3:17 | 2022-02-04 | 2022-12-03 |
+| [nobody in the sea](https://open.spotify.com/track/6VAk0q2b9soXU6LZNq5TRF) | [Coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/7ibkKmBjuuAoQxIss1ovq1) | 3:17 | 2022-11-30 |  |
 | [Nobody's Fault](https://open.spotify.com/track/0Eqj077XY6OCq1NQReUviZ) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:24 | 2022-03-17 | 2022-04-21 |
 | [Nostalgia](https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Nostalgia](https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD) | 4:39 | 2022-07-04 | 2022-08-19 |
 | [Not Anymore](https://open.spotify.com/track/2HJ5BHQ3pguvRIiCXqXuL7) | [VAITEI](https://open.spotify.com/artist/3ql4XNI00x7aUyzk26dDNO) | [Not Anymore](https://open.spotify.com/album/1qen2YeRQZv51XhBBcie3X) | 2:49 | 2022-06-09 | 2022-07-05 |
@@ -492,7 +493,8 @@
 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 | 2022-07-14 |  |
 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 | 2022-07-27 |  |
 | [Over That](https://open.spotify.com/track/7A4ZnRRrvnkpxENPHkGdEN) | [ROCKY](https://open.spotify.com/artist/4EqyJYhsMeyzJLdQNlRMef) | [Broke Rookie Star \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6s1yABIimFcJMLabEc4huW) | 3:30 | 2022-06-09 | 2022-06-21 |
-| [Over U](https://open.spotify.com/track/73fUH9vcrYWTbMfXQ7VZSO) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [Over U](https://open.spotify.com/album/3QZuRwsZn4PNaOlPZwbZwB) | 3:59 | 2022-03-02 |  |
+| [Over U](https://open.spotify.com/track/6DZaR9dv785UjGVhJDIt5g) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [Over U](https://open.spotify.com/album/4RcwDJ81RTTKKF18cZ6DP6) | 3:59 | 2022-11-30 |  |
+| [Over U](https://open.spotify.com/track/73fUH9vcrYWTbMfXQ7VZSO) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [Over U](https://open.spotify.com/album/3QZuRwsZn4PNaOlPZwbZwB) | 3:59 | 2022-03-02 | 2022-12-03 |
 | [Over You](https://open.spotify.com/track/6w4hZ9LHM2m1xHqnPvrDPk) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Over You](https://open.spotify.com/album/1WuXGnoEW3POjOwzaO3We2) | 3:15 | 2022-06-09 | 2022-06-21 |
 | [over you](https://open.spotify.com/track/61433ZY1sgJDjhAEy2WvNu) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [over you](https://open.spotify.com/album/5luARthI9NAWcLRo03wXMS) | 2:56 | 2022-06-18 | 2022-07-05 |
 | [Pacify Me](https://open.spotify.com/track/10depbVyTqBtNbiH8kQNbB) | [ZISU](https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom) | [Pacify Me](https://open.spotify.com/album/5k3MlOp9lYDkR2ilSeXwSU) | 3:16 | 2022-03-17 | 2022-04-21 |
@@ -508,7 +510,7 @@
 | [Plop](https://open.spotify.com/track/6WDTIIGDwLCQuinI8mhino) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Plop](https://open.spotify.com/album/0VSc7ag5Du2ixzHI5OYJic) | 2:49 | 2022-09-29 | 2022-12-01 |
 | [Pop It \(feat\. Koonta\)](https://open.spotify.com/track/1cAmgjeeYnrXoRrwEr9Kjr) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:48 | 2022-06-20 | 2022-08-13 |
 | [Potential](https://open.spotify.com/track/6Lrp4HqonE16Tt8PDeOHbY) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Potential](https://open.spotify.com/album/1aF1e7wcTDiADgCGe6trPg) | 3:08 | 2022-04-20 | 2022-06-10 |
-| [pretend to](https://open.spotify.com/track/1242GIgPtiaM1ewZOjam62) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [I'm a Loser](https://open.spotify.com/album/5fshIm1ZpoJNYHd7Aje4fN) | 4:07 | 2022-02-04 |  |
+| [pretend to](https://open.spotify.com/track/1242GIgPtiaM1ewZOjam62) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [I'm a Loser](https://open.spotify.com/album/5fshIm1ZpoJNYHd7Aje4fN) | 4:07 | 2022-02-04 | 2022-12-03 |
 | [Promise](https://open.spotify.com/track/50IyoASVmOpe02o6LKZ9aq) | [Posadic](https://open.spotify.com/artist/2Pe5hROLBx2lHpYl9Z4tCG) | [Promise](https://open.spotify.com/album/5FvqkNGdSF8PWzPdby8WLK) | 2:34 | 2022-09-29 | 2022-12-01 |
 | [Protective instinct \(feat\. Doha & Super Villain\)](https://open.spotify.com/track/4Nm5k3M4y6yZstoy9zno8p) | [Beaver](https://open.spotify.com/artist/3tndh36Fh0cPA32itRZbQb), [Doha](https://open.spotify.com/artist/3BruFP7xkpoAQg1VJnw4k5), [Super Villain](https://open.spotify.com/artist/4Zpjx5T33tloLSN23S9sNc) | [Protective instinct](https://open.spotify.com/album/088hZQdJOpdx1BjhQAeyDq) | 3:16 | 2022-06-18 | 2022-07-15 |
 | [Pulling](https://open.spotify.com/track/0HxSNInQOI38QmHtaIrVmv) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [Pulling](https://open.spotify.com/album/40vq1jOvdmR6xwhSahAaxg) | 3:18 | 2022-03-02 |  |
@@ -766,6 +768,7 @@
 | [잊어보려](https://open.spotify.com/track/7MlJdPayy55Lae2WyBD5PX) | [Yohan.D](https://open.spotify.com/artist/3kHHIGCGd6i2LPp0aqVpF0), [Huiii](https://open.spotify.com/artist/3yHaWhXdZeuI2l1LhzET3E) | [잊어보려](https://open.spotify.com/album/0D6icyFt3wd5VQFPGEYGW6) | 3:34 | 2022-01-10 | 2022-02-05 |
 | [제자리 \(loop\)](https://open.spotify.com/track/2tnKd2R6zWHXL65EkruiZM) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [제자리 \(loop\)](https://open.spotify.com/album/5AMPNy9dnzhc3vKyYWqrSh) | 3:20 | 2022-01-27 | 2022-03-03 |
 | [주인공](https://open.spotify.com/track/1qOcEC2RSSzTLyamrKAtQg) | [수정](https://open.spotify.com/artist/0qUoJSaKxbbI2XvjU8usDf) | [Miracle](https://open.spotify.com/album/5mzpPcrg6Uzxtz2J6mBzr7) | 3:32 | 2022-01-10 | 2022-01-25 |
+| [척 X pretend to](https://open.spotify.com/track/759NDy2g8IKBHpS5ULPb6n) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [나는야 찌질이 I'm a Loser](https://open.spotify.com/album/0syKC4hO6yzxl66JrS5hgD) | 4:07 | 2022-11-30 |  |
 | [품](https://open.spotify.com/track/3jylDNmrfXP8pVZmJxcIqt) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [품](https://open.spotify.com/album/7wlWWGqGmP5LpowlMwpN2W) | 2:57 | 2022-03-02 | 2022-03-24 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

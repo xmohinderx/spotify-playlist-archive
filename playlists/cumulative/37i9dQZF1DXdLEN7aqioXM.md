@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-368 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+369 songs - 1 day 2 hr 28 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Assembly Line](https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [Selection 6](https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl) | 3:49 | 2022-07-29 |  |
 | [Astral Dive \(From “In Search of Tomorrow”\)](https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p) | [Baldocaster](https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB) | [Astral Dive \(From “In Search of Tomorrow”\)](https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY) | 3:22 | 2022-06-17 | 2022-06-22 |
 | [Atmosfer \- Dr\. Parnassus Remix](https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Dr Parnassus](https://open.spotify.com/artist/5XEyV45wxK8tHOXIhJMOtk) | [Mikrokozmos](https://open.spotify.com/album/3sinUlAK8IZ2TqCAmpmWpj) | 7:00 | 2022-02-04 |  |
-| [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2021-10-15 |  |
+| [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2021-10-15 | 2022-12-03 |
 | [Backbone of the Night](https://open.spotify.com/track/0U2HJ0JMW4kMr3Np1ePFZ3) | [D/A/D](https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS) | [The Construct](https://open.spotify.com/album/1y7EUn0wZFWNeGcHB5V7YC) | 4:51 | 2022-07-22 |  |
 | [Backbone of the Night](https://open.spotify.com/track/2pNUmkx55kiyccsZCXKuNs) | [D/A/D](https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS) | [The Construct](https://open.spotify.com/album/0imjZumVsOunsT3qoIxoKI) | 4:51 | 2022-04-01 | 2022-07-28 |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/2vgL4j2cyWWBul8FWQ3GQO) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [Bad Night At Black's Beach](https://open.spotify.com/album/3gjBetsmhoUBsikaY4e6bQ) | 2:50 | 2021-10-15 | 2022-07-29 |
@@ -74,6 +74,7 @@
 | [Dangerous Desires](https://open.spotify.com/track/1CT5WeUsZkH2Etdb7HFC6N) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68) | 3:29 | 2022-04-01 |  |
 | [Dangerous Dreams](https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Action & Romance](https://open.spotify.com/album/0xpMKiD0WGBHBGQfYRPubw) | 4:02 | 2021-10-15 |  |
 | [Dani](https://open.spotify.com/track/2sf9WlBq7ZJjjTPYly04hk) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Dani](https://open.spotify.com/album/6GtLFLoASdgcQsMq9w4fUc) | 3:50 | 2022-07-22 | 2022-07-30 |
+| [Dans la forêt](https://open.spotify.com/track/7pXJSMQd8MpUBWSDTgXoQY) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3), [Rozam](https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4) | [Dans la forêt](https://open.spotify.com/album/6ZSGchl6f29QhV6mU7tdx7) | 3:44 | 2022-12-02 |  |
 | [Dark Prince, Pt\. 3](https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL) | [Atrey](https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw) | [Dark Prince](https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4) | 3:48 | 2021-10-15 |  |
 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 | 2021-10-15 |  |
 | [Dauntless to the End](https://open.spotify.com/track/4sLWuYCHBEooHf5FpPUkyw) | [The Great Wight Dread](https://open.spotify.com/artist/2BOuBgErBzSn6oCTtYOioG), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Dauntless to the End](https://open.spotify.com/album/0dMHuVVp1QsmCeuHXmhW0A) | 3:07 | 2022-07-01 |  |

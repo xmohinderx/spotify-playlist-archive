@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e?si=U\-tX\-QiYQkmrwftWnDnSZQ"> Adomaa</a>
 
-149 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
+151 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abeg](https://open.spotify.com/track/0WbdFDTdIbfQdIyZEcXEqH) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:28 | 2022-08-25 | 2022-10-29 |
 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 | 2022-11-25 |  |
 | [Abeg U](https://open.spotify.com/track/4WFFWMFIsEqX3SeIkftUp2) | [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Abeg U](https://open.spotify.com/album/672qLgUzgkxADMTp0ZWlaP) | 2:54 | 2022-09-29 | 2022-11-19 |
+| [Addicted](https://open.spotify.com/track/1L2WtJL0cZQFWWl0JvXWhK) | [Josh Dre](https://open.spotify.com/artist/03764xHwcDofSPmUTP3LK6) | [Addicted](https://open.spotify.com/album/5wIsI33BxVQC0bJFfETjR6) | 3:41 | 2022-12-02 |  |
 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 | 2022-06-30 |  |
 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 | 2022-07-28 |  |
 | [Avoid Things](https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:44 | 2022-06-30 | 2022-10-14 |
@@ -21,6 +22,7 @@
 | [Bad Girl](https://open.spotify.com/track/6nF87DDkdHKIIOM5Qu4SoL) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Girl](https://open.spotify.com/album/77zGPXkrQ8NnXLMPtWYtnM) | 3:14 | 2022-08-18 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-30 | 2022-10-14 |
 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 | 2022-07-28 | 2022-11-04 |
+| [Be On It](https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT) | [TSCRPT](https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV), [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Be On It](https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw) | 3:36 | 2022-12-02 |  |
 | [Beautiful](https://open.spotify.com/track/0BO57WBcIJXNgGI4X4nMxp) | [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Mona Lee](https://open.spotify.com/artist/31SwU8B82fHBnE0CGNxKSx) | [Beautiful](https://open.spotify.com/album/2pvpi4OiBdrFqAzhWmL4s1) | 2:37 | 2022-10-13 | 2022-10-29 |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-06-30 |  |
 | [Beside You](https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg), [Lor](https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK), [Lily Asia](https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu) | [Tapestry](https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u) | 3:47 | 2022-10-13 | 2022-11-26 |

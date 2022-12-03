@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-349 songs - 22 hr 19 min - not published yet
+350 songs - 22 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,8 @@
 | [Yellow Jacket](https://open.spotify.com/track/5VqtAbPR64zkQHaYbcxtVQ) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Yellow Jacket](https://open.spotify.com/album/1yJe9UFhWZvMGFlaDF9haP) | 3:48 | 2022-04-08 |  |
 | [You](https://open.spotify.com/track/1m4Jk7HXqNBdlkJtTGSK8u) | [Flo/So](https://open.spotify.com/artist/3Exl4gYa8yBajHnOFwt94e) | [You](https://open.spotify.com/album/1jOVM0dhGeRd1FepOGH86J) | 3:36 | 2022-04-08 |  |
 | [You Ain't Takin' My Man](https://open.spotify.com/track/0zAQd8HPcb720jtBnU4YMF) | [SPARKLE DIVISION](https://open.spotify.com/artist/2qJTi04qBpG3C0RR62l1Du) | [To Feel Embraced](https://open.spotify.com/album/6pEg6rRDGKqsrQjCiY5AUc) | 4:14 | 2022-04-08 |  |
-| [You And I \- Late Nite Tuff Guy Remix](https://open.spotify.com/track/4BOSCizWFzd97VoSNLc0yg) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/7tcY0CDVVadBVksF727ITl) | 6:25 | 2022-11-24 |  |
+| [You And I \- Late Nite Tuff Guy Dub Remix](https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl) | 6:24 | 2022-11-24 |  |
+| [You And I \- Late Nite Tuff Guy Remix](https://open.spotify.com/track/4BOSCizWFzd97VoSNLc0yg) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/7tcY0CDVVadBVksF727ITl) | 6:25 | 2022-11-24 | 2022-12-03 |
 | [You Are Gold \(A Song for Pretty in Pink\)](https://open.spotify.com/track/5ugp0EWSi2V3Jhc3x2cVsg) | [Oblique](https://open.spotify.com/artist/4MpqCI0OBdO3g5kM9jbsOX), [Carlos Bayona](https://open.spotify.com/artist/1C131DlMXvTN7zLMkSheld) | [Stop the World \(A Song for Pretty in Pink\) \- EP](https://open.spotify.com/album/1GNYGnNd2p6EJS1gMPDfId) | 5:56 | 2021-09-01 |  |
 | [You Are the One](https://open.spotify.com/track/4Gbz85VVwnbNbrnwkuTMPJ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/4KLLfHTlpdPMbZEyeVwnD8) | 3:36 | 2022-11-24 |  |
 | [You Don't Wanna Play With Us](https://open.spotify.com/track/41FTIhqvXWXXD3L6dUfywa) | [TheUnder](https://open.spotify.com/artist/7ogskCVMF90MFsHCNrUXTR), [Robyn The Bank](https://open.spotify.com/artist/72ikur4gC8lH9yIsF5Idx2) | [Feel My Vibe](https://open.spotify.com/album/44a823yUVbJeay22wlmT9S) | 2:24 | 2021-09-01 |  |

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-204 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+206 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Moon Knight \- From "Moon Knight"](https://open.spotify.com/track/3IvbyVYgQEKqvwQhquFKNn) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(From "Moon Knight"\)](https://open.spotify.com/album/3aDLlTH3zT60e9pfJwtzlB) | 2:08 | 2022-04-08 | 2022-07-29 |
 | [Ms\. Marvel Suite \- From "Ms\. Marvel"](https://open.spotify.com/track/75yRQ1RE96bpNPhQvcOveR) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel Suite \(From "Ms\. Marvel"\)](https://open.spotify.com/album/1f6HDHbyMsSLFqomt40gmV) | 4:29 | 2022-06-10 |  |
 | [My Journey \- Film Version for "The Father" / David Menke Remix](https://open.spotify.com/track/47ivOpw9ELwKu316IrZMmE) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [David Menke](https://open.spotify.com/artist/469hbNk7fj83mUY9Fhd94P) | [My Journey \(Film Version for "The Father" / David Menke Remix\)](https://open.spotify.com/album/7KSLBWEc8JMQqfVmxEVict) | 3:55 | 2021-12-20 |  |
+| [My Life Is on Inisherin](https://open.spotify.com/track/11kh0ybfoTNvuRp7eckI5R) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 3:46 | 2022-12-02 |  |
 | [My Life is Out There](https://open.spotify.com/track/3RcfALEStAw8Mfvv8ttdke) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [My Life is Out There](https://open.spotify.com/album/4hg4jNK4B6dKOvDq4KIDTm) | 3:51 | 2021-12-20 | 2022-08-20 |
 | [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 | 2022-10-28 |  |
 | [Nature is Timeless \- from "The Menu" Soundtrack](https://open.spotify.com/track/3m7Lq24EfeviUmmV19vuyZ) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Nature is Timeless \(from "The Menu" Soundtrack\)](https://open.spotify.com/album/0x0nfTbx7cdV7DBcEDc3FS) | 2:42 | 2022-11-11 |  |
@@ -114,6 +115,7 @@
 | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4HUsC4vT6Aqeql8FKLfnbJ) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BIRDDEZoEEsDsEnXvb4Kg) | 2:01 | 2021-12-20 | 2022-07-29 |
 | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [No Ball Games \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn) | 2:01 | 2022-07-22 |  |
 | [Noriv al Zaffid \(Two Halves of One Whole\)](https://open.spotify.com/track/6iw5jjvWZXtugCb77wrmKN) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Wheel of Time: The First Turn \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5y6KBJLarvo96RTYCIGQ6I) | 2:00 | 2021-12-20 |  |
+| [Not All Men \- From "Women Talking" Soundtrack](https://open.spotify.com/track/22YAuxChtTHX8D9so4i5R5) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Not All Men \(From "Women Talking" Soundtrack\)](https://open.spotify.com/album/2fzBDU5hPOl8AqcxOdhu2B) | 3:29 | 2022-12-02 |  |
 | [Now I'm Ready, I'm Ready Now](https://open.spotify.com/track/4OkXVcqJXUijBZ9hoKTLWj) | [Daniel Hart](https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW) | [The Green Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yuBusTe5rPkBCtGhfHirQ) | 4:01 | 2021-12-20 |  |
 | [Now I'm Scared](https://open.spotify.com/track/4CJLB70IYaljarme10H3P2) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Blackbird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38eb7aD4bdIOZVqJsXwswk) | 3:19 | 2021-12-20 | 2022-07-09 |
 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 | 2022-07-01 |  |

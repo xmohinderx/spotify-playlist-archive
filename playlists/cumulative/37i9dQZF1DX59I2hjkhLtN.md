@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Puro L.
 
-250 songs - 12 hr 45 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+251 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Fórmula](https://open.spotify.com/track/3xr7pXPS5rg1F9cIPzTQva) | [TITANIUM](https://open.spotify.com/artist/64ccBKmQ9N7JhEChALXKXw), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Fórmula](https://open.spotify.com/album/0YFZ03JXD3noXgzK000FCi) | 3:33 | 2022-07-07 | 2022-08-02 |
 | [G A S](https://open.spotify.com/track/4gt122triXZxANEd3xeWck) | [HeartLess](https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r) | [G A S](https://open.spotify.com/album/1PXliQ8J3q2FB4PdYVsVi6) | 2:47 | 2022-07-07 | 2022-10-07 |
 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 | 2022-11-18 |  |
+| [Genuíno](https://open.spotify.com/track/37EuzIEKHvMjBFwh2mQ3H0) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN), [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [IN.TEMP.](https://open.spotify.com/album/4NNnzLC4OAWwlOe0tHeVFl) | 3:05 | 2022-12-02 |  |
 | [Ghetto Superstars](https://open.spotify.com/track/1KVCbIvSAbLM7BOF3BjUO6) | [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [Dstar](https://open.spotify.com/artist/3DdlhtzIfv8fBhO7kHgU1P) | [Ghetto Superstars](https://open.spotify.com/album/4lMmnsh3W2lCxnV9tm33nf) | 3:18 | 2022-09-29 |  |
 | [Ghost Town](https://open.spotify.com/track/6RkEWRFKtVVhbschPiZ8ya) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8) | [Ghost Town](https://open.spotify.com/album/0qc1L33joo4piCJjwrvo5f) | 2:53 | 2022-07-07 | 2022-10-07 |
 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 | 2022-09-29 | 2022-11-18 |

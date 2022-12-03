@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-81 songs - 8 hr 23 min - not published yet
+83 songs - 8 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Here To There](https://open.spotify.com/track/3IXXrC5AFX7YWTbt39WHZn) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Here to There](https://open.spotify.com/album/7wReVYJJ4QR2gldrWDkzAJ) | 5:59 | 2022-11-24 |  |
 | [Hold Me To The Light \- Tale Of Us Remix](https://open.spotify.com/track/3Allgqu3MaHE8QFvzoP90S) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt), [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 6:38 | 2022-11-23 |  |
 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 | 2022-11-23 |  |
+| [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-03 |  |
 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 | 2022-11-23 |  |
 | [Inside My Head](https://open.spotify.com/track/1r8aDSQwCBdfHWHQE0Vvhr) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Inside My Head](https://open.spotify.com/album/2jjIP47viQxEy1d6JOp9MW) | 6:50 | 2022-11-23 | 2022-11-28 |
 | [Ketuvim \- Ae:ther Remix](https://open.spotify.com/track/2JSxvwyyxTh2c1YKa0kuTe) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Ketuvim \(Ae:ther Remix\)](https://open.spotify.com/album/1xPCM1ml3ZePp58ard2AQV) | 8:23 | 2022-11-23 |  |
@@ -61,7 +62,8 @@
 | [Overcome](https://open.spotify.com/track/3Ri7CVRYHurCnvubOZKZRA) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu), [Arturo \(RU\)](https://open.spotify.com/artist/5Mci17S1El2pO6fvVaZ2Fd) | [Overcome](https://open.spotify.com/album/1esfKP16AKHgk6P5fDuXQX) | 7:12 | 2022-11-23 |  |
 | [Oxygen Levels Low](https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Oxygen Levels Low EP](https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il) | 7:26 | 2022-11-23 |  |
 | [Prometheus](https://open.spotify.com/track/7sO0E7yfhhLjWoKOt4aZ7j) | [Avidus](https://open.spotify.com/artist/6v1l56EZ8Wl7gpZhfihaKQ) | [Goethe \- EP](https://open.spotify.com/album/3hp5jQqJW4iygbwprFOA67) | 8:20 | 2022-11-24 |  |
-| [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-11-24 |  |
+| [Pulses](https://open.spotify.com/track/5rFfwssa9fgfBikDG5lGOn) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Universo](https://open.spotify.com/album/6myGAZHh7d3FbQUFHnN9WT) | 6:04 | 2022-11-23 |  |
+| [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-11-24 | 2022-12-03 |
 | [Rave](https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 6:45 | 2022-11-24 |  |
 | [Renaissance](https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Renaissance](https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf) | 5:04 | 2022-11-23 |  |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-11-23 |  |
@@ -74,7 +76,7 @@
 | [Something Unreal \- Oliver Huntemann & André Winter Remix](https://open.spotify.com/track/052FRbHApjMoCKHxJfqPro) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR), [André Winter](https://open.spotify.com/artist/3uGjpxycNoFU7hQYQduP4k) | [Something Unreal \(Oliver Huntemann & André Winter Remix\)](https://open.spotify.com/album/47f47tiAbZQvh7dIK7jlNn) | 6:42 | 2022-11-27 |  |
 | [Starboy](https://open.spotify.com/track/26Yk79sAcZyBZZGTvo1Woi) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Starboy](https://open.spotify.com/album/7m9xPpTESAfmzYhsU6PHRw) | 7:08 | 2022-11-23 |  |
 | [System](https://open.spotify.com/track/5E8Q6eXY1EGAnf9a8vF8eT) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:07 | 2022-11-23 |  |
-| [Take Me 7](https://open.spotify.com/track/3ZDQDKDD7QaIaH6BaKwXJa) | [MOLLA](https://open.spotify.com/artist/2mtAqjFc61b8S8as9ZFvBN) | [Take Me 7](https://open.spotify.com/album/0cKigbWtjzuptUBAWOy6gE) | 6:02 | 2022-11-23 |  |
+| [Take Me 7](https://open.spotify.com/track/3ZDQDKDD7QaIaH6BaKwXJa) | [MOLLA](https://open.spotify.com/artist/2mtAqjFc61b8S8as9ZFvBN) | [Take Me 7](https://open.spotify.com/album/0cKigbWtjzuptUBAWOy6gE) | 6:02 | 2022-11-23 | 2022-12-03 |
 | [Tataki](https://open.spotify.com/track/1vdYudatKL5iRIM7i6vkvG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Tataki](https://open.spotify.com/album/2TIki9mmFhTGkyJM0Svses) | 5:28 | 2022-11-23 |  |
 | [The Kid and the Planes](https://open.spotify.com/track/1hKOeHFbeGBadMDIeT3NT0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [The Kid and the Planes](https://open.spotify.com/album/6Qcay3XgV5sa1nrQm2bSwv) | 8:05 | 2022-11-23 | 2022-11-29 |
 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 | 2022-11-23 |  |

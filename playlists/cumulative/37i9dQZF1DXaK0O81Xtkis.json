@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Fitz & The Tantrums",
+  "description": "make it pop! cover: The 1975",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -212,6 +212,24 @@
     },
     {
       "album": {
+        "name": "as the world is passing by.",
+        "url": "https://open.spotify.com/album/4D98wniyXPAR0xBjmJvpge"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "6am in amsterdam.",
+      "url": "https://open.spotify.com/track/4SRmLLMhqGvYc4QuvVhFsO"
+    },
+    {
+      "album": {
         "name": "about you",
         "url": "https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe"
       },
@@ -231,6 +249,24 @@
       "duration_ms": 167068,
       "name": "about you",
       "url": "https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2"
+    },
+    {
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "album": {
@@ -1963,7 +1999,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 165956,
       "name": "don't wanna be your friend",
       "url": "https://open.spotify.com/track/2sMH4QWOM6pho9EY2RTPoO"
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 188352,
       "name": "evergreen",
       "url": "https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA"
@@ -2309,6 +2345,24 @@
       "duration_ms": 181853,
       "name": "fan behavior",
       "url": "https://open.spotify.com/track/2HWJELHnneoKGVe0mRFeeD"
+    },
+    {
+      "album": {
+        "name": "FAVORITE PART",
+        "url": "https://open.spotify.com/album/2ozUR3Sj5ZBn9W5zsMusVu"
+      },
+      "artists": [
+        {
+          "name": "Jake Clark",
+          "url": "https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "FAVORITE PART",
+      "url": "https://open.spotify.com/track/1ssq7tSefgoZkTSTrI51rg"
     },
     {
       "album": {
@@ -2547,7 +2601,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 184800,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/1FOVnwpspev8ASJOylLPP7"
@@ -3816,6 +3870,24 @@
     },
     {
       "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150706,
+      "name": "I Need That",
+      "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
+    },
+    {
+      "album": {
         "name": "i remember",
         "url": "https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc"
       },
@@ -4029,7 +4101,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 171576,
       "name": "IDK SH!T",
       "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
@@ -4145,6 +4217,24 @@
       "duration_ms": 206000,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle"
+    },
+    {
+      "album": {
+        "name": "It Could Be Me",
+        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127458,
+      "name": "It Could Be Me",
+      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
     },
     {
       "album": {
@@ -4383,7 +4473,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
@@ -4445,7 +4535,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 175724,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9"
@@ -5787,7 +5877,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
@@ -5805,7 +5895,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 131328,
       "name": "OH NO!",
       "url": "https://open.spotify.com/track/5NDjk4GOodIGmrQxSjExEr"
@@ -7097,7 +7187,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
@@ -8749,7 +8839,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"

@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-270 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+271 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Circadian](https://open.spotify.com/track/3bb6awuqz2ZJggqGtvPVYE) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:52 | 2021-12-10 |  |
 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 | 2021-12-10 |  |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-10 | 2022-08-13 |
+| [Clouds](https://open.spotify.com/track/6za1vOLEcxfVRs9xFTNGfS) | [Vista Hierro](https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp) | [An Evening Sky](https://open.spotify.com/album/3au3MZf62Yy8cm4OknYbWh) | 2:32 | 2022-12-02 |  |
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-02-25 |  |
 | [Cosa Succede Se](https://open.spotify.com/track/00Z7iLsR10x9y00gAZ2Nx3) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 3:03 | 2021-12-10 |  |
 | [Counting Days](https://open.spotify.com/track/6ICbjz9nRT7tRGDrkabqc6) | [Twilight Time](https://open.spotify.com/artist/3TMpH9YDPUAnGeC5oEtq21) | [Counting Days](https://open.spotify.com/album/6XuscYT9AD9Q45AbvswZVA) | 2:37 | 2022-11-11 |  |
@@ -190,7 +191,7 @@
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2021-12-10 |  |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-10 |  |
-| [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 | 2021-12-10 |  |
+| [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 | 2021-12-10 | 2022-12-03 |
 | [Reflection of the Unknown](https://open.spotify.com/track/3ju7ioziNTBPy8TvY31Jqb) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 3:03 | 2021-12-10 |  |
 | [Relief](https://open.spotify.com/track/0tCTXGCsD8wgeLtYQ1b5H1) | [Florian Beck](https://open.spotify.com/artist/7niY9S79C2uZMphA38wXl9) | [Relief](https://open.spotify.com/album/5Gk1eWQHJU6mJEuwGADs2f) | 1:44 | 2021-12-10 |  |
 | [Reminiscence Of Innocence](https://open.spotify.com/track/2AV90A6Qwgn47bZhHh8ys0) | [Ossie Woods](https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl) | [Reminiscence Of Innocence](https://open.spotify.com/album/02xiVs0d6AFk43j4FmRWGi) | 2:06 | 2021-12-10 |  |

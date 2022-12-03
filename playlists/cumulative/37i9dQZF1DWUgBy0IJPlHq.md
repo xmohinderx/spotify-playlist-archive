@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> The soundtrack for your road trips, campfires, and keeping you busy in between episodes of Yellowstone\. Curated by Yellowstone music supervisor, Andrea von Foerster\. Cover: Drayton Farley
+> A new shade of Country\. Cover: Elle King
 
-382 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
+384 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Desperate Man](https://open.spotify.com/track/7aGILHwGlI1uZ1VTxAWPPf) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 4:53 | 2022-03-18 | 2022-07-16 |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2021-12-17 | 2022-05-14 |
 | [Dig A Little Deeper \(In The Well\)](https://open.spotify.com/track/2LVc94jQD0PMgUcmcV2CkH) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Me / And / Dad](https://open.spotify.com/album/3sEnM8BV4F3dQno5rFzdW1) | 3:13 | 2022-11-18 |  |
+| [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 | 2022-12-02 |  |
 | [Dishes Ain't Done](https://open.spotify.com/track/5lxv6M8r1PW1r2f0nxZIRG) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR), [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Dishes Ain't Done](https://open.spotify.com/album/1rrYOXPzEqjg9brzMGzGMc) | 3:13 | 2022-08-19 |  |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-17 | 2022-08-06 |
 | [Don't Blame It on Me](https://open.spotify.com/track/1XVLwPLqU18l5DRqNQS7m7) | [Kimberly Kelly](https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc) | ["I'll Tell You What's Gonna Happen"](https://open.spotify.com/album/5H6WsuIbCm7xkRkDEmDTxN) | 3:37 | 2022-07-08 | 2022-09-10 |
@@ -334,7 +335,8 @@
 | [Things A Man Oughta Know](https://open.spotify.com/track/45Ue0F8p2OaC94Jdyoeg6u) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Neon Diamonds](https://open.spotify.com/album/65LXcpHPc6gJ9sFaKJbNsH) | 3:23 | 2021-12-17 | 2022-05-20 |
 | [Think I'll Stay](https://open.spotify.com/track/6cpZoc1E7SBdJHh6AjAv96) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Think I'll Stay](https://open.spotify.com/album/7fQan4IJWlBk0UkY0Zj2oD) | 3:36 | 2021-12-17 | 2022-02-05 |
 | [This Is My Prairie](https://open.spotify.com/track/5VBOM5AP0w8w6r3JzgxyEh) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [This Is My Prairie](https://open.spotify.com/album/49AYPmLN4h7GWmbX6xdoIO) | 4:04 | 2021-12-17 | 2022-02-19 |
-| [This One's Gonna Cost Me](https://open.spotify.com/track/72YJsct5l2rGUVfMzWeTmz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:13 | 2022-11-25 |  |
+| [This One's Gonna Cost Me](https://open.spotify.com/track/3wnrKK7mvADKAyX23SI01F) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:13 | 2022-11-25 |  |
+| [This One's Gonna Cost Me](https://open.spotify.com/track/72YJsct5l2rGUVfMzWeTmz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:13 | 2022-11-25 | 2022-12-03 |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2022-10-14 |  |
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 | 2022-04-16 |
 | [Time of the Cottonwood Trees](https://open.spotify.com/track/4yqTF5PlZSTmaFsd2pi54p) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 2:53 | 2022-11-25 |  |

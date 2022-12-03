@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65mTEy33PMBRsfVtpwexlc.md) - [plain]
 
 > Best of 90s alternative rock music including iconic throwback alt rock songs from Blur, Depeche Mode, The Goo Goo Dolls, and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 62,712 likes - 83 songs - 5 hr 44 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 62,709 likes - 83 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/65mTEy33PMBRsfVtpwexlc.md) - [plain]
 | 82 | [What's My Age Again?](https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:28 |
 | 83 | [All Mixed Up](https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:59 |
 
-Snapshot ID: `OTQ5LDBlM2JhYTkzNjM5ZGI1OGJlM2E3NWE0NDQ1ODhiZjNiOWY5NGM2MDM=`
+Snapshot ID: `OTUxLGVmNGUzOWM2YThjZDA5NjI0NDI0YzBhOGZlM2QyZWUzMjUyYjM5YWU=`

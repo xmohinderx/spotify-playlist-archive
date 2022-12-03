@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,970 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,110 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 27 | [But it's Destiny \- Instrumental](https://open.spotify.com/track/5fldke8cYJSXWfPsk0eEsP) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
 | 28 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
 | 29 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
-| 30 | [An Ordinary Day \- Instrumental](https://open.spotify.com/track/4ly1bQiQoFw5FgY49QccGg) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 |
-| 31 | [Done For Me \- Instrumental](https://open.spotify.com/track/4P51LRgsC9zvxhK3t50NGD) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.12](https://open.spotify.com/album/2vJQLqTDoS8ZPv8ydgkPBv) | 3:51 |
-| 32 | [Nevertheless \- Instrumental](https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 |
+| 30 | [Nevertheless \- Instrumental](https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 |
+| 31 | [An Ordinary Day \- Instrumental](https://open.spotify.com/track/4ly1bQiQoFw5FgY49QccGg) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 |
+| 32 | [Done For Me \- Instrumental](https://open.spotify.com/track/4P51LRgsC9zvxhK3t50NGD) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.12](https://open.spotify.com/album/2vJQLqTDoS8ZPv8ydgkPBv) | 3:51 |
 | 33 | [The Days We Loved \- Instrumental](https://open.spotify.com/track/3Yo3Y7z6waKjc6WrpnSPse) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The World of the Married, Pt\. 6 \(Original Television SoundTrack\)](https://open.spotify.com/album/3giN7KiHhfRJb2L8LGToHu) | 4:01 |
 | 34 | [Moonchild Ballad \- Instrumental](https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ) | 4:22 |
 | 35 | [Is You \- Instrumental](https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Memories of the Alhambra \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [Home Instrumental](https://open.spotify.com/track/5HHEhGBLhP6NAHNqXCkJeA) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [Your Honor Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KvtjZtElrGb7sFvOrE4t6) | 4:39 |
 | 50 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 
-Snapshot ID: `MTY0OTc1NDk3OSwwMDAwMDAwMGZkYjEzZTY2NGQ0MDJiMzMzY2I5YzQyNWQ2Y2ViM2I1`
+Snapshot ID: `MTY0OTc1NDk3OSwwMDAwMDAwMGFjOTNiM2NmYmI5YWUyYTJkOWVmNGYzY2ZmNzI1OGRh`

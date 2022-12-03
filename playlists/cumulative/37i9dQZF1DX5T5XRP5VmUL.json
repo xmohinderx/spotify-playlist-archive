@@ -1930,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "I'm Ready For Christmas",
+        "url": "https://open.spotify.com/album/7aiiUn98kVj0zp0ZQf6pSO"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145139,
+      "name": "I'm Ready For Christmas",
+      "url": "https://open.spotify.com/track/7MMXcvgISOTgjwJq8RAj9f"
+    },
+    {
+      "album": {
         "name": "If Christmas Comes This Year",
         "url": "https://open.spotify.com/album/4nghqvirqhtoelbyFkgfYr"
       },
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193900,
       "name": "It Won't Be Christmas",
       "url": "https://open.spotify.com/track/7N2Nct5EFTfe5LDyTlenWf"
@@ -2345,6 +2363,24 @@
       "duration_ms": 176788,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6cHWO6sSqfJ0WIRA6yiJ6B"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/7IguZUbEN3K37mQ2lTI4Uq"
     },
     {
       "album": {
@@ -2767,7 +2803,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 185680,
       "name": "Mistress Claus",
       "url": "https://open.spotify.com/track/4Vs5gIqRFuWhPYIzTIzbug"
@@ -3587,7 +3623,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200998,
       "name": "Snow Place Like Home",
       "url": "https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s"
@@ -3743,6 +3779,28 @@
       "duration_ms": 221000,
       "name": "The Ballad of Mrs. Claus",
       "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
+    },
+    {
+      "album": {
+        "name": "A very chilly christmas",
+        "url": "https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249708,
+      "name": "The Banister Bough",
+      "url": "https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb"
     },
     {
       "album": {

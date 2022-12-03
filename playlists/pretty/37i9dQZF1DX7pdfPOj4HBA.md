@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 
 > chill vibes ♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,664 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,679 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 39 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 |
 | 40 | [So Fine \(feat\. Haile WSTRN\)](https://open.spotify.com/track/0sTgHAn5mxtQXeb1BsLSKC) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [So Fine \(feat\. Haile WSTRN\)](https://open.spotify.com/album/5doqlFn9zzROMGm1FNMudZ) | 3:21 |
 | 41 | [With or Without](https://open.spotify.com/track/4UYiGEJYh31kBOjcEX9nG6) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [669](https://open.spotify.com/album/4Ik4n4SrWkEgCPKtpm3x3f) | 3:22 |
-| 42 | [Don't Play](https://open.spotify.com/track/0EXjHqEgvA6pfC2dFgjftW) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/6xWw24oa3FVpU4Q30quSBK) | 2:17 |
+| 42 | [Don't Play](https://open.spotify.com/track/3LI5b1E6jYpMI8zRwuoeMw) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/0YsKj89MQL8KQgGjfWlUnI) | 2:17 |
 | 43 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
 | 44 | [No Chill](https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 2:43 |
 | 45 | [Strings](https://open.spotify.com/track/6rj48XPo5Gk9T7kXFYY93y) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [OTHER WAYS TO VENT](https://open.spotify.com/album/4ZMHZn1OsaFc4Gydlzw9VK) | 2:55 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 50 | [Bravo](https://open.spotify.com/track/7Fj100bgen9smuQzFdZYM3) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [Bravo](https://open.spotify.com/album/2yCwBfb6fy9kQ5JWXUrpZX) | 3:33 |
 | 51 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
 
-Snapshot ID: `MTY2ODc2OTIwMCwwMDAwMDAwMGMzYjA4YzUyZjgzOTE1OWNlYzg3NjBiNzIwNmVlMTM3`
+Snapshot ID: `MTY2ODc2OTIwMCwwMDAwMDAwMDNjYTM2Y2U2ZmY1ZDdjMDZlY2UxYTAzOTBmYzViNzk0`

@@ -2,9 +2,9 @@
 
 ### [Queer As Folk](https://open.spotify.com/playlist/37i9dQZF1DX5TMFhaZc9ov)
 
-> Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
+> Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Adeem the Artist
 
-145 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+147 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Both Hands](https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw) | 3:38 | 2022-06-10 | 2022-11-03 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2022-06-01 |  |
 | [Capa de Revista](https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Capa de Revista](https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5) | 2:54 | 2022-06-01 |  |
+| [Carolina](https://open.spotify.com/track/5Q7BgJ0EhqFWdqlMtgDUgM) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [White Trash Revelry](https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP) | 3:24 | 2022-12-02 |  |
 | [Caught in the Middle](https://open.spotify.com/track/366ackiLJUi7PhoAPyvndY) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [The Theory of Absolutely Nothing](https://open.spotify.com/album/2BbNHSDWsTMWIYPCA15Ria) | 2:51 | 2022-06-10 |  |
 | [Caught in the Middle](https://open.spotify.com/track/5WLGaR4aUOxwotarBKoRUQ) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [The Theory of Absolutely Nothing](https://open.spotify.com/album/7GcFLvBFgqs6YTODV9XrdN) | 2:51 | 2021-06-01 | 2022-07-29 |
 | [Cigarette](https://open.spotify.com/track/0TZxE5lsxbqrdEWxxpHv34) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [I'm Not Your Man \(Deluxe\)](https://open.spotify.com/album/58IxxVGqidZ8sLWNKeknlH) | 2:37 | 2021-06-01 | 2022-07-29 |
@@ -40,6 +41,7 @@
 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 | 2022-06-01 |  |
 | [Cool Girl](https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 3:19 | 2021-06-01 |  |
 | [Cowboy](https://open.spotify.com/track/51vtQDs3PPnWwB7hDOwpHs) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Harshest Critic](https://open.spotify.com/album/49lMIK60bcwjMPgDfaIV71) | 4:00 | 2021-06-01 | 2022-06-01 |
+| [Crop Circles](https://open.spotify.com/track/2VOrYcyK0rqa9gZ0gUL0fI) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Crop Circles](https://open.spotify.com/album/6o8QongKZ7ZPCgy6EYghhC) | 3:46 | 2022-12-02 |  |
 | [Céu Azul](https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Céu Azul](https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N) | 3:28 | 2021-06-01 | 2022-06-01 |
 | [Deferred Gratification](https://open.spotify.com/track/0z0KuKYsE0rYmdS7gedm4O) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Binary](https://open.spotify.com/album/40K1wGwuWJcj6KAFjRcoUT) | 3:05 | 2022-06-10 |  |
 | [Deferred Gratification](https://open.spotify.com/track/1eTCDqoxv4hMLPrMEnTlrl) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Binary](https://open.spotify.com/album/21EZKiGPUG8xYt79LMbtmv) | 3:05 | 2021-06-01 | 2022-07-29 |

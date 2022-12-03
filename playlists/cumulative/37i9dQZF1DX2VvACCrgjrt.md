@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-368 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+369 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 |  |
 | [In The Dark](https://open.spotify.com/track/1OJ4gP2TXojTGiblN3l4eh) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [In The Dark](https://open.spotify.com/album/1jP8pfWbFhtpUSMZQtCdmA) | 5:42 | 2022-03-04 |  |
 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 | 2022-02-18 |  |
+| [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 | 2022-12-02 |  |
 | [Jaw Drop](https://open.spotify.com/track/5mpJ8Rrt0JPPXFuIrySFXh) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Jaw Drop](https://open.spotify.com/album/61VJRT8pdpXRXq3ylwNsD1) | 2:53 | 2021-10-29 | 2022-01-21 |
 | [Joi](https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Joi](https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT) | 3:36 | 2021-10-29 | 2022-05-28 |
 | [Joker](https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Joker](https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t) | 2:07 | 2022-03-18 |  |
@@ -340,7 +341,7 @@
 | [TIME](https://open.spotify.com/track/6Ui5bbINcHkcJM7c7qXyKj) | [AYOR](https://open.spotify.com/artist/5NzdRvsHUo8bIaIi7kTr74) | [TIME](https://open.spotify.com/album/7oKCEhzbHgertrWKkkKgxp) | 2:29 | 2022-07-15 | 2022-10-18 |
 | [To L.A.](https://open.spotify.com/track/0l8y6oPQbVonLvicE34SC9) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [To L.A.](https://open.spotify.com/album/5qe33W1sgjxZB5zRU5eiPK) | 3:26 | 2022-01-28 | 2022-07-29 |
 | [To The Sound](https://open.spotify.com/track/4jpAJt9SJXFGkHq7Y3lpUR) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [To The Sound](https://open.spotify.com/album/6LRSybgzZv1lvfrE5UoqMt) | 3:22 | 2021-10-29 | 2022-01-21 |
-| [Too Good](https://open.spotify.com/track/2sMabi053PJu921UdGhqTO) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Too Good](https://open.spotify.com/album/2UV3Z1R9RSMYS6IJ4Nnt74) | 2:51 | 2022-05-27 |  |
+| [Too Good](https://open.spotify.com/track/2sMabi053PJu921UdGhqTO) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Too Good](https://open.spotify.com/album/2UV3Z1R9RSMYS6IJ4Nnt74) | 2:51 | 2022-05-27 | 2022-12-03 |
 | [Trinity](https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND) | [NXNJAS](https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Trinity](https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd) | 3:42 | 2022-07-15 |  |
 | [Trippy \- Kage VIP](https://open.spotify.com/track/7Kyy0UW9DFDbLd2dmgqjQR) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Trippy \(Kage VIP\)](https://open.spotify.com/album/6Bg6GQuQ9ZiZ43Deuf5Air) | 4:05 | 2021-10-29 | 2022-01-08 |
 | [Tune](https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Tune](https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq) | 3:08 | 2022-08-12 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-94 songs - 6 hr 58 min - not published yet
+95 songs - 7 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Tacken](https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/595ckypY5Dho4okbAw24bz) | 3:20 | 2022-10-27 | 2022-11-20 |
 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 | 2022-10-27 |  |
 | [Telepathic Abuse](https://open.spotify.com/track/0cv35nHGvz3XcCCYY0Vnme) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H), [DANNN](https://open.spotify.com/artist/57AjAsEr22xkpRJa6XOPcT) | [Telepathic Abuse](https://open.spotify.com/album/0gK4e43yD6C7lXcujdUfip) | 4:07 | 2022-10-27 |  |
-| [The Corpse of a Frozen Flower](https://open.spotify.com/track/6jFqs5z2EMkkbprCyOIgvV) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Dumbo Tracks](https://open.spotify.com/album/1zZlS9NOEVUsyf1liL78cC) | 4:48 | 2022-10-27 |  |
+| [The Corpse of a Frozen Flower](https://open.spotify.com/track/2yOadTm41F4Mz0npgZxYhe) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Dumbo Tracks](https://open.spotify.com/album/6mfMYLIC1CK7tz05h3kUDV) | 4:48 | 2022-11-24 |  |
+| [The Corpse of a Frozen Flower](https://open.spotify.com/track/6jFqs5z2EMkkbprCyOIgvV) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Dumbo Tracks](https://open.spotify.com/album/1zZlS9NOEVUsyf1liL78cC) | 4:48 | 2022-10-27 | 2022-12-03 |
 | [The Corpse of a Frozen Flower \- Eiko Ishibashi Vocal Version](https://open.spotify.com/track/1KFlfBqzvIWGSdmSXy3ZpP) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [The Corpse of a Frozen Flower \(Eiko Ishibashi Vocal Version\)](https://open.spotify.com/album/7i3xLVHJCNgB74tQjLOWRy) | 4:49 | 2022-10-27 | 2022-11-21 |
 | [The Wolf, The Sheep & The Door](https://open.spotify.com/track/6tKC4JNF0dhp9m2zRJRhLp) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [Skimskitta](https://open.spotify.com/album/5kACGQbTuUZZyNHl87iK4p) | 6:08 | 2022-11-24 |  |
 | [Thermal Cycler](https://open.spotify.com/track/1s1WSGkX3NNY2ZfF3QJ47q) | [Piska Power](https://open.spotify.com/artist/3nwpEvWFXksDJUhjapCGJm) | [Thermal Cycler](https://open.spotify.com/album/3Z3REtlVMyzf6sgU6vTpOf) | 4:50 | 2022-10-27 | 2022-11-25 |

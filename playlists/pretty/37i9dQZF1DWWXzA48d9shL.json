@@ -1,13 +1,33 @@
 {
-  "description": "Rap from hell. Cover: Freddie Dredd",
-  "num_followers": 373514,
+  "description": "Rap from hell. Cover: $uicideboy$ and Germ",
+  "num_followers": 373921,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1NjAzNywwMDAwMDAwMDNjMDVkNmY2YzdhYjZmZmVlMzYyMWFiMTk1NzM2ZDAy",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGQ1Y2UwYjc0NGFlMmY4ZTJjMGZiMWExYWY3NGEzNTlm",
   "tracks": [
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "My Swisher Sweet, But My Sig Sauer",
+        "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        }
+      ],
+      "duration_ms": 226932,
+      "name": "My Swisher Sweet, But My Sig Sauer",
+      "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
+    },
     {
       "added_at": "2022-11-09 14:43:01",
       "album": {
@@ -75,6 +95,22 @@
       "duration_ms": 167272,
       "name": "GODZILLA!",
       "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "\u00c5\u00c5\u00c5FRESTELSE",
+        "url": "https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR"
+      },
+      "artists": [
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
+        }
+      ],
+      "duration_ms": 142891,
+      "name": "\u00c5\u00c5\u00c5FRESTELSE",
+      "url": "https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf"
     },
     {
       "added_at": "2022-09-02 06:10:00",

@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 205417,
       "name": "Die Happily",
       "url": "https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ"
@@ -2903,6 +2903,24 @@
       "duration_ms": 211319,
       "name": "Press",
       "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
     },
     {
       "album": {

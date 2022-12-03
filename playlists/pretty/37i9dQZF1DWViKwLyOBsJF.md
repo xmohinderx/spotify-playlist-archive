@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,400 likes - 58 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,459 likes - 58 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 9 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:28 |
 | 10 | [What Sweeter Music](https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [What Sweeter Music](https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7) | 4:17 |
 | 11 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 |
-| 12 | [O Tannenbaum](https://open.spotify.com/track/6qIgnz0yHDeMzYVZnmMCen) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Silent Night](https://open.spotify.com/album/5NzYBUOkslN8o3SRDxj620) | 2:30 |
+| 12 | [O Tannenbaum](https://open.spotify.com/track/5mEuKXw8Sn0WMiSTbaCSZ3) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The First Noel](https://open.spotify.com/album/6U12R48Wp7jHFTX4odwrDr) | 2:30 |
 | 13 | [Entre le bœuf et l'âne gris \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 2:14 |
 | 14 | [Carol of the Bells \(arr\. piano\)](https://open.spotify.com/track/5FCJXbQPOgC68fpHnBgHWx) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Carol of the Bells \(arr\. piano\) / Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7) | 4:53 |
 | 15 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 57 | [Unto Us a Boy Is Born](https://open.spotify.com/track/185LBcu5JoC1k6wbGBVryT) | [Zach Rogers](https://open.spotify.com/artist/2SnuUdtCpixnnrut9aAsVf) | [Christmas Piano Hits \- Classic Xmas Piano Moods](https://open.spotify.com/album/4Xgbrg5lv7FMUmhBiE8KHs) | 1:39 |
 | 58 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGRhMDQwZDEzNzU0ZDMxYWMyMjJjOThlMmUzMmMyNGE1`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGYyNmVkMzhiYjVlYTBhN2MzOWY3NTJhMzhmMWM2MWIx`

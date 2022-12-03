@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
-  "num_followers": 312,
+  "num_followers": 319,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzMTk0MCwwMDAwMDAwMDFhNjUwNjQ3NzQyNDE2YjA3MGJlNjZjMjEzNmU5OTU3",
+  "snapshot_id": "MTY2OTk2MjgyOSwwMDAwMDAwMDc4NTBkZmFiZTI3YWMxYzM1Y2JhOTNiNjlhYWFlNzFj",
   "tracks": [
     {
       "added_at": "2022-11-17 21:59:00",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm"
     },
     {
+      "added_at": "2022-12-02 06:33:49",
+      "album": {
+        "name": "Skattie",
+        "url": "https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "Skattie",
+      "url": "https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr"
+    },
+    {
       "added_at": "2022-09-08 21:59:00",
       "album": {
         "name": "Grammadoelas",
@@ -135,26 +151,6 @@
       "duration_ms": 123333,
       "name": "Grammadoelas",
       "url": "https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK"
-    },
-    {
-      "added_at": "2022-10-27 21:59:00",
-      "album": {
-        "name": "Mermaid",
-        "url": "https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        },
-        {
-          "name": "Loki Rothman",
-          "url": "https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3"
-        }
-      ],
-      "duration_ms": 193628,
-      "name": "Mermaid",
-      "url": "https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc"
     },
     {
       "added_at": "2022-09-08 21:59:00",

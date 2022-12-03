@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: youra, Mandong \(유라, 만동\)\)
 
-97 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
+99 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Blue in Led](https://open.spotify.com/track/1xZB3IMZ3LSbDoborownFf) | [윤청미](https://open.spotify.com/artist/05uzbpyy2ouCUFKFsmhiwV) | [Blue in Led](https://open.spotify.com/album/0wa11yZGqW3kCVb46jmKZD) | 3:30 | 2022-07-08 |  |
 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 | 2022-05-18 |  |
 | [Caterpillar \(feat\. Rob Christian\)](https://open.spotify.com/track/6HUODKj1h2VofvTHNdBoLa) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Rob Christian](https://open.spotify.com/artist/5GmTnqtSTio7KExuVLfw4W) | [Caterpillar](https://open.spotify.com/album/3G6PJpsgX2sVFqMsQwmKz6) | 4:22 | 2022-05-03 | 2022-05-19 |
-| [Challenge](https://open.spotify.com/track/1efuuWPLLISJEcL50QBqJu) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/7i2BaCWyYFCbHv7ds6IXSJ) | 5:33 | 2022-05-03 |  |
+| [Challenge](https://open.spotify.com/track/1efuuWPLLISJEcL50QBqJu) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/7i2BaCWyYFCbHv7ds6IXSJ) | 5:33 | 2022-05-03 | 2022-12-03 |
+| [Challenge](https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/1K2GzbrJLDIRfzpVBIw6FR) | 5:33 | 2022-11-23 |  |
 | [Chameleon](https://open.spotify.com/track/2kU8bM9K04n0O3BsJQfeyp) | [Earthquake](https://open.spotify.com/artist/4iMP4w0bfWdZhhdq5YAO4a) | [Various](https://open.spotify.com/album/2eo0dVmhov45ga2tYGbFMF) | 3:45 | 2022-05-18 |  |
 | [Chance](https://open.spotify.com/track/5LyeN1d5TUIeWMlN0Citb8) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_259](https://open.spotify.com/album/1tofyoZ7IKDYgBqclXpoUD) | 2:25 | 2022-05-03 | 2022-05-19 |
 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 | 2022-06-09 |  |
@@ -79,7 +80,7 @@
 | [Sonny](https://open.spotify.com/track/3Y8iNszws9u6tTSvCrTPae) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Sonny](https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY) | 3:24 | 2022-05-03 | 2022-05-19 |
 | [Sorcery Soup](https://open.spotify.com/track/1ddVTVxABHqds436IzH004) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:37 | 2022-11-23 |  |
 | [SPRING OF CHORYANG](https://open.spotify.com/track/2CVy1sSuzwKs2DJJlAM5rQ) | [LEE SE YOUNG](https://open.spotify.com/artist/1LxHZbzjNjznwqJzIokSyv) | [SPRING OF CHORYANG](https://open.spotify.com/album/3rdSQwYpcGJrw1rIscH2o9) | 5:06 | 2022-05-03 |  |
-| [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 | 2022-05-03 |  |
+| [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 | 2022-05-03 | 2022-12-03 |
 | [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 | 2022-05-03 |  |
 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 | 2022-05-03 |  |
 | [That's why you're spring](https://open.spotify.com/track/3yTjvrfLQa1WXAXqBXKEKu) | [Jigu27](https://open.spotify.com/artist/5j4gPonhwCuAiiCVYz9P0O) | [That's why you're spring](https://open.spotify.com/album/0i8EGoHiEdbh09CclUC4Td) | 3:22 | 2022-05-03 |  |
@@ -97,6 +98,7 @@
 | [Waltz For Baby\(I\)](https://open.spotify.com/track/1VoJvHIlBEKwzDxpvvJhNB) | [Nokyung Lee](https://open.spotify.com/artist/4xK66lFkraZU5FaIO3dugT) | [A Child Is Born](https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq) | 3:43 | 2022-05-03 | 2022-05-19 |
 | [Winter to Spring](https://open.spotify.com/track/74zAsiHhmAB9FSpbvNGlHW) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [Winter to Spring](https://open.spotify.com/album/1M915pDgthHR7Uw7cab3pw) | 5:01 | 2022-05-03 |  |
 | [간다](https://open.spotify.com/track/33xNZgSpYDl0uLOOTHfotc) | [민송](https://open.spotify.com/artist/2ujuh580tpdUNreJnVuzPU) | [간다](https://open.spotify.com/album/7szuSdGlR05heXZGGGOgCH) | 4:28 | 2022-05-03 | 2022-05-19 |
+| [멈춰선 채 Standstill](https://open.spotify.com/track/2FO4NG072mM775tWuGErNB) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr) | 4:26 | 2022-11-23 |  |
 | [무지개나라](https://open.spotify.com/track/6hxwYtDkQ35mNuYsiRgqId) | [승연아빠](https://open.spotify.com/artist/4cEdf85FeV9HB2sxDxzyJg) | [Story 25](https://open.spotify.com/album/08hWM6WLKVBeHqP6vDyLM2) | 2:46 | 2022-11-11 |  |
 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/3u2k4Mr3hpobfuDp9BLE1K) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/3BTYvOdXNu6CEKExO8jX6F) | 4:18 | 2022-05-18 | 2022-07-29 |
 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/5pQzpyLvHtOefFVPCRK0Wg) | 4:18 | 2022-07-08 |  |

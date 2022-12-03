@@ -2875,7 +2875,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 136250,
       "name": "Not the One",
       "url": "https://open.spotify.com/track/481ZLYM7FUam5FACXysCev"
@@ -4355,6 +4355,24 @@
       "duration_ms": 148000,
       "name": "Underwater Love - LA Vision Remix",
       "url": "https://open.spotify.com/track/1GHYYYmLvXEWaa7cLVsP2o"
+    },
+    {
+      "album": {
+        "name": "Until the Sun Goes Down",
+        "url": "https://open.spotify.com/album/3VxntUkcFedZ4GUpEXJFMw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Marchi",
+          "url": "https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151967,
+      "name": "Until the Sun Goes Down",
+      "url": "https://open.spotify.com/track/7enRXIlD4EXNFiTw0F90pW"
     },
     {
       "album": {

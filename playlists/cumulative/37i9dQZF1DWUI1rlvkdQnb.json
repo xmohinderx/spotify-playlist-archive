@@ -1484,6 +1484,24 @@
     },
     {
       "album": {
+        "name": "milagro",
+        "url": "https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC"
+      },
+      "artists": [
+        {
+          "name": "Ezechiel Almonte",
+          "url": "https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182579,
+      "name": "milagro",
+      "url": "https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a"
+    },
+    {
+      "album": {
         "name": "Drift Off",
         "url": "https://open.spotify.com/album/6LMJYwLucOwVe1Nex4vxah"
       },
@@ -2065,8 +2083,8 @@
       },
       "artists": [
         {
-          "name": "Mesiki",
-          "url": "https://open.spotify.com/artist/583apEAhOJAxhyzuljX9dL"
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
         }
       ],
       "date_added": "2022-06-16",
@@ -2435,6 +2453,24 @@
       "duration_ms": 187423,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/3WWF9kTWsPRVfgX6BFLisb"
+    },
+    {
+      "album": {
+        "name": "Through The Air",
+        "url": "https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy"
+      },
+      "artists": [
+        {
+          "name": "Silbo Gomera",
+          "url": "https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158152,
+      "name": "Through The Air",
+      "url": "https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl"
     },
     {
       "album": {

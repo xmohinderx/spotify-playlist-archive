@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-262 songs - 1 day 0 hr 22 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+263 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Kreuzung](https://open.spotify.com/track/3sDkGMlGw0irwbpsVI4WlX) | [Mammoth Mammoth](https://open.spotify.com/artist/0SinbcXhPwNHsfAUstKY9h) | [Kreuzung](https://open.spotify.com/album/65dd1YOyeVadRyeoCa6bpi) | 3:55 | 2022-02-14 | 2022-05-01 |
 | [Kristallen Den Fina](https://open.spotify.com/track/1kqtSizg2KzBF9bpAWHe7c) | [Harvester](https://open.spotify.com/artist/4AATAyLn65bwTGtRb0mqpG) | [Hemåt](https://open.spotify.com/album/6UCOkLC3q1ivpD1BtCCQvo) | 6:28 | 2021-11-30 | 2022-02-07 |
 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 | 2022-01-14 | 2022-07-04 |
-| [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 | 2021-11-30 |  |
+| [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 | 2021-11-30 | 2022-12-03 |
 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 | 2021-11-30 | 2022-07-19 |
 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 | 2022-04-28 |  |
 | [Let the Devil In](https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 5:00 | 2022-10-14 |  |
@@ -190,7 +190,7 @@
 | [Return to the Tundrasphere](https://open.spotify.com/track/2bDCKq0cgrMFEbgaLvCTqG) | [Kanaan](https://open.spotify.com/artist/3Hb1TSP5l7tR214bjmHIBA) | [Earthbound](https://open.spotify.com/album/5cgZyUkPspSn9DxxsIPWoK) | 8:41 | 2021-11-30 | 2022-02-13 |
 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 | 2021-11-30 |  |
 | [Rollercoaster](https://open.spotify.com/track/6cJhk7H8SQj4rzZmRVnK0A) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/7HiIz7nui3LtGVY62ORP3b) | 5:15 | 2021-11-30 | 2022-07-29 |
-| [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2021-11-30 |  |
+| [Rooster](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2021-11-30 |  |
 | [Rooster Booster](https://open.spotify.com/track/0v7RT360hYbz6LhNRKaEaJ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6uRSnF16GbMeK0Lt4TmUqr) | 4:26 | 2021-11-30 | 2022-07-29 |
 | [Rooster Booster](https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im) | 4:26 | 2022-10-03 | 2022-11-13 |
 | [Rust](https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [Rust](https://open.spotify.com/album/5NGeKmbgxv6GHky0EtaIZx) | 5:39 | 2021-11-30 |  |
@@ -264,6 +264,7 @@
 | [What Needs Must Be](https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT) | 4:16 | 2022-04-28 |  |
 | [Wires](https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn) | [Red Fang](https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S) | [Murder the Mountains \(Deluxe Version\)](https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9) | 5:43 | 2021-11-30 |  |
 | [Wise As a Serpent](https://open.spotify.com/track/4N35vPdS6hIfr1AjEHjYWp) | [Spiritual Beggars](https://open.spotify.com/artist/40LGuAmXtqxMGraUmCSU27) | [Earth Blues](https://open.spotify.com/album/2TpqXLI9RG6S9DBnsQgTPq) | 2:34 | 2021-11-30 | 2022-02-15 |
+| [Woodland Rites](https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 4:34 | 2022-10-14 |  |
 | [Woodland Rites](https://open.spotify.com/track/7lOhD2iqU2iTllIWAcLlns) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2grZMJgSWGyf7vVdiYWHft) | 4:34 | 2021-11-30 | 2022-07-29 |
 | [Woven](https://open.spotify.com/track/0igHoyE7n6beXfJ1LWXGlm) | [Warish](https://open.spotify.com/artist/26K17LixWjA53Lm1XDBo8C) | [Woven](https://open.spotify.com/album/598iHPVUmnGuqi2QaiH3rq) | 3:24 | 2021-11-30 | 2022-07-24 |
 | [Wucan](https://open.spotify.com/track/43spN2iph0q654tc4C7rR8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [In The Future](https://open.spotify.com/album/3V6xuUxzUOLsmHtBhMl2i1) | 6:02 | 2021-11-30 | 2022-07-29 |

@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 318949,
       "name": "From a Solid To a Liquid",
       "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 336253,
       "name": "Grand Dome",
       "url": "https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "L'incoronazione Di Poppea",
+        "url": "https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64178,
+      "name": "La Sconsolata",
+      "url": "https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy"
+    },
+    {
+      "album": {
         "name": "Polar Sequences",
         "url": "https://open.spotify.com/album/7h3A0Rnlh24k9oHs4dRVd3"
       },
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 237893,
       "name": "Monju-2",
       "url": "https://open.spotify.com/track/5tHbDap6SZw6Ml49hJBmBt"

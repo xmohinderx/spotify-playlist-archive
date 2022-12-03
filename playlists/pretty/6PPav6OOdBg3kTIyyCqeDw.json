@@ -1,12 +1,12 @@
 {
   "description": "A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more. Updated weekly!  Cover: JID",
-  "num_followers": 12049,
+  "num_followers": 12042,
   "original_name": "Top Trending: Hip-Hop",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MjI1MywzZmFhMzMxYzVkZWFlZTk0M2NkNTNhOWRkYzZmNGFhNWU0ZGQyOWFi",
+  "snapshot_id": "MjI1NCw5NWQ4ZjFhMGU1NTI1MTIxMTA3NTNiYmUwOWEwMDgzYzNmMGY3YTcw",
   "tracks": [
     {
       "added_at": "2022-11-16 03:38:53",
@@ -1151,6 +1151,30 @@
       "duration_ms": 105693,
       "name": "Treesha",
       "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
+    },
+    {
+      "added_at": "2022-12-02 21:08:10",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+      "url": "https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS"
     }
   ],
   "unique_name": "Top Trending: Hip-Hop",

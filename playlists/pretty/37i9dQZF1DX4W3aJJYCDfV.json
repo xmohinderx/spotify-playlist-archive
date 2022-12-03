@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Lewis Capaldi (pictured), PinkPantheress, James Arthur and more!\n",
-  "num_followers": 818810,
+  "num_followers": 819105,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDM3YjU5MzMzMmMwOTg0YTgwM2RmZDdjMzg0NmExMGM3",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDlmYzQwZTI1OTRjODBkOGZkMjM2NzBiMWM4NTVhMzhj",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -360,7 +360,7 @@
       "added_at": "2022-12-02 00:00:00",
       "album": {
         "name": "You Know What I Need",
-        "url": "https://open.spotify.com/album/1lp2zvRCCMYOAxAgtVLFU2"
+        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
       "artists": [
         {
@@ -374,7 +374,31 @@
       ],
       "duration_ms": 170000,
       "name": "You Know What I Need",
-      "url": "https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl"
+      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -743,7 +767,7 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "Vitamin D (feat. Ber)",
+        "name": "vitamin d (feat. Ber)",
         "url": "https://open.spotify.com/album/2P73pGpu8gG8D41JF5WamR"
       },
       "artists": [
@@ -1087,6 +1111,22 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
         "name": "Designer The Drugs",
         "url": "https://open.spotify.com/album/5O1RrZlZq47ZtnAzZ4bjZL"
       },
@@ -1183,6 +1223,26 @@
       "duration_ms": 263725,
       "name": "Long Live The Strange",
       "url": "https://open.spotify.com/track/12RkXOFLV813gXKv6HNrhJ"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "\uc870\uc720\uc9c4",
+          "url": "https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW"
+        }
+      ],
+      "duration_ms": 273499,
+      "name": "Wild Flower (with youjeen)",
+      "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -1916,7 +1976,7 @@
           "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 310709,
+      "duration_ms": 310153,
       "name": "KILO",
       "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
     },

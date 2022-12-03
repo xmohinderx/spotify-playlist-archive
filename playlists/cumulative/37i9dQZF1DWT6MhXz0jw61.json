@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Smino",
+  "description": "Chillout hip-hop vibes. Cover: The Alchemist",
   "name": "Mellow Bars",
   "published_playlist_ids": [
     "3oxhssgEhBCb78sRSB2lyV"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 65480,
       "name": "A Bar About a Bar",
       "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
@@ -371,6 +371,24 @@
       "duration_ms": 105984,
       "name": "Ain't Talking Bout Much",
       "url": "https://open.spotify.com/track/5GFbdE94mXEPrpQpsLPiNF"
+    },
+    {
+      "album": {
+        "name": "The Butterfly Effect",
+        "url": "https://open.spotify.com/album/0R20agY249INealjoIvVZK"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251136,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/2UapiJncDxSEkY1tkzZTd3"
     },
     {
       "album": {
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 139634,
       "name": "atimemyfriend",
       "url": "https://open.spotify.com/track/1FZJuTa8z5fe1RC67AbuZ5"
@@ -603,10 +621,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 174513,
       "name": "BACH TO BACH (with Dave East)",
       "url": "https://open.spotify.com/track/4EuMKVhCd9cS7J19KDGDBn"
+    },
+    {
+      "album": {
+        "name": "BAKERY",
+        "url": "https://open.spotify.com/album/1UCjI9yKK2KQkR8InhyPmB"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241472,
+      "name": "BAKERY",
+      "url": "https://open.spotify.com/track/050tQce8FVFGpGiQtzhhJT"
     },
     {
       "album": {
@@ -1020,6 +1056,28 @@
     },
     {
       "album": {
+        "name": "Spaceships on the Blade",
+        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190795,
+      "name": "Breakfast in Monaco",
+      "url": "https://open.spotify.com/track/2VR44vzNFHsDvQFZB2YMWj"
+    },
+    {
+      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/0xZKaOjDHI0Kx3IfS2eb0M"
       },
@@ -1261,7 +1319,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
@@ -1727,7 +1785,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 291611,
       "name": "D.M.B.",
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
@@ -2101,6 +2159,24 @@
       "duration_ms": 137142,
       "name": "Drip Drop",
       "url": "https://open.spotify.com/track/5hJ90ntu3AiMslvAuUR2Uo"
+    },
+    {
+      "album": {
+        "name": "The Drive in Theatre Part 2",
+        "url": "https://open.spotify.com/album/6OvScHfJd924SQc0tYWUSA"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134475,
+      "name": "Drive This Car",
+      "url": "https://open.spotify.com/track/765aDRqjeFQbSiZiZCO5UR"
     },
     {
       "album": {
@@ -2741,7 +2817,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 250428,
       "name": "Gang'Nem",
       "url": "https://open.spotify.com/track/3F90JbxXm1yA7CB557b6w2"
@@ -4664,6 +4740,32 @@
     },
     {
       "album": {
+        "name": "Continuance",
+        "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "No Yeast (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3x9UBH1vVMNVLCPTx9duyZ"
+    },
+    {
+      "album": {
         "name": "Richer Than I Ever Been (Deluxe)",
         "url": "https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH"
       },
@@ -4969,7 +5071,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 117894,
       "name": "Pacific Coast Highway",
       "url": "https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ"
@@ -5085,7 +5187,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 156800,
       "name": "pg baby",
       "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
@@ -5335,6 +5437,24 @@
       "duration_ms": 258032,
       "name": "Racketeering Influenced and Corrupt Organizations",
       "url": "https://open.spotify.com/track/5iFmwkyfWOcsStwdQBRY61"
+    },
+    {
+      "album": {
+        "name": "The Drive in Theatre Part 2",
+        "url": "https://open.spotify.com/album/6OvScHfJd924SQc0tYWUSA"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188290,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/45AIuD8zNP8MzT7KyuoBcA"
     },
     {
       "album": {
@@ -5940,6 +6060,24 @@
     },
     {
       "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/3hNJD8g70WFDxiNVxmDJ8x"
+      },
+      "artists": [
+        {
+          "name": "Qari",
+          "url": "https://open.spotify.com/artist/3yCRo9Kv96l6MZByB5GQL6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164679,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/3sPHFwIXS3pLQFHcAkLwCx"
+    },
+    {
+      "album": {
         "name": "Few Good Things",
         "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
       },
@@ -6003,6 +6141,28 @@
       "duration_ms": 180705,
       "name": "Stone Rolling",
       "url": "https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF"
+    },
+    {
+      "album": {
+        "name": "Stop Worry!",
+        "url": "https://open.spotify.com/album/5Fe2v27rNMI7lsb7gCFGF3"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152148,
+      "name": "Stop Worry!",
+      "url": "https://open.spotify.com/track/2eGKhQce5DKGqrxPEBAOa9"
     },
     {
       "album": {
@@ -6152,6 +6312,24 @@
     },
     {
       "album": {
+        "name": "mangalica mink",
+        "url": "https://open.spotify.com/album/2zRd1PzAQgdrAA0hK0cevF"
+      },
+      "artists": [
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173035,
+      "name": "tarragonbutter",
+      "url": "https://open.spotify.com/track/2fFo8AvFqnW88MX2dXdJpI"
+    },
+    {
+      "album": {
         "name": "Tell Me What It Is",
         "url": "https://open.spotify.com/album/4E7Tj0EMyTdeMZ0c08ani5"
       },
@@ -6163,7 +6341,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 136209,
       "name": "Tell Me What It Is",
       "url": "https://open.spotify.com/track/2INXwkCx0NwBzypT8qCv2z"
@@ -6313,7 +6491,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 148946,
       "name": "The Tonight Show",
       "url": "https://open.spotify.com/track/79gAYrZvmDIXbFSwL7CFGh"
@@ -6339,6 +6517,32 @@
       "duration_ms": 137634,
       "name": "THE VISION (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
+    },
+    {
+      "album": {
+        "name": "What They Hittin 4",
+        "url": "https://open.spotify.com/album/1vvhGE0zYoGnjQhhx0SWi9"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "T.F",
+          "url": "https://open.spotify.com/artist/3S0ftTsY7HDY3Rnzqy5v9d"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166649,
+      "name": "The Wine Connoisseur",
+      "url": "https://open.spotify.com/track/562cA7Re2jo4lo0BE312FU"
     },
     {
       "album": {

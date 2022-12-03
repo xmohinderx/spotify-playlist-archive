@@ -3424,6 +3424,24 @@
     },
     {
       "album": {
+        "name": "Violent Night (A Christmas Tale)",
+        "url": "https://open.spotify.com/album/13rqjPtmNSnmvBBO6tZyZg"
+      },
+      "artists": [
+        {
+          "name": "Chubby and the Gang",
+          "url": "https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Violent Night (A Christmas Tale)",
+      "url": "https://open.spotify.com/track/7bKiUJ2re9OTNkB8sjYEdm"
+    },
+    {
+      "album": {
         "name": "We All Need Christmas",
         "url": "https://open.spotify.com/album/7nXguxttjtF1IkupVfms5q"
       },

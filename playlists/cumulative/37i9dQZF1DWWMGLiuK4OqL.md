@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-282 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+283 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [I Wish You Love](https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [I Wish You Love](https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY) | 3:05 | 2022-08-29 | 2022-10-08 |
 | [I Wish You Love](https://open.spotify.com/track/7l8zYDFt0MiM1qIaPZ2zxe) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [I Wish You Love](https://open.spotify.com/album/0n4Ib8uVGJSZaa5c2pAVWQ) | 4:49 | 2022-01-20 | 2022-10-08 |
 | [I'll Be Seeing You](https://open.spotify.com/track/7dgPIW9yzB59ENbnbWslU7) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:51 | 2022-03-25 | 2022-10-08 |
+| [I'll Tell You Something](https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Always Seem to Get Things Wrong](https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6) | 4:11 | 2022-11-30 |  |
 | [I'll Tell You Something](https://open.spotify.com/track/5aHWPIWwqo4cjAJj40C4hc) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [I'll Tell You Something](https://open.spotify.com/album/7icT4J8ofNlqAujrQvmUTv) | 4:11 | 2022-01-20 | 2022-10-08 |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [There's Only One...](https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8) | 5:12 | 2022-01-20 | 2022-10-08 |
 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 | 2022-01-20 |  |
@@ -213,7 +214,7 @@
 | [Satin Doll](https://open.spotify.com/track/7svs3K1PqxZLOhkUKxnXe3) | [Peter Appleyard](https://open.spotify.com/artist/4of73tRHotZpKvHKmFzYcM), [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [Sophisticated Ladies](https://open.spotify.com/album/69dcBtgrUwDQZ6fCo5sB8a) | 4:11 | 2022-01-20 | 2022-07-29 |
 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 | 2022-01-20 |  |
 | [Send In The Clowns](https://open.spotify.com/track/30kplsNuLjewPoqzruJi5m) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 4:48 | 2022-01-20 | 2022-07-29 |
-| [Siren Song](https://open.spotify.com/track/5ni22llVwiCeoMkgHsDYP0) | [Vicki Burns](https://open.spotify.com/artist/7nZiiyzxTzzq15HO061L6S) | [Lotus Blossom Days](https://open.spotify.com/album/2D9AerrV1XId2OJ2gAUmSA) | 6:20 | 2022-07-14 |  |
+| [Siren Song](https://open.spotify.com/track/5ni22llVwiCeoMkgHsDYP0) | [Vicki Burns](https://open.spotify.com/artist/7nZiiyzxTzzq15HO061L6S) | [Lotus Blossom Days](https://open.spotify.com/album/2D9AerrV1XId2OJ2gAUmSA) | 6:20 | 2022-07-14 | 2022-12-03 |
 | [Skylark](https://open.spotify.com/track/5CYD74nAnkF99ykO3npx2g) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:29 | 2022-05-19 | 2022-11-27 |
 | [Smile](https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae) | [Tia Brazda](https://open.spotify.com/artist/50hsY3SvrJloPHqVfBTI1R) | [When I Get Low](https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r) | 2:45 | 2022-06-09 | 2022-11-19 |
 | [Smoke Gets in Your Eyes](https://open.spotify.com/track/377JiNUjjacysE2M01uEZF) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK), [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Flying Home](https://open.spotify.com/album/1KwMYu5s3ytrnUuWdB0ud1) | 4:53 | 2022-09-15 | 2022-11-24 |

@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-199 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+200 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-08-05 | 2022-11-13 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2021-12-29 |  |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-09-03 | 2022-12-01 |
+| [Flowers](https://open.spotify.com/track/7b0pYUXR8163C4vwPsj6mS) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/1iKgYWtkwZdPihOVh2KaeH) | 2:34 | 2022-10-06 |  |
 | [For A Minute](https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [For A Minute](https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS) | 1:48 | 2021-08-05 |  |
 | [For Real \(feat\. Kemba\)](https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg) | [Jharrel Jerome](https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [For Real \(feat\. Kemba\)](https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8) | 3:05 | 2021-08-05 |  |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2021-08-05 |  |
@@ -185,7 +186,7 @@
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-07-25 |  |
 | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/track/6gigGFhKguOzObNC5QZbeW) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Uno Dos \(feat\. Jaden Smith\)](https://open.spotify.com/album/0u1kufnf2KBAb7dlKgD2XJ) | 2:49 | 2021-12-14 | 2022-07-21 |
 | [Up All Night \- Oliver Remix](https://open.spotify.com/track/12aQRcFFIh1zAoPOGTVY2y) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Up All Night \(Oliver Remix\)](https://open.spotify.com/album/3loMThbNeSWIuwZHG2SsDa) | 4:26 | 2021-08-05 |  |
-| [VOCES](https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW) | 3:22 | 2022-08-26 |  |
+| [VOCES](https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW) | 3:22 | 2022-08-26 | 2022-12-03 |
 | [VOCES](https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ) | 3:22 | 2021-08-05 | 2022-07-28 |
 | [Wallflower](https://open.spotify.com/track/2aLsrZVPkJm6pm05WXZ0aC) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/7D6XTJzVwNVH2upfKTNvKQ) | 2:57 | 2021-08-05 | 2022-07-29 |
 | [Wallflower](https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm) | 2:57 | 2022-07-25 |  |

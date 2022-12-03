@@ -4,10 +4,11 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-233 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
+234 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Act Like You Know](https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Act Like You Know](https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj) | 3:48 | 2022-12-03 |  |
 | [Active](https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Active](https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi) | 2:30 | 2021-11-19 |  |
 | [All of Me \(feat\. Logic, ROZES\)](https://open.spotify.com/track/3ISiZ0GzocM9ssIwqRn1AW) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Brighter Future](https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA) | 3:48 | 2022-02-01 |  |
 | [All Through the Night](https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 3:30 | 2021-11-19 | 2022-08-30 |
@@ -163,7 +164,7 @@
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-02-02 |
 | [NO TOMORROW](https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr) | 2:54 | 2022-07-14 |  |
 | [NO TOMORROW](https://open.spotify.com/track/0dLHJRrBKfLM3OwLHvrmEd) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3) | 2:54 | 2021-11-19 | 2022-07-29 |
-| [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 |  |
+| [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 | 2022-12-03 |
 | [O.G.](https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [O.G.](https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv) | 2:50 | 2022-07-14 |  |
 | [Oblivion](https://open.spotify.com/track/1YbYFYLlJvqcuEnawPyxlD) | [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Oblivion](https://open.spotify.com/album/4ePrBbPSL2DoSyjqfH4aKX) | 2:55 | 2021-11-19 | 2022-01-24 |
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-19 | 2022-02-02 |

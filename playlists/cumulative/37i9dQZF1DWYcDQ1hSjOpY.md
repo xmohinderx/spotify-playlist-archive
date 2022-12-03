@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-359 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+364 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 | 2022-11-22 |  |
 | [At the Gate](https://open.spotify.com/track/6K5knPLmHce6GxU3L55K5R) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Entering Dreamland](https://open.spotify.com/album/0w6WmSVjZstlSJaAvab2Sd) | 2:57 | 2021-11-10 |  |
 | [Atmosphere](https://open.spotify.com/track/6f2CmmgE9LM9MpyF5qJVu9) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmosphere](https://open.spotify.com/album/68ZoAWbxVpnUcyPeuk3KR1) | 1:08 | 2021-11-10 |  |
-| [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Yepon](https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 | 2022-11-11 |  |
+| [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 | 2022-11-11 |  |
 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 | 2021-11-10 |  |
 | [Aurora Borealis](https://open.spotify.com/track/0YTKlaMszVp6rja34CzUDs) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Aurora Borealis](https://open.spotify.com/album/2FKrLUaFsF2jWj1f0QEhGg) | 2:25 | 2022-02-09 |  |
 | [Awareness](https://open.spotify.com/track/4osn2bAHvnGlOab7xOak7Q) | [Isa Duwall](https://open.spotify.com/artist/3M97AbLFCPQV6dLLTfP1nD) | [Awareness](https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23) | 2:53 | 2021-11-10 |  |
@@ -61,6 +61,7 @@
 | [Cairns Fossils](https://open.spotify.com/track/7HeCLMhcYHRG5nfrd26v6C) | [Cloud Waves](https://open.spotify.com/artist/3awsbRupCUGnE0dw6U049n) | [Planetary Funnel](https://open.spotify.com/album/0oFdp4vvnuv17yLJAEz8M4) | 3:06 | 2021-11-10 |  |
 | [Calibration of Time](https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Calibration of Time](https://open.spotify.com/album/6cRk4SEFqjH5vPNTNv78KW) | 3:20 | 2021-11-10 |  |
 | [Calm Patient](https://open.spotify.com/track/78ZMJYYePMsMltUFFV3X8S) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Calm Patient](https://open.spotify.com/album/4KvtEcKitdJ2xnXhpsagP9) | 3:24 | 2022-10-21 |  |
+| [Caminando](https://open.spotify.com/track/6dnW0O6xZKlPvMe7TzU1yH) | [Jademaia](https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo) | [Invierno](https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD) | 2:33 | 2022-12-02 |  |
 | [Capotain](https://open.spotify.com/track/3LWtE19kpqQemToWcKQ5Z8) | [Gentle Hat Club](https://open.spotify.com/artist/2mymvFlMFTVNqiCP2WAECS) | [Capotain](https://open.spotify.com/album/6fI5cLVUtJ1p3ZPogmMWHG) | 3:28 | 2021-11-10 |  |
 | [Cardboard Gadgets](https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0) | [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Cardboard Gadgets](https://open.spotify.com/album/2MzvZKJ9HAnFmTxQHTAqyH) | 3:36 | 2021-11-10 |  |
 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 | 2021-11-10 |  |
@@ -162,6 +163,7 @@
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-01-28 |  |
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2021-11-10 | 2022-03-25 |
 | [Hopeful](https://open.spotify.com/track/6pnhLxKJShRqP5YeXdtkWc) | [Asher Francis](https://open.spotify.com/artist/7A3PJ0HRctOwwSLMIwFDte) | [Hopeful](https://open.spotify.com/album/5qNrPIDJil1rGVkiO8LI9A) | 2:11 | 2021-11-10 |  |
+| [Horizons](https://open.spotify.com/track/5UTGQ7EW9lD4sCJs1QjL9l) | [Thalia Mathis](https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F) | [Horizons](https://open.spotify.com/album/6Wk54eiOWaHHWGQ8n5oGKh) | 2:34 | 2022-12-02 |  |
 | [Hybrid](https://open.spotify.com/track/1VRFoW2WUOY4FxQNvdTcja) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Dreamcatcher](https://open.spotify.com/album/7BddZNhcTyWCJnnglynrT3) | 2:25 | 2022-01-28 |  |
 | [If Only I Could Fly](https://open.spotify.com/track/5YqXPRA1ErLjJ9UZCJxJyG) | [Dream Flows](https://open.spotify.com/artist/2uktBHXHPmG6qYMOypLCHl) | [Ever So Slightly](https://open.spotify.com/album/1w8fsgM9nty9TyheWILL2Z) | 1:47 | 2021-11-10 |  |
 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 | 2021-11-10 |  |
@@ -231,6 +233,7 @@
 | [Nonzero](https://open.spotify.com/track/1lznUD9b22CxILXT8CVZIM) | [Stone Martyrs](https://open.spotify.com/artist/5TQiCNGub87gWCQRZuncKK) | [Nonzero](https://open.spotify.com/album/5JSW6sO061G259GqDqFvUV) | 3:32 | 2021-11-10 |  |
 | [Norrbotten](https://open.spotify.com/track/5ardBAnHzOgVgwbC7lUeoj) | [Lugnet före stormen](https://open.spotify.com/artist/6dr0I7Dag5o0aCFKKglKSH) | [Norrbotten](https://open.spotify.com/album/39pxK7nI9nT3Vo3XQ4MJQK) | 2:36 | 2021-11-10 |  |
 | [Novi Sad](https://open.spotify.com/track/7Kd9aRamqqlKwB5PtT4lSf) | [Lost Fables](https://open.spotify.com/artist/1uTJ77nWT4cR9Ur5HtdHPo) | [Palaeophonus](https://open.spotify.com/album/37U1JppB4VUGPzpz1z7UcK) | 3:32 | 2021-11-10 |  |
+| [Now](https://open.spotify.com/track/1LQlKIWA4eQqJg7KFdlyou) | [Hausste](https://open.spotify.com/artist/5Oz6ivFBe8vVFznXeggj30) | [Now](https://open.spotify.com/album/4KXF0ecJzcJnMzoSFwBLxF) | 2:39 | 2022-12-02 |  |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2021-11-10 |  |
 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 | 2022-04-07 |  |
 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 | 2022-09-13 |  |
@@ -277,7 +280,7 @@
 | [Runic Inscriptions on Parapets](https://open.spotify.com/track/5Zlpz6ITS8QTfmFY9RUT4F) | [Old Norse](https://open.spotify.com/artist/0mF2EOEFiENizRK7E4ybuX) | [Hall in Bonn](https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u) | 3:12 | 2021-11-10 |  |
 | [Rêves](https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH) | [Michèle Bastien](https://open.spotify.com/artist/4bQ7FkaUmaSF3mVLSba0F2) | [Rêves](https://open.spotify.com/album/3eF3T0tqfSALcDpR6dvOqI) | 2:18 | 2022-03-24 |  |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-06-24 |  |
-| [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Idamal](https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 | 2022-08-23 |  |
+| [Sanam](https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Sanam](https://open.spotify.com/album/0lYU4WGw36TjLhOxf3yl7i) | 2:22 | 2022-08-23 |  |
 | [Santonana](https://open.spotify.com/track/0r60hv2JqbAk5SsaIrFu7r) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Santonana](https://open.spotify.com/album/7x5QB5SscxxWlaHm5zEWqS) | 3:30 | 2022-06-16 |  |
 | [Saturated Evenings](https://open.spotify.com/track/7oigJ0Iei2PLS2vwA3gnib) | [Mao\-Li](https://open.spotify.com/artist/2qIOoLj6ilaacPexeiw7RW) | [Saturated Evenings](https://open.spotify.com/album/7eJEukYUhvEnLJMH9z3e9c) | 3:37 | 2021-11-10 |  |
 | [Scenery In Dreams](https://open.spotify.com/track/7A9Y0w3bfhnc4YLAlmiKcc) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Scenery In Dreams](https://open.spotify.com/album/7h6Acv69Aso0ihWXIfYsou) | 2:38 | 2021-11-10 |  |
@@ -322,6 +325,7 @@
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2021-11-10 |  |
 | [Sueno](https://open.spotify.com/track/6ZUPb0L9JcZM1e7c1nGCIx) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Sueno](https://open.spotify.com/album/6y6lWnmpKOMXvYJgNcXKvs) | 2:43 | 2021-11-10 |  |
 | [Sueño](https://open.spotify.com/track/4PmZSLWRuKyMgAJuAgZ1T6) | [Abril Obrero](https://open.spotify.com/artist/2rQaa1vDzMh5dQOLdEiuVP) | [Sueño](https://open.spotify.com/album/6FkeiM3GYh142s7lbLX3bS) | 2:39 | 2021-11-10 |  |
+| [Sunsets](https://open.spotify.com/track/0gGV5b1xukai7PntTpPFBR) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Sunsets](https://open.spotify.com/album/0Mj9eUyWpxwOcCE387OpRl) | 2:44 | 2022-12-02 |  |
 | [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 | 2022-09-13 |  |
 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 | 2022-05-05 |  |
 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 | 2021-11-10 | 2022-02-10 |
@@ -340,6 +344,7 @@
 | [The Surname of Penton](https://open.spotify.com/track/4KjUpdQieoX0475pPHZBum) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [The Surname of Penton](https://open.spotify.com/album/5J4VHqcgcFTFpnyZwR9V8g) | 3:37 | 2021-11-10 |  |
 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 | 2022-03-04 | 2022-08-24 |
 | [Through Your Eyes](https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [Through Your Eyes](https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ) | 2:49 | 2021-11-10 |  |
+| [Tillbakalutande](https://open.spotify.com/track/4oAVmszDgIihib6QBxqjEh) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Tillbakalutande](https://open.spotify.com/album/6tJFLs7M0pE7ZTuCllaBDk) | 2:43 | 2022-12-02 |  |
 | [Tirana Wolves](https://open.spotify.com/track/6RsZg0rFSlLWqy5AKiny95) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [On the Davenport](https://open.spotify.com/album/5jnoMpc62TVfL6v8ljsdwf) | 3:26 | 2021-11-10 |  |
 | [True Calm Trees](https://open.spotify.com/track/76HJiGoSk8VHXxfrAkyErG) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Into The Beyond](https://open.spotify.com/album/7J76ftvW2bI69RTAJdSt74) | 3:09 | 2022-10-14 |  |
 | [Turiya](https://open.spotify.com/track/0LpC3dt5L0hw2FT6aModNK) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Turiya](https://open.spotify.com/album/7gHrv87n4GoqcFZ7foXlLu) | 2:00 | 2022-07-01 |  |

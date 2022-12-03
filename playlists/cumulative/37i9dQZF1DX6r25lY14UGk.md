@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-118 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+119 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dandelion](https://open.spotify.com/track/1kuDlVx8egmivA6oRFEdVs) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 1:30 | 2022-04-15 |  |
 | [Disco Rain](https://open.spotify.com/track/20twtF2MePkY2WF9qdD3bd) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Let It Out!](https://open.spotify.com/album/2SXHp5cFcwno6SDKJ2gL9p) | 2:44 | 2022-04-15 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2022-04-15 |  |
+| [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 |  |
 | [Elevator](https://open.spotify.com/track/0RZHkbz1VCfWfKIzdirQI0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/5T5kQhE6o4QClLQUOVrs38) | 2:58 | 2022-04-15 | 2022-10-01 |
 | [Elevator](https://open.spotify.com/track/0nyEzNpnp8Vn2uoMQsNrgT) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/3gNNCz0Zlz4oWgb1w2SxVp) | 2:58 | 2022-09-27 |  |
 | [Empathy](https://open.spotify.com/track/6XRx37vhiTLSmoM9pLLcrm) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 3:10 | 2022-04-15 |  |

@@ -2,7 +2,7 @@
 
 ### [Rainy Day Blues](https://open.spotify.com/playlist/37i9dQZF1DXakNfvv7h2fY)
 
-> Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
+> Comforting Blues to warm the soul when there’s no point going outside.
 
 100 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
 

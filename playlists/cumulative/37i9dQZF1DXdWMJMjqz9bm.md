@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-413 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+416 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [I Literally Never Think About You](https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [I Literally Never Think About You](https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX) | 2:55 | 2022-08-05 | 2022-11-22 |
 | [I Love My Homies](https://open.spotify.com/track/7tBwo8HOnM68mTeWNAHs6X) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [I Love My Homies](https://open.spotify.com/album/61jOjOHe0hjphb3K1KuQXi) | 2:47 | 2022-04-08 | 2022-06-11 |
 | [I Miss the Homies](https://open.spotify.com/track/0XclwfhIIsS6ZQLqve6jLQ) | [Decorator](https://open.spotify.com/artist/1CplTPi43L6iFj0gLg2LDa) | [I Miss the Homies](https://open.spotify.com/album/7nitS66V1Z7HdHowBJ0Ksu) | 3:01 | 2022-04-15 | 2022-06-18 |
+| [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-02 |  |
 | [I WANNA SEE SOME ASS \(feat\. jetsonmade\)](https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:05 | 2022-04-04 | 2022-11-12 |
 | [I'D GIVE IT ALL UP](https://open.spotify.com/track/6MsEajhvcMbnuWXT1y6HL2) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [I'D GIVE IT ALL UP](https://open.spotify.com/album/2bDitgjXkr1k4GWkUXCQxl) | 2:45 | 2022-07-01 | 2022-10-15 |
 | [i'm drunk and i miss you more](https://open.spotify.com/track/50jtIig2VWqCVXai7Epm3c) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [i'm drunk and i miss you more](https://open.spotify.com/album/766FtGkdeEbLJ2RYOlIuoE) | 2:35 | 2022-03-22 | 2022-04-29 |
@@ -265,6 +266,7 @@
 | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/album/1nzeHtYhJ5vVJ0EvhoJ3JT) | 2:51 | 2022-04-08 | 2022-07-13 |
 | [Nintendo](https://open.spotify.com/track/0YHYHb9Rg3IebHaPiU5JAG) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Nintendo](https://open.spotify.com/album/4F7uRi2BAlFFxGgZo6bWVi) | 2:44 | 2022-02-25 | 2022-05-20 |
 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 | 2021-12-16 | 2022-02-26 |
+| [No Longer Lovers](https://open.spotify.com/track/6DykI3K2Ib9BC1E9JgaSoE) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [No Longer Lovers](https://open.spotify.com/album/3Ygl1aeSmUHSDaxH8KLYLK) | 2:19 | 2022-12-02 |  |
 | [No Problem](https://open.spotify.com/track/4x4APDqOrIjskTIJCd1pgp) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [No Problem](https://open.spotify.com/album/4Ozr50NBP57HTmb8IV5oL9) | 3:31 | 2022-08-05 | 2022-09-17 |
 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 | 2022-04-04 | 2022-10-15 |
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-04-04 | 2022-10-15 |
@@ -390,6 +392,7 @@
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-11-22 |
 | [Tidal Wave](https://open.spotify.com/track/6aNgALkspvsIlNvzdwG02z) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tidal Wave](https://open.spotify.com/album/3bRmPk6JsO9fXbCOhVsOEL) | 2:42 | 2022-04-15 | 2022-06-11 |
 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 | 2022-04-08 | 2022-05-20 |
+| [Tokyo Drift](https://open.spotify.com/track/76A5wgXcn1uFnm2U1NfKMM) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Tokyo Drift](https://open.spotify.com/album/3D0aMA56sQOTU4HpbAqQvS) | 2:21 | 2022-12-02 |  |
 | [Tom Holland](https://open.spotify.com/track/1Ovf6VdhqNnM9eOd1ZJQgd) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tom Holland](https://open.spotify.com/album/7GgItGEIkjMOZ1fm8VKkxJ) | 3:15 | 2022-02-04 | 2022-06-04 |
 | [toxic crush](https://open.spotify.com/track/4jx3OhzeLknPoF52To841h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 4](https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N) | 2:14 | 2022-05-06 | 2022-06-04 |
 | [Trap \(feat\. Lil Baby\)](https://open.spotify.com/track/2Y8hY4rRRQQjdaZkkwzpd9) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:04 | 2022-04-04 | 2022-11-22 |

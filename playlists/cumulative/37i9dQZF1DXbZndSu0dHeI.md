@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-345 songs - 20 hr 53 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+346 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Company](https://open.spotify.com/track/6eMknw1c14DlpWrzx31fE6) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Company](https://open.spotify.com/album/6dvtm35R23LaMWnZnJxja1) | 3:26 | 2022-03-09 | 2022-06-27 |
 | [Control Freak](https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Control Freak](https://open.spotify.com/album/0BO0643aYpi1fi3eRP0wn0) | 3:27 | 2022-03-19 | 2022-04-14 |
 | [Craziest Things](https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Craziest Things](https://open.spotify.com/album/3WAG7aLC9P5NGymA621ly4) | 3:10 | 2021-11-12 | 2022-07-27 |
+| [Craziest Things](https://open.spotify.com/track/4WTy2W1mrlM40lX9ybbp0q) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:10 | 2022-08-05 |  |
 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 | 2022-06-22 |  |
 | [Daydream](https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT) | 4:48 | 2021-11-12 | 2022-07-29 |
 | [Daylight Matters](https://open.spotify.com/track/70tFMXuf5fIXiJyy6Rf1Ue) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/082FaK20Q5pWBugogTQbGW) | 4:18 | 2022-03-19 | 2022-04-16 |
@@ -121,7 +122,7 @@
 | [Golden Streams](https://open.spotify.com/track/1ydKJam8dKbqePWynTqBNz) | [The Hidden Cameras](https://open.spotify.com/artist/6qJSWLT4bvL49hEyXxc3G9) | [The Smell of Our Own](https://open.spotify.com/album/6JShLMI9IkYCFdM1Gv5dAC) | 4:31 | 2022-03-19 | 2022-04-14 |
 | [Gone](https://open.spotify.com/track/7eRaK8LJUUgStuF29HpNsQ) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Gone](https://open.spotify.com/album/4tvYoJP6LcXBpHglrrH1BP) | 2:51 | 2022-03-19 | 2022-04-11 |
 | [Gone](https://open.spotify.com/track/2f8Rbm4F9RtcO3KubofP6N) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/7FSIgCkJqoayiLPaNvmESo) | 3:32 | 2022-03-19 | 2022-04-16 |
-| [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-11-12 |  |
+| [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-11-12 | 2022-12-03 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-04-08 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-06-22 |  |
 | [Gracie](https://open.spotify.com/track/0FAZwSMwU1rJIkalvkLBfT) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Gracie](https://open.spotify.com/album/6JHyo5Yy3rAr1SCpBfI9SR) | 3:19 | 2021-11-12 | 2022-07-23 |

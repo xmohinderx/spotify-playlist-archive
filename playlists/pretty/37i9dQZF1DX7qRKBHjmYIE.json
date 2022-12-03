@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Danny Schiller",
-  "num_followers": 749394,
+  "num_followers": 749370,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTIyMzU4NywwMDAwMDAwMDk2ZDlhNzRkMWExOGNkOTc4NDkxOWJiNzg3OWEwZDUw",
+  "snapshot_id": "MTY2OTIyMzU4NywwMDAwMDAwMGJjOTY5NjZiZDhjMzMwZjk2NWU3ZmNiYjljNGVkZTUx",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 166548,
-      "name": "Demasiado Loco",
-      "url": "https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 166548,
+      "name": "Demasiado Loco",
+      "url": "https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 221133,
       "name": "Carin\u0303ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 176701,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 185686,
-      "name": "H2O",
-      "url": "https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "TEK",
         "url": "https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 163809,
       "name": "TEK",
       "url": "https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 185686,
+      "name": "H2O",
+      "url": "https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "La Cumbia Del Cucuy",
         "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 135370,
       "name": "La Cumbia Del Cucuy",
       "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2022-11-04 04:00:00",

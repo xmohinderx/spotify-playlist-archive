@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: alt.
+> Heavy new bands you need to have an eye on\. Cover: GAUPA
 
-119 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+122 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-09-09 |  |
 | [Be All End All](https://open.spotify.com/track/7mqV05V4yRar4VbCGHZpLr) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Be All End All](https://open.spotify.com/album/23Nj8HZZvwGvsPGSvPbz4c) | 1:32 | 2022-07-29 | 2022-08-20 |
 | [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-14 | 2022-10-22 |
-| [Black Hole](https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Black Hole](https://open.spotify.com/album/0Jl2byDXilu4Iivo3QO7Ii) | 3:45 | 2022-08-26 |  |
+| [Black Hole](https://open.spotify.com/track/0pNfjQmun4TkovFgLaJOR1) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Black Hole](https://open.spotify.com/album/0Jl2byDXilu4Iivo3QO7Ii) | 3:45 | 2022-08-26 | 2022-12-03 |
+| [Blacklight](https://open.spotify.com/track/6H8vWOFe0k4QuCltQzMTXb) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Blacklight](https://open.spotify.com/album/3BY2fUZSU6NEm9CsFeZOQp) | 3:39 | 2022-12-02 |  |
 | [Bleeding](https://open.spotify.com/track/2lpyWzEnw1eb3lz2J2oGEN) | [World Without](https://open.spotify.com/artist/51Kzkg6pl81mdxy0pbEo7L) | [Bleeding](https://open.spotify.com/album/1VCpl1Lu5xZbWhvxXEZdQ1) | 2:53 | 2022-07-29 | 2022-08-20 |
 | [BLOODSPORT](https://open.spotify.com/track/2k6EEOtVrrBa9lsvfruAVt) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [BLOODSPORT](https://open.spotify.com/album/0cP5GufwnEygN3ROzwXgVt) | 2:54 | 2022-07-29 | 2022-10-15 |
 | [Braces](https://open.spotify.com/track/3oYAMcCA1J8QGzz1q0CPHF) | [Friend](https://open.spotify.com/artist/6a89shmNCtjzoMMX47z2Iq) | [Mister Nice Guy](https://open.spotify.com/album/2tsLR3WeXcm7obFh3ZNNn5) | 1:41 | 2022-09-16 |  |
@@ -72,10 +73,11 @@
 | [Misery Made Its Home in Me](https://open.spotify.com/track/6M5iR5gvxhkMvs4wpBpZQ1) | [The Escape Artist](https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk) | [Pursuing Love at Its Darkest](https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk) | 3:58 | 2022-07-29 | 2022-08-20 |
 | [Mr Medicine](https://open.spotify.com/track/48tHXTsLgLIU4fJNv13LIy) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [Mr Medicine](https://open.spotify.com/album/61YA2rZJLN30UgkVRlHwZM) | 2:26 | 2022-11-11 |  |
 | [My Demon](https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [My Demon](https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH) | 3:01 | 2022-07-29 | 2022-08-20 |
-| [MY DRUGS ARE DIGITAL](https://open.spotify.com/track/5RXtSYCPSDSGwCFmcDSY7e) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT \(DELUXE\)](https://open.spotify.com/album/1aoggoBvLRKQlyozAjfcsK) | 2:53 | 2022-09-09 |  |
+| [MY DRUGS ARE DIGITAL](https://open.spotify.com/track/5RXtSYCPSDSGwCFmcDSY7e) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT \(DELUXE\)](https://open.spotify.com/album/1aoggoBvLRKQlyozAjfcsK) | 2:53 | 2022-09-09 | 2022-12-03 |
 | [NADA](https://open.spotify.com/track/3Hci2iLarYEtZxuQBfIgyZ) | [DEATHSTARE](https://open.spotify.com/artist/1Dr4YjNKFhztnwAIG5iPzC), [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [NADA](https://open.spotify.com/album/3YRtscvxhy9ypjoZ1i4U2s) | 2:17 | 2022-07-29 | 2022-09-03 |
+| [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 | 2022-12-02 |  |
 | [Odyssey](https://open.spotify.com/track/43198ZeRQtET0J7fkhO595) | [Vilify](https://open.spotify.com/artist/1vcCPOlMYtuwIS7W7fzZno) | [Odyssey](https://open.spotify.com/album/3VFpo1ADsgO5W4qhQyjUKk) | 3:42 | 2022-09-09 |  |
-| [Only](https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Only](https://open.spotify.com/album/7p2FtJJE5VQR7jJxCQCCZr) | 3:00 | 2022-07-29 |  |
+| [Only](https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Only](https://open.spotify.com/album/7p2FtJJE5VQR7jJxCQCCZr) | 3:00 | 2022-07-29 | 2022-12-03 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-10-14 |  |
 | [Pessimist](https://open.spotify.com/track/4kCzHLVfTdeATOAxCNN2ia) | [VNDALE](https://open.spotify.com/artist/3fONcYljQ5hkvg95Q0W8Fh) | [Pessimist](https://open.spotify.com/album/4A8w8UM06UdAyEpWAc1Qpu) | 4:02 | 2022-07-29 | 2022-08-20 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-07-29 | 2022-08-20 |
@@ -97,6 +99,7 @@
 | [Still Sinking](https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Inside My Head](https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk) | 3:44 | 2022-09-09 |  |
 | [Still Waiting](https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Still Waiting](https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9) | 2:40 | 2022-08-19 |  |
 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 | 2022-09-09 |  |
+| [Tearing Your Life Away](https://open.spotify.com/track/41d34pNUJPcMFRW6K1PcJi) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Tearing Your Life Away](https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT) | 3:16 | 2022-12-02 |  |
 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 | 2022-07-29 | 2022-08-27 |
 | [Thanatos](https://open.spotify.com/track/1nckYgkJGeJFvcEwKrSCe7) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Thanatos](https://open.spotify.com/album/1SwglEKNRXgmlGP3csWSJV) | 2:56 | 2022-08-26 | 2022-11-19 |
 | [The Dearly Beloved](https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [The Dearly Beloved](https://open.spotify.com/album/3985j1Z12r21NCWCbGHTY2) | 3:56 | 2022-10-07 |  |
@@ -108,7 +111,7 @@
 | [The River](https://open.spotify.com/track/2jHCuaT5m1iXLnugNCERSh) | [Prison](https://open.spotify.com/artist/4UVyBJPlg3bV69JZk1trYq) | [The River](https://open.spotify.com/album/2nLucUgoU2DW05o2FUEULd) | 3:38 | 2022-11-04 |  |
 | [The Third Pillar](https://open.spotify.com/track/0hLMMjNkhEPUTelmWDtqLg) | [Ghosts Of Atlantis](https://open.spotify.com/artist/7vQmrGUUZlbNkjecfGuo61) | [3.6.2.4](https://open.spotify.com/album/5O6RXs6VeaXphvvrRi7hHH) | 5:05 | 2022-08-19 | 2022-10-15 |
 | [There's a Glitch in Human Consciousness](https://open.spotify.com/track/11dR6vXFCoZsTXD2uH6YlG) | [Netherlands](https://open.spotify.com/artist/1WUAsFAAm9aQttDw4M7seC) | [There's a Glitch in Human Consciousness](https://open.spotify.com/album/1I0Z5NYHR4AYENHiQPJATM) | 3:44 | 2022-08-19 | 2022-11-19 |
-| [Tiny Disappointments](https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj) | [The Offering](https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C) | [Tiny Disappointments](https://open.spotify.com/album/4itHsRrDzMue3SKuVcIoCw) | 6:36 | 2022-09-02 |  |
+| [Tiny Disappointments](https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj) | [The Offering](https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C) | [Tiny Disappointments](https://open.spotify.com/album/4itHsRrDzMue3SKuVcIoCw) | 6:36 | 2022-09-02 | 2022-12-03 |
 | [Toxic](https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Toxic](https://open.spotify.com/album/1o7TaQ4EMPhF8wHpUFv08z) | 3:10 | 2022-09-02 |  |
 | [Trench](https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/5XfEUtLHyx1mcHQ9bwWLZN) | 2:36 | 2022-07-29 | 2022-09-17 |
 | [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 | 2022-11-25 |  |
@@ -121,10 +124,10 @@
 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 | 2022-11-19 |
 | [We Can Never Go Back to Arizona](https://open.spotify.com/track/5dr7QhlY2wPGYvVCcKN58K) | [To Bloom](https://open.spotify.com/artist/2rNqQ0mRpXnJGqwRHh12DL) | [We Can Never Go Back to Arizona](https://open.spotify.com/album/0ES4Wdnw4p3ceYFDDCYpBE) | 5:20 | 2022-08-19 | 2022-09-03 |
 | [Why](https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [God's Country](https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx) | 3:31 | 2022-11-18 |  |
-| [WITNESS](https://open.spotify.com/track/143IjpY2zxe3Gkgd1LqyG2) | [THE UNCROWNED](https://open.spotify.com/artist/7C4ZP77B8ST0JQeBB0loHI) | [WITNESS](https://open.spotify.com/album/6htGFQwkKjiVA7CEhFs6BG) | 4:20 | 2022-09-23 |  |
+| [WITNESS](https://open.spotify.com/track/143IjpY2zxe3Gkgd1LqyG2) | [THE UNCROWNED](https://open.spotify.com/artist/7C4ZP77B8ST0JQeBB0loHI) | [WITNESS](https://open.spotify.com/album/6htGFQwkKjiVA7CEhFs6BG) | 4:20 | 2022-09-23 | 2022-12-03 |
 | [Worn Out](https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Worn Out](https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D) | 3:35 | 2022-08-05 |  |
 | [WRAITH](https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [WRAITH](https://open.spotify.com/album/3ORFs3dvqLlEPZspzXkiHw) | 3:19 | 2022-11-18 |  |
-| [Wraith](https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Wraith](https://open.spotify.com/album/59wlkyqNZcSr6XwOZFQYqq) | 3:00 | 2022-09-02 |  |
+| [Wraith](https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Wraith](https://open.spotify.com/album/59wlkyqNZcSr6XwOZFQYqq) | 3:00 | 2022-09-02 | 2022-12-03 |
 | [Yenta](https://open.spotify.com/track/4TPiNzixt2pRgAFWHPy2Wt) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/4FLhtqLQqVAt5qtnrugfPs) | 3:09 | 2022-11-18 |  |
 | [Yenta](https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl) | 3:09 | 2022-10-14 | 2022-11-20 |
 

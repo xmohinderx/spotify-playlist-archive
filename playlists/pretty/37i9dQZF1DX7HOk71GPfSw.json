@@ -1,18 +1,58 @@
 {
-  "description": "ft. brakence",
-  "num_followers": 351661,
+  "description": "ft. 100 gecs ",
+  "num_followers": 351985,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgzNzMzOSwwMDAwMDAwMDJjZjc1NDM0N2VhZTkzMjNjODZlNzhhZDM2MmJkMjQ1",
+  "snapshot_id": "MTY3MDAwMzEwOSwwMDAwMDAwMDczZjJjODc0ZWM2Nzc5NzBmMjlmNWM2Njk3NWVlYjI0",
   "tracks": [
     {
-      "added_at": "2022-11-18 05:09:00",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "bugging!",
-        "url": "https://open.spotify.com/album/4T2jVpTQ1a0sX09kQmMfOM"
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Torture Me (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "So Clear (umru corrosion)",
+        "url": "https://open.spotify.com/album/7CzoR9iVhJDAOsYyN1sXpz"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "So Clear (umru corrosion)",
+      "url": "https://open.spotify.com/track/6eE2XyXIvINbBfu4zaILUX"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "hypochondriac",
+        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
       },
       "artists": [
         {
@@ -20,45 +60,9 @@
           "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 196693,
-      "name": "bugging!",
-      "url": "https://open.spotify.com/track/6OckTB2amWc3Jfa47Zg01U"
-    },
-    {
-      "added_at": "2022-11-15 16:17:36",
-      "album": {
-        "name": "punch back",
-        "url": "https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv"
-      },
-      "artists": [
-        {
-          "name": "savesomeone",
-          "url": "https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz"
-        }
-      ],
-      "duration_ms": 133286,
-      "name": "punch back",
-      "url": "https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "what about us",
-        "url": "https://open.spotify.com/album/5d4NKjHHqrut30DkR9AJjw"
-      },
-      "artists": [
-        {
-          "name": "joss lockwood",
-          "url": "https://open.spotify.com/artist/7c0umSPytMVzf1GT9eL7f2"
-        },
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 110063,
-      "name": "what about us",
-      "url": "https://open.spotify.com/track/2GkxqzH0bBeX5ELUfSyMRb"
+      "duration_ms": 209706,
+      "name": "5g",
+      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -81,20 +85,104 @@
       "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
     },
     {
-      "added_at": "2022-09-28 04:05:00",
+      "added_at": "2022-11-15 16:17:36",
       "album": {
-        "name": "three wheels and it still drives!",
-        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
+        "name": "punch back",
+        "url": "https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "savesomeone",
+          "url": "https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz"
         }
       ],
-      "duration_ms": 200117,
-      "name": "three wheels and it still drives!",
-      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
+      "duration_ms": 133286,
+      "name": "punch back",
+      "url": "https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Cdbaby<3 (underscores remix)",
+        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 133305,
+      "name": "Cdbaby<3 - underscores remix",
+      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Protector",
+        "url": "https://open.spotify.com/album/2U1iBOYHrh9hkwPSa2zMlv"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 168955,
+      "name": "paper plane",
+      "url": "https://open.spotify.com/track/5Nuq71qQlePrI8GErxJsFw"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "VISIONS EP",
+        "url": "https://open.spotify.com/album/26UqWVF6zlHSHkbOoiCXeQ"
+      },
+      "artists": [
+        {
+          "name": "glue70",
+          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
+        }
+      ],
+      "duration_ms": 157272,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/640tgS0uvgPnbu7k82egBM"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5OvFZ5TPlYAZmH6mpj88N7"
+    },
+    {
+      "added_at": "2022-11-18 05:09:00",
+      "album": {
+        "name": "bugging!",
+        "url": "https://open.spotify.com/album/4T2jVpTQ1a0sX09kQmMfOM"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "bugging!",
+      "url": "https://open.spotify.com/track/6OckTB2amWc3Jfa47Zg01U"
     },
     {
       "added_at": "2022-11-18 05:09:00",
@@ -117,6 +205,174 @@
       "url": "https://open.spotify.com/track/6GwHYc28I8kh9PwhsGYBbw"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "sex symbol",
+        "url": "https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 178615,
+      "name": "sex symbol",
+      "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "FruitNinja.ipa",
+        "url": "https://open.spotify.com/album/6htGzYtQjYzAIie2qQhWTt"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        },
+        {
+          "name": "twikipedia",
+          "url": "https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "FruitNinja.ipa",
+      "url": "https://open.spotify.com/track/0Ukv1JUvVApUcleaxS8xvb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Motorola",
+        "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 133280,
+      "name": "Motorola",
+      "url": "https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Sister Species",
+        "url": "https://open.spotify.com/album/3Qw4aPF8HcUV2vbvQUERMF"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 304366,
+      "name": "Sister Species",
+      "url": "https://open.spotify.com/track/49aOLd5b1fQQGZ2ILd1k5a"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "short + sweet.\u3002oO",
+        "url": "https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "duration_ms": 181031,
+      "name": "short + sweet.\u3002oO",
+      "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "bad reputation",
+        "url": "https://open.spotify.com/album/0fwCuaiR2e1EipnyR6hcJQ"
+      },
+      "artists": [
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "bad reputation",
+      "url": "https://open.spotify.com/track/2lQvwqK0xkUqxrm5W9YtQW"
+    },
+    {
+      "added_at": "2022-11-18 05:09:00",
+      "album": {
+        "name": "fisheye",
+        "url": "https://open.spotify.com/album/0CbZLVfA3Kld5bgGM0ORPR"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 136540,
+      "name": "fisheye",
+      "url": "https://open.spotify.com/track/5FyREIsIuTxSlt3kYuAqx6"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "what about us",
+        "url": "https://open.spotify.com/album/5d4NKjHHqrut30DkR9AJjw"
+      },
+      "artists": [
+        {
+          "name": "joss lockwood",
+          "url": "https://open.spotify.com/artist/7c0umSPytMVzf1GT9eL7f2"
+        },
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 110063,
+      "name": "what about us",
+      "url": "https://open.spotify.com/track/2GkxqzH0bBeX5ELUfSyMRb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "draugr",
+        "url": "https://open.spotify.com/album/1qjHzeZTSh58Embu8NuSrf"
+      },
+      "artists": [
+        {
+          "name": "Numl6ck",
+          "url": "https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx"
+        }
+      ],
+      "duration_ms": 117394,
+      "name": "draugr",
+      "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
+    },
+    {
+      "added_at": "2022-09-28 04:05:00",
+      "album": {
+        "name": "three wheels and it still drives!",
+        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 200117,
+      "name": "three wheels and it still drives!",
+      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
+    },
+    {
       "added_at": "2022-11-25 05:02:00",
       "album": {
         "name": "restore",
@@ -131,22 +387,6 @@
       "duration_ms": 163075,
       "name": "restore",
       "url": "https://open.spotify.com/track/3PZHaU94NKGCbw5ql01uAu"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Cdbaby<3 (underscores remix)",
-        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Cdbaby<3 - underscores remix",
-      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
     },
     {
       "added_at": "2022-11-18 05:09:00",
@@ -199,22 +439,6 @@
       "duration_ms": 170310,
       "name": "ihy",
       "url": "https://open.spotify.com/track/6Zdr62QDnRlN2wh1ruFUeO"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "short + sweet.\u3002oO",
-        "url": "https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 181031,
-      "name": "short + sweet.\u3002oO",
-      "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -271,22 +495,6 @@
       "duration_ms": 114460,
       "name": "money machine",
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
-    },
-    {
-      "added_at": "2022-11-18 05:09:00",
-      "album": {
-        "name": "fisheye",
-        "url": "https://open.spotify.com/album/0CbZLVfA3Kld5bgGM0ORPR"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 136540,
-      "name": "fisheye",
-      "url": "https://open.spotify.com/track/5FyREIsIuTxSlt3kYuAqx6"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -435,22 +643,6 @@
       "duration_ms": 143262,
       "name": "MXDEL",
       "url": "https://open.spotify.com/track/3hNT6qNi9u1TZXXj1Mjq8t"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "caffeine",
-        "url": "https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "caffeine",
-      "url": "https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -689,26 +881,6 @@
       "url": "https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS"
     },
     {
-      "added_at": "2022-11-07 16:13:32",
-      "album": {
-        "name": "Love To Be (feat. sadie)",
-        "url": "https://open.spotify.com/album/2ahcsSMOqGlOufMH4CsCCr"
-      },
-      "artists": [
-        {
-          "name": "Dominic Sen",
-          "url": "https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF"
-        },
-        {
-          "name": "sadie",
-          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
-        }
-      ],
-      "duration_ms": 183698,
-      "name": "Love To Be (feat. sadie)",
-      "url": "https://open.spotify.com/track/3s3YpmM0CxA8viLMpXkHBu"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "blow in the wind",
@@ -727,22 +899,6 @@
       "duration_ms": 164705,
       "name": "blow in the wind",
       "url": "https://open.spotify.com/track/4sJGikulSfsE9sSaBR4vKK"
-    },
-    {
-      "added_at": "2022-11-18 05:09:00",
-      "album": {
-        "name": "horror",
-        "url": "https://open.spotify.com/album/44ethtWrV0hjfyRORHSPsW"
-      },
-      "artists": [
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        }
-      ],
-      "duration_ms": 128873,
-      "name": "horror",
-      "url": "https://open.spotify.com/track/1A6b4aecNoPMpNMgfSOCf5"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -1045,22 +1201,6 @@
       "url": "https://open.spotify.com/track/5I9T8nD2r7GlFEs9p2AeRv"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "MONSTAR",
-        "url": "https://open.spotify.com/album/2F8FdkVzAfetGVuBRn8zyJ"
-      },
-      "artists": [
-        {
-          "name": "Izzy Spears",
-          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
-        }
-      ],
-      "duration_ms": 131707,
-      "name": "GBS, XOXO",
-      "url": "https://open.spotify.com/track/3nn5LMCjVIxGC1KwSsgCoC"
-    },
-    {
       "added_at": "2022-09-23 07:48:00",
       "album": {
         "name": "backseat",
@@ -1111,22 +1251,6 @@
       "duration_ms": 172291,
       "name": "foolish",
       "url": "https://open.spotify.com/track/2w5Dbp9Y9LDbsMlfArcL9w"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Thorn In My Side",
-        "url": "https://open.spotify.com/album/3N8in9ACMlqKe6KOWiGZbk"
-      },
-      "artists": [
-        {
-          "name": "Dead Robot",
-          "url": "https://open.spotify.com/artist/5Xgb8LDaSdo3vsDqJ7eBJv"
-        }
-      ],
-      "duration_ms": 113842,
-      "name": "Thorn In My Side",
-      "url": "https://open.spotify.com/track/1XuUU7VoIGBmtllXv6Pt10"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -1191,42 +1315,6 @@
       "duration_ms": 188403,
       "name": "Devils",
       "url": "https://open.spotify.com/track/1gXXDq6HH6nDFyIjsZzF4a"
-    },
-    {
-      "added_at": "2022-10-14 04:22:00",
-      "album": {
-        "name": "difficult",
-        "url": "https://open.spotify.com/album/4wFsQRPPnYc2k73yUldWEh"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        }
-      ],
-      "duration_ms": 124584,
-      "name": "difficult",
-      "url": "https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "Uncertain Cold",
-        "url": "https://open.spotify.com/album/59LEVXmzZqjibAAbYiacpm"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Uncertain Cold",
-      "url": "https://open.spotify.com/track/3XuQbegDSf5To2qCM4sZav"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1385,26 +1473,6 @@
       "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
     },
     {
-      "added_at": "2022-09-30 04:05:00",
-      "album": {
-        "name": "X33 (Angel\u2606Type!)",
-        "url": "https://open.spotify.com/album/2hlyPJXMGdscccHHd4lZfl"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Kenta204",
-          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "X33 (Angel\u2606Type!)",
-      "url": "https://open.spotify.com/track/7ygZMvmeGntR1bYd7AUnTG"
-    },
-    {
       "added_at": "2022-10-07 04:56:00",
       "album": {
         "name": "i wish i never met you",
@@ -1451,30 +1519,6 @@
       "duration_ms": 157078,
       "name": "Hot Girl (Bodies Bodies Bodies)",
       "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "Hi This Is Flume (Mixtape)",
-        "url": "https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 114645,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3Xuhi20r1A2FGQHAisL551"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -1581,42 +1625,6 @@
       "url": "https://open.spotify.com/track/2HYoorelMBHn5BwagU2Cka"
     },
     {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "prone2leave",
-        "url": "https://open.spotify.com/album/0F7C8WV3T2RJR9jRW1dIph"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "Voda Fuji",
-          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
-        }
-      ],
-      "duration_ms": 140831,
-      "name": "prone2leave",
-      "url": "https://open.spotify.com/track/7MT7P3vYraNsvVsXTkaE3b"
-    },
-    {
-      "added_at": "2022-10-21 14:52:25",
-      "album": {
-        "name": "state 2 state",
-        "url": "https://open.spotify.com/album/2qknH0KuvGTthr8qF6dlN6"
-      },
-      "artists": [
-        {
-          "name": "Vaeo",
-          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "state 2 state",
-      "url": "https://open.spotify.com/track/2HNcHnshaJsWdKaNf8tOBV"
-    },
-    {
       "added_at": "2022-10-21 14:52:25",
       "album": {
         "name": "MOUNTAiiN",
@@ -1631,22 +1639,6 @@
       "duration_ms": 103815,
       "name": "MOUNTAiiN",
       "url": "https://open.spotify.com/track/5gtPFHwxjBaulHL71oY0k7"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "Petroleum / Hidden Land",
-        "url": "https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 198769,
-      "name": "Petroleum",
-      "url": "https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -1695,22 +1687,6 @@
       "duration_ms": 206746,
       "name": "bugfood",
       "url": "https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "welcome to the plant cell bath",
-        "url": "https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT"
-      },
-      "artists": [
-        {
-          "name": "gabby start",
-          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "welcome to the plant cell bath",
-      "url": "https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo"
     },
     {
       "added_at": "2022-09-30 04:05:00",

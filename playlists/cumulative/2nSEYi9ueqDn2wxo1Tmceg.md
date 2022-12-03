@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-275 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+276 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Betelgeuse](https://open.spotify.com/track/17k3mmarEw2guj3Iiy4CxB) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Hyaline](https://open.spotify.com/album/6J1NeQ3OmX4LW5Yg9EhPjd) | 4:22 | 2022-06-16 | 2022-07-28 |
 | [Bicameral \(Guedra Guedra Remix\)](https://open.spotify.com/track/0NzL0msOQx7CYfxVKVbkCr) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [Guedra Guedra](https://open.spotify.com/artist/59bnrVjObngqDJYBOXH4kY) | [Bicameral \(Remixes\)](https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl) | 3:11 | 2022-08-09 | 2022-09-29 |
 | [Bicameral \(Tourist Remix\)](https://open.spotify.com/track/4WFJlcE8g3qRrbTbLkUgyo) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Bicameral \(Remixes\)](https://open.spotify.com/album/5GLgmRlxZ95bPWLxpcZOcl) | 5:00 | 2022-08-09 | 2022-09-29 |
+| [Bird](https://open.spotify.com/track/3VJ5OHIiVjvxj7vN3SlbFd) | [White Lung](https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M) | [Premonition](https://open.spotify.com/album/2GOtfNmU1wjE1JkTdL7ylu) | 3:15 | 2022-12-02 |  |
 | [Blame](https://open.spotify.com/track/1id6mxWTXeXYXgsriXJyTf) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Blame](https://open.spotify.com/album/59dntsJjxfrBurSijHw97J) | 3:03 | 2022-06-08 | 2022-06-17 |
 | [Blessing](https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Blessing](https://open.spotify.com/album/7Aqk8isy5td8NUUmXF3Z3d) | 3:05 | 2022-06-08 | 2022-07-14 |
 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 | 2022-09-28 | 2022-11-03 |

@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-206 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
+207 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [This Holiday](https://open.spotify.com/track/4pS8MCgLGzcIOEA3wvYvv6) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [This Holiday](https://open.spotify.com/album/7jCoBzlhU3Cel0vYrhGUis) | 3:34 | 2022-11-09 | 2022-11-14 |
 | [This Holiday](https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:34 | 2021-11-26 |  |
 | [Threadbare](https://open.spotify.com/track/4JrYtPByIks9p7h9FYhgeS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Threadbare](https://open.spotify.com/album/7n9A3XL9AprUZ4UhMRWCja) | 3:30 | 2021-11-26 |  |
+| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/7bKiUJ2re9OTNkB8sjYEdm) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/album/13rqjPtmNSnmvBBO6tZyZg) | 3:30 | 2022-12-02 |  |
 | [We All Need Christmas](https://open.spotify.com/track/0cGgN5pGXfECL8OLZEeIf2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [We All Need Christmas](https://open.spotify.com/album/7nXguxttjtF1IkupVfms5q) | 3:57 | 2021-11-26 |  |
 | [We Three Kings](https://open.spotify.com/track/2XwPpAAZVnakNYw6S9qPJC) | [Bang Bang Romeo](https://open.spotify.com/artist/0pYrJEBQD23sHMvxsBM3fO) | [We Three Kings](https://open.spotify.com/album/1TO6QSqIhdI5plWSHDi31p) | 1:58 | 2021-11-26 | 2022-11-09 |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 | 2021-11-26 |  |

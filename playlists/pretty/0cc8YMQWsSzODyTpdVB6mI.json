@@ -1,13 +1,33 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 44490,
+  "num_followers": 44491,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "MzAwOCwzNDc5MDFiZWQ2NTkwODM4Y2Q4MjU1OTlkNjE1NmZkZjA1YzJmMjc3",
+  "snapshot_id": "MzAxMCxlNjgwNmNhNzhhMzdmNjUxZGNiNjExZTExNWY5YTJiMjg2YjFlZDM4",
   "tracks": [
+    {
+      "added_at": "2022-12-02 09:14:25",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0hhqR9E19JXrsqF2EjPUNc"
+      },
+      "artists": [
+        {
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+        },
+        {
+          "name": "Max Wheeler",
+          "url": "https://open.spotify.com/artist/3VfVPS04066laDWCxcVe1j"
+        }
+      ],
+      "duration_ms": 217239,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/3AUVgd5EWkAGDzqrKR36DN"
+    },
     {
       "added_at": "2022-11-30 09:07:30",
       "album": {
@@ -399,22 +419,6 @@
       "duration_ms": 232380,
       "name": "Azibi",
       "url": "https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c"
-    },
-    {
-      "added_at": "2022-09-07 08:33:14",
-      "album": {
-        "name": "DO MAR",
-        "url": "https://open.spotify.com/album/1Gdc4ABDwkAAPO6UP3cY7Q"
-      },
-      "artists": [
-        {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "DO MAR",
-      "url": "https://open.spotify.com/track/0ra2NmkSqQzmRE5DUdNUTb"
     },
     {
       "added_at": "2021-11-05 15:47:43",

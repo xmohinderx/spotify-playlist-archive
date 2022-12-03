@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: DOMi & JD BECK
 
-365 songs - 21 hr 48 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
+366 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Dance Yourself Free](https://open.spotify.com/track/4cvV6kAJt8FV6pGByhgF0J) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Emilie Boyd](https://open.spotify.com/artist/0ZQNy5KGr7GRnwFWJ47w2p), [Harry Weir](https://open.spotify.com/artist/5MGaXxFaRII9wdJKhd1cK8) | [Dance Yourself Free](https://open.spotify.com/album/6x2HY1BdmcZg9anp9VkRAE) | 6:12 | 2021-11-26 | 2022-03-12 |
 | [Darkness Of The Night](https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Darkness Of The Night](https://open.spotify.com/album/2W9Amgivg5XBGMNoN3bG5x) | 3:14 | 2021-12-10 | 2022-04-29 |
 | [Dawn of New Day](https://open.spotify.com/track/2JsWiWqIIFRFGGmFfeMwtT) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Dawn of New Day](https://open.spotify.com/album/0yi2ciTYXph2KwqeZ05eYY) | 3:41 | 2022-03-11 | 2022-04-29 |
+| [Daylight](https://open.spotify.com/track/5Flg2sCDHIBGevslsbSqUm) | [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Daylight](https://open.spotify.com/album/0NjVS54AvP3q9cr7G6Z2oA) | 4:18 | 2022-12-02 |  |
 | [Days Like This](https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx) | [Safiyyah](https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu), [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR) | [Days Like This](https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh) | 3:38 | 2021-11-19 | 2022-08-09 |
 | [DELIRIO DE GRANDEZA](https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:35 | 2022-03-18 | 2022-07-23 |
 | [Did I Get You Right](https://open.spotify.com/track/2irpGZy5MB83lDtjPOwqyL) | [Footprint Project](https://open.spotify.com/artist/4t7eLqngSabfN9Ip8X1Dto) | [Garden of Opinions](https://open.spotify.com/album/0MOZMCz3vpGaQUWZqgkG9y) | 5:46 | 2022-05-20 | 2022-11-19 |
@@ -196,7 +197,7 @@
 | [Love & Fools](https://open.spotify.com/track/6rr1JNGkJUiAVQDhYFbCpr) | [Todd Carey](https://open.spotify.com/artist/0LCLu0eCcX5xembxDadUbz), [New Memphis Colorways](https://open.spotify.com/artist/20VWFuTbgbJt9iUtn6AZ9A) | [Love & Fools](https://open.spotify.com/album/45RI2VNGs47GSJn1flasfj) | 3:16 | 2021-11-26 | 2022-07-30 |
 | [Love Theme For Leisure Trip](https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Love Theme For Leisure Trip](https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT) | 3:29 | 2022-11-25 |  |
 | [Love Yourself](https://open.spotify.com/track/1UcVVqUun6yljvpoXpfrLR) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Toro Y Rome Vol\. 1](https://open.spotify.com/album/1W2fD7CSls8BSGAeUXUlPp) | 2:32 | 2021-11-12 | 2022-06-18 |
-| [Lucid](https://open.spotify.com/track/26IwxWynDBbYeH1LQBbBuf) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Any Otherville](https://open.spotify.com/album/7MdPZgfEzckjFLDMdfvj1v) | 2:58 | 2022-06-03 |  |
+| [Lucid](https://open.spotify.com/track/26IwxWynDBbYeH1LQBbBuf) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Any Otherville](https://open.spotify.com/album/7MdPZgfEzckjFLDMdfvj1v) | 2:58 | 2022-06-03 | 2022-12-03 |
 | [Lucid](https://open.spotify.com/track/2m2waNWjpMs86VezrND2CJ) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Any Otherville](https://open.spotify.com/album/2pX3p5DMtffPVvoj8WI3hD) | 2:58 | 2022-06-03 | 2022-10-15 |
 | [Mama \- Don't Let Me](https://open.spotify.com/track/2aWxSPv2CXOwia5ee0J252) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM) | [Mama \(Don't Let Me\)](https://open.spotify.com/album/5uzIuZQ86pFr1HxpV2UDl8) | 4:40 | 2021-11-12 | 2022-03-12 |
 | [Man Invisible](https://open.spotify.com/track/0AMfoVsFl0tR9wgEzlJWBf) | [Elise Trouw](https://open.spotify.com/artist/6jeroC7T0j4Dvz9y3gtofR) | [Man Invisible](https://open.spotify.com/album/6vwSRp65WbKvCTQhg2EKIz) | 2:22 | 2022-08-26 |  |

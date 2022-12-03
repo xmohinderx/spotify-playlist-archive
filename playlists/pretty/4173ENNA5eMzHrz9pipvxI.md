@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Leftwing : Armand Van Helden x Karen Harding
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Armand Van Helden x Karen Harding
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,543 likes - 25 songs - 1 hr 14 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,536 likes - 25 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 24 | [Summer Jams \(Henri PFR VIP Mix\)](https://open.spotify.com/track/2UYVc8cyX52jtIqj2LvklZ) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams \(Henri PFR VIP Mix\)](https://open.spotify.com/album/2f9K5EbVLPtl725nnnzaoj) | 4:10 |
 | 25 | [Summer Jams \(Blasterjaxx Festival Mix\)](https://open.spotify.com/track/6riXvqD2fTUALqtJ0TO1AK) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams \(Blasterjaxx Festival Mix\)](https://open.spotify.com/album/2iBRfLIksm4eG2zRo5XStd) | 3:04 |
 
-Snapshot ID: `NjMzOCw2MmNhZWYwMzhiMGJjNDJmNzg5ZDFmMDc3N2VmZDZkMThiNjQ4YWQ2`
+Snapshot ID: `NjMzOSwyNWEwODRlY2ZlOWQyYmFlNjNiMWM5ZTgxZDk2ZGRhNTQ3NzIyMzU4`

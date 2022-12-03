@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niki
 
-347 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+349 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Blinding Lights](https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Blinding Lights](https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4) | 2:55 | 2021-12-17 |  |
 | [Boom Clap](https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91) | [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [Boom Clap](https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj) | 2:55 | 2021-12-17 |  |
 | [Both Sides Now](https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Both Sides Now](https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt) | 4:44 | 2021-12-17 |  |
+| [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 |  |
 | [Bye Bye Bye \- From the Original Motion Picture "Red Rocket"](https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [Bye Bye Bye \(From the Original Motion Picture "Red Rocket"\)](https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd) | 2:07 | 2021-12-24 |  |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-07-08 |  |
 | [California](https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC) | 2:47 | 2021-12-24 | 2022-07-29 |
@@ -239,6 +240,7 @@
 | [Ocean Avenue](https://open.spotify.com/track/6XfrYdVVHUD3MH0vkepB7L) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Ocean Avenue](https://open.spotify.com/album/2HjA3htA4jlDnn99SHW460) | 2:39 | 2021-12-17 | 2022-01-15 |
 | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj) | 3:36 | 2021-12-17 |  |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2021-12-17 |  |
+| [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 | 2022-12-02 |  |
 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 | 2021-12-17 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2022-03-25 | 2022-04-16 |
 | [positions](https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [positions](https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT) | 2:25 | 2021-12-17 |  |

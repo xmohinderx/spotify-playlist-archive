@@ -4,7 +4,7 @@
 
 > chill vibes ♡
 
-91 songs - 4 hr 50 min - not published yet
+92 songs - 4 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [crossing field](https://open.spotify.com/track/0zxgnfOWkAt0xA30KRoERq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [crossing field](https://open.spotify.com/album/30KYUjwlg4U8Rw3rM0GeFs) | 4:10 | 2022-10-19 | 2022-11-14 |
 | [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2022-10-19 | 2022-11-19 |
 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 | 2022-10-19 | 2022-11-19 |
-| [Don't Play](https://open.spotify.com/track/0EXjHqEgvA6pfC2dFgjftW) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/6xWw24oa3FVpU4Q30quSBK) | 2:17 | 2022-11-18 |  |
+| [Don't Play](https://open.spotify.com/track/0EXjHqEgvA6pfC2dFgjftW) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/6xWw24oa3FVpU4Q30quSBK) | 2:17 | 2022-11-18 | 2022-12-03 |
+| [Don't Play](https://open.spotify.com/track/3LI5b1E6jYpMI8zRwuoeMw) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/0YsKj89MQL8KQgGjfWlUnI) | 2:17 | 2022-11-18 |  |
 | [dreamy night](https://open.spotify.com/track/3NyxWuYU0s2GA6oZgDRQep) | [LilyPichu](https://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8) | [dreamy night](https://open.spotify.com/album/0A6DFHdvaK9zuAmTRa7n4x) | 4:05 | 2022-10-19 | 2022-11-19 |
 | [Elastic](https://open.spotify.com/track/4MAADpR6MjelkaZqe3Mgnv) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [QUARTERTHING](https://open.spotify.com/album/0ffPsL9V1eNMi54MEHMehn) | 2:06 | 2022-10-19 |  |
 | [Energy \(feat\. Youngn Lipz\)](https://open.spotify.com/track/5nmVqmp0xLM377e5xkDooV) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Energy](https://open.spotify.com/album/76VqAPCdTZH8Ns9igl4YU8) | 2:36 | 2022-10-19 | 2022-11-19 |

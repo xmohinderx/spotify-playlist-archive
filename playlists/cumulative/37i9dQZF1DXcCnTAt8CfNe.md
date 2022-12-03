@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-235 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+236 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-12-09 |  |
 | [Eleni](https://open.spotify.com/track/62FsGEI77Ot7VXNcA2ReHz) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Eleni](https://open.spotify.com/album/52qI0dktuJ4W5s08Yilflu) | 2:21 | 2022-09-30 |  |
 | [Elusive](https://open.spotify.com/track/2qIW959qt0als3uu3gtjwB) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Elusive](https://open.spotify.com/album/0qxfxLXn8myAJLXKa6EmFS) | 2:15 | 2021-12-09 |  |
+| [Entering Light](https://open.spotify.com/track/66sprH72V1xH9LhBW5Pvar) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Silhouettes](https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz) | 2:43 | 2022-12-02 |  |
 | [Essential Sleep](https://open.spotify.com/track/7FkskPFn9biiXHFqFn4jFD) | [Alvaro Siesta](https://open.spotify.com/artist/2TqnggQ9LjdAR1GBHhUcZ1) | [Essential Sleep](https://open.spotify.com/album/7aoGBZ6Tb1YoUXZQNqOLhh) | 2:12 | 2022-06-16 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-12-09 |  |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2021-12-09 |  |
@@ -199,7 +200,7 @@
 | [State of Tranquility](https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Gratitude](https://open.spotify.com/album/2Mh5szpygzvrRi00d8iJlC) | 4:08 | 2021-12-09 |  |
 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2021-12-09 |  |
 | [Sueño \(nos vemos mañana\)](https://open.spotify.com/track/6ageUeraq8yY687IBlpeEF) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Sueño \(nos vemos mañana\)](https://open.spotify.com/album/1cv6KC1L2brsbH63ImADBK) | 3:11 | 2021-12-09 |  |
-| [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 3:31 | 2021-12-09 |  |
+| [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 3:31 | 2021-12-09 | 2022-12-03 |
 | [Sugar High](https://open.spotify.com/track/0H9ObVXY0RvFsXqdFDAdyp) | [Vanessa Sky](https://open.spotify.com/artist/3EBmLqXbxXtrJ1FDp4NRur) | [Sugar High](https://open.spotify.com/album/4cErrJtWfohldIG7dpgfiw) | 3:29 | 2021-12-09 |  |
 | [Summer Memories](https://open.spotify.com/track/2Jr8bmTiSIKWvn3OpTyN9s) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:47 | 2021-12-09 |  |
 | [Summits](https://open.spotify.com/track/7GfuqKFwIqZMPT3QpMOZay) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Worlds Apart](https://open.spotify.com/album/1Vwl7AuOBpF7zVEsiIRHlS) | 2:07 | 2021-12-09 | 2022-10-15 |

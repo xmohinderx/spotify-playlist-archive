@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,615 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,625 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 58 | [Weep In The Moonlight \(feat\. 고냉\)](https://open.spotify.com/track/3wVHFEQtLwoCOCI1tgi8P6) | [Jellyboy](https://open.spotify.com/artist/5iZz51YRPFZ3Ym9WZOOUH0), [고냉](https://open.spotify.com/artist/3W0coM6R42aOzFN7BpDZoX) | [Weep In The Moonlight](https://open.spotify.com/album/3QmhhKBPo20DriUAHE6abW) | 4:32 |
 | 59 | [Juliana](https://open.spotify.com/track/4l8v79zniK5xgPUWqRrS4O) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [Juliana \(we.MAKE20 \#9\)](https://open.spotify.com/album/2F7LfrbY5o0aNDYCkcyCAg) | 3:26 |
 | 60 | [Alibis](https://open.spotify.com/track/2NuqKld8bDnPRiWYeV3DRR) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:25 |
-| 61 | [No Mercy](https://open.spotify.com/track/0vV4yOjr2G6rffnoUg0ttG) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [No Mercy](https://open.spotify.com/album/6aeapmgZrB4VEisgU5rbF6) | 3:13 |
+| 61 | [무자비 No Mercy](https://open.spotify.com/track/1Mu2WHJ7q2axc3xuq25nKA) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [무자비 No Mercy](https://open.spotify.com/album/7aWySG1r7rZtJSdokvFBTb) | 3:13 |
 | 62 | [Summer Memories](https://open.spotify.com/track/7iLZ20MyVlY3idlhFsBfiU) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Kang Seung Sik](https://open.spotify.com/artist/6KQYNyGaP0jX300OaEdaY0) | [Summer Memories](https://open.spotify.com/album/4gPX63erzSxNcWY0ndHwPz) | 3:54 |
 | 63 | [Rocking Roll Again](https://open.spotify.com/track/3RNlaKy6mTRPRiSaCkrRyB) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Rocking Roll Again](https://open.spotify.com/album/1vwBzikA02arxPivuxEuFt) | 4:08 |
 | 64 | [Starry Night](https://open.spotify.com/track/7Iw3TOa9KqUoC4raYC70t9) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/0bQv27YqKRxlJ9KURup5RV) | 3:47 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 67 | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/track/0lgJiwoJ4G7WsqbGjHaK99) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [PARKMOONCHI UNIVERSE](https://open.spotify.com/artist/4MifTc2uigW2QDJODF2Erk) | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/album/6DPxcUrUw0YZ2o25nJ47D7) | 3:53 |
 | 68 | [Initial S](https://open.spotify.com/track/7I8y3zAkJxmQEQTU4YR8pl) | [Sori](https://open.spotify.com/artist/27L28cNkMJsYKs8Xyuhmd9) | [Initial S](https://open.spotify.com/album/0Vi25uxqxAx3Uif4yCFd8l) | 3:03 |
 | 69 | [soyongdol\-i \(Feat\. JINBO the SuperFreak\)](https://open.spotify.com/track/0RqRGO6LJXN7Xlf7CBKNRE) | [Kriz](https://open.spotify.com/artist/0gRsw676mIkWWAT1zdAHXb), [JINBO](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [soyongdol\-i](https://open.spotify.com/album/7DIVGBK6VoL0Dex6Y8jP7s) | 3:08 |
-| 70 | [SUMMER LOVE…](https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/2cMseEooCLrfoNa8GZ13nu) | 4:10 |
+| 70 | [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 |
 | 71 | [오늘 조금 취해서 그래](https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [오늘 조금 취해서 그래](https://open.spotify.com/album/6QpIl0FPITcpoJTn5HP4vD) | 2:45 |
 | 72 | [BLIND FOR LOVE \- Nu Disco Mix](https://open.spotify.com/track/6swEE23x1DdAufXul8fI7M) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:50 |
 | 73 | [Day By Day](https://open.spotify.com/track/4bQZGykn0AYH8DlJGGuSIV) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:57 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 114 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 115 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDdjMGY4ZDEzM2Q1NWY3ZGNhZWY4NmI0MzhjZWJmMzNl`
+Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDljZDMyODA3Y2E5OGNjMjBmNjY2MTIyOWNmOWRiMDA2`

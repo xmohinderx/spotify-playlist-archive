@@ -1,15 +1,15 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 56289,
+  "num_followers": 56308,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0NzI4OCwwMDAwMDAwMDg3MjZhZTM2MmQ4OWM4MjMzNWQzOTI1MWYxYjA3ODhi",
+  "snapshot_id": "MTY2OTY0NzI4OCwwMDAwMDAwMDE1OGEyM2JlODJlNzJlMmE5M2YzODc5NDE3YmViZmFl",
   "tracks": [
     {
-      "added_at": "2022-12-02 01:30:52",
+      "added_at": "2022-12-03 01:25:03",
       "album": {
         "name": "\u540c.\u60c5",
         "url": "https://open.spotify.com/album/5LU2xEOtIM2ZdAmvOyyWXs"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
     },
     {
-      "added_at": "2022-12-02 01:30:52",
+      "added_at": "2022-12-03 01:25:03",
       "album": {
         "name": "\u5f35\u72c2\u7684\u4f54\u617e,\u672a\u660e\u7684\u504f\u57f7",
         "url": "https://open.spotify.com/album/6HtVHObTlCfLjkdQDShWdf"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
     },
     {
-      "added_at": "2022-12-02 01:30:52",
+      "added_at": "2022-12-03 01:25:03",
       "album": {
         "name": "\u4f60\u7d66\u904e\u6211\u7684\u5feb\u6a02",
         "url": "https://open.spotify.com/album/7FSJzbMr2AddYiZO52c582"
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-21 16:03:22",
       "album": {
-        "name": "\u6c99\u767c\u6d77",
-        "url": "https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "\u53f0\u5317\u67d0\u500b\u5730\u65b9",
-      "url": "https://open.spotify.com/track/3LQ0RDsFVMYrUfPYOgncCh"
-    },
-    {
-      "added_at": "2022-11-21 16:03:22",
-      "album": {
         "name": "\u9519\u5b63",
         "url": "https://open.spotify.com/album/5MeSqQUVQBstvgrpOLiUbX"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 270399,
       "name": "\u812b\u80ce\u63db\u9aa8",
       "url": "https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk"
+    },
+    {
+      "added_at": "2022-11-21 16:03:22",
+      "album": {
+        "name": "\u6c99\u767c\u6d77",
+        "url": "https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "\u53f0\u5317\u67d0\u500b\u5730\u65b9",
+      "url": "https://open.spotify.com/track/3LQ0RDsFVMYrUfPYOgncCh"
     },
     {
       "added_at": "2022-11-21 16:03:22",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-11-21 16:03:22",
       "album": {
+        "name": "\u5fc3\u613f",
+        "url": "https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ"
+      },
+      "artists": [
+        {
+          "name": "Ren Ran",
+          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "\u5fc3\u613f",
+      "url": "https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P"
+    },
+    {
+      "added_at": "2022-11-21 16:03:22",
+      "album": {
         "name": "\u6bd2\u85e5",
         "url": "https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 270026,
       "name": "\u5225\u518d\u60f3\u898b\u6211",
       "url": "https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f"
-    },
-    {
-      "added_at": "2022-11-21 16:03:22",
-      "album": {
-        "name": "\u5fc3\u613f",
-        "url": "https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ"
-      },
-      "artists": [
-        {
-          "name": "Ren Ran",
-          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "\u5fc3\u613f",
-      "url": "https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P"
     },
     {
       "added_at": "2022-11-21 16:03:22",

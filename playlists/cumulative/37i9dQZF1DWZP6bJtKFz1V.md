@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: spill tab
 
-453 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+454 songs - 23 hr 35 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Peachy](https://open.spotify.com/track/5VN19XwyKuWp3lfQFFB4ov) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Peachy](https://open.spotify.com/album/5BJSRhuPzpf9acCJ3eWOR7) | 3:22 | 2022-02-04 | 2022-04-23 |
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-10 |  |
 | [Pharmacist](https://open.spotify.com/track/1LWXIQyreuswhaIqKabxAD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/10umg2aCAjXa8HPvPKuFw0) | 2:04 | 2022-07-08 | 2022-07-27 |
+| [Pharmacist](https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:04 | 2022-11-18 |  |
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-22 | 2022-10-09 |
 | [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-10-07 | 2022-11-26 |
 | [Play Along](https://open.spotify.com/track/2Kqz2NwNRBqg0nJMQU5xjJ) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Play Along](https://open.spotify.com/album/4D9Fx7V3jOlawbQW9Svcf9) | 3:11 | 2022-02-18 | 2022-03-26 |
@@ -407,7 +408,7 @@
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2022-02-04 | 2022-03-12 |
 | [Tightrope](https://open.spotify.com/track/1ftxpepwP6o3oEPTIlKK58) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [29 Palms \(Deluxe\)](https://open.spotify.com/album/5NTmiYnxmIBVKqKAR9Ql4x) | 2:20 | 2022-10-07 |  |
 | [Tightrope](https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Tightrope](https://open.spotify.com/album/6tUJXb2qxc4VBSmPeQYXrp) | 2:20 | 2022-04-22 | 2022-10-13 |
-| [To Let Go](https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [To Let Go](https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N) | 3:19 | 2022-10-28 |  |
+| [To Let Go](https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [To Let Go](https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N) | 3:19 | 2022-10-28 | 2022-12-03 |
 | [Tokyo](https://open.spotify.com/track/37UEu9sWDiGp1GpufYw2Tc) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Christo Bowman](https://open.spotify.com/artist/6KSZuZigeTureDNedWHZxz) | [Heart Eater](https://open.spotify.com/album/0kRUwtTUfl40ftsYlxJg8V) | 3:20 | 2022-06-13 | 2022-07-29 |
 | [Tongue Tied](https://open.spotify.com/track/6XkFFE9KJB90h1IexC16SH) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Tongue Tied](https://open.spotify.com/album/695atk1rsgPg7kLTUyCvZc) | 2:30 | 2022-04-01 | 2022-05-07 |
 | [Too Late \(To Call\)](https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Too Late \(To Call\)](https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz) | 3:41 | 2022-03-25 | 2022-07-09 |

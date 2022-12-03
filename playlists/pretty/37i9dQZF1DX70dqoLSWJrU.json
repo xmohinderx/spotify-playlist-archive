@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 40188,
+  "num_followers": 40317,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkwMjg1OSwwMDAwMDAwMDgzYzJmNGUxYjhlNjFmZjg0M2Y2ZWFmZWNmYzFkZjM0",
+  "snapshot_id": "MTY2OTkwMjg1OSwwMDAwMDAwMDhlZjFhY2E0NzRhYjk1YWIwNDVmNDM3Zjg2ZDg5MWQ2",
   "tracks": [
     {
       "added_at": "2022-12-01 13:54:19",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -447,22 +447,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
         }
       ],
-      "duration_ms": 172186,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
+      "duration_ms": 155600,
+      "name": "Blue And Sentimental - 1947 Version",
+      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -531,34 +527,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
       "artists": [
         {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Blue And Sentimental - 1947 Version",
-      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
+      "duration_ms": 172186,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -575,6 +559,22 @@
       "duration_ms": 282866,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -611,18 +611,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+        "name": "A Certain Smile, A Certain Sadness (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
         }
       ],
-      "duration_ms": 290693,
-      "name": "You Don't Know What Love Is - Remastered 2004",
-      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
+      "duration_ms": 188026,
+      "name": "A Certain Sadness",
+      "url": "https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -647,22 +651,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "A Certain Smile, A Certain Sadness (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4"
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
       },
       "artists": [
         {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 188026,
-      "name": "A Certain Sadness",
-      "url": "https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf"
+      "duration_ms": 290693,
+      "name": "You Don't Know What Love Is - Remastered 2004",
+      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+        "name": "Around Midnight",
+        "url": "https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 287973,
-      "name": "There's No You",
-      "url": "https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk"
+      "duration_ms": 172160,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Around Midnight",
-        "url": "https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d"
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
       "artists": [
         {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 172160,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2"
+      "duration_ms": 287973,
+      "name": "There's No You",
+      "url": "https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "All For You (A Dedication To The Nat King Cole Trio)",
+        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "The Complete Piano Duets",
         "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "All For You (A Dedication To The Nat King Cole Trio)",
-        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "I Wish I Knew - Remastered 2004",
-      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Blues, Soul & Ballads",
         "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 127626,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "I Wish I Knew - Remastered 2004",
+      "url": "https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "I Just Couldn't Stand It No More",
+      "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "The Big Broadcast, Volume 2: Jazz and Popular Music of the 1920s and 1930s",
         "url": "https://open.spotify.com/album/1SfSBipIVlCDOgxqRUDxgf"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 197253,
       "name": "Wasting My Love On You",
       "url": "https://open.spotify.com/track/1kKF0fbIAzKwbgdOedTWyg"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 181333,
-      "name": "I Just Couldn't Stand It No More",
-      "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
     },
     {
       "added_at": "2022-12-01 13:54:19",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -1499,42 +1519,6 @@
     {
       "added_at": "2022-12-01 13:54:19",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "There's No Such Thing As Love",
-      "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
-    },
-    {
-      "added_at": "2022-12-01 13:54:19",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 204479,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC"
+    },
+    {
+      "added_at": "2022-12-01 13:54:19",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "There's No Such Thing As Love",
+      "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
     },
     {
       "added_at": "2022-12-01 13:54:19",

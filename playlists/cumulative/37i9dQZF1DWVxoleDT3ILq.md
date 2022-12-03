@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Alex Anwandter
 
-286 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+287 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Huracán](https://open.spotify.com/track/0JSxdsH8gbHfSeSBWln1Sv) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Huracán](https://open.spotify.com/album/6ihDqgMIIGgJSzrim0EVll) | 3:41 | 2022-04-15 | 2022-07-26 |
 | [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 | 2022-07-31 |
 | [Imantado](https://open.spotify.com/track/27zFkDvAz42uVdvPpOvRWx) | [También Andrés](https://open.spotify.com/artist/6RTgoShg6Qjg9dGQ5rKm25) | [Imantado](https://open.spotify.com/album/6HEjFye6BkQvq5B2Y484Kb) | 3:39 | 2022-04-15 | 2022-07-24 |
+| [intento 2: piénsalo bien](https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intento 2: piénsalo bien](https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47) | 3:44 | 2022-12-02 |  |
 | [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 | 2022-04-15 | 2022-10-08 |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 |  |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
@@ -262,7 +263,7 @@
 | [tournesol](https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [tournesol](https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg) | 3:09 | 2022-04-15 |  |
 | [Triálogo](https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [Cuatro](https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS) | 2:30 | 2022-08-05 |  |
 | [Tu Centro Se Aferra a Mi](https://open.spotify.com/track/59OQfyqSyAbfJIKIaixaS1) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [III](https://open.spotify.com/album/2T9nC7wwk50wrpcFwpYxLz) | 3:16 | 2022-04-15 | 2022-07-27 |
-| [Tu Momento](https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1) | [Blanco Leal](https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq), [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Tu Momento](https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki) | 3:49 | 2022-10-07 |  |
+| [Tu Momento](https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1) | [Blanco Leal](https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq), [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Tu Momento](https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki) | 3:49 | 2022-10-07 | 2022-12-03 |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2022-04-15 |  |
 | [tu voz en mis audífonos](https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [tu voz en mis audífonos](https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS) | 3:13 | 2022-04-15 |  |
 | [Tur Blues](https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Tur Blues](https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg) | 3:33 | 2022-04-29 |  |

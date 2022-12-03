@@ -398,6 +398,32 @@
     },
     {
       "album": {
+        "name": "Earworm",
+        "url": "https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144588,
+      "name": "Earworm",
+      "url": "https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl"
+    },
+    {
+      "album": {
         "name": "Los Fabulosos",
         "url": "https://open.spotify.com/album/5T5kQhE6o4QClLQUOVrs38"
       },

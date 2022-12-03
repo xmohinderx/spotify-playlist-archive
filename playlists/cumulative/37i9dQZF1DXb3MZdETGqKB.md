@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-165 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+166 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All Night \- Edit](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 |  |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2021-04-23 | 2022-05-07 |
 | [All Roads Are Good](https://open.spotify.com/track/5p0K8BNmVIBBycmUpIQ3bb) | [OPLIAM](https://open.spotify.com/artist/4vx5pLklP1r4WOGo1SA0DE) | [All Roads Are Good](https://open.spotify.com/album/7GeAo0kFkaE1Xm4S4FwCWj) | 3:02 | 2022-05-06 | 2022-06-19 |
-| [All She Said](https://open.spotify.com/track/2TxsGefsQkZlzHNh51jtUy) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [All She Said](https://open.spotify.com/album/0rJS9XfsgwXoJoMHNGiQp2) | 3:51 | 2022-03-04 |  |
+| [All She Said](https://open.spotify.com/track/27v0NADTYEZjrB7DoCo6Ur) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Wanted](https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m) | 3:51 | 2022-03-04 |  |
+| [All She Said](https://open.spotify.com/track/2TxsGefsQkZlzHNh51jtUy) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [All She Said](https://open.spotify.com/album/0rJS9XfsgwXoJoMHNGiQp2) | 3:51 | 2022-03-04 | 2022-12-03 |
 | [Angels](https://open.spotify.com/track/3aZpkDDCKbu9WqvnyuNGyn) | [Félix Rabin](https://open.spotify.com/artist/0xzQonoJ1bGbnjLLk26Xgu) | [Pogboy](https://open.spotify.com/album/0iqAkwpiPwem6AXPAAvGev) | 3:26 | 2021-02-05 | 2022-03-26 |
 | [Another Life Goes By \- Mississippi Mix](https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Another Life Goes By \(Mississippi Mix\)](https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH) | 3:48 | 2022-10-14 |  |
 | [Bad Habit](https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Bad Habit](https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb) | 2:44 | 2022-04-01 | 2022-06-19 |
@@ -167,9 +168,9 @@
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 |  |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |
-| [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 | 2022-03-25 |  |
+| [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 | 2022-03-25 | 2022-12-03 |
 | [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 | 2022-03-25 | 2022-10-13 |
-| [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 | 2022-03-25 | 2022-11-13 |
+| [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 | 2022-03-25 |  |
 | [World on Fire \- Warrior Remix](https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Karl Perazzo](https://open.spotify.com/artist/6YOWrQBPl6xB6yA73jqUny), [Andy Vargas](https://open.spotify.com/artist/3oqXjhbfHHAkNaZLsP8qZH), [Cindy Blackman Santana](https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF) | [World on Fire \(Warrior Remix\)](https://open.spotify.com/album/272hzAwKezSFfwYcH0uazk) | 5:13 | 2022-09-16 |  |
 | [Yada Yada](https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Yada Yada](https://open.spotify.com/album/2CbfiGqSkYci5rPVgYRUGk) | 2:35 | 2022-05-06 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR) | 3:01 | 2021-09-17 |  |

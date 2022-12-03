@@ -292,6 +292,28 @@
     },
     {
       "album": {
+        "name": "Big Mac",
+        "url": "https://open.spotify.com/album/6k1bWLpxlLeKMcIPTfyuwo"
+      },
+      "artists": [
+        {
+          "name": "Og Nina",
+          "url": "https://open.spotify.com/artist/2yurgiGE67rGV8Ra5Qqkso"
+        },
+        {
+          "name": "SHOTBYBZK",
+          "url": "https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167712,
+      "name": "Big Mac",
+      "url": "https://open.spotify.com/track/6G5ggFv65KKrvb2rXAuNfM"
+    },
+    {
+      "album": {
         "name": "BNTA",
         "url": "https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk"
       },
@@ -361,7 +383,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 168893,
       "name": "Bumbunka",
       "url": "https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa"
@@ -945,7 +967,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 212092,
       "name": "Hija de Kuyen - Ao Vivo",
       "url": "https://open.spotify.com/track/2ca0ORNc1zHBU55rENU09T"

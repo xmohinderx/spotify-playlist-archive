@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-75 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+76 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Flamingo](https://open.spotify.com/track/4mH0YkiHRu0LF5hvx86ME9) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flutter](https://open.spotify.com/album/0AIhIiAotftWvQlP0qXyuu) | 2:56 | 2021-09-08 | 2022-07-29 |
 | [Flutter](https://open.spotify.com/track/0Y8R6nwouR14KIyHnumRSN) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Raelee Nikole](https://open.spotify.com/artist/4ktrs83Hjyo4evbF4adTrb) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:12 | 2021-09-08 |  |
 | [Flutter](https://open.spotify.com/track/2OniwRnM4rjRGFEDGsoJWP) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Raelee Nikole](https://open.spotify.com/artist/4ktrs83Hjyo4evbF4adTrb) | [Flutter](https://open.spotify.com/album/4tKv3harZx5t9DXBj8bXMi) | 3:12 | 2021-09-08 | 2022-07-29 |
-| [Forget](https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ) | 3:30 | 2021-09-08 |  |
+| [Forget](https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ) | 3:30 | 2021-09-08 | 2022-12-03 |
+| [Forget](https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9) | 3:30 | 2021-09-08 |  |
 | [Green Tea](https://open.spotify.com/track/3uPLVLuSpzg3OV9GXemc9c) | [TJ Whitelaw](https://open.spotify.com/artist/1sMbt5va6mIq23HvL5UX3X) | [Homebody](https://open.spotify.com/album/7qPpmVUWfN0CNderCzieJ8) | 4:00 | 2021-09-08 |  |
 | [Holiday](https://open.spotify.com/track/3yEinCTSzCdXNxbJ1ax7o6) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Alber](https://open.spotify.com/artist/5nJQi88KO8UbkSHDUb57ZS) | [Holiday](https://open.spotify.com/album/1IdapISfbxpMTBCsPTLsvg) | 2:48 | 2021-09-08 |  |
 | [Home](https://open.spotify.com/track/0btxAu7IR3J3ZzpgifbLiY) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [Home](https://open.spotify.com/album/0e9GiBOYBfGRosjY9l5u8I) | 4:21 | 2021-09-08 |  |

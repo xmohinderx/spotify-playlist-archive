@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-254 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+255 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [I Did It For You](https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:01 | 2020-11-20 | 2022-04-09 |
 | [I Found You \(feat\. Benjamin Ingrosso\) \- Dimitri From Paris Remix](https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [I Found You \(feat\. Benjamin Ingrosso\) \[Dimitri From Paris Remix\]](https://open.spotify.com/album/4QWCCbdhcZkFc8627LOVXX) | 2:43 | 2021-09-17 | 2022-09-17 |
 | [I Won't Do U Like That](https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Call Collect 8](https://open.spotify.com/album/5WKe6hq1b2Ywo2wpn1o2fD) | 2:35 | 2021-09-03 | 2022-10-29 |
+| [Ice & Fire](https://open.spotify.com/track/440ldYsqevrNXmwwj9DD2B) | [King Canyon](https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Ice & Fire](https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs) | 4:04 | 2022-12-02 |  |
 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 | 2021-07-09 | 2022-11-05 |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-29 |
 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-26 | 2022-10-18 |
@@ -170,7 +171,7 @@
 | [Mélange](https://open.spotify.com/track/3KSJHjEiC5G0xcYEGr9oLU) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Mélange](https://open.spotify.com/album/70ayx5Ku8J56Hw12VhrQ34) | 2:54 | 2021-07-16 | 2022-08-27 |
 | [New Best Friend](https://open.spotify.com/track/21BjaubQRpZ4RybrI0NUyY) | [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [New Best Friend](https://open.spotify.com/album/1s5PZnVIPIyo1BMz5tqgYY) | 2:36 | 2022-02-25 |  |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-05-21 | 2022-01-29 |
-| [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 |  |
+| [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 | 2022-01-28 | 2022-12-03 |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 |  |
 | [ooeeooeeoo](https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [ooeeooeeoo](https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl) | 4:14 | 2021-07-30 | 2022-08-27 |
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2020-11-20 | 2022-04-09 |

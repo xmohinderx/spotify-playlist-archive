@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "007",
+        "url": "https://open.spotify.com/album/6jOku5EvAp40xZO4vzZZek"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145548,
+      "name": "007",
+      "url": "https://open.spotify.com/track/2njbBR4M1VvVgJkdeAu399"
+    },
+    {
+      "album": {
         "name": "SOCORRO (Deluxe)",
         "url": "https://open.spotify.com/album/5BShh2lxtKeMTCqbLs2M22"
       },
@@ -481,7 +503,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 220327,
       "name": "Batom Carmim (feat. Patu\u00e1 Oficial)",
       "url": "https://open.spotify.com/track/6Gyw5clMwxDB7pMuGP7dkp"
@@ -1237,6 +1259,28 @@
       "duration_ms": 205720,
       "name": "Envolvid\u00e3o",
       "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
+    },
+    {
+      "album": {
+        "name": "Esquecer de Mim",
+        "url": "https://open.spotify.com/album/2OgvXwelRDowIhgDkd9q2U"
+      },
+      "artists": [
+        {
+          "name": "Ghizz\u00ea",
+          "url": "https://open.spotify.com/artist/2VmSp1C3SLDxVIuUj57wfN"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Esquecer de Mim",
+      "url": "https://open.spotify.com/track/4p71oZ6HA8fg1eTENW9vHu"
     },
     {
       "album": {
@@ -3226,6 +3270,28 @@
     },
     {
       "album": {
+        "name": "Sentimento Ardente",
+        "url": "https://open.spotify.com/album/2Q5UQSzz1WuQ0B2F09G852"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139103,
+      "name": "Sentimento Ardente",
+      "url": "https://open.spotify.com/track/3tnD41SFomx83APz4KijCO"
+    },
+    {
+      "album": {
         "name": "Ser\u00e1 Que Eu Posso...",
         "url": "https://open.spotify.com/album/50kyqL7iuPRh7HBV5cR17R"
       },
@@ -3511,7 +3577,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 167142,
       "name": "Tentei",
       "url": "https://open.spotify.com/track/2lqarp7I2WewTXAqYKOxeT"
@@ -3625,7 +3691,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 138369,
       "name": "Um Pouco De N\u00f3s",
       "url": "https://open.spotify.com/track/43QsY73MFWhouHc8SnWnrK"

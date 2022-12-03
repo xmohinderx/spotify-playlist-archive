@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,154 likes - 75 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,232 likes - 75 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 31 | [Star People](https://open.spotify.com/track/5T9KEP1FHVfrPEdPKXKMmW) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Star People](https://open.spotify.com/album/1Ox2oNj6d021tgMZevm9eh) | 18:46 |
 | 32 | [Tutu](https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Tutu](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7) | 5:16 |
 | 33 | [Amandla](https://open.spotify.com/track/2Ovs392mQ8DrOdYfgCLXI6) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Amandla](https://open.spotify.com/album/0fabOosWong8kopy57JitO) | 5:21 |
-| 34 | [Human Nature \(2022 Remaster\)](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
+| 34 | [Human Nature](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
 | 35 | [Kelo](https://open.spotify.com/track/2aYz8YsMwlTJ468YufM8yA) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Jazz Profile](https://open.spotify.com/album/29fodpqtlnqDlZHlnmrbB9) | 3:18 |
 | 36 | [Joshua](https://open.spotify.com/track/3M398IT8mJzKWUGOmO16GG) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps: The Complete Columbia Recordings Of Miles Davis 1963\-1964](https://open.spotify.com/album/1cURRxhG6jxK2mIcPzlNEs) | 5:24 |
 | 37 | [My Old Flame](https://open.spotify.com/track/3qyYE0MZUhzwCeOJBXXJfA) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Platinum Collection](https://open.spotify.com/album/2mwqZ9EDDJB7iYxBrAVotJ) | 3:17 |

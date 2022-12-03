@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new Core at its finest. Cover: Oceans",
+  "description": "This is the new Core at its finest. Cover: Bury Tomorrow",
   "name": "The Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -1511,6 +1511,24 @@
       "duration_ms": 241427,
       "name": "Blood Spiller",
       "url": "https://open.spotify.com/track/4U0ZkhJ5q8JOFzDhRrCsVI"
+    },
+    {
+      "album": {
+        "name": "Boltcutter",
+        "url": "https://open.spotify.com/album/6OP2USRvGKWn7YUrwa8zur"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Boltcutter",
+      "url": "https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH"
     },
     {
       "album": {
@@ -8453,7 +8471,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 243722,
       "name": "Severance",
       "url": "https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q"
@@ -8529,6 +8547,24 @@
       "duration_ms": 226758,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/5fuq9zEt8fMmwz66Ks9wrU"
+    },
+    {
+      "album": {
+        "name": "Show Me Your God",
+        "url": "https://open.spotify.com/album/6NNVcyPL17qA1ehI4ZgLnm"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217127,
+      "name": "Show Me Your God",
+      "url": "https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv"
     },
     {
       "album": {
@@ -10555,7 +10591,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 190495,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2"

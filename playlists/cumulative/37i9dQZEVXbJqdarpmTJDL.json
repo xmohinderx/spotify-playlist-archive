@@ -8203,7 +8203,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 283000,
       "name": "Iliovasilema - (Part 2 - Fos)",
       "url": "https://open.spotify.com/track/3gMkuoFyby1uUf7rR7y8Km"
@@ -9003,7 +9003,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 181621,
       "name": "KASETINA",
       "url": "https://open.spotify.com/track/3aybNOn87hMvJUVC697SRi"
@@ -9051,7 +9051,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 171288,
       "name": "KATEGIDA",
       "url": "https://open.spotify.com/track/7aV83dc7M5CASPveVmzsSw"
@@ -10036,6 +10036,28 @@
     },
     {
       "album": {
+        "name": "Lene Pos",
+        "url": "https://open.spotify.com/album/52FlpaUZIVkqlEpPCIXW8O"
+      },
+      "artists": [
+        {
+          "name": "Raw",
+          "url": "https://open.spotify.com/artist/76K7CMtjKF2lH8UNXjYkN8"
+        },
+        {
+          "name": "HARITO",
+          "url": "https://open.spotify.com/artist/0bWhuDt6ValKqoKaSbUa9D"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Lene Pos",
+      "url": "https://open.spotify.com/track/446RztQBcLvP4UoVWmhA30"
+    },
+    {
+      "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
       },
@@ -10307,7 +10329,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Ligo Ligo",
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
@@ -19821,7 +19843,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 181714,
       "name": "WHO YOU?",
       "url": "https://open.spotify.com/track/1sUJwKbP3Ci9nXeWKID9lc"

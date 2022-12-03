@@ -144,6 +144,28 @@
     },
     {
       "album": {
+        "name": "Astalavista",
+        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171921,
+      "name": "Astalavista",
+      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH"
       },
@@ -263,7 +285,7 @@
           "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "date_added": "2022-11-27",
+      "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169043,
@@ -837,7 +859,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 181016,
       "name": "Designer",
       "url": "https://open.spotify.com/track/7F7KrCYzktQutmPOJC3Ba6"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 174159,
       "name": "Flex (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0hroedzZOal7JsvUZxepLu"
@@ -1227,7 +1249,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 181628,
       "name": "Fuku",
       "url": "https://open.spotify.com/track/0EYxr62cSeDetJKoIBaPbq"
@@ -1249,7 +1271,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 208296,
       "name": "Full Current (That's My Baby)",
       "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
@@ -1307,7 +1329,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 199934,
       "name": "Gboza",
       "url": "https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL"
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 148692,
       "name": "Gone Far",
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 195000,
       "name": "Hard",
       "url": "https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo"
@@ -1471,7 +1493,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 199322,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 168500,
       "name": "High",
       "url": "https://open.spotify.com/track/0FvTXHU6xNn1jkjpJ6Mvm1"
@@ -1603,7 +1625,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
@@ -1943,7 +1965,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 206280,
       "name": "Kilometer - Remix",
       "url": "https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o"
@@ -2537,7 +2559,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 218181,
       "name": "My Man",
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
@@ -2775,7 +2797,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 180062,
       "name": "Para",
       "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
@@ -3243,7 +3265,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 148392,
       "name": "Shakira (feat. Prince Bright)",
       "url": "https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I"
@@ -3315,7 +3337,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 153108,
       "name": "South Africa",
       "url": "https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg"
@@ -3337,7 +3359,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 195431,
       "name": "Speedometer (Amapiano)",
       "url": "https://open.spotify.com/track/5d5SZVEn8rsEA7aOEUn4DU"
@@ -3601,7 +3623,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 208141,
       "name": "TOP MAMA",
       "url": "https://open.spotify.com/track/5PRGmpPJzsrOXijZdXalVK"
@@ -3683,6 +3705,28 @@
       "duration_ms": 153971,
       "name": "Vanessa My Lover",
       "url": "https://open.spotify.com/track/3xjnc9VwyFBeVcHxUdTx78"
+    },
+    {
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     },
     {
       "album": {
@@ -3787,7 +3831,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 479916,
       "name": "Wenza Kanjani (feat. 2woshort, TNK MusiQ & BoontleRSA)",
       "url": "https://open.spotify.com/track/2zMTOFjChHz0XEcM0kRt4K"

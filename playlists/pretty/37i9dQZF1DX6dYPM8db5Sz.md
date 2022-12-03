@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest South African indie music\. Cover: <a href="https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=aCjbTw\-CQk6Ogh9Mj5Fu\_A">Kloudink</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,131 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,134 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 13 | [Tell Me How](https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Tell Me How](https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br) | 4:53 |
 | 14 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
 | 15 | [Stardust](https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa) | [Hanukug](https://open.spotify.com/artist/0mHXobgLsjgAyj32UXRwpj) | [Stardust](https://open.spotify.com/album/27eAjlHZCuJ5LhlTaT29C0) | 2:06 |
-| 16 | [Tonite](https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ) | [Solplay Tape, Vol\. 1 \(Mixtape\)](https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg) | 2:10 |
+| 16 | [Tonite](https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Solplay Tape, Vol\. 1 \(Mixtape\)](https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg) | 2:10 |
 | 17 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 |
 | 18 | [Norton Howard](https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD) | [Hiding Bigfoot](https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF) | [Norton Howard](https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi) | 2:49 |
 | 19 | [Driven to Drink](https://open.spotify.com/track/1g61CcDnJNowdZJK6oW1GS) | [Shotgun Tori](https://open.spotify.com/artist/4OSdYoQni5cUktApP2V4c3) | [It's Gonna Be Fine](https://open.spotify.com/album/0Y9S6SMnmE40sf7EW8BmiQ) | 4:24 |

@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14754,
+  "num_followers": 14756,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDgxN2Q5MjI0N2YyNGU2NTE3MjUyOWYwY2ZiNTA4MzA3",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDhlYjlkZTNiMDFhMDQ4NDIwZjEyOTFkZDM3ZmIyNGE1",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Summer 91 (Looking Back) [220 KID Remix]",
-        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Summer 91 (Looking Back) - 220 KID Remix",
-      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Let's Love (feat. Sia) [Vintage Culture, Fancy Inc Remix]",
         "url": "https://open.spotify.com/album/12X0NZhNTn734YUWNL6Ojo"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 166875,
       "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
       "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Summer 91 (Looking Back) [220 KID Remix]",
+        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Summer 91 (Looking Back) - 220 KID Remix",
+      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "I Want Love (Cat Dealers Remix)",
-        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "I Want Love - Cat Dealers Remix",
-      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Aurora (The Remixes)",
         "url": "https://open.spotify.com/album/6Gv5PgU3GUfVRL45CE2Qa6"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 169053,
       "name": "Aurora (Hard Lights Remix)",
       "url": "https://open.spotify.com/track/0esrr1kWuUvArhYC1JZ7vL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "I Want Love (Cat Dealers Remix)",
+        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "I Want Love - Cat Dealers Remix",
+      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1563,34 +1563,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "One More Time (feat. Alida) [Tobtok Remix]",
-        "url": "https://open.spotify.com/album/0Q8dZVc7TzXiwGPy1D259W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Tobtok",
-          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "One More Time (feat. Alida) - Tobtok Remix",
-      "url": "https://open.spotify.com/track/3LdIlLTimyTyVfscwHwMiQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
         "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
       },
@@ -1635,6 +1607,34 @@
       "duration_ms": 188571,
       "name": "Nightlight - MOTi Remix",
       "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "One More Time (feat. Alida) [Tobtok Remix]",
+        "url": "https://open.spotify.com/album/0Q8dZVc7TzXiwGPy1D259W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "One More Time (feat. Alida) - Tobtok Remix",
+      "url": "https://open.spotify.com/track/3LdIlLTimyTyVfscwHwMiQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Bad Things (Remixes)",
+        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Kaidro",
+          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
+        }
+      ],
+      "duration_ms": 282162,
+      "name": "Bad Things - Kaidro Remix",
+      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Anywhere (Tujamo Remix)",
         "url": "https://open.spotify.com/album/4b0VH42ioq2Dwkdq9P57MT"
       },
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Bad Things (Remixes)",
-        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Kaidro",
-          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
-        }
-      ],
-      "duration_ms": 282162,
-      "name": "Bad Things - Kaidro Remix",
-      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Underwater (Dombresky Remix)",
         "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
       },
@@ -1751,6 +1751,38 @@
       "duration_ms": 161500,
       "name": "Underwater - Dombresky Remix",
       "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Hearts on Fire (The Remixes)",
+        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "Hearts on Fire - CORSAK & Willim Remix",
+      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1803,38 +1835,6 @@
       "duration_ms": 172800,
       "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
       "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Hearts on Fire (The Remixes)",
-        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        },
-        {
-          "name": "Willim",
-          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "Hearts on Fire - CORSAK & Willim Remix",
-      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2303,30 +2303,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Cry (with John Martin) [Remixes]",
-        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        }
-      ],
-      "duration_ms": 233959,
-      "name": "Cry (with John Martin) - Trivecta Remix",
-      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Happy Where We Are (ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/512NZa7ZFYp6d3aAjYzP4M"
       },
@@ -2355,22 +2331,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+        "name": "Cry (with John Martin) [Remixes]",
+        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
         }
       ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+      "duration_ms": 233959,
+      "name": "Cry (with John Martin) - Trivecta Remix",
+      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2391,6 +2371,26 @@
       "duration_ms": 185652,
       "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
       "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     }
   ],
   "unique_name": "mint Remix",

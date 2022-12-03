@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-279 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
+280 songs - 1 day 0 hr 28 min - [published](https://open.spotify.com/playlist/4jkUs66aepxZIx8eyJu8qK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Dust Circles](https://open.spotify.com/track/1aP2qFyy1QUYJkWryKypCv) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Lifelike](https://open.spotify.com/album/5yOWC5VU94C69zUYliMGwy) | 5:17 | 2021-10-06 | 2022-08-19 |
 | [Dust Circles](https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Lifelike](https://open.spotify.com/album/7GVde2CNnIc3sdlHHsvxsx) | 5:17 | 2021-10-06 |  |
 | [Echo//Radiate](https://open.spotify.com/track/0BEhggI3kgHG9ofWYLHXC0) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Form//Less](https://open.spotify.com/album/4xdbtpK47a0l2QpEpUAEh1) | 3:54 | 2021-10-06 | 2022-07-28 |
-| [Echo//Radiate](https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Form//Less](https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B) | 3:54 | 2021-10-06 |  |
+| [Echo//Radiate](https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Form//Less](https://open.spotify.com/album/3WTtizcF0bxAoaGUygxJ0B) | 3:54 | 2021-10-06 | 2022-12-03 |
 | [Ellipsoid](https://open.spotify.com/track/2KfQdB1IzvRQFNdB7RbTua) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c), [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [C.H.R.O.N.O.S.](https://open.spotify.com/album/4W2QlluCwwjS7pzt0ZeYUu) | 9:56 | 2021-10-06 | 2022-07-22 |
 | [Emerging from the Depths](https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN) | [Microhm](https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN) | [Lost in Elastic Time](https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh) | 10:38 | 2021-10-06 | 2022-07-29 |
 | [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 | 2022-08-31 |  |
@@ -287,5 +287,6 @@
 | [Yes! Come Parade With Us](https://open.spotify.com/track/298GDYfwfCREA9RCpnQmq8) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [You Were Always an Island](https://open.spotify.com/track/6e0Qx4lJaPmOUOVAOi9EWQ) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/0uegy8HcbYlg5k3TgImGu7) | 5:54 | 2021-10-06 | 2022-07-29 |
 | [Zorza](https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/6c4KbagJQzxCyefFMUbRCi) | 5:36 | 2022-02-18 | 2022-10-18 |
+| [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 |  |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

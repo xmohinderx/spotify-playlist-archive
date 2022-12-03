@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Lou Garcia",
+  "description": "Novidades e destaques do indie nacional. Foto: Karen Jonz",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 245170,
       "name": "Amorosidade",
       "url": "https://open.spotify.com/track/14fslogHelQdWdRpo6jLuW"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 166241,
       "name": "Avi\u00f5es",
       "url": "https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 260000,
       "name": "Das coisas que se perdem",
       "url": "https://open.spotify.com/track/6Hpque3mLD1UQFOkJPDYMx"
@@ -1616,6 +1616,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
+      },
+      "artists": [
+        {
+          "name": "vicro",
+          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230588,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+    },
+    {
+      "album": {
         "name": "Taboo",
         "url": "https://open.spotify.com/album/0zngE17ncImExMEoivtMzr"
       },
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 199531,
       "name": "Eles",
       "url": "https://open.spotify.com/track/1VQJ6RjHsOSFhFvDpzNWOB"
@@ -2005,6 +2023,24 @@
       "duration_ms": 258023,
       "name": "Fases",
       "url": "https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH"
+    },
+    {
+      "album": {
+        "name": "Febre",
+        "url": "https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174724,
+      "name": "Febre",
+      "url": "https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl"
     },
     {
       "album": {
@@ -3206,6 +3242,28 @@
     },
     {
       "album": {
+        "name": "Papel de Carta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        },
+        {
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224631,
+      "name": "Nunca foi descaso (feat. Gab Ferreira) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r"
+    },
+    {
+      "album": {
         "name": "N\u00e3o foi por mal",
         "url": "https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g"
       },
@@ -3365,7 +3423,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 205556,
       "name": "O que devia ser",
       "url": "https://open.spotify.com/track/1Job3TZZQ6vsF2DopblZ5t"
@@ -3591,7 +3649,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 237301,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/0rGvp4ODxl78g6BYnU54sq"
@@ -4054,6 +4112,24 @@
     },
     {
       "album": {
+        "name": "Quando Eu Falei Pra Ela",
+        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Quando Eu Falei Pra Ela",
+      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
+    },
+    {
+      "album": {
         "name": "Quartas",
         "url": "https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1"
       },
@@ -4363,7 +4439,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 155411,
       "name": "Sambatango",
       "url": "https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL"
@@ -4385,7 +4461,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 166916,
       "name": "saudade",
       "url": "https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5"
@@ -4548,6 +4624,24 @@
     },
     {
       "album": {
+        "name": "Sex, Drugs, Etc. (Stripped Down)",
+        "url": "https://open.spotify.com/album/4dy64woaU8KwpLVdU14nsc"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201481,
+      "name": "Sex, Drugs, Etc. - Stripped Down",
+      "url": "https://open.spotify.com/track/4UIP2ib4kHghA1S0jxnW5s"
+    },
+    {
+      "album": {
         "name": "Sheila",
         "url": "https://open.spotify.com/album/4G2I5wZ8G2tPMpGZ5gzXBN"
       },
@@ -4675,7 +4769,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 120000,
       "name": "Sonho",
       "url": "https://open.spotify.com/track/1AazDREEV0aK7wohJClJ1r"
@@ -4729,7 +4823,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 275863,
       "name": "sua sombra [sinais]",
       "url": "https://open.spotify.com/track/5XtgQPJcwouAlYtP9ikmV9"
@@ -5573,7 +5667,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 129000,
       "name": "voltas (\u00e1udio de whatsapp)",
       "url": "https://open.spotify.com/track/3qROJDOCZ7eoxAbr6hiKkB"

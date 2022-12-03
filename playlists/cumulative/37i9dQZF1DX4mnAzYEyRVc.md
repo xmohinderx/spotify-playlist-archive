@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-466 songs - 1 day 3 hr 0 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+467 songs - 1 day 3 hr 4 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,8 +433,9 @@
 | [Transgresores de la Ley](https://open.spotify.com/track/2Qhb0eG6WTVS0BfGugMaZ3) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:05 | 2021-12-06 | 2022-07-28 |
 | [Tremarella](https://open.spotify.com/track/3qVMtCTsmeSUiXuhrTPweZ) | [Persiana Jones](https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ) | [Puerto Hurraco](https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0) | 2:41 | 2021-12-06 |  |
 | [Trigger Happy \- Demo](https://open.spotify.com/track/6X7d1JhWXi0CevhNAGt6mv) | [H\-Block 101](https://open.spotify.com/artist/6BXYPRrytuDu8uyDpmCS2h) | [The H\-Block 101 Tapes \(1996 \- 1999\)](https://open.spotify.com/album/0vvD9IdC9SKRW69GvKZ80X) | 2:11 | 2021-12-06 | 2022-07-17 |
-| [Tu Alma Mía & Adelita](https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:49 | 2021-12-06 |  |
+| [Tu Alma Mía & Adelita](https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:49 | 2021-12-06 | 2022-12-03 |
 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/3JuJ8K9qJshYxQGR1ijoaa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:49 | 2021-12-06 | 2022-07-29 |
+| [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 | 2021-12-06 |  |
 | [Tu Especialidad](https://open.spotify.com/track/1Sm9CTdh9zjU3OZ7laWbIn) | [Riddim Cats](https://open.spotify.com/artist/05ylvJ6SRCSRI5lLzC9S3f) | [Ska Wars Monterrey](https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x) | 3:59 | 2021-12-06 | 2022-07-28 |
 | [Tu Que Pediras](https://open.spotify.com/track/3oGvCVIV0IBTfNwRMiFkfj) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Maskatonians All Stars And Friends](https://open.spotify.com/album/3OMaXdpkljesr4q2qIPEk6) | 3:44 | 2021-12-06 | 2022-07-29 |
 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 | 2021-12-06 |  |

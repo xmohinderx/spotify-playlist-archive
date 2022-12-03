@@ -1,13 +1,45 @@
 {
-  "description": "make it pop! cover: Fitz & The Tantrums",
-  "num_followers": 200260,
+  "description": "make it pop! cover: The 1975",
+  "num_followers": 200270,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDI3NGY1MGEyNTZhOWY4ZmZkOTZiZjQ2ZDFlNDE3N2Fh",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDMzOTQ0OTBkYmU4YWJjZjcwMzk3MWEzYjMzNDY3ZjI4",
   "tracks": [
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "It Could Be Me",
+        "url": "https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 127458,
+      "name": "It Could Be Me",
+      "url": "https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 137933,
       "name": "Moneymaker",
       "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "I Need That",
+      "url": "https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The DJ Is Crying For Help",
+        "url": "https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "The DJ Is Crying For Help",
+      "url": "https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -55,6 +119,22 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "as the world is passing by.",
+        "url": "https://open.spotify.com/album/4D98wniyXPAR0xBjmJvpge"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "6am in amsterdam.",
+      "url": "https://open.spotify.com/track/4SRmLLMhqGvYc4QuvVhFsO"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -121,6 +201,22 @@
       "url": "https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "FAVORITE PART",
+        "url": "https://open.spotify.com/album/2ozUR3Sj5ZBn9W5zsMusVu"
+      },
+      "artists": [
+        {
+          "name": "Jake Clark",
+          "url": "https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "FAVORITE PART",
+      "url": "https://open.spotify.com/track/1ssq7tSefgoZkTSTrI51rg"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Not OK",
@@ -183,22 +279,6 @@
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The DJ Is Crying For Help",
-        "url": "https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "The DJ Is Crying For Help",
-      "url": "https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -301,22 +381,6 @@
       "url": "https://open.spotify.com/track/6ZZntgtMvygJgfnzkpiklv"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 212568,
-      "name": "Oh Caroline",
-      "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "ROLLIN DICE",
@@ -395,22 +459,6 @@
       "duration_ms": 152375,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "don't wanna be your friend",
-        "url": "https://open.spotify.com/album/1mkkEUHXdKdejjCLXDzdzr"
-      },
-      "artists": [
-        {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
-        }
-      ],
-      "duration_ms": 165956,
-      "name": "don't wanna be your friend",
-      "url": "https://open.spotify.com/track/2sMH4QWOM6pho9EY2RTPoO"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -661,22 +709,6 @@
       "url": "https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Gelato",
-        "url": "https://open.spotify.com/album/2JFOcEr9K5Wm4IJ3A8JNQp"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Gelato",
-      "url": "https://open.spotify.com/track/1FOVnwpspev8ASJOylLPP7"
-    },
-    {
       "added_at": "2022-09-30 04:21:58",
       "album": {
         "name": "stupid i miss u",
@@ -811,22 +843,6 @@
     {
       "added_at": "2022-09-30 04:21:58",
       "album": {
-        "name": "OH NO!",
-        "url": "https://open.spotify.com/album/0oKwWq3FGBprGxwSKxwOvV"
-      },
-      "artists": [
-        {
-          "name": "Jake Clark",
-          "url": "https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd"
-        }
-      ],
-      "duration_ms": 131328,
-      "name": "OH NO!",
-      "url": "https://open.spotify.com/track/5NDjk4GOodIGmrQxSjExEr"
-    },
-    {
-      "added_at": "2022-09-30 04:21:58",
-      "album": {
         "name": "Trail Mix Tape",
         "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 194595,
-      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
     },
     {
       "added_at": "2022-09-30 04:21:58",
@@ -903,38 +903,6 @@
       "duration_ms": 169789,
       "name": "saddest soundtrack",
       "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "Sneakers",
-        "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Sneakers",
-      "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "evergreen",
-        "url": "https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 188352,
-      "name": "evergreen",
-      "url": "https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA"
     },
     {
       "added_at": "2022-09-09 19:32:26",
@@ -1143,58 +1111,6 @@
       "duration_ms": 272453,
       "name": "Homerun Hitter",
       "url": "https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "NOTED...EP",
-        "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Hastings",
-          "url": "https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "IDK SH!T",
-        "url": "https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF"
-      },
-      "artists": [
-        {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "IDK SH!T",
-      "url": "https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8"
-    },
-    {
-      "added_at": "2022-09-09 19:32:26",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2022-09-09 19:32:26",

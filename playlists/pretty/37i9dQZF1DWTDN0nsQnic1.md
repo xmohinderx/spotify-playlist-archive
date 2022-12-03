@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,282 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,295 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 30 | [Home](https://open.spotify.com/track/0btxAu7IR3J3ZzpgifbLiY) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [Home](https://open.spotify.com/album/0e9GiBOYBfGRosjY9l5u8I) | 4:21 |
 | 31 | [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 3:57 |
 | 32 | [16 Pm](https://open.spotify.com/track/21tYg1u4lKPRBsSTWrJDvt) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [IV](https://open.spotify.com/album/0Z33ccgzk5oYrkTzVDiFeM) | 2:24 |
-| 33 | [Forget](https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ) | 3:30 |
+| 33 | [Forget](https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9) | 3:30 |
 | 34 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/5iIZTr2dlpGW0w2K4pwLR2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Boys & Girls Mixtape](https://open.spotify.com/album/09GalPugs4ZBrI0rrLQPf6) | 3:43 |
 | 35 | [Coasting](https://open.spotify.com/track/21htf4tYB35v8pn1bcpeUh) | [Stan Lodge](https://open.spotify.com/artist/7D0FwzVKkBBbFTaQuHkBtP), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Coasting](https://open.spotify.com/album/6hI5z9O39W1TFCUvnGARLM) | 3:27 |
 | 36 | [Want More](https://open.spotify.com/track/32IWnxqoCOeDLas0p3K8Vb) | [Kevin Lavitt](https://open.spotify.com/artist/1WuwJxpTA1VgMZHdQnwBZ7), [Cleveland Thrasher](https://open.spotify.com/artist/5skkKxbAtfViDutAt1jDK7), [Ceeko](https://open.spotify.com/artist/0IWfexG4upff8FiCDJo9Rx), [Tiana Ohara](https://open.spotify.com/artist/3HzM1LuhJFDTbyzuWwuyWh) | [Want More](https://open.spotify.com/album/4wl4TBpwqoxDoj7LXetPPw) | 2:53 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 58 | [Buttermilk](https://open.spotify.com/track/7MJC5ROiAjImSkGm85eIWa) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:25 |
 | 59 | [Trip 5](https://open.spotify.com/track/6sVSbqlpbATtUEOGC4XNLh) | [Heavy Mellow](https://open.spotify.com/artist/59WT73GxJi40AmPXYvJEYx), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Acid R&B Vol\. 1](https://open.spotify.com/album/6I5PK3PCQhOQHRwBHgCVfQ) | 2:22 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDQxYzQxOTY3ZjBjYzUxNmIzNzczNjUxZDcwNTU0Y2Q0`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDg2ZGNjZGFlYWY3NWQzZWM2YmMxZmRjODllZTk4M2Ri`

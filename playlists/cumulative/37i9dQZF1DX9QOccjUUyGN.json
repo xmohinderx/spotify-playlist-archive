@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Thiago Kelbert",
+  "description": "tranquilo e calmo, no flow. Foto: SEST",
   "name": "tamo flex",
   "published_playlist_ids": [
     "6q6haEaTDDjjQ2HQhKMkJt"
@@ -718,6 +718,32 @@
     },
     {
       "album": {
+        "name": "Biqu\u00edni Vermelhinho",
+        "url": "https://open.spotify.com/album/5dVCNTQxOPwNegbahiRPGe"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Rafinha RSQ",
+          "url": "https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137834,
+      "name": "Biqu\u00edni Vermelhinho",
+      "url": "https://open.spotify.com/track/56GEKXQqonUY1VlSA2JjCI"
+    },
+    {
+      "album": {
         "name": "Boldo Da Calif\u00f3rnia",
         "url": "https://open.spotify.com/album/48eRL4e0POFJUmF5WOzDEy"
       },
@@ -1136,6 +1162,28 @@
     },
     {
       "album": {
+        "name": "Chucro e Fechado",
+        "url": "https://open.spotify.com/album/5PlhbWKC7OS0bG9N0euZ9i"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Chucro e Fechado",
+      "url": "https://open.spotify.com/track/6PcaG53oajoKzr9CR4UDNZ"
+    },
+    {
+      "album": {
         "name": "Conversa Boa",
         "url": "https://open.spotify.com/album/6Vn3PAwJCYc5TzF50o3DHw"
       },
@@ -1147,7 +1195,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 156000,
       "name": "Conversa Boa",
       "url": "https://open.spotify.com/track/1bfs2tqWEDUBfd98DE461m"
@@ -1401,7 +1449,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 133565,
       "name": "Depois Que Voc\u00ea Chegou",
       "url": "https://open.spotify.com/track/6qWJCBjsLMb2sKQtVslpjK"
@@ -1947,7 +1995,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 146068,
       "name": "Eu Falo N\u00e3o",
       "url": "https://open.spotify.com/track/3z19LCfZ3LlasNpqjDWx3P"
@@ -2127,7 +2175,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 169600,
       "name": "Favelado Rico",
       "url": "https://open.spotify.com/track/6QsaI57NPTsNdzD7ctHCjF"
@@ -2157,6 +2205,28 @@
       "duration_ms": 190677,
       "name": "Festa Privada",
       "url": "https://open.spotify.com/track/5UfwTqjKbF9ZrbCgKOl7RQ"
+    },
+    {
+      "album": {
+        "name": "808' & Halftime",
+        "url": "https://open.spotify.com/album/4C3YKkNgyUuGCSjeKiyaCC"
+      },
+      "artists": [
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "FIM",
+      "url": "https://open.spotify.com/track/3iS1uyJ3IVCt7pVLVBWd1j"
     },
     {
       "album": {
@@ -2662,6 +2732,36 @@
     },
     {
       "album": {
+        "name": "Manga, Morango ou Kiwi",
+        "url": "https://open.spotify.com/album/2aSqDpjnIHEWgMmSE32WJ1"
+      },
+      "artists": [
+        {
+          "name": "Marin",
+          "url": "https://open.spotify.com/artist/5kni0YNAYU6UftGp4Pn077"
+        },
+        {
+          "name": "DANK",
+          "url": "https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "DJ Gui",
+          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142115,
+      "name": "Manga, Morango ou Kiwi",
+      "url": "https://open.spotify.com/track/5JIZITyyoY0mRIWgYQ3g27"
+    },
+    {
+      "album": {
         "name": "Marca de Batom",
         "url": "https://open.spotify.com/album/101L31d4cOuJ58zGVhLjGJ"
       },
@@ -2798,6 +2898,36 @@
     },
     {
       "album": {
+        "name": "MD Na Water",
+        "url": "https://open.spotify.com/album/5sTxz91Cbp4ZBirS0zbZlF"
+      },
+      "artists": [
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        },
+        {
+          "name": "R. Guerra",
+          "url": "https://open.spotify.com/artist/0ihqJFsOSMthFAo5T9e4Id"
+        },
+        {
+          "name": "Reis",
+          "url": "https://open.spotify.com/artist/3nBff19fdDxH7M3QsCbheB"
+        },
+        {
+          "name": "Felipe Cof",
+          "url": "https://open.spotify.com/artist/1dlv8OFNAfktrvtYISfnAo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194659,
+      "name": "MD Na Water",
+      "url": "https://open.spotify.com/track/3ssfQQod2LfkS2tjREVTLD"
+    },
+    {
+      "album": {
         "name": "ME CONTA",
         "url": "https://open.spotify.com/album/5K3wCOpeW1Jax5UubnJL14"
       },
@@ -2865,6 +2995,24 @@
       "duration_ms": 181582,
       "name": "Me Passa Esse Copo",
       "url": "https://open.spotify.com/track/6353VJ9hZ7ggkUC1IptSvo"
+    },
+    {
+      "album": {
+        "name": "Me Sinto Bem",
+        "url": "https://open.spotify.com/album/5WoBEooabtB2ARJDRdABHl"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Me Sinto Bem",
+      "url": "https://open.spotify.com/track/5bUuh6L8KHJqGmEEfnlsFg"
     },
     {
       "album": {
@@ -3636,6 +3784,32 @@
     },
     {
       "album": {
+        "name": "n\u00f3",
+        "url": "https://open.spotify.com/album/43hIDvs00oVBHd80UplfBD"
+      },
+      "artists": [
+        {
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174776,
+      "name": "n\u00f3",
+      "url": "https://open.spotify.com/track/0hSN5geEl2wczCdvnw7dZB"
+    },
+    {
+      "album": {
         "name": "O Bairro Todo Parou",
         "url": "https://open.spotify.com/album/6lZvnVrVw0YrBhwDw5NmzP"
       },
@@ -3813,6 +3987,24 @@
       "duration_ms": 137952,
       "name": "Outro N\u00edvel",
       "url": "https://open.spotify.com/track/2wJtkcZcYq5Axv7dWFT9Lv"
+    },
+    {
+      "album": {
+        "name": "PAPITO",
+        "url": "https://open.spotify.com/album/0hQsFPYIuWqz4pfR8UOZyY"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "PAPITO",
+      "url": "https://open.spotify.com/track/5QFTzGy6JABQ7C7bJPxXKk"
     },
     {
       "album": {
@@ -4845,7 +5037,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 195953,
       "name": "Solid\u00e3o",
       "url": "https://open.spotify.com/track/6d65Z8aHdjnD9nLU1qJIOp"
@@ -5181,7 +5373,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 189718,
       "name": "T\u00f3xica s\u00f3 que Vicia",
       "url": "https://open.spotify.com/track/5J1K7WN1Pwyca8zzKYKIhJ"
@@ -5417,7 +5609,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 109473,
       "name": "Vim de Baixo",
       "url": "https://open.spotify.com/track/2ykKgjJVi0WbuXOdOSXKG0"
@@ -5519,7 +5711,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 190402,
       "name": "V\u00edcio de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6yxFdIwjwR3KSrGKPM0nx4"

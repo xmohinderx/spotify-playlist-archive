@@ -4,7 +4,7 @@
 
 > Enhance your focus with classical music.
 
-204 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6BDzYfBiwlGx1TmWE2kQyn)
+205 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/6BDzYfBiwlGx1TmWE2kQyn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Divertimento in B\-Flat Major, K\. 254: I\. Allegro assai](https://open.spotify.com/track/3Z9A9hALpLE8RhNco1vzLj) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [Kian Soltani](https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ), [Michael Barenboim](https://open.spotify.com/artist/5q3izGxzdw6r6FBkRK7A7k) | [Mozart: Divertimento in B\-Flat Major, K\. 254: 1\. Allegro assai](https://open.spotify.com/album/0ICUZqfh6yN7WPpXwFbjvx) | 9:07 | 2022-02-04 | 2022-09-01 |
 | [En rêve, S\. 207](https://open.spotify.com/track/0eiT0cfG4TT3u6Zw68A1Kw) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Paul Lewis](https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l) | [Liszt: Sonata in B Minor \- Piano Works](https://open.spotify.com/album/53P2iAYEMqdCmkrHW1BGgn) | 2:34 | 2022-07-22 | 2022-08-30 |
 | [Etude Op\. 76 nr 2](https://open.spotify.com/track/1h0j89VVIoDkhYZCtrC5Ug) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Jian Wang](https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5), [Göran Söllscher](https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL) | [Reverie](https://open.spotify.com/album/1rY2Q2VwhKBJHgWGl0SzQH) | 2:48 | 2022-02-04 | 2022-07-29 |
+| [Faded Leaves Fall](https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 2:42 | 2022-12-02 |  |
 | [Fireflies](https://open.spotify.com/track/4cKE0iJC8ObjDB5i8F5nNN) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fireflies](https://open.spotify.com/album/69QjgE7z9DJy6xPmwi86Ig) | 3:35 | 2022-02-04 | 2022-09-01 |
 | [French Suite No\. 2 in C minor, BWV 813: 5a\. Menuet I](https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) | [Bach, J.S.: French Suites Nos\. 1\-6/Italian Concerto etc.](https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R) | 1:23 | 2022-07-22 |  |
 | [French Suite No\. 2 in C minor, BWV 813: 5a\. Menuet I](https://open.spotify.com/track/7visNnMXNf0PZW6znxnh2x) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) | [Summer Evening: Bach](https://open.spotify.com/album/3SJEoBeLSR84HoJp8b8tds) | 1:23 | 2022-10-07 | 2022-11-13 |

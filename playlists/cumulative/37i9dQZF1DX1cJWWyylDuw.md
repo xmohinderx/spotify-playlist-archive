@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-413 songs - 1 day 2 hr 58 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+416 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 | 2021-12-17 |  |
 | [Blind Kings](https://open.spotify.com/track/6UyUnoGID5hjDrGZ0FpfzK) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Blind Kings](https://open.spotify.com/album/0YNSxqbVrKfGsUmdLGSRGG) | 4:02 | 2021-12-17 |  |
 | [Bloodguilt](https://open.spotify.com/track/24PhPzlNAOCsnHAP65GCeA) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Bloodguilt](https://open.spotify.com/album/6vdb4SkMuWtLYqw4lHlOVW) | 4:55 | 2021-12-17 | 2022-04-09 |
-| [BLUNT FORCE TRAUMA](https://open.spotify.com/track/1LX9OWc23Nskld1JxpSEBr) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h) | [BLUNT FORCE TRAUMA](https://open.spotify.com/album/55FY4NTa8pjoEglAo1yqPF) | 2:41 | 2022-04-08 |  |
+| [BLUNT FORCE TRAUMA](https://open.spotify.com/track/1LX9OWc23Nskld1JxpSEBr) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h) | [BLUNT FORCE TRAUMA](https://open.spotify.com/album/55FY4NTa8pjoEglAo1yqPF) | 2:41 | 2022-04-08 | 2022-12-03 |
 | [Bonebreaker](https://open.spotify.com/track/4TV4Hz8egoZ0x1S3h8kQ7G) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs) | 4:25 | 2022-10-27 |  |
 | [Bonebreaker](https://open.spotify.com/track/4XIyKIqxM2wo4mZJYPwoqa) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 4:25 | 2021-12-17 | 2022-11-05 |
 | [Borderline Existence](https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O) | [Drown This City](https://open.spotify.com/artist/0miE6U5IB1KocKNfn8Cxt7) | [Borderline Existence](https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY) | 3:07 | 2021-12-17 | 2022-07-28 |
@@ -141,7 +141,7 @@
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2021-12-31 | 2022-07-24 |
 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2021-12-17 |  |
-| [Exit Wound](https://open.spotify.com/track/4EqYki9QKkXPAv3SwHUep4) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Exit Wound](https://open.spotify.com/album/5WaWYyhULgfNhIxwN0ZHI2) | 2:43 | 2022-09-09 |  |
+| [Exit Wound](https://open.spotify.com/track/4EqYki9QKkXPAv3SwHUep4) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Exit Wound](https://open.spotify.com/album/5WaWYyhULgfNhIxwN0ZHI2) | 2:43 | 2022-09-09 | 2022-12-03 |
 | [Exit, Exist](https://open.spotify.com/track/2KI2BlVyVm3snSHhrxJOsT) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/1UTq74jYfOIWst1gXyE05p) | 3:54 | 2022-10-27 |  |
 | [Exit, Exist](https://open.spotify.com/track/3Ks0l9pRwBoobHURPrTNPs) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/5TYkzohGue5TQbhIk2T8xH) | 3:54 | 2022-07-08 | 2022-11-05 |
 | [Exit, Exist](https://open.spotify.com/track/4qHgKQGInYni9Ml3l3RO0u) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Exit, Exist](https://open.spotify.com/album/0ZW4okAGcfZ6fKOBE5Fp6T) | 3:54 | 2021-12-17 | 2022-07-29 |
@@ -224,6 +224,7 @@
 | [Lifelike](https://open.spotify.com/track/6U3d3PYg1hRR5vmkrtguIV) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Lifelike](https://open.spotify.com/album/6aWem45BzsHX6FMZabt6BO) | 4:00 | 2021-12-17 | 2022-02-08 |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-07-01 | 2022-07-24 |
 | [Longclaw](https://open.spotify.com/track/3XuLpFMzHRM3VlAegGMEuF) | [Earth Eater](https://open.spotify.com/artist/36b8PsQoJcT9z27xg4v2GD) | [Longclaw](https://open.spotify.com/album/2ZwgzTFBGdgKTHclCs9uVs) | 5:20 | 2021-12-17 | 2022-07-12 |
+| [Look Behind You](https://open.spotify.com/track/68oQaYxXfUUlI7r89fHzRH) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Vile](https://open.spotify.com/album/7qUgaZk6AzrgVlbpjgQrVN) | 2:45 | 2022-12-02 |  |
 | [Lost Boy](https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Lost Boy](https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp) | 3:58 | 2021-12-17 |  |
 | [Lost In The Static](https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:33 | 2021-12-17 | 2022-04-09 |
 | [Love Me to Death](https://open.spotify.com/track/2AIOCjZ46W7adtRBaqT2XW) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Love Me to Death](https://open.spotify.com/album/1s7syJTvVBjlbZuthJfFJa) | 4:15 | 2021-12-17 | 2022-07-27 |
@@ -273,6 +274,7 @@
 | [Omega](https://open.spotify.com/track/3YxSM482jeTSrlnSjdFFeW) | [Abyss Above](https://open.spotify.com/artist/0scPLkLLKJ1iEr4cnCVQ9m) | [Doombound](https://open.spotify.com/album/5YugQGshaYkmmqFpSF7IdL) | 3:53 | 2021-12-31 | 2022-07-27 |
 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 | 2022-11-30 |
 | [Order of the Black Worm](https://open.spotify.com/track/3i31Z6cHzFGew8GcQ0TNMi) | [Let It Rot](https://open.spotify.com/artist/5p9HWdsMLHKU8PCj5UWeiU) | [Order of the Black Worm](https://open.spotify.com/album/0PGkBzdVl5w2fFvmLZXaZn) | 3:16 | 2021-12-17 | 2022-05-26 |
+| [Orphan Of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan Of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 |  |
 | [Outrun](https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN) | 3:45 | 2022-10-27 |  |
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-11-05 |
 | [Overlord](https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Overlord](https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m) | 3:10 | 2021-12-17 | 2022-07-04 |
@@ -301,6 +303,7 @@
 | [Recreant](https://open.spotify.com/track/1r20sYN6fO8SeQaCzc4S5r) | [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q) | [Recreant](https://open.spotify.com/album/16TWclehxfP4ECui5fnt7w) | 4:28 | 2022-04-29 |  |
 | [Red Mist](https://open.spotify.com/track/7dc1X1HsYMAN7nxNEOrjCa) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Red Mist](https://open.spotify.com/album/2xjFTKvlEzxeE4BR6hbNsM) | 3:44 | 2021-12-17 | 2022-06-05 |
 | [Reflections of a Monster](https://open.spotify.com/track/271q2bXjvyjZCL7wiTQXVk) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Reflections of a Monster](https://open.spotify.com/album/6ZPFa0dwjstnXkroKXM16j) | 3:59 | 2021-12-17 | 2022-06-28 |
+| [Reich der Gier](https://open.spotify.com/track/4MGD7UxEXnJvaK1FWIjYia) | [NECROTTED](https://open.spotify.com/artist/7khBSLZWST1HqSjWpEFlXl) | [Reich der Gier](https://open.spotify.com/album/2Mjn5oSwXDtLb6z9PJIUwc) | 3:49 | 2022-12-02 |  |
 | [Remember Me](https://open.spotify.com/track/0ikvtIegu5Yh9vOOhCkc5L) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Remember Me](https://open.spotify.com/album/5I3SxQcAEwoiiE6GQw2Ngz) | 3:30 | 2021-12-17 | 2022-04-29 |
 | [Remember Me](https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Burn in the Flood](https://open.spotify.com/album/1qBh6vpLqGU19T3ICllOp2) | 3:30 | 2022-10-03 |  |
 | [Remenissions](https://open.spotify.com/track/2Y8dLFDDhjOpBm0PitrieQ) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Remenissions](https://open.spotify.com/album/24gge9fvwFfzWwV8ZV4j3D) | 6:04 | 2021-12-17 | 2022-04-09 |
@@ -338,7 +341,7 @@
 | [Subsistence](https://open.spotify.com/track/6ifbaBmTWX9cjzuq9qGELQ) | [Together in Tragedy](https://open.spotify.com/artist/4QbAK8ShoFElp2EABLWzSc) | [Memoriam](https://open.spotify.com/album/6eDQh4ZnNdjf1rqrt9L69l) | 3:42 | 2022-01-14 | 2022-05-26 |
 | [Substance Affliction](https://open.spotify.com/track/0AjfTu8ytKKRMkoBG66fWC) | [Advocates](https://open.spotify.com/artist/1LTYpqN3WnLHdE9wRuBGPE) | [The Complex Truth](https://open.spotify.com/album/4NLFfM7FoJ8K2U3VQvfacy) | 3:20 | 2022-01-07 | 2022-01-26 |
 | [Sun//Eater](https://open.spotify.com/track/1QeQ1bq6jitMzdgNu8nK1L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Sun//Eater](https://open.spotify.com/album/2lJtDqPcOAXkNLgh18YTFB) | 6:10 | 2022-05-13 | 2022-06-24 |
-| [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:36 | 2022-04-15 |  |
+| [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:36 | 2022-04-15 | 2022-12-03 |
 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 | 2022-06-17 |  |
 | [Synaptic Depravation](https://open.spotify.com/track/0qYSwywyNslSTuCUrBInwg) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Synaptic Depravation](https://open.spotify.com/album/6cbulNIl1MwMkCEcwaQu4R) | 6:09 | 2022-04-01 | 2022-07-24 |
 | [Synthetic Smile](https://open.spotify.com/track/6QrALflBXHCdDUPOgNViCe) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Synthetic Smile](https://open.spotify.com/album/1GTLz7qK0mKXXFLhKcNa2Y) | 3:02 | 2022-03-11 | 2022-07-27 |

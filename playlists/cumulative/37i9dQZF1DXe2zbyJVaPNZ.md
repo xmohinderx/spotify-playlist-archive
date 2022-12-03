@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-126 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
+128 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/7wXXw42CJoQ0vEBzeJubty)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-09-08 |  |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
 | [Midnight Stargazer](https://open.spotify.com/track/6Out5GTmU6YqaQ8R2l6P4F) | [Relief](https://open.spotify.com/artist/345D7I2CuaqxHTTwD4wlBx) | [Music for Commuters](https://open.spotify.com/album/4T7mM7FaVFCPOGrvrxAWy2) | 3:32 | 2022-09-30 |  |
+| [Miracles 963 Hz](https://open.spotify.com/track/2nPdV0GQD5RZoCRdHRLvKE) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Miracles 963 Hz](https://open.spotify.com/album/7LXqzXuY3fzG7cY0gOYEQJ) | 2:45 | 2022-12-02 |  |
 | [Moon](https://open.spotify.com/track/1ShoaK1jLR948EFn0mo9FL) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Moon](https://open.spotify.com/album/4gjhs7ChmpQBXIEBV6a7PN) | 2:51 | 2022-11-11 |  |
 | [Moon \(Nature Edit\)](https://open.spotify.com/track/1ZrCjCxP8OCQE9wfWJFS9k) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [Moon](https://open.spotify.com/album/4gjhs7ChmpQBXIEBV6a7PN) | 2:51 | 2022-11-11 |  |
 | [Name Of The Call](https://open.spotify.com/track/1uAvCdU0SqENVeE7YychPF) | [Severard](https://open.spotify.com/artist/6vjU9QfC9H7ZvCrve6fC0E) | [Name Of The Call](https://open.spotify.com/album/4n0A10P0pDw8bIHED77Xfn) | 4:03 | 2022-08-05 |  |
@@ -112,6 +113,7 @@
 | [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 | 2022-08-05 |  |
 | [Stave Peak](https://open.spotify.com/track/1Y315hvTFn1VMon294Tn7y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7nBRRZImFPLUrd0XsjzOrX) | 6:40 | 2022-08-05 | 2022-08-19 |
 | [Stave Peak](https://open.spotify.com/track/1zkg1Iy9lFRF5ZQHMEiR9y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7mPWzggbkjqPQM9tDQa64s) | 6:40 | 2022-08-11 |  |
+| [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2022-12-02 |  |
 | [Sun](https://open.spotify.com/track/3FveIpZMWBnwKSGyOHAEAa) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Space Station Earth](https://open.spotify.com/album/4Y5aaWrAo2QpEkYhDWZx2B) | 2:17 | 2022-08-05 |  |
 | [Sun, Moon, Stars](https://open.spotify.com/track/73se7XAwwdg3LXE9UIqqXh) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Sun, Moon, Stars](https://open.spotify.com/album/7dNZEitMscif4pihF92VLy) | 3:41 | 2022-08-05 |  |
 | [Sunlight](https://open.spotify.com/track/5BHNGD7hUrdCwlsicEKE5y) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Possible Worlds](https://open.spotify.com/album/0siXjye1POJhBOMSOeNCK7) | 3:12 | 2022-10-14 |  |

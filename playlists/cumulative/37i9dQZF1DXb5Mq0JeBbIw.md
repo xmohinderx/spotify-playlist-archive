@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-193 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+194 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2022-05-30 | 2022-07-29 |
 | [Front Porch](https://open.spotify.com/track/21tFgyx6DR8YmfqNQ7cwSP) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [No Place Like You](https://open.spotify.com/album/5RFamNorVM8vDpnyTTEoOr) | 3:51 | 2022-11-07 | 2022-11-14 |
 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 | 2022-06-24 |  |
+| [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 | 2022-12-02 |  |
 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 | 2022-05-30 | 2022-11-13 |
 | [Got Me Good \- Acoustic](https://open.spotify.com/track/0Bo7B9SM1A8w9mfxYNmVuB) | [Moana](https://open.spotify.com/artist/1AW9mFcwWTfglCcPelVsrD) | [Got Me Good \(Acoustic\)](https://open.spotify.com/album/3KvRxAfCJYTIwVg0AHKdDu) | 3:16 | 2022-05-30 | 2022-07-29 |
 | [Grace](https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM) | [quiet thrill](https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl), [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Grace](https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp) | 2:53 | 2022-06-08 | 2022-07-29 |
@@ -91,7 +92,7 @@
 | [I'm Doing Everything I Can](https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm Doing Everything I Can](https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd) | 3:00 | 2022-05-30 | 2022-07-29 |
 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 | 2022-06-24 |  |
 | [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 | 2022-11-18 |
-| [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-08-05 |  |
+| [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-08-05 | 2022-12-03 |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-08-05 |  |
 | [Intentions of Gold \- Ann\-Ki & Her Son, Pt\. 1](https://open.spotify.com/track/4kYZQLzbwrKHhIkZ8EEy1f) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Intentions of Gold \(Ann\-Ki & Her Son, Pt\. 1\)](https://open.spotify.com/album/4xxunx1DdCq6Oxb5nENc4l) | 5:11 | 2022-05-30 | 2022-07-29 |
 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 | 2022-05-30 |  |

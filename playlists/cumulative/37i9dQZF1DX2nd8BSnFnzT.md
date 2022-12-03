@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Supercombo
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Nando Reis
 
-258 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+259 songs - 14 hr 29 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Luta ou Fuga](https://open.spotify.com/track/28PLERVExTPCA66oDXmw59) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Luta ou Fuga](https://open.spotify.com/album/4hNUujf887BnP0h74WqSrt) | 2:40 | 2022-04-15 | 2022-05-20 |
 | [Luzia](https://open.spotify.com/track/0R1xhETyCm9SD5zcUkw3sI) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Boiada Suicida](https://open.spotify.com/album/6Pe6o0LB5UKPSJGCRRwa5b) | 1:34 | 2022-08-05 | 2022-09-03 |
 | [Lúmen](https://open.spotify.com/track/59zeW3tMD4uoyfnX9Vqwtg) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lúmen](https://open.spotify.com/album/2cLYS9JiviSsS0Pu7wQtwD) | 4:16 | 2022-05-20 | 2022-06-18 |
-| [Madri](https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Madri](https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80) | 2:58 | 2022-03-25 |  |
+| [Madri](https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Madri](https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80) | 2:58 | 2022-03-25 | 2022-12-03 |
 | [Mais Que Folclore \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/1qxD9mhGGoyUYZXh6u7sGh) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [BRAZA ilumina Sonastério](https://open.spotify.com/album/0bwFN5W3VUinPfnFNdRfQy) | 3:33 | 2022-07-01 | 2022-07-30 |
 | [Mais um Sábado Perdido](https://open.spotify.com/track/0aTRGWsVtazREkGaIR9EdW) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Mais um Sábado Perdido](https://open.spotify.com/album/2RnAXXsGewXhBgdqeiFf99) | 2:03 | 2022-02-18 | 2022-03-18 |
 | [Manifesto!](https://open.spotify.com/track/22avKr5ZtQYEmW12bpY2Zf) | [Banda Go Home](https://open.spotify.com/artist/55xvUppAG19F1CErLfAvZI), [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl) | [Manifesto!](https://open.spotify.com/album/0uct3MaZximvUmUiEtqU0h) | 3:51 | 2022-04-15 | 2022-05-14 |
@@ -193,6 +193,7 @@
 | [Perfeição](https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Perfeição](https://open.spotify.com/album/3c1IScAFMFyk408EFVfPqF) | 4:15 | 2022-10-14 |  |
 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 | 2022-01-14 |  |
 | [Piloto Automático \- Ao Vivo no Studio F](https://open.spotify.com/track/2jaF9qxuI3hqvfH3xKlQcu) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Supercombo Ao Vivo no Studio F](https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp) | 3:11 | 2022-09-02 |  |
+| [PITTYNANDO](https://open.spotify.com/track/0W8wc6tclS3TGMS9pQ5dp7) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas](https://open.spotify.com/album/32twh3w8ohRnmxqlsxbxDq) | 3:43 | 2022-12-02 |  |
 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 | 2022-08-26 | 2022-10-01 |
 | [Por que a gente é assim?](https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Barão 40 \(Clássicos\)](https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la) | 3:41 | 2022-11-11 |  |
 | [Por Quem os Sinos Dobram](https://open.spotify.com/track/5IIFSYPhm5CwzFGOVlob6R) | [Lado Brasil](https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z) | [Origens](https://open.spotify.com/album/35puEaRN9d2hF8RpOSVWS8) | 3:34 | 2022-05-20 | 2022-06-11 |

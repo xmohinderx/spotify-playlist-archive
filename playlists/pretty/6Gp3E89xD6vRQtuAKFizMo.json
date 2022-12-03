@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44316,
+  "num_followers": 44317,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjAwMiw4ODg1YmJiZjRmNjczMDRlZmIyZjIyYWY4ZjZmZGJlOWVhN2EwMWNj",
+  "snapshot_id": "NjAwNyw1MmYzMWQwNTYwYzY0ODdkOTY1YTI0OWY1Mzc4YzEwODkwN2MyMjIw",
   "tracks": [
     {
       "added_at": "2022-11-11 22:11:10",
@@ -37,20 +37,24 @@
       "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
     },
     {
-      "added_at": "2022-11-18 16:53:08",
+      "added_at": "2022-12-02 19:49:26",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
+        "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+        "url": "https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN"
       },
       "artists": [
         {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "Paige Duch\u00e9",
+          "url": "https://open.spotify.com/artist/2VrERozKB6jB8hm0l6SqjM"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
+      "duration_ms": 162663,
+      "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+      "url": "https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY"
     },
     {
       "added_at": "2022-11-11 22:11:10",
@@ -67,22 +71,6 @@
       "duration_ms": 179047,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X"
-    },
-    {
-      "added_at": "2022-11-22 23:29:35",
-      "album": {
-        "name": "Android",
-        "url": "https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO"
-      },
-      "artists": [
-        {
-          "name": "RANKZ",
-          "url": "https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469"
-        }
-      ],
-      "duration_ms": 241985,
-      "name": "Android",
-      "url": "https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf"
     },
     {
       "added_at": "2022-11-18 16:53:08",
@@ -103,6 +91,38 @@
       "duration_ms": 180230,
       "name": "Night Spot (feat. B Che)",
       "url": "https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN"
+    },
+    {
+      "added_at": "2022-11-18 16:53:08",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
+    },
+    {
+      "added_at": "2022-11-22 23:29:35",
+      "album": {
+        "name": "Android",
+        "url": "https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO"
+      },
+      "artists": [
+        {
+          "name": "RANKZ",
+          "url": "https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469"
+        }
+      ],
+      "duration_ms": 241985,
+      "name": "Android",
+      "url": "https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf"
     },
     {
       "added_at": "2022-11-11 22:11:10",
@@ -1151,26 +1171,6 @@
       "duration_ms": 215238,
       "name": "Da Homies",
       "url": "https://open.spotify.com/track/47xNlfeg2FAIENeBC79kye"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "GAWT DAT",
-        "url": "https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "BERNZIKIAL",
-          "url": "https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "GAWT DAT",
-      "url": "https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1"
     }
   ],
   "unique_name": "Dim Mak New Releases",

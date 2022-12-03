@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. cover: omar apollo
+> All the indescribable feelings that music gives you\. cover: d4vd
 
-1,962 songs - 4 day 9 hr 4 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,968 songs - 4 day 9 hr 24 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [All My Time Is Wasted](https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [All My Time Is Wasted](https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM) | 3:20 | 2021-10-07 | 2021-12-02 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-18 |  |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-24 | 2022-10-29 |
+| [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-02 |  |
 | [alright?](https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S) | [Luke Royalty](https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR) | [my blue room](https://open.spotify.com/album/7l5jkO8Mhaglz4rz5AoRdW) | 2:29 | 2022-04-08 | 2022-04-22 |
 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 | 2021-11-13 |
 | [Always](https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Always](https://open.spotify.com/album/4JPTBzG9A9HqkS0dscsM6H) | 2:52 | 2022-10-21 |  |
@@ -356,6 +357,7 @@
 | [Clovers](https://open.spotify.com/track/4blV3e2rU6jkqhXt5ZATSu) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Happy To Be Here](https://open.spotify.com/album/6t1OiiVq9VIbW1SUHaXX7W) | 4:14 | 2022-03-25 | 2022-04-22 |
 | [CLOVES](https://open.spotify.com/track/7yegGd01rBu0x99cXGd5nH) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [97 BLOSSOM](https://open.spotify.com/album/1PjpcapSfVsBXZ9zyN7Tql) | 3:04 | 2021-04-07 | 2021-05-19 |
 | [Clueless](https://open.spotify.com/track/5hVcvSRJffS8GcSBHTIaRG) | [Ellie Williams](https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs) | [Clueless](https://open.spotify.com/album/094ZA0zqhW07G1AMGuV79q) | 2:40 | 2020-12-01 | 2021-11-13 |
+| [Cléo](https://open.spotify.com/track/4XeOoFtBcUbtgTyygdzX0s) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Cléo](https://open.spotify.com/album/6cw0g0xUnBvDK0MBZJ4wQz) | 3:34 | 2022-12-02 |  |
 | [Coax & Botany](https://open.spotify.com/track/227bXIqHWP8Z7gycUGO1sY) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Where Polly People Go to Read](https://open.spotify.com/album/4qSYIc2q02zeCN2fB2hBBR) | 2:53 | 2021-12-22 | 2022-01-15 |
 | [Coca Cola](https://open.spotify.com/track/7CxbBqDi1LdfsQX2v3OYgN) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Where Have All the Flowers Gone?](https://open.spotify.com/album/39JWmffb0CchVAr9AMyY7I) | 3:05 | 2021-09-11 | 2021-11-13 |
 | [Coke & Henny Pt\. 1](https://open.spotify.com/track/0Njj8da23AV97wrQTrP577) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coke & Henny Pt\. 1](https://open.spotify.com/album/7pU90hr9PdteGEQqp0XSU9) | 2:29 | 2019-10-10 | 2020-01-10 |
@@ -933,6 +935,7 @@
 | [Jacknife](https://open.spotify.com/track/6qZIy961yxJZpFkgsq8Vm2) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Smile More](https://open.spotify.com/album/3kybax0X96QAkAWWeoGO54) | 2:43 | 2021-03-14 | 2021-06-05 |
 | [Jalousie](https://open.spotify.com/track/3U5x1rplpJNKR3Xg88EfLi) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:45 | 2019-07-30\* | 2019-10-03 |
 | [January](https://open.spotify.com/track/3BrzbwnNH9wHa8Pc5Dj5mA) | [Billy La Signy](https://open.spotify.com/artist/29rsmw9LXEX0mg35mo4bI3), [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7), [Tom Verberne](https://open.spotify.com/artist/6VBC0wHJglsZSqSUCfbepv) | [January](https://open.spotify.com/album/5JsnnaCU7sDbg1wRvDiEz6) | 2:41 | 2020-08-21 | 2020-09-15 |
+| [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-12-02 |  |
 | [Japanese](https://open.spotify.com/track/5mVKOml3VuRIe4Y5pPyyYx) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Japanese / A Whole Month Of You](https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY) | 3:12 | 2020-08-20 | 2020-11-27 |
 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 | 2021-05-22 | 2021-08-14 |
 | [jelly filled coffin](https://open.spotify.com/track/3TUGY659W6pCMtELPq1NIX) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [jelly filled coffin](https://open.spotify.com/album/7hAkHtaLHG76EBiacrlw0D) | 2:48 | 2022-05-20 | 2022-06-22 |
@@ -1118,6 +1121,7 @@
 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 | 2021-12-22 | 2022-01-08 |
 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 | 2020-01-17 | 2020-02-20 |
 | [Me and My Arrow](https://open.spotify.com/track/5KjRITicSHJM88w3U9LwLM) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [The Point!](https://open.spotify.com/album/6Y7Or7kCbTUjnzv40TyU63) | 2:05 | 2021-07-17 | 2021-07-31 |
+| [me and my gang](https://open.spotify.com/track/4AQGuktK4SQqVuSR7XQH79) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [me and my gang](https://open.spotify.com/album/7A1MMdXbkJDUOhnczJ7JIF) | 2:18 | 2022-12-02 |  |
 | [Mean Girl](https://open.spotify.com/track/3sbjrdgu7GEau6kvjWGL54) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:32 | 2022-08-05 | 2022-10-26 |
 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 | 2019-10-25 | 2020-01-17 |
 | [Means Something](https://open.spotify.com/track/53taBvemC88CMHP2I1xAFX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:24 | 2022-05-12 | 2022-06-18 |
@@ -1453,6 +1457,7 @@
 | [Sandals](https://open.spotify.com/track/08mbmCSc6wEUNlMvi0Ukzu) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2019-10-11 | 2020-02-05 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-20 | 2022-10-13 |
 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 | 2021-12-03 | 2022-02-26 |
+| [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 | 2022-12-02 |  |
 | [Saturn \- Acoustic](https://open.spotify.com/track/7IIs19RpwPIne6gSJ8cj9f) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Saturn \(Acoustic\)](https://open.spotify.com/album/2mjbhWQ5JzIrtBo7dT9S3Z) | 4:13 | 2019-12-14 | 2020-02-20 |
 | [Saving Grace](https://open.spotify.com/track/2ULM1nq5MSVp0QE1anwcbT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Running on Mercy](https://open.spotify.com/album/1HJ9fWCIDXrORYph9y3D4b) | 2:59 | 2021-05-03 | 2022-01-08 |
 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 | 2021-07-17 | 2021-07-29 |
@@ -1660,6 +1665,7 @@
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/1A6OTy97kk0mMdm78rHsm8) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sunflower \(Spider\-Man: Into the Spider\-Verse\)](https://open.spotify.com/album/47LpgGVshd0tbFSbm9tTLb) | 2:38 | 2019-07-30\* | 2019-09-10 |
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2019-12-14 | 2020-06-03 |
 | [Sunkissed](https://open.spotify.com/track/5uWDUe75h2FHLZyMX9r5sp) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Sunkissed](https://open.spotify.com/album/6Y1JQjug6lXx2hbbpN86RM) | 2:06 | 2019-09-27 | 2020-05-05 |
+| [Sunny D](https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Penny](https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW) | 3:42 | 2022-12-02 |  |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 | 2022-10-13 |
 | [Sunrise](https://open.spotify.com/track/1W5StOzPxW32oXTlHspq2Q) | [Kenny Elrod](https://open.spotify.com/artist/0aWwEZiU7YOSgIcyxIXnmd) | [Sunrise](https://open.spotify.com/album/57WBcKjbIs69ydVn5WvYrR) | 3:58 | 2020-06-04 | 2020-08-20 |
 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 | 2020-07-18 | 2021-06-05 |

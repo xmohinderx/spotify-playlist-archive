@@ -240,6 +240,50 @@
     },
     {
       "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139672,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep"
+    },
+    {
+      "album": {
+        "name": "Bobo En La Calle",
+        "url": "https://open.spotify.com/album/6Nfvbaa1wyEYV8NKnOR2qE"
+      },
+      "artists": [
+        {
+          "name": "El Shady",
+          "url": "https://open.spotify.com/artist/0ToyMab3qltWSVZ0lIcQRX"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135815,
+      "name": "Bobo En La Calle",
+      "url": "https://open.spotify.com/track/4ZSSFS9FrRU9NRP0X3bVoB"
+    },
+    {
+      "album": {
         "name": "Bobote (Remix)",
         "url": "https://open.spotify.com/album/4tb3tezrL2j6KHFSoMLjmD"
       },
@@ -491,6 +535,24 @@
       "duration_ms": 196052,
       "name": "Corre Corre - Remix",
       "url": "https://open.spotify.com/track/3HrHPpZKQt2dNZIc2Ctp3r"
+    },
+    {
+      "album": {
+        "name": "De La Mata",
+        "url": "https://open.spotify.com/album/13mCUKmlZQke3fqHlQigFi"
+      },
+      "artists": [
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189628,
+      "name": "De La Mata",
+      "url": "https://open.spotify.com/track/7BqEX4un0WgjEPuvEi6qIJ"
     },
     {
       "album": {
@@ -1005,7 +1067,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193272,
       "name": "Hasta Bajo",
       "url": "https://open.spotify.com/track/2UjKBHL3jtnunvflj2WUPz"
@@ -1245,7 +1307,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 207150,
       "name": "Los Chingones",
       "url": "https://open.spotify.com/track/1vJ1Uh9A7v1OKGi96R0E8b"
@@ -1889,16 +1951,16 @@
           "url": "https://open.spotify.com/artist/6YJ26RHT3zLf3Qkq9onU0d"
         },
         {
-          "name": "Milo K",
-          "url": "https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi"
+          "name": "Xtyler Homie",
+          "url": "https://open.spotify.com/artist/55p8anEdxNUBVSYhpkfvIy"
         },
         {
           "name": "AleAlba",
           "url": "https://open.spotify.com/artist/28BePZ83jnALNI0uy1l0h8"
         },
         {
-          "name": "Xtyler Homie",
-          "url": "https://open.spotify.com/artist/55p8anEdxNUBVSYhpkfvIy"
+          "name": "Milo K",
+          "url": "https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi"
         }
       ],
       "date_added": "2022-11-11",
@@ -1929,7 +1991,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 124000,
       "name": "Pingoneo",
       "url": "https://open.spotify.com/track/1E2Gnj5DBKmMDZrpnriSTB"
@@ -2287,7 +2349,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 127295,
       "name": "Un Uber",
       "url": "https://open.spotify.com/track/0kHmK20ufcy25b8NCJbURg"
@@ -2335,6 +2397,24 @@
       "duration_ms": 191190,
       "name": "Vamo Pal Bronx",
       "url": "https://open.spotify.com/track/4XionJLw5y7LnHub4cFfyn"
+    },
+    {
+      "album": {
+        "name": "Velocidad",
+        "url": "https://open.spotify.com/album/6HuItN6PiWhMhfGdFP6KJh"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Velocidad",
+      "url": "https://open.spotify.com/track/7hw0ws2Hj7Rnlg9ayxQ1YQ"
     },
     {
       "album": {

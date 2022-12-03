@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 846316,
+  "num_followers": 846645,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDY3YTA0MDIzY2YzYTVhY2UxZGFlYjk4YzJiZjE5YTVi",
+  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMGJjNjA2N2E3YWU1NjdlMzMyNzE0OWE5ZDg2NDk4NmEz",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Talihina Sky",
-        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
+        "name": "Acoustic at The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Talihina Sky - Acoustic Version",
-      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
+      "duration_ms": 307760,
+      "name": "The Funeral - Live Acoustic",
+      "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Acoustic at The Ryman (Live)",
-        "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
+        "name": "Talihina Sky",
+        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 307760,
-      "name": "The Funeral - Live Acoustic",
-      "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
+      "duration_ms": 206253,
+      "name": "Talihina Sky - Acoustic Version",
+      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Walk On Water (Acoustic)",
-        "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 188895,
-      "name": "Walk On Water - Acoustic",
-      "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Scumbag (Acoustic)",
         "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Walk On Water (Acoustic)",
+        "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 188895,
+      "name": "Walk On Water - Acoustic",
+      "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
     }
   ],
   "unique_name": "Acoustic Rock",

@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mare Advertencia Lirika en portada.
 
-125 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+126 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 | 2022-06-27 |  |
 | [Historika](https://open.spotify.com/track/3zFa7TqRFNNZPjxJ1jkwkZ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/5OjA7BRUSj9msWXXRGQqsj) | 4:26 | 2021-12-13 | 2022-07-29 |
 | [HOEHIPHOP](https://open.spotify.com/track/348NgnWNjXqG8vMO3KusxW) | [MAR](https://open.spotify.com/artist/4vBFex92UAoPQdSqrzdpNd) | [HOEHIPHOP](https://open.spotify.com/album/3Tf3zB3CF9SySnTZiNg4E7) | 3:31 | 2022-03-08 |  |
-| [ILY](https://open.spotify.com/track/7qCfzzn1iPRpCnMCEFi7Lv) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [ILY](https://open.spotify.com/album/6WQonABzkyv6R7VsNhRjo9) | 2:35 | 2021-12-13 |  |
+| [ILY](https://open.spotify.com/track/2HgEL0xCio4msRsoyShotM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [ILY](https://open.spotify.com/album/54kfGMDwPORd3iBxg7Biaf) | 2:35 | 2022-10-16 |  |
+| [ILY](https://open.spotify.com/track/7qCfzzn1iPRpCnMCEFi7Lv) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [ILY](https://open.spotify.com/album/6WQonABzkyv6R7VsNhRjo9) | 2:35 | 2021-12-13 | 2022-12-03 |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-02-03 |  |
 | [Juana Kalamidad](https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [13 razones](https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y) | 4:52 | 2021-12-13 |  |
 | [Jumanji](https://open.spotify.com/track/3pFAZVZyXw8gBmgrg3iJXl) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh) | [Jumanji](https://open.spotify.com/album/3mUu7S8RdQPRhzkF8SNUZv) | 3:05 | 2022-06-27 |  |

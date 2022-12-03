@@ -1,28 +1,76 @@
 {
   "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here.",
-  "num_followers": 1460,
+  "num_followers": 1504,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYyNDMyOSwwMDAwMDAwMDdiNjRmMTNmMzUyZWZmMWUzYjU4NjcwMjg4MDdmNTlh",
+  "snapshot_id": "MTY2OTk4MzM4OCwwMDAwMDAwMGYyNGM3NWYxZjU5NGE4ZGEyNTNmNTIyNmM1N2VjYjRm",
   "tracks": [
     {
-      "added_at": "2022-10-31 13:16:35",
+      "added_at": "2022-12-02 12:16:28",
       "album": {
-        "name": "The Republic of Atmofrika",
-        "url": "https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh"
+        "name": "Thula EP",
+        "url": "https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1"
       },
       "artists": [
         {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+          "name": "Blanka Mazimela",
+          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
+        },
+        {
+          "name": "Khonaye",
+          "url": "https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO"
         }
       ],
-      "duration_ms": 412032,
-      "name": "T.R.O.A",
-      "url": "https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC"
+      "duration_ms": 441972,
+      "name": "Thula",
+      "url": "https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Asanda",
+        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Asanda",
+      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+    },
+    {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/29oPX8QLAVCFpY6Ftgy4cu"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Kaytee En Glent",
+          "url": "https://open.spotify.com/artist/0GG652aubA3MxmKMEiwKss"
+        }
+      ],
+      "duration_ms": 524575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5v2sgCmUwMQIhhVdD5Hush"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -49,28 +97,20 @@
       "url": "https://open.spotify.com/track/2BlQJQKab1AbQmTy5N9Jta"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2022-10-31 13:16:35",
       "album": {
-        "name": "Asanda",
-        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
+        "name": "The Republic of Atmofrika",
+        "url": "https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh"
       },
       "artists": [
         {
-          "name": "Kususa",
-          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
-        },
-        {
-          "name": "Argento Dust",
-          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Asanda",
-      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+      "duration_ms": 412032,
+      "name": "T.R.O.A",
+      "url": "https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC"
     },
     {
       "added_at": "2022-09-09 02:40:23",
@@ -113,6 +153,26 @@
       "url": "https://open.spotify.com/track/6nXZdEDO1ksyr8113Qsplt"
     },
     {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Two Zulu Men In Ibiza EP",
+        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
+      },
+      "artists": [
+        {
+          "name": "DJ Merlon",
+          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "duration_ms": 421027,
+      "name": "Two Zulu Men In Ibiza",
+      "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
+    },
+    {
       "added_at": "2022-09-09 02:40:23",
       "album": {
         "name": "iFu",
@@ -153,22 +213,6 @@
       "url": "https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O"
     },
     {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Zion Drummer (Original Mix)",
-        "url": "https://open.spotify.com/album/1ao43Su0Heg60VgTYmZX7B"
-      },
-      "artists": [
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        }
-      ],
-      "duration_ms": 451411,
-      "name": "Zion Drummer - Original Mix",
-      "url": "https://open.spotify.com/track/2j7C4hp68UUhEedckS2YQP"
-    },
-    {
       "added_at": "2022-09-09 02:40:23",
       "album": {
         "name": "Thunderstorm",
@@ -191,6 +235,30 @@
       "duration_ms": 422957,
       "name": "Thunderstorm - Kususa Remix",
       "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
+    },
+    {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Finally Famous",
+        "url": "https://open.spotify.com/album/1I6Kl9idNvQCeEkkN50Wc5"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "MaShandu",
+          "url": "https://open.spotify.com/artist/40lqiTOqy6rNO9zU2OolEF"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Inkinga",
+      "url": "https://open.spotify.com/track/2bJ3KkfVgyNI1xeoYCJ0Ir"
     },
     {
       "added_at": "2022-11-16 18:45:28",
@@ -235,6 +303,34 @@
       "duration_ms": 454634,
       "name": "Tout S'en Va - Echo Deep Remix",
       "url": "https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog"
+    },
+    {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Lotjhani",
+        "url": "https://open.spotify.com/album/1oxSBfAPHqet0QQ5qjyqcg"
+      },
+      "artists": [
+        {
+          "name": "Afro Brotherz",
+          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
+        },
+        {
+          "name": "Peekay Mzze",
+          "url": "https://open.spotify.com/artist/0URS8q3PcGpWY0v5d8dLLl"
+        },
+        {
+          "name": "Indlovukazi",
+          "url": "https://open.spotify.com/artist/1iG2KmUSvfX8TNCmCR8Enl"
+        },
+        {
+          "name": "TRM",
+          "url": "https://open.spotify.com/artist/1hkaHxmu4BU77IAr0Az2GD"
+        }
+      ],
+      "duration_ms": 353671,
+      "name": "Lotjhani",
+      "url": "https://open.spotify.com/track/6gW8Lf7fNrzSw39Y50xc7f"
     },
     {
       "added_at": "2022-08-25 21:59:00",
@@ -369,6 +465,22 @@
       "url": "https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq"
     },
     {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Smoking Monkey",
+        "url": "https://open.spotify.com/album/5wBX45jvEXrOPI0sObjUAr"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 419441,
+      "name": "Smoking Monkey",
+      "url": "https://open.spotify.com/track/2oFkuIr1gVgrjvsHUX5p8R"
+    },
+    {
       "added_at": "2022-10-31 13:16:35",
       "album": {
         "name": "Figo",
@@ -399,6 +511,34 @@
       "duration_ms": 399661,
       "name": "Maya",
       "url": "https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89"
+    },
+    {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Tot Samyi (The One)",
+        "url": "https://open.spotify.com/album/3cHx7xSwru4aeNfF7RzpEv"
+      },
+      "artists": [
+        {
+          "name": "DeMajor",
+          "url": "https://open.spotify.com/artist/6J762zxdxf4DGSwWDm0AeU"
+        },
+        {
+          "name": "Obdurate",
+          "url": "https://open.spotify.com/artist/1ZA8wH5L88Frvfz0RL58Yb"
+        },
+        {
+          "name": "DarQknight",
+          "url": "https://open.spotify.com/artist/06ZoVzhjF2rUgcl0czXpOD"
+        },
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6QnxEy1YIr1zRc5umw17Xu"
+        }
+      ],
+      "duration_ms": 432124,
+      "name": "Tot Samyi (The One) - Vocal Mix",
+      "url": "https://open.spotify.com/track/4Yr59gAMO9se8wJ7TqDV5D"
     },
     {
       "added_at": "2022-08-18 21:59:00",
@@ -521,6 +661,30 @@
       "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
     },
     {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Tshwala Bami",
+        "url": "https://open.spotify.com/album/1man3N1G9mg0eQGypyxL3C"
+      },
+      "artists": [
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        },
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
+        }
+      ],
+      "duration_ms": 385001,
+      "name": "Tshwala Bami",
+      "url": "https://open.spotify.com/track/1t9i8N7VERUnG5oAZbGU5L"
+    },
+    {
       "added_at": "2022-08-11 21:50:10",
       "album": {
         "name": "My Story",
@@ -609,6 +773,30 @@
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
     },
     {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1DGoKk76hCDu3TU9LnoPsS"
+      },
+      "artists": [
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        }
+      ],
+      "duration_ms": 443417,
+      "name": "Danger Zone",
+      "url": "https://open.spotify.com/track/7A6YJDDaVuO03sl8Y7YFxD"
+    },
+    {
       "added_at": "2022-10-31 13:16:35",
       "album": {
         "name": "AMAZWI",
@@ -681,6 +869,30 @@
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Ubomi",
+        "url": "https://open.spotify.com/album/41eQeVOsXmM5r8Dk8KnOZL"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Eves Manxeba",
+          "url": "https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB"
+        }
+      ],
+      "duration_ms": 241391,
+      "name": "Ubomi Umzamo",
+      "url": "https://open.spotify.com/track/260JCKOqT6QbYSJq6KSRne"
+    },
+    {
       "added_at": "2022-09-22 21:59:00",
       "album": {
         "name": "The 12 Year Saga",
@@ -703,26 +915,6 @@
       "duration_ms": 356757,
       "name": "Inde Lendlela",
       "url": "https://open.spotify.com/track/0TWr1HfWDoqZ4zPiBySwxM"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4x1aCpqT679anIgHX9n9hW"
-      },
-      "artists": [
-        {
-          "name": "Leo Guardo",
-          "url": "https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD"
-        },
-        {
-          "name": "Sobantwana",
-          "url": "https://open.spotify.com/artist/0DoNVl96ZWKJ1hbnKGaj93"
-        }
-      ],
-      "duration_ms": 348020,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1o0nfthgnLpDkpChnvta9s"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -815,26 +1007,6 @@
     {
       "added_at": "2022-08-11 21:50:10",
       "album": {
-        "name": "Butundaile",
-        "url": "https://open.spotify.com/album/3ieGd2WykDXeWDHyaU0Dzi"
-      },
-      "artists": [
-        {
-          "name": "Cee ElAssaad",
-          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
-        },
-        {
-          "name": "KEENE",
-          "url": "https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS"
-        }
-      ],
-      "duration_ms": 409756,
-      "name": "Ake Yoruba",
-      "url": "https://open.spotify.com/track/0e17XmkAt58VP0VbBxITxp"
-    },
-    {
-      "added_at": "2022-08-11 21:50:10",
-      "album": {
         "name": "Impumelelo",
         "url": "https://open.spotify.com/album/0la0Xxoi5nnL5OCK0e8ESf"
       },
@@ -857,44 +1029,20 @@
       "url": "https://open.spotify.com/track/2cPJ70rDO8Mt74vGImjiz3"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
+      "added_at": "2022-12-02 12:16:28",
       "album": {
-        "name": "Muchationa",
-        "url": "https://open.spotify.com/album/4O8aonVNtRVG8lPAfmkLDs"
+        "name": "American Storyteller",
+        "url": "https://open.spotify.com/album/4ZG5gs2kGSZIZNVunNinC2"
       },
       "artists": [
         {
-          "name": "HALU!",
-          "url": "https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z"
-        },
-        {
-          "name": "Tina Masawi",
-          "url": "https://open.spotify.com/artist/1waGvYdujmgKc9cNid89US"
+          "name": "Dlala Chass",
+          "url": "https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3"
         }
       ],
-      "duration_ms": 325161,
-      "name": "Muchationa",
-      "url": "https://open.spotify.com/track/2g0e7qFlyovwNtaLntN83d"
-    },
-    {
-      "added_at": "2022-08-11 21:50:10",
-      "album": {
-        "name": "Must Be Africa",
-        "url": "https://open.spotify.com/album/7kHpN0sNlSP8kpzH37N6Uy"
-      },
-      "artists": [
-        {
-          "name": "Darque",
-          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        }
-      ],
-      "duration_ms": 354431,
-      "name": "Uthando (feat. Zakes Bantwini)",
-      "url": "https://open.spotify.com/track/4CfzUCPSfhansjh0GnrU2c"
+      "duration_ms": 395847,
+      "name": "American Storyteller",
+      "url": "https://open.spotify.com/track/4NpWFSt3bLD6OHpDGvztkV"
     },
     {
       "added_at": "2022-09-15 21:59:00",
@@ -919,30 +1067,6 @@
       "duration_ms": 453000,
       "name": "Matasa",
       "url": "https://open.spotify.com/track/6G0od201NbSzN4Yutk2Ufc"
-    },
-    {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "Fambai Neni",
-        "url": "https://open.spotify.com/album/1RhYjWnenPSe3e3llwX5mN"
-      },
-      "artists": [
-        {
-          "name": "HALU!",
-          "url": "https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z"
-        },
-        {
-          "name": "Reverb7",
-          "url": "https://open.spotify.com/artist/6eWzuNjgNPDhshDsIT0NAy"
-        },
-        {
-          "name": "Adiona Chidzonga",
-          "url": "https://open.spotify.com/artist/76avF7YCvtjytdxOfnd4Hw"
-        }
-      ],
-      "duration_ms": 360975,
-      "name": "Fambai Neni",
-      "url": "https://open.spotify.com/track/3mr5NkN0MnqpVssi5mEEI2"
     },
     {
       "added_at": "2022-10-03 09:30:02",
@@ -977,24 +1101,44 @@
       "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
     },
     {
-      "added_at": "2022-09-09 02:40:23",
+      "added_at": "2022-12-02 12:16:28",
       "album": {
-        "name": "iThemba (Radio Edit)",
-        "url": "https://open.spotify.com/album/7wXIm0d8WwdMQGf8ahwTAA"
+        "name": "Bruku EP",
+        "url": "https://open.spotify.com/album/20shOK3T6TDAu1VU2xgZVN"
       },
       "artists": [
         {
-          "name": "AfroNerd",
-          "url": "https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD"
-        },
-        {
-          "name": "Thoby Dladla",
-          "url": "https://open.spotify.com/artist/0kyaZ9bi9LIKEqRhpZssLo"
+          "name": "Aimo",
+          "url": "https://open.spotify.com/artist/2hg3OfBOYGAk35WsqfN58Z"
         }
       ],
-      "duration_ms": 251803,
-      "name": "iThemba - Radio Edit",
-      "url": "https://open.spotify.com/track/113nrUgCQf0iWLdpjPKNnq"
+      "duration_ms": 462510,
+      "name": "Promise Land",
+      "url": "https://open.spotify.com/track/2UBa2j9ztkzvzd87ZfreLV"
+    },
+    {
+      "added_at": "2022-12-02 12:16:28",
+      "album": {
+        "name": "Angimazi Ubabalo",
+        "url": "https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP"
+      },
+      "artists": [
+        {
+          "name": "Aero Manyelo",
+          "url": "https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z"
+        },
+        {
+          "name": "Terrance Motsepe",
+          "url": "https://open.spotify.com/artist/3TRjJTgBK1Mfb9exYwiq4C"
+        },
+        {
+          "name": "Eltonnick",
+          "url": "https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G"
+        }
+      ],
+      "duration_ms": 459831,
+      "name": "Angimazi Ubabalo",
+      "url": "https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -1015,26 +1159,6 @@
       "duration_ms": 410031,
       "name": "Udumo",
       "url": "https://open.spotify.com/track/2AMFvzvh5gothJ4kkrsK9X"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Own Your Crown (feat. Lorraine Ditsebe)",
-        "url": "https://open.spotify.com/album/2yfnsIziWvYQ7YDOTrbHFT"
-      },
-      "artists": [
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        },
-        {
-          "name": "Lorraine Ditsebe",
-          "url": "https://open.spotify.com/artist/7HXnk61pLAf6l4pEr5Sp3w"
-        }
-      ],
-      "duration_ms": 277900,
-      "name": "Own Your Crown (feat. Lorraine Ditsebe)",
-      "url": "https://open.spotify.com/track/1H9TYvAoW9ntBwyP8d0Rna"
     },
     {
       "added_at": "2022-09-09 02:40:23",

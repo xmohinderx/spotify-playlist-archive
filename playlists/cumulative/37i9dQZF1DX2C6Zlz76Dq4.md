@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Ronnie Dunn
 
-161 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
+164 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blue Christmas](https://open.spotify.com/track/4mXHEvTZiIMmkSABmibbN2) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Classic Christmas Album](https://open.spotify.com/album/4F9bBF6egZaLSCxlufFBm5) | 2:29 | 2021-12-16 |  |
 | [Blue Christmas](https://open.spotify.com/track/20ol6ml32aThEgrfm9kBSz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Breath Of Heaven](https://open.spotify.com/album/7hUIziQmosuFiL0wjTSjf7) | 3:49 | 2021-12-16 |  |
 | [Blue Christmas](https://open.spotify.com/track/20wFGfFLNGcRLyKRThUrXl) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:37 | 2021-12-16 |  |
+| [Christmas At Our House](https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 2:52 | 2022-12-02 |  |
 | [Christmas Comin' Round Again](https://open.spotify.com/track/3q0cBVe0GOtgqPUO8vs011) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Christmas with Scotty McCreery](https://open.spotify.com/album/7xY3dwj2terBE72lfMF0U6) | 4:06 | 2021-12-16 |  |
 | [Christmas Cookies](https://open.spotify.com/track/2l9OCqqyFghMIMOqoDDvfr) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Christmas Cookies](https://open.spotify.com/album/2cdL5oykpGZ3fCjy53fNbE) | 3:18 | 2021-12-16 |  |
 | [Christmas Day](https://open.spotify.com/track/1Oru3RX7Qof6vPh1J6ZvtJ) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Christmas](https://open.spotify.com/album/7FTOK16cl28fhMAY0oLbqf) | 2:55 | 2021-12-16 |  |
@@ -71,9 +72,11 @@
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0KSbdPRNQMYISPSCYxmpo3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas](https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl) | 2:44 | 2021-12-16 | 2022-07-29 |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4nF0P6WaszHMhurQTjUmIp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 2:44 | 2021-12-16 |  |
 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 | 2021-12-16 |  |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/0afX1OkO9Az9BMtfnLLc29) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 3:13 | 2022-12-02 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/1QvFsu0LyVr9MKDhtvWtwU) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Christmas](https://open.spotify.com/album/7c8BQ8VwHYGks8qo0sCIAW) | 3:48 | 2021-12-16 |  |
 | [If We Make It Through December](https://open.spotify.com/track/44RXimHSA8TP58WXOMdKMy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Honky Tonk Christmas](https://open.spotify.com/album/5kIfAEfAWBYRKHnhLS6ise) | 2:44 | 2021-12-16 |  |
 | [If We Make It Through December](https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Hag's Christmas](https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8) | 2:43 | 2021-12-16 |  |
+| [It Must Have Been The Mistletoe \(Our First Christmas\)](https://open.spotify.com/track/76dd0L4Bk6rRlEjt5oB47S) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 3:13 | 2022-12-02 |  |
 | [It's Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/69Xw4dg0nQuJn2gkQRquRw) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:39 | 2021-12-16 |  |
 | [It's Christmas](https://open.spotify.com/track/12MYE3GKzluh6aVgQiLUH6) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Christmas With Ronnie Milsap](https://open.spotify.com/album/330S3o1ilBUbpVT11njbvs) | 2:58 | 2021-12-16 | 2022-07-29 |
 | [It's Christmas](https://open.spotify.com/track/0v83SA7DCwVYv7soRcltWl) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Christmas With Ronnie Milsap](https://open.spotify.com/album/1YjVRUPO0QKOO6mNZbcQj8) | 3:00 | 2021-12-16 |  |

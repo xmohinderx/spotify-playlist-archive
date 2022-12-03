@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-501 songs - 1 day 4 hr 34 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+505 songs - 1 day 4 hr 45 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Foveaux Strait](https://open.spotify.com/track/3mvvnHeinX9SuYf3tfkoBF) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP) | [Foveaux Strait](https://open.spotify.com/album/3VJPYPP1PFGyTbzn2kTCBF) | 3:44 | 2019-06-27 | 2021-09-03 |
 | [Fresh Paint](https://open.spotify.com/track/40yQjVqMx52xTlY4KFZXnh) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Mind games](https://open.spotify.com/album/3LRCWo4BAlXhTnbc2FFpbk) | 2:34 | 2022-11-18 |  |
 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 | 2019-05-26\* | 2019-06-19 |
+| [Frozen Lakes](https://open.spotify.com/track/0acEauszFAvCGw9cNF0kZM) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Frozen Lakes](https://open.spotify.com/album/33iYingDDSa1X0iPiotQT8) | 2:46 | 2022-12-02 |  |
 | [Further Than Far](https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Further Than Far](https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX) | 2:48 | 2022-05-19 |  |
 | [Fusion](https://open.spotify.com/track/7GiFqdQP8AdVRl1rCK7Zev) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Fusion](https://open.spotify.com/album/0AkiaKCMeeZJg4Q7AxYv7Y) | 3:47 | 2019-06-19\* | 2020-08-07 |
 | [Gather My Thoughts](https://open.spotify.com/track/11nkLTEsCUzxXLWpyuz65G) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gather My Thoughts](https://open.spotify.com/album/6Dgak5TmZJbTfz3REBTCJG) | 3:03 | 2022-04-21 |  |
@@ -277,6 +278,7 @@
 | [Migration](https://open.spotify.com/track/7r9cNx76cAD4Uce80Lqyig) | [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Migration](https://open.spotify.com/album/4RJuzMFg5iWb33aTkDq34W) | 3:37 | 2019-06-19\* | 2021-09-14 |
 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 | 2019-12-31 |  |
 | [Mind Of Lust](https://open.spotify.com/track/6WIbkXGyOIdCEbt1aQXN1r) | [Sandomina](https://open.spotify.com/artist/3Zsv8d3ETW95nBQeND8HNk) | [Mind Of Lust](https://open.spotify.com/album/5Qz06nate2QHEMevilhOQa) | 2:15 | 2020-12-24 |  |
+| [miniature things](https://open.spotify.com/track/3kKwXt8TAU7wMCPIPCrzkI) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [miniature things](https://open.spotify.com/album/4mo3YbEl9iNR1rTZtkqQxu) | 2:23 | 2022-12-02 |  |
 | [Moment of Clarity](https://open.spotify.com/track/1h7XRTgZYY0TYDjYDnLfju) | [Light Bin](https://open.spotify.com/artist/1Zwtu3gCjyYVvEZZXbzucG) | [Moment of Clarity](https://open.spotify.com/album/2jdTmcYye9EjeUiSNScJZC) | 2:21 | 2019-06-27 |  |
 | [Momentum](https://open.spotify.com/track/7Ln0DgKSrDG0ALbtNwGeml) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Momentum](https://open.spotify.com/album/6bBUbGTE505JA1suvNRTLu) | 2:58 | 2020-06-19 |  |
 | [Monita](https://open.spotify.com/track/2kYi4RwuTernByCJR6D4e1) | [Vincent Brahn](https://open.spotify.com/artist/4hHUuocKrz925cz7rAhoju) | [Lake Navis](https://open.spotify.com/album/45SgBkBj04nt7ZxfTsfpuh) | 3:16 | 2019-06-19\* | 2021-09-14 |
@@ -390,6 +392,7 @@
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-06-19\* | 2021-06-16 |
 | [Squaric](https://open.spotify.com/track/5vUaPsEVEsmv5J11CTgjBA) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Squaric](https://open.spotify.com/album/3weidR9AlIh3zsaHcR5tzH) | 2:33 | 2020-09-17 | 2022-07-09 |
 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 | 2019-05-26\* | 2019-06-27 |
+| [Staring into Infinity](https://open.spotify.com/track/0Mjbx4mfOH02A9xmUE3F40) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Staring into Infinity](https://open.spotify.com/album/7JI8IswyhqL70KbpdLRn6X) | 2:35 | 2022-12-02 |  |
 | [Starlights](https://open.spotify.com/track/2tSlohCLetwQRpA71jbnrB) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 5:13 | 2019-05-26\* | 2019-06-19 |
 | [Steady Walk](https://open.spotify.com/track/1eEHpyWT5AOAFbgqAGSMns) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Steady Walk](https://open.spotify.com/album/54sj8psc72yZlgWhIyxvyP) | 1:59 | 2022-08-23 |  |
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2021-12-17 |  |
@@ -483,6 +486,7 @@
 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 | 2019-05-26\* | 2020-01-09 |
 | [Water Colors](https://open.spotify.com/track/7rpGOF9MwCP2Oaz9yDO452) | [Star Slide](https://open.spotify.com/artist/4tWKagNv3bHsJoLYD7vO1m) | [Water Colors](https://open.spotify.com/album/272XJrGegiXcXC5rA3yzek) | 3:02 | 2020-01-03 |  |
 | [Water Lillies](https://open.spotify.com/track/1sVIrkPZob1Ul6aIqy8n8z) | [A Teardrop In The Lake](https://open.spotify.com/artist/0s4v0h7Hiez273tp6lDeL0) | [Water Lillies](https://open.spotify.com/album/1Ugt1z1iTwo8bAt9Y6gNmF) | 3:48 | 2020-06-19 | 2022-11-18 |
+| [waveforms](https://open.spotify.com/track/2dwLTY84vCeubyM0jM0nXH) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [waveforms](https://open.spotify.com/album/6Lo6uzBAeHRPlys9rzgEna) | 2:43 | 2022-12-02 |  |
 | [Waves](https://open.spotify.com/track/4Ua4NrNeTgqMPB3cCdtuX5) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Waves](https://open.spotify.com/album/3ZCPMLfLcFDmenpUerrAi4) | 3:22 | 2019-06-19\* | 2021-09-03 |
 | [We Are Forever](https://open.spotify.com/track/0u7ghYOO8OSamsX8yakIVw) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:13 | 2019-05-26\* | 2020-08-07 |
 | [What We Call Home](https://open.spotify.com/track/6uddOaYobZ26MA4lXmPtR9) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [What We Call Home](https://open.spotify.com/album/43i5sM7kRQsjoyo1gm7fGB) | 3:49 | 2019-06-19\* | 2019-06-27 |

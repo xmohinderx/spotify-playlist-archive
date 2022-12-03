@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: lost spaces, JAIE \(Malaysia\)
 
-503 songs - 1 day 6 hr 7 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+506 songs - 1 day 6 hr 18 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [insomnia](https://open.spotify.com/track/0qbRKE96kcbb8LNhs43cTs) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [insomnia](https://open.spotify.com/album/60u9cSJBnwIS0QuoBUQMWz) | 4:46 | 2022-04-07 | 2022-05-13 |
 | [Is That True?](https://open.spotify.com/track/7ktkeXuvYXobpsOahNhJgT) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Is That True?](https://open.spotify.com/album/05XRy1OIW1ZScKXlevm4wS) | 4:09 | 2022-08-25 | 2022-10-29 |
 | [It Matters Until It Doesn't](https://open.spotify.com/track/6lM6s5WehMZQnUOGA8Jd1a) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/3GvcUP4eprG1QsfvrjoQYs) | 2:35 | 2022-05-19 | 2022-07-08 |
+| [It'll Get Better](https://open.spotify.com/track/6SiRsVQ8ZZoaG5OXmWxOyF) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [Feeling Better?](https://open.spotify.com/album/09WlNwKcj3ABqZZgK41IJX) | 4:20 | 2022-12-02 |  |
 | [It's you](https://open.spotify.com/track/1eqtn2OHCJoehFkTWxXYJh) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [It's you](https://open.spotify.com/album/20dEr3UIwWLjgcTksjtBJ0) | 5:25 | 2022-06-16 | 2022-08-26 |
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-24 | 2022-04-08 |
 | [Jealousy](https://open.spotify.com/track/4mmNaX7S21cDbiOrMSSush) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:23 | 2022-06-17 | 2022-08-05 |
@@ -390,7 +391,8 @@
 | [Sunflower \- Slowed Down](https://open.spotify.com/track/47gwnqfpI6Om0OBLCgGptN) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Sunflower Versions](https://open.spotify.com/album/5807uTIjCiX0QKbxNj5YCP) | 2:54 | 2022-06-23 | 2022-07-15 |
 | [sunrise](https://open.spotify.com/track/4amslzmcELgZwGmfrg2gOV) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [sunrise](https://open.spotify.com/album/3VAV0rDaxszxhB3eoTY8sC) | 4:03 | 2022-03-24 | 2022-04-08 |
 | [Sunset](https://open.spotify.com/track/21at3k85HWQB3afBSfLFV0) | [Howwhywhenyou](https://open.spotify.com/artist/1mqnofhpOdo4zGO2xFI72C) | [Sunset](https://open.spotify.com/album/5vQGKF9B1lh5emFRbGbhNi) | 3:47 | 2022-04-21 | 2022-06-17 |
-| [Sunset](https://open.spotify.com/track/0WaaNCMEYKZ5t95mP3Sib9) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/4dyrHFWWpQasYEcPiGKUHZ) | 3:00 | 2022-11-17 |  |
+| [Sunset](https://open.spotify.com/track/0WaaNCMEYKZ5t95mP3Sib9) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/4dyrHFWWpQasYEcPiGKUHZ) | 3:00 | 2022-11-17 | 2022-12-03 |
+| [Sunset](https://open.spotify.com/track/7nlvbZVjzZZpFmEzfgWN2c) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Tuesday Beach Club](https://open.spotify.com/album/0vGAwNbmAskdxxfGyAxf2Q) | 3:00 | 2022-12-02 |  |
 | [Sunshine](https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [sh](https://open.spotify.com/artist/0R4narCkJHEsmTomh2jD1p) | [Sunshine](https://open.spotify.com/album/5xKLqgTDwEyBg7SfFpBhLL) | 3:19 | 2022-10-06 | 2022-12-02 |
 | [Super Happy \(feat\. Ariza\)](https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Super Happy](https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF) | 2:54 | 2022-08-18 | 2022-10-21 |
 | [Surga](https://open.spotify.com/track/25O01gstJe4vSICUA2wVmx) | [The Swinging Terror](https://open.spotify.com/artist/3Bz8K5WEeADKIrxRg208IV) | [Surga](https://open.spotify.com/album/0j1SrrUhHbtBvoWWKiNfGr) | 3:50 | 2022-07-14 | 2022-08-05 |
@@ -427,7 +429,8 @@
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-06-30 | 2022-09-09 |
 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 | 2022-03-24 | 2022-06-03 |
 | [Unwell](https://open.spotify.com/track/18w9yxEycSSclOznmhrfoU) | [sleepy benjamin](https://open.spotify.com/artist/2Dpw5rzcRedRcJLH9eyVRc), [DEON](https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN), [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO) | [Unwell](https://open.spotify.com/album/6RxjMmmDWygc4cE0DKeyEp) | 2:54 | 2022-09-15 | 2022-10-29 |
-| [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2022-11-10 |  |
+| [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2022-11-10 | 2022-12-03 |
+| [Upon You](https://open.spotify.com/track/6raHSY9SaPWOKXmHiBEegd) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:36 | 2022-12-02 |  |
 | [Valdoxan](https://open.spotify.com/track/5NmRjZdzwHvKVrpchBL08F) | [Junva](https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt), [Gong H 3 F](https://open.spotify.com/artist/4AvLJBT9GUw1MAvfe4cALA) | [Valdoxan](https://open.spotify.com/album/4QUv10tacKfmSELFaqzQs0) | 3:28 | 2022-03-24 | 2022-06-10 |
 | [Venture \- For Tracy Hyde remix](https://open.spotify.com/track/06OcvQjbKdz7I7Y9LAApsq) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf), [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Floret](https://open.spotify.com/album/1SWWvEsN8m4cz9ScFOEEn5) | 3:19 | 2022-10-20 |  |
 | [Waiting For You](https://open.spotify.com/track/2ZaAW2MtlN9CNIU3XcPISD) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR) | [SWIRL](https://open.spotify.com/album/00SqzcEovHnynRRQuV2AgE) | 3:00 | 2022-06-02 | 2022-07-22 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-59 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
+60 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Jah Jah Me Leve](https://open.spotify.com/track/4ypqT6MRc3FmLWJXQ7XGNZ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:13 | 2022-06-04 |  |
 | [Liberdade](https://open.spotify.com/track/1M7yF8dbLikWqvNMdMcLfR) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Infinito Interno](https://open.spotify.com/album/7gibqU8NtLuvNfAflMqZj3) | 3:31 | 2022-06-04 |  |
 | [MALUNGOFORTE.](https://open.spotify.com/track/2v3z1JTUBw1UpsLRa3H6Cm) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 2:08 | 2022-06-04 |  |
+| [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 | 2022-12-02 |  |
 | [Minha Sina](https://open.spotify.com/track/4iImTv3CFPEL2KKg0UzB2k) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:24 | 2022-06-04 |  |
 | [Minha Trilha](https://open.spotify.com/track/4mHxl3TuQz1MuHzKD06Ddx) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Quimera](https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4) | 4:27 | 2022-06-04 |  |
 | [Movimento Africano \(Africa Ii\) \- Ao Vivo](https://open.spotify.com/track/17eUPdplHPmzoMJsdyfc68) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 7:35 | 2022-06-04 |  |

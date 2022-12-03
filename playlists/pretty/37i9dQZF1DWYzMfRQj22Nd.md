@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 
 > Taking the big steps with Drum & Bass.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,733 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,761 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 69 | [Visions](https://open.spotify.com/track/4p6xkRMKsCVfM4vDpMDyOI) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequel](https://open.spotify.com/album/0HNzYDQTDCBeYVksrNNrXQ) | 3:22 |
 | 70 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 |
 | 71 | [Dawnbreaker](https://open.spotify.com/track/3ychV6Y7TGNXNQlQFzQWVk) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Dawnbreaker](https://open.spotify.com/album/2NlFJGJSG5pzSLMZWPi8td) | 5:01 |
-| 72 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/2u6tZMWwhgnRggKHvRWINP) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Hold On](https://open.spotify.com/album/3Q7Mi2wjS7jbAd4wkQ7Wjy) | 4:27 |
-| 73 | [Reflections](https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/7yGXQOpOfxPK1OknMsCyPv) | 4:27 |
+| 72 | [Reflections](https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/7yGXQOpOfxPK1OknMsCyPv) | 4:27 |
+| 73 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/2u6tZMWwhgnRggKHvRWINP) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Hold On](https://open.spotify.com/album/3Q7Mi2wjS7jbAd4wkQ7Wjy) | 4:27 |
 | 74 | [Say What You Want](https://open.spotify.com/track/7C0AmMGDeLY4JaDNZcBC4b) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Say What You Want](https://open.spotify.com/album/0VPNitgjEkHtyreOZaa1oK) | 4:00 |
 | 75 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 |
 | 76 | [Everlasting](https://open.spotify.com/track/6eim9waz372dV7a13FvQ7r) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V) | [Everlasting](https://open.spotify.com/album/5pUhuF4AGNKpUokrZ4EwZU) | 4:59 |
 | 77 | [Leaving Now](https://open.spotify.com/track/7ihkvdMXVPA1Lro3zAxWm2) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Leaving Now](https://open.spotify.com/album/5stUlN0v1nytmQCT0LJIFu) | 3:57 |
 | 78 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 |
-| 79 | [E\-Motion](https://open.spotify.com/track/0zSqBdPMlyyY5AdBTne3uW) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [E\-Motion / Higher / Antireal / The Flavor](https://open.spotify.com/album/3GmPy6CTFaAli0kYfau7tH) | 5:37 |
-| 80 | [Alive \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/37CytueQufCf2eqzuN8xQA) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Alive \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/20cAmS9PsrLfFDljRCMlDX) | 4:08 |
+| 79 | [Alive \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/37CytueQufCf2eqzuN8xQA) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Alive \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/20cAmS9PsrLfFDljRCMlDX) | 4:08 |
+| 80 | [E\-Motion](https://open.spotify.com/track/0zSqBdPMlyyY5AdBTne3uW) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [E\-Motion / Higher / Antireal / The Flavor](https://open.spotify.com/album/3GmPy6CTFaAli0kYfau7tH) | 5:37 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDcwYmY0MDI5OWNhOWNlYmI4ZWQ3MzgyNWMxM2NkMDE3`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGU4MWYxY2ZjODcwMGE2M2JkMjJmYWRiZWNhNTQ0MDI2`

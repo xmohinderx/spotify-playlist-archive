@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168136,
+  "num_followers": 168174,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMGQyZTQzYzE4NTFjMjEzYzA3NDFlNGY5NjA0MTI0MGU2",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDUxYTJhNjJmNzFjNGEzNjQyYWQ4Y2UxYWJhYmQ0NmVi",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "To' Los D\u00edas",
-        "url": "https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI"
-      },
-      "artists": [
-        {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "To' Los D\u00edas",
-      "url": "https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 153826,
       "name": "Money",
       "url": "https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "To' Los D\u00edas",
+        "url": "https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI"
+      },
+      "artists": [
+        {
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "To' Los D\u00edas",
+      "url": "https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Mensaje",
-        "url": "https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8"
-      },
-      "artists": [
-        {
-          "name": "Pema",
-          "url": "https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D"
-        },
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        }
-      ],
-      "duration_ms": 172682,
-      "name": "Mensaje",
-      "url": "https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "piano, piano",
         "url": "https://open.spotify.com/album/4eGBlxVTIK95Ptvsn5dCo7"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 195918,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Mensaje",
+        "url": "https://open.spotify.com/album/2B1828MpJLzTAK78spqdC8"
+      },
+      "artists": [
+        {
+          "name": "Pema",
+          "url": "https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "duration_ms": 172682,
+      "name": "Mensaje",
+      "url": "https://open.spotify.com/track/5Bi1US6c5cYjj5r8O6Iok0"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Jardin de Rosas",
-        "url": "https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR"
-      },
-      "artists": [
-        {
-          "name": "Ramona Vee",
-          "url": "https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Jardin de Rosas",
-      "url": "https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Me preguntaba",
         "url": "https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 201245,
       "name": "Me preguntaba",
       "url": "https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Jardin de Rosas",
+        "url": "https://open.spotify.com/album/2UYt3QGKTUpCwwdTRwDPMR"
+      },
+      "artists": [
+        {
+          "name": "Ramona Vee",
+          "url": "https://open.spotify.com/artist/4hhKwEHzfRZJt9pJBTX31B"
+        }
+      ],
+      "duration_ms": 202409,
+      "name": "Jardin de Rosas",
+      "url": "https://open.spotify.com/track/7cdXvepkCmhFOjB3C6gt3C"
     }
   ],
   "unique_name": "Fresh Finds Latin: Best of 2022",

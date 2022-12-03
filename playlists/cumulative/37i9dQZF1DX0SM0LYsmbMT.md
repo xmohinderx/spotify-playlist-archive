@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,224 songs - 5 day 4 hr 39 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,225 songs - 5 day 4 hr 41 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1718,7 +1718,7 @@
 | [Memories Fade](https://open.spotify.com/track/2CaYllW3IuG1vRO8NiLCvL) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Memories Fade](https://open.spotify.com/album/56YuN8s4IOuwTlCR9QZrcD) | 2:31 | 2021-07-31 | 2021-09-02 |
 | [Memories of You](https://open.spotify.com/track/1Cu1Yy1ZGf62vslIcCiW0G) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Memories of You](https://open.spotify.com/album/2VAI00lGyRB9dez2Sr6Vv2) | 2:47 | 2020-07-18 | 2021-03-06 |
 | [Memory Lane](https://open.spotify.com/track/5Hl1ZclS5DnDvaFRQGLqqb) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Passage of Time](https://open.spotify.com/album/3wevkzIDBIdR1loN71VnKh) | 2:20 | 2021-10-01 | 2022-11-20 |
-| [Memory Lane](https://open.spotify.com/track/70gNm5mJVotZ6byfbmlW8q) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Passage of Time](https://open.spotify.com/album/46QJrlo0R2qEfnYRu0MyYE) | 2:20 | 2022-11-17 |  |
+| [Memory Lane](https://open.spotify.com/track/70gNm5mJVotZ6byfbmlW8q) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Passage of Time](https://open.spotify.com/album/46QJrlo0R2qEfnYRu0MyYE) | 2:20 | 2022-11-17 | 2022-12-03 |
 | [Mendoza](https://open.spotify.com/track/5g9X1q45qVLRIdQ4ZVI0We) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Mendoza](https://open.spotify.com/album/1HvA0nGOnb0X6lwdtpiGxx) | 3:45 | 2021-07-02 | 2021-08-06 |
 | [Mercury](https://open.spotify.com/track/2atKWG7T0S9994lfDWaHfC) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [High Hats](https://open.spotify.com/album/2KCXMMTBgstZEjj8rE2hFS) | 2:33 | 2021-06-27 | 2021-11-26 |
 | [Merhaba](https://open.spotify.com/track/6qDTNdB4DfWGaEI4hb4BJL) | [Qadir Bijoux](https://open.spotify.com/artist/26dpXNQaUiknQXGV3zQqzQ) | [M](https://open.spotify.com/album/25EY8GXedHWxDYTdXqB5YV) | 3:03 | 2020-04-24 | 2020-06-29 |
@@ -3128,6 +3128,7 @@
 | [When the Rain Comes](https://open.spotify.com/track/5jbOCsyeMKNxw2Xk3RSylS) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [When the Rain Comes](https://open.spotify.com/album/79HQmti8TBOTPxr4Rt4MQv) | 1:55 | 2021-11-28 |  |
 | [When The Sky Falls Down](https://open.spotify.com/track/0fwM7YMTxX8MWSA2lnW83B) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [When the Sky Falls Down](https://open.spotify.com/album/7aNWTb8r11gD0IAg1DCOqz) | 2:29 | 2020-10-16 | 2021-02-01 |
 | [When There's Nothing Else](https://open.spotify.com/track/6Ia63wG2Q17TDdhF3DODQe) | [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf), [Broey.](https://open.spotify.com/artist/6HmeISbko4bc0zsZQvIAco) | [When There's Nothing Else](https://open.spotify.com/album/7CpNe5p2qVHaYGtchPkkLy) | 1:43 | 2020-09-05 | 2021-04-30 |
+| [When We Last Spoke](https://open.spotify.com/track/3dBb5k9IR2AfzXrM2Od3Om) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When We Last Spoke](https://open.spotify.com/album/507chNKzEUeg6Y6mQMx9cN) | 1:51 | 2022-12-01 |  |
 | [When We Last Spoke](https://open.spotify.com/track/5wAD3nLgZYfx9rq2nwj7ij) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When We Last Spoke](https://open.spotify.com/album/729l7CLfvcWNkVX1Cm0ZyK) | 1:51 | 2022-04-21 | 2022-11-24 |
 | [When You Can Ride Like This](https://open.spotify.com/track/6XriHWay3nzMSy7Ju0rrLK) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [When You Can Ride Like This](https://open.spotify.com/album/2wCgh1PX0MxWrBgLEQizLY) | 1:52 | 2020-10-03 | 2021-05-07 |
 | [Where The Sun Goes](https://open.spotify.com/track/1DllMmDyCCUS95CbScNWXt) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h), [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [Inside a Saltwater Room](https://open.spotify.com/album/3UjgaCthcWW5FuImfg05Xy) | 2:55 | 2021-10-05 | 2021-11-12 |

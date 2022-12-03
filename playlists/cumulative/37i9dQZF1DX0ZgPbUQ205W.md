@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-245 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+246 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [May Sun](https://open.spotify.com/track/19JUTxqb12ibfHLhFuyYod) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Dark Eyes](https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd) | 2:47 | 2021-12-17 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-11-11 |  |
 | [Midnight](https://open.spotify.com/track/3C39yMMp5FZC7Dvk10KFrA) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Martin Höper](https://open.spotify.com/artist/1in1rh9jX09HI8VSThaIeg), [Ola Winkler](https://open.spotify.com/artist/2G1GN2b3u7Fh607yHsFOCb) | [Underworld](https://open.spotify.com/album/5wBPrHUc1HAt0JJhidr6Ke) | 4:18 | 2022-05-25 | 2022-10-08 |
+| [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 | 2022-12-01 |  |
 | [Moonpie](https://open.spotify.com/track/3YlJpTObKekXnRKgK9v7j0) | [Food](https://open.spotify.com/artist/5UH0MJYNrZoaqu9P0A3SII) | [Mercurial Balm](https://open.spotify.com/album/3cf5MLkn2rHxN7LFSHaMFW) | 4:33 | 2021-12-17 | 2022-02-18 |
 | [Morning Moon](https://open.spotify.com/track/4b1cZXkFtOdpZnyU0GfZWm) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Morning Moon](https://open.spotify.com/album/3n781Nd8Ff9001PJNWTuUq) | 5:52 | 2022-03-03 | 2022-11-13 |
 | [Morning Song](https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 6:55 | 2021-12-17 |  |
@@ -159,7 +160,7 @@
 | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/track/6iH9vNAyxDKzvy8z4ukHxX) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs) | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/album/4qfgrZoQPbtKSrzaSFNppu) | 3:49 | 2021-12-17 | 2022-05-04 |
 | [Poetry](https://open.spotify.com/track/3o4gJffzc5xbKggjuMZTQY) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd) | 3:52 | 2022-06-29 | 2022-11-11 |
 | [Poetry](https://open.spotify.com/track/6awNjgr2DnufiS8RaBXEgy) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/3lXRKeB2psGMMJK0njsbNY) | 3:52 | 2021-12-17 | 2022-07-29 |
-| [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2021-12-17 |  |
+| [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2021-12-17 | 2022-12-03 |
 | [Provenance](https://open.spotify.com/track/2ER8rFsD3nhJUEQ1edV6lg) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4WbMeqetvONexNDfSIAcEZ) | 6:11 | 2021-12-17 | 2022-07-29 |
 | [Provenance](https://open.spotify.com/track/5d4K958gElIpnX53Olbgvu) | [Björn Meyer](https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO) | [Provenance](https://open.spotify.com/album/4GUldwVIDwkiaTX4jJxNnf) | 6:11 | 2022-06-29 |  |
 | [Psalm](https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:10 | 2021-12-17 | 2022-10-08 |

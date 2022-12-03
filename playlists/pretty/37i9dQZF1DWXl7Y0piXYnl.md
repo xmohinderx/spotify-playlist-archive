@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,596 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,611 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 60 | [Olha Ja](https://open.spotify.com/track/0ya0bggTksQ6reU4JZxz6k) | [DJ Lycox](https://open.spotify.com/artist/6HPUbM6BB61jpGbYOYMQ9C) | [SUJEIRA](https://open.spotify.com/album/6r2anSKGq1NfcFXQxRVPFV) | 3:00 |
 | 61 | [Close Call](https://open.spotify.com/track/47TYels9yNyhcVTLfypPz9) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo), [Spectr](https://open.spotify.com/artist/1pQBPMOeVPKEclryZMzHaz) | [Close Call](https://open.spotify.com/album/61B6UkQACI73CR484Hwoq4) | 5:09 |
 | 62 | [Crab Ride](https://open.spotify.com/track/6Ume6jodiuUsMOtbHVeotc) | [Karima F](https://open.spotify.com/artist/0t8fdNcHd9rP9mqzv83RLg) | [Fief Fief](https://open.spotify.com/album/2UPkjxDxd5A90UNsd98vlw) | 5:23 |
-| 63 | [The Corpse of a Frozen Flower](https://open.spotify.com/track/6jFqs5z2EMkkbprCyOIgvV) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Dumbo Tracks](https://open.spotify.com/album/1zZlS9NOEVUsyf1liL78cC) | 4:48 |
+| 63 | [The Corpse of a Frozen Flower](https://open.spotify.com/track/2yOadTm41F4Mz0npgZxYhe) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Dumbo Tracks](https://open.spotify.com/album/6mfMYLIC1CK7tz05h3kUDV) | 4:48 |
 | 64 | [Higher Beings Command](https://open.spotify.com/track/73DQSx8VuHiWQl3zuG5M4E) | [Coil](https://open.spotify.com/artist/37KB5e6cGsN1AQAB9Omm1U) | [Constant Shallowness Leads To Evil](https://open.spotify.com/album/0wKFOCEDjdmkgsiOe06zBS) | 4:09 |
 | 65 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/60VjArH5XWBvpahor9I7RF) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys Remixes](https://open.spotify.com/album/6evedkkGMc4VTjdL5CROVz) | 4:37 |
 | 66 | [Marixylo](https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Marixylo / Log 0ut](https://open.spotify.com/album/1RVJiWQ10iL6LdIwSwqCyI) | 3:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Vidsutni](https://open.spotify.com/track/08mYpNREJeflSGbZ3MYxXB) | [Katarina Gryvul](https://open.spotify.com/artist/60g5BHTwPOOmWMuyRc245e) | [Tysha](https://open.spotify.com/album/4Gm3ffKcdtdlTIImLFaVVX) | 4:03 |
 | 70 | [The Wolf, The Sheep & The Door](https://open.spotify.com/track/6tKC4JNF0dhp9m2zRJRhLp) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [Skimskitta](https://open.spotify.com/album/5kACGQbTuUZZyNHl87iK4p) | 6:08 |
 
-Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDZiYWI1MTA5YWExY2U2OTkyNGYyYzg2ZjE2OTI1NTE4`
+Snapshot ID: `MTY2OTMzMDg2MCwwMDAwMDAwMDYyNjE3ZmJjODM2YmUzOTg4MTk4YjZmNDkwZDFjNTky`

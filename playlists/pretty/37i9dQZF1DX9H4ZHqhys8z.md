@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου την καλύτερη μουσική από Ελληνίδες καλλιτέχνιδες, που κυκλοφόρησε το 2022\. Εξώφυλλο: Stefania
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,038 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,064 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

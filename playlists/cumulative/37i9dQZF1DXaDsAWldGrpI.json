@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Your favorite artists, caught in the act!  Recorded Live...just like you were there.  Cover:  Kenny Chesney",
+  "description": "Your favorite artists, caught in the act! Recorded Live...just like you were there. Cover: Cody Johnson",
   "name": "Country Live",
   "published_playlist_ids": [
     "26VNM7RZboFEJ69w2h5xCg"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Cody Johnson & The Rockin\u2019 CJB Live",
+        "url": "https://open.spotify.com/album/4VFBMu9CJECPk7fAG2oHkr"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "'Til You Can't - Live",
+      "url": "https://open.spotify.com/track/6aZVQQUl17WqobPx0UZKxo"
+    },
     {
       "album": {
         "name": "Still The One: Live From Vegas",
@@ -1318,6 +1336,28 @@
     },
     {
       "album": {
+        "name": "RSVP (Live)",
+        "url": "https://open.spotify.com/album/0pPmk9j6atfenNZO8ZTMwI"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        },
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172568,
+      "name": "RSVP - Live",
+      "url": "https://open.spotify.com/track/4dkaY74ybKD2a72afxOFRm"
+    },
+    {
+      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
       },
@@ -1713,6 +1753,32 @@
       "duration_ms": 367973,
       "name": "Waymore\u2019s Blues - Live at The Fillmore New York at Irving Plaza/ 2010",
       "url": "https://open.spotify.com/track/2mmtL4ZNo77BwzorkT8yjx"
+    },
+    {
+      "album": {
+        "name": "Wyoming\u2019s Sons Live from Cheyenne",
+        "url": "https://open.spotify.com/album/6DFVfxEm38Lrq7kS6jzyYI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Tris Munsick",
+          "url": "https://open.spotify.com/artist/6VhJr0L2PbnyAfz5WtLT7R"
+        },
+        {
+          "name": "Sam Munsick",
+          "url": "https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312118,
+      "name": "Weakness (feat. Tris Munsick & Sam Munsick) - Live",
+      "url": "https://open.spotify.com/track/3Qrgsm4w3DLoSb4u30mpsb"
     },
     {
       "album": {

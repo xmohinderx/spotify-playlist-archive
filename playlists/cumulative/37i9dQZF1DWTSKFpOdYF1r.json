@@ -3102,6 +3102,24 @@
     },
     {
       "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
+    },
+    {
+      "album": {
         "name": "Rise: The Collection",
         "url": "https://open.spotify.com/album/6usIkUhnOPvUqYFCHxgxu3"
       },
@@ -3275,7 +3293,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 229266,
       "name": "She Bop",
       "url": "https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF"

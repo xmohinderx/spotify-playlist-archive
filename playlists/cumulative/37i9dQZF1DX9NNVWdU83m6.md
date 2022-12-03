@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-128 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
+129 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/43Z6HObQV3nVWqyO3c383T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cloud Of Oort](https://open.spotify.com/track/5DFSRzVn40kObZNfi9i7w6) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Christopher Clark](https://open.spotify.com/artist/4PrvXi9ekhPzzcqRqFa3bB), [Johan Hansén\-Larson](https://open.spotify.com/artist/5844YBpApbEWeMcEVpNpNR) | [Cloud Of Oort](https://open.spotify.com/album/3J4x5mfj4UtoJZZJkC45ga) | 6:51 | 2022-05-06 | 2022-07-29 |
 | [Colliding Chimps](https://open.spotify.com/track/7M3oG4mQrOn81hNgSRqUqP) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas), [Tj\. Helmerich](https://open.spotify.com/artist/4iLrFjLcUnQUEUOxUiEDl6), [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ), [Scott Kinsey](https://open.spotify.com/artist/1503sX3VD2I5aLcBA9wjjK), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Uncle Moe's Space Ranch](https://open.spotify.com/album/5V89sbJdj6RDqqUHW7bCnX) | 6:16 | 2021-01-27 | 2022-07-16 |
 | [Consider Yourself Judged](https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE) | [T.R.A.M](https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB) | [Lingua Franca](https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh) | 4:44 | 2021-01-27 | 2022-11-13 |
+| [Consider Yourself Judged](https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV) | [T.R.A.M](https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB) | [Lingua Franca](https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK) | 4:44 | 2021-01-27 |  |
 | [Cptn Future](https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4) | [NuHussel Orchestra](https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN) | [Kids](https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8) | 5:02 | 2022-10-21 |  |
 | [Cygnus \- Edit](https://open.spotify.com/track/3GmaX8Rq12cmCbckxSYdOO) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Cygnus](https://open.spotify.com/album/1D3iPGr8efICqZvw0iGDzX) | 4:17 | 2021-01-27 | 2022-07-20 |
 | [Deadly Nightshade](https://open.spotify.com/track/6Ws4jPs9nJuXkrD7Nv3gLW) | [Brand X](https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy) | [Masques](https://open.spotify.com/album/0D80cZvlVfODsYHhFmygO5) | 11:22 | 2021-01-27 | 2022-07-29 |
@@ -57,7 +58,7 @@
 | [Hits!](https://open.spotify.com/track/5Lgl6FQNRkAmbkIQuNcjS5) | [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Dennis Hamm](https://open.spotify.com/artist/63Cyh6CQMpPPni4d9af30g) | [Hits!](https://open.spotify.com/album/4ZkhTuOJtL59EKqOAayBIb) | 5:30 | 2021-01-27 | 2022-07-28 |
 | [Hymn Of The 7th Galaxy \- Remixed/Remastered](https://open.spotify.com/track/2w0X8HLU1fDA6pUZuitA7U) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [The Anthology](https://open.spotify.com/album/6kzfSHkl0cTxVnDk66q9AF) | 3:30 | 2021-01-27 | 2022-06-03 |
 | [Illuminate](https://open.spotify.com/track/5KJqZNbSanOpymduTRXdAK) | [Animal Society](https://open.spotify.com/artist/1a727xBDJilvH2RUjU6hwd) | [Rise](https://open.spotify.com/album/7ysrGWtEz7mL0WNBKMFxCu) | 12:38 | 2021-01-27 | 2022-07-29 |
-| [Immersion](https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Rubicon](https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR) | 3:01 | 2021-01-29 |  |
+| [Immersion](https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Rubicon](https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR) | 3:01 | 2021-01-29 | 2022-12-03 |
 | [Impetu](https://open.spotify.com/track/1q05Sv46RtdjOhLME49EKW) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Impetu](https://open.spotify.com/album/5YxPMp28WpuaUx05fzK4F1) | 5:16 | 2021-04-09 | 2022-07-27 |
 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 | 2021-01-27 |  |
 | [Inner Babylon](https://open.spotify.com/track/3OQ3kWHotovS0RE3ZMgeNY) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/55Xi3WIyXMIUYPRRVboNQK) | 5:20 | 2021-01-27 | 2022-05-05 |

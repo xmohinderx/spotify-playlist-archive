@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Consapevolezza",
+        "url": "https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2"
+      },
+      "artists": [
+        {
+          "name": "Trinitah",
+          "url": "https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Consapevolezza",
+      "url": "https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP"
+    },
+    {
+      "album": {
         "name": "mise-en-sc\u00e8ne",
         "url": "https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ"
       },
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 284712,
       "name": "Path To Self",
       "url": "https://open.spotify.com/track/3o76zTFwwLZ7lx5La5L09O"

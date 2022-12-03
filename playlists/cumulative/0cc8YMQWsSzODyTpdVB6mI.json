@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0hhqR9E19JXrsqF2EjPUNc"
+      },
+      "artists": [
+        {
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+        },
+        {
+          "name": "Max Wheeler",
+          "url": "https://open.spotify.com/artist/3VfVPS04066laDWCxcVe1j"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217239,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/3AUVgd5EWkAGDzqrKR36DN"
+    },
+    {
+      "album": {
         "name": "Azibi",
         "url": "https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL"
       },
@@ -335,7 +357,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 162333,
       "name": "DO MAR",
       "url": "https://open.spotify.com/track/0ra2NmkSqQzmRE5DUdNUTb"

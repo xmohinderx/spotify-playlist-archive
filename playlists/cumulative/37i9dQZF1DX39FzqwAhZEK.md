@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-317 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
+319 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/4Os8nBg7RzVXxd5ntvlDFA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dreams of the Milky Way](https://open.spotify.com/track/55MCIV8vcsHVz2ECaveJpT) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Dreams of the Milky Way](https://open.spotify.com/album/0KVbigs9HOU9c16GRmrZew) | 2:05 | 2022-07-05 |  |
 | [Drømme](https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Drømme](https://open.spotify.com/album/37DmOAu4jFHqzroEvraPPu) | 4:13 | 2022-07-05 |  |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2022-07-05 |  |
+| [Dysania](https://open.spotify.com/track/0DDAJ13i1P8PAG2uSmJxQA) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Confessions](https://open.spotify.com/album/0SR37Tsywrqw2SBims80Ij) | 3:01 | 2022-12-02 |  |
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-07-05 |  |
 | [Elements of Calm](https://open.spotify.com/track/0l4nTCCQFJGhpSUMTGxvrB) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/6wmCUeJXImFBOpKOoGW728) | 3:54 | 2022-07-05 | 2022-07-29 |
 | [Elements of Calm](https://open.spotify.com/track/2sF9F7GyYSlviYnBxc3xsI) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/5CcLsRELzK8tV7yooEMyzJ) | 3:54 | 2022-07-05 |  |
@@ -185,6 +186,7 @@
 | [Mellow River](https://open.spotify.com/track/0Uz8UHO1PM5sh2XwRLfuRD) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Mellow River](https://open.spotify.com/album/733ICAjDCWrMvnfHEL94iz) | 3:30 | 2022-07-05 |  |
 | [Midsommarnatt](https://open.spotify.com/track/6UyDL0wkh12ox8TJpvnQpu) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Midsommarnatt](https://open.spotify.com/album/4RaBFPWiRSoLrLEZJFO14K) | 2:14 | 2022-07-05 |  |
 | [Midway](https://open.spotify.com/track/2kTv2khALDAQLexccNt7Ik) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [Midway](https://open.spotify.com/album/2ZB8ydKdh58ricHGdb8eN9) | 3:33 | 2022-07-05 |  |
+| [milagro](https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [milagro](https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC) | 3:02 | 2022-12-02 |  |
 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 | 2022-07-05 |  |
 | [Mixture](https://open.spotify.com/track/0OXgaVgiSiuPYjPRiFSyiY) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Sonorous](https://open.spotify.com/album/23dHOKDvEMYX4C1ukHTULU) | 3:18 | 2022-07-05 |  |
 | [Moments of Tranquility](https://open.spotify.com/track/0TIMekoez4PpwCO3oCvGvb) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Moments of Tranquility](https://open.spotify.com/album/0SXfRjUYArMNL8aPCNvWw3) | 2:49 | 2022-07-05 | 2022-07-29 |

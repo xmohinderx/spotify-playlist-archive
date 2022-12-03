@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ\-u8gnmqQaUJ8A">Loufi</a>
 
-60 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
+61 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Mal](https://open.spotify.com/track/63Q6SWhpOsG1KnCZZTGPjy) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Mal](https://open.spotify.com/album/41DsSF0XlDJlNPaZTMRaTw) | 2:11 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/1psMgy1yY92I0iEDmiEtmT) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Meisies & Partytjies](https://open.spotify.com/album/6zuBf5TT5VdAvijbdb3oCT) | 3:42 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/2gesUnuudnlfvTFeuIF8Rw) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:42 | 2022-09-08 | 2022-11-10 |
-| [Mermaid](https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Mermaid](https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY) | 3:13 | 2022-10-27 |  |
+| [Mermaid](https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Mermaid](https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY) | 3:13 | 2022-10-27 | 2022-12-03 |
 | [Mooiste Meisies](https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Mooiste Meisies](https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF) | 3:41 | 2022-12-01 |  |
 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 | 2022-11-17 |  |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 |  |
@@ -54,6 +54,7 @@
 | [Rich Boy](https://open.spotify.com/track/3OPHM9E96Q138fPxyF8bcN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 2:39 | 2022-09-08 |  |
 | [Ricky Opi Beat](https://open.spotify.com/track/0ZDBZzm4srA2FEFx4V43PK) | [TDV Ricky Vani Frontline](https://open.spotify.com/artist/6CoWyB0XfRRCMB9iFuGzyL) | [Ricky Opi Beat](https://open.spotify.com/album/2mYHqDlpdBfRiC5Tw8qnHx) | 3:16 | 2022-09-08 |  |
 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 | 2022-09-08 | 2022-12-02 |
+| [Skattie](https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Skattie](https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq) | 3:13 | 2022-12-02 |  |
 | [Slaaplose Nagte](https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q) | [Wanié](https://open.spotify.com/artist/1XsEkHNiBF8qAdUBVULiVt) | [Slapeloosheid](https://open.spotify.com/album/0xnfC9WKqTgylhmOgIRmY4) | 3:00 | 2022-09-08 |  |
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 |  |
 | [Soldaat](https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Longjevity](https://open.spotify.com/album/7gOn06YJr6NTt5cwHmC2Y8) | 3:14 | 2022-09-08 | 2022-11-04 |

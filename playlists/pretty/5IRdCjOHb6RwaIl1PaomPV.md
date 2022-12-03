@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,393 likes - 61 songs - 3 hr 29 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,389 likes - 61 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 21 | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj) | 3:13 |
 | 22 | [BUNDLES](https://open.spotify.com/track/3x5JT3ZzLOk7p7PkDU9Ta2) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Hook](https://open.spotify.com/artist/4d3vpAm6F40YCwlQt1FYn8), [Princesa 28](https://open.spotify.com/artist/6lmegUvSQiY2UjEwW1M2QK), [Bby$lut](https://open.spotify.com/artist/22JbcsshExHtw0vlD6Rjta), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [VIZÉ](https://open.spotify.com/artist/1PrKts4N6DL6DvOdVSSseF), [bbycanis](https://open.spotify.com/artist/0O2woYrdIs8qgtWkWjWd7X) | [BUNDLES](https://open.spotify.com/album/2MfzBlSQqKUj1DqnTY7i5b) | 4:33 |
 | 23 | [The Flood](https://open.spotify.com/track/5nC0QNvm9GINzYOkDMQ2Uq) | [Tobias](https://open.spotify.com/artist/2XfJDeJW8WypSlrm2IBuhB) | [Two Birds](https://open.spotify.com/album/3SUIfTE7GjIPlGu3hJFjuS) | 3:05 |
-| 24 | [HARDY BOYZ](https://open.spotify.com/track/7KUHhtR7KQsDP4gW73y9Ro) | [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [AT LEAST WE TRIED](https://open.spotify.com/album/6lCFhoRqixWd3DCBfbkATj) | 2:05 |
+| 24 | [HARDY BOYZ](https://open.spotify.com/track/7KUHhtR7KQsDP4gW73y9Ro) | [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz), [POLO PERKS <3 <3 <3](https://open.spotify.com/artist/4f4Ee5QjHnoeSdlxTaK6rx) | [AT LEAST WE TRIED](https://open.spotify.com/album/6lCFhoRqixWd3DCBfbkATj) | 2:05 |
 | 25 | [No Bitterness](https://open.spotify.com/track/3s3Twsw0pQr40yiZpS3toD) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:38 |
 | 26 | [Rave e Bagaceira](https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl), [Marquinhos Lima](https://open.spotify.com/artist/57mkZiyi1RbNRp58F3RACm) | [Embaixador do Piseiro em Casa \- Ao Vivo](https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX) | 2:55 |
 | 27 | [Breaking Ground](https://open.spotify.com/track/4N9ST3K5aAprq4qqYaKuQI) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:19 |

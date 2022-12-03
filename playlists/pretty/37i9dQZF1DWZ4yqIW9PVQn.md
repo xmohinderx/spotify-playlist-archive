@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738 likes - 108 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746 likes - 108 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 16 | [Think About You \(Prod\. by 'Lee Chanhyuk\)](https://open.spotify.com/track/2sYcXLI2dtHvHTYKTjpccl) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Think About You](https://open.spotify.com/album/4657RzDqZ0HX96GbkmkWs8) | 4:04 |
 | 17 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
 | 18 | [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 |
-| 19 | [Autumn wind](https://open.spotify.com/track/3ePi4qdoOXdnxmd9fkLn5O) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Autumn wind](https://open.spotify.com/album/6sYTiAJQB2VTzs6mjd5jzc) | 4:11 |
+| 19 | [Autumn wind](https://open.spotify.com/track/4XDvWyY9xZRxrfmklKKmwV) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Autumn wind](https://open.spotify.com/album/6MHMfBxopuGMujoeR1uEoR) | 4:11 |
 | 20 | [I Like It](https://open.spotify.com/track/5a4o5ARfYHze8y7O7R5PDJ) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [I Like It](https://open.spotify.com/album/3ZHTXCdbf8pfChmWNSXnHy) | 3:38 |
 | 21 | [Even if a memorable day comes](https://open.spotify.com/track/4qf2fNRdDoNszKfQ6weq4P) | [NC.A](https://open.spotify.com/artist/1uzIyOg5F7ULZ3kWvRfivh) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/6ew14GyXhYrAkEMQbPgFh7) | 3:46 |
 | 22 | [난 혼자가 편해](https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6) | [이단미](https://open.spotify.com/artist/2XfNRc16ttr0NXwtSy9Qq3), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/1Amy0LfByq9gxvd9DUrs96) | 3:16 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 74 | [우리의 밤을 외워요](https://open.spotify.com/track/4LYlWqZSPaLMk9FthWF0To) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [우리의 밤을 외워요](https://open.spotify.com/album/5f8PEOUNnkB5cj2W5fVgXy) | 4:02 |
 | 75 | [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 |
 | 76 | [What day do you live?](https://open.spotify.com/track/2rccS92aHoL4TfGR9wK8B5) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [What day do you live?](https://open.spotify.com/album/6E9VOi0CYUduyLiIzuiMnY) | 5:14 |
-| 77 | [Autumnal love](https://open.spotify.com/track/091YZwi5O1IiFt4D7ulOCj) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On you](https://open.spotify.com/album/4ydstcEKtkCe9KpYA0JvCW) | 3:42 |
+| 77 | [목소리 듣고 싶다 Autumnal love](https://open.spotify.com/track/3peIyC4z6HstADkfpX4VJh) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [곁 1/2 On you 1/2](https://open.spotify.com/album/7IMNiZLrpONVt9cxPv328J) | 3:42 |
 | 78 | [Afraid To Say I Love You](https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Afraid To Say I Love You](https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx) | 3:25 |
 | 79 | [Only in the evening](https://open.spotify.com/track/3WgM1bEvbblhkE4MTLbXUA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/6SVY8Ud5zymLWKQRh9GZeX) | 3:10 |
 | 80 | [Beyond \(Feat\. Soochang\)](https://open.spotify.com/track/0nm1UnN6o64RG2CJywcJFa) | [Bond](https://open.spotify.com/artist/3Ahs5NpPTeYfeTNNf0wGR6), [Soochang](https://open.spotify.com/artist/0Qxw5zRVeIs8Yuo1FrZ9v9) | [Beyond](https://open.spotify.com/album/6v3MIBlJ4iDUNvTqG2O8wT) | 3:19 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 107 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 108 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MTY2NzQ2NzYyMCwwMDAwMDAwMGNlYWZmZWI4M2YwOGFhZjYzMzM3ZjY4OTlmNGIwMTNk`
+Snapshot ID: `MTY2NzQ2NzYyMCwwMDAwMDAwMDM3OTllMDg5YWU0MWE0NmFmZjQ5MjJkNDM3YjI4NTk1`

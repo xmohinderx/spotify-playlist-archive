@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwNzU0NiwwMDAwMDAwMDIyZWQyZTA5ODkzZDM2MjdhMWE0MTUyNjQ0MWU5NWY4",
+  "snapshot_id": "MTY2OTEwNzU0NiwwMDAwMDAwMDg4ODU5ZTViYTMyODJkMTg4M2ZmMWFhM2FiMTNmYTlj",
   "tracks": [
     {
       "added_at": "2022-11-03 09:23:10",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
-      "added_at": "2022-12-02 00:59:51",
+      "added_at": "2022-12-03 00:55:55",
       "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "CLAASSIC",
-        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 217922,
-      "name": "SWEATY",
-      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "EMO #1",
         "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 217489,
       "name": "Justin Bieber (feat. Jay Park)",
       "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "CLAASSIC",
+        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 217922,
+      "name": "SWEATY",
+      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -865,7 +865,23 @@
       "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
-      "added_at": "2022-12-02 00:59:51",
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+    },
+    {
+      "added_at": "2022-12-03 00:55:55",
       "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
@@ -883,22 +899,6 @@
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "waves",
-        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
-      },
-      "artists": [
-        {
-          "name": "Risso",
-          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "Remained scent",
-        "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
-      },
-      "artists": [
-        {
-          "name": "BB",
-          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
-        }
-      ],
-      "duration_ms": 186755,
-      "name": "Remained scent",
-      "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "MOON AND BACK",
         "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 141355,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "Remained scent",
+        "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+        }
+      ],
+      "duration_ms": 186755,
+      "name": "Remained scent",
+      "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
     },
     {
       "added_at": "2022-11-03 09:23:10",

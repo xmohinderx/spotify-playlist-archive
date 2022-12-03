@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！2022 年度總集成！Cover: 蔡依林 \(Jolin Tsai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,591 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,711 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [不曾回來過 \- 電視劇"通靈少女"插曲](https://open.spotify.com/track/6QAn6Crff7sfcqC83fH7dd) | [李千那](https://open.spotify.com/artist/0rOFGXlFK59NmUCHga8oZM) | [不曾回來過 \(電視劇"通靈少女"插曲\)](https://open.spotify.com/album/7GL1d0RDsArwCJYttz9lSu) | 4:30 |
 | 50 | [最熟悉的陌生人](https://open.spotify.com/track/7ptLu9jaGwjeJCYItMK1LY) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [蕭亞軒\-\-](https://open.spotify.com/album/2iFxrSfOHMw68At3k5JVE9) | 4:22 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDM5ZTJlOGVjODNjMmYyNzZiZWUwNWUwMmFiNDQ5ODky`
+Snapshot ID: `MTY2OTk1NDI1MSwwMDAwMDAwMGZlNTYxZTAyMDAzYzg4MDA0Y2MxMWU4MjFmMWYzYTg2`

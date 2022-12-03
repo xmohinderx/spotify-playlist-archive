@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Trending dance hits in India. Cover: Lil Pump & Yo Yo Honey Singh",
+  "description": "Trending dance hits in India. Cover: King & Masked Wolf",
   "name": "mint India",
   "published_playlist_ids": [
     "4LmBKe4LSrS4bT8FvFonit"
@@ -1965,6 +1965,28 @@
       "duration_ms": 223325,
       "name": "Oo Antava Oo Oo Antava",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
+    },
+    {
+      "album": {
+        "name": "OOPS (feat. Masked Wolf)",
+        "url": "https://open.spotify.com/album/5DaEs5QojfHjfVDGJERW3R"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163530,
+      "name": "OOPS (feat. Masked Wolf)",
+      "url": "https://open.spotify.com/track/10gKUrPM1XAvLeMtVdmn8w"
     },
     {
       "album": {

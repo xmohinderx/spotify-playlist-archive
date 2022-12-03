@@ -4,7 +4,7 @@
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
 
-230 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
+231 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Um Sonhador / Não Precisa / Não Aprendi A Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/42cdiwjkfYVjI8JtAQwsG5) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/6Ih58tG6tjs31HTfEUVwUL) | 4:36 | 2022-07-22 | 2022-08-05 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-09-26 |  |
 | [Vem Morena \(feat\. Alysson CDs Oficial\)](https://open.spotify.com/track/1Q9xOilXLlcZ8gW9wYgkm8) | [djmelk](https://open.spotify.com/artist/3hp4EfFlR1u6HSdJZ2A8kg), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7), [Alysson CDs Oficial](https://open.spotify.com/artist/3NHgJNqmQWb39JL78pZSoI) | [Vem Morena](https://open.spotify.com/album/4HPfp7LJKsPZMxcAFUG8Ba) | 1:46 | 2022-10-06 |  |
+| [Vida Chique](https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Nick Nash](https://open.spotify.com/artist/7lV9UKOAid7KrNxHazg8Sg), [Wylo](https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 3:30 | 2022-12-02 |  |
 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 | 2022-05-25 | 2022-11-08 |
 | [Vilã](https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Conteúdo Explícito, Pt\. 1](https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3) | 3:18 | 2022-11-07 |  |
 | [Virando o Olhinho](https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Virando o Olhinho](https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN) | 2:22 | 2022-07-20 | 2022-11-29 |

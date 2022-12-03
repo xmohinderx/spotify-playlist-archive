@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 13588,
+  "num_followers": 13601,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcyNTA2NiwwMDAwMDAwMDA3N2UwMDFhMjYzN2U3NmQzZWFkMzEwMTQ5MDQxZWY4",
+  "snapshot_id": "MTY2OTcyNTA2NiwwMDAwMDAwMGJlOWJiNWFkODBlYTE2MTQ0ZWRmMjlmZDBhOGVhMjk3",
   "tracks": [
     {
       "added_at": "2022-11-02 21:44:11",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr"
     },
     {
-      "added_at": "2022-12-02 01:24:36",
+      "added_at": "2022-12-03 01:19:16",
       "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav"
       },
       "artists": [
         {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
         }
       ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/6vq3WZt52G9yqT6JwDEJWY"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav"
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
       },
       "artists": [
         {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
         }
       ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/6vq3WZt52G9yqT6JwDEJWY"
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2022-11-02 21:44:11",

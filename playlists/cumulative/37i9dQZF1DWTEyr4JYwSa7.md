@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-313 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+314 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 | 2021-12-17 |  |
 | [Le Père Noël c't'un québécois](https://open.spotify.com/track/1SeDUdcJMK6nurS4gA7n06) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Le Père Noël c't'un québécois](https://open.spotify.com/album/4ruPhatqirrYVEi69uIwxr) | 2:32 | 2021-12-17 | 2022-07-29 |
 | [Le Père Noël c't'un québécois](https://open.spotify.com/track/50UiWq1BJChAKQ0nhXl88O) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Le Père Noël c't'un québécois](https://open.spotify.com/album/6EzADwk0qEoRKPxoMWGIvk) | 2:32 | 2021-12-17 | 2022-11-13 |
-| [Le sentier de neige](https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV) | 2:42 | 2021-12-17 |  |
+| [Le sentier de neige](https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV) | 2:42 | 2021-12-17 | 2022-12-03 |
 | [Le sentier de neige](https://open.spotify.com/track/2Nlz01n71uROXKWJy85gHF) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/33XuBkHCKQXVgBhvUR960L) | 2:42 | 2021-12-17 | 2022-07-27 |
 | [Le sentier de neige](https://open.spotify.com/track/5y1U1ZcRR2P9xPSIeYLTaI) | [Les Classels](https://open.spotify.com/artist/4AoIv0whQbnXND8lj08eVs) | [Les 16 plus grands succès](https://open.spotify.com/album/6BkrWmXC9uhHG3qxXrQ9Nc) | 2:17 | 2021-12-17 |  |
 | [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 | 2021-12-17 | 2022-11-12 |
@@ -220,6 +220,7 @@
 | [Noël est arrivé](https://open.spotify.com/track/5YUJQ7oqZXOnh4GnzgqCkZ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Noël est arrivé \- Single](https://open.spotify.com/album/7etmMuXqoH2RYdWoqzoOIZ) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 | 2021-12-17 |  |
 | [Noël monochrome](https://open.spotify.com/track/2mG9XCqZbWFdNSYheJrnaJ) | [Debbie Tebbs](https://open.spotify.com/artist/082UvHiRwlJHp3vNrCMqen), [Sam Faye](https://open.spotify.com/artist/0tkpiNBKH5HmzcivvjsPH0), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Noël monochrome](https://open.spotify.com/album/6KFvJzGQSj6X38IICGUts2) | 3:33 | 2021-12-17 | 2022-07-23 |
+| [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 | 2022-12-02 |  |
 | [Noël New York](https://open.spotify.com/track/1MAFXESfROAHuxUWdpDIFT) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Noël New York](https://open.spotify.com/album/1mqTOcDist9hJ5llLFD2wa) | 3:02 | 2021-12-17 | 2022-07-24 |
 | [Noël Noël des frères lemay](https://open.spotify.com/track/0Nl7H6t83Tx57rlVchQI3o) | [Les Frères Lemay](https://open.spotify.com/artist/5fjBetcHajIgEvRX8uwMRk) | [Noël Noël des frères lemay](https://open.spotify.com/album/59YqHJt0iWF2EyzFMewtFy) | 1:57 | 2021-12-17 | 2022-07-28 |
 | [Noël s'invite chez moi](https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T) | [Marjolaine Morasse](https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW) | [Noël s'invite chez moi](https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A) | 3:15 | 2021-12-17 | 2022-07-28 |

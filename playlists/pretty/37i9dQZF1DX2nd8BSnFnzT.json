@@ -1,31 +1,51 @@
 {
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Supercombo",
-  "num_followers": 350999,
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Pitty, Nando Reis",
+  "num_followers": 351018,
   "original_name": "P\u00e1tria Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5MjgyNiwwMDAwMDAwMGZlMTgwZWIyMDBhNDc2MDAxZGJiN2U1Njg3YjQwNzcy",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMGZhNzY1YTZjZGNhZGExZWRjZDNkOTRmM2RjMWM0ZGM4",
   "tracks": [
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Aos Poucos",
-        "url": "https://open.spotify.com/album/3T0Wa2f0JfwZHR1vdFGTEI"
+        "name": "PITTYNANDO \u2013 As Suas, As Minhas e As Nossas",
+        "url": "https://open.spotify.com/album/32twh3w8ohRnmxqlsxbxDq"
       },
       "artists": [
         {
-          "name": "Supercombo",
-          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 217237,
-      "name": "Aos Poucos",
-      "url": "https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie"
+      "duration_ms": 223773,
+      "name": "PITTYNANDO",
+      "url": "https://open.spotify.com/track/0W8wc6tclS3TGMS9pQ5dp7"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Conflitos",
+        "url": "https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "duration_ms": 184793,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Conflitos",
         "url": "https://open.spotify.com/album/3swynHE8l786dCRToj5OwS"
@@ -45,59 +65,7 @@
       "url": "https://open.spotify.com/track/0W1i5vb0qmCgUwd3RPH6VX"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "A Mesma Coisa",
-        "url": "https://open.spotify.com/album/6RaKLp5NgcVnqAyGr58iAW"
-      },
-      "artists": [
-        {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "A Mesma Coisa",
-      "url": "https://open.spotify.com/track/6Fg4d58rbY4br0kACB2yWY"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "Capital Inicial 4.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        },
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        }
-      ],
-      "duration_ms": 370737,
-      "name": "Musica Urbana",
-      "url": "https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "Supercombo Ao Vivo no Studio F",
-        "url": "https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp"
-      },
-      "artists": [
-        {
-          "name": "Supercombo",
-          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
-        }
-      ],
-      "duration_ms": 191847,
-      "name": "Piloto Autom\u00e1tico - Ao Vivo no Studio F",
-      "url": "https://open.spotify.com/track/2jaF9qxuI3hqvfH3xKlQcu"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Muito Al\u00e9m",
         "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
@@ -117,7 +85,155 @@
       "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "A Mesma Coisa",
+        "url": "https://open.spotify.com/album/6RaKLp5NgcVnqAyGr58iAW"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "A Mesma Coisa",
+      "url": "https://open.spotify.com/track/6Fg4d58rbY4br0kACB2yWY"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "O Que Estou Fazendo Agora",
+        "url": "https://open.spotify.com/album/26OiVBi7902CsYgfmfZfXe"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        }
+      ],
+      "duration_ms": 201352,
+      "name": "O Que Estou Fazendo Agora",
+      "url": "https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Aos Poucos",
+        "url": "https://open.spotify.com/album/3T0Wa2f0JfwZHR1vdFGTEI"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        }
+      ],
+      "duration_ms": 217237,
+      "name": "Aos Poucos",
+      "url": "https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Tudo O Que Eu Sempre Quis",
+        "url": "https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "Tudo O Que Eu Sempre Quis",
+      "url": "https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Ao Vivo Na Fundi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s"
+      },
+      "artists": [
+        {
+          "name": "Forfun",
+          "url": "https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hist\u00f3ria de Ver\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Bt9doFN2PjDIeKjYUHdHt"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Capital Inicial 4.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "duration_ms": 370737,
+      "name": "Musica Urbana",
+      "url": "https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Supercombo Ao Vivo no Studio F",
+        "url": "https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        }
+      ],
+      "duration_ms": 191847,
+      "name": "Piloto Autom\u00e1tico - Ao Vivo no Studio F",
+      "url": "https://open.spotify.com/track/2jaF9qxuI3hqvfH3xKlQcu"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Perfei\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3c1IScAFMFyk408EFVfPqF"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz"
+        }
+      ],
+      "duration_ms": 255930,
+      "name": "Perfei\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "\u00d3rf\u00e3os Bastardos",
+        "url": "https://open.spotify.com/album/5F2J20m1i5S4sAUq21Ms5J"
+      },
+      "artists": [
+        {
+          "name": "Surr",
+          "url": "https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ"
+        }
+      ],
+      "duration_ms": 157055,
+      "name": "\u00d3rf\u00e3os Bastardos",
+      "url": "https://open.spotify.com/track/5j6CanT7G1iq45F9kqnBhz"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Bar\u00e3o 40 (Cl\u00e1ssicos)",
         "url": "https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la"
@@ -137,23 +253,23 @@
       "url": "https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Conflitos",
-        "url": "https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7"
+        "name": "O Ano da Volta",
+        "url": "https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+          "name": "Sound Bullet",
+          "url": "https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz"
         }
       ],
-      "duration_ms": 184793,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh"
+      "duration_ms": 283940,
+      "name": "O Ano da Volta",
+      "url": "https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Billy Dog",
         "url": "https://open.spotify.com/album/5lYmZUIPKwHfnrsZ9UduIb"
@@ -169,23 +285,7 @@
       "url": "https://open.spotify.com/track/0igu5G376i4B2QQUSaxmjZ"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "O Que Estou Fazendo Agora",
-        "url": "https://open.spotify.com/album/26OiVBi7902CsYgfmfZfXe"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        }
-      ],
-      "duration_ms": 201352,
-      "name": "O Que Estou Fazendo Agora",
-      "url": "https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "O Amor Machuca Demais",
         "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
@@ -201,23 +301,7 @@
       "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "Tudo O Que Eu Sempre Quis",
-        "url": "https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd"
-      },
-      "artists": [
-        {
-          "name": "Cali",
-          "url": "https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "Tudo O Que Eu Sempre Quis",
-      "url": "https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "ROOSTER",
         "url": "https://open.spotify.com/album/5G7RZtH50aoKXWrzx8TvPL"
@@ -241,7 +325,7 @@
       "url": "https://open.spotify.com/track/7ijmX7o4MB06LDVVcuohlI"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Partido",
         "url": "https://open.spotify.com/album/5BeuqWG61r5jImQSa34KdA"
@@ -265,23 +349,7 @@
       "url": "https://open.spotify.com/track/3PJLp4egjTYexNyFbG5doI"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "Ao Vivo Na Fundi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s"
-      },
-      "artists": [
-        {
-          "name": "Forfun",
-          "url": "https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hist\u00f3ria de Ver\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Bt9doFN2PjDIeKjYUHdHt"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "T\u00c1 TODO MUNDO MAL",
         "url": "https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR"
@@ -297,7 +365,7 @@
       "url": "https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Velejar",
         "url": "https://open.spotify.com/album/7FqaxQGN5HmrZCk9auyK6e"
@@ -313,7 +381,7 @@
       "url": "https://open.spotify.com/track/1kCLQCj7BBTWkUFMoo05kL"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Zander no Est\u00fadio Showlivre - Brasa 10 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/46SELteZDVec8Mi1227PBm"
@@ -329,55 +397,7 @@
       "url": "https://open.spotify.com/track/0r0kIpCJheafVzsKvVCEDo"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "O Ano da Volta",
-        "url": "https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De"
-      },
-      "artists": [
-        {
-          "name": "Sound Bullet",
-          "url": "https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz"
-        }
-      ],
-      "duration_ms": 283940,
-      "name": "O Ano da Volta",
-      "url": "https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "Perfei\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3c1IScAFMFyk408EFVfPqF"
-      },
-      "artists": [
-        {
-          "name": "Cali",
-          "url": "https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz"
-        }
-      ],
-      "duration_ms": 255930,
-      "name": "Perfei\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "\u00d3rf\u00e3os Bastardos",
-        "url": "https://open.spotify.com/album/5F2J20m1i5S4sAUq21Ms5J"
-      },
-      "artists": [
-        {
-          "name": "Surr",
-          "url": "https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ"
-        }
-      ],
-      "duration_ms": 157055,
-      "name": "\u00d3rf\u00e3os Bastardos",
-      "url": "https://open.spotify.com/track/5j6CanT7G1iq45F9kqnBhz"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Tudo Destru\u00eddo",
         "url": "https://open.spotify.com/album/4m8NyqdTP1zcSEKHZiHzVp"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/1EJ7ENX4o7pKn6w6R6HGxB"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Bate Panela",
         "url": "https://open.spotify.com/album/69Nz7QQzQDs1crUYiXMsAs"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Porta-Malas",
         "url": "https://open.spotify.com/album/4ZncdiiEK9GwarUR9ZeiAD"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "30 + 1, Pt.3",
         "url": "https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Essa Pele Marcada 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7ifnWoZvptdA7UhwHr3lcu"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/2L34UvNfywi6Mqhr7RdwFw"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Inabal\u00e1vel",
         "url": "https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Berrini",
         "url": "https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Ilus\u00e3o a dois",
         "url": "https://open.spotify.com/album/35QIzRXMEORJyeR4q6vQIY"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/77NJ6i8EDmYfGUChbDcGIz"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Vai Saber",
         "url": "https://open.spotify.com/album/42ObjQ6VVIqs1NFSQ8vVeo"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/3saLejtlN4SwXdMsgraD81"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Dia Cinza",
         "url": "https://open.spotify.com/album/0E1MTsRWUY6vTlhsgUVBCw"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/5daa8ek6ouZ7d8nABW6xcT"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Roda-Gigante",
         "url": "https://open.spotify.com/album/6ogZiN0RomEbtPyzdqKCHG"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/7sf5EbnQmdnquPK4QHgWBB"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Ao Vivo no Est\u00fadio",
         "url": "https://open.spotify.com/album/3BRJUhDcvOtQgpmiuDOVDQ"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/5jzAFg9kFigSq8afOJlNFE"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Paulo Netto Canta Belchior",
         "url": "https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "DISTOPIA",
         "url": "https://open.spotify.com/album/2lHk8KznqoZDeTNagjkSir"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/3D2eAZQWkf51qGGqgnPidY"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/6wSBQZzSSqeuvI66MNadGA"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/4MpaxLR4xcllymYh4isHoq"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/2z33uZxRMmV0vve8z8PCQJ"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/13ytqWx0ClTspSuIWsMTYd"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Insista",
         "url": "https://open.spotify.com/album/5jU9NOnTqzMd5JDfiOq6Ad"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/0980mKBfxJvhtSMY53IgRy"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Primeiros Erros",
         "url": "https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Bar\u00e3o 40 (Sucessos)",
         "url": "https://open.spotify.com/album/1hY5slKrrcJ3WsQ6IF3rCm"
@@ -705,7 +725,7 @@
       "url": "https://open.spotify.com/track/2eS2ehUejP0cvXId8hRPNN"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "White Rabbit",
         "url": "https://open.spotify.com/album/6CGbvVdgtohBklk6hpUOjr"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Eu Faria Tudo Outra Vez",
         "url": "https://open.spotify.com/album/1DE06AGFxzs8XlvvgFRX4c"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/1qdKNLMA0gXKLlwnxYLia9"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Aponte para o Amor",
         "url": "https://open.spotify.com/album/6L57HZXTfINznVAuKzC9DQ"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/6Q9qlZBRJlBEEaZkbDwsDa"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/1ZThEIe5A4k89IX6zZXrzu"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/5bZtXjf3bO9OYt79JkV8oR"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Me Abra\u00e7a",
         "url": "https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Esse Cara N\u00e3o Sou Eu",
         "url": "https://open.spotify.com/album/1lr1Ghu1rcRS1CbcKESLqm"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/7In1OiMVJnQM99n4hGhbkN"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "O Futuro Pertence \u00c0...Jovem Guarda",
         "url": "https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Cicatrizes",
         "url": "https://open.spotify.com/album/1KuS8PL0K7I22EXIvOw29n"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/24I2J5wbWmy25ftfgsOLGh"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Anestesiado",
         "url": "https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Simples Como Tem Que Ser",
         "url": "https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "S\u00f3 Chamar",
         "url": "https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96"
@@ -881,23 +901,7 @@
       "url": "https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
-      "album": {
-        "name": "Madri",
-        "url": "https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80"
-      },
-      "artists": [
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 178798,
-      "name": "Madri",
-      "url": "https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3"
-    },
-    {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Para Todos os Garotos Que Eu J\u00e1 Matei",
         "url": "https://open.spotify.com/album/0Q8jEA0Z3dJDJDIBbibA2Q"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/6lgVeRqNEqBRsdQr8MKW7P"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Surreal Virou Normal",
         "url": "https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58"
@@ -937,7 +941,7 @@
       "url": "https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Navegador",
         "url": "https://open.spotify.com/album/7q4llfL8SITrKE6vTzO463"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/4wFWxZHE1vosfLgLeACN1D"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "3x4",
         "url": "https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW"
@@ -969,7 +973,7 @@
       "url": "https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "F\u00e1bula de uma Granada",
         "url": "https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK"
@@ -985,7 +989,7 @@
       "url": "https://open.spotify.com/track/4OdsxenDbioHIBtVH0jNow"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Dias da Juventude",
         "url": "https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC"
@@ -1001,7 +1005,7 @@
       "url": "https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Autointitulado",
         "url": "https://open.spotify.com/album/11vCaFZctm7B0iZZHWF1gq"
@@ -1017,7 +1021,7 @@
       "url": "https://open.spotify.com/track/6hK9ZwfGFXChenmoRMA3QO"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/4slCnOvaFhfeo0Qy3AZEMt"
@@ -1033,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1tn7xftRY7vRGqElMEJaE0"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Quando o Encontro \u00c9 Mais",
         "url": "https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq"
@@ -1053,7 +1057,7 @@
       "url": "https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Loko Loko",
         "url": "https://open.spotify.com/album/6EspF4BzCcTvYeSJvgJFjY"
@@ -1069,7 +1073,7 @@
       "url": "https://open.spotify.com/track/0RfgvHqnKmK24eGTc94pWy"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Bucket List",
         "url": "https://open.spotify.com/album/0n1EoMUN7d1ZrNvAjQIvH0"
@@ -1085,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3PK0Lww2PbK9K808Pd3vJx"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "T\u00f3xico",
         "url": "https://open.spotify.com/album/2IhnZaDLX9MB5XTxwpVblS"
@@ -1105,7 +1109,7 @@
       "url": "https://open.spotify.com/track/3HhI8XjrNpiwW9aYjtqLjO"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "(De)Compondo",
         "url": "https://open.spotify.com/album/3Q4UvfGokdFcKVxtRA24xn"
@@ -1121,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4XoZgHircnTj5lssYHZuCH"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Permita-Se",
         "url": "https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2"
@@ -1141,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Dia 14, Pt. 2",
         "url": "https://open.spotify.com/album/597wL7HG0FMUntbLLM9ZGp"
@@ -1157,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6PYmytp7n49OwoC6T2gsuj"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "A Lanterna",
         "url": "https://open.spotify.com/album/2wv7RXiKwdUu4si362Dj3P"
@@ -1173,7 +1177,7 @@
       "url": "https://open.spotify.com/track/61xLUyCTm7FVbzQUO7ihg6"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 Existir",
         "url": "https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn"
@@ -1189,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2yqqf8Xa2oEPnRemRS5jsD"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Me Reencontrar",
         "url": "https://open.spotify.com/album/5nWYamBHJfYJ0BXXBKhszD"
@@ -1205,7 +1209,7 @@
       "url": "https://open.spotify.com/track/3wh1nOURrx9LhDZMTk1xiA"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM"
@@ -1225,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Maquina de Moer Fantasmas",
         "url": "https://open.spotify.com/album/3wEOHIUp6qIZP5hC3N9jyj"
@@ -1241,7 +1245,7 @@
       "url": "https://open.spotify.com/track/4Z8rC1M3Nlx0vBU9APoXCl"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Deixar Viver",
         "url": "https://open.spotify.com/album/38lIRym65wLQtPHIN5Z9lO"
@@ -1261,7 +1265,7 @@
       "url": "https://open.spotify.com/track/62mO6x70dol2LOiTGR8GvK"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Kind",
         "url": "https://open.spotify.com/album/3EmC0PchFOT5eRyXIvy8N2"
@@ -1277,7 +1281,7 @@
       "url": "https://open.spotify.com/track/5knlppPUmTNFVkTul5EjnI"
     },
     {
-      "added_at": "2022-11-25 16:13:46",
+      "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Abuso de Poder",
         "url": "https://open.spotify.com/album/2OaWVGoV0DUMOcvPLVy8V6"

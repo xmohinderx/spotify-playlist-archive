@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠
 
-233 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
+234 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/4xt4qCzuE9mxZU2JZ6d8qW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Keep Me Around](https://open.spotify.com/track/7kQ5eCSvLropJUPuEYaUbX) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Keep Me Around](https://open.spotify.com/album/3MPbBDFqY66cvdC68ddmpx) | 2:22 | 2022-04-15 | 2022-07-29 |
 | [L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 | 2019-06-19\* | 2021-02-11 |
 | [LANSDOWNE](https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/3EFR2ie3oqo42zrUoAgR3R) | 2:33 | 2021-05-11 | 2022-10-15 |
+| [LANSDOWNE](https://open.spotify.com/track/6Dv76051LlfL1LvMpcPLKw) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/2phfndUK6vGdlNO7I3GxrH) | 2:33 | 2022-12-02 |  |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2019-06-19\* |  |
 | [Let's Get Lost \(feat\. Devon Baldwin\)](https://open.spotify.com/track/5DSr1NMci58MEgS20vivSL) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Devon Baldwin](https://open.spotify.com/artist/5JYReWgOGu4JKm5pqmACqG) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 4:00 | 2019-05-26\* | 2020-05-01 |
 | [Let's Go](https://open.spotify.com/track/4VA0v1bv45og1IVCGr9gxl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Let's Go](https://open.spotify.com/album/39sITSzMPwk6cL47lsAnUe) | 3:24 | 2019-05-26\* | 2019-06-19 |
@@ -233,7 +234,7 @@
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-15 | 2022-07-29 |
 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 | 2022-10-05 |  |
 | [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2019-06-19\* |  |
-| [Wish You Were Here](https://open.spotify.com/track/6NFfdk3mverX1Uxwu9AMVJ) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Wish You Were Here](https://open.spotify.com/album/5dGg5xBwmtNksRRfic2r9y) | 3:09 | 2022-11-25 |  |
+| [Wish You Were Here](https://open.spotify.com/track/6NFfdk3mverX1Uxwu9AMVJ) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Wish You Were Here](https://open.spotify.com/album/5dGg5xBwmtNksRRfic2r9y) | 3:09 | 2022-11-25 | 2022-12-03 |
 | [With Me](https://open.spotify.com/track/6AIte2Iej1QKlaofpjCzW1) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 6:59 | 2019-05-26\* | 2019-06-19 |
 | [With You](https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:15 | 2019-05-26\* | 2019-06-19 |
 | [Wylin'](https://open.spotify.com/track/0C0nNm2RDKbANnU4lLfkSc) | [Always Never](https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf) | [Call Me Over](https://open.spotify.com/album/1jBOlb1HB2TSCDskqGHuvW) | 4:29 | 2019-06-19\* | 2022-07-29 |

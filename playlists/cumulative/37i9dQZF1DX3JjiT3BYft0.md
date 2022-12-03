@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-319 songs - 23 hr 16 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
+321 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [す、好きなんかじゃない!](https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 3:56 | 2022-09-20 |  |
 | [せかいのっびのびトレジャー!](https://open.spotify.com/track/1AdZsqtHt4XGHy2TLomUtC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:30 | 2022-06-23 | 2022-07-29 |
 | [ときめきエクスペリエンス!](https://open.spotify.com/track/52sMyIxbz7FuCnaQyCacIk) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」OP主題歌「ときめきエクスペリエンス!」](https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh) | 4:17 | 2022-05-17 | 2022-07-28 |
-| [ときめきエクスペリエンス!](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 | 2022-10-25 |  |
+| [ときめきエクスペリエンス!](https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 4:17 | 2022-10-25 | 2022-12-03 |
 | [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 | 2022-09-20 | 2022-12-01 |
 | [どきどきSING OUT!](https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 4:09 | 2022-05-17 | 2022-07-28 |
 | [ないすみちゅっ!](https://open.spotify.com/track/2KBY80dH79sb17t4qNrbeJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:17 | 2022-06-23 | 2022-07-25 |
@@ -231,6 +231,7 @@
 | [ふわふわ☆ゆめいろサンドイッチ](https://open.spotify.com/track/54Gc8r0xsFazaZh5fXDmx9) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ハイファイブ∞あどべんちゃっ](https://open.spotify.com/album/2XhqMTZVFxbqrQAJzc7RsF) | 4:52 | 2022-06-23 | 2022-07-24 |
 | [ふわふわ時間](https://open.spotify.com/track/3inIDEYK6C287bLZFRqjv1) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:05 | 2022-05-17 | 2022-07-29 |
 | [ぽっぴん'しゃっふる](https://open.spotify.com/track/4oWEDswsb31s9ARNOu3Jhi) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「Yes! BanG\_Dream!」](https://open.spotify.com/album/3QZAIjdUw6CI8IEGJ2dADM) | 4:39 | 2022-05-17 | 2022-10-04 |
+| [もういちど ルミナス](https://open.spotify.com/track/0kT66ZNn1rX0Qk9y9kw7Mv) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 4:20 | 2022-10-25 |  |
 | [もういちど ルミナス](https://open.spotify.com/track/7eozLSbXAKoEFHHvt4yapB) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [もういちど ルミナス](https://open.spotify.com/album/4lS8Ob0Kt2Zui7LlcnRfPi) | 4:20 | 2022-05-17 | 2022-07-17 |
 | [ゆめゆめグラデーション](https://open.spotify.com/track/4UsN8CVre3rdUaBEAkGxbf) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ゆめゆめグラデーション](https://open.spotify.com/album/4PYxuwefUqpr0T7xOq3X1m) | 4:44 | 2022-05-17 | 2022-07-29 |
 | [ゆら・ゆらRing\-Dong\-Dance](https://open.spotify.com/track/3eBl6ACALzTtsUIcl4elXR) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ゆら・ゆらRing\-Dong\-Dance](https://open.spotify.com/album/2CMJuOn6GItE54kevgXuiO) | 4:22 | 2022-05-17 | 2022-07-26 |
@@ -239,6 +240,7 @@
 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/27Ze4gl303ysO24LUUZdrq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/4fP150ebRoP4PvCIy8rSeH) | 3:52 | 2022-09-20 |  |
 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T) | 3:53 | 2022-05-17 | 2022-07-25 |
 | [イニシャル](https://open.spotify.com/track/28K904SKzdLam6ZI7fF45u) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イニシャル/夢を撃ち抜く瞬間に! \(Special Edition\)](https://open.spotify.com/album/5Ou7gzfqsGIwhii2xYHYS3) | 4:54 | 2022-05-17 | 2022-07-24 |
+| [イニシャル](https://open.spotify.com/track/0XkiNxWiq0F01MoGRGHuK6) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 4:55 | 2022-10-25 |  |
 | [イントロダクション](https://open.spotify.com/track/2iFeWuRDUTkFGfdup9kRIa) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イントロダクション](https://open.spotify.com/album/5m3V4KZEU8sN7W3CCJbBU1) | 3:41 | 2022-09-20 |  |
 | [イントロダクション](https://open.spotify.com/track/5oRBPD9I5A8F7UwXZddsVf) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イントロダクション](https://open.spotify.com/album/3ZgLkg9RJVLh1Xk7vPgmlw) | 3:41 | 2022-05-17 | 2022-07-29 |
 | [カナユメ](https://open.spotify.com/track/5n63vjAwKJy4GN9B6vu4cd) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/3BwWZNxUTv3qJXKkrygSC3) | 5:07 | 2022-06-23 | 2022-07-29 |
@@ -256,7 +258,7 @@
 | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/track/6Mfr5EHIrMhZefeWuOPuiO) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:38 | 2022-05-17 | 2022-07-20 |
 | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/track/0Kl7SUawr32uH1Dt4LK4zM) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 3:39 | 2022-09-20 |  |
 | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/track/1ax9Yfwu3CUngxoKWHlGUw) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF) | 3:40 | 2022-06-23 | 2022-10-02 |
-| [ゼッタイ宣言\~Recital\~](https://open.spotify.com/track/6R4xCec3924oT1bZBOmVwu) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ\~まい\*flower](https://open.spotify.com/album/4jC57dEsjYWNPsY3XnKbV4) | 4:02 | 2022-09-20 |  |
+| [ゼッタイ宣言\~Recital\~](https://open.spotify.com/track/6R4xCec3924oT1bZBOmVwu) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ\~まい\*flower](https://open.spotify.com/album/4jC57dEsjYWNPsY3XnKbV4) | 4:02 | 2022-09-20 | 2022-12-03 |
 | [ゼッタイ宣言〜Recital〜](https://open.spotify.com/track/2b5IFysNrjuW6u7VNdy9gG) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 4:01 | 2022-05-17 | 2022-07-11 |
 | [チョコレイトの低音レシピ](https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低温レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 4:26 | 2022-05-17 | 2022-07-29 |
 | [チョコレイトの低音レシピ](https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 4:31 | 2022-09-20 |  |

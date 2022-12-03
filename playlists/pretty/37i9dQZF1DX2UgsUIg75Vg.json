@@ -1,13 +1,77 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Masego",
-  "num_followers": 2286764,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Nakkia Gold",
+  "num_followers": 2287090,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDk3NTYxZjllYzM1NTQ4MmQxZTA5ZmEwM2U0OTE1ZWNj",
+  "snapshot_id": "MTY2OTk3NTYxOCwwMDAwMDAwMDQ0MWIzYWVkYTA4MGRiMjYxN2M5YmM3NzQ5YjZiNGIy",
   "tracks": [
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "What Had Happened Was\u2026",
+        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 159218,
+      "name": "Can\u2019t Hold You Down",
+      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Closer (Deluxe)",
+        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 234144,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/0z2WCYayeU6t4gYMnaHcVZ"
+      },
+      "artists": [
+        {
+          "name": "Nakkia Gold",
+          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/6yAnK8YECaJVnFRydwcG5s"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -67,38 +131,6 @@
       "duration_ms": 196494,
       "name": "Say You Want Me",
       "url": "https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "What Had Happened Was\u2026",
-        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Can\u2019t Hold You Down",
-      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Closer (Deluxe)",
-        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 234144,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
       "added_at": "2022-07-22 04:02:14",
@@ -223,38 +255,6 @@
       "duration_ms": 205601,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/0z2WCYayeU6t4gYMnaHcVZ"
-      },
-      "artists": [
-        {
-          "name": "Nakkia Gold",
-          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/6yAnK8YECaJVnFRydwcG5s"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "flora + fana (deluxe)",
-        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 217055,
-      "name": "float",
-      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "listen up (Acoustic)",
+        "url": "https://open.spotify.com/album/2an2MM8ksKgccqglzmmVVs"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 125782,
+      "name": "listen up - Acoustic",
+      "url": "https://open.spotify.com/track/0BWW2pFvM7tLmRGdDSvz6p"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "The Seed",
@@ -497,6 +513,22 @@
       "url": "https://open.spotify.com/track/0moOYkWq8za1xk0abOjReo"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "P.B.J.",
@@ -511,6 +543,26 @@
       "duration_ms": 248928,
       "name": "P.B.J.",
       "url": "https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Beh Beh",
+        "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Beh Beh",
+      "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -697,6 +749,22 @@
       "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "OVMBR: Maybe I\u2019m Best Alone",
+        "url": "https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Index",
+      "url": "https://open.spotify.com/track/7eq5eMVUs1lJGqPNfbnGBg"
+    },
+    {
       "added_at": "2022-09-30 17:00:17",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -765,6 +833,22 @@
       "url": "https://open.spotify.com/track/6bv2d3OlKcRS9T4StknEEX"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "guessnobodyknows",
+        "url": "https://open.spotify.com/album/4OlaEgHGLXjCKTWMVdtvbA"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "warmer on a wednesday",
+      "url": "https://open.spotify.com/track/0QSjznhRo9urUmGuJ8SAAN"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "ALL OF YOU / BEST I GO",
@@ -779,6 +863,22 @@
       "duration_ms": 312005,
       "name": "ALL OF YOU / BEST I GO",
       "url": "https://open.spotify.com/track/4A19HDJFwEUC5kKXGR7HmA"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Call the Bluff",
+        "url": "https://open.spotify.com/album/0bF7alIKHRjRFun26Bs8uv"
+      },
+      "artists": [
+        {
+          "name": "Hush Forte",
+          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
+        }
+      ],
+      "duration_ms": 179249,
+      "name": "Call the Bluff",
+      "url": "https://open.spotify.com/track/0XIF2sz3gXy3sGN3SZFW1n"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -883,26 +983,6 @@
       "duration_ms": 158365,
       "name": "Time In Our Lives",
       "url": "https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Black Radio III (Supreme Edition)",
-        "url": "https://open.spotify.com/album/0koSNz785od22spE0DlKO7"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 144543,
-      "name": "Hi [Feat. India.Arie]",
-      "url": "https://open.spotify.com/track/2ISm6JJf3BUaYYH54Z2UR7"
     },
     {
       "added_at": "2022-05-19 23:49:06",
@@ -1185,22 +1265,6 @@
       "url": "https://open.spotify.com/track/7BXiYR26xUYRrZ4D9SSU4F"
     },
     {
-      "added_at": "2022-09-30 17:00:17",
-      "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
-      },
-      "artists": [
-        {
-          "name": "Natanya Popoola",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Figures",
@@ -1293,22 +1357,6 @@
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
-      "added_at": "2022-09-09 04:06:20",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "What A Difference She Made",
@@ -1339,30 +1387,6 @@
       "duration_ms": 167813,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/3d6H4ynqGzeqrB6FABHaIf"
-      },
-      "artists": [
-        {
-          "name": "DREAMPOOL",
-          "url": "https://open.spotify.com/artist/1ner6qUxcQA3x3mdqLGhwQ"
-        },
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        },
-        {
-          "name": "Leon King",
-          "url": "https://open.spotify.com/artist/5F0WhfIf9hNizpdTTV8Y0o"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/5hYaxGftxpX2ViqdQWgtN2"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1797,22 +1821,6 @@
       "url": "https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp"
     },
     {
-      "added_at": "2022-08-26 04:04:31",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Future Lover",
-      "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
-    },
-    {
       "added_at": "2022-07-22 14:11:02",
       "album": {
         "name": "b l u r r",
@@ -1917,26 +1925,6 @@
       "url": "https://open.spotify.com/track/03w1xyyv1DBtkhpzrNHFMQ"
     },
     {
-      "added_at": "2022-08-21 06:08:45",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6CtzbK9WpdoBIMd4E9X49M"
-      },
-      "artists": [
-        {
-          "name": "Ballad",
-          "url": "https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx"
-        },
-        {
-          "name": "Tim Hall",
-          "url": "https://open.spotify.com/artist/6oXJ7P410Y0HA5seK7DclJ"
-        }
-      ],
-      "duration_ms": 196428,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/67QdCgQHAnBKCrs5mmbqcr"
-    },
-    {
       "added_at": "2022-09-30 17:00:17",
       "album": {
         "name": "Maybe",
@@ -2033,22 +2021,6 @@
       "url": "https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr"
     },
     {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 185410,
-      "name": "ISLY",
-      "url": "https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL"
-    },
-    {
       "added_at": "2022-07-15 04:03:55",
       "album": {
         "name": "Songs That I Hate to Sing",
@@ -2107,22 +2079,6 @@
     {
       "added_at": "2022-07-08 20:50:37",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 219241,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/4mgSk2zxeT03FLtSlnzxwt"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
         "name": "You Two",
         "url": "https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f"
       },
@@ -2171,54 +2127,6 @@
     {
       "added_at": "2022-07-08 20:50:37",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "BMHWDY",
-      "url": "https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/0T9mWwi0HmEUJ9QovxXlid"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
-        "name": "Never Say",
-        "url": "https://open.spotify.com/album/1ekofqc5vqvoyA2zWVp1Is"
-      },
-      "artists": [
-        {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Never Say",
-      "url": "https://open.spotify.com/track/0MQUjsUL8dHWd0LcjwQrfF"
-    },
-    {
-      "added_at": "2022-07-08 20:50:37",
-      "album": {
         "name": "Monologues",
         "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
       },
@@ -2231,6 +2139,22 @@
       "duration_ms": 225933,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fbiUB75zbrp6EY44IalDK"
+    },
+    {
+      "added_at": "2022-07-08 20:50:37",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "BMHWDY",
+      "url": "https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l"
     }
   ],
   "unique_name": "Chilled R&B",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical. Legit. This Pride vision of Folk, Americana, and Singer-Songwriter music features LGBTQQIA+ acts and allies. Cover: Angel Olsen",
+  "description": "Lyrical. Legit. This Pride vision of Folk, Americana, and Singer-Songwriter music features LGBTQQIA+ acts and allies. Cover: Adeem the Artist",
   "name": "Queer As Folk",
   "published_playlist_ids": [
     "1nsDgfpPkRNK6I7NchiJ6w"
@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "White Trash Revelry",
+        "url": "https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP"
+      },
+      "artists": [
+        {
+          "name": "Adeem the Artist",
+          "url": "https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/5Q7BgJ0EhqFWdqlMtgDUgM"
+    },
+    {
+      "album": {
         "name": "The Theory of Absolutely Nothing",
         "url": "https://open.spotify.com/album/2BbNHSDWsTMWIYPCA15Ria"
       },
@@ -585,6 +603,24 @@
       "duration_ms": 240019,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/51vtQDs3PPnWwB7hDOwpHs"
+    },
+    {
+      "album": {
+        "name": "Crop Circles",
+        "url": "https://open.spotify.com/album/6o8QongKZ7ZPCgy6EYghhC"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226490,
+      "name": "Crop Circles",
+      "url": "https://open.spotify.com/track/2VOrYcyK0rqa9gZ0gUL0fI"
     },
     {
       "album": {

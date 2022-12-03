@@ -4,7 +4,7 @@
 
 > Wanneer je die track in La Vida Loca verwacht! POV met Smitmeister, La June, SK & Bokoesam
 
-304 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+305 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Miss U](https://open.spotify.com/track/0i0s0NHxwwiDpW3qB7sVmn) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Miss U](https://open.spotify.com/album/10E2ZYMAAJ24JFgZRxIXRK) | 2:26 | 2022-07-21 | 2022-09-16 |
 | [Misschien](https://open.spotify.com/track/5iE99n7oHIf7P0Tz8X8md7) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Misschien](https://open.spotify.com/album/0XiRN6vxsMUktjP00J77MX) | 1:57 | 2022-07-14 | 2022-07-29 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-22 | 2022-10-28 |
+| [Moli Moli](https://open.spotify.com/track/5yYFfbkDd6QefIIDQI4YcY) | [Vurra](https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk), [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7), [Con Zalez](https://open.spotify.com/artist/2e59zBaduruLyVmputH4Lq) | [Moli Moli](https://open.spotify.com/album/5PGJnKU0tiNGzcHHaTQLrU) | 2:34 | 2022-12-02 |  |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-07-14 | 2022-08-26 |
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-27 | 2022-11-11 |
 | [Monogram](https://open.spotify.com/track/0PNnvtiejtjLXoEM5D5Vgv) | [Quatro Vision](https://open.spotify.com/artist/6uRCP6vPABt2mY7ZGHr7nJ), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu), [Seek](https://open.spotify.com/artist/6MXEJwFpBlBNxM0IcgeQYj) | [Monogram](https://open.spotify.com/album/1EFWH0ql51hoYtJmvxRnXj) | 2:45 | 2022-11-03 |  |

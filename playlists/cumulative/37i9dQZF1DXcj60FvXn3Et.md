@@ -4,7 +4,7 @@
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
-76 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
+77 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Finding the Pattern](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 | 2021-03-01 |  |
 | [First Steps](https://open.spotify.com/track/03EyMyy76ZYLUh3lvGrNgE) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO) | 3:38 | 2021-03-01 | 2022-07-29 |
 | [First Steps](https://open.spotify.com/track/4MsC3bu5B8WQGHQjOoH2NG) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf) | 3:38 | 2021-03-01 |  |
-| [Flood](https://open.spotify.com/track/3GezVOAZIfruh5Tir1hNEU) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC), [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [Flood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHtxZpOQzAVLlCIpTeZpC) | 3:08 | 2021-03-01 |  |
+| [Flood](https://open.spotify.com/track/3GezVOAZIfruh5Tir1hNEU) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC), [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [Flood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2OHtxZpOQzAVLlCIpTeZpC) | 3:08 | 2021-03-01 | 2022-12-03 |
+| [Flood](https://open.spotify.com/track/3vH3RkHUYyFpzuFAa1ww8a) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [Flood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1SECoDWLXUbFEXMufP151A) | 3:08 | 2021-03-01 |  |
 | [Fresh Paint](https://open.spotify.com/track/2TqqSIiMATAnzmCenloaAV) | [Anne Dudley](https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b) | [Elle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RJTwJeFKkcgd25GrdQh8K) | 2:01 | 2021-03-01 |  |
 | [Gotham City Overture](https://open.spotify.com/track/0Nb4vEesmwz5MxVjnxolG4) | [Shirley Walker](https://open.spotify.com/artist/6xA7PXadQA9wqRfcs8S5cy) | [Batman: The Animated Series \(Original Soundtrack from the Warner Bros\. Television Series\), Vol\. 1](https://open.spotify.com/album/4jRzlJKnTfKxGvg5vGiDBt) | 14:01 | 2021-03-01 | 2022-07-29 |
 | [Gotham City Overture](https://open.spotify.com/track/3CrV4InIoyWpkF7yBpPH6c) | [Shirley Walker](https://open.spotify.com/artist/6xA7PXadQA9wqRfcs8S5cy) | [Batman: The Animated Series, Vol\. 1 \(Original Soundtrack from the Warner Bros\. Television Series\)](https://open.spotify.com/album/7MlfJk6Wh9Ig315YKUDE01) | 14:01 | 2021-03-01 |  |

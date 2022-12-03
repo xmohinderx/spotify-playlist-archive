@@ -1,13 +1,129 @@
 {
-  "description": "New music breaking waves.  Cover: Ice Spice",
-  "num_followers": 20592,
+  "description": "New music breaking waves.  Cover: Jay Glavany ",
+  "num_followers": 20612,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE1NzY5MmY2ZDVjNDM1YWNiMzIyMGY5ZTBlMzlhOTc3",
+  "snapshot_id": "MTY3MDAxODc1OSwwMDAwMDAwMDc0ODY5MTg4ZjQyZTg4MzY5N2FmMmI0OWQ4OGY0Mjgw",
   "tracks": [
+    {
+      "added_at": "2022-12-02 22:05:59",
+      "album": {
+        "name": "Kim Possible",
+        "url": "https://open.spotify.com/album/4Frrw8EkIDu80AzDpZ99St"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "duration_ms": 179568,
+      "name": "Kim Possible",
+      "url": "https://open.spotify.com/track/2DGnABzkL00nPLJnBWKmWi"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Wish I Knew",
+        "url": "https://open.spotify.com/album/2dgFS2T4BTuoewTy6MjpiD"
+      },
+      "artists": [
+        {
+          "name": "XanMan",
+          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
+        }
+      ],
+      "duration_ms": 145494,
+      "name": "Wish I Knew",
+      "url": "https://open.spotify.com/track/3qx7ig57062kyFMNqBHWPn"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Boy's a liar",
+        "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Boy's a liar",
+      "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
+        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Y I Want U",
+      "url": "https://open.spotify.com/track/07BT6pHeHuXycLNH4Jr2zD"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Good Things (Remix)",
+        "url": "https://open.spotify.com/album/4rMkdfw5lunESFETaf4TsH"
+      },
+      "artists": [
+        {
+          "name": "Jay Glavany",
+          "url": "https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q"
+        },
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "duration_ms": 217443,
+      "name": "Good Things (Remix)",
+      "url": "https://open.spotify.com/track/3linBtGF8ouzEncml6s2ux"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Not a Statistic",
+        "url": "https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "duration_ms": 136813,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Time Revealed",
+        "url": "https://open.spotify.com/album/1s3eyEhXxazd3sNV2Hgjv6"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "duration_ms": 169412,
+      "name": "Switching Places",
+      "url": "https://open.spotify.com/track/4b9lcB5dhuborp1CQQtYVX"
+    },
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
@@ -23,6 +139,22 @@
       "duration_ms": 113043,
       "name": "PRETTY IN BLACK",
       "url": "https://open.spotify.com/track/0CKjwy3zelVZgS49WlVIaV"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Ufo",
+        "url": "https://open.spotify.com/album/0DVzKdr6IC9obZkRnohmD6"
+      },
+      "artists": [
+        {
+          "name": "Young Roc",
+          "url": "https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Ufo",
+      "url": "https://open.spotify.com/track/02EqgWz7RoPZ9L0szFvCaw"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -255,26 +387,6 @@
       "duration_ms": 109008,
       "name": "TURKEY",
       "url": "https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 112666,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -819,78 +931,6 @@
       "duration_ms": 129882,
       "name": "CYCLOPS",
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Picture in my mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "WTF is P\u00a1NK",
-        "url": "https://open.spotify.com/album/5WsHm6ThrGn78FvAg636ti"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        }
-      ],
-      "duration_ms": 106579,
-      "name": "SCHEMES",
-      "url": "https://open.spotify.com/track/0rFNu0G170Z6wgakWF9Sdv"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Birds & Bees",
-        "url": "https://open.spotify.com/album/1HAbHnM7A3saeFtPaoAtAN"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 240164,
-      "name": "Soakin (feat. Gwen Bunn)",
-      "url": "https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Till The World's Awake",
-        "url": "https://open.spotify.com/album/0uR7oNjEFBRJPhvRbzufJP"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Till The World's Awake",
-      "url": "https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex"
     }
   ],
   "unique_name": "Ripple Effect",

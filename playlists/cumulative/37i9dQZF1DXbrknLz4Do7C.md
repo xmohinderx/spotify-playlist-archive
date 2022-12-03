@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-167 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
+168 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Thankful](https://open.spotify.com/track/3ZQFAU3H3G2ocOtFAntqdX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 11:50 | 2022-12-01 |  |
 | [The Better Benediction \(feat\. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls\)](https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK), [Tim Rogers](https://open.spotify.com/artist/1khRTV8QYiLYAvGZelRcPV), [Darrel 'MusiqCity' Walls](https://open.spotify.com/artist/1u96wHS7za0UbhY8E3wSyp) | [Watch The Sun](https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN) | 5:23 | 2022-12-01 |  |
 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/6NXh3bYzUABYU2HEneRbMC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:56 | 2022-12-01 |  |
-| [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/4xOo4DFiTSSfefD63Ya6UK) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Life After Death](https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3) | 3:45 | 2022-12-01 |  |
+| [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/4xOo4DFiTSSfefD63Ya6UK) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Life After Death](https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3) | 3:45 | 2022-12-01 | 2022-12-03 |
+| [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5OqnfFu7rdE3DEe0GoWkd7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:45 | 2022-12-01 |  |
 | [The Power Of Your Name \- Live Version](https://open.spotify.com/track/23jtnESrSetEMjKlXyMzS3) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 6:26 | 2022-12-01 |  |
 | [Then Christ Came](https://open.spotify.com/track/4aS4NLzZGavRGty8UZgOHr) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:41 | 2022-12-01 |  |
 | [To Your Arms](https://open.spotify.com/track/2PICbElRrRVeIDcAreUeeC) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/4nqe5ontu7BXz6C7mD5Ami) | 5:05 | 2022-12-01 |  |

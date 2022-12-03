@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 281482,
+  "num_followers": 281590,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGVmOWYwOTg3ZWQyNzYzZDM2ZTAwNmEzZWI3NmYzNTA3",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGVmZGY0OTgwYWQ4MzNhMTMzMWQyY2Q4ZWY4OTdlYmQ1",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -103,6 +103,34 @@
       "duration_ms": 243808,
       "name": "AA Side Single",
       "url": "https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "Ice & Fire",
+        "url": "https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs"
+      },
+      "artists": [
+        {
+          "name": "King Canyon",
+          "url": "https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV"
+        },
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 244835,
+      "name": "Ice & Fire",
+      "url": "https://open.spotify.com/track/440ldYsqevrNXmwwj9DD2B"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1575,22 +1603,6 @@
       "duration_ms": 215454,
       "name": "Wagmi Express",
       "url": "https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "No ID",
-        "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 191088,
-      "name": "No ID",
-      "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
     },
     {
       "added_at": "2022-02-25 05:02:00",

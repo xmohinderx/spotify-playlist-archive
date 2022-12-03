@@ -492,6 +492,24 @@
     },
     {
       "album": {
+        "name": "Holy Roller",
+        "url": "https://open.spotify.com/album/4IxTz2QTl1CJqobASo2O3J"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202636,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/3D1xwgtx3n5K9FUqGCBsKq"
+    },
+    {
+      "album": {
         "name": "Horses & Weed",
         "url": "https://open.spotify.com/album/5rnzFUqTog7uCgBJxudv30"
       },

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Poema Suspenso",
+        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
+      },
+      "artists": [
+        {
+          "name": "Rizzih",
+          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "(((V\u00eanus)))",
+      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+    },
+    {
+      "album": {
         "name": "10%",
         "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
       },
@@ -670,6 +688,24 @@
     },
     {
       "album": {
+        "name": "MUNDO POSITIVO",
+        "url": "https://open.spotify.com/album/4VKiP4fLjXO8Y98TIAUuFo"
+      },
+      "artists": [
+        {
+          "name": "Leandro Buenno",
+          "url": "https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97952,
+      "name": "carta do futuro",
+      "url": "https://open.spotify.com/track/2sN2yyqjF3XdJ7kErLkbyg"
+    },
+    {
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0"
       },
@@ -823,7 +859,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 147413,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
@@ -1168,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
+      },
+      "artists": [
+        {
+          "name": "vicro",
+          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230588,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+    },
+    {
+      "album": {
         "name": "Ei Voc\u00ea",
         "url": "https://open.spotify.com/album/5flpZHlJ5BH0veAKsqJ3Nm"
       },
@@ -1345,7 +1399,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 139484,
       "name": "Eu N\u00e3o Sei Brincar",
       "url": "https://open.spotify.com/track/1JV9pzSaSkFw3S9R5ZZZSl"
@@ -1381,7 +1435,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 242000,
       "name": "Ex-Melhor Amigo",
       "url": "https://open.spotify.com/track/7m604nggEys9csDMi0pTsC"
@@ -1403,6 +1457,24 @@
       "duration_ms": 151939,
       "name": "faking it",
       "url": "https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH"
+    },
+    {
+      "album": {
+        "name": "Febre",
+        "url": "https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174724,
+      "name": "Febre",
+      "url": "https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl"
     },
     {
       "album": {
@@ -2341,7 +2413,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 194848,
       "name": "Muito Al\u00e9m",
       "url": "https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo"
@@ -2565,7 +2637,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 169388,
       "name": "O Fim do Mundo",
       "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
@@ -3193,6 +3265,24 @@
       "duration_ms": 139058,
       "name": "Qual Fita",
       "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
+    },
+    {
+      "album": {
+        "name": "Quando Eu Falei Pra Ela",
+        "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Quando Eu Falei Pra Ela",
+      "url": "https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh"
     },
     {
       "album": {

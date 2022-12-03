@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=vxIWSXrRQ2WQa228xTvwlw">FATMAN</a> and <a href="https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B?si=CmaIcUYHS\_Sb08uwN766RA">Lianie May</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,182 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,253 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

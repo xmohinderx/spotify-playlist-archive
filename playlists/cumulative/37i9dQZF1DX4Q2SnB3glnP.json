@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "A Glorious Morning (Spa)",
+        "url": "https://open.spotify.com/album/0r6cTXwz1LvmGfa5C9wPdW"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reilly",
+          "url": "https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203891,
+      "name": "A Glorious Morning (Spa)",
+      "url": "https://open.spotify.com/track/3gF1BjpJbEiJFHr646872q"
+    },
+    {
+      "album": {
         "name": "Dinami",
         "url": "https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB"
       },
@@ -3757,7 +3775,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 194285,
       "name": "The Deepest Well",
       "url": "https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS"

@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-241 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
+242 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Radio Free Europe](https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur \- Deluxe Edition](https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm) | 4:05 | 2021-11-17 | 2022-07-29 |
 | [Rattlesnakes](https://open.spotify.com/track/3JocHDZrr2rpOK0xsiZK8T) | [Lloyd Cole and the Commotions](https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp) | [Rattlesnakes](https://open.spotify.com/album/4OfGDQC3Z2CdHMknAQMdig) | 3:27 | 2021-11-17 | 2022-07-29 |
 | [Reward](https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm) | [The Teardrop Explodes](https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M) | [Kilimanjaro](https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5) | 2:42 | 2021-11-17 | 2022-11-13 |
+| [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 | 2022-12-03 |  |
 | [Rise \- 12" Version](https://open.spotify.com/track/3U0pMjPVdk5UTCghRXqEE5) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [Rise: The Collection](https://open.spotify.com/album/6usIkUhnOPvUqYFCHxgxu3) | 6:05 | 2021-11-17 | 2022-07-29 |
 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2021-11-17 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-07-29 |
@@ -188,7 +189,7 @@
 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/4H3RNIn5KIvDbJrc4EIzvt) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non Stop Erotic Cabaret \(Deluxe Edition\)](https://open.spotify.com/album/3HZOgmHG5SKbwOitfUYrgn) | 5:24 | 2021-11-17 | 2022-07-29 |
 | [Seven Into The Sea](https://open.spotify.com/track/2QS2qdVaLXOfokeTlJo5AV) | [In Tua Nua](https://open.spotify.com/artist/2trPBzjIxkW4PBCoJ9EMff) | [Essential \- Popclassics](https://open.spotify.com/album/4ivuG29exX1Wuhp8dgizxG) | 3:50 | 2021-11-17 | 2022-05-13 |
 | [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2022-09-29 | 2022-11-13 |
-| [She Bop](https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:49 | 2022-05-30 |  |
+| [She Bop](https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:49 | 2022-05-30 | 2022-12-03 |
 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 | 2022-05-30 |  |
 | [She Sells Sanctuary](https://open.spotify.com/track/4vnLdmUdkOworoveEzpEST) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Pure Cult](https://open.spotify.com/album/279o49AIcWuS6kIqVozTGL) | 4:12 | 2021-11-17 | 2022-07-29 |
 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 | 2021-11-17 |  |

@@ -700,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/52sfF9kzuFKf66aR6TdKYf"
+      },
+      "artists": [
+        {
+          "name": "Lucas Laypold",
+          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/09G8dVMJCNiqaJg5yVhqvU"
+    },
+    {
+      "album": {
         "name": "Ir Embora",
         "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },

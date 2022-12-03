@@ -2,9 +2,9 @@
 
 ### [mint India](https://open.spotify.com/playlist/37i9dQZF1DXdMbUSbTOEeW)
 
-> Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
+> Trending dance hits in India\. Cover: King & Masked Wolf
 
-144 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+145 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2022-05-18 |  |
 | [One More Dance \(with Alida\)](https://open.spotify.com/track/2aOK6TRYn4DneIBHJOAQ4r) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [One More Dance \(with Alida\)](https://open.spotify.com/album/4cf30Zg83PfkYN3pr9grhF) | 2:25 | 2021-11-26 | 2022-02-02 |
 | [Oo Antava Oo Oo Antava](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Pushpa \- The Rise](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2022-05-18 |  |
+| [OOPS \(feat\. Masked Wolf\)](https://open.spotify.com/track/10gKUrPM1XAvLeMtVdmn8w) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [OOPS \(feat\. Masked Wolf\)](https://open.spotify.com/album/5DaEs5QojfHjfVDGJERW3R) | 2:43 | 2022-12-02 |  |
 | [Parachute](https://open.spotify.com/track/2XZn85D188f2bGdV3zmmrF) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 3:42 | 2021-11-26 | 2022-02-02 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-11-26 | 2022-02-02 |
 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 | 2022-05-18 |  |

@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Kryder &amp; Sarah De Warren
 
-345 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+346 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Rushing](https://open.spotify.com/track/5W3DaWm2YIpfeGZTQhrqjM) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Rushing](https://open.spotify.com/album/0QpHnV8wcZ0yIARXoOORcC) | 3:42 | 2022-11-03 |  |
 | [Same Old Road \- Booka Shade Remix](https://open.spotify.com/track/7ihoFcYU86WNE6lSxxwe32) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Same Old Road \(Booka Shade Remix\)](https://open.spotify.com/album/3hRICUjIzBu4s3Cx7MJ1IO) | 3:56 | 2022-11-24 |  |
 | [Same Way](https://open.spotify.com/track/0H6cAT3VYWN5ukgZnwGQQr) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Same Way](https://open.spotify.com/album/2bCWbCi4LNKvrnOiJGSDyT) | 2:15 | 2022-09-08 | 2022-10-28 |
+| [Satellites](https://open.spotify.com/track/0cJHMLl5KdcipKhnl7tJRY) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Satellites](https://open.spotify.com/album/4fJUoNHFcJHvUZjOKQ623d) | 2:26 | 2022-12-02 |  |
 | [Saturday Night \(Feel The Groove\)](https://open.spotify.com/track/3deRcubbfOBaLsjLqYsmLw) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Ninetails](https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q) | [Saturday Night \(Feel The Groove\)](https://open.spotify.com/album/1oSDNl2qNV8uy6kP47ohdu) | 2:33 | 2022-07-28 |  |
 | [Save Me](https://open.spotify.com/track/7HwguyXxWy1xYfAxGstDKi) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Save Me](https://open.spotify.com/album/0JpC3lX4iuzhNtaslimmd0) | 2:25 | 2022-06-09 | 2022-12-02 |
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-06-09 |  |

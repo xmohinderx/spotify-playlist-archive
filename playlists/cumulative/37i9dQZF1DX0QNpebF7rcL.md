@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Louis Walker
 
-241 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+242 songs - 16 hr 25 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 |  |
 | [Healing Time](https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 4:35 | 2022-04-29 |  |
 | [Heartache by the Pound](https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Heartache by the Pound](https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N) | 3:09 | 2022-07-15 |  |
+| [Hello, it's the Blues](https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hello, it's the Blues](https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H) | 6:46 | 2022-12-02 |  |
 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 | 2022-03-18 |  |
 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 | 2022-03-18 | 2022-04-06 |
 | [High Is Low](https://open.spotify.com/track/3yrV9iFHJYULuE8jogoPec) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 4:19 | 2022-08-19 |  |

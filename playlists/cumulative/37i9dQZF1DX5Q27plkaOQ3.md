@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: GHENGAR
 
-276 songs - 15 hr 52 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+277 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [The Pluck Song](https://open.spotify.com/track/7gTGDYmGSfSTLmrFw05ePe) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [The Pluck Song](https://open.spotify.com/album/3A86pcryv8EzIfFxVEIT1f) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 | 2021-12-17 | 2022-09-22 |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-12-17 | 2022-03-12 |
-| [The Takeover](https://open.spotify.com/track/7K8fmTPRda4YWsBTnin2nr) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [The Living Proof](https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d) | [The Takeover](https://open.spotify.com/album/4iaLkyelNjYfqcQlan0zVl) | 3:40 | 2022-07-29 |  |
+| [The Takeover](https://open.spotify.com/track/7K8fmTPRda4YWsBTnin2nr) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [The Living Proof](https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d) | [The Takeover](https://open.spotify.com/album/4iaLkyelNjYfqcQlan0zVl) | 3:40 | 2022-07-29 | 2022-12-03 |
 | [The Uncrowned King](https://open.spotify.com/track/6S0HcckkiDavLekQGotRSM) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt) | [Uncrowned](https://open.spotify.com/album/2y0BjLQMBucWFiGHAWDNHe) | 3:40 | 2022-10-28 |  |
 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 | 2022-06-24 |  |
 | [The Way Out \(feat\. Bertie Scott\)](https://open.spotify.com/track/1ssH8g0sRC9euIT32MEhxg) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [The Way Out \(feat\. Bertie Scott\)](https://open.spotify.com/album/4IJSbEfGGHcWGGagUSpAT2) | 3:03 | 2022-09-23 |  |
@@ -266,6 +266,7 @@
 | [Thirst For Revenge](https://open.spotify.com/track/1HtTWVwNFgGip90QlHOlai) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [VOYD Vol\. II](https://open.spotify.com/album/3Ccis9RvuassE2mtVWqwI5) | 4:53 | 2022-03-18 |  |
 | [This Could Be Us](https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [This Could Be Us](https://open.spotify.com/album/3LDO3EsSED9KNkt8ycUAHH) | 5:08 | 2021-12-17 |  |
 | [Thoughts Of You](https://open.spotify.com/track/3kcF9tCDBjg1cEKovHpopQ) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Peytn](https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV) | [Thoughts Of You](https://open.spotify.com/album/208m3z47W4iFtJPgrmW34k) | 3:02 | 2021-12-17 | 2022-05-07 |
+| [TILL I DIE \(feat\. Kanin\)](https://open.spotify.com/track/7l0isAHLcKGHnEuHblcyvx) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Glenwood!](https://open.spotify.com/artist/5LqENjXtjsbQA67qUWDDXP), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er) | [TILL I DIE \(feat\. Kanin\)](https://open.spotify.com/album/30we761xNgTwu7ITaqi7uT) | 2:36 | 2022-12-02 |  |
 | [Tins](https://open.spotify.com/track/6SINQPDsWQYa1jStwH3SSr) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Out Of Order EP](https://open.spotify.com/album/363x1YbpXfBGfu4BgYBz1n) | 4:11 | 2021-12-17 | 2022-03-12 |
 | [Transmutation Sequence](https://open.spotify.com/track/2BPxRZ38SsDjqJZhGTRuZr) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Transmutation Sequence](https://open.spotify.com/album/6FNph2s6ByZVyqWhmUkSVk) | 3:48 | 2021-12-17 |  |
 | [Trensetter](https://open.spotify.com/track/0WhTN2qunw2aYr9nDfqw6e) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Trensetter](https://open.spotify.com/album/0VUgYoQKCWvIE8ptlTTH0R) | 2:17 | 2021-12-17 | 2022-05-07 |

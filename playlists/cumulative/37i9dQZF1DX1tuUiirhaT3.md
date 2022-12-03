@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-236 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+240 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2022-09-30 |  |
 | [Flow](https://open.spotify.com/track/4u6b51YsNscUjljuiy9JzU) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Flow](https://open.spotify.com/album/0udfQBmswmEv3Noa7E976j) | 3:17 | 2022-05-06 |  |
 | [Forensia](https://open.spotify.com/track/2WtgSzDE0rAjr5T4bZT3Yz) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Forensia](https://open.spotify.com/album/4GvUzLdBV8aLCHTiU0iC9x) | 2:56 | 2021-12-17 |  |
+| [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2022-12-02 |  |
 | [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2021-12-17 |  |
 | [Friendly Fall](https://open.spotify.com/track/5h2vwZOiGeBXbV1FwiZKaQ) | [New Orange](https://open.spotify.com/artist/2r2zkeCT8RoBKJw25mYnUL) | [Silhouette Stone](https://open.spotify.com/album/2I7EznUk8JyuJMsozVKVlu) | 3:05 | 2021-12-17 |  |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2022-03-04 |  |
@@ -133,10 +134,12 @@
 | [Mountaintop Birdwalk](https://open.spotify.com/track/7joXZ5D0jFDEzkSsGIgCcy) | [Overdue Soles](https://open.spotify.com/artist/4D9rrvqXdR4y5IA0zJaicG) | [Mountaintop Birdwalk](https://open.spotify.com/album/1KG2rjcesAYUTij1Rp2a0P) | 3:19 | 2022-02-16 |  |
 | [Move With the World](https://open.spotify.com/track/4rdGFY7PaFbiYdtt0XFFcb) | [Andrei Floarea](https://open.spotify.com/artist/78IHxPt2btrcsBlXX7HR0P) | [Waters of the Bay](https://open.spotify.com/album/5K3iTNfIAGAOForUufQNcp) | 4:04 | 2021-12-17 |  |
 | [Muladhara](https://open.spotify.com/track/4vMnOPRUEdAFs5rnP4LKw5) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Muladhara](https://open.spotify.com/album/4FKAGCHvPmK61ph3NK54bH) | 1:37 | 2022-09-30 |  |
+| [Nature's Awakening](https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Nature's Awakening](https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0) | 2:51 | 2022-12-02 |  |
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
 | [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Jourado Sky](https://open.spotify.com/artist/5QY48b9fOopYTVlgfkcBqp) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 | 2022-11-17 |  |
 | [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2021-12-17 | 2022-07-09 |
 | [Nightfall at Whitehaven Beach](https://open.spotify.com/track/0X1tKaN8UN1r4DRxOtocSr) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Nightfall at Whitehaven Beach](https://open.spotify.com/album/4Nn0t0INwyLJnM4SuJqJ9Q) | 3:19 | 2021-12-17 |  |
+| [Nipigon \(Meditation\)](https://open.spotify.com/track/7E79GrK1NuYiPfBmEoWhsm) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Lake Melville](https://open.spotify.com/album/0YmbS2yy0hXBM2GHpXo28c) | 2:37 | 2022-12-02 |  |
 | [No Beginning No End](https://open.spotify.com/track/08Ud09yKK3KT1ylfWzBF8p) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [No Beginning No End](https://open.spotify.com/album/4hJS4JLgD3kkTlHfotsYCh) | 3:05 | 2021-12-17 |  |
 | [Numerus](https://open.spotify.com/track/3EPRoYFIBqOghG8uXqKD8x) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Novo](https://open.spotify.com/album/4T9SRXa272N8cLRiUpTMIB) | 3:33 | 2021-12-17 |  |
 | [Ocean Safari](https://open.spotify.com/track/1kOp6oEC9hivJjhTyPs2AS) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Simple Habit](https://open.spotify.com/album/6DcCzJdg8MRc9s6jFKtXl5) | 3:39 | 2021-12-17 |  |
@@ -237,6 +240,7 @@
 | [Wee Hours](https://open.spotify.com/track/2iW2dXJw0s2wfNBFEJv4Yo) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Smouldering](https://open.spotify.com/album/5lF1AHJoWR1Fg8tN1mnJkC) | 3:55 | 2021-12-17 | 2022-05-07 |
 | [Weirwood](https://open.spotify.com/track/0rjq0cADIoP8x92YLcKSPP) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Weirwood](https://open.spotify.com/album/6hHYMZGKa2KY1jN0j0qile) | 2:27 | 2022-09-30 |  |
 | [When the Birds Wake Up](https://open.spotify.com/track/4hmjuap8P6VPRRFbjaDILB) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [When the Birds Wake Up](https://open.spotify.com/album/58JC8NSnvG4tvdJaQBFqBt) | 2:41 | 2021-12-17 |  |
+| [Whispering Dryad](https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:19 | 2022-12-02 |  |
 | [Wide Transfers](https://open.spotify.com/track/04XwIlZo2CWJU0OUdnVFFw) | [John Goodlove](https://open.spotify.com/artist/1k9phNanPQ2ScqreRWpy2j) | [Wide Transfers](https://open.spotify.com/album/3gURbHWPKttLCK2tQCs0Q6) | 3:40 | 2021-12-17 |  |
 | [Winter Petals](https://open.spotify.com/track/5rXxMpRv4tcWmMioTcTSrS) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/51EtJKhNA69gKvzS4Ne7RA) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Winter Petals](https://open.spotify.com/track/7jX1YhnZOUgQN7mCUS4jTg) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 4:04 | 2022-07-22 |  |

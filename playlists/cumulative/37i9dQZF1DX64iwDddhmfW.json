@@ -216,6 +216,24 @@
     },
     {
       "album": {
+        "name": "Boyfriends",
+        "url": "https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh"
+      },
+      "artists": [
+        {
+          "name": "Wilson Phillips",
+          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS"
+    },
+    {
+      "album": {
         "name": "Brush Fire",
         "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
       },

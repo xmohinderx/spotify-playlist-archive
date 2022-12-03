@@ -4,7 +4,7 @@
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-110 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/2p8oEdfFYrJdmMGXY2kQRe)
+112 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/2p8oEdfFYrJdmMGXY2kQRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All I Want For Christmas](https://open.spotify.com/track/697xGHI0FIIJakRqdKJI6x) | [ChuggaBoom](https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3) | [All I Want For Christmas](https://open.spotify.com/album/7j5k5YhL06JlpW5kWNdZdt) | 4:00 | 2021-11-26 | 2022-07-29 |
 | [All I Want for Christmas](https://open.spotify.com/track/4xHV6Hb7maNSTk52rI48rU) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [All I Want for Christmas](https://open.spotify.com/album/2YHHyj12JSWQG2y8lUl4lT) | 4:55 | 2021-11-26 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/0yKDHisurtvtoxMDHiWhzS) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [All I Want For Christmas Is You](https://open.spotify.com/album/31UM9gHcUA64o1SX92K497) | 4:23 | 2021-11-26 |  |
+| [All I Want for Christmas is You](https://open.spotify.com/track/58GRQJQQuT6GWWqhJlru9X) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [A VERY DEATHCORE CHRISTMAS WITH BROJOB](https://open.spotify.com/album/4bcuGxwp6mUadNhBeBBGBD) | 3:08 | 2022-12-02 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0RGvnAtQxaOwgtOtitSxfB) | [ChuggaBoom](https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3) | [Christmas Number Ones](https://open.spotify.com/album/6ZocP1wM3eBktrLL2YGxfv) | 4:00 | 2021-11-26 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0pyQo1PdONXpHPe9maPrr3) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [All I Want for Christmas Is You](https://open.spotify.com/album/4wVgm80aNC8S8XwxpDakws) | 3:48 | 2021-11-26 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [All I Want For Christmas Is You](https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ) | 3:27 | 2021-12-21 |  |
@@ -73,6 +74,7 @@
 | [Naughty Christmas](https://open.spotify.com/track/1KuIua691nfs4NgBMr3yA5) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Naughty Christmas](https://open.spotify.com/album/6p5WKBrX2alTVVYAfN7zOz) | 3:20 | 2021-11-26 |  |
 | [No Presents for Christmas](https://open.spotify.com/track/1UNyNWe03mb3RGZmkcu7lr) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [The Dark Sides](https://open.spotify.com/album/0JXKB69mOVC0qVNKz4VMlO) | 4:21 | 2021-11-26 |  |
 | [No Presents For Christmas](https://open.spotify.com/track/76b4dneTwtupygaFeEKYtH) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [The Best of King Diamond](https://open.spotify.com/album/0w5SNTg7mbAAfqE53rGSrS) | 4:22 | 2021-11-26 | 2022-07-29 |
+| [O Holy Night \(feat\. Eva Under Fire\)](https://open.spotify.com/track/71c1CDrbPMM1P8wd9gXAIj) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd), [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [O Holy Night \(feat\. Eva Under Fire\)](https://open.spotify.com/album/5lu7JfIt0sYgi2JAd25UxA) | 1:32 | 2022-12-02 |  |
 | [Oh Holy Night](https://open.spotify.com/track/5UOq2c7K2GOHDwiL7BsK6Y) | [Halford](https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Halford III: Winter Songs](https://open.spotify.com/album/23gl11F7n7YNPGdI9L8XSd) | 4:08 | 2021-11-26 |  |
 | [Red Water \(Christmas Mourning\)](https://open.spotify.com/track/6Z8SIHKpQvtP8nBkjH3lIo) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 6:48 | 2021-11-26 |  |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/0XW1jrD07qo7Dy27LKjtYW) | [Helix](https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG) | [A Heavy Mental Christmas](https://open.spotify.com/album/46HhQ76lGNj0dQTTpivGcP) | 1:59 | 2021-11-26 |  |

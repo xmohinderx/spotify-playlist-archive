@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -3793,7 +3793,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 222804,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/1I1mXACw55Ep9bQyfh4Jmp"
@@ -4177,7 +4177,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -5203,6 +5203,28 @@
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0"
+    },
+    {
+      "album": {
+        "name": "Hafo",
+        "url": "https://open.spotify.com/album/3jAzPpkfU7vpVpFe7UY4QX"
+      },
+      "artists": [
+        {
+          "name": "Frank Wild",
+          "url": "https://open.spotify.com/artist/0R9H03LigDXPEN5vKF0P0K"
+        },
+        {
+          "name": "Kafuu",
+          "url": "https://open.spotify.com/artist/1kgsovx7X2Fh1scioto8yc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135048,
+      "name": "Hafo",
+      "url": "https://open.spotify.com/track/6eUcpepLURwI798ZQvLGfP"
     },
     {
       "album": {
@@ -13495,7 +13517,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 131819,
       "name": "Standart",
       "url": "https://open.spotify.com/track/16NOqPyqpo5OU5xGRWmATs"
@@ -14941,7 +14963,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -16251,7 +16273,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 164629,
       "name": "WORTH NOTHING",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"

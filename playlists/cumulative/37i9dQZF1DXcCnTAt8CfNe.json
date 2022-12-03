@@ -988,6 +988,24 @@
     },
     {
       "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz"
+      },
+      "artists": [
+        {
+          "name": "Niebla Valley",
+          "url": "https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "Entering Light",
+      "url": "https://open.spotify.com/track/66sprH72V1xH9LhBW5Pvar"
+    },
+    {
+      "album": {
         "name": "Essential Sleep",
         "url": "https://open.spotify.com/album/7aoGBZ6Tb1YoUXZQNqOLhh"
       },
@@ -3469,7 +3487,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 211368,
       "name": "Sugar Dreams",
       "url": "https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB"

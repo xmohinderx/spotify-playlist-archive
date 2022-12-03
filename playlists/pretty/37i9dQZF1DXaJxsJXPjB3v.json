@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 20539,
+  "num_followers": 20595,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg4Mzk0MCwwMDAwMDAwMDEwZWQ1YWZhM2EwY2YzZDI5YzU1YTYyM2IwY2YyOGE0",
+  "snapshot_id": "MTY2Mzg4Mzk0MCwwMDAwMDAwMGUxNWFlZmEyYjVlODUxNWI2ZDMxZWI5MjU4MWViMGUx",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Mnike",
-        "url": "https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt"
-      },
-      "artists": [
-        {
-          "name": "Arthur",
-          "url": "https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU"
-        }
-      ],
-      "duration_ms": 332933,
-      "name": "Mnike",
-      "url": "https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Waar Was Jy?",
         "url": "https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 229066,
       "name": "Waar Was Jy?",
       "url": "https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Mnike",
+        "url": "https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt"
+      },
+      "artists": [
+        {
+          "name": "Arthur",
+          "url": "https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU"
+        }
+      ],
+      "duration_ms": 332933,
+      "name": "Mnike",
+      "url": "https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4"
     },
     {
       "added_at": "2022-04-25 18:44:17",

@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2127,
+  "num_followers": 2137,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMGVjOGI1Njk4ZTZmMDZhZGI2NTVkNjk1MDI1MjYzYjRm",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDgyM2ExNDk1ZTg0NDZlOTEwNmEzNTA4YTI4OWQ4NGEy",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV"
     },
     {
-      "added_at": "2022-12-02 01:36:03",
+      "added_at": "2022-12-03 01:28:55",
       "album": {
         "name": "Die of The Waters",
         "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
@@ -623,26 +623,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
+        "name": "I Am the Night",
+        "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
       },
       "artists": [
         {
-          "name": "Apocryphos",
-          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
-        },
-        {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        },
-        {
-          "name": "Kammarheit",
-          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
+          "name": "Perturbator",
+          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
         }
       ],
-      "duration_ms": 337816,
-      "name": "Ones Atop the Unknown",
-      "url": "https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC"
+      "duration_ms": 381424,
+      "name": "The Price of Failure",
+      "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -663,18 +655,26 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "I Am the Night",
-        "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
       },
       "artists": [
         {
-          "name": "Perturbator",
-          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
+          "name": "Apocryphos",
+          "url": "https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP"
+        },
+        {
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        },
+        {
+          "name": "Kammarheit",
+          "url": "https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ"
         }
       ],
-      "duration_ms": 381424,
-      "name": "The Price of Failure",
-      "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
+      "duration_ms": 337816,
+      "name": "Ones Atop the Unknown",
+      "url": "https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Perception Report 2",
-        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
-      },
-      "artists": [
-        {
-          "name": "The Night Monitor",
-          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
-        }
-      ],
-      "duration_ms": 254955,
-      "name": "Dance of the Mince Pie Martians",
-      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Sea of Black",
         "url": "https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 386000,
       "name": "Aesthetic",
       "url": "https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Perception Report 2",
+        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
+      },
+      "artists": [
+        {
+          "name": "The Night Monitor",
+          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
+        }
+      ],
+      "duration_ms": 254955,
+      "name": "Dance of the Mince Pie Martians",
+      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
     },
     {
       "added_at": "2022-07-06 17:58:03",

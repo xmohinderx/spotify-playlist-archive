@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Muerejoven.
 
-180 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+181 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Tardes Grises](https://open.spotify.com/track/1CzN58609yKsgo4Z9ba4cl) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 3:26 | 2022-11-07 | 2022-11-13 |
 | [Tardes Grises](https://open.spotify.com/track/1EmehmbURkCcxpHcxcXgDP) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tardes Grises](https://open.spotify.com/album/1U4x0z1gk3pho14X7PFwRB) | 3:26 | 2022-06-10 |  |
 | [Tardes Grises](https://open.spotify.com/track/4MYHoW2ZCmdzvpdmdx6oXy) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tardes Grises](https://open.spotify.com/album/0dEifg2Ym7jFxYJazh7UGV) | 3:26 | 2021-11-26 | 2022-07-29 |
+| [Temblor](https://open.spotify.com/track/43wAPWvoJFZk8JPOHilrGM) | [Dozer](https://open.spotify.com/artist/4fTvbZBIfIc3aAKbZhm5ce) | [Temblor](https://open.spotify.com/album/3pANNuWcM0Iv85Wm2C8CA5) | 3:05 | 2022-12-02 |  |
 | [Tengo Sed](https://open.spotify.com/track/3acTJvD1eCLOBfBG4hAbfe) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tengo Sed](https://open.spotify.com/album/1qBiq07wvvO6W8fsuoz2UE) | 2:28 | 2022-04-11 |  |
 | [THROW UP SESSION \#1](https://open.spotify.com/track/4AmkflbQtBjOjNwSt92P1u) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#1](https://open.spotify.com/album/0fpnN5zwByW6DeHbQ2hnY7) | 2:31 | 2021-11-26 |  |
 | [THROW UP SESSION \#3](https://open.spotify.com/track/01UQtSmwS81vFhFIYssL3X) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#3](https://open.spotify.com/album/27owiW0lkPzBp29osg0VWZ) | 3:51 | 2021-11-26 |  |

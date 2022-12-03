@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 281088,
+  "num_followers": 281190,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDg3MSwwMDAwMDAwMGI1NGNhYjE5MjJiODI1MmVmZmViMTI3NmFlYTZkODc0",
+  "snapshot_id": "MTY2OTM1NDg3MSwwMDAwMDAwMDc2Nzg0YmY4YWFkYjRiYTAyMDZkMmI0ODZjOTlkZjM4",
   "tracks": [
     {
       "added_at": "2022-11-25 05:41:11",
@@ -231,26 +231,6 @@
     {
       "added_at": "2022-11-25 05:41:11",
       "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 281402,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO"
-    },
-    {
-      "added_at": "2022-11-25 05:41:11",
-      "album": {
         "name": "A tua ternura",
         "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 201089,
       "name": "A tua ternura",
       "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
+    },
+    {
+      "added_at": "2022-11-25 05:41:11",
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 281402,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO"
     },
     {
       "added_at": "2022-11-25 05:41:11",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-11-25 05:41:11",
       "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2022-11-25 05:41:11",
-      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 240188,
       "name": "Grande Rei",
       "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
+    },
+    {
+      "added_at": "2022-11-25 05:41:11",
+      "album": {
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
     },
     {
       "added_at": "2022-11-25 05:41:11",

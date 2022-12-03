@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lester Lam
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,073 likes - 103 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,085 likes - 103 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 32 | [Heart to Heart, Me to You](https://open.spotify.com/track/3zmYT04KnfzjpjLiSg16KI) | [Elphie K](https://open.spotify.com/artist/6w609XuNif6TAHJ9DILzjQ) | [Heart to Heart, Me to You](https://open.spotify.com/album/6ZLyrNiJUGgofL9sLSm6PB) | 2:34 |
 | 33 | [Sin Trigger](https://open.spotify.com/track/1b8ysxE26bqztpEAVaGrfT) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Sin Trigger](https://open.spotify.com/album/3WxaGezM6hZS2bdSQnxWt5) | 4:49 |
 | 34 | [Paranoid](https://open.spotify.com/track/5p386vqrXRc5nwLFj17lZW) | [Squarehead](https://open.spotify.com/artist/2WK00atpKQCYHAEReN2nD2), [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy) | [Paranoid](https://open.spotify.com/album/2ex4x3YbrlsJbiv7QoMG76) | 3:14 |
-| 35 | [康泰旅行團](https://open.spotify.com/track/7vOtPVVGW1vmrPbHcu20gp) | [ThaiMay](https://open.spotify.com/artist/1LpLEYPXxxWLhxqqE3IyQY), [Miller Tang](https://open.spotify.com/artist/1APav5C1genIQyUbdwsKUW), [Ernest Poon](https://open.spotify.com/artist/7L6kkriuakfeQmORdXFDQ0) | [康泰旅行團](https://open.spotify.com/album/2RAiaA2aitVPHBp1cNV5yD) | 3:35 |
+| 35 | [康泰旅行團](https://open.spotify.com/track/7vOtPVVGW1vmrPbHcu20gp) | [Ernest Poon](https://open.spotify.com/artist/7L6kkriuakfeQmORdXFDQ0), [康泰旅行團](https://open.spotify.com/artist/51t1USWSiw0lgT3COvxjsy) | [康泰旅行團](https://open.spotify.com/album/2RAiaA2aitVPHBp1cNV5yD) | 3:35 |
 | 36 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 |
 | 37 | [Sick And Tired](https://open.spotify.com/track/2Df1Lx1Ahk7G9eTGlEVCxg) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sick And Tired](https://open.spotify.com/album/6mO84EaybYVN9XlkSHPQOb) | 2:59 |
 | 38 | [原石](https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag) | [Dvk.](https://open.spotify.com/artist/014lHDdSXKmOzcw3VLWNdD) | [岸邊 I](https://open.spotify.com/album/3P7a5UgCtvbt8c27DRq4vZ) | 2:41 |

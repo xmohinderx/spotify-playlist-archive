@@ -204,6 +204,28 @@
     },
     {
       "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/36RWJh1TG1uCn95OpmtHHM"
+      },
+      "artists": [
+        {
+          "name": "Ian Lasserre",
+          "url": "https://open.spotify.com/artist/4qLHglq7jZvaVZFYwEyKWa"
+        },
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238293,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/1RXXpNJcULM9cmuZwl4DPn"
+    },
+    {
+      "album": {
         "name": "\u00d8RGIA",
         "url": "https://open.spotify.com/album/2hi7x3OWSRjrXozCR8OwIA"
       },
@@ -3370,6 +3392,24 @@
     },
     {
       "album": {
+        "name": "Marca-passo",
+        "url": "https://open.spotify.com/album/7eXeKxbCFnXBHTGHlDvtf8"
+      },
+      "artists": [
+        {
+          "name": "Mayana Neiva",
+          "url": "https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195874,
+      "name": "Marca-passo",
+      "url": "https://open.spotify.com/track/4xcjZzoOX6XoIrlBfAlHBZ"
+    },
+    {
+      "album": {
         "name": "Maria Maria - Spotify Singles",
         "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
@@ -3613,7 +3653,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 201077,
       "name": "miopia",
       "url": "https://open.spotify.com/track/3kw6wS0IxPJ8STi1X00GYU"
@@ -4737,7 +4777,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 198828,
       "name": "Perguntas",
       "url": "https://open.spotify.com/track/4GgR44xRO4v09zUpTSrAlN"

@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 376679,
+  "num_followers": 377059,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDUwZGIzYTJkMzcxOTFjZjJlYjFhYTIyMDRkYzRmNjMx",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGQ1MTQ1ZDNkYjMxMGU2MTA2NzgyYzVkM2RmYTZlMTBl",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Dawn EP",
-        "url": "https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM"
-      },
-      "artists": [
-        {
-          "name": "filous",
-          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
-        },
-        {
-          "name": "James Hersey",
-          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "How Hard I Try",
-      "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Sad Song (feat. TINI)",
         "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
@@ -1323,22 +1303,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Life of a Wallflower, Vol. 1",
-        "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
+        "name": "Dawn EP",
+        "url": "https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
         },
         {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
         }
       ],
-      "duration_ms": 184814,
-      "name": "Superlove (feat. Oh Wonder)",
-      "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
+      "duration_ms": 198000,
+      "name": "How Hard I Try",
+      "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1359,6 +1339,26 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Life of a Wallflower, Vol. 1",
+        "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 184814,
+      "name": "Superlove (feat. Oh Wonder)",
+      "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
     },
     {
       "added_at": "2022-01-18 14:54:04",

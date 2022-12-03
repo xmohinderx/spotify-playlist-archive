@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f). hemlocke springs on the cover.",
+  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f). cover: hemlocke springs on the cover.",
   "name": "indie pop & chill",
   "published_playlist_ids": [
     "4lgMQu4P2ziouf8Qz9MR8Q"
@@ -2018,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Break My Fall",
+        "url": "https://open.spotify.com/album/1at7bad2VMRKWewCs9yBgt"
+      },
+      "artists": [
+        {
+          "name": "nodisco.",
+          "url": "https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208593,
+      "name": "Break My Fall",
+      "url": "https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy"
+    },
+    {
+      "album": {
         "name": "Broke Mine",
         "url": "https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd"
       },
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 176712,
       "name": "Coat Check",
       "url": "https://open.spotify.com/track/1B5TgBX9UxelP09rjBHEIU"
@@ -7983,6 +8001,28 @@
       "duration_ms": 242854,
       "name": "I Let My Plant Die",
       "url": "https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE"
+    },
+    {
+      "album": {
+        "name": "I Live In Patterns (feat. Alix Page)",
+        "url": "https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        },
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "I Live In Patterns (feat. Alix Page)",
+      "url": "https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv"
     },
     {
       "album": {
@@ -16349,7 +16389,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 170175,
       "name": "The Symptoms of Vanity",
       "url": "https://open.spotify.com/track/3P46IcnN4aYYPGR6QiLn7g"

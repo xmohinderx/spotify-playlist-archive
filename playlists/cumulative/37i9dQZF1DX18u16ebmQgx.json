@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u00a1Brillando baldosa! Foto: Grupo Niche",
+  "description": "\u00a1Brillando baldosa! Foto: Juan Carlos Ensamble",
   "name": "Salsa Colombiana",
   "published_playlist_ids": [
     "1eegQiXfJaHta2senGpLua"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 260865,
       "name": "Canciones Viejas",
       "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
@@ -897,6 +897,24 @@
       "duration_ms": 293487,
       "name": "La Semilla",
       "url": "https://open.spotify.com/track/2AiboEBJGdThK0EiQwmvT7"
+    },
+    {
+      "album": {
+        "name": "La \u00danica",
+        "url": "https://open.spotify.com/album/1SCjBabL3glZMAXCwqC5W7"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Ensamble",
+          "url": "https://open.spotify.com/artist/2D6mQmDTdaLcA9BZytb4yk"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177179,
+      "name": "La \u00danica",
+      "url": "https://open.spotify.com/track/4ecq0bpcAfBzdAwA20Sy5M"
     },
     {
       "album": {

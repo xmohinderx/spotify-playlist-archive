@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Boris Brejcha
 
-254 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+255 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-08-18 | 2022-08-20 |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/1PuxHPD8l3mm2CbxrMXy8N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Clara \(the night is dark\)](https://open.spotify.com/album/6nneI0xOh7SR2zvzHcvB5g) | 4:38 | 2022-10-27 | 2022-11-04 |
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-08-18 | 2022-08-22 |
-| [Club Jesus](https://open.spotify.com/track/1kUyULtTbURwJ1D0mwQCbv) | [Sanoi](https://open.spotify.com/artist/2SBLKhyt0dAKZXEU80zWLh), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Club Jesus](https://open.spotify.com/album/0r8wkVFxGEamipTwz2I718) | 3:43 | 2022-12-01 |  |
+| [Club Jesus](https://open.spotify.com/track/1kUyULtTbURwJ1D0mwQCbv) | [Sanoi](https://open.spotify.com/artist/2SBLKhyt0dAKZXEU80zWLh), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Club Jesus](https://open.spotify.com/album/0r8wkVFxGEamipTwz2I718) | 3:43 | 2022-12-01 | 2022-12-03 |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-18 |  |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-09-08 |  |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-01 | 2022-12-02 |
@@ -106,6 +106,7 @@
 | [Hours and Hours](https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Hours and Hours](https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df) | 4:05 | 2022-09-22 | 2022-11-05 |
 | [Human Shape \- warner case Remix](https://open.spotify.com/track/6JlDfotRZUlQ61TQSMfA1A) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [DREAM SOUP \(Remixes\)](https://open.spotify.com/album/6ShdN890xoqUKFSZRngm1A) | 4:15 | 2022-09-01 | 2022-10-04 |
 | [Hunger For Your Vibe \- Moonwalk Remix](https://open.spotify.com/track/4YUM6w6KqQLEwxi3ShRA8T) | [Arm In Arm](https://open.spotify.com/artist/1nWTuAPoIl3Ig7QUxuFgdl), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Hunger for Your Vibe](https://open.spotify.com/album/214rxKKvsoEgvjDgZ7aUDk) | 6:32 | 2022-08-19 | 2022-08-26 |
+| [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-01 |  |
 | [Hypno](https://open.spotify.com/track/5IrRddhCAkOSc51EFWYRRT) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Trick, Pt\. 1](https://open.spotify.com/album/3M56M1PoVddtL3Q0wVmTH4) | 7:24 | 2022-11-24 |  |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2022-08-18 | 2022-08-20 |
 | [I Need Some](https://open.spotify.com/track/7blWEpws63flJYjkyNhGya) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [I Need Some](https://open.spotify.com/album/1VMj4op3upCissjO0BF163) | 2:22 | 2022-10-27 | 2022-12-02 |

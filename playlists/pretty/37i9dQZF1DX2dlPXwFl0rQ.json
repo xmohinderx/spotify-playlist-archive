@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Dueto Eleval en portada.",
-  "num_followers": 78140,
+  "num_followers": 78179,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDQ3MmRjMTZjMWY5ZmM5ZjMyMzIzZGQ2MjgzOWRkMDgz",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGQ1MzY4NjMzMjljMWUzNTU1ZDkwOWYwYTliN2E2NjI3",
   "tracks": [
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Siempre Vuelvo A Ti",
         "url": "https://open.spotify.com/album/2dIhh5rHaiCNx3OZGIG35w"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 168154,
       "name": "Ni Diabla Ni Santa",
       "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
     },
     {
       "added_at": "2022-09-23 05:00:00",

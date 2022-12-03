@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 539039,
+  "num_followers": 539423,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMGRlNmMxNDE5MjQ3NjUzZjg0MzAyYWU2MjIyNWZkNzFk",
+  "snapshot_id": "MTY2OTM4MTU3MiwwMDAwMDAwMDE3Yjg2NjdlOTRiY2FjYmY4ZTI4ZmVkNzk3NGZhNWM3",
   "tracks": [
     {
       "added_at": "2022-11-25 13:06:12",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Altered Destiny",
-        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 185578,
-      "name": "Altered Destiny - Chill Mix",
-      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 193064,
       "name": "So Good",
       "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -439,6 +439,38 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Burning Out EP",
+        "url": "https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 324313,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Ice Raven",
+        "url": "https://open.spotify.com/album/4p2Mk3NmEEn4bFgixImdqN"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Masseyeff",
+          "url": "https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv"
+        }
+      ],
+      "duration_ms": 407804,
+      "name": "Ice Raven",
+      "url": "https://open.spotify.com/track/4IK547npKWryEQh97Wzsrl"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Ode Ireti (Nitefreak Remix)",
         "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
       },
@@ -463,38 +495,6 @@
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Ice Raven",
-        "url": "https://open.spotify.com/album/4p2Mk3NmEEn4bFgixImdqN"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Masseyeff",
-          "url": "https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv"
-        }
-      ],
-      "duration_ms": 407804,
-      "name": "Ice Raven",
-      "url": "https://open.spotify.com/track/4IK547npKWryEQh97Wzsrl"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Burning Out EP",
-        "url": "https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 324313,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Future Disco: Poolside Sounds Vol. 10",
         "url": "https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 228187,
       "name": "All That Glitters",
       "url": "https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 232194,
+      "name": "Night Jaguars",
+      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Far Behind",
         "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 234685,
       "name": "Far Behind",
       "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "Night Jaguars",
-      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
       },
@@ -1163,42 +1179,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
-      },
-      "artists": [
-        {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
-        },
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Through The Night - Radio Edit",
-      "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Kilian",
         "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
-        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
       },
       "artists": [
         {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
         }
       ],
-      "duration_ms": 446079,
-      "name": "ut i rommet",
-      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
+      "duration_ms": 155720,
+      "name": "Through The Night - Radio Edit",
+      "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
         }
       ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1283,6 +1267,22 @@
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1319,6 +1319,22 @@
       "duration_ms": 484645,
       "name": "Sun Salutations",
       "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1363,18 +1379,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
         }
       ],
-      "duration_ms": 420272,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Disco Voador (Oliver Koletzki Remix)",
-        "url": "https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        },
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 381442,
-      "name": "Disco Voador - Oliver Koletzki Remix",
-      "url": "https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Camaleon",
         "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
       },
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Speed Of Sound",
-        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 431419,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Studio A Pt.1",
         "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 367578,
       "name": "Basic Juno",
       "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Disco Voador (Oliver Koletzki Remix)",
+        "url": "https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        },
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 381442,
+      "name": "Disco Voador - Oliver Koletzki Remix",
+      "url": "https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx"
     },
     {
       "added_at": "2022-11-25 13:06:12",

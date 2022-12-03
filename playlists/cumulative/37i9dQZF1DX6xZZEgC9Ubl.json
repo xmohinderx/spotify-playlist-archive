@@ -788,6 +788,24 @@
     },
     {
       "album": {
+        "name": "LIVE FOREVER",
+        "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111506,
+      "name": "angeldust",
+      "url": "https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK"
+    },
+    {
+      "album": {
         "name": "ANGELS & DEMONS",
         "url": "https://open.spotify.com/album/2bik66u6GQAzrLi92oYsBj"
       },
@@ -5881,7 +5899,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 161333,
       "name": "i can't stop",
       "url": "https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe"

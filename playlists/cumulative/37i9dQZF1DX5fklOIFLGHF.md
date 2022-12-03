@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: El Cuarteto De Nos.
 
-266 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/56SMHx11i5aVGx2LZ3nkds)
+268 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/56SMHx11i5aVGx2LZ3nkds)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Color](https://open.spotify.com/track/0OoQ3Juk2ukmdOzvxaKyOf) | [La Saga](https://open.spotify.com/artist/4E0jqZtxbwVYgtdj4Ydico) | [El Vendaval](https://open.spotify.com/album/3li7ITSe2mphwtBJsozLPW) | 3:36 | 2022-05-20 | 2022-07-29 |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-07-08 |  |
 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 | 2022-05-20 |  |
-| [Como Olvidarme](https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:48 | 2022-05-20 |  |
+| [Como Olvidarme](https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:48 | 2022-05-20 | 2022-12-03 |
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-05-20 | 2022-07-20 |
 | [Contradicción](https://open.spotify.com/track/5ZO39qQ9zMDxrVK9ePCNAq) | [Tabaré Cardozo](https://open.spotify.com/artist/5Xm9ynJD7wkdtI5HR2ux9K), [Jorge Nasser](https://open.spotify.com/artist/4di0stdnh2Ia1SMqn5dWd9) | [Contradicción](https://open.spotify.com/album/3BDWrmiQrikcQRbIOsa6F9) | 3:57 | 2022-07-08 | 2022-07-21 |
 | [Contrapunto para Humano y Computadora](https://open.spotify.com/track/5wjFUjiT4gKddiTX9urqN2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Jueves](https://open.spotify.com/album/6CLlWqMKd95lyqfHKBzSM4) | 5:40 | 2022-05-20 | 2022-07-29 |
@@ -71,6 +71,7 @@
 | [De Tan Libre](https://open.spotify.com/track/0y9sKvTdAq1a31nGJPSsvC) | [Alberto Wolf](https://open.spotify.com/artist/0PxROnBgJGsMQw3QoWkpwT), [Los Terapeutas](https://open.spotify.com/artist/0OcTa0M4mI4tYYGKBOYqCs) | [De](https://open.spotify.com/album/48oZ9GKKiqwaUNSVQQHeO7) | 4:10 | 2022-07-08 | 2022-07-28 |
 | [Decis Que No](https://open.spotify.com/track/6gS0H9il78eIK2XgpscZgm) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Decis Que No](https://open.spotify.com/album/2TNSW6V3rsuKEf9S0PQACC) | 3:26 | 2022-07-01 | 2022-07-15 |
 | [Dedos](https://open.spotify.com/track/7aRjcp3b110Bu2DcSs1IKh) | [Totem Uruguay](https://open.spotify.com/artist/3gSMcoFtI4aMgYDYNK2DHY) | [Totem](https://open.spotify.com/album/34ywELgakejCKU2p37wJJ8) | 4:30 | 2022-07-01 | 2022-07-24 |
+| [Deja Su Lugar](https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Deja Su Lugar](https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4) | 3:55 | 2022-12-02 |  |
 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 | 2022-05-20 | 2022-07-29 |
 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 | 2022-05-20 | 2022-11-13 |
 | [Desesperación](https://open.spotify.com/track/1w2304mMZHbeOxSNknkj24) | [Luis Angelero](https://open.spotify.com/artist/3xgnzKKYpO6Jp0ARI1O6LL) | [Desesperación](https://open.spotify.com/album/4sIEzkOHRqNNdjmxGmp6LM) | 2:39 | 2022-07-08 | 2022-07-12 |
@@ -113,7 +114,7 @@
 | [Himno de los Conductores Imprudentes](https://open.spotify.com/track/0DG1pFBluidrtYQbqCBpfn) | [Los Tontos](https://open.spotify.com/artist/6WMidNwOwRxIMeUlhe1ZF6) | [Los Tontos](https://open.spotify.com/album/1LZORzh4MfqNnl84fY0KwR) | 2:43 | 2022-07-01 | 2022-07-08 |
 | [Historias del Ayer](https://open.spotify.com/track/6z1rsdWp4weaG6Vk44lg5X) | [Hijos de la Marea](https://open.spotify.com/artist/61jpCm2O5kIdfbzAj58dwB) | [Historias del Ayer](https://open.spotify.com/album/6Wvi9J4hX2jzVhHvFWkq1g) | 3:33 | 2022-07-08 | 2022-07-24 |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2022-07-08 |  |
-| [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2022-07-08 |  |
+| [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2022-07-08 | 2022-12-03 |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 | 2022-07-08 |  |
 | [Iluminador](https://open.spotify.com/track/0OHjA32vvt6SplJuExyjYy) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Iluminador](https://open.spotify.com/album/02NrzFWfOi6fwcDGLd2Fat) | 3:16 | 2022-07-01 | 2022-07-24 |
 | [Ilusión](https://open.spotify.com/track/7sxwjqjRzpfXSyLCBrhU25) | [Diego González](https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9) | [Ilusión](https://open.spotify.com/album/2HugFbm25jbXhGeD2bQwXO) | 3:57 | 2022-07-08 | 2022-07-29 |
@@ -229,6 +230,7 @@
 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:50 | 2022-07-08 |  |
 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 | 2022-07-08 |  |
 | [Superhéroes](https://open.spotify.com/track/6RA3Qq8YcT92IgcgIipigE) | [Martín Rosito](https://open.spotify.com/artist/6lyFcWleIV9hy1Xl5FmSJn), [Garo Arakelián](https://open.spotify.com/artist/2PTDMiM5qpGaHuy03Rkk5K) | [Superhéroes](https://open.spotify.com/album/0GRPrw5VBuKbW2IqXQlLv3) | 3:44 | 2022-07-08 | 2022-07-11 |
+| [Surtido](https://open.spotify.com/track/61Vz32W74Ty0OwM8KGeSud) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Surtido](https://open.spotify.com/album/2mCfQzd2pUWD1l71xRIP0E) | 3:38 | 2022-12-02 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2022-07-08 |  |
 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-07-08 |  |
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2022-07-08 |  |

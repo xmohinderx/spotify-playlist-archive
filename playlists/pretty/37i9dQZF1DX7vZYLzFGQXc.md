@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Korea in 2022\. \(Cover: Evelyn Hahn\(에이블린 한\)\) 2022년 Fresh Finds Korea를 빛낸 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,494 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,587 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 14 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 |
 | 15 | [Count On Me](https://open.spotify.com/track/1FzglcHcXeAKKrj8jtTf5O) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7) | [Lit Addict 2](https://open.spotify.com/album/6IwrDuCjs6pXlMdoAVGJoO) | 3:14 |
 | 16 | [You know everything](https://open.spotify.com/track/3gUbxvr8LQ3OhT69E82crb) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Someone's playlist \#8](https://open.spotify.com/album/7tNp4kGCYT55TKWDdciZ94) | 4:55 |
-| 17 | [nobody in the sea](https://open.spotify.com/track/4M4hcDWeT39ofj1zPzzhiR) | [Coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/3KyuLkpPD0YX7SDJNBuCd8) | 3:17 |
+| 17 | [nobody in the sea](https://open.spotify.com/track/6VAk0q2b9soXU6LZNq5TRF) | [Coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [nobody in the sea](https://open.spotify.com/album/7ibkKmBjuuAoQxIss1ovq1) | 3:17 |
 | 18 | [SAKURA](https://open.spotify.com/track/79fhDI559oHJZIlbBBaHJI) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [SAKURA](https://open.spotify.com/album/2mylbh0V9gJFFzGTsW1iwb) | 2:26 |
 | 19 | [LOVE, LOVE](https://open.spotify.com/track/19VTbnXgwa9wKDPUnD7XYu) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [LOVE, LOVE](https://open.spotify.com/album/5nqsSh2xyxBowizTNbZ6zC) | 3:37 |
 | 20 | [Timing pool](https://open.spotify.com/track/2tq464dC5rz9z9LI2YAqo2) | [MOA](https://open.spotify.com/artist/4fCrr7xTKNEREwl8jRA3c2) | [Timing pool](https://open.spotify.com/album/7iDI0uHJAzTb4gujf6yT9w) | 3:37 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 27 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 | 28 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 | 29 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 |
-| 30 | [pretend to](https://open.spotify.com/track/1242GIgPtiaM1ewZOjam62) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [I'm a Loser](https://open.spotify.com/album/5fshIm1ZpoJNYHd7Aje4fN) | 4:07 |
+| 30 | [척 X pretend to](https://open.spotify.com/track/759NDy2g8IKBHpS5ULPb6n) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [나는야 찌질이 I'm a Loser](https://open.spotify.com/album/0syKC4hO6yzxl66JrS5hgD) | 4:07 |
 | 31 | [Thursday Night](https://open.spotify.com/track/35RJJaoJr1Bqjj6VpbbSqY) | [Heo Daniel](https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m) | [Hideournight](https://open.spotify.com/album/6Re11JZ1ikN625JT2KyNgh) | 2:45 |
 | 32 | [Let It Flow](https://open.spotify.com/track/4fTOPwvPHsM3hJYvmlXWUN) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Let It Flow](https://open.spotify.com/album/1IiiWP1vj8Y8xZTfaVvvrz) | 3:04 |
 | 33 | [Where is blue?](https://open.spotify.com/track/1cxNgmHrEug6UhsnYT9QOZ) | [YUJIHI](https://open.spotify.com/artist/4hYIVGn9yq7nl2qTYyw2ZC) | [Where is blue?](https://open.spotify.com/album/2qbj1AeEvFzJecYzsgUQ6A) | 3:03 |
 | 34 | [Tunnel \(With KARDI\)](https://open.spotify.com/track/2sa1g3kg5YZ38ljNXgka0R) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9), [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5EihymcBwn2WRu1RQ7RxW9) | 3:59 |
 | 35 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
 | 36 | [DON’T WORRY](https://open.spotify.com/track/1FLfZ91gqzRk4cRG0lDQtD) | [LEEYOUNGWOONG](https://open.spotify.com/artist/6lA59rirEDW0rZFUV0TfCu), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [SOMEDAY](https://open.spotify.com/album/0Edm0pRtYxP35bJK0iCBYv) | 3:10 |
-| 37 | [Over U](https://open.spotify.com/track/73fUH9vcrYWTbMfXQ7VZSO) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [Over U](https://open.spotify.com/album/3QZuRwsZn4PNaOlPZwbZwB) | 3:59 |
+| 37 | [Over U](https://open.spotify.com/track/6DZaR9dv785UjGVhJDIt5g) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [Over U](https://open.spotify.com/album/4RcwDJ81RTTKKF18cZ6DP6) | 3:59 |
 | 38 | [Puzzle](https://open.spotify.com/track/5KqRRrD2Q9S0WNRFWssDKm) | [MEENA](https://open.spotify.com/artist/4qLPEVEbuZwDd8C8FDPpQn) | [Puzzle](https://open.spotify.com/album/0resjwv5sf8g5qblLITBGp) | 3:29 |
 | 39 | [Wake’em Up](https://open.spotify.com/track/4bJOJ4xXyzaTdqngkdoRdz) | [Darley](https://open.spotify.com/artist/5oozOQ8DH87yhpAWh0C3B4) | [Helm](https://open.spotify.com/album/4xbtrZ1Hg0d3IvVlkITRin) | 4:53 |
 | 40 | [28 DREAM](https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [28 DREAM](https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [snowfall](https://open.spotify.com/track/2c5dezBufJJg28W8rwD3UO) | [Joong Hoon](https://open.spotify.com/artist/2pj7LHgyIfxjiTOx06ky7v) | [snowfall](https://open.spotify.com/album/5itkFqsB7JLWeLlkhmjkO7) | 2:55 |
 | 50 | [The sea](https://open.spotify.com/track/1eDhGNj67wdDftrPhy2A7e) | [Choi](https://open.spotify.com/artist/0mCfY94zBDWy5URZg6cjq0) | [The sea](https://open.spotify.com/album/5LXFBqEZhdcxd4WzfFHIZj) | 3:26 |
 
-Snapshot ID: `MTY2OTgyNjcwNiwwMDAwMDAwMDM1MTgyNWUyNDE1M2MxZWFmN2U0ZGJiZjViZDFhZmIy`
+Snapshot ID: `MTY2OTgyNjcwNiwwMDAwMDAwMGU4MDhmNzNiMGI5ODk4YmUyNzczMDllYTIxYWM2YmFj`

@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lily Meola",
-  "num_followers": 75338,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: SkyeChristy",
+  "num_followers": 75448,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGM2MGM3MGNjNDk3OTZjOTJhZjQ2OTI2ZTY4MjcxMTc1",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDFiN2E2YzY3ODg2ODE0YTgwM2ZiNTdjMjE4NzhhOWZi",
   "tracks": [
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "I'm Not Like Alice",
+        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 136153,
+      "name": "I'm Not Like Alice",
+      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
+    },
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 189672,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Poetic License",
+        "url": "https://open.spotify.com/album/7G2Dh8OsAMclQAWIShyb7v"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Prophecies",
+      "url": "https://open.spotify.com/track/4Et7m1pazErkSegnrBNXkF"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Skeleton Key",
+        "url": "https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Skeleton Key",
+      "url": "https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -41,6 +89,22 @@
       "url": "https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "When All The Love Is Gone",
+        "url": "https://open.spotify.com/album/50tEgzs9IIHisH2Rd7gKhK"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "When All The Love Is Gone",
+      "url": "https://open.spotify.com/track/5dfPvmSrPuhS8j7SKwCOC3"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Green",
@@ -55,6 +119,22 @@
       "duration_ms": 204643,
       "name": "Green",
       "url": "https://open.spotify.com/track/1cNA86HqElqyeD2GMonlpl"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Priority",
+        "url": "https://open.spotify.com/album/7lEsXKTCD1OspayrdWKfgQ"
+      },
+      "artists": [
+        {
+          "name": "Ellye Lennon",
+          "url": "https://open.spotify.com/artist/77rboyrzZ7IKcJWX1raGGM"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "Priority",
+      "url": "https://open.spotify.com/track/3YS2XHzhnFyAEmfQbLIjaM"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -73,6 +153,22 @@
       "url": "https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Drunk in the Bathtub",
+        "url": "https://open.spotify.com/album/7sbfuEc5X1TwieMFPRXn6t"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 166030,
+      "name": "Drunk in the Bathtub",
+      "url": "https://open.spotify.com/track/1EFfOdupn1DbhX9WLP5efs"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "scared to go to sleep",
@@ -87,6 +183,22 @@
       "duration_ms": 165165,
       "name": "eat ur heart out",
       "url": "https://open.spotify.com/track/53QT3zKgxfkMPyJ6rUjwLz"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "I Wanna Be In Love Again",
+        "url": "https://open.spotify.com/album/0jiEtrM5SHUJ2lAqDBlgdY"
+      },
+      "artists": [
+        {
+          "name": "Madds Buckley",
+          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
+        }
+      ],
+      "duration_ms": 277498,
+      "name": "I Wanna Be In Love Again",
+      "url": "https://open.spotify.com/track/3SoskoFsarFxM4xiGN2VvQ"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -135,22 +247,6 @@
       "duration_ms": 172366,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "If I Died Last Night",
-        "url": "https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 164678,
-      "name": "If I Died Last Night",
-      "url": "https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -251,22 +347,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 155522,
-      "name": "Machine Learning",
-      "url": "https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Used To",
         "url": "https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q"
       },
@@ -295,22 +375,6 @@
       "duration_ms": 259741,
       "name": "letters from god",
       "url": "https://open.spotify.com/track/0kRxV8iHIHqqf1LEpfb2F5"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Let Me Be The One",
-        "url": "https://open.spotify.com/album/7biN9Lam2gbmUND7Tn9qPj"
-      },
-      "artists": [
-        {
-          "name": "Lily Williams",
-          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
-        }
-      ],
-      "duration_ms": 217124,
-      "name": "Let Me Be The One",
-      "url": "https://open.spotify.com/track/3x8V3QRBYi2CDZYDEoH74G"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1435,22 +1499,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "When She Smiles",
         "url": "https://open.spotify.com/album/2kVhRjlUMhPF9ewhBB3y7j"
       },
@@ -1547,22 +1595,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "A song about a 14 hour drive",
-        "url": "https://open.spotify.com/album/3LMduFUb5BYbMTTgGWK4RK"
-      },
-      "artists": [
-        {
-          "name": "Harry Hudson",
-          "url": "https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr"
-        }
-      ],
-      "duration_ms": 194776,
-      "name": "A song about a 14 hour drive",
-      "url": "https://open.spotify.com/track/6DQo14uIZJpra7QYQqY165"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "My Eyes Only",
         "url": "https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19"
       },
@@ -1575,54 +1607,6 @@
       "duration_ms": 194545,
       "name": "My Eyes Only",
       "url": "https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Isolate Myself",
-        "url": "https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C"
-      },
-      "artists": [
-        {
-          "name": "Mallory Merk",
-          "url": "https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF"
-        }
-      ],
-      "duration_ms": 185019,
-      "name": "Isolate Myself",
-      "url": "https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/1dTTM2vQpUbvmEYaMAS0rm"
-      },
-      "artists": [
-        {
-          "name": "Jules Paymer",
-          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/5Y5GCQcDkcndKKiKel6tK8"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "The Kids Table",
-        "url": "https://open.spotify.com/album/6BUjnH6B8ZQH1CGhPT4UGJ"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Love of My Life",
-      "url": "https://open.spotify.com/track/1KiJFIMQrRH14WF5ntkZbf"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

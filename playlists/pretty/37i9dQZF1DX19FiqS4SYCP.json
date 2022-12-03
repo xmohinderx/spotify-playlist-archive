@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140916,
+  "num_followers": 140922,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDc5NWU4N2NlMjA2NWUwMjQwYTcwMWU0ZGFmYmVjOGEy",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGM5MWYwZGU5YWZkNGIxZGU2NjgwZWZlMjhiZDM3OTk3",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Por Una Cantina",
-        "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
-      },
-      "artists": [
-        {
-          "name": "David Farias",
-          "url": "https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Por Una Cantina",
-      "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Mi Tesoro",
         "url": "https://open.spotify.com/album/4Y0NtgWtAJvRvgo20xYRHy"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 207725,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1tIcWX7l6ONDoomJWeizc5"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Por Una Cantina",
+        "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
+      },
+      "artists": [
+        {
+          "name": "David Farias",
+          "url": "https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Por Una Cantina",
+      "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
+        "name": "Live Sessions 1",
+        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
       },
       "artists": [
         {
-          "name": "Sunny Sauceda Y Todo Eso",
-          "url": "https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP"
+          "name": "Meste\u00f1o",
+          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
         }
       ],
-      "duration_ms": 231048,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
+      "duration_ms": 213211,
+      "name": "Ya No Te Aguanto Moe (Live)",
+      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Live Sessions 1",
-        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
       },
       "artists": [
         {
-          "name": "Meste\u00f1o",
-          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
+          "name": "Sunny Sauceda Y Todo Eso",
+          "url": "https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP"
         }
       ],
-      "duration_ms": 213211,
-      "name": "Ya No Te Aguanto Moe (Live)",
-      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
+      "duration_ms": 231048,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "N\u00famero Dos",
         "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 192000,
       "name": "No Quiero Nada",
       "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "That\u2019s All I\u2019ve Got to Say",
         "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Entre El Frio Y El Calor",
         "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
-      },
-      "artists": [
-        {
-          "name": "Lydia Castillo",
-          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
-        }
-      ],
-      "duration_ms": 220003,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Mentias",
         "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 199870,
       "name": "Mentias",
       "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
+      },
+      "artists": [
+        {
+          "name": "Lydia Castillo",
+          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Trampa De Amor",
-        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
-      },
-      "artists": [
-        {
-          "name": "VIRGINIA Y VALOR",
-          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Trampa De Amor",
-      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Un D\u00eda Veras",
         "url": "https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 227262,
       "name": "Un D\u00eda Veras",
       "url": "https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
+      },
+      "artists": [
+        {
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     },
     {
       "added_at": "2022-09-15 18:41:23",

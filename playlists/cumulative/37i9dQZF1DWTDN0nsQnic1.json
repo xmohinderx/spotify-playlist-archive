@@ -327,10 +327,32 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK"
+    },
+    {
+      "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210439,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH"
     },
     {
       "album": {

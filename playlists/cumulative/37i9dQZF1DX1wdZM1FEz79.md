@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: J Rabbit\(제이레빗\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-420 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+421 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [For a Long Time 오래도록 반짝이게](https://open.spotify.com/track/1iyrKf79eBRdPoxQ1zawzu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End of The Summer 새봄, 04 소품집 \`여름녘\`](https://open.spotify.com/album/0pgphJHEePy829QEVesrXs) | 4:03 | 2021-12-10 | 2022-07-29 |
 | [For Lovers who Hesitate](https://open.spotify.com/track/7DvYdIOzC25BqAucmEMa7K) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Adolescence](https://open.spotify.com/album/079llPxFVYSKxxOM4vbczw) | 3:44 | 2022-03-31 | 2022-04-21 |
 | [For You](https://open.spotify.com/track/5VMFjdoJquu5BH6Ti3GYSZ) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [For You](https://open.spotify.com/album/2eR6McDzZsDA7K7DWibT6k) | 4:04 | 2022-01-13 | 2022-05-23 |
-| [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 |  |
+| [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 | 2022-09-05 | 2022-12-03 |
 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 | 2021-12-10 |  |
 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 | 2021-12-10 |  |
 | [From Me To You](https://open.spotify.com/track/421hiNw7zfbeS9wALKMr5K) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [From Me To You](https://open.spotify.com/album/3GomXLTbqeK1piqSa7ryWW) | 3:45 | 2021-12-10 | 2022-04-19 |
@@ -222,6 +222,7 @@
 | [Meet you at the Laundromat](https://open.spotify.com/track/0CuAnh471BDS8me2OJDFU4) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Meet you at the Laundromat](https://open.spotify.com/album/1wTrc2Hv2t8weAcxjeO75o) | 3:28 | 2022-05-11 | 2022-06-10 |
 | [Memory 여기](https://open.spotify.com/track/5zfJyDPk9BV8d7iy6Hh8Bb) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Memory 여기](https://open.spotify.com/album/5HpInJwEnXIf3hnGKmKdWz) | 4:28 | 2022-03-31 | 2022-04-21 |
 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 | 2021-12-10 | 2022-07-14 |
+| [Missing You](https://open.spotify.com/track/1euacZfEZhuUcGleQFLJSS) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/55pitdWiMC7ADRWJUOo6VP) | 3:54 | 2022-11-20 |  |
 | [Moving](https://open.spotify.com/track/35L4lqHZI0mJhL3jteE0QQ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [2526](https://open.spotify.com/album/6SlXEsi7mF3mvoz5yBxxDo) | 3:05 | 2022-01-13 | 2022-04-06 |
 | [My Best, My Love 고생많았어](https://open.spotify.com/track/0IqHoofEMMDF8PNGa4cBXZ) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [HIDDEN TRACK NO.V Vol.1](https://open.spotify.com/album/06p1MyiQ9pmdEFOTlglNBA) | 4:09 | 2022-03-31 | 2022-04-20 |
 | [My darling](https://open.spotify.com/track/6dN3zl2CPLQtyZpRcLemy5) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [My darling](https://open.spotify.com/album/2SwPIGMwdkzE4DkCmcNfFr) | 3:20 | 2022-01-13 | 2022-04-14 |

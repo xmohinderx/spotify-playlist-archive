@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 
 > Meditate to the sound of soothing voices and flutes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,806 likes - 98 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,834 likes - 98 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 8 | [Mílon](https://open.spotify.com/track/2Dv1DUFmC8ElSUSTy7s9Ma) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 4:24 |
 | 9 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 10 | [Spirituality](https://open.spotify.com/track/541WtSF3QB1Rq4sSsc8Akk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Spirituality](https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2) | 1:55 |
-| 11 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Euryn](https://open.spotify.com/artist/3gZqDSLp1atN62BEKtHMyS) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
+| 11 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
 | 12 | [I Know A Secret](https://open.spotify.com/track/3yaKNCPHtIDunZKRi0x6Qf) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [I know a secret](https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS) | 3:22 |
 | 13 | [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 |
 | 14 | [Sueño Profundo en la Naturaleza](https://open.spotify.com/track/0UjWCglRetLJvfzhpC1I6H) | [Música Relajante](https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR) | [Sueño Profundo En La Naturaleza](https://open.spotify.com/album/2ObWpuVUCTCT95yY7jsLTc) | 1:14 |

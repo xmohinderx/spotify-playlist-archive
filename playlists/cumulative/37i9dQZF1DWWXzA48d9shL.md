@@ -2,9 +2,9 @@
 
 ### [Tirade](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> Rap from hell\. Cover: Freddie Dredd
+> Rap from hell\. Cover: $uicideboy$ and Germ
 
-342 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+344 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [MONOCHROME](https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MONOCHROME](https://open.spotify.com/album/1VdHzzopSxbS83ttJ3hIRg) | 2:19 | 2022-11-18 |  |
 | [Mr\. Make Her Dance](https://open.spotify.com/track/4DtVUDgdAyUynlbZPrbj24) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Mr\. Make Her Dance](https://open.spotify.com/album/2bFOfBfOwE10X9B6CPyQmO) | 2:35 | 2022-04-15 |  |
 | [MUDD](https://open.spotify.com/track/0MEMJNYVMS7TBNgFzV1aVN) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [Day$okee](https://open.spotify.com/artist/6aLKPuO7rSHfgRhDkYzfJF) | [MUDD](https://open.spotify.com/album/2WwhmvIhoJ5FVzDPc2NuVH) | 2:21 | 2022-09-02 |  |
+| [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 | 2022-12-02 |  |
 | [MYLAR](https://open.spotify.com/track/3Qw7LPrzt23bdQXMsguiyb) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MYLAR](https://open.spotify.com/album/4Dv0bJQKXIOwcV30jhuNCc) | 2:52 | 2022-11-25 |  |
 | [NADA](https://open.spotify.com/track/6CBGS3dppVtfF1WDKTuTb6) | [YKARE](https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1) | [NADA](https://open.spotify.com/album/7EueOgedGZdZ3sZk8OAlvS) | 1:51 | 2022-03-09 | 2022-04-20 |
 | [Never Enough](https://open.spotify.com/track/08mjZYnpAFVWjKtLom6lRg) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4) | [Never Enough](https://open.spotify.com/album/5PE0K2u8spjs5v55RPYMOE) | 2:00 | 2022-02-04 | 2022-05-17 |
@@ -349,6 +350,7 @@
 | [YASOPP](https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 1:37 | 2021-10-29 | 2022-11-26 |
 | [ZION](https://open.spotify.com/track/6d50U6mggEyAZHrFfblVpE) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [ZION](https://open.spotify.com/album/6l3tyk6ErNLCFawmOBxtjE) | 2:15 | 2022-01-12 | 2022-01-19 |
 | [Zit \(feat\. Pouya\)](https://open.spotify.com/track/1gsAh8JFfPfqj9JpssHYDv) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 2:48 | 2021-09-17 | 2022-05-16 |
+| [ÅÅÅFRESTELSE](https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [ÅÅÅFRESTELSE](https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR) | 2:22 | 2022-12-02 |  |
 | [Грустная сука](https://open.spotify.com/track/18hIrODUziu3KyUxeDKlcq) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/1x5XZhwID74j0tqkcU6hCy) | 3:19 | 2021-09-17 | 2022-04-20 |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.
