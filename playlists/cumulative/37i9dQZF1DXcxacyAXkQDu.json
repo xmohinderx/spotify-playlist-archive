@@ -4974,6 +4974,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231723,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
+    },
+    {
+      "album": {
         "name": "Glasshouse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw"
       },
@@ -9814,6 +9832,24 @@
     },
     {
       "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
+    },
+    {
+      "album": {
         "name": "Hard Settle, Ain't Troubled",
         "url": "https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR"
       },
@@ -11133,7 +11169,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 182827,
       "name": "Something American",
       "url": "https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s"
@@ -11331,7 +11367,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 191304,
       "name": "Sorry Would Go A Long Way",
       "url": "https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO"

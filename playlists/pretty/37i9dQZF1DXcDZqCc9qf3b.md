@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Spirit Rangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,463 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,491 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

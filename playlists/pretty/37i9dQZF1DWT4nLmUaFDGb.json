@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 279547,
+  "num_followers": 280601,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMDc4NGNhZTRkZmU2MmVhYWFlYzRmNWE2NjFlMGM0NjVk",
+  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMDJjYWM3NGViM2NhMmZlNjg1ZmMyYWI4NzJmODZlODdk",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "The Gospel Truth (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Introducing",
         "url": "https://open.spotify.com/album/18k94eozbQ5Ro7AyYMxOSF"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 217573,
       "name": "Dream A Little Dream",
       "url": "https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "The Gospel Truth (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -463,22 +463,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Genius Loves Company",
-        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        },
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 210854,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
+      "duration_ms": 171253,
+      "name": "What Love Will Do to You",
+      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -515,6 +511,26 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 210854,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Songs From Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 183480,
       "name": "Lovely Day - Special Edition",
       "url": "https://open.spotify.com/track/0AdeVqrnbX2SeC9RGVgJWm"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "What Love Will Do to You",
-      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
       },
@@ -659,30 +675,6 @@
       "duration_ms": 268760,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
-        "url": "https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ"
-      },
-      "artists": [
-        {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
-        },
-        {
-          "name": "J\u00f3el P\u00e1lsson",
-          "url": "https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
-      "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -707,22 +699,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Just Like Chet",
-      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 208266,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
+        "url": "https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        },
+        {
+          "name": "J\u00f3el P\u00e1lsson",
+          "url": "https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
+      "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
-      },
-      "artists": [
-        {
-          "name": "Alex Baird",
-          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
-        }
-      ],
-      "duration_ms": 348013,
-      "name": "All I Needed",
-      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
@@ -935,6 +919,38 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
+      },
+      "artists": [
+        {
+          "name": "Alex Baird",
+          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Songbird 20",
         "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
       },
@@ -967,38 +983,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
-      },
-      "artists": [
-        {
-          "name": "Tok Tok Tok",
-          "url": "https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Look Of Love",
-      "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
       },
@@ -1019,34 +1003,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "As You Wish",
-        "url": "https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
       },
       "artists": [
         {
-          "name": "Cassidy Place",
-          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
+          "name": "Tok Tok Tok",
+          "url": "https://open.spotify.com/artist/6NuChX9FrWXTUYgJUT0DYH"
         }
       ],
-      "duration_ms": 105721,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Dance Me To The End Of Love",
-      "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
+      "duration_ms": 230826,
+      "name": "Look Of Love",
+      "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1067,6 +1035,38 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Dance Me To The End Of Love",
+      "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Place",
+          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
+        }
+      ],
+      "duration_ms": 105721,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
         "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
       },
@@ -1079,26 +1079,6 @@
       "duration_ms": 191826,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
-      },
-      "artists": [
-        {
-          "name": "Changes",
-          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
-        },
-        {
-          "name": "Elin Bemark",
-          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
-        }
-      ],
-      "duration_ms": 272784,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1119,6 +1099,26 @@
       "duration_ms": 180866,
       "name": "Un homme et une femme",
       "url": "https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
+      },
+      "artists": [
+        {
+          "name": "Changes",
+          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
+        },
+        {
+          "name": "Elin Bemark",
+          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
+        }
+      ],
+      "duration_ms": 272784,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "C\u2019est si bon",
         "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+      "duration_ms": 222146,
+      "name": "I've Never Been In Love Before",
+      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1367,22 +1383,6 @@
       "duration_ms": 235373,
       "name": "The Summer Wind",
       "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "I've Never Been In Love Before",
-      "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "American Classic",
-        "url": "https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "American Classic",
+        "url": "https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "All the Way (feat. Jordan Officer)",
-        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        },
-        {
-          "name": "Jordan Officer",
-          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1727,22 +1707,42 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "I'm the Sky, I'm the Earth",
-        "url": "https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq"
+        "name": "La belle vie - The Good Life",
+        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
       },
       "artists": [
         {
-          "name": "Deniz Ta\u015far",
-          "url": "https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6"
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
         },
         {
-          "name": "Halil \u00c7a\u011flar Serin",
-          "url": "https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd"
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
         }
       ],
-      "duration_ms": 175636,
-      "name": "I'm the Sky, I'm the Earth",
-      "url": "https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT"
+      "duration_ms": 222920,
+      "name": "La belle vie - The Good Life",
+      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "All the Way (feat. Jordan Officer)",
+        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        },
+        {
+          "name": "Jordan Officer",
+          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo"
     }
   ],
   "unique_name": "Easy Jazz",

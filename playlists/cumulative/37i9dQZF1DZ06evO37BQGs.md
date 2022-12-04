@@ -4,7 +4,7 @@
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 12 min - not published yet
+39 songs - 2 hr 16 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Kill Your Own](https://open.spotify.com/track/1L9xMwmX3OAb8mLv2x37e6) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:45 | 2022-11-17 |  |
 | [Live Fast, Die Ugly](https://open.spotify.com/track/6r7ReUGIIAW0F2KPI39ktr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 2:32 | 2022-11-17 |  |
 | [Lullaby](https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:39 | 2022-11-17 |  |
-| [New Glasses](https://open.spotify.com/track/49D5HZJybTYkuVRSDQyQCF) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [New Glasses](https://open.spotify.com/album/2w7XYqojw19SoiPqNZYka8) | 3:49 | 2022-12-01 |  |
+| [New Glasses](https://open.spotify.com/track/49D5HZJybTYkuVRSDQyQCF) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [New Glasses](https://open.spotify.com/album/2w7XYqojw19SoiPqNZYka8) | 3:49 | 2022-12-01 | 2022-12-04 |
+| [New Glasses](https://open.spotify.com/track/4miicEbDryBAnFO0c2xODc) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [New Glasses](https://open.spotify.com/album/0RlbSe60TYD2V8zx8C7mny) | 3:49 | 2022-12-03 |  |
 | [No Pretending](https://open.spotify.com/track/59EnX4BXWB1mSe2pz4K2g3) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 4:33 | 2022-11-17 |  |
 | [No Way Back](https://open.spotify.com/track/5Hc3D67M6rCgDt5dPNaSiI) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:35 | 2022-11-17 |  |
 | [Punctuality's Greatest Enemy](https://open.spotify.com/track/5M0z2M1clANb4ACB8OLWjG) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 2:15 | 2022-11-17 |  |

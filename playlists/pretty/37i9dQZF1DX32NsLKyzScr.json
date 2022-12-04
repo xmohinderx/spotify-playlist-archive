@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2255999,
+  "num_followers": 2256553,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDY3MTUwZjBlNzA0NmY4ZWQ2MTA1YTkxYzk0OTVkYTdm",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDI3ZTYwMWU0ZDMxYTJjZWY4NGMxNzIwOTQxYTQwMTM0",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Forever (feat. Elley Duh\u00e9)",
-      "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
       },
@@ -1039,7 +1019,27 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Remember (feat. Stevie Appleton)",
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Forever (feat. Elley Duh\u00e9)",
+      "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Remember",
         "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
       },
       "artists": [
@@ -1155,6 +1155,30 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Poison (with Timmy Trumpet x W&W)",
+        "url": "https://open.spotify.com/album/0i36q6Jj9rtyiaonm15vZe"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "Poison (with Timmy Trumpet x W&W)",
+      "url": "https://open.spotify.com/track/7d4vcqHz2rjPQooXa0CZM3"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 224515,
       "name": "My Feelings For You - Mark Knight Remix",
       "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Poison (with Timmy Trumpet x W&W)",
-        "url": "https://open.spotify.com/album/0i36q6Jj9rtyiaonm15vZe"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "Poison (with Timmy Trumpet x W&W)",
-      "url": "https://open.spotify.com/track/7d4vcqHz2rjPQooXa0CZM3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Element",
+        "url": "https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "My Universe (Galantis Remix)",
         "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Deep Sea (with R3HAB)",
+        "url": "https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Deep Sea (with R3HAB)",
+      "url": "https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "My Feelings For You (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 205714,
       "name": "My Feelings For You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Deep Sea (with R3HAB)",
-        "url": "https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Deep Sea (with R3HAB)",
-      "url": "https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1631,30 +1631,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "It's Ours",
-        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 200299,
-      "name": "It's Ours - Short Mix",
-      "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Love We Lost (with R3HAB)",
         "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
       },
@@ -1675,6 +1651,30 @@
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "It's Ours",
+        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 200299,
+      "name": "It's Ours - Short Mix",
+      "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Won't Forget You (Remixes)",
+        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
+      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/4tczgxFNxSi7x061uaf322"
       },
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Won't Forget You (Remixes)",
-        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
-      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "With My Friends",
         "url": "https://open.spotify.com/album/1ogQ6f8hVuVHcNOYCX2zw4"
       },
@@ -1895,34 +1895,6 @@
       "duration_ms": 146706,
       "name": "With My Friends",
       "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
-        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 205530,
-      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
-      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1951,26 +1923,30 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7"
+        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
+        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
       "artists": [
         {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         },
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
         },
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
+      "duration_ms": 205530,
+      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
+      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2007,6 +1983,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Hot Summer Nights",
         "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
       },
@@ -2023,6 +2015,30 @@
       "duration_ms": 158671,
       "name": "Hot Summer Nights",
       "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2067,22 +2083,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "No Good",
-        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN"
     },
     {
       "added_at": "2022-12-02 05:00:00",

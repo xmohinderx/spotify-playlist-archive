@@ -1,12 +1,12 @@
 {
   "description": "Comece o dia com grandes hits! ",
-  "num_followers": 1454198,
+  "num_followers": 1454218,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwOTI1MCwwMDAwMDAwMDE3YzFlMTU0ZDU4NDVjYzMwMjE3OTgxYmM0OGY3NDNk",
+  "snapshot_id": "MTY2ODAwOTI1MCwwMDAwMDAwMGM2MjhjYzI3ZGRiMjRkZGRiOWI3ZmM3Y2JiZDYzZGQ4",
   "tracks": [
     {
       "added_at": "2022-11-09 15:54:10",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-11-09 15:54:10",
       "album": {
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "added_at": "2022-11-09 15:54:10",
+      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 157066,
       "name": "Old Town Road - Remix",
       "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
-    },
-    {
-      "added_at": "2022-11-09 15:54:10",
-      "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2022-11-09 15:54:10",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-11-09 15:54:10",
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2022-11-09 15:54:10",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-11-09 15:54:10",
-      "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2022-11-09 15:54:10",

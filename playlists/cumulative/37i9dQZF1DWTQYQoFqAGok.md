@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-65 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
+66 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Humanidad](https://open.spotify.com/track/7hkDMkBoq5w46U9bw4wDDA) | [Leo Acosta y Su Orquesta](https://open.spotify.com/artist/3PyULMR8d0XYqTFjPgREfr) | [Leo Acosta](https://open.spotify.com/album/2Jw8nBazEtaVJ4B7SS9khX) | 2:33 | 2021-07-28 |  |
 | [Kumoi](https://open.spotify.com/track/1NXCJgdHYMny7gyZXFSycv) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Juan Cristobal Perez Grobet](https://open.spotify.com/artist/6w6WLmO7ufa0RQ1bOTNoQI) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 5:27 | 2022-03-30 |  |
 | [La Canción de Linyera](https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 4:45 | 2021-07-28 |  |
-| [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 | 2021-07-28 |  |
+| [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 | 2021-07-28 | 2022-12-04 |
 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 | 2021-07-28 | 2022-12-02 |
 | [Las luces de San Telmo](https://open.spotify.com/track/3fyuUSTUaktT3oDWPaFsdW) | [El 50 Elemento](https://open.spotify.com/artist/0nau6lOENuCV5fyEcccmfz) | [Los Fuegos de San Telmo](https://open.spotify.com/album/5xOVt7TdEJPinpWn0YksqL) | 6:44 | 2022-09-02 | 2022-11-03 |
 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 | 2021-07-28 | 2022-09-21 |
@@ -71,6 +71,7 @@
 | [Té de Olvido](https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn) | [Magos Herrera](https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh) | [Orquídeas Susurrantes](https://open.spotify.com/album/4wgY1NlxUvjbhXFbMPyTwz) | 3:59 | 2021-07-28 |  |
 | [Valor De Volar](https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Vientos Del Norte](https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg) | 3:56 | 2021-07-28 | 2022-11-26 |
 | [Ventana espacial](https://open.spotify.com/track/0zLqZgTme9vih80jQP9meo) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/2UYpOUvt3WGqGcf09AN7pG) | 4:14 | 2021-07-28 | 2022-11-07 |
+| [Ventana espacial](https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG) | 4:14 | 2021-07-28 |  |
 | [Voy a Apagar la Luz](https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8) | [Julia Vari](https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky) | [Adoro](https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf) | 5:27 | 2021-07-28 |  |
 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 | 2021-07-28 |  |
 

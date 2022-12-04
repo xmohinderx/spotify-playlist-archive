@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,662 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,748 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 5 | [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 |
 | 6 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
 | 7 | [Purple Soul](https://open.spotify.com/track/0UBw67u8gN9khlkXWjT84V) | [Rémi Panossian Trio](https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh) | [Sun Monkey Voltage](https://open.spotify.com/album/4KSB0GQCjVWVXu9ad7jU9K) | 4:50 |
-| 8 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 |
+| 8 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 |
 | 9 | [Buzzing Bee](https://open.spotify.com/track/6avafXggIzFap9c21A63iZ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Buzzing Bee](https://open.spotify.com/album/6ihVmKIaIiiJVKdhRDs6dV) | 3:22 |
 | 10 | [The Only Thing Missing Is You](https://open.spotify.com/track/6ZJE1w4rnFmr5QvkhoblIh) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [The Only Thing Missing Is You](https://open.spotify.com/album/7e3oiSXfu7UJcW18gZLrwB) | 4:48 |
 | 11 | [Moonlight \- Live at The Pool](https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/6M29Sszq5nhmXypZ90scA6) | 3:55 |

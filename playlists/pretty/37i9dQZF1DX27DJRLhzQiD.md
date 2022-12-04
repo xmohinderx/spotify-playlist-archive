@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 
 > Lo mejor de las mujeres a todo volumen con Ceci Juno en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,115 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,125 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

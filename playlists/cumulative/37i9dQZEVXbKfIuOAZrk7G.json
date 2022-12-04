@@ -676,6 +676,28 @@
     },
     {
       "album": {
+        "name": "Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126688,
+      "name": "Affirmation Song",
+      "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
+    },
+    {
+      "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 195000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2cJeo87Z6YUwldXih1A4S9"
@@ -5905,7 +5927,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2WpMx09zVGGmKphjnuMwWH"
@@ -8313,10 +8335,28 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 164678,
       "name": "If I Died Last Night",
       "url": "https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF"
+    },
+    {
+      "album": {
+        "name": "Drunk in the Bathtub",
+        "url": "https://open.spotify.com/album/7sbfuEc5X1TwieMFPRXn6t"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164678,
+      "name": "If I Died Last Night",
+      "url": "https://open.spotify.com/track/5Bl5wGDHToeEzS91u0bEEG"
     },
     {
       "album": {
@@ -16805,7 +16845,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
@@ -18928,7 +18968,7 @@
     },
     {
       "album": {
-        "name": "WORTH NOTHING",
+        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
       "artists": [
@@ -18945,7 +18985,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164629,
-      "name": "WORTH NOTHING",
+      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {

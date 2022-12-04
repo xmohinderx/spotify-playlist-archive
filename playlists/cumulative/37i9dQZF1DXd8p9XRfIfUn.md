@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: Montano, Totoy El Frio
 
-163 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/3ZGG1JOi7RasWn3HYxETEa)
+164 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/3ZGG1JOi7RasWn3HYxETEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-18 |  |
 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 | 2022-08-26 | 2022-10-05 |
 | [Hace Rato](https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n) | 3:42 | 2022-05-13 | 2022-07-29 |
-| [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 | 2022-07-01 |  |
+| [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 | 2022-07-01 | 2022-12-04 |
 | [HANGOVER](https://open.spotify.com/track/7agh0yi2gEcTOxrpjWujqH) | [Nachø Løpez](https://open.spotify.com/artist/1s2IaPreijx0wODlHjVQ8z) | [HANGOVER](https://open.spotify.com/album/1V8iDINRdFaFzivzCjLSU0) | 2:43 | 2022-05-13 | 2022-05-29 |
 | [hebilla](https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:43 | 2022-05-13 | 2022-09-02 |
 | [Helado](https://open.spotify.com/track/2ik9rWfa9j0un6wIn2uNbH) | [Kaese](https://open.spotify.com/artist/2fAKOzBWXrojv3DSmUxLlW) | [Helado](https://open.spotify.com/album/6jgaprOGa0fMRBZUDVzMSf) | 2:40 | 2022-06-10 | 2022-07-19 |
@@ -159,6 +159,7 @@
 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 | 2022-05-13 |  |
 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 | 2022-05-13 |  |
 | [Uno Pal Otro](https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp) | 3:37 | 2022-05-13 | 2022-11-02 |
+| [Uno Pal Otro](https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/7vL8qLZ9jfN6hwpBV4VR7R) | 3:37 | 2022-11-18 |  |
 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2022-05-13 |  |
 | [Vatos Locos](https://open.spotify.com/track/3xmMwWOMLhtTLVrZpihJDN) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jae S](https://open.spotify.com/artist/2bWodbZbC7imuhp3lrOsRg) | [Vatos Locos](https://open.spotify.com/album/3vtTYkjwSv2RiVhTlT1fkg) | 2:42 | 2022-06-03 | 2022-07-26 |
 | [Venti47](https://open.spotify.com/track/50YrZo8rIzof3SeNnW9ulV) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Venti47](https://open.spotify.com/album/2KbcSGv7or5YXfZzcgv0hU) | 3:24 | 2022-06-10 | 2022-07-13 |

@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-142 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
+143 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Baby Come On \- Acoustic Version](https://open.spotify.com/track/1UEYdBcuqHlBtPrZCQxeH9) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/1u59jNVLIMqS6h3YUsMNPc) | 2:52 | 2020-11-10\* | 2021-10-13 |
 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 | 2022-06-27 |  |
 | [Belter](https://open.spotify.com/track/4fDbMAFdycT0hhb3WlaDPs) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/2nLRS9HXd92qwBxqTLW1Qj) | 3:14 | 2021-04-20 | 2021-05-28 |
+| [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 | 2022-09-22 |  |
 | [Bite Me \- Acoustic](https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me \(Acoustic\)](https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC) | 3:09 | 2022-06-27 | 2022-11-28 |
 | [Black \- Live MTV Unplugged](https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [MTV Unplugged](https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX) | 5:30 | 2021-01-15 |  |
 | [Black Magic \- Acoustic](https://open.spotify.com/track/1U6HmSb0wFSuMBgIrqhwqu) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Black Magic \(Acoustic\)](https://open.spotify.com/album/50mY28PGUemxYIRcfEFf5j) | 4:02 | 2021-03-27 | 2022-06-21 |
@@ -133,7 +134,7 @@
 | [These Days \- Acoustic](https://open.spotify.com/track/5x4LYZrvHLvADQLjlHeWZi) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg), [Terrible Johnny](https://open.spotify.com/artist/4ekKTR0gTosJEoEcLd5RSZ) | [These Days \(Acoustic\)](https://open.spotify.com/album/5VINd1PqVpT2M8iLFWgf1h) | 4:25 | 2021-01-18 | 2021-10-14 |
 | [Two Steps Behind \- String / Acoustic Version](https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:16 | 2021-01-15 |  |
 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 | 2020-11-10\* |  |
-| [Walk On Water \- Acoustic](https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water \(Acoustic\)](https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142) | 3:08 | 2022-09-22 |  |
+| [Walk On Water \- Acoustic](https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water \(Acoustic\)](https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142) | 3:08 | 2022-09-22 | 2022-12-04 |
 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2020-11-10\* |  |
 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 | 2022-06-27 |  |
 | [We're Going to Be Friends](https://open.spotify.com/track/6kWq3AzqJuSD00PyX7H7ol) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Jack White Acoustic Recordings 1998 \- 2016](https://open.spotify.com/album/7JCOdAGtntpYz061NH8yX5) | 2:23 | 2020-11-10\* | 2021-10-16 |

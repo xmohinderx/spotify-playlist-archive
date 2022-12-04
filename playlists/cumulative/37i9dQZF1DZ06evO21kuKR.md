@@ -4,7 +4,7 @@
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 37 min - not published yet
+56 songs - 2 hr 40 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Black Visa \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2HcxahHRWSkovC3pqGFa0G) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Black Visa \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5N0BPcMSKk0vVeq6bTf8KI) | 3:13 | 2022-11-22 | 2022-12-01 |
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-10-28 |  |
 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 | 2022-10-28 |  |
+| [Doin 2 Much](https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [2 Federal](https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn) | 3:24 | 2022-12-03 |  |
 | [Don't Kno](https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:47 | 2022-10-28 |  |
 | [Fall Down \(feat\. Kevin Gates & Rvssian\)](https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:01 | 2022-11-04 |  |
 | [Feel The Same Way \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hunger Games 3](https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za) | 3:32 | 2022-10-28 |  |
@@ -28,7 +29,7 @@
 | [LLC \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blockchain](https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY) | 3:15 | 2022-10-28 |  |
 | [Love It Here](https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:29 | 2022-10-28 |  |
 | [Me Vs Me](https://open.spotify.com/track/1lUTmmPMAsxZBR2iK9CKDF) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:03 | 2022-10-28 |  |
-| [No Chill \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:19 | 2022-10-28 |  |
+| [No Chill \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:19 | 2022-10-28 | 2022-12-04 |
 | [No Cutt \(feat\. Lil Baby\)](https://open.spotify.com/track/2pQ4sMgskv2XeGCInss0qB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:54 | 2022-10-28 | 2022-11-03 |
 | [No Sucker \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/6A9wHAasMxed0firnDao1K) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:08 | 2022-10-28 |  |
 | [Pistol By Da Bed](https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 1:59 | 2022-10-28 |  |

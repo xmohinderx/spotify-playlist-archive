@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 186986,
       "name": "Bigger Man (with Maren Morris)",
       "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 263053,
       "name": "Fall On Me",
       "url": "https://open.spotify.com/track/3t7PAG8ByriTrDNWSDCP1x"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 180719,
       "name": "Green",
       "url": "https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX"
@@ -1147,6 +1147,24 @@
       "duration_ms": 226402,
       "name": "Happy For You",
       "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231723,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
     },
     {
       "album": {
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 244838,
       "name": "Logo Logo",
       "url": "https://open.spotify.com/track/5IugN9KL3rfirtq7Lfu2MA"
@@ -2186,6 +2204,24 @@
     },
     {
       "album": {
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192407,
+      "name": "Paper Crown",
+      "url": "https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -2201,6 +2237,24 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "album": {
@@ -2483,6 +2537,24 @@
       "duration_ms": 183300,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part (Deluxe)",
+        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248284,
+      "name": "Set For Life",
+      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
     },
     {
       "album": {

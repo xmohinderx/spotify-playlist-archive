@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,673 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,917 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 75 | [Wishful Thinking](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d) | 3:06 |
 | 76 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 |
 | 77 | [Things I Could Never Say to You](https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [Things I Could Never Say to You](https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC) | 3:18 |
-| 78 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
-| 79 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
+| 78 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
+| 79 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
 | 80 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 |
 | 81 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 82 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [Sociopath](https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:15 |
 | 100 | [say what's on your mind](https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn) | 2:53 |
 
-Snapshot ID: `MTY3MDAwODEwMCwwMDAwMDAwMDMwYjgyN2M4MTlhNGQzNDgyOTk3YjljNjhjYjZiMzE5`
+Snapshot ID: `MTY3MDAwODEwMCwwMDAwMDAwMGQxNzM1OWRkYWRkYTRhNzQyNWZjY2YxNzc3N2U3NTQ0`

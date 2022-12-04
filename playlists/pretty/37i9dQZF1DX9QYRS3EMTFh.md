@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Elji
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,032 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,121 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 13 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |
 | 14 | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/track/3qbORtchROy5DjRoYFsz69) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Toni\-Ann Singh](https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ) | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/album/7joy1NA5tfuo0exE4KVZLk) | 3:56 |
 | 15 | [Asé](https://open.spotify.com/track/3im7T2q63a1razKvpV8pao) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Lucidity](https://open.spotify.com/album/4kGAKJMjCxOR17Q9Cd4O3h) | 3:43 |
-| 16 | [So Me Stay](https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Outta Body Experience Riddim](https://open.spotify.com/album/7mbglZnNuCUrYTzfLKgMDW) | 3:25 |
+| 16 | [So Me Stay](https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF) | [Dutty Rock Productions](https://open.spotify.com/artist/0x5ZxVQ17EwrIQDF6a4ref), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Outta Body Experience Riddim](https://open.spotify.com/album/7mbglZnNuCUrYTzfLKgMDW) | 3:25 |
 | 17 | [Gout ton trin](https://open.spotify.com/track/286zTlj51DTgkpYT8jyARL) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [DJ CHAD](https://open.spotify.com/artist/1jx3ZyoNVuDP9bBTGvCFLL) | [Gout ton trin](https://open.spotify.com/album/1k243OPh2U3mAKavN2GWq1) | 2:46 |
 | 18 | [Come](https://open.spotify.com/track/1wE06ItQpK0wjAhCpwfsH4) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Come](https://open.spotify.com/album/3VihwCwktiRiqN8TuLJe6C) | 2:28 |
 | 19 | [Shine Bright](https://open.spotify.com/track/60l9cfnaUop1NJGgpiQ7UA) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Fernandez](https://open.spotify.com/artist/2Lx8uvkJwO86Mmh72z10pR) | [Shine Bright](https://open.spotify.com/album/6cuYpHerue7oNk3PqcKQqz) | 2:05 |

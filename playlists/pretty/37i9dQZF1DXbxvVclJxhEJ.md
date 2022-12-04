@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,518 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,611 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 10 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
 | 11 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
 | 12 | [Man Stealer Blues](https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 3:02 |
-| 13 | [Devil's Gonna Git You](https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 3:10 |
-| 14 | [If You See My Rooster \(Please Run Him Home\)](https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 3:15 |
+| 13 | [If You See My Rooster \(Please Run Him Home\)](https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 3:15 |
+| 14 | [Devil's Gonna Git You](https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 3:10 |
 | 15 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 |
 | 16 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
 | 17 | [As Long as I'm Moving](https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 46 | [Trouble In Mind \(9510\)](https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT) | [Bertha "Chippie" Hill](https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E) | [Bertha "Chippie" Hill 1925\-1929](https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9) | 2:44 |
 | 47 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
 | 48 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
-| 49 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
-| 50 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
+| 49 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
+| 50 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
 
-Snapshot ID: `MTY2ODcxMTQxOCwwMDAwMDAwMDNmZTJjNDkzMzI5NjkxZDg4YmM2ZTcxZjQzODM3Y2U2`
+Snapshot ID: `MTY2ODcxMTQxOCwwMDAwMDAwMGI2OGExNTcyOGJiN2YxMDYwODQwNmFmOGYzZDMwYWFm`

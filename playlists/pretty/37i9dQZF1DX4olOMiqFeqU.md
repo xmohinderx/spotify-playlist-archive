@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,322,487 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,322,913 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 31 | [Sa'yo](https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe) | 4:13 |
 | 32 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
 | 33 | [Sundo](https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA) | [Imago](https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh) | [Blush](https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk) | 4:03 |
-| 34 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 |
-| 35 | [Kiss \- Never Let Me Go](https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU) | [Thyro](https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V), [Yumi](https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6) | [Thyro & Yumi](https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ) | 4:19 |
+| 34 | [Kiss \- Never Let Me Go](https://open.spotify.com/track/1oHVl77komlcWVa5XzJ1rU) | [Thyro](https://open.spotify.com/artist/4VkqlQl3hGhxjchI34xp2V), [Yumi](https://open.spotify.com/artist/1O5apWv8xRb6YbHu7E0Tu6) | [Thyro & Yumi](https://open.spotify.com/album/6g8gpmN97Swzy56xwfrFrZ) | 4:19 |
+| 35 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 |
 | 36 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 |
 | 37 | [Huling Sayaw](https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp) | [Kamikazee](https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A), [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S) | [Romantico](https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR) | 4:55 |
 | 38 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Sana \- Single Version](https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl) | 4:37 |
 | 50 | [Till I Met You](https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA) | [Angeline Quinto](https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649) | [She's Dating the Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc) | 4:00 |
 
-Snapshot ID: `MTY2MzY2MTYyMywwMDAwMDAwMDE3MGRmMmQ1YWIxZjQwNDI1ZTNiNGY5ZjdkNzc3Njhm`
+Snapshot ID: `MTY2MzY2MTYyMywwMDAwMDAwMDYzNDY3NjE4OGNmMjRhNjA4M2EzYWY3NDRjMDc2OGI0`

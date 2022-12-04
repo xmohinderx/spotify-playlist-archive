@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-230 songs - 14 hr 0 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+231 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Addicted](https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q) | 4:41 | 2022-08-12 |  |
 | [Addicted](https://open.spotify.com/track/2kUECVQY40DQoXymT323jg) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/4hGB7HUJu4oD3TqJvYPqr9) | 4:41 | 2021-11-12 | 2022-10-13 |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-12 |  |
-| [Alive](https://open.spotify.com/track/6Cwfn3br1dDmZIvpi1CJ89) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/2uzzPtueFmMKcwGoLeZVmE) | 3:37 | 2022-08-12 |  |
+| [Alive](https://open.spotify.com/track/6Cwfn3br1dDmZIvpi1CJ89) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/2uzzPtueFmMKcwGoLeZVmE) | 3:37 | 2022-08-12 | 2022-12-04 |
 | [Alive](https://open.spotify.com/track/6lDeFVC7tCXEzdOcjnqTQj) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/0X0GLbObJxR2teWozrUTlb) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [Alluvium](https://open.spotify.com/track/7fV1z13hx5Iic0WIqCRfuA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Alluvium](https://open.spotify.com/album/4iLy4FA1ZteEJZYc1jGBxA) | 3:42 | 2021-11-12 | 2022-07-19 |
 | [Aloosh](https://open.spotify.com/track/1QXWQI6mW2ECxFd3hTBpDC) | [Volleyball](https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok) | [Aloosh](https://open.spotify.com/album/42iXDtUrsfH4g7exLE4eCA) | 3:03 | 2022-03-31 | 2022-04-20 |
@@ -68,6 +68,7 @@
 | [Do This to Me](https://open.spotify.com/track/5UZMirBscG3TgEsX9z4wiG) | [Julia Bardo](https://open.spotify.com/artist/1hRs60foVmjwBiSesXnUdi) | [Do This to Me](https://open.spotify.com/album/7fy2Nc34vbRMVDdULfnWFQ) | 4:20 | 2022-03-31 | 2022-04-21 |
 | [Dreaming](https://open.spotify.com/track/68r0rVwrAruYCc8OFfyPsf) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Dreaming](https://open.spotify.com/album/45HCY02kLpd5nGfL7GkdKm) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2021-11-12 |  |
+| [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:48 | 2022-08-12 |  |
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-03-31 | 2022-07-28 |
 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2022-06-06 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-11-12 |  |
@@ -77,7 +78,7 @@
 | [Eyes of Stone](https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Eyes of Stone](https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1) | 3:09 | 2021-11-12 | 2022-07-08 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 | 2022-11-13 |
 | [Falling by the Wayside](https://open.spotify.com/track/6lLABGIpkcR84c13Gg1lnT) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Falling by the Wayside](https://open.spotify.com/album/2EhEO1Avj1EUg0zHrOk29f) | 4:46 | 2021-11-12 | 2022-07-25 |
-| [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-11-12 | 2022-11-13 |
+| [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-11-12 |  |
 | [Fine & Peachy](https://open.spotify.com/track/3pOlJ93rJ9Bm0WWhDkU8wr) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Woman You Want](https://open.spotify.com/album/3tj0F758dlqS3TZjKmtgnM) | 2:52 | 2021-11-12 | 2022-07-29 |
 | [First Prize Bravery](https://open.spotify.com/track/72xOIsOYsgFWFhLo2yKVfC) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/0AfiT0UuYVVB9Dj25mM31K) | 3:50 | 2021-11-12 | 2022-07-29 |
 | [Float Away](https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Float Away](https://open.spotify.com/album/1EZHlWMrnooR3AaKX7CojR) | 3:00 | 2021-11-12 | 2022-07-28 |
@@ -217,7 +218,7 @@
 | [The Ballad Of Joyce Vincent](https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [The Ballad of Joyce Vincent](https://open.spotify.com/album/7aP3R5r1PgDqEIGUuZHmtR) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [The Call](https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [The Call](https://open.spotify.com/album/03w1adHMnGMw8QSDphpZI2) | 3:39 | 2022-04-08 | 2022-05-18 |
 | [The Desperate Kingdom of Love](https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [The Desperate Kingdom of Love](https://open.spotify.com/album/4ceCAZwfAsyMJcveuXTa9Z) | 2:52 | 2021-11-12 | 2022-04-26 |
-| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 |  |
+| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 | 2022-12-04 |
 | [The Man I Admire](https://open.spotify.com/track/2c0zQJJo3IFUxMjNZqspyw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Man I Admire](https://open.spotify.com/album/0HwQQtPpXIDEah8U8udW0T) | 2:12 | 2021-11-12 | 2022-07-14 |
 | [The Mersey Line](https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/0Gbwl02JtqoiyxHZtcYZYe) | 2:14 | 2021-11-12 | 2022-07-27 |
 | [The Sun Won't Shine On Me](https://open.spotify.com/track/6PWC4ts0y5kxqLQz4V74hz) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [The Sun Won't Shine On Me](https://open.spotify.com/album/63r5VfmmPeBi4xadvCO5Ke) | 2:39 | 2021-11-12 | 2022-06-05 |

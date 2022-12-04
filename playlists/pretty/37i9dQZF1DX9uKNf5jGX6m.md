@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,764,095 likes - 385 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,764,459 likes - 385 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,13 +292,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 282 | [Dimensional](https://open.spotify.com/track/3uIuiNwPXMiPWdVRfHRYNV) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:30 |
 | 283 | [Lightwaves](https://open.spotify.com/track/2vf8jFjcdqsr6yUru8WjqF) | [Lotus Vega](https://open.spotify.com/artist/1OsScwbafPILoudcWEWHnZ) | [Lightwaves](https://open.spotify.com/album/2QXLnLC9JmD3UUWAyp4A9h) | 2:58 |
 | 284 | [Wooden Cabin](https://open.spotify.com/track/2pKlAoXmIluwpXpzs8B6iM) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Almohada](https://open.spotify.com/album/2RxgNqqK7yizl1CmAqmfd1) | 2:14 |
-| 285 | [Promises](https://open.spotify.com/track/1EkmMHDUp0fygcCYsj00m1) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [Inner Awakening](https://open.spotify.com/album/7q5WVMFSPv1XBA3zqy9pwu) | 2:42 |
+| 285 | [Promises](https://open.spotify.com/track/1EkmMHDUp0fygcCYsj00m1) | [Aerial Sonda](https://open.spotify.com/artist/0dGSpbEGrgn7BqbDOx2kOA) | [Inner Awakening](https://open.spotify.com/album/7q5WVMFSPv1XBA3zqy9pwu) | 2:42 |
 | 286 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Sweetscape](https://open.spotify.com/artist/1BF35yKu7uZaQMKsHO3MRP) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 |
 | 287 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 |
 | 288 | [Pensamiento](https://open.spotify.com/track/1JHA7IWr53uuJ0TOOldoEA) | [Anabel Rioja](https://open.spotify.com/artist/0sSPiLUffeBfqSeStJDTHf) | [Pensamiento](https://open.spotify.com/album/0YTZXjgqOPCK3wkG68FiMt) | 2:47 |
 | 289 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 |
 | 290 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 |
-| 291 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Mergen Aurel](https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
+| 291 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
 | 292 | [Bortgjemt](https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Bortgjemt](https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM) | 2:27 |
 | 293 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 |
 | 294 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |

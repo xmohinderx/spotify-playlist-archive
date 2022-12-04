@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Luke Combs",
-  "num_followers": 425365,
+  "num_followers": 425502,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNzA2OSwwMDAwMDAwMGY4YzM1Y2ZkZGViM2Q4MzgwYzc0NGZiZjZjYjM0MWUx",
+  "snapshot_id": "MTY3MDAwNzA2OSwwMDAwMDAwMDhkZjkyN2U1MmQ1MzM3MTdjMzI2ZWI1NTYwOWI3Njgy",
   "tracks": [
     {
       "added_at": "2022-12-02 18:46:12",
@@ -327,26 +327,6 @@
     {
       "added_at": "2022-12-02 18:46:12",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2022-12-02 18:46:12",
-      "album": {
         "name": "I Quit Drinking",
         "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
@@ -367,6 +347,26 @@
     {
       "added_at": "2022-12-02 18:46:12",
       "album": {
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2022-12-02 18:46:12",
+      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
-    },
-    {
-      "added_at": "2022-12-02 18:46:12",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2022-12-02 18:46:12",
@@ -415,6 +399,22 @@
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+    },
+    {
+      "added_at": "2022-12-02 18:46:12",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2022-12-02 18:46:12",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-12-02 18:46:12",
       "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
-    },
-    {
-      "added_at": "2022-12-02 18:46:12",
-      "album": {
         "name": "Midtown Diaries",
         "url": "https://open.spotify.com/album/50zMs3AwxduoOoQoN17955"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-12-02 18:46:12",
       "album": {
-        "name": "New Truck",
-        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 174360,
-      "name": "New Truck",
-      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2022-12-02 18:46:12",
@@ -1183,6 +1167,22 @@
       "duration_ms": 199680,
       "name": "To Be Loved By You",
       "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
+    },
+    {
+      "added_at": "2022-12-02 18:46:12",
+      "album": {
+        "name": "New Truck",
+        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "New Truck",
+      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
     },
     {
       "added_at": "2022-12-02 18:46:12",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-12-02 18:46:12",
       "album": {
+        "name": "Born Here Live Here Die Here",
+        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
+    },
+    {
+      "added_at": "2022-12-02 18:46:12",
+      "album": {
         "name": "Rolex\u00ae On A Redneck",
         "url": "https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 179866,
       "name": "Rolex\u00ae On A Redneck",
       "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
-    },
-    {
-      "added_at": "2022-12-02 18:46:12",
-      "album": {
-        "name": "Born Here Live Here Die Here",
-        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
     },
     {
       "added_at": "2022-12-02 18:46:12",

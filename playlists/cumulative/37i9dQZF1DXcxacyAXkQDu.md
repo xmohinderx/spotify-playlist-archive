@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-814 songs - 2 day 0 hr 23 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+816 songs - 2 day 0 hr 31 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Heal Me](https://open.spotify.com/track/7kWPljVESJuBwANiLZP8ny) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Heal Me](https://open.spotify.com/album/1SLHxMJKpcbaw0M4WSGIlf) | 3:27 | 2022-02-03 |  |
 | [Heard \(draft\)](https://open.spotify.com/track/1HjsYsuh6TuPlELoEmPkpe) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Heard \(draft\)](https://open.spotify.com/album/7BgGPCkU5TgECmII1nPycR) | 2:54 | 2022-03-24 | 2022-04-21 |
 | [Heartbeat](https://open.spotify.com/track/5Q5fB9kPU1JCNutdLHzSfo) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heartbeat](https://open.spotify.com/album/5mul0rHAgZK7Rv8a2CYOWy) | 3:42 | 2022-03-24 | 2022-04-07 |
+| [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2022-12-02 |  |
 | [Hearts \- Acoustic](https://open.spotify.com/track/45ntG5ZKZtVVeSIxMXxe4P) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:30 | 2021-12-21 | 2022-07-29 |
 | [Heaven Can Wait](https://open.spotify.com/track/6q8YtmvckE9yOtfQ9W6WUP) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ), [Robin Stjernberg](https://open.spotify.com/artist/126TYnp3S2nOpqyaeF2YBh) | [Heaven Can Wait](https://open.spotify.com/album/0aznVHfopBc9a6iVwIWvmx) | 4:20 | 2021-12-21 | 2022-11-19 |
 | [Hello My Old Heart](https://open.spotify.com/track/0WyYnDUMiFRPMd20qbg4D5) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/6azrYHZKUQ78E6YlyXzy5k) | 4:16 | 2022-03-24 | 2022-04-11 |
@@ -537,6 +538,7 @@
 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 | 2022-10-07 |  |
 | [Planets](https://open.spotify.com/track/5vWJQjfADFuIeAxqOyllaK) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:28 | 2022-11-25 | 2022-12-03 |
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2022-08-22 | 2022-08-27 |
+| [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 |  |
 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 | 2021-12-21 |  |
 | [Promise](https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 6:24 | 2022-03-24 |  |
 | [promise, \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/0IZXC3mHpIdPZMZratBAfr) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [promise, \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/71niOtZr7nQKgl5sFMEFda) | 3:06 | 2021-12-21 |  |
@@ -609,7 +611,7 @@
 | [Somebody Else](https://open.spotify.com/track/5iw9R74uolZMI8bKv040HP) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Somebody Else](https://open.spotify.com/album/5Tw4DmpliBZrmH9uAlPgB7) | 3:25 | 2022-10-07 | 2022-11-13 |
 | [Somebody Loved](https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf) | 2:33 | 2021-12-21 |  |
 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 | 2022-03-24 |  |
-| [Something American](https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 3:02 | 2022-10-07 |  |
+| [Something American](https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 3:02 | 2022-10-07 | 2022-12-04 |
 | [Something American](https://open.spotify.com/track/3UATWsUyES5Nkcqo22NUG5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 3:02 | 2022-07-08 | 2022-09-15 |
 | [Something American](https://open.spotify.com/track/3s1zYiwrFKVQmCPaiCAK5T) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4xnVEOwaNKhm2Z9LsfY968) | 3:03 | 2022-03-24 | 2022-04-19 |
 | [Something Worth Saving](https://open.spotify.com/track/10THcVz6xpbsdmxzdqCVZV) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Something Worth Saving](https://open.spotify.com/album/4cQroVXGDa7ikTp8l5ZJ64) | 3:38 | 2022-03-24 | 2022-11-13 |
@@ -620,7 +622,7 @@
 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 | 2022-05-13 |  |
 | [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-03-24 |  |
 | [Sorry](https://open.spotify.com/track/4I31rrRGFCv9OB5ynrVoM8) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/4tvxP0caxdRMXVMca0t9uH) | 3:32 | 2022-03-24 | 2022-04-21 |
-| [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 | 2021-12-21 |  |
+| [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 | 2021-12-21 | 2022-12-04 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2021-12-21 | 2022-07-29 |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-07-08 |  |
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2021-12-21 | 2022-04-27 |

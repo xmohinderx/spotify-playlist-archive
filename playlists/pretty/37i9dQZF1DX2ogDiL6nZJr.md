@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,171 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,439 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 14 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 15 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
 | 16 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
-| 17 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
+| 17 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
 | 18 | [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 |
 | 19 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
-| 20 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
+| 20 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 21 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 22 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 |
 | 23 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 58 | [PDLIF](https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [PDLIF](https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J) | 2:57 |
 | 59 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 |
 | 60 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 |
-| 61 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
+| 61 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 |
 | 62 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
-| 63 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 |
-| 64 | [ready now](https://open.spotify.com/track/6FBe4eVw7wV48G3iijUbmj) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [ready now](https://open.spotify.com/album/0ZegvEThUFYoa8ZnD12Dn4) | 2:56 |
-| 65 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
+| 63 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
+| 64 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
+| 65 | [ready now](https://open.spotify.com/track/6FBe4eVw7wV48G3iijUbmj) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [ready now](https://open.spotify.com/album/0ZegvEThUFYoa8ZnD12Dn4) | 2:56 |
 | 66 | [A Lingering Love](https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:36 |
 | 67 | [Mia & Keira \(Days To Come\)](https://open.spotify.com/track/3am2Y5mLijaA94DaKBX1QA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [New Estate](https://open.spotify.com/album/6bBdlXIj1C6nON50J8TMb7) | 4:18 |
 | 68 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 78 | [Rio Grande](https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Rio Grande](https://open.spotify.com/album/1Pj0IcGeKirKVwqKPe4dK3) | 4:31 |
 | 79 | [Isn't Ever A Day](https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Future Perfect, Present Tense](https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS) | 4:44 |
 | 80 | [Comment Allez\-Vous?](https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Brave New Woman](https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1) | 3:19 |
-| 81 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
-| 82 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
-| 83 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 |
-| 84 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
+| 81 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 |
+| 82 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 83 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
+| 84 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 85 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 | 86 | [Spark](https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Oceanic](https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk) | 4:24 |
 | 87 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 99 | [Here to Stay](https://open.spotify.com/track/301ftxH8HBSL1pDTyTYn8I) | [Ian Hooper](https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG) | [Here to Stay](https://open.spotify.com/album/3gKoctpzCx3hvVR5emq5My) | 3:09 |
 | 100 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 |
 
-Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMDdlY2Q2MDcyOGQ4MTcyMzAyZDcwZWRlZDIwOGVmZGQ1`
+Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMDhkNmM1MTQwYjIzYzQ5NWI5NDMyNTliYzk5YTQyZGUz`

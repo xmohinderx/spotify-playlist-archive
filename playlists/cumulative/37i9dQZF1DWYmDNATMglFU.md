@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ cover: kid bookie
 
-429 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+430 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-08-25 | 2022-10-14 |
 | [I Don't Want You Anymore](https://open.spotify.com/track/4gv6870HAsYe3nmULcoybJ) | [girlboy J](https://open.spotify.com/artist/3fblqHCBoW6RkVH6bKr5Is) | [I Don't Want You Anymore](https://open.spotify.com/album/1xdQ3lhwm594g5powQJqqX) | 3:08 | 2022-01-07 | 2022-03-18 |
 | [I EXIST](https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [I EXIST](https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5) | 4:29 | 2022-07-21 |  |
-| [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-07-14 |  |
+| [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-07-14 | 2022-12-04 |
+| [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:21 | 2022-12-02 |  |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2022-10-20 | 2022-11-01 |
 | [I Hope You're Happy](https://open.spotify.com/track/0R8clsMFyCYRN7iYRKTiuE) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/0GrNWYEjMvterOotBAbkNa) | 2:59 | 2022-01-28 | 2022-07-22 |
 | [I JUST WON’T CARE](https://open.spotify.com/track/0BhpMWlDaG0zAfI5nTuBqf) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:26 | 2022-06-02 | 2022-08-05 |

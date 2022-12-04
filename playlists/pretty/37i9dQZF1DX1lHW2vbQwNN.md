@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,377 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,575 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 64 | [Westside Story](https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:43 |
 | 65 | [Rollout \(My Business\)](https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:56 |
 | 66 | [Bust It Baby, Pt\. 2 \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Definition of Real](https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA) | 4:00 |
-| 67 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
-| 68 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
+| 67 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
+| 68 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 | 69 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
 | 70 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 71 | [Go DJ](https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:41 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 74 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
 | 75 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 76 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 |
-| 77 | [Turn My Swag On](https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:26 |
-| 78 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 |
+| 77 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 |
+| 78 | [Turn My Swag On](https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:26 |
 | 79 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
 | 80 | [Pump It Up](https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ) | [Joe Budden](https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6) | [Joe Budden](https://open.spotify.com/album/5qvTf1qIYr2vkIjFnj8gYD) | 4:11 |
 | 81 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [Move Bitch](https://open.spotify.com/track/0LyZGZEZcFqpeF8bAfx3v0) | [Disturbing Tha Peace](https://open.spotify.com/artist/3FsQX7FsrZAzTU9ah45P7O), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Golden Grain](https://open.spotify.com/album/1HjiZwq8HvkzLchkB2XcyV) | 4:32 |
 | 100 | [Like A Pimp](https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Mississippi: The Album](https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7) | 4:14 |
 
-Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMDE0MTc3NmY2NjU5YWY3MzA2ZTc5YzJhNTIzMzhkNWZi`
+Snapshot ID: `MTY1MzA4OTU5NiwwMDAwMDAwMDVhMzg2MzliNjM2NGYzOTVjNDY5YzE5YTgzNmJlOTli`

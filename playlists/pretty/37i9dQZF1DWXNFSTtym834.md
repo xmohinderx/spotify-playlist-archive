@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Disturbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,696 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,060 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 37 | [Vicarious](https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 7:06 |
 | 38 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
 | 39 | [Stillborn](https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [The Blessed Hellride](https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo) | 3:16 |
-| 40 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
-| 41 | [Too Much, Too Young, Too Fast](https://open.spotify.com/track/2LQbBzrXkgQHnCDUmHjReH) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:46 |
+| 40 | [Too Much, Too Young, Too Fast](https://open.spotify.com/track/2LQbBzrXkgQHnCDUmHjReH) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:46 |
+| 41 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
 | 42 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
 | 43 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
 | 44 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 62 | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Guitar Gangsters & Cadillac Blood](https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt) | 3:08 |
 | 63 | [Bleed](https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen](https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa) | 7:22 |
 | 64 | [Right Now](https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:09 |
-| 65 | [Eat You Alive](https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 3:56 |
-| 66 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
+| 65 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 |
+| 66 | [Eat You Alive](https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 3:56 |
 | 67 | [Amerika](https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 3:46 |
 | 68 | [Omerta](https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:45 |
 | 69 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 81 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 |
 | 82 | [Move](https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The Art Of Breaking](https://open.spotify.com/album/1OfR6MaF4KVFTAe3pMrtYv) | 3:28 |
 | 83 | [Sad Man's Tongue](https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rock The Rebel / Metal The Devil](https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy) | 3:05 |
-| 84 | [Ich tu dir weh](https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) | 5:01 |
-| 85 | [Angels](https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:00 |
-| 86 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
-| 87 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
+| 84 | [Angels](https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:00 |
+| 85 | [Ich tu dir weh](https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) | 5:01 |
+| 86 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 |
+| 87 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
 | 88 | [Distortion Sleep](https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/6n86brHTe54lipUckY9InO) | 3:45 |
 | 89 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
 | 90 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 99 | [In the Name of Tragedy](https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 3:03 |
 | 100 | [Rosenrot](https://open.spotify.com/track/7u018epVcYPTPVKCWAemLP) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3ujsh5jQMOFqIbP7sWruEt) | 3:54 |
 
-Snapshot ID: `MTY2OTEyMzAyOSwwMDAwMDAwMGZlZTYyMWI4MDg0NjU0ZmY5N2JmYzg0YWNiMzI4YWNl`
+Snapshot ID: `MTY2OTEyMzAyOSwwMDAwMDAwMDRhYzVmZTNkZmY5M2I0NjRjNjA1NTJjNjU0M2I4MDQ1`

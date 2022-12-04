@@ -2287,7 +2287,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 119368,
       "name": "BENZ",
       "url": "https://open.spotify.com/track/65Yng6OVGMLDJVhiKFxpCa"
@@ -2397,7 +2397,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -3855,6 +3855,32 @@
       "duration_ms": 193648,
       "name": "Credit",
       "url": "https://open.spotify.com/track/1vBxWdcP9a25Zv7dbsTN9M"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
       "album": {
@@ -5333,7 +5359,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 214500,
       "name": "EL DOCTOR",
       "url": "https://open.spotify.com/track/1wNerkkd2qdp6cqLLOJJJT"
@@ -8203,7 +8229,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 283000,
       "name": "Iliovasilema - (Part 2 - Fos)",
       "url": "https://open.spotify.com/track/3gMkuoFyby1uUf7rR7y8Km"
@@ -10329,7 +10355,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 166000,
       "name": "Ligo Ligo",
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
@@ -13168,6 +13194,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
+    },
+    {
+      "album": {
         "name": "Nike Boyz (Remix)",
         "url": "https://open.spotify.com/album/1sFWkDYkHQwnSglebhh39X"
       },
@@ -13535,6 +13587,28 @@
       "duration_ms": 339249,
       "name": "Off The Grid",
       "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
+    },
+    {
+      "album": {
+        "name": "OG",
+        "url": "https://open.spotify.com/album/3Y1EjzGaV0j2yU126fLzT3"
+      },
+      "artists": [
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+        },
+        {
+          "name": "Masla.G",
+          "url": "https://open.spotify.com/artist/3SV2jrmhA3pDqHmPITbzD4"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205201,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/1Ffn5uRzMCWWXE1reLK6L1"
     },
     {
       "album": {
@@ -16673,7 +16747,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -17427,6 +17501,32 @@
       "duration_ms": 173617,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/4fuYNq2iEBPIqRZOjBtq3i"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
       "album": {
@@ -18584,6 +18684,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
+    },
+    {
+      "album": {
         "name": "Timima",
         "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
       },
@@ -18721,6 +18847,28 @@
       "duration_ms": 277183,
       "name": "TOTE POIOS",
       "url": "https://open.spotify.com/track/6avhkEeDFnbUeIRbXXeiuo"
+    },
+    {
+      "album": {
+        "name": "Touch the Sky",
+        "url": "https://open.spotify.com/album/41iTWV7tuODsPdgQQzZH2c"
+      },
+      "artists": [
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        },
+        {
+          "name": "RVPTR",
+          "url": "https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196849,
+      "name": "Touch the Sky",
+      "url": "https://open.spotify.com/track/6luCl1H4xq2OnLQtB7fb4z"
     },
     {
       "album": {

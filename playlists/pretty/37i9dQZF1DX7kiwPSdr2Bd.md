@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Thaiane Seghetto, Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,994 likes - 75 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,087 likes - 75 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 41 | [Eu Disse](https://open.spotify.com/track/4H3FWYvpm1mCa0EySJaGti) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Eu Disse](https://open.spotify.com/album/3VfBCfcFcR03pnSdaoQgLX) | 4:37 |
 | 42 | [Jerusalém \- Ao Vivo](https://open.spotify.com/track/0dQDXPuqDx5FYbwBcUBn8t) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Jerusalém \(Ao Vivo\)](https://open.spotify.com/album/1bFdePBZN9BfBmBi1TkVZa) | 6:06 |
 | 43 | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu) | 5:12 |
-| 44 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 |
-| 45 | [Referência](https://open.spotify.com/track/76b1lGPFPAo09ZKhe3AjIr) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Referência](https://open.spotify.com/album/0Xx7AZGCjtUooh5UURgv0d) | 4:17 |
+| 44 | [Referência](https://open.spotify.com/track/76b1lGPFPAo09ZKhe3AjIr) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Referência](https://open.spotify.com/album/0Xx7AZGCjtUooh5UURgv0d) | 4:17 |
+| 45 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 |
 | 46 | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/track/0A60DIXd4RoIB6l25wFgo5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/album/7rnb8t7kPq1emPdrfxCInC) | 4:10 |
 | 47 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
 | 48 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
-| 49 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
-| 50 | [Toma o Teu Lugar \- Make Room](https://open.spotify.com/track/6MTHuIDVGeSt5xEuwItVpM) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Toma o Teu Lugar \(Make Room\)](https://open.spotify.com/album/5ptH6CRcskhNs8i5iEIrBO) | 5:51 |
+| 49 | [Toma o Teu Lugar \- Make Room](https://open.spotify.com/track/6MTHuIDVGeSt5xEuwItVpM) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Toma o Teu Lugar \(Make Room\)](https://open.spotify.com/album/5ptH6CRcskhNs8i5iEIrBO) | 5:51 |
+| 50 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 51 | [És Tudo](https://open.spotify.com/track/03z3mYVTDYDKwKamZzyGKj) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [És Tudo](https://open.spotify.com/album/19Y22lkGCbo2gDuFuC3t4k) | 4:57 |
 | 52 | [Fiel A Mim](https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:59 |
 | 53 | [Amigo Jesus](https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Amigo Jesus](https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb) | 4:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 75 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 
-Snapshot ID: `MTY2OTM1MzI5NCwwMDAwMDAwMDA4MjM4NmY0MTVhMzk5ZTE2ODZlM2FiOWI1ZTcyOGU3`
+Snapshot ID: `MTY2OTM1MzI5NCwwMDAwMDAwMDIxZTc1NjViOGI2MzE3YzNhOGFkMDVkYjMyMjJiNDMw`

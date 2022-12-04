@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 236484,
+  "num_followers": 236479,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGEyODNhNDM3OWNhMDNjOGE4NzY2Mjk0M2E4MzE3Nzgz",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDRlMzhiZDRlMjVlOWU2Mzk5Yjg4M2NiZjk0MGRkZThk",
   "tracks": [
     {
       "added_at": "2022-12-02 05:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Keep On Smiling",
-        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 262356,
-      "name": "Everybody's Cool",
-      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Too Much (feat. Lucky Daye)",
@@ -495,6 +479,22 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -597,6 +597,26 @@
       "url": "https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Get it Got it",
@@ -627,26 +647,6 @@
       "duration_ms": 193731,
       "name": "Hot Crush Lover",
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ashamed",
+      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Motion (with Yot Club)",
@@ -719,22 +735,6 @@
       "duration_ms": 179695,
       "name": "Motion (with Yot Club)",
       "url": "https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        }
-      ],
-      "duration_ms": 217767,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Sweet Side",
@@ -787,6 +771,22 @@
       "duration_ms": 205862,
       "name": "Undone",
       "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "duration_ms": 217767,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -853,26 +853,6 @@
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Better Days (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 156681,
-      "name": "Better Days (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Let Love Go",
@@ -891,6 +871,26 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Better Days (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 156681,
+      "name": "Better Days (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Matisyahu",
+        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Mama Please Don't Worry",
+      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "I Told You",
@@ -1033,22 +1049,6 @@
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Matisyahu",
-        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
-      },
-      "artists": [
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Mama Please Don't Worry",
-      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Something to Say",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Carving Canyons",
-        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 188619,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
@@ -1099,6 +1083,22 @@
       "duration_ms": 163149,
       "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
+    },
+    {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Carving Canyons",
+        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 188619,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Trust the change",
         "url": "https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu"
       },
@@ -1241,22 +1257,6 @@
       "url": "https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
-      },
-      "artists": [
-        {
-          "name": "The Jack Moves",
-          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Lionel Richie",
-      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Tango",
@@ -1271,6 +1271,22 @@
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/0DEeN73MO5qqBkPgwYW0Wl"
+      },
+      "artists": [
+        {
+          "name": "Rayowa",
+          "url": "https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo"
+        }
+      ],
+      "duration_ms": 196038,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 322320,
       "name": "Don\u2019t Care",
       "url": "https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/0DEeN73MO5qqBkPgwYW0Wl"
-      },
-      "artists": [
-        {
-          "name": "Rayowa",
-          "url": "https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo"
-        }
-      ],
-      "duration_ms": 196038,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
-      },
-      "artists": [
-        {
-          "name": "KWAYE",
-          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
-    },
-    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Turn Up",
@@ -1487,6 +1471,22 @@
       "duration_ms": 141002,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     }
   ],
   "unique_name": "Ready for the Day",

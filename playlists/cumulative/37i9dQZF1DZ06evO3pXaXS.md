@@ -4,7 +4,7 @@
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5USS6A89W2jE5wSORwWq7w)
+49 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/5USS6A89W2jE5wSORwWq7w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Voices Inside My Head](https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:53 | 2022-10-12 |  |
 | [Voices Inside My Head / When The World Is Running Down You Make the Best Of What's Still Around \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/2UtXxz9XGRn7qvZ275H7aJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 7:04 | 2022-09-17 |  |
 | [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 | 2022-09-17 |  |
+| [We Are the Police](https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH), [Adam Driver](https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M), [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Annette \(Unlimited Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf) | 1:22 | 2022-12-03 |  |
 | [When The World Is Running Down, You Make The Best Of What's Still Around](https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:36 | 2022-09-17 |  |
 | [Wrapped Around Your Finger](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 | 2022-09-17 |  |
 

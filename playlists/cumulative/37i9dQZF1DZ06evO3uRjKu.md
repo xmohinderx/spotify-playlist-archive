@@ -4,7 +4,7 @@
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 38 min - not published yet
+52 songs - 3 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Gin Tonic](https://open.spotify.com/track/0FgZ5rpMveTUQjdozZ03HP) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:33 | 2022-10-26 |  |
 | [Hechicera Crayon](https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 5:00 | 2022-10-26 |  |
 | [La Carta](https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 4:16 | 2022-10-26 |  |
-| [La Chica De Mi Ayer](https://open.spotify.com/track/45SZZyXyZjs6aox30oGlQi) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 3:32 | 2022-10-26 |  |
+| [La Chica De Mi Ayer](https://open.spotify.com/track/45SZZyXyZjs6aox30oGlQi) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 3:32 | 2022-10-26 | 2022-12-04 |
 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 | 2022-10-26 |  |
 | [La Pachanga](https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:41 | 2022-10-26 |  |
 | [La Puñalada](https://open.spotify.com/track/63ZtQzrp4WNK6uYggoza7K) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:05 | 2022-10-26 |  |
@@ -35,6 +35,7 @@
 | [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 | 2022-10-26 |  |
 | [Nada Mas](https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:30 | 2022-10-26 |  |
 | [No Me Hagas Callar](https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 5:17 | 2022-10-26 |  |
+| [Pasemos a otro tema \- en vivo](https://open.spotify.com/track/19oeyrvbBfAcpgMEGQ3v3S) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 2:31 | 2022-12-03 |  |
 | [Perdiendo el Tiempo](https://open.spotify.com/track/5Jf0hLSFRfZ3NTSD45hLuf) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 5:05 | 2022-10-26 |  |
 | [Psicótico](https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT) | [ELÍAS](https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Psicótico](https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc) | 3:21 | 2022-10-26 |  |
 | [Quiero Llegar \- En Vivo](https://open.spotify.com/track/3C9cFMfZZb2SUWiiZaX0Wd) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vivo Grandes Exitos en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi) | 4:35 | 2022-10-26 |  |

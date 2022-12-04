@@ -4,7 +4,7 @@
 
 > The sounds of LGBTQ+ punk\. Cover: Big Joanie
 
-105 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6Y9w0H6oDcjBBpPRKrQxKq)
+106 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/6Y9w0H6oDcjBBpPRKrQxKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Let's Make Out](https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 2:55 | 2022-05-31 |  |
 | [Lovers Lane](https://open.spotify.com/track/2C3NdJNp7DkOLtARovoL68) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [Too Young To Be In Love](https://open.spotify.com/album/3ezEcFfUKTEYhKjWAgCZqp) | 3:35 | 2022-03-03 | 2022-07-29 |
 | [Lovers Lane](https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf) | [Hunx & His Punx](https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF) | [Too Young To Be In Love](https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP) | 3:35 | 2022-05-31 |  |
-| [Macaulay Sulkin'](https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY) | [90'sdreamboy](https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ) | [I <3 90's dreamboy](https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6) | 2:13 | 2022-03-03 |  |
+| [Macaulay Sulkin'](https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY) | [90'sdreamboy](https://open.spotify.com/artist/03i7AdjvxoQCgJRNBh3NyQ) | [I <3 90's dreamboy](https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6) | 2:13 | 2022-03-03 | 2022-12-04 |
 | [Mackerel's Funky Mission](https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Mackerel's Funky Mission](https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV) | 3:44 | 2022-03-03 |  |
 | [Miranda](https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Miranda](https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2) | 4:00 | 2022-03-03 |  |
 | [Night in the Woods](https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5) | [Gender Chores](https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi) | [Night in the Woods](https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0) | 3:03 | 2022-03-03 |  |
@@ -92,6 +92,7 @@
 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 | 2022-05-31 |  |
 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 | 2022-03-03 |  |
 | [Stupid Rich Boy](https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5) | [Froggy](https://open.spotify.com/artist/7xzT4aBGEZvQJKZWbhTxyt) | [Stupid Rich Boy](https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e) | 4:23 | 2022-05-31 | 2022-07-29 |
+| [SuperNatural Possession](https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh) | 2:04 | 2022-05-31 |  |
 | [SuperNatural Possession](https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh) | 2:04 | 2022-03-03 | 2022-07-29 |
 | [SuperNatural Possession](https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2BBk7kjQwYdV0UgeYx0JYK) | 2:04 | 2022-05-31 | 2022-12-01 |
 | [Take Another](https://open.spotify.com/track/3S7KVKmwbxYbN41tltqZdT) | [Size Of Sadness](https://open.spotify.com/artist/2YuRANSZU5LahqGdk7cM5y) | [Little Trauma Things](https://open.spotify.com/album/37iLVqvAeUeTsXiDlYxKR5) | 3:00 | 2022-03-03 | 2022-11-13 |

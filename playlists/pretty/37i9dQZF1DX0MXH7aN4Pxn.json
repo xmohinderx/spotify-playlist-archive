@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687696,
+  "num_followers": 687685,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMGRmNDU3Mjg5MzE2ZWYxNWViZmZjZTdjZTg1Y2UxMTY3",
+  "snapshot_id": "MTY2MTE5MDk2NSwwMDAwMDAwMDQwODcxNDY1MzQ1YmViOGMxZWZmY2RmMmI3YjBjY2Jk",
   "tracks": [
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1371,18 +1371,30 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg"
+        "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
+        "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Rude Kid",
+          "url": "https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        },
+        {
+          "name": "Janice Robinson",
+          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
         }
       ],
-      "duration_ms": 186341,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"
+      "duration_ms": 160000,
+      "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
+      "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1411,30 +1423,18 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
-        "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg"
       },
       "artists": [
         {
-          "name": "Rude Kid",
-          "url": "https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl"
-        },
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        },
-        {
-          "name": "Janice Robinson",
-          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
-      "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
+      "duration_ms": 186341,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
+        "name": "Good Ones (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 165141,
+      "name": "Good Ones - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
+    },
+    {
+      "added_at": "2022-08-22 17:56:05",
+      "album": {
         "name": "Tell It To My Heart (KVSH Remix)",
         "url": "https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 183870,
       "name": "Tell It To My Heart (feat. Hozier) - KVSH Remix",
       "url": "https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ"
-    },
-    {
-      "added_at": "2022-08-22 17:56:05",
-      "album": {
-        "name": "Good Ones (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 165141,
-      "name": "Good Ones - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
+        "name": "Mad At Me",
+        "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
       },
       "artists": [
         {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
+      "duration_ms": 238095,
+      "name": "Mad At Me",
+      "url": "https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Mad At Me",
-        "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq"
       },
       "artists": [
         {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 238095,
-      "name": "Mad At Me",
-      "url": "https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0"
+      "duration_ms": 154653,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1927,18 +1927,22 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Make Luv",
-        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/1LD7wfM8EYjricnmu1EpWQ"
       },
       "artists": [
         {
-          "name": "Jay Pryor",
-          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Kiara Nelson",
+          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
         }
       ],
-      "duration_ms": 168091,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
+      "duration_ms": 164975,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
     },
     {
       "added_at": "2022-08-22 17:56:05",
@@ -1963,38 +1967,38 @@
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/1LD7wfM8EYjricnmu1EpWQ"
+        "name": "Make Luv",
+        "url": "https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy"
       },
       "artists": [
         {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        },
-        {
-          "name": "Kiara Nelson",
-          "url": "https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa"
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
         }
       ],
-      "duration_ms": 164975,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
+      "duration_ms": 168091,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
     },
     {
       "added_at": "2022-08-22 17:56:05",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "T. Matthias",
+          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
+      "duration_ms": 174649,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
     }
   ],
   "unique_name": "PARTY MODE",

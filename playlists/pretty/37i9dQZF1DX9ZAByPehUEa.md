@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,286 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,331 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 47 | [Money Money](https://open.spotify.com/track/5Y1hXyy0XdX8R3sY3FAR3q) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:30 |
 | 48 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 49 | [Sometimes The Going Gets A Little Tough \- Mella Dee Going Got A Bit Tougher Mix](https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5), [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Sometimes The Going Gets A Little Tough](https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9) | 5:39 |
-| 50 | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/track/3hrN93f0xTIsejwDB3avn6) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/album/2UzDkeFYB2PkXUDq192KbP) | 3:59 |
+| 50 | [All I Need \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All I Need \(DJ\-Kicks\)](https://open.spotify.com/album/4eMhrXXUCKHXIaG2xZGjjO) | 3:39 |
 
-Snapshot ID: `MTY2Njk3NTA5NCwwMDAwMDAwMDY2OTExYTU1ZDJiMjZkNDY0ODY1Y2U3NDJhNmNhZWVk`
+Snapshot ID: `MTY2Njk3NTA5NCwwMDAwMDAwMGY4MjFlNGI5MGFlNTBmNjRlZTcwOTMzNzNiMWQ5YjY0`

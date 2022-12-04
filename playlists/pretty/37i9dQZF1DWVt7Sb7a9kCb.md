@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,513 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,543 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 27 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
 | 28 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 |
 | 29 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 30 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
-| 31 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 |
+| 30 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 |
+| 31 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
 | 32 | [Rojo](https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:30 |
 | 33 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 |
 | 34 | [Problemón](https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Problemón](https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj) | 3:13 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 76 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 |
 | 77 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
 | 78 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
-| 79 | [Carita Linda](https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu) | 3:19 |
+| 79 | [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 |
 | 80 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 |
 
-Snapshot ID: `MTY2OTM0MzQ5MSwwMDAwMDAwMGQ2ZDliNzIwM2M4OTQwNTg4Y2M5OGJlMDEyMDc2NTcx`
+Snapshot ID: `MTY2OTM0MzQ5MSwwMDAwMDAwMGVjMjA2MWExOWE4ZGRkNWM5NzNmNjQ1NjQxYTY2ODYz`

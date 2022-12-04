@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,345 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,374 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 24 | [Se Vale Llorar](https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [X Aniversario](https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9) | 3:16 |
 | 25 | [Trono Caído](https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:41 |
 | 26 | [Mi Caballo El Invasor](https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 2:34 |
-| 27 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 |
-| 28 | [Bonita \- Norteña Version](https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:55 |
+| 27 | [Bonita \- Norteña Version](https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:55 |
+| 28 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 |
 | 29 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:40 |
 | 30 | [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 |
 | 31 | [Necesito Odiarte](https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 43 | [Con el Brazo Derecho](https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:42 |
 | 44 | [Rafael Caro Quintero](https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 3:03 |
 | 45 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
-| 46 | [Cariño Santo](https://open.spotify.com/track/6nt93dU2QlPMrVrEWfKKlj) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Éxitos Con Sax al Estilo De: Lalo Mora](https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS) | 3:37 |
-| 47 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4bSkZ266UEFGDDeAjyqu2G) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 3:33 |
-| 48 | [Que Me Perdone Dios](https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corazón Indeseable](https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs) | 3:03 |
-| 49 | [Vete Con Él](https://open.spotify.com/track/3wb0nxCJhqLld4338jCLiB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vete Con Él](https://open.spotify.com/album/6z3bp5QfUzrv0UBwZczWrZ) | 3:07 |
+| 46 | [Vete Con Él](https://open.spotify.com/track/3wb0nxCJhqLld4338jCLiB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vete Con Él](https://open.spotify.com/album/6z3bp5QfUzrv0UBwZczWrZ) | 3:07 |
+| 47 | [Cariño Santo](https://open.spotify.com/track/6nt93dU2QlPMrVrEWfKKlj) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Éxitos Con Sax al Estilo De: Lalo Mora](https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS) | 3:37 |
+| 48 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4bSkZ266UEFGDDeAjyqu2G) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 3:33 |
+| 49 | [Que Me Perdone Dios](https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corazón Indeseable](https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs) | 3:03 |
 | 50 | [Flor de Dalia](https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Exitos Vol\. 1](https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt) | 2:43 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDAyNWE3M2EzYTJmZmE2Y2UyNDFmYmVjMWZkMzg1OTg2OQ==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA1Y2YzYTVkMWVkZjI2MmNlY2Q2ZDA0MTRjMmE4ZTA3Mg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,973 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,983 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 |
 | 9 | [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 |
 | 10 | [Wishlist](https://open.spotify.com/track/4WCOxwqS5NqmcGCO0FngNb) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Wishlist](https://open.spotify.com/album/4bJoRazDOrMpA58mF7n5HT) | 2:22 |
-| 11 | [Dans l'appart'](https://open.spotify.com/track/6h8BhAsca4Yes3lwMqDGgJ) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/4QOXZfgxVwmR8e3wNuimRo) | 2:17 |
+| 11 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 |
 | 12 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 |
 | 13 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 |
 | 14 | [Unique](https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Unique](https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6) | 2:42 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 74 | [Null auf Hundert](https://open.spotify.com/track/6xq4qByF2jr9NGUxKX1EYq) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [Null auf Hundert](https://open.spotify.com/album/6sn4GPWoW32oiwyuIPGRZm) | 2:20 |
 | 75 | [UUU \(feat\. Capital Bra\)](https://open.spotify.com/track/3udydGp3WtLkUs7qL5G6Ll) | [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [UUU \(feat\. Capital Bra\)](https://open.spotify.com/album/3APBR389nz1x0B78DIWF6w) | 2:56 |
 | 76 | [Rollercoaster Ride](https://open.spotify.com/track/1tNLT2AOuI8MY1fiouL7hA) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Rollercoaster Ride](https://open.spotify.com/album/51mFo4hJx9drfN2EUtIJRd) | 2:48 |
-| 77 | [Side by Side](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hugh Laurie](https://open.spotify.com/artist/5WM5zPOswRcPu07rxP2dQv) | [Side by Side](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 |
+| 77 | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 |
 | 78 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 |
 | 79 | [Stoli](https://open.spotify.com/track/0vFMjP5JbV3yqSbZU7dzny) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Stoli](https://open.spotify.com/album/3D7Ghcl2ZI6pIhmgeotS8U) | 2:50 |
 | 80 | [LIGHTNING](https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [LIGHTNING](https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Vibe](https://open.spotify.com/track/4UVSKQUuexHtZtzKFf1QI9) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Vibe](https://open.spotify.com/album/1Iq611YQaT1CtRQRXop1LA) | 2:25 |
 | 100 | [Honeys im Club](https://open.spotify.com/track/2kSNYLAjezh52RLW0OjeBC) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Honeys im Club](https://open.spotify.com/album/6CGcnvanF4z02rgHW8R8Ou) | 1:57 |
 
-Snapshot ID: `MTY2OTk4MDE0MSwwMDAwMDAwMDhiMTVhZTAyNDc3YjZkOGNjODQxMDFmNDc1ODViMDg2`
+Snapshot ID: `MTY2OTk4MDE0MSwwMDAwMDAwMDM3MDA4NTEwMDJmZjExYmUyZmM1ZjVlMDE4MzBlMDE3`

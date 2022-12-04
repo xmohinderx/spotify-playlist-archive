@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda MS de Sergio Lizárraga en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,257 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,430 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 39 | [Entre Beso Y Beso](https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:02 |
 | 40 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 |
 | 41 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
-| 42 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
+| 42 | [Ilegal](https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 2:41 |
 | 43 | [El Reemplazo](https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [El Reemplazo](https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu) | 3:55 |
-| 44 | [Ilegal](https://open.spotify.com/track/35HWGdRlsTQdRQbdfpVcWm) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 2:41 |
+| 44 | [Música Romántica](https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Música Romántica](https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U) | 3:52 |
 | 45 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 |
 | 46 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
 | 47 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 71 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
 | 72 | [Ya](https://open.spotify.com/track/0oMiAVGA9MpwFYnSrr20Uk) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Ya](https://open.spotify.com/album/4hY3LMulxgI6LeUXIoNnnN) | 2:51 |
 | 73 | [El Fendi](https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Fendi](https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE) | 3:15 |
-| 74 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
-| 75 | [Como Duele Equivocarse](https://open.spotify.com/track/5dm6FlDN6r8C8SJuAF0vNR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/6tdGbF9oCsV0zRsTTgwJHo) | 3:46 |
+| 74 | [Como Duele Equivocarse](https://open.spotify.com/track/5dm6FlDN6r8C8SJuAF0vNR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/6tdGbF9oCsV0zRsTTgwJHo) | 3:46 |
+| 75 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
 
-Snapshot ID: `MTY2OTk1ODA5NiwwMDAwMDAwMGQxZmVkYWIxYjhhYjg3NjFkZTIwYWQyNGIwOTc2ZDZm`
+Snapshot ID: `MTY2OTk1ODA5NiwwMDAwMDAwMDAxNjY5NzJiY2JmODExYzA4MWE5NGJmZmViOTUwYTkz`

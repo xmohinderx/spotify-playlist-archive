@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,774 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,798 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 33 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 | 34 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 35 | [The Letter](https://open.spotify.com/track/6RJK553YhstRzyKA4mug09) | [The Box Tops](https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr) | [The Letter/Neon Rainbow](https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs) | 1:52 |
-| 36 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
-| 37 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
+| 36 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
+| 37 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
 | 38 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
 | 39 | [Love Me Do \- Remastered 2009](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:21 |
 | 40 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 70 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 |
 | 71 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 72 | [Everlasting Love](https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [The Everlasting Love Affair](https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX) | 3:02 |
-| 73 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
-| 74 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
+| 73 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
+| 74 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 | 75 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMGE4ZjAwODUyYzYxZTQ2ZmE2YWY1ZGQ0NjZiZWUwY2Zm`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMGYyMWExMmNiYjBmZGFmODFiN2E0YjUzYzYwZDY5ZWIy`

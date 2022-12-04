@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,968 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,223 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 14 | [Adentro](https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Adentro](https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU) | 2:12 |
 | 15 | [Ganas de Ti](https://open.spotify.com/track/791kF1u1fflDhWfXs98QCL) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Ganas de Ti](https://open.spotify.com/album/4tdBbMgmNpN0mOEMswLmu9) | 3:31 |
 | 16 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 |
-| 17 | [Bobo](https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Bobo](https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae) | 2:19 |
+| 17 | [Bobo \- Remix](https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Bobo \(Remix\)](https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae) | 2:19 |
 | 18 | [Mi Secreto](https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Mi Secreto](https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8) | 2:59 |
 | 19 | [Oasis](https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:56 |
 | 20 | [El Plan](https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Plan](https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql) | 3:37 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 30 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 |
 | 31 | [Heart of Glass](https://open.spotify.com/track/4qAuQIFDIlQUDLUQN1aPHp) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Heart of Glass](https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7) | 3:04 |
 | 32 | [En Camara Lenta](https://open.spotify.com/track/6rHlebUvcnfndGTIDB66gY) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [En Camara Lenta](https://open.spotify.com/album/4B50gmMfVnHcMyURL9cZiq) | 3:23 |
-| 33 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Moustache](https://open.spotify.com/artist/0qSZNPG4MgTFT1WQ7F2nIq) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 |
+| 33 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 |
 | 34 | [Lamb](https://open.spotify.com/track/1A9N05ZPTLWoDWTDGxWZ8z) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Lamb](https://open.spotify.com/album/25RW5q6ZVQGv6GC3Mv6SXM) | 2:38 |
 | 35 | [Abril](https://open.spotify.com/track/50o1XBmCMpoasw39taO8V1) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [4+1](https://open.spotify.com/album/2DvddMCiT9dskF1esH7vut) | 3:37 |
 | 36 | [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Flyboiz",
-  "num_followers": 455802,
+  "num_followers": 455815,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDJlNjJmNDczM2ZkNmRkNDQ0MGY4ZjgxM2E2MDIyY2Q1",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGIxNWE2NTQ3NmZiOWI4ZTZiY2JjNzA5N2FhZTEzMDBi",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 164092,
+      "name": "100 TRACKS",
+      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "ZAZA",
         "url": "https://open.spotify.com/album/68gNfeJwYo79JVUlDXj7v8"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 207800,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 164092,
-      "name": "100 TRACKS",
-      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1351,6 +1351,22 @@
       "duration_ms": 144438,
       "name": "Relojito",
       "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 150140,
+      "name": "23 FEB MADRID FREESTYLE",
+      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 150140,
-      "name": "23 FEB MADRID FREESTYLE",
-      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "POCHOCLOS",
         "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
       },
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Fuma Fuma",
+        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Fuma Fuma",
+      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "La Movie",
         "url": "https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 264776,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Fuma Fuma",
-        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Fuma Fuma",
-      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/3XxJvG29FzRuHRW6OGKxUx"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 95798,
-      "name": "ALI",
-      "url": "https://open.spotify.com/track/1Cxtb1K5YI4ssTTmT7TDx5"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/3XxJvG29FzRuHRW6OGKxUx"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 95798,
+      "name": "ALI",
+      "url": "https://open.spotify.com/track/1Cxtb1K5YI4ssTTmT7TDx5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Corta y Palo",
         "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
       },
@@ -1931,22 +1931,6 @@
       "duration_ms": 220689,
       "name": "Corta y Palo",
       "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "FOLLOWS",
-        "url": "https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 237861,
-      "name": "FOLLOWS",
-      "url": "https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1991,6 +1975,22 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "FOLLOWS",
+        "url": "https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 237861,
+      "name": "FOLLOWS",
+      "url": "https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Explicita",
         "url": "https://open.spotify.com/album/3LtFl0dohF761jukARAR5L"
       },
@@ -2079,42 +2095,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "They Love Us",
-        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Triple H",
-      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj"
-      },
-      "artists": [
-        {
-          "name": "Denilson",
-          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "DISCORDIA",
         "url": "https://open.spotify.com/album/2YZYDm5dakQuKD9RPe7mYx"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 184185,
       "name": "THREE",
       "url": "https://open.spotify.com/track/7bAXhOVSGEcUtpg8zza9Kw"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj"
+      },
+      "artists": [
+        {
+          "name": "Denilson",
+          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2179,34 +2179,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Kevin, Hugo & Jorge",
-        "url": "https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        },
-        {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
-        },
-        {
-          "name": "LOS MUCHACHOS",
-          "url": "https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Kevin, Hugo & Jorge",
-      "url": "https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
       },
@@ -2239,26 +2211,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "El Gran Robo, Pt. 2",
-        "url": "https://open.spotify.com/album/2ASgyx6vWb2VXZAxywMaBn"
-      },
-      "artists": [
-        {
-          "name": "Lito MC Cassidy",
-          "url": "https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 214436,
-      "name": "El Gran Robo, Pt. 2",
-      "url": "https://open.spotify.com/track/7oqxgOFRoLx9uDfgcMxkNa"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Veintipico",
         "url": "https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R"
       },
@@ -2275,6 +2227,26 @@
       "duration_ms": 201000,
       "name": "Veintipico",
       "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "El Gran Robo, Pt. 2",
+        "url": "https://open.spotify.com/album/2ASgyx6vWb2VXZAxywMaBn"
+      },
+      "artists": [
+        {
+          "name": "Lito MC Cassidy",
+          "url": "https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 214436,
+      "name": "El Gran Robo, Pt. 2",
+      "url": "https://open.spotify.com/track/7oqxgOFRoLx9uDfgcMxkNa"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2399,22 +2371,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "La Dieta del Barrio",
-        "url": "https://open.spotify.com/album/5Ny1vmeCcN2QXMRPUtTbFS"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "La Dieta del Barrio",
-      "url": "https://open.spotify.com/track/6CbApC7Ratt2fddBLCcFln"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Los del Noro",
         "url": "https://open.spotify.com/album/4OM4r8Pzin9wdBpPLPXNep"
       },
@@ -2439,6 +2395,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "La Dieta del Barrio",
+        "url": "https://open.spotify.com/album/5Ny1vmeCcN2QXMRPUtTbFS"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "La Dieta del Barrio",
+      "url": "https://open.spotify.com/track/6CbApC7Ratt2fddBLCcFln"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Manjit 1",
         "url": "https://open.spotify.com/album/3jwk8uhUhfJj56MuBZYBlm"
       },
@@ -2451,22 +2423,6 @@
       "duration_ms": 170501,
       "name": "Buen Viaje",
       "url": "https://open.spotify.com/track/3Rmu4NKTTjJvScgZaKkMJG"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE"
-      },
-      "artists": [
-        {
-          "name": "Sr Pablo",
-          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2487,6 +2443,22 @@
       "duration_ms": 150000,
       "name": "EL TRAP",
       "url": "https://open.spotify.com/track/23vHbqHE9MVJTUTA9pJbhf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2623,22 +2595,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Flight 0006",
-        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "Flight 0006",
-      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Seres de Noche",
         "url": "https://open.spotify.com/album/7lmm7sVUgcVkSLlXD4hdi0"
       },
@@ -2651,6 +2607,22 @@
       "duration_ms": 228292,
       "name": "Seres de Noche",
       "url": "https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Flight 0006",
+        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Flight 0006",
+      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2907,6 +2879,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Yakelin",
+        "url": "https://open.spotify.com/album/53SCI2RWlni7gwJSE235yU"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Yakelin",
+      "url": "https://open.spotify.com/track/4ucMC9jo6CJkwBfkHPZHSi"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "No Vales Na",
         "url": "https://open.spotify.com/album/5fKZRuVXgFJGt3ClcRGaKG"
       },
@@ -2983,42 +2975,30 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Yakelin",
-        "url": "https://open.spotify.com/album/53SCI2RWlni7gwJSE235yU"
+        "name": "Kevin, Hugo & Jorge",
+        "url": "https://open.spotify.com/album/4kzxuzLBkbGGnqeQ3dO8JT"
       },
       "artists": [
         {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         },
         {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Yakelin",
-      "url": "https://open.spotify.com/track/4ucMC9jo6CJkwBfkHPZHSi"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Siempre Solo",
-        "url": "https://open.spotify.com/album/0vhJx712CpLixQgf9HayTp"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux"
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
         },
         {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "LOS MUCHACHOS",
+          "url": "https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi"
         }
       ],
-      "duration_ms": 167706,
-      "name": "Siempre Solo",
-      "url": "https://open.spotify.com/track/7tBsfAXZvWiya5qdAA3N80"
+      "duration_ms": 146622,
+      "name": "Kevin, Hugo & Jorge",
+      "url": "https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -3039,6 +3019,26 @@
       "duration_ms": 176567,
       "name": "Zona Pistola",
       "url": "https://open.spotify.com/track/0yP1WZr5UYhdosm7R9ytI9"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Siempre Solo",
+        "url": "https://open.spotify.com/album/0vhJx712CpLixQgf9HayTp"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "Siempre Solo",
+      "url": "https://open.spotify.com/track/7tBsfAXZvWiya5qdAA3N80"
     },
     {
       "added_at": "2022-10-07 04:01:00",

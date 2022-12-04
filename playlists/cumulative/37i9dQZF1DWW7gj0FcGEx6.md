@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-206 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+207 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,8 +156,9 @@
 | [Super Pumped Main Theme](https://open.spotify.com/track/3fhdGqjknGADOomuY87BVf) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O) | [Super Pumped: The Battle For Uber \(Music from the Showtime Original Series\)](https://open.spotify.com/album/48Q7HneyiQRVatApr54ZSL) | 1:04 | 2022-04-08 |  |
 | [Symphony Brew Redux](https://open.spotify.com/track/1B6A8WRAW8T4pTH4ziNzDE) | [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY), [Parker Shper](https://open.spotify.com/artist/61IXES2xPEjrdB0OnuGn2M), [Stuart Bogie](https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf) | [The Nest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4zmUzrPENpUDI7z48H1F3U) | 1:19 | 2021-12-20 | 2022-07-09 |
 | [Teacher](https://open.spotify.com/track/6xxpRXHpaEtF0hAU5wNA9O) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [Emily: Original Motion Picture Soundtrack](https://open.spotify.com/album/6PufCfyhwd6AuIUXvDsgMc) | 2:27 | 2022-11-18 |  |
+| [Thank You For Being My Friend](https://open.spotify.com/track/16zZ6xJoy1MQ03K2RgItua) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/3orFgkUSLsCypUNgtGgcZ7) | 3:52 | 2022-12-02 |  |
 | [Thank You for Being My Friend](https://open.spotify.com/track/1exYML70PCk5Exyky12SnY) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution of the Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/0UOkEwL2bJBwLsmgmzkvXH) | 3:52 | 2021-12-20 | 2022-07-29 |
-| [Thank You For Being My Friend](https://open.spotify.com/track/23VgfPIZCZr9hhg0Z3l59o) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/4Fm0bCiGx5j5E7tntHv2J7) | 3:52 | 2022-07-22 |  |
+| [Thank You For Being My Friend](https://open.spotify.com/track/23VgfPIZCZr9hhg0Z3l59o) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/4Fm0bCiGx5j5E7tntHv2J7) | 3:52 | 2022-07-22 | 2022-12-04 |
 | [The Adam Project](https://open.spotify.com/track/0h2oliFUGdQzHE9TjCpeHe) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project](https://open.spotify.com/album/3mBBGGBVmBMHMfmrT4s7pH) | 4:55 | 2022-03-04 |  |
 | [The Banished Angel \- From "The Musical Anthology of His Dark Materials Series 3"](https://open.spotify.com/track/2eukTYngjYXpq61xu2b0Mn) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Banished Angel \(From "The Musical Anthology of His Dark Materials Series 3"\)](https://open.spotify.com/album/1va9x2K79Q7otoB5PGB9Q1) | 2:41 | 2022-10-28 |  |
 | [The Batman](https://open.spotify.com/track/0hs3unYvc0bFG2NgheFdkO) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(from "The Batman"\)](https://open.spotify.com/album/17zHcTl1W5UB4G7kr6e838) | 6:47 | 2022-01-21 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 197966,
+  "num_followers": 198028,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDU4NDQ3YjcyZTUwNTliMjFjOGY5OGY3YWQ3MjYwMTg0",
+  "snapshot_id": "MTYxMzEyNDQwNywwMDAwMDAwMDU1MjdkMzE0ODdmMmJkZTU1MWI0YmNmNDNiODNiOTlm",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 130892,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
         "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 144933,
       "name": "Come Softly To Me",
       "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 130892,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -223,6 +223,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Down in Mexico",
+      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 137493,
       "name": "Heart And Soul",
       "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Down in Mexico",
-      "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -339,38 +339,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of Bobby Lester And The Moonglows",
-        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
-      },
-      "artists": [
-        {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Get a Job",
-        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes",
-          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Get a Job",
-      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -387,6 +355,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Best Of Bobby Lester And The Moonglows",
+        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Up on the Roof: The Best of the Drifters",
         "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 155053,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Get a Job",
+        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes",
+          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Get a Job",
+      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -451,6 +451,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Best Of Dion & The Belmonts",
         "url": "https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu"
       },
@@ -463,6 +479,22 @@
       "duration_ms": 138960,
       "name": "I Wonder Why - Remastered",
       "url": "https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -483,38 +515,6 @@
       "duration_ms": 144266,
       "name": "Whispering Bells",
       "url": "https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "For Collectors Only",
         "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 136333,
       "name": "Buzz, Buzz, Buzz",
       "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+        "name": "Rmg's Top Doo-Wop Cloud Hits Volume 1",
+        "url": "https://open.spotify.com/album/3x0X3yqeVppSX30KzKWSiU"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "The Dubs",
+          "url": "https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ"
         }
       ],
-      "duration_ms": 106760,
-      "name": "Hey Senorita",
-      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
+      "duration_ms": 152600,
+      "name": "Chapel of Dreams",
+      "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
     },
     {
       "added_at": "2021-02-12 10:06:47",

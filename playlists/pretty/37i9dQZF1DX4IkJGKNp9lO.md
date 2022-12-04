@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,945 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,958 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 17 | [En vacker död stad](https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Det är ni som e dom konstiga, det är jag som e normal](https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H) | 3:13 |
 | 18 | [Lisa](https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From the Past](https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb) | 2:28 |
 | 19 | [Dricka Sprit Och Hålla Käften](https://open.spotify.com/track/3EtDZnjDsQxkj5c54Lmvoa) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 3:27 |
-| 20 | [Du ska va president](https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0) | [Imperiet](https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg) | [MNW Klassiker \- Imperiet](https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6) | 4:16 |
+| 20 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 |
 | 21 | [Patriarkatet](https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os) | 3:10 |
-| 22 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 |
+| 22 | [Du ska va president](https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0) | [Imperiet](https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg) | [MNW Klassiker \- Imperiet](https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6) | 4:16 |
 | 23 | [Hon Får...](https://open.spotify.com/track/5sbPNqCZq15zNo0ZQj75gT) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 4:08 |
 | 24 | [Tid att vara arg](https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:17 |
 | 25 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/4wBImoo0wHN7nuqcFp2M8j) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/3BQYGmHHjOxOGKgFJfWzay) | 3:27 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 29 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 |
 | 30 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 |
 | 31 | [En slemmig torsk](https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:49 |
-| 32 | [Drömmen](https://open.spotify.com/track/3HP3I1YVPnDB2awjQ7lxFq) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/0rLAjBrkMIZpu9VoyqfhV3) | 2:05 |
-| 33 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 |
+| 32 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 |
+| 33 | [Drömmen](https://open.spotify.com/track/3HP3I1YVPnDB2awjQ7lxFq) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/0rLAjBrkMIZpu9VoyqfhV3) | 2:05 |
 | 34 | [Psykopaten](https://open.spotify.com/track/4c6adBbwi1LnSJDwSayW9Y) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Sista Dansen](https://open.spotify.com/album/11i9Y2YSd0dEMcALvVNhXa) | 3:19 |
 | 35 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
 | 36 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 48 | [Feta Gubbar](https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:03 |
 | 49 | [Några Jävla Spänn](https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD) | 3:16 |
 | 50 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 |
-| 51 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
+| 51 | [Leva loppan](https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Pengarna eller livet](https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD) | 3:01 |
 | 52 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 |
 | 53 | [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 |
 | 54 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 57 | [Alaska](https://open.spotify.com/track/2tFsLCGvOirHBRBeC4JxcK) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/38BvEgilcgoviVitJEqpKc) | 2:40 |
 | 58 | [Tidens tempo](https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 2:12 |
 | 59 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 |
-| 60 | [Leva loppan](https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Pengarna eller livet](https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD) | 3:01 |
+| 60 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
 | 61 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
 | 62 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 |
 | 63 | [Ni får aldrig in mig där](https://open.spotify.com/track/6SYznjcNBTzWkyfJuolhfa) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/1c86hf60yWW0pBqfIHV2Np) | 2:59 |
 | 64 | [Abab](https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [MNW Digital Archive 1979](https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV) | 2:03 |
 | 65 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
 
-Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMGQ0ODAyYTE2NTEwZjgzMzkyOTg2ODIxN2QzNzM5ZWFk`
+Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMDMzOTA0NWFmNWFhNTJjZGMzMGFlYzc1MDZjMTAxNjA5`

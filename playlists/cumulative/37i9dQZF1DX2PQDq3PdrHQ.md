@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-433 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+435 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Nightjar](https://open.spotify.com/track/4xFjlPu00tvSacWqqO51LX) | [Pangolin Dreams](https://open.spotify.com/artist/2Tk5J7Yhr9qVVUCxWOeXdw), [Odokuro](https://open.spotify.com/artist/2GvyZiTgTShE6s1Vu5iC1M) | [Nightjar](https://open.spotify.com/album/0QzwNHPZFwk27GLHzClTGo) | 2:37 | 2022-12-02 |  |
 | [nightly adventures](https://open.spotify.com/track/45d5IT2ToIWAkoVTi5EoDi) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [nightly adventures](https://open.spotify.com/album/4iv0I4ZzBFoFPGLjR0QLEM) | 2:05 | 2022-05-20 |  |
 | [Nights](https://open.spotify.com/track/2ivfdGZXlVZRM0odpP67pP) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Nights](https://open.spotify.com/album/4jwkMtRGkbkvX0ya3Yorkw) | 2:46 | 2022-06-24 | 2022-09-30 |
-| [Nightsong](https://open.spotify.com/track/5gRrMNfhLBHvxlJRYbe0pI) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Nightsong](https://open.spotify.com/album/1uP2BabnDDOcBqdGTO7GH3) | 2:32 | 2022-07-15 |  |
+| [Nightsong](https://open.spotify.com/track/5gRrMNfhLBHvxlJRYbe0pI) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Nightsong](https://open.spotify.com/album/1uP2BabnDDOcBqdGTO7GH3) | 2:32 | 2022-07-15 | 2022-12-04 |
+| [Nightsong](https://open.spotify.com/track/02Xug25tB1hYcCscxlZky4) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Nightsong](https://open.spotify.com/album/1IUvVvGzTPNhPHFmF4Shxz) | 2:32 | 2022-12-02 |  |
 | [Nighttime Voyage](https://open.spotify.com/track/6cbjfmf85NMVLxmwKD2VJG) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [Lucid Dreams](https://open.spotify.com/album/20OUFGtfv163d3vn9OKojD) | 2:22 | 2022-07-22 |  |
 | [No Knowledge](https://open.spotify.com/track/0Xjcjjx5TrJ0erTMKOMvvt) | [filanom](https://open.spotify.com/artist/7EuHep7UFZ0ZrqizRYfufN) | [No Knowledge](https://open.spotify.com/album/1tyCnjLHQpK7JrEkxh5dfu) | 2:08 | 2022-05-20 | 2022-06-25 |
 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 | 2022-10-28 |  |
@@ -311,7 +312,8 @@
 | [Record Me](https://open.spotify.com/track/2kyQSBNIx3iuepznNZECY9) | [Beation](https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa) | [Record Me](https://open.spotify.com/album/27dqX0kaUQNH1C9ssB7Qtv) | 2:13 | 2022-05-20 | 2022-09-17 |
 | [red moon](https://open.spotify.com/track/4swgV1x1kMvwCWBPn1vcWO) | [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [red moon](https://open.spotify.com/album/5aQMhd2XYuJfhPwaRh1w3c) | 2:08 | 2022-09-02 |  |
 | [remember how we use to be](https://open.spotify.com/track/4BqA4LoQGIL3f4IKmPhI3O) | [Billy Wuot](https://open.spotify.com/artist/7N3iUlklKpjkGB0X11eMx4) | [remember how we use to be](https://open.spotify.com/album/4jXlZE2NYrSn2xMNmi6LJc) | 2:50 | 2022-08-12 |  |
-| [Remembrance](https://open.spotify.com/track/3CZJ4uF6IyWt6KTQJeSEdZ) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs) | [Remembrance](https://open.spotify.com/album/0fP29H4VwNonD78wnEMC1f) | 2:05 | 2022-08-12 |  |
+| [Remembrance](https://open.spotify.com/track/3CZJ4uF6IyWt6KTQJeSEdZ) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs) | [Remembrance](https://open.spotify.com/album/0fP29H4VwNonD78wnEMC1f) | 2:05 | 2022-08-12 | 2022-12-04 |
+| [Remembrance](https://open.spotify.com/track/6kaPtPyfD2IXfaq3zg7RlJ) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs) | [Remembrance](https://open.spotify.com/album/2nt6eNKRQ68uTRYU0wu8R5) | 2:06 | 2022-12-02 |  |
 | [Reminiscing](https://open.spotify.com/track/3JvlKEGgrx5US2tSS4V6E3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Reminiscing](https://open.spotify.com/album/4Uq7q0tCGprjYy4RWJxqpj) | 3:15 | 2022-05-20 |  |
 | [Resilience](https://open.spotify.com/track/0pDD5xsCuWALq5km2nNoD5) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Resilience](https://open.spotify.com/album/2fhxjLyV5huWci8fcAaKi5) | 2:12 | 2022-05-20 |  |
 | [rest well, my friend](https://open.spotify.com/track/0738erQUGAGMVPv6vD9ROL) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [born in the sky](https://open.spotify.com/album/2PgsinBHcL3AtkFO2A1Kx5) | 2:53 | 2022-07-01 | 2022-11-04 |

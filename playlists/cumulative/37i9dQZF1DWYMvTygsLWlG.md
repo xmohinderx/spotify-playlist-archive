@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-366 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
+367 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Can You Feel the Love Tonight \- End Title/ From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/0EANX0OVKSCcmarY50Xa4p) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 4:01 | 2021-02-01 | 2022-11-14 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 | 2021-02-01 |  |
 | [Can't Smile Without You](https://open.spotify.com/track/4hHvlahRan0NWN8M0eFHTz) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Essential Love Ballads](https://open.spotify.com/album/7bQhwrPoXOh0hxNiNW0PjR) | 3:09 | 2021-10-16\* | 2021-11-19 |
-| [Can't Take My Eyes Off You](https://open.spotify.com/track/7oHymG8r14Iv9zn5hFTNax) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:41 | 2021-02-01 |  |
+| [Can't Take My Eyes Off You](https://open.spotify.com/track/7oHymG8r14Iv9zn5hFTNax) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:41 | 2021-02-01 | 2022-12-04 |
 | [Careless Whisper](https://open.spotify.com/track/3CCCpjbs3uW018OkSguRFk) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/4lQylgSemTFptVRHayYIHZ) | 5:00 | 2021-10-16\* | 2022-04-21 |
 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 | 2022-05-30 |  |
 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 | 2021-10-16\* | 2021-11-19 |
@@ -262,6 +262,7 @@
 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 | 2022-08-26 | 2022-11-13 |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2021-02-01 | 2022-07-29 |
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2022-05-30 |  |
+| [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 |  |
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2021-02-01 |  |
 | [Read All About It, Pt\. III](https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 4:43 | 2021-10-16\* | 2021-11-19 |
 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 | 2021-02-01 |  |

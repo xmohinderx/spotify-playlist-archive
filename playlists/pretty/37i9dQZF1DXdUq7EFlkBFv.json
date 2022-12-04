@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 2276,
+  "num_followers": 2313,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGUzNGMxZjA5YTFjMWRhMzNmNjM1YzdlMmE0OWQ1OGJl",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDhjNmE1OTczY2M5YmFmNDYzYTI3ODQ3OWEyOGM0YjEy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -99,6 +99,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 257428,
       "name": "Hats Off (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2022-10-01 16:17:17",

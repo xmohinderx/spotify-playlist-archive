@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,373,534 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,384,393 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 2 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
-| 3 | [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 3 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
 | 4 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 5 | [FIGHT CLUB](https://open.spotify.com/track/2KOR0FNI6I9OgSH0w59oCI) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY), [EL$E](https://open.spotify.com/artist/36zaLvAR3hvPMtlSqgQs2i) | [PHONK CLUB](https://open.spotify.com/album/2cJa6cqxo5ZcJWstZbjylz) | 1:56 |
 | 6 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |

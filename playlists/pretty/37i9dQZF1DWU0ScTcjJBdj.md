@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,729,986 likes - 128 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,729,926 likes - 128 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 86 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
 | 87 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 88 | [White Lies](https://open.spotify.com/track/1a4q0cPW94CTmx1GLMCwxe) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [White Lies](https://open.spotify.com/album/2UHiZeQJJDA5A2t3ic9dSc) | 4:07 |
-| 89 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 |
+| 89 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 |
 | 90 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
 | 91 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 92 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 127 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 |
 | 128 | [Stay Alive](https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive](https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL) | 3:53 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGZhODQzZTg4ZjE1ODdiMTY2ZWVhN2FlYTlhNjE2NzQw`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGIzMjFhODUxMjQxMWZhM2U1MjUzYmQ3MDA3YWIwNzJk`

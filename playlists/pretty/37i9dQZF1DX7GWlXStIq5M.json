@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118154,
+  "num_followers": 118143,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGM3YmM5ZGRhNzUyZjZmNWM1NTMxODVhMTA2ZWJiZjQ1",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDYxMmIxOWU3OGUyOWMwNzQzMWQ3ZTA0NDFkZDExMTI2",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -183,22 +183,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 195906,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -695,26 +695,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 181929,
-      "name": "We Paid (feat. 42 Dugg)",
-      "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "F*CK LOVE",
         "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 181929,
+      "name": "We Paid (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -895,6 +895,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "777-666",
+      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 174100,
       "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "777-666",
-      "url": "https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Kenny G",
-        "url": "https://open.spotify.com/album/6dXKy9X9o0HpcF0YZjaWOa"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Kenny G",
-      "url": "https://open.spotify.com/track/3MkdA6vwF0ifRl86yzTlJW"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Babushka Boi",
         "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
       },
@@ -1235,6 +1219,42 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 177314,
+      "name": "Heatin Up (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Kenny G",
+        "url": "https://open.spotify.com/album/6dXKy9X9o0HpcF0YZjaWOa"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Kenny G",
+      "url": "https://open.spotify.com/track/3MkdA6vwF0ifRl86yzTlJW"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "The London (feat. J. Cole & Travis Scott)",
         "url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 200106,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 177314,
-      "name": "Heatin Up (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 165336,
-      "name": "Gorilla Roxo",
-      "url": "https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Um Pedido",
         "url": "https://open.spotify.com/album/7oXqiOeFY3lrUNg3UU1OeJ"
       },
@@ -1375,6 +1359,38 @@
       "duration_ms": 217731,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 165336,
+      "name": "Gorilla Roxo",
+      "url": "https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/393l0NdTr8Rv0hybf4FTxy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1439,50 +1455,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Para todas as mulheres que j\u00e1 rimei",
-        "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Quase uma Semana",
-      "url": "https://open.spotify.com/track/3dA7eXIIuCTY1w9xmskLNN"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "Woah",
-        "url": "https://open.spotify.com/album/393l0NdTr8Rv0hybf4FTxy"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/598yNsG1JFrGd4n2kMoz7F"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
         "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
       },
@@ -1511,6 +1483,34 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Para todas as mulheres que j\u00e1 rimei",
+        "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Quase uma Semana",
+      "url": "https://open.spotify.com/track/3dA7eXIIuCTY1w9xmskLNN"
     },
     {
       "added_at": "2020-10-20 20:23:39",

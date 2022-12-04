@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Yotto.
 
-1,866 songs - 4 day 12 hr 17 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,867 songs - 4 day 12 hr 20 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Beautiful Morning](https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Beautiful Morning](https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL) | 3:07 | 2022-11-04 | 2022-11-19 |
 | [Beauty Sleep](https://open.spotify.com/track/4Gq2ikHCdv7v2Wfvb7Z8Ns) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Beauty Sleep](https://open.spotify.com/album/6BBZr8znUbUEna9nOCeYWF) | 3:18 | 2021-01-29 | 2021-03-06 |
 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 | 2022-06-21 | 2022-07-23 |
-| [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-02 |  |
+| [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-02 | 2022-12-04 |
+| [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-02 |  |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-01-21 | 2022-04-02 |
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-10-07 | 2022-11-19 |
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2021-09-01 | 2021-09-04 |

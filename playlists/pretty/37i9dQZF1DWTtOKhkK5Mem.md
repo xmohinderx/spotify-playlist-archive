@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,140 likes - 150 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,413 likes - 150 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 92 | [The Man Who Can't Be Moved \- Acoustic](https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
 | 93 | [Nothing's Gonna Change My Love For You](https://open.spotify.com/track/1exLL81vN8mD55M9HMOt1t) | [Glenn Medeiros](https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN) | [Nothing's Gonna Change My Love For You](https://open.spotify.com/album/6Py0nKnjKSjmR4SlgLKmnr) | 3:51 |
 | 94 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
-| 95 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 |
-| 96 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 |
+| 95 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 |
+| 96 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 |
 | 97 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
 | 98 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
 | 99 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 107 | [Empty Space](https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Empty Space](https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4) | 3:34 |
 | 108 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
 | 109 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
-| 110 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
-| 111 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 |
+| 110 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 |
+| 111 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
 | 112 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
 | 113 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 |
 | 114 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 122 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
 | 123 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 |
 | 124 | [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 |
-| 125 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
-| 126 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 |
+| 125 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 |
+| 126 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 |
 | 127 | [You Are So Beautiful](https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Classics \(Vol.4\)](https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8) | 2:42 |
 | 128 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
 | 129 | [I Don't Have the Heart](https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Real](https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc) | 4:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Here and Now](https://open.spotify.com/track/042pmCix7CPth3l3X28jl1) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Best of Luther Vandross The Best of Love](https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD) | 5:23 |
 | 150 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 |
 
-Snapshot ID: `MTY2ODU5NDAwOSwwMDAwMDAwMGFkZGJkMmViY2FjMWMyMzk2ZWFmMWJiNTdkMTkyZmQ2`
+Snapshot ID: `MTY2ODU5NDAwOSwwMDAwMDAwMDg3NmQ0NWY1ODUyOTQ0MGNkMmEyYjY3Y2M1ZDE2MmNj`

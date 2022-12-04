@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,113 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,122 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 18 | [La neige au Sahara](https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Au Nom De La Lune](https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC) | 4:18 |
 | 19 | [Et si tu n'existais pas](https://open.spotify.com/track/3vIl0TRgS1UpxSTL8a19WF) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 3:27 |
 | 20 | [Aime moi](https://open.spotify.com/track/7Br5hb4FGMYRfGp72qNKCd) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-Moi](https://open.spotify.com/album/1q8MKSc8nUG1OvCieROWV9) | 4:10 |
-| 21 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
-| 22 | [La bartendresse](https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW) | [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc) | [Lapointe 1994\-2006 N'importe qui](https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk) | 4:06 |
+| 21 | [La bartendresse](https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW) | [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc) | [Lapointe 1994\-2006 N'importe qui](https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk) | 4:06 |
+| 22 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
 | 23 | [Faire la paix avec l'amour](https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b) | [Dany Bédar](https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm) | [Fruit de ma récente nuit blanche](https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5) | 3:45 |
 | 24 | [Une femme avec toi](https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Une femme avec toi \- Single](https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc) | 4:23 |
 | 25 | [On ne change pas](https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 4:07 |
 | 26 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
 | 27 | [Chats sauvages](https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Celle qui va](https://open.spotify.com/album/5A8miUxbmrkHnXpbCkWKr2) | 4:28 |
-| 28 | [Un beau grand bateau](https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 3:55 |
+| 28 | [Le temps des cathédrales](https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Version intégrale, acte 1](https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY) | 3:22 |
 | 29 | [C'est zéro](https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 4:02 |
-| 30 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 |
-| 31 | [Le temps des cathédrales](https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Version intégrale, acte 1](https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY) | 3:22 |
+| 30 | [Un beau grand bateau](https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 3:55 |
+| 31 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 |
 | 32 | [J't'aime comme un fou](https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [1ère période](https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v) | 3:50 |
 | 33 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
 | 34 | [A toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 66 | [Je survivrai](https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa) | [Michèle Richard](https://open.spotify.com/artist/2fLojwlojepWCZdtsAZVi0) | [Les années 70](https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk) | 3:30 |
 | 67 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 68 | [Lavez, lavez](https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Caribou](https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE) | 3:26 |
-| 69 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 |
-| 70 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
-| 71 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
+| 69 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
+| 70 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
+| 71 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 |
 | 72 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
 | 73 | [Dans chacun de mes silences](https://open.spotify.com/track/3gGaqfP07cG0uDqxKQl2UF) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 3:27 |
 | 74 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
 | 75 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 
-Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDJhMzc5MDA5NTI3MTEzN2E1YjA1Yzg0Mzk3MjQyYzBh`
+Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMDk4NDlhYzQ0OGJkNjBkYTg4YmYxMDg3MzAyZmNlMDA0`

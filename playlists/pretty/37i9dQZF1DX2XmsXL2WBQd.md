@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,613 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,724 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 50 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
 | 51 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
 | 52 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
-| 53 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
-| 54 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
+| 53 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
+| 54 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
 | 55 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
 | 56 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
 | 57 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Strong Island](https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR) | [JVC Force](https://open.spotify.com/artist/2HtbGWgFbeFudyoFwc2wHw) | [Doin' Damage](https://open.spotify.com/album/2A8MPW996QbdYK3CNDmcwK) | 5:59 |
 | 70 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 
-Snapshot ID: `MTY2OTAzMzQ5MiwwMDAwMDAwMGU0MjZjMDBiYTI1ODAzM2ViNzFhZjM1YTk0YzRiYTU0`
+Snapshot ID: `MTY2OTAzMzQ5MiwwMDAwMDAwMDk1MTUzMjdkMDBlMDkxNDFjMmU3M2UyZDhjYTk5NjZj`

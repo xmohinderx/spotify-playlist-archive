@@ -1,12 +1,12 @@
 {
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
-  "num_followers": 632065,
+  "num_followers": 632287,
   "original_name": "Classic Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMDI3NmMwYjMyNGRiNWMyMGEzZmUyZWI1YWM2NzA5MDQ4",
+  "snapshot_id": "MTY2MjU2MzQxMCwwMDAwMDAwMGQ3NzkzMDZkZDQ2NDAxMTZmOWQ2MmQ4ZmMzMmMxNmQ4",
   "tracks": [
     {
       "added_at": "2021-12-14 20:27:19",
@@ -123,18 +123,18 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -347,6 +331,22 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2022-01-04 20:30:57",
@@ -423,6 +407,22 @@
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-12-14 20:27:19",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 317426,
-      "name": "Shoot to Thrill",
-      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
     },
     {
       "added_at": "2022-06-29 15:30:44",
@@ -535,6 +535,22 @@
       "duration_ms": 276880,
       "name": "Tom Sawyer",
       "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -567,22 +583,6 @@
       "duration_ms": 270426,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
-    },
-    {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
     },
     {
       "added_at": "2021-12-14 20:27:19",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
-      "added_at": "2021-12-14 20:27:19",
-      "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
-    },
-    {
       "added_at": "2022-04-08 19:02:42",
       "album": {
         "name": "Ram Jam",
@@ -679,6 +663,22 @@
       "duration_ms": 238973,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2021-12-14 20:27:19",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2021-12-14 20:27:19",

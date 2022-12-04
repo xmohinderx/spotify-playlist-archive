@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,684 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,788 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 |
 | 50 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDA3YmVhODEwNjllNmMwN2NjOTliNjhkNWVkODhiNjRkMQ==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDAzOTgxZGU5M2JhZGNmYjY2NTQ3YjQ2ZTYzYzU3M2E1Yw==`

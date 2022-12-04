@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 171375,
+  "num_followers": 171461,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGFjY2JjMDcyMTk4NDdjZDcxY2FkZGI4NDM2NzJlYTg1",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDIyMDhlYjEyNGJhMjNkZmM3OTY5ZDRjMzAxZDcyZmRk",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "What Doesn't Kill You Will Make You Stronger",
-        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
-      },
-      "artists": [
-        {
-          "name": "Candiria",
-          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
-        }
-      ],
-      "duration_ms": 196720,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 124360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "What Doesn't Kill You Will Make You Stronger",
+        "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
+      },
+      "artists": [
+        {
+          "name": "Candiria",
+          "url": "https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp"
+        }
+      ],
+      "duration_ms": 196720,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Break Down the Walls",
-      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Sound Of The Republic",
         "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 212573,
       "name": "You Ignore Them All",
       "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 124373,
+      "name": "Break Down the Walls",
+      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -699,6 +699,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "The Wounds That Never Heal",
         "url": "https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 108279,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
     },
     {
       "added_at": "2020-12-08 15:12:11",

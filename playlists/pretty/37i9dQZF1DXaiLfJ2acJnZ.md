@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,515 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,517 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 41 | [Feel Something](https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Feel Something](https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI) | 2:43 |
 | 42 | [Joe](https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI) | 3:07 |
 | 43 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
-| 44 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
-| 45 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 46 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
-| 47 | [Something in the Water](https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Something in the Water](https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt) | 3:06 |
+| 44 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
+| 45 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
+| 46 | [Something in the Water](https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Something in the Water](https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt) | 3:06 |
+| 47 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
 | 48 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 |
 | 49 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
 | 50 | [East End Coast](https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [East End Coast](https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU) | 3:46 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 70 | [unbreak ur heart](https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [unbreak ur heart](https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt) | 3:23 |
 | 71 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
 | 72 | [Blu Shirt Boy](https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa) | 3:43 |
-| 73 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 |
-| 74 | [Summer Fling](https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Summer Fling](https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE) | 3:35 |
-| 75 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
-| 76 | [You Give Me More](https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:58 |
-| 77 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
+| 73 | [Summer Fling](https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Summer Fling](https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE) | 3:35 |
+| 74 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 |
+| 75 | [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 |
+| 76 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
+| 77 | [You Give Me More](https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:58 |
 | 78 | [One of Those Days](https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [One Of Those Days](https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py) | 3:28 |
-| 79 | [1982](https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [City That I'm Lost In](https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi) | 3:11 |
-| 80 | [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 |
+| 79 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
+| 80 | [1982](https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [City That I'm Lost In](https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi) | 3:11 |
 
-Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMGQzZjFlMDBlYjMxZDI3NzE4ZTNkZGVlYjI0ZTI4NDI4`
+Snapshot ID: `MTY2Njk5MDY4OCwwMDAwMDAwMGYwNGE3OWE4YTI4ZTZiMDBlYjRkOTEzNThlYzU4ZGZm`

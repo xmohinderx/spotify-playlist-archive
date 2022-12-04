@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,374 likes - 70 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,614 likes - 70 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 50 | [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 |
 | 51 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 |
 | 52 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
-| 53 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
-| 54 | [Em Teus Braços](https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Fornalha Laura Souguellis](https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW) | 12:15 |
-| 55 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
+| 53 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
+| 54 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
+| 55 | [Em Teus Braços](https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Fornalha Laura Souguellis](https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW) | 12:15 |
 | 56 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 |
 | 57 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 |
 | 58 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
 | 70 | [Eu Cuido de Ti](https://open.spotify.com/track/3M9OF3VPZONrRJt39lGoOA) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Meu Alvo É o Céu](https://open.spotify.com/album/7BqrtNW10gHHuhilirLpzH) | 5:08 |
 
-Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMDc1MjdkNzM0MzE5YmMwNWNkNDllNmUzZGE0ODE0YTI5`
+Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMDE2NjI0NjJjZTRiYThjODhlNjk3YWNiMmFlMjY2MDJl`

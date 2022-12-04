@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Kryder &amp; Sarah De Warren
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,123 likes - 154 songs - 8 hr 3 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,116 likes - 154 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

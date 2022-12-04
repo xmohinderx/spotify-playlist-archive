@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Plastilina Mosh en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,197 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,315 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 27 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 28 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:16 |
 | 29 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
-| 30 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
-| 31 | [Desde Que](https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:38 |
+| 30 | [Desde Que](https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:38 |
+| 31 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
 | 32 | [Poli](https://open.spotify.com/track/5WsHtvVnbfY17VNF93rQ7w) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:20 |
 | 33 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 34 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 75 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 76 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
 | 77 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
-| 78 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
-| 79 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
+| 78 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
+| 79 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
 | 80 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
 | 81 | [Nos Tragamos](https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:09 |
 | 82 | [El mundo bajo el brazo](https://open.spotify.com/track/22QKZaf3rD04GwLPiCeL4q) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [El mundo bajo el brazo](https://open.spotify.com/album/6iAHP1ikUWXt41JSnAkfmY) | 3:45 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 86 | [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 |
 | 87 | [Sobre Natural](https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Sobre Natural](https://open.spotify.com/album/4plALexvYJjioZhfvh47PA) | 3:25 |
 | 88 | [Jurame](https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Ely Guerra](https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8) | 4:35 |
-| 89 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
+| 89 | [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 |
 | 90 | [Olvidate De Mí](https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Deshabitado](https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh) | 3:43 |
 | 91 | [El Microbito](https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rock Latino](https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI) | 2:36 |
-| 92 | [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 |
+| 92 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 93 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 |
 | 94 | [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 |
-| 95 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
-| 96 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
-| 97 | [Payaso](https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 3:50 |
+| 95 | [Payaso](https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 3:50 |
+| 96 | [Cheve](https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:44 |
+| 97 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
 | 98 | [Cerquita de Dios](https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:00 |
-| 99 | [Cheve](https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:44 |
+| 99 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
 | 100 | [Aquí No Es Dónde](https://open.spotify.com/track/6IkojHlvNIAXXHWhlcE1Oq) | [Resorte](https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic) | [Crazy Pack Resorte](https://open.spotify.com/album/2yhvEOcsRufEw1qw91xMZy) | 4:01 |
 
-Snapshot ID: `MTY2NDIyODA3MCwwMDAwMDAwMGU2NzJkYmNkZGYxYTJiOTc0MDlhNWViMTI2NGVlNzdm`
+Snapshot ID: `MTY2NDIyODA3MCwwMDAwMDAwMDFmYjI5YTllMjUxMjhiZGQ1MGE0OGFkOTQ0OGZmMTBh`

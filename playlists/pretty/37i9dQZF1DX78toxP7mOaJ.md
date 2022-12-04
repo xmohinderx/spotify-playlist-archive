@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,778 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,922 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 35 | [Hi\-Vis Baby](https://open.spotify.com/track/54R3rYF2MqxL0ItcECx0u8) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Love Boredom Bicycles](https://open.spotify.com/album/79W6cWIR0t0EFc4jcJj6qg) | 2:16 |
 | 36 | [Phenomenal](https://open.spotify.com/track/7zYN8fUmsp5KgHzj08vOSM) | [L'FREAQ](https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ) | [The End of the World](https://open.spotify.com/album/5ZNebgD5Qk2VWFqaXyP1fD) | 4:00 |
 | 37 | [Honey](https://open.spotify.com/track/4UIvGdx4LykBNxNaBMFogP) | [Crystal Tides](https://open.spotify.com/artist/5a94ihfgkkItCundHIPxP4) | [Honey](https://open.spotify.com/album/3np1qu8QpHllcgyuTdKRsa) | 3:25 |
-| 38 | [Bloodshot](https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm) | [The Mammoths](https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ) | [Bloodshot](https://open.spotify.com/album/1gLddT3QCTtWOucZuRPiH5) | 4:21 |
+| 38 | [Bloodshot](https://open.spotify.com/track/77fbCsljxxMr0y7BvmUwJ0) | [The Mammoths](https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ) | [Bloodshot](https://open.spotify.com/album/0XrVDH3fJ24Q0kz9pu0wPK) | 4:21 |
 | 39 | [Record Store](https://open.spotify.com/track/4Nj1xrLZm2mjF4Iu5fU3Xt) | [Drens](https://open.spotify.com/artist/3Q8NJFycXKD7l7TGADQuHw) | [Holy Demon](https://open.spotify.com/album/7h9g4CJoc2hgB8I1YU0KtY) | 2:54 |
 | 40 | [Falling \(OFF THE EDGE!\)](https://open.spotify.com/track/4kLVK5LxV2hbvBSnw0T8ny) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [A Beautiful Moon](https://open.spotify.com/album/707qt1DY0EZtoeIfAcQBeI) | 3:23 |
 | 41 | [Special](https://open.spotify.com/track/5cguM5xFmj0CLWZTycYxUp) | [Lindsay Coulson](https://open.spotify.com/artist/4Ez7b0CUctOsgdPgDBSimI) | [Special](https://open.spotify.com/album/1846fEX7cXPjEd7YuH8dwV) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [i got what i asked for](https://open.spotify.com/track/73zlBhD7TDSIFrmcdUYoH3) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [i got what i asked for](https://open.spotify.com/album/7uHrq6RsMnfWJOkgwGoftj) | 3:11 |
 | 100 | [To Feel Young](https://open.spotify.com/track/2UVXTxWKffcUMcvSbGNua7) | [Tennis Courts](https://open.spotify.com/artist/1KiCYjJuX19VhFGFjztXn3) | [To Feel Young](https://open.spotify.com/album/5X5R6oiS8mBoOqSn44nf8W) | 4:27 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDU2MjQ0ZjQ1NDllODBkMzc3ZTk2ZDlhNzdmNGUwMGY4`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGNhNmNjZTE2NDY5YmYzODBmNTdjZmRjMzkwMjBkYzNk`

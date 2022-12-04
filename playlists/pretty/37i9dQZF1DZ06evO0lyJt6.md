@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,299 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,315 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 36 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 |
 | 37 | [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 |
 | 38 | [Morir De Amor \- En Vivo](https://open.spotify.com/track/1JR3r3N2Nji7HBCh3hspCi) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pura Pisteadera En Vivo](https://open.spotify.com/album/53PAMHm0cCCDiDAkwjKVjH) | 3:09 |
-| 39 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
+| 39 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 |
 | 40 | [Y Sólo Tú](https://open.spotify.com/track/4dgaCpg0k6iNUh1UUDvKay) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:47 |
-| 41 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 |
+| 41 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
 | 42 | [Su Ex](https://open.spotify.com/track/5iOBVp8GOUNi7McqMkkP0e) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Su Ex](https://open.spotify.com/album/2t5OkH8EsSABpNopumZDHs) | 2:56 |
 | 43 | [Lo Mejor Que Me Ha Pasado](https://open.spotify.com/track/0gWF4aNCc8sAwKa82DNuv9) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:25 |
-| 44 | [Lo Que No Te Dije](https://open.spotify.com/track/3drohkbGXomHz87GCh89iV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:03 |
-| 45 | [Incompleto](https://open.spotify.com/track/0uNO3irjiH5jXqCEDCt73n) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:26 |
+| 44 | [Incompleto](https://open.spotify.com/track/0uNO3irjiH5jXqCEDCt73n) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:26 |
+| 45 | [Lo Que No Te Dije](https://open.spotify.com/track/3drohkbGXomHz87GCh89iV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:03 |
 | 46 | [No Debería Quererte](https://open.spotify.com/track/7DljH7oWQcvxAC57SdYBQd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
 | 47 | [Sigo Adelante](https://open.spotify.com/track/10eFFITOIKej2Z8dTrS711) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sigo Adelante](https://open.spotify.com/album/1V2ZmX5Onv4YaHW4FhlWIC) | 2:50 |
-| 48 | [Según Tus Labios](https://open.spotify.com/track/2gUDXy0cLy2nEvEUDI5m9G) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:09 |
-| 49 | [No Te Mereces](https://open.spotify.com/track/0CpMGnPzmU9KGyB05D0a5l) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:16 |
+| 48 | [No Te Mereces](https://open.spotify.com/track/0CpMGnPzmU9KGyB05D0a5l) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:16 |
+| 49 | [Según Tus Labios](https://open.spotify.com/track/2gUDXy0cLy2nEvEUDI5m9G) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:09 |
 | 50 | [Te Prometo](https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Te Prometo](https://open.spotify.com/album/2LP0reDguNHlmKi0C1mS8V) | 3:58 |
 | 51 | [A Una Almohada De Distancia](https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 4:37 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDA0YzE3NzQ0MGE0NzczNjliMjA0YTU4NWI3Mjg3NDAxZg==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA1MDUyYTA5Mzc0OWFiMmEzMThiMWY3YjA5YWQyMTFjZg==`

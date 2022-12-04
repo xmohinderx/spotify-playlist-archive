@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,450 likes - 31 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,466 likes - 31 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 20 | [Fallen Through Time](https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 5:38 |
 | 21 | [Ashes \(feat\. Eivør\)](https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 6:09 |
 | 22 | [Holding On \(feat\. Eivør\)](https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:33 |
-| 23 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 |
+| 23 | [Elrond Half\-elven](https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:23 |
 | 24 | [Comin' Thro' The Rye](https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 1:45 |
 | 25 | [Theme from the Walking Dead](https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 0:49 |
 | 26 | [Echoes of an Old Life](https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:44 |
-| 27 | [Elrond Half\-elven](https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:23 |
+| 27 | [Halbrand](https://open.spotify.com/track/58y5rtCFQxGMvWlXWSY9xU) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:55 |
 | 28 | [A Plea to the Rocks](https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Nomvete](https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Four: The Great Wave \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno) | 3:47 |
 | 29 | [Godzilla \(feat\. Serj Tankian\)](https://open.spotify.com/track/7cY7jiKLnE6a2pLmv840dm) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 3:10 |
 | 30 | [Lullaby of the Giants](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 |
 | 31 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDAzNGEzNTFlMzFhNmE2NzAxNDZlNTYyOTAwZjRjYWE5Ng==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDAzYWNlYjY2ZjZlODE3ODU3YTQ3NzQ0ZTY4YTNmYTMyNg==`

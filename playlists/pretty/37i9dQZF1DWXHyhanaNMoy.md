@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Wanneer je die track in La Vida Loca verwacht! POV met Smitmeister, La June, SK & Bokoesam
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,639 likes - 72 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,711 likes - 72 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

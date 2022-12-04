@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441,027 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,441,411 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 17 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
 | 18 | [Going Underground](https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Setting Sons \(Super Deluxe\)](https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo) | 2:54 |
 | 19 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
-| 20 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
-| 21 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:57 |
+| 20 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:57 |
+| 21 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
 | 22 | [I Was A Teenage Werewolf \- Remastered](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
 | 23 | [California Uber Alles](https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:27 |
 | 24 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 41 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
 | 42 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:37 |
 | 43 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
-| 44 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
-| 45 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
-| 46 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
+| 44 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
+| 45 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
+| 46 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
 | 47 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
 | 48 | [Hope](https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
 | 49 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 80 | [Lust For Life](https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 5:12 |
 | 81 | [What Love Is](https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:10 |
 | 82 | [Mickey Mouse Is Dead](https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ) | [Subhumans](https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK) | [The Day the Country Died](https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1) | 2:44 |
-| 83 | [No Class](https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:34 |
-| 84 | [New Rose](https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:42 |
-| 85 | [Ex Lion Tamer \- 2006 Remastered Version](https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:19 |
-| 86 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 83 | [Circles](https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh) | [Dag Nasty](https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E) | [Can I Say](https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93) | 2:46 |
+| 84 | [No Class](https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:34 |
+| 85 | [New Rose](https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:42 |
+| 86 | [Ex Lion Tamer \- 2006 Remastered Version](https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag](https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L) | 2:19 |
 | 87 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
 | 88 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
 | 89 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/29XJ6qIJAQdRSw64f47aJe) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
 | 100 | [Anarchy Burger \(Hold the Government\)](https://open.spotify.com/track/6rbCaKnfikjHo6RxEDAre9) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism](https://open.spotify.com/album/6MMGc0FA5Kwm8TsiJBx31L) | 1:54 |
 
-Snapshot ID: `MTY2OTY0OTE3OSwwMDAwMDAwMDcxOTdhZTNmMmNjMjUzOTFmMmFhOGJjZjlmNzE0ZDc2`
+Snapshot ID: `MTY2OTY0OTE3OSwwMDAwMDAwMDczNDIyNGUxOTQyZDg0YWI5ZGExMGExYTI5OGE3ZDlm`

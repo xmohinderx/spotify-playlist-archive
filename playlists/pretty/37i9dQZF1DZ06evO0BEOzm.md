@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,032 likes - 53 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,178 likes - 53 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 28 | [Cognac Queen](https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:42 |
 | 29 | [Cash Shit \(feat\. DaBaby\)](https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:12 |
 | 30 | [Kitty Kat](https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:05 |
-| 31 | [Flamin’ Hottie](https://open.spotify.com/track/3ZJmjmUTRCBA3UjNbFU5Ui) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Flamin’ Hottie](https://open.spotify.com/album/0fusNOkKD56JhM15TAdXf4) | 1:48 |
-| 32 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
+| 31 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
+| 32 | [Flamin’ Hottie](https://open.spotify.com/track/3ZJmjmUTRCBA3UjNbFU5Ui) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Flamin’ Hottie](https://open.spotify.com/album/0fusNOkKD56JhM15TAdXf4) | 1:48 |
 | 33 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
 | 34 | [Megan Monday Freestyle](https://open.spotify.com/track/0jyOHNhaRUBeFG0U7wNLMp) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
 | 35 | [Sex Talk](https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:11 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 |
 | 53 | [Rich](https://open.spotify.com/track/0fdQue15BjCMA3ov14ubF4) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 1:35 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBmMzZjYmI2NzNhNzg3Nzg1ODc0MGIwNGVlZWZmNjcxMw==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA1ODlmMTIwNjJlNDljMGI4YmUyYWFiZDVjYWQ0N2ZmNQ==`

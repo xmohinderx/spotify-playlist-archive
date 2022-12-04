@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,916 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,932 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 20 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 |
 | 21 | [Girl Blunt](https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Acrylic](https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl) | 3:25 |
 | 22 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
-| 23 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
-| 24 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 |
+| 23 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 |
+| 24 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 | 25 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 |
 | 26 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
 | 27 | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/album/4slIaFabUZiXFQt1LJXTu1) | 3:18 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 29 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
 | 30 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
 | 31 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
-| 32 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 |
-| 33 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |
-| 34 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
+| 32 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |
+| 33 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
+| 34 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 |
 | 35 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
 | 36 | [Culture](https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:08 |
 | 37 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [Green Line](https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o) | 3:26 |
 | 50 | [RE\(a\)D \(with Bas\)](https://open.spotify.com/track/3zkb4iEBArtWivbkhw4Jnd) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [RE\(a\)D \(with Bas\)](https://open.spotify.com/album/3OMZpoECIvg1U8HWYXMLgX) | 3:04 |
 
-Snapshot ID: `MTY2NDc2MDExMCwwMDAwMDAwMDAzOGYzYmU5ODU5YTM5MDg5MmYxMWViZjkwOGJjODMz`
+Snapshot ID: `MTY2NDc2MDExMCwwMDAwMDAwMGZjOGM1YmMwY2Q0MDg3OTU1M2NmZGU5N2QzN2I3MWY5`

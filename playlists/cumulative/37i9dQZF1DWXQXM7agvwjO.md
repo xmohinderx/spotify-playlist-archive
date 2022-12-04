@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: lost spaces, JAIE \(Malaysia\)
 
-506 songs - 1 day 6 hr 18 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+507 songs - 1 day 6 hr 21 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [sunrise](https://open.spotify.com/track/4amslzmcELgZwGmfrg2gOV) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [sunrise](https://open.spotify.com/album/3VAV0rDaxszxhB3eoTY8sC) | 4:03 | 2022-03-24 | 2022-04-08 |
 | [Sunset](https://open.spotify.com/track/21at3k85HWQB3afBSfLFV0) | [Howwhywhenyou](https://open.spotify.com/artist/1mqnofhpOdo4zGO2xFI72C) | [Sunset](https://open.spotify.com/album/5vQGKF9B1lh5emFRbGbhNi) | 3:47 | 2022-04-21 | 2022-06-17 |
 | [Sunset](https://open.spotify.com/track/0WaaNCMEYKZ5t95mP3Sib9) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/4dyrHFWWpQasYEcPiGKUHZ) | 3:00 | 2022-11-17 | 2022-12-03 |
-| [Sunset](https://open.spotify.com/track/7nlvbZVjzZZpFmEzfgWN2c) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Tuesday Beach Club](https://open.spotify.com/album/0vGAwNbmAskdxxfGyAxf2Q) | 3:00 | 2022-12-02 |  |
+| [Sunset](https://open.spotify.com/track/13zUDc9v7tauSRAp8F0bdJ) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/6zpzuFvYXssa278uauqo1r) | 3:00 | 2022-12-02 |  |
+| [Sunset](https://open.spotify.com/track/7nlvbZVjzZZpFmEzfgWN2c) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Tuesday Beach Club](https://open.spotify.com/album/0vGAwNbmAskdxxfGyAxf2Q) | 3:00 | 2022-12-02 | 2022-12-04 |
 | [Sunshine](https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [sh](https://open.spotify.com/artist/0R4narCkJHEsmTomh2jD1p) | [Sunshine](https://open.spotify.com/album/5xKLqgTDwEyBg7SfFpBhLL) | 3:19 | 2022-10-06 | 2022-12-02 |
 | [Super Happy \(feat\. Ariza\)](https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Super Happy](https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF) | 2:54 | 2022-08-18 | 2022-10-21 |
 | [Surga](https://open.spotify.com/track/25O01gstJe4vSICUA2wVmx) | [The Swinging Terror](https://open.spotify.com/artist/3Bz8K5WEeADKIrxRg208IV) | [Surga](https://open.spotify.com/album/0j1SrrUhHbtBvoWWKiNfGr) | 3:50 | 2022-07-14 | 2022-08-05 |

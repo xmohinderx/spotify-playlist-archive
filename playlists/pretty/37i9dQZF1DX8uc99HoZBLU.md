@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,749 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,463 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 64 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 65 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 |
 | 66 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 |
-| 67 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 |
-| 68 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 |
-| 69 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
+| 67 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 |
+| 68 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
+| 69 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 |
 | 70 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
 | 71 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 72 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 |
 | 75 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
 
-Snapshot ID: `MTY2OTY3NjU1MiwwMDAwMDAwMDkxOWMxNDE2NDJkMTdiYjA3MDA1NmQ3NGY5ZTEzMTYw`
+Snapshot ID: `MTY2OTY3NjU1MiwwMDAwMDAwMGM4NDBhY2VlZDY1YzdjYzUzMGI3NzMyMjM0OTRkODlj`

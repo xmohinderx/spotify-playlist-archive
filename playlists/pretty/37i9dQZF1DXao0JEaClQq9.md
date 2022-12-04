@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > if it feels ethereal, it's here\. cover: Weyes Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,958 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,118 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 35 | [Childhood](https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Fall With The Lights Down \(Louise\)](https://open.spotify.com/album/0IxA1tE42h1Zf5Yx94oUbN) | 4:10 |
 | 36 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
 | 37 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
-| 38 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
-| 39 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
+| 38 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
+| 39 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
 | 40 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 |
 | 41 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
 | 42 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
 | 75 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 |
 
-Snapshot ID: `MTY2OTA0MTM2NiwwMDAwMDAwMDRiNDZmZDc5NjgwY2ExNDU1YmM2ODVlYzU2Y2Y5Nzhh`
+Snapshot ID: `MTY2OTA0MTM2NiwwMDAwMDAwMDdhNmM3NmZhMTM0YWVmNWJhN2E2NWFiNjcxOTRiOTdi`

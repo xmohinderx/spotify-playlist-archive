@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-145 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+146 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [I Heard the Voice of Music Say](https://open.spotify.com/track/16eL3Zw084d3CjDTaP8Xdf) | [Sunbear](https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9) | [Sunbear](https://open.spotify.com/album/3qXzp3FxW9nHlvEoJKij8R) | 5:03 | 2021-09-01 | 2022-07-25 |
 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 | 2021-09-01 |  |
 | [Industry \(Green Light/Fun Night Breaks Mix\) \- Edit](https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry \(Green Light/Fun Night Breaks Mix\)](https://open.spotify.com/album/4b74MpyaUcYTGkFCZ0vNGd) | 3:43 | 2021-09-01 | 2022-07-28 |
-| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 |  |
+| [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2021-09-01 | 2022-12-04 |
 | [It Feels Good](https://open.spotify.com/track/47IC40BjFN6EkbwMx1KHUm) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j) | [It Feels Good](https://open.spotify.com/album/6DhfBvhuoEmrsIXPErjt1h) | 4:26 | 2021-09-01 | 2022-07-29 |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2021-09-01 |  |
 | [Jerky Rhythm](https://open.spotify.com/track/0quQLx03FmhJhQXHLA4osL) | [Erotic Drum Band](https://open.spotify.com/artist/3cziflTbMxH9cQY4RvhtVg) | [Action 78](https://open.spotify.com/album/3O0VpTEdahLcXgx6KJsQlI) | 9:10 | 2021-09-01 | 2022-07-28 |
@@ -79,6 +79,7 @@
 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 | 2021-09-01 |  |
 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 | 2021-09-01 |  |
 | [Manhattan Skyline \- JN Spirit of '77 Extended Mix](https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Manhattan Skyline](https://open.spotify.com/album/4YHDGOswqmUbLbPjmDA5lb) | 11:06 | 2021-09-01 | 2022-07-29 |
+| [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2021-09-01 |  |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 | 2022-11-20 |
 | [Minnoch](https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Tide / Minnoch](https://open.spotify.com/album/5xlIE5AFZb7p6eIK4exIKU) | 5:44 | 2021-09-01 | 2022-07-29 |
 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 | 2021-09-01 | 2022-11-28 |

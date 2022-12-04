@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,040 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,061 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [名前のない怪物](https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
 | 2 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 |
 | 3 | [咲かせや咲かせ](https://open.spotify.com/track/6Qn2DEvR2t1iNyLSmghWxr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 3:24 |
-| 4 | [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 |
-| 5 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 |
-| 6 | [絶体絶命](https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [絶体絶命](https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O) | 4:22 |
-| 7 | [Departures 〜あなたにおくるアイの歌〜](https://open.spotify.com/track/33w7LgNJIuhs5dhSYZ0do1) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:15 |
+| 4 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 |
+| 5 | [絶体絶命](https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [絶体絶命](https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O) | 4:22 |
+| 6 | [Departures 〜あなたにおくるアイの歌〜](https://open.spotify.com/track/33w7LgNJIuhs5dhSYZ0do1) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 4:15 |
+| 7 | [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 |
 | 8 | [All Alone With You](https://open.spotify.com/track/2fkSKbhD79K9JRFUSuhzk3) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
-| 9 | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/track/5ltF6YRUpZNrEjZF7ky6eI) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:51 |
-| 10 | [エウテルペ](https://open.spotify.com/track/0aAzBVTjeTY83SlwoWCEfv) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 3:48 |
-| 11 | [The Everlasting Guilty Crown](https://open.spotify.com/track/76jRSSkd4pLwUflgwSeuB0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:25 |
+| 9 | [エウテルペ](https://open.spotify.com/track/0aAzBVTjeTY83SlwoWCEfv) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 3:48 |
+| 10 | [The Everlasting Guilty Crown](https://open.spotify.com/track/76jRSSkd4pLwUflgwSeuB0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:25 |
+| 11 | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/track/5ltF6YRUpZNrEjZF7ky6eI) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:51 |
 | 12 | [英雄 運命の詩 \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/1dyUhpaEsSl2QU25ieLoqn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:42 |
 | 13 | [Fallen](https://open.spotify.com/track/5AngW69uAboljtCBHZ6AsT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/5DUPsFaK2t1wcaYc7khsAP) | 4:29 |
 | 14 | [Tonight Tonight](https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz) | 3:31 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 22 | [elbadaernU](https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 4:10 |
 | 23 | [Welcome to the \*fam \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/36ePkoHGeWwSGchLgZaSAc) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 3:50 |
 | 24 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 |
-| 25 | [LoveStruck](https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 4:31 |
-| 26 | [It's all about you](https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:07 |
-| 27 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
+| 25 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
+| 26 | [LoveStruck](https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 4:31 |
+| 27 | [It's all about you](https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:07 |
 | 28 | [Eiyu Fate's Song](https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
 | 29 | [キミソラキセキ](https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 5:08 |
 | 30 | [Extra terrestrial Biological Entities](https://open.spotify.com/track/2ORgcPwvgBo5begZWzYSkE) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 5:40 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 44 | [リローデッド \-Instrumental\-](https://open.spotify.com/track/61j4VXpUIhV2dLUECFAEkO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:07 |
 | 45 | [Departures 〜あなたにおくるアイの歌〜 \-Instrumental\-](https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 4:14 |
 | 46 | [名前のない怪物 \-Instrumetal\-](https://open.spotify.com/track/1pNSSNluazasQujT6XiCip) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
-| 47 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
-| 48 | [英雄 運命の詩 \-Instrumental\-](https://open.spotify.com/track/6lXrGuKbaNnT56kfBJu3fu) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:43 |
+| 47 | [英雄 運命の詩 \-Instrumental\-](https://open.spotify.com/track/6lXrGuKbaNnT56kfBJu3fu) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:43 |
+| 48 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
 | 49 | [Fallen \-Instrumental\-](https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:30 |
 | 50 | [KABANERI OF THE IRON FORTRESS \-Instrumental\-](https://open.spotify.com/track/5WQ2gTSyn4zh5skFTF19t6) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:52 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDA5ODU4N2VjYjkwNDYyNWExZjJkYjUzMWFhZjI3ZTUwOA==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA0ZGZkODBkNzFiNmEyYzJlNmQxOWMyNGUyN2Q0NjZjMw==`

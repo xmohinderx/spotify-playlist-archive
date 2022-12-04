@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,544 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,571 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 64 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 |
 | 65 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 | 66 | [It's Gonna Get Better](https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Better](https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY) | 3:22 |
-| 67 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
-| 68 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
+| 67 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
+| 68 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 69 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
 | 70 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 |
 | 71 | [You Are I Am](https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Hurt & The Healer](https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx) | 4:20 |
 | 72 | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0) | 3:56 |
-| 73 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
-| 74 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
+| 73 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
+| 74 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
 | 75 | [Yes I Will \(Studio Version\)](https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will \(Studio Version\)](https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi) | 3:36 |
 
-Snapshot ID: `MTU3NDIzNDkwMCwwMDAwMDAwMDJlYzM2YTVjNDlkZGZjZjAxM2RjODA1MDUxOTAwMDVi`
+Snapshot ID: `MTU3NDIzNDkwMCwwMDAwMDAwMDlmYzE4ZjkxMzEzYThkNDY3ZmVjZDE0NTEzMjIxMzhk`

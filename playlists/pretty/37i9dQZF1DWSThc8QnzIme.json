@@ -1,12 +1,12 @@
 {
   "description": "Breeze through your commute with these pop favorites. Cover: Lizzo",
-  "num_followers": 244821,
+  "num_followers": 244915,
   "original_name": "Pop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGFhMTAzZGQzYjljZTMxYjc4NjZjY2UyZDliNWFiMDgw",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGIxNTczZWE2NTJmNjM5MTQwNzU3MTNkMWZiNTZkMzM1",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Sunroof",
-        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        }
-      ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 204852,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 194165,
-      "name": "Bejeweled",
-      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 194165,
+      "name": "Bejeweled",
+      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Wildest Dreams (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220433,
+      "name": "Wildest Dreams (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 196363,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Wildest Dreams (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220433,
-      "name": "Wildest Dreams (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Victoria\u2019s Secret",
-        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Victoria's Secret",
-      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Victoria\u2019s Secret",
+        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Victoria's Secret",
+      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2147,6 +2147,30 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -2163,22 +2187,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "I\u2019m a Mess (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 187793,
-      "name": "I\u2019m a Mess (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/186Mx1PHhT87YfoBCV93Wx"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2203,18 +2223,38 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 164727,
-      "name": "DIME QUI\u00c9N????",
-      "url": "https://open.spotify.com/track/186Mx1PHhT87YfoBCV93Wx"
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2275,22 +2315,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
       },
@@ -2347,6 +2371,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "What A Man Gotta Do",
         "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
       },
@@ -2399,22 +2439,6 @@
       "duration_ms": 153337,
       "name": "Memory",
       "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2487,22 +2511,6 @@
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "How Long - From\"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
     }
   ],
   "unique_name": "Pop Drive",

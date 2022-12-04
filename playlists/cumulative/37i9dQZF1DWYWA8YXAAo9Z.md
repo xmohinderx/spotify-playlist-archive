@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-136 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
+137 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/2Iyz83CmkFejFUFqhihQGl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Kosmic Headroom](https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva) | [Poulson Sq.](https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp) | [Kosmic Headroom](https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj) | 4:13 | 2021-12-24 |  |
 | [La colline](https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5) | [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b), [Clemens Hourriere](https://open.spotify.com/artist/0Q92u4ProQgv8AezwCVuG6) | [Five Steps](https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR) | 4:40 | 2021-12-24 | 2022-11-13 |
 | [Last Earth](https://open.spotify.com/track/0OUhVQ5dEj7m87cbZ4ctFU) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:19 | 2021-12-24 | 2022-11-09 |
+| [Last Earth](https://open.spotify.com/track/553pFfksyASLhP9Px67yNv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 2:19 | 2022-10-04 |  |
 | [Liquid Planta Seeds](https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Liquid Planta Seeds](https://open.spotify.com/album/2qobaujPblxqumcde6yjVY) | 3:24 | 2022-05-06 |  |
 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 | 2021-12-24 |  |
 | [Love Flows Over Us In Prismatic Waves](https://open.spotify.com/track/3G13xOZCkA74whPRazHnrF) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:52 | 2021-12-24 |  |
@@ -126,7 +127,7 @@
 | [Thaw](https://open.spotify.com/track/18AALZgLuYtvDOxJg2LsVa) | [Jay Cliffen](https://open.spotify.com/artist/7tvHIVs2snrdx5PW2Ahyzl) | [Monochrome Skies](https://open.spotify.com/album/28Kjz6LeIxeZpgTg2dVaDL) | 3:29 | 2022-02-18 | 2022-07-15 |
 | [The Dead Past](https://open.spotify.com/track/0qNP9yrsqGmiMyBpLRRCcA) | [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg) | [Two Orb Reel](https://open.spotify.com/album/3rgecVAtj0f2A2S4Ud63Jn) | 6:07 | 2021-12-24 | 2022-07-29 |
 | [The Hermit](https://open.spotify.com/track/0k4nlp2mdE9Y8nUupU5PKp) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/3kwL3kPugJlVrHp4POAG09) | 7:32 | 2021-12-24 | 2022-07-27 |
-| [The Hermit](https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 7:32 | 2022-07-01 |  |
+| [The Hermit](https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 7:32 | 2022-07-01 | 2022-12-04 |
 | [The Secret Garden](https://open.spotify.com/track/0t2NFrMc8tN7ILhForVafb) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [The Secret Garden](https://open.spotify.com/album/5mihlvzwZlyOSyMN2dpqsl) | 4:41 | 2021-12-24 | 2022-07-29 |
 | [The Secret Garden](https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Secret Garden](https://open.spotify.com/album/5XSfsdujTPlwsr4zCup4p2) | 4:41 | 2022-07-01 |  |
 | [The Station Is Alive Again](https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za) | [Hermbot](https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt) | [Moonbase Alpha](https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO) | 2:25 | 2021-12-24 |  |

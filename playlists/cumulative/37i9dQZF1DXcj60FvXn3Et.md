@@ -4,7 +4,7 @@
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
-77 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
+78 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Vanity](https://open.spotify.com/track/1unH1mDWKxidZvjgnLigXg) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Jackie \(Original Soundtrack Album\)](https://open.spotify.com/album/198sB62Rh8wbNNXDIvMHzD) | 2:59 | 2021-03-01 |  |
 | [Vanity](https://open.spotify.com/track/3ewbixlcAMi46RZDNVczEq) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Jackie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bIswMpJ062CiTyEnYTKZp) | 2:59 | 2021-03-01 | 2022-07-29 |
 | [Vichnaya Pamyat](https://open.spotify.com/track/5NU8pIT0Yp8wgaUiHZM90w) | [Homin Lviv Municipal Choir](https://open.spotify.com/artist/3j5CMjewv1pESNO1Xh169T) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 4:07 | 2021-03-01 |  |
-| [Wolf Hall](https://open.spotify.com/track/2aQDxK7OoNmkDJJPopIAfc) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC) | [Wolf Hall \(Original Television Soundtrack\)](https://open.spotify.com/album/10n1CIxYncAP6kLRma8rbw) | 3:18 | 2021-03-01 |  |
+| [Wolf Hall](https://open.spotify.com/track/2aQDxK7OoNmkDJJPopIAfc) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC) | [Wolf Hall \(Original Television Soundtrack\)](https://open.spotify.com/album/10n1CIxYncAP6kLRma8rbw) | 3:18 | 2021-03-01 | 2022-12-04 |
+| [Wolf Hall](https://open.spotify.com/track/3W1imaOxeXGVsGgqAz62tB) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC) | [Wolf Hall \(Original Television Soundtrack\)](https://open.spotify.com/album/1EzC0f0vGFJLSECKWg38CG) | 3:18 | 2021-03-01 |  |
 | [Wolf Hall](https://open.spotify.com/track/776UfHmUTZH4VLnyxkNlpP) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC) | [Wolf Hall \(Original Television Soundtrack\)](https://open.spotify.com/album/7ihmbauAhv7A4dlhVuKqJy) | 3:18 | 2021-03-01 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,854 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,866 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 62 | [Bois Lie \(feat\. Machine Gun Kelly\) \- Acoustic](https://open.spotify.com/track/3W8gnQSIRzUQM6klpRT4jR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Bois Lie \(feat\. Machine Gun Kelly\) \[Acoustic\]](https://open.spotify.com/album/23GAyvm3WUVwTIjXDh9JgN) | 2:50 |
 | 63 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 | 64 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
-| 65 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
+| 65 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 66 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 |
-| 67 | [Tidal Wave \- Acoustic](https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own \(Acoustic\)](https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4) | 2:35 |
+| 67 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
 | 68 | [Halfway](https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi) | 3:02 |
-| 69 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
+| 69 | [Tidal Wave \- Acoustic](https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own \(Acoustic\)](https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4) | 2:35 |
 | 70 | [生きていくだけで \(feat\. Ruri\)](https://open.spotify.com/track/35RU9s9Oytg6N8k0xxtKtG) | [FUKUSHIGE MARI](https://open.spotify.com/artist/74ldwS36YOZpiNSBf2XYBs), [Ruri](https://open.spotify.com/artist/0y2buXFUJCd2dnhkVCkRDg) | [月の満ち欠け オリジナルサウンドトラック](https://open.spotify.com/album/6YbRXC2Yrs1UkEtAGJ7Ne7) | 4:03 |
 
-Snapshot ID: `MTY2OTkwNjgwMCwwMDAwMDAwMGE1OTA3ZThkOGVmMmRhMGVhOTJjNjJmMGUyNWZiNjM0`
+Snapshot ID: `MTY2OTkwNjgwMCwwMDAwMDAwMGM0ZGZlZGY2Y2JiMWFhMjc5MGRmZGZlZTIyZDM5Y2Uy`

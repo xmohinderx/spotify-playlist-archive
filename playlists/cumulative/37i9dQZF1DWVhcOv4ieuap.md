@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-245 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/2dAJR8ZOdFxnoMpvevd6Pw)
+246 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/2dAJR8ZOdFxnoMpvevd6Pw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-06-03 | 2022-07-29 |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-01-01 | 2022-06-04 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-06-03 |  |
-| [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-05-21 |  |
+| [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-05-21 | 2022-12-04 |
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2022-04-15 | 2022-06-04 |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-11 |  |
 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 | 2022-01-01 | 2022-06-04 |
@@ -84,6 +84,7 @@
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-10-13 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-06-03 | 2022-10-30 |
 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2022-04-15 |  |
+| [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-12-04 |  |
 | [Fuego](https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Fuego](https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3) | 3:19 | 2022-09-08 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-06-03 |  |
 | [Fuimos los Dos](https://open.spotify.com/track/1VgFRnq4HzkMW0C3semSew) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:27 | 2022-05-14 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Esto es un perreo a lo FERXXO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,534 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,749 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

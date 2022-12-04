@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-184 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/45e1y3tTcfgWBUhkl1XGMc)
+185 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/45e1y3tTcfgWBUhkl1XGMc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 | 2022-05-25 |  |
 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 | 2022-05-25 |  |
 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 | 2022-05-25 |  |
-| [Carita Linda](https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu) | 3:19 | 2022-05-25 |  |
+| [Carita Linda](https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu) | 3:19 | 2022-05-25 | 2022-12-04 |
 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 | 2022-06-03 | 2022-07-19 |
 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 | 2022-06-03 | 2022-11-03 |
 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2022-05-25 |  |
@@ -47,6 +47,7 @@
 | [Clásico](https://open.spotify.com/track/1LwBr7plALJCF81Mk9CPXB) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Clásico](https://open.spotify.com/album/1VDzVk2o7IeOl0kL2wO1Dp) | 2:27 | 2022-05-25 | 2022-07-29 |
 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 | 2022-05-25 | 2022-07-29 |
 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 | 2022-05-28 | 2022-07-26 |
+| [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 | 2022-09-29 |  |
 | [Como Estrellas](https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud) | 3:39 | 2022-05-25 | 2022-11-27 |
 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 | 2022-05-25 |  |
 | [Copacabana](https://open.spotify.com/track/3WpwJ92Gb6haFfHVNo0Hjz) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [Copacabana](https://open.spotify.com/album/0CGVIFlkgb7AeoyMaRYgyo) | 2:27 | 2022-06-03 | 2022-07-13 |

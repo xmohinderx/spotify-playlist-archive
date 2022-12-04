@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: KYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,283 likes - 98 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,308 likes - 98 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

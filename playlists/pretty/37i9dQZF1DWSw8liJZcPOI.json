@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 405178,
+  "num_followers": 405517,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMDMzNDJhMGI2ZmUyYmI3ZmRiMjY5NDE5N2EzOTdjMzRm",
+  "snapshot_id": "MTY2OTk1MzYwMCwwMDAwMDAwMGMzMmYwZThkOGU5ODdmZmJiY2M4YjQwZDUxYjM4YWZl",
   "tracks": [
     {
       "added_at": "2022-12-02 04:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Deux Pens\u00e9es",
-        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
-      },
-      "artists": [
-        {
-          "name": "Darker In Vine",
-          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
-        }
-      ],
-      "duration_ms": 169366,
-      "name": "Deux Pens\u00e9es",
-      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
         "name": "Cloud Memory",
         "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 117585,
       "name": "Cloud Memory",
       "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
+        "name": "Deux Pens\u00e9es",
+        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
+      },
+      "artists": [
+        {
+          "name": "Darker In Vine",
+          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
+        }
+      ],
+      "duration_ms": 169366,
+      "name": "Deux Pens\u00e9es",
+      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Blund",
-        "url": "https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK"
-      },
-      "artists": [
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Blund",
-      "url": "https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 81641,
       "name": "Nos",
       "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
+        "name": "Blund",
+        "url": "https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Blund",
+      "url": "https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -427,6 +427,30 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
+        "name": "Circle 29",
+        "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 178951,
+      "name": "Circle 29",
+      "url": "https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
         "name": "Like Glass",
         "url": "https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR"
       },
@@ -467,26 +491,18 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Circle 29",
-        "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
+        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
       },
       "artists": [
         {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
         }
       ],
-      "duration_ms": 178951,
-      "name": "Circle 29",
-      "url": "https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx"
+      "duration_ms": 182836,
+      "name": "Chasing the Present",
+      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -503,22 +519,6 @@
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
-        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "Chasing the Present",
-      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
         "name": "Sigur R\u00f3s: Flj\u00f3tav\u00edk",
         "url": "https://open.spotify.com/album/5lTDQh05XStGCWjbEuKW45"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 392791,
       "name": "Klass",
       "url": "https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Flow State Vestida 4",
-        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
-      },
-      "artists": [
-        {
-          "name": "Danny Mulhern",
-          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Flow State Vestida 4",
-      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
         "name": "The Invisible EP",
         "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 163861,
       "name": "Respite",
       "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
+        "name": "Flow State Vestida 4",
+        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
+      },
+      "artists": [
+        {
+          "name": "Danny Mulhern",
+          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Flow State Vestida 4",
+      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
-      },
-      "artists": [
-        {
-          "name": "Sisulu",
-          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
         "name": "Tripping with Nils Frahm",
         "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 368668,
       "name": "My Friend the Forest",
       "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
+      },
+      "artists": [
+        {
+          "name": "Sisulu",
+          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Everything Has Its Echo",
-        "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
-      },
-      "artists": [
-        {
-          "name": "Eik Octobre",
-          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
-        }
-      ],
-      "duration_ms": 289829,
-      "name": "Heart Failure",
-      "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
         "name": "Parliament Of Owls",
         "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+        "name": "Everything Has Its Echo",
+        "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
       },
       "artists": [
         {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+          "name": "Eik Octobre",
+          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
         }
       ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
+      "duration_ms": 289829,
+      "name": "Heart Failure",
+      "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 350974,
       "name": "Current",
       "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
         "name": "Lost Time - Strings Version",
         "url": "https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 141500,
       "name": "Lost Time - Strings Version",
       "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
       "added_at": "2022-12-02 04:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-12-02 04:00:00",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
+    },
+    {
+      "added_at": "2022-12-02 04:00:00",
+      "album": {
         "name": "Niemand bringt Marten um",
         "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 217412,
       "name": "Niemand bringt Marten um - Lambert Rework",
       "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
-    },
-    {
-      "added_at": "2022-12-02 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     },
     {
       "added_at": "2022-12-02 04:00:00",

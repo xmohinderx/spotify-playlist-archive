@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,104 likes - 500 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,336 likes - 500 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,7 +221,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 211 | [Rusty Flavour](https://open.spotify.com/track/0DEgUgKbTHLPjjpuM7wTEq) | [Natty Dub](https://open.spotify.com/artist/7vsFii8Yk8bNY2l3q0fbSu), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Rusty Flavour](https://open.spotify.com/album/01ttNAV30k2GysdNUk08LL) | 2:15 |
 | 212 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 |
 | 213 | [Palm Street Peacock](https://open.spotify.com/track/4qtG2cfdMpsOdsNRcp5SZY) | [Mimu](https://open.spotify.com/artist/14vNWnyjy3GInINdHYgDwA) | [Palm Street Peacock](https://open.spotify.com/album/4Cs9ccHnw4nT0LNDTPLIbp) | 2:24 |
-| 214 | [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [Francisco Ray](https://open.spotify.com/artist/5oqG48XDqiUwZE6bwmitC9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 |
+| 214 | [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 |
 | 215 | [Sounds like fog](https://open.spotify.com/track/1MAKPG2lOnh7wO51jLLjkC) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Sounds like fog](https://open.spotify.com/album/2h0IQwmC5MDUtWSqQhC0UH) | 2:41 |
 | 216 | [Fluffy White Clouds](https://open.spotify.com/track/2IDZCu8wc18XPTVBR9FToF) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [De Nada](https://open.spotify.com/album/2KQ8Qq9xZismI1yYYTTrNi) | 2:58 |
 | 217 | [Sometimes](https://open.spotify.com/track/7JfyU9wSgLEHobFGJpcQfN) | [nijapear](https://open.spotify.com/artist/0YbktpIZIhXGoRFFzWLayC) | [Sometimes](https://open.spotify.com/album/79GvfGjbjDzk6oFaxbgJVn) | 2:37 |
@@ -265,7 +265,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 255 | [Hepcats lounge](https://open.spotify.com/track/7zJUjkME1Z1Mtf3CHCcizs) | [Rezet](https://open.spotify.com/artist/2ZaazietfBEh1vS7xRvZS0) | [Hepcats Lounge](https://open.spotify.com/album/3VHYpZIkgFLgPufzLq3wvE) | 2:29 |
 | 256 | [Waves](https://open.spotify.com/track/1cGVlkqnGEI1G5YrkNDput) | [A.T Reed](https://open.spotify.com/artist/7icTb9O3aej4trbeuD9yBc) | [Waves](https://open.spotify.com/album/67mCWi7kNXVMnHuL1vHRPW) | 2:03 |
 | 257 | [lighthouse](https://open.spotify.com/track/6GaYn3Z1Eyz4xjA0Nuw98k) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [lighthouse](https://open.spotify.com/album/7hJQ6X9HRM1tq0xISbWYVZ) | 1:58 |
-| 258 | [Into The Deep](https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P) | [Axx Sphere](https://open.spotify.com/artist/6dS91jxzJsY7k7wB0ptcMd) | [Into The Deep](https://open.spotify.com/album/5aiWXOc1LV3K8r0mLyw5Fy) | 2:16 |
+| 258 | [Into The Deep](https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Into The Deep](https://open.spotify.com/album/5aiWXOc1LV3K8r0mLyw5Fy) | 2:16 |
 | 259 | [Pumpkin](https://open.spotify.com/track/7oFtROdiwVSsqm8WmY6Zyv) | [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE) | [Pumpkin](https://open.spotify.com/album/0OmDBT6N79NtzuBX3YNBBB) | 2:12 |
 | 260 | [One Sunny Day](https://open.spotify.com/track/2NbT6GqqH6x3YW0IrKz60t) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Daniel Mayer](https://open.spotify.com/artist/4WghUXiYqQQdd0yl8VoHL5) | [Apeirogon](https://open.spotify.com/album/3T9Tz6Bt3HAe9e5hQfR9H7) | 1:54 |
 | 261 | [Jazz Memories](https://open.spotify.com/track/4cK2bKvfzwcONWMJa0qyrc) | [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74), [DURA](https://open.spotify.com/artist/1fOIYW6D4eoOJxL5x3HGTp), [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Jazz Memories](https://open.spotify.com/album/6XWS5TSJOARapN7OeBF4E5) | 2:43 |

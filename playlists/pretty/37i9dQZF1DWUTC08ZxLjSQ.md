@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: NOON, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,480 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,507 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 13 | [Sparsed Stars](https://open.spotify.com/track/7d0jZWy6GBohytx96WgQB6) | [Julien Vertigo](https://open.spotify.com/artist/4srhk1sob6zPaBltwpDicF), [Delrady](https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP) | [Sparsed Stars](https://open.spotify.com/album/6Uph9BQBTY0Cgdq4c2HuMU) | 6:31 |
 | 14 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 |
 | 15 | [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 |
-| 16 | [Peace](https://open.spotify.com/track/7m3rPFw7n8NsY8Ik5M2KZ4) | [musovrin](https://open.spotify.com/artist/1FExNWwycNVGZnfCMgJUky), [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC), [Headless Monk](https://open.spotify.com/artist/3JmGgA4fzifQjSJ5a4bMLI) | [Peace](https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv) | 3:07 |
+| 16 | [Peace](https://open.spotify.com/track/7m3rPFw7n8NsY8Ik5M2KZ4) | [musovrin](https://open.spotify.com/artist/1FExNWwycNVGZnfCMgJUky), [Beast](https://open.spotify.com/artist/66ma6gPxwiuzsKQZHtFb5b), [Headless Monk](https://open.spotify.com/artist/3JmGgA4fzifQjSJ5a4bMLI) | [Peace](https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv) | 3:07 |
 | 17 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
 | 18 | [Sabba7 Sabba7 \- صبح صبح](https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP), [Mahib Sleat](https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4) | [Sabba7 Sabba7 \(صبح صبح\)](https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp) | 2:29 |
 | 19 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 |

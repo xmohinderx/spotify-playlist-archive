@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 
 > Highlights from the class of 2022\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,972 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,184 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 39 | [Hot Boys](https://open.spotify.com/track/7rXW699HclHrgC5gDe6gP5) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Garageband Superstar](https://open.spotify.com/album/09D9n2rHKnAsmNFA84rUwa) | 3:15 |
 | 40 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 |
 | 41 | [Clearview](https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Clearview](https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg) | 2:44 |
-| 42 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 |
+| 42 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:21 |
 | 43 | [Paranoid](https://open.spotify.com/track/2pLqMA9nKEHLLfBGHroLOh) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:17 |
 | 44 | [In Over My Head](https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:18 |
 | 45 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 49 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 |
 | 50 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGMwOGU3MTFjYjBlNDU1MGZiNTI1YTUxNzhkYzAzMjNl`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDAzMDZhNmQ2ODdkNjVkZmU2NGE0MTA3NmYyNGJkZjcy`

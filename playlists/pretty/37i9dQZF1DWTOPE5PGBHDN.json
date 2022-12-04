@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 83906,
+  "num_followers": 84039,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDQ3Zjk4OTg2NWQ4YzhiMWMyNWM1MDBhZWU0NjY5NGRi",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDVjODEyNDU5ODBjNmM1OWQxMGFhYjY2ZDkyYWRkY2Y4",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -239,6 +239,26 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -523,18 +523,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "MIA (feat. Drake)",
+        "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+      "duration_ms": 210367,
+      "name": "MIA (feat. Drake)",
+      "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -675,22 +679,18 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "MIA (feat. Drake)",
-        "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 210367,
-      "name": "MIA (feat. Drake)",
-      "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1223,6 +1223,46 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 226532,
+      "name": "Sigues Con El",
+      "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "La Cama (Remix)",
         "url": "https://open.spotify.com/album/0hzFhU2sz14urAdELOUwtU"
       },
@@ -1255,22 +1295,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "Est\u00e1 Rico",
         "url": "https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185"
       },
@@ -1291,30 +1315,6 @@
       "duration_ms": 215151,
       "name": "Est\u00e1 Rico",
       "url": "https://open.spotify.com/track/2wRkBumdItthjYP9XknImg"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 226532,
-      "name": "Sigues Con El",
-      "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Sigues Con El (Remix)",
+        "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 189566,
+      "name": "Sigues Con El - Remix",
+      "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "PAM",
         "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
       },
@@ -1487,30 +1511,6 @@
       "duration_ms": 204453,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Sigues Con El (Remix)",
-        "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 189566,
-      "name": "Sigues Con El - Remix",
-      "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Marianela",
+        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Marianela",
+      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Coronao Now (Remix)",
         "url": "https://open.spotify.com/album/1xa9UULO7qcENdAkmUzAZP"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 250169,
       "name": "Coronao Now (Remix)",
       "url": "https://open.spotify.com/track/047WmwIeerHyIUstFAEz5A"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Marianela",
-        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Marianela",
-      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
     },
     {
       "added_at": "2020-07-02 17:35:53",

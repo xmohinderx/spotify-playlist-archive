@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,945 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,004 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 24 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
 | 25 | [Figure You Out](https://open.spotify.com/track/2bFGGsScXp2Tu10jKMCKO6) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Long Story Short](https://open.spotify.com/album/0fsUPGZdjtXb5F7KJ4FSzk) | 2:43 |
 | 26 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
-| 27 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
-| 28 | [Isabelle](https://open.spotify.com/track/1w9L6dvttZalWd8XqFYvSa) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Isabelle](https://open.spotify.com/album/1rzy7MA291nlNOf957qlLG) | 2:15 |
+| 27 | [Isabelle](https://open.spotify.com/track/1w9L6dvttZalWd8XqFYvSa) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Isabelle](https://open.spotify.com/album/1rzy7MA291nlNOf957qlLG) | 2:15 |
+| 28 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
 | 29 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 |
 | 30 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 |
 | 31 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 39 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 |
 | 40 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 |
 | 41 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 |
-| 42 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
-| 43 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
+| 42 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
+| 43 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
 | 44 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 |
 | 45 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 |
 | 46 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 49 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 |
 | 50 | [Seventeen Going Under](https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 5:02 |
 | 51 | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK) | 2:54 |
-| 52 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 |
-| 53 | [Lonely](https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:06 |
+| 52 | [Lonely](https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:06 |
+| 53 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 |
 | 54 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
 | 55 | [Tides](https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:15 |
 | 56 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 79 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 |
 | 80 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDY3MGJhZTU0ZWRjYmVlOThiMDQ2YzljYTI4OGM5NjFi`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDkyNDI5MGFkYzMwODZhNTM0NDc4MGE0ODQzMGFkNjdm`

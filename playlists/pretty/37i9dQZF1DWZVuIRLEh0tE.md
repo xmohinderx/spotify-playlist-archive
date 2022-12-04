@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,935 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,063 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 23 | [Susu](https://open.spotify.com/track/1qN76meSBGWaR5uaBqJu61) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Susu](https://open.spotify.com/album/30h62ee5kOBlpi2GH7SQbO) | 2:54 |
 | 24 | [Hoyo](https://open.spotify.com/track/0HSTqDopuezKQF6rakMCnl) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD), [DJ Kiko El De Lo Alka](https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF) | [Hoyo](https://open.spotify.com/album/2ak2UHWueLjmL4TtUIsk24) | 2:27 |
 | 25 | [Vaina Cara](https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Vaina Cara](https://open.spotify.com/album/0sFWXAG0ruP2xDGSfI0jMv) | 3:12 |
-| 26 | [Bobo](https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Bobo](https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae) | 2:19 |
+| 26 | [Bobo \- Remix](https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Bobo \(Remix\)](https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae) | 2:19 |
 | 27 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
 | 28 | [Dinero](https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9) | [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Dinero](https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT) | 3:00 |
 | 29 | [Singadera Y Rapadera](https://open.spotify.com/track/4h00mDHNeosjAE98LLgGs9) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Aleica](https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE) | [Singadera Y Rapadera](https://open.spotify.com/album/2BvHf5D1I1ddxYroeer7q6) | 2:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mode: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,370,687 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,372,453 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 10 | [Similar](https://open.spotify.com/track/1nwK5BoHnGsQEy6qzfQoDD) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Blackout](https://open.spotify.com/album/2eTCgGN9B0KFUJkV5tmKfV) | 1:52 |
 | 11 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 |
 | 12 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
-| 13 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 13 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 14 | [Overdose](https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Overdose](https://open.spotify.com/album/1HOEz50Or66Kp1W4CE9c3C) | 2:08 |
 | 15 | [All The Money \(with Gunna\) \[Bonus\]](https://open.spotify.com/track/6SeNRCX36QFj0nm89vTDxZ) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 2:47 |
 | 16 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 |

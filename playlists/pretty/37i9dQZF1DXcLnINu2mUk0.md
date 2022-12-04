@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,804 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,866 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 16 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
 | 17 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 18 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
-| 19 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
-| 20 | [Volta](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Volta](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
+| 19 | [Volta](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Volta](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
+| 20 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 21 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 |
 | 22 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
 | 23 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
 | 24 | [Scroll](https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Scroll](https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ) | 2:37 |
-| 25 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
-| 26 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
-| 27 | [Do You No Wrong \- Single Version](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
+| 25 | [Do You No Wrong \- Single Version](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
+| 26 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
+| 27 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 28 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 29 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
 | 30 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 53 | [N1](https://open.spotify.com/track/4AxBTkq98PvdTd8eYsbsE0) | [Sandricidio](https://open.spotify.com/artist/1StFte0Pe59Pu4unbpadJ0) | [N1](https://open.spotify.com/album/16Hp09IOG9OZXmqj789ejf) | 2:55 |
 | 54 | [You](https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA) | [Dvk](https://open.spotify.com/artist/0BbxfukSeIodPyKQJXhawB) | [Cupid](https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1) | 2:51 |
 | 55 | [Diferente](https://open.spotify.com/track/0alvMe4SV8FsVI4dVdPi6o) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [Diferente](https://open.spotify.com/album/0fdEVAurFGPYQx36Ojcc91) | 1:45 |
-| 56 | [Wine for me](https://open.spotify.com/track/4x3qG5OWwVBFL7I7uNbiPE) | [Nsnow](https://open.spotify.com/artist/1Algk1jxKZzQc5OF1pDrxL) | [Wine for me](https://open.spotify.com/album/6B9wuurKE6Y6PTNRmzzGvk) | 2:24 |
-| 57 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
-| 58 | [Sou Melhor](https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Sou Melhor](https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73) | 3:05 |
-| 59 | [Rosa](https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST) | [Rosa](https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho) | 3:30 |
-| 60 | [María♡](https://open.spotify.com/track/737sa9JwA5YmswwNYcJXAE) | [Arthyy](https://open.spotify.com/artist/78W2GovFrkUXeFlIkmEHhs) | [María♡](https://open.spotify.com/album/28moMVQvQVXvCCrBCDH3cK) | 3:20 |
+| 56 | [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 |
+| 57 | [Wine for me](https://open.spotify.com/track/4x3qG5OWwVBFL7I7uNbiPE) | [Nsnow](https://open.spotify.com/artist/1Algk1jxKZzQc5OF1pDrxL) | [Wine for me](https://open.spotify.com/album/6B9wuurKE6Y6PTNRmzzGvk) | 2:24 |
+| 58 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
+| 59 | [Sou Melhor](https://open.spotify.com/track/4EfImrloio3uJYUYRYUr9E) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Sou Melhor](https://open.spotify.com/album/1iegzQePPFIidLy2H4Gq73) | 3:05 |
+| 60 | [Rosa](https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA) | [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST) | [Rosa](https://open.spotify.com/album/1iTGKobhKkFNgDgHnpj6ho) | 3:30 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDZhYzJhMTlkYmExNzQzMWI3OGQ0YWZkNjA4MWRjMmI3`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDhkODkwODU1Mjg2NzM1NjJmMjBhY2Q0M2Y0MjVmM2Ex`

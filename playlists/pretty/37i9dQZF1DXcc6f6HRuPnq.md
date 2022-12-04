@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,220 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,366 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 43 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
 | 44 | [Everytime I Get to Drinkin' \- Remastered](https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:45 |
 | 45 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
-| 46 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
-| 47 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
+| 46 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
+| 47 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
 | 48 | [Kind Hearted Woman Blues](https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh) | 4:06 |
 | 49 | [Shadows](https://open.spotify.com/track/229PfulMeZPFcv2mzXfsCX) | [Pat Tierney](https://open.spotify.com/artist/2wTN9hQfRJLQ8lllx6EphC) | [Shadows](https://open.spotify.com/album/4vgVcdlhX5r5jvNamnV5rX) | 4:52 |
 | 50 | [The Dream \- Remastered](https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A) | [Albert Collins, Robert Cray and Johnny Copeland](https://open.spotify.com/artist/6yIudV1nOQDnw69bKR0QMG) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 5:31 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 64 | [The Moon Is Rising](https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:13 |
 | 65 | [Blues For Lonnie Johnson](https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 |
 | 66 | [Becky Ann \(feat\. Mitch Kaxhmar & Ronnie Shellist\)](https://open.spotify.com/track/27wfSUGbv33dSWJ3y2tZQ2) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 3:36 |
-| 67 | [Blue Because Of You](https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:28 |
-| 68 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
+| 67 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
+| 68 | [Blue Because Of You](https://open.spotify.com/track/3sFYTjU3KA7bSHHui9Hp8X) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:28 |
 | 69 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 | 70 | [Along About Midnight](https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr) | 4:05 |
 
-Snapshot ID: `MTY2ODc3Nzg5OSwwMDAwMDAwMDY0YjA5NGFjNDY3MDgzMDcxNjMwZDE0ZDIxMjE4NWE0`
+Snapshot ID: `MTY2ODc3Nzg5OSwwMDAwMDAwMDE0NjkwZjYzMzA4Mjg1YTY1MmJkNzdlMDM1NDhjN2Fh`

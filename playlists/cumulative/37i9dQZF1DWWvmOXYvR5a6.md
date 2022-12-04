@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: OVAN\(오반\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-543 songs - 1 day 5 hr 43 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+544 songs - 1 day 5 hr 47 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Even for now](https://open.spotify.com/track/7GTs32zH47ux1XUPb6lOAy) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Even for now](https://open.spotify.com/album/7uuAnHZW6HSP2MWPHKQKAi) | 2:41 | 2022-07-04 | 2022-07-15 |
 | [Every Day By Your Side](https://open.spotify.com/track/4ryQrzwKUStXUqKpF47fR0) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Every Day By Your Side](https://open.spotify.com/album/2g07vkQC3BsbCmmELGG5DJ) | 3:14 | 2022-04-21 | 2022-07-27 |
 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:04 | 2022-11-09 |  |
-| [Ex](https://open.spotify.com/track/2qYQlzG9kllQLu9RcHPF9L) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:17 | 2022-11-03 |  |
+| [Ex](https://open.spotify.com/track/2qYQlzG9kllQLu9RcHPF9L) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:17 | 2022-11-03 | 2022-12-04 |
 | [EXCUSES](https://open.spotify.com/track/1DjjOCqWe6KBiAPNJHk3RA) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR) | [EXCUSES](https://open.spotify.com/album/5fkOoHN5YIbPZxp5D3NTUF) | 2:38 | 2022-05-30 | 2022-06-20 |
 | [exex \(Feat\. Leebido\)](https://open.spotify.com/track/6oO8VttpwhIxnpf0T0a721) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Leebido](https://open.spotify.com/artist/3h0t67IoFBtIdIlu1olytq) | [In Vino Veritas](https://open.spotify.com/album/0Q5omK6kUYCWZho9hspoZd) | 4:25 | 2022-04-01 | 2022-06-30 |
 | [Facetime](https://open.spotify.com/track/7cMz3tfL98drx8glCCVhok) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:11 | 2022-04-21 | 2022-07-27 |
@@ -481,6 +481,7 @@
 | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG) | 2:55 | 2022-04-21 | 2022-06-11 |
 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 | 2022-06-18 | 2022-07-05 |
 | [The Truman Show](https://open.spotify.com/track/0cVZgBitnJJaOTviugscS3) | [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/4xPKZgTlCRLRVzYFctyhZ7) | 3:23 | 2022-07-24 | 2022-07-28 |
+| [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 | 2022-11-22 |  |
 | [Thinkin About You \(Feat\. INO\)](https://open.spotify.com/track/2tOHUm2VSBa5aMgo5pIYem) | [DJ Juice](https://open.spotify.com/artist/0bJKaJ5AdUz5nDFDRGfKPJ), [INO](https://open.spotify.com/artist/4xRr0YW5BltFbZGEwliT79) | [Thinkin About You](https://open.spotify.com/album/58L2gm73knHBL66btgBKGC) | 3:16 | 2022-05-28 | 2022-05-30 |
 | [thirst](https://open.spotify.com/track/7kyupZQftQDUUxlATGGmOe) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 2:37 | 2022-04-01 | 2022-07-28 |
 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 | 2022-04-01 | 2022-07-09 |

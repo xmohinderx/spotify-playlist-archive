@@ -1590,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Fractions",
+        "url": "https://open.spotify.com/album/3sTXDxpzc0If67LmjHUm0z"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Fractions",
+      "url": "https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/37abhSU412bkiwXr3ShshM"
       },
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 249621,
       "name": "Great Beyond",
       "url": "https://open.spotify.com/track/7bDmfSbYvJuPOV0JKkM4qm"
@@ -3298,6 +3316,36 @@
     },
     {
       "album": {
+        "name": "Only You (STANY & Tchami Remix)",
+        "url": "https://open.spotify.com/album/2UKl4Kzb5rWJuqgfOGG5Vk"
+      },
+      "artists": [
+        {
+          "name": "STANY",
+          "url": "https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "Only You - STANY & Tchami Remix",
+      "url": "https://open.spotify.com/track/0GVUoXiYKM7PjTFEXGA4Yc"
+    },
+    {
+      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -4161,7 +4209,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 206000,
       "name": "Stepper",
       "url": "https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja"

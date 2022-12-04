@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Michael Sparks
 
-362 songs - 20 hr 19 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+363 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Bass](https://open.spotify.com/track/112Yjd5oS9Z2IJtAYYuQwz) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Bass](https://open.spotify.com/album/43e1DojkQdaa1s3mr4pVal) | 3:18 | 2022-04-01 | 2022-09-24 |
 | [Bass Music](https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW) | [Bass Music](https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28) | 4:06 | 2022-08-19 |  |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-28 |  |
-| [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-02 |  |
+| [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-02 | 2022-12-04 |
+| [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-02 |  |
 | [Better Off](https://open.spotify.com/track/22519OhPZTb1FPmMHUYFtt) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Better Off](https://open.spotify.com/album/6Iy0tt3C20HehDLaVRfLu8) | 3:05 | 2022-01-14 | 2022-04-16 |
 | [Better Off Leaving](https://open.spotify.com/track/1XoYqY65aFOuc0rnhANLeV) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [Better Off Leaving](https://open.spotify.com/album/0v3Rc54IpZHPQrZbUcegXD) | 3:37 | 2022-01-14 | 2022-04-16 |
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Rei.",
-  "num_followers": 125247,
+  "num_followers": 125382,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAyMTUwOCwwMDAwMDAwMGUzMTI2MjQ4ZWY4MWY3N2MwODhjMDNjZjM4ZjE5OWUw",
+  "snapshot_id": "MTY3MDAyMTUwOCwwMDAwMDAwMGQ4NGY3ZjI2MTFiMGQ1MWYzMTA3NjM1ZGI1OThhYWE3",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "Con El No Soportas",
-      "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
@@ -1175,6 +1159,38 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Con El No Soportas",
+      "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Tambo Tambo",
         "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 264067,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 211044,
-      "name": "Quitame Ese Hombre",
-      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1271,22 +1271,6 @@
       "duration_ms": 143570,
       "name": "Fin de Semana Sin Ti",
       "url": "https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
       },
       "artists": [
         {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+      "duration_ms": 211044,
+      "name": "Quitame Ese Hombre",
+      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Para Que",
-        "url": "https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3"
+        "name": "El Trato",
+        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         },
         {
-          "name": "Ilan Amores",
-          "url": "https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z"
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
         }
       ],
-      "duration_ms": 237925,
-      "name": "Para Que",
-      "url": "https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX"
+      "duration_ms": 191177,
+      "name": "El Trato",
+      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1543,6 +1543,26 @@
       "duration_ms": 220618,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Para Que",
+        "url": "https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Ilan Amores",
+          "url": "https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z"
+        }
+      ],
+      "duration_ms": 237925,
+      "name": "Para Que",
+      "url": "https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1567,22 +1587,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "El Trato",
-        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
+        "name": "Hawai",
+        "url": "https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
         }
       ],
-      "duration_ms": 191177,
-      "name": "El Trato",
-      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
+      "duration_ms": 192482,
+      "name": "Hawai",
+      "url": "https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 256702,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Hawai",
-        "url": "https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw"
-      },
-      "artists": [
-        {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
-        }
-      ],
-      "duration_ms": 192482,
-      "name": "Hawai",
-      "url": "https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71"
     },
     {
       "added_at": "2022-11-25 03:00:00",

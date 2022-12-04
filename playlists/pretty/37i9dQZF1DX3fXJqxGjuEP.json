@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 620152,
+  "num_followers": 620299,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MTMxOCwwMDAwMDAwMGZlYjAzNDM1ZDA5ZjJjZmJjMjk5MGNmNGI0MjE3ZDg3",
+  "snapshot_id": "MTY2OTM0MTMxOCwwMDAwMDAwMDZjY2M2N2M5NzNmNjM3MzY2MjQ1N2RmYjZmMzcxNWQz",
   "tracks": [
     {
       "added_at": "2022-05-09 03:18:01",
@@ -265,6 +265,26 @@
       "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
     },
     {
+      "added_at": "2021-11-12 02:22:56",
+      "album": {
+        "name": "Mama Tetema (feat. Rayvanny)",
+        "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "duration_ms": 188087,
+      "name": "Mama Tetema (feat. Rayvanny)",
+      "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Verte",
@@ -287,26 +307,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2021-11-12 02:22:56",
-      "album": {
-        "name": "Mama Tetema (feat. Rayvanny)",
-        "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "Mama Tetema (feat. Rayvanny)",
-      "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28"
     },
     {
-      "added_at": "2022-09-03 02:45:23",
-      "album": {
-        "name": "Las 4:40",
-        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 197017,
-      "name": "Las 4:40",
-      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Satingarona, Pt. 2",
@@ -1139,6 +1123,22 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2022-09-03 02:45:23",
+      "album": {
+        "name": "Las 4:40",
+        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 197017,
+      "name": "Las 4:40",
+      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi"
     },
     {
+      "added_at": "2021-11-10 16:29:39",
+      "album": {
+        "name": "Bichota \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Bichota - Spotify Singles",
+      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
@@ -1199,26 +1219,6 @@
       "duration_ms": 299416,
       "name": "V\u00e1yanse Todos A Mam\u00e1",
       "url": "https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA"
-    },
-    {
-      "added_at": "2021-11-10 16:29:39",
-      "album": {
-        "name": "Bichota \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Bichota - Spotify Singles",
-      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Cambiar\u00e1s",
-        "url": "https://open.spotify.com/album/1x73tbGDGSdOSer7ctL5xl"
-      },
-      "artists": [
-        {
-          "name": "Altoparlante",
-          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Cambiar\u00e1s",
-      "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Anakena",
         "url": "https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 212133,
       "name": "Guayaba",
       "url": "https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Cambiar\u00e1s",
+        "url": "https://open.spotify.com/album/1x73tbGDGSdOSer7ctL5xl"
+      },
+      "artists": [
+        {
+          "name": "Altoparlante",
+          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Cambiar\u00e1s",
+      "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1657,24 +1657,20 @@
       "url": "https://open.spotify.com/track/26srTONLOLxnVTMshEu9LO"
     },
     {
-      "added_at": "2022-09-02 05:59:54",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1691,22 +1687,6 @@
       "duration_ms": 231716,
       "name": "Mr. Carisma",
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1729,6 +1709,42 @@
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
+    },
+    {
+      "added_at": "2022-09-02 05:59:54",
+      "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
       "added_at": "2022-02-25 03:00:34",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -1747,22 +1763,6 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 206148,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
     },
     {
       "added_at": "2021-10-20 20:06:54",

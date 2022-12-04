@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-228 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+231 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,14 +74,15 @@
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-06-29 |  |
 | [Familiarity](https://open.spotify.com/track/2rkMiWiaO1iPWjb5Lko8Lu) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Familiarity](https://open.spotify.com/album/1u7G8TW6rs86xYf5nVTeac) | 3:00 | 2022-06-29 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
-| [For a While](https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [For a While](https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj) | 3:55 | 2022-06-29 |  |
+| [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2022-12-01 |  |
+| [For a While](https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [For a While](https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj) | 3:55 | 2022-06-29 | 2022-12-04 |
 | [For All We Know](https://open.spotify.com/track/0Y79Rig8KQP92y2npdG66D) | [Christian Warner Band](https://open.spotify.com/artist/33v9UFXH7pCXb4kmEz91SF) | [Estrellita](https://open.spotify.com/album/5nam9UDpTq9AqnwtSSBUdj) | 4:58 | 2022-06-29 | 2022-10-30 |
 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2022-06-29 |  |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-06-29 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
 | [From This Moment On](https://open.spotify.com/track/0nKuLOun4rfWPa1dF0eRAD) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [From This Moment On](https://open.spotify.com/album/2VT0gVnwet0udySQKwTjyV) | 4:04 | 2022-06-29 |  |
-| [Good Morning Heartache](https://open.spotify.com/track/2YsAqYSahjKY9GJfP53qBx) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 4:56 | 2022-06-29 |  |
+| [Good Morning Heartache](https://open.spotify.com/track/2YsAqYSahjKY9GJfP53qBx) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 4:56 | 2022-06-29 | 2022-12-04 |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-06-29 |  |
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-29 | 2022-11-25 |
 | [Here's That Rainy Day](https://open.spotify.com/track/1c5xi6V22AXSmXJfcpWwII) | [Tenille Taylor Quartet](https://open.spotify.com/artist/3UMb1QH0ZwX6GqtDxSsIPK) | [Here's That Rainy Day](https://open.spotify.com/album/1KzZ4ioqkhR9d5POqDGwnp) | 4:37 | 2022-06-29 | 2022-10-30 |
@@ -151,6 +152,7 @@
 | [Moonlight in Vermont](https://open.spotify.com/track/2EW5zfxI27hvTxeYr8I0J7) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 4:17 | 2022-06-29 |  |
 | [My Foolish Heart](https://open.spotify.com/track/37edmjxy5GvRtRJy0AzqxI) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [My Foolish Heart](https://open.spotify.com/album/5B5dPODzC33uqYMkaYwjtu) | 5:10 | 2022-06-29 | 2022-10-09 |
 | [My Funny Valentine](https://open.spotify.com/track/25ceraPwnnfVyH9wDrudOF) | [Rachel Karpov Quartet](https://open.spotify.com/artist/5lSexwyo0rcjtp4Rmna4y0) | [My Foolish Heart](https://open.spotify.com/album/6eouaRzhxuU4jw30rCkZnK) | 5:16 | 2022-06-29 | 2022-10-16 |
+| [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 |  |
 | [My Ideal](https://open.spotify.com/track/0DEnkUHQ2ORI84fIwRCJYD) | [Solomon Rogers Band](https://open.spotify.com/artist/2k7YvEJ606E7fTWeKdINv8) | [My Ideal](https://open.spotify.com/album/4XybR9h4pjJZ2GHXKlVcjb) | 4:35 | 2022-06-29 | 2022-10-16 |
 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 | 2022-06-29 |  |
 | [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2022-06-29 |  |
@@ -210,9 +212,10 @@
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-06-29 |  |
 | [Turn Out The Stars](https://open.spotify.com/track/15zfQfeiejDgAA8MAc7S8d) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 4:23 | 2022-06-29 |  |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-08-12 |  |
-| [Very Early](https://open.spotify.com/track/2i6UvEb8X7i2oQTVHah3pV) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:27 | 2022-06-29 |  |
+| [Very Early](https://open.spotify.com/track/2i6UvEb8X7i2oQTVHah3pV) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:27 | 2022-06-29 | 2022-12-04 |
 | [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2022-06-29 |  |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2022-10-13 |  |
+| [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
 | [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2022-11-24 |  |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 |  |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-08-12 |  |

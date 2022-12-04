@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,734 likes - 203 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,933 likes - 203 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

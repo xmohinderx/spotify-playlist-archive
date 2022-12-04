@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 2905,
+  "num_followers": 2907,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMDU3OWI5NzAwYmVjMTJiZjViZGJlN2JhYmI4NTc4MDZm",
+  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMDE5ZTRkYmY4MDUzNjkzNWY2MTM0ZTIzZDM2YzI5ZmNk",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
-      },
-      "artists": [
-        {
-          "name": "BOOKKU DDOONG",
-          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
-        },
-        {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 250813,
       "name": "Ten Reasons I Love You(2021)",
       "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
+      },
+      "artists": [
+        {
+          "name": "BOOKKU DDOONG",
+          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
+        },
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "AFTER THE LIGHT",
-        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
-      },
-      "artists": [
-        {
-          "name": "Kang Butter",
-          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "AFTER THE LIGHT",
-      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "AFTER THE LIGHT",
+        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+      },
+      "artists": [
+        {
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "AFTER THE LIGHT",
+      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
     },
     {
-      "added_at": "2022-12-03 01:22:31",
+      "added_at": "2022-12-04 01:25:46",
       "album": {
         "name": "\uc6d0 Wish",
         "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd"
-      },
-      "artists": [
-        {
-          "name": "Motte",
-          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 173880,
       "name": "Spring",
       "url": "https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "duration_ms": 215981,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

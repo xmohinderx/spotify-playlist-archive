@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole!",
-  "num_followers": 91533,
+  "num_followers": 91524,
   "original_name": "Voglia di Sole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2MDg2MCwwMDAwMDAwMDc5OTVjYjk2MmUwNGFhN2M3ZjRhMTM3ZmQzYWM5YTAw",
+  "snapshot_id": "MTY2OTk2MDg2MCwwMDAwMDAwMDI3Y2Y5ODkyODIwMDc5NDE3MTM1NzQ3OTRiZTIyZmUx",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
     },
     {
-      "added_at": "2022-12-03 01:00:06",
+      "added_at": "2022-12-04 01:03:12",
       "album": {
         "name": "Until the Sun Goes Down",
         "url": "https://open.spotify.com/album/3VxntUkcFedZ4GUpEXJFMw"
@@ -555,42 +555,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "BloodPop\u00ae",
-          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Capital Letters",
-      "url": "https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Second Chance",
-        "url": "https://open.spotify.com/album/4tVx3jKFjuDEDuF6yb3oJX"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/7KWTJy2RIa9TOJ6NXFkn4G"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
@@ -611,22 +575,18 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/4tVx3jKFjuDEDuF6yb3oJX"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
+      "duration_ms": 164160,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/7KWTJy2RIa9TOJ6NXFkn4G"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -647,6 +607,26 @@
       "duration_ms": 140011,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Never Really Loved Me (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Never Really Loved Me (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -675,22 +655,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/6Nz55aKMohw3EYlIbzhgB5"
-      },
-      "artists": [
-        {
-          "name": "Pekka",
-          "url": "https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm"
-        }
-      ],
-      "duration_ms": 188065,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/3xbMNOS8K9CNbI4G7idaMx"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -715,6 +679,22 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6Nz55aKMohw3EYlIbzhgB5"
+      },
+      "artists": [
+        {
+          "name": "Pekka",
+          "url": "https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm"
+        }
+      ],
+      "duration_ms": 188065,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3xbMNOS8K9CNbI4G7idaMx"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -779,26 +759,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Lucky Star",
-        "url": "https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN"
-      },
-      "artists": [
-        {
-          "name": "Sol Novaro",
-          "url": "https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq"
-        },
-        {
-          "name": "blackbird",
-          "url": "https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -819,6 +779,26 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN"
+      },
+      "artists": [
+        {
+          "name": "Sol Novaro",
+          "url": "https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq"
+        },
+        {
+          "name": "blackbird",
+          "url": "https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -879,6 +859,30 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Kissed by the Sun",
         "url": "https://open.spotify.com/album/5NRS1J7Ri5Ic1SAOx0xihE"
       },
@@ -927,30 +931,6 @@
       "duration_ms": 148822,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
-      },
-      "artists": [
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1031,26 +1011,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Caught Up (with Olivia O'Brien)",
-        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 173214,
-      "name": "Caught Up (with Olivia O'Brien)",
-      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -1071,6 +1031,26 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Caught Up (with Olivia O'Brien)",
+        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 173214,
+      "name": "Caught Up (with Olivia O'Brien)",
+      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Broken & Beautiful",
         "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
       },
@@ -1083,26 +1063,6 @@
       "duration_ms": 218948,
       "name": "Broken & Beautiful",
       "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Feels Like Love (feat. MIYA MIYA)",
-        "url": "https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "MIYA MIYA",
-          "url": "https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Feels Like Love (feat. MIYA MIYA)",
-      "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1123,6 +1083,26 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Feels Like Love (feat. MIYA MIYA)",
+        "url": "https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "MIYA MIYA",
+          "url": "https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Feels Like Love (feat. MIYA MIYA)",
+      "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1163,26 +1143,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
-        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 139809,
-      "name": "Lonely (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "i miss u (with Au/Ra)",
         "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
       },
@@ -1199,6 +1159,26 @@
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Diplo Presents Thomas Wesley Chapter 1: Snake Oil",
+        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 139809,
+      "name": "Lonely (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1243,6 +1223,22 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Live For",
         "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
       },
@@ -1259,22 +1255,6 @@
       "duration_ms": 171433,
       "name": "Live For",
       "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1331,22 +1311,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Like No One Does",
-        "url": "https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 158469,
-      "name": "Like No One Does",
-      "url": "https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
@@ -1359,6 +1323,22 @@
       "duration_ms": 194880,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Like No One Does",
+        "url": "https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 158469,
+      "name": "Like No One Does",
+      "url": "https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Love To Go",
         "url": "https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1575,26 +1555,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 173038,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "We Got Love",
         "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
       },
@@ -1611,6 +1571,26 @@
       "duration_ms": 213040,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/23D4p5YNgkQsWh0vuWoJyN"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 173038,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2nhbnB0QQIuMZVuXZa3Qr5"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1747,58 +1727,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Tangerine Skies",
-        "url": "https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Tangerine Skies",
-      "url": "https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 157910,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7"
       },
@@ -1819,22 +1747,54 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Breathe (feat. kaspara)",
-        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Kaspara",
-          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
         }
       ],
-      "duration_ms": 175081,
-      "name": "Breathe (feat. kaspara)",
-      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 157910,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Tangerine Skies",
+        "url": "https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Tangerine Skies",
+      "url": "https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1855,6 +1815,26 @@
       "duration_ms": 168727,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Breathe (feat. kaspara)",
+        "url": "https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Kaspara",
+          "url": "https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Breathe (feat. kaspara)",
+      "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1975,6 +1955,26 @@
       "duration_ms": 179853,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Alive (with Calle Lehmann)",
+        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calle Lehmann",
+          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "duration_ms": 222830,
+      "name": "Alive (with Calle Lehmann)",
+      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
     }
   ],
   "unique_name": "Voglia di Sole",

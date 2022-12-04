@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 651763,
+  "num_followers": 651945,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMDlmNGRmNWQ4YTAyMjhmMDEyOTU1MjZlNTg1MDkxOTA0",
+  "snapshot_id": "MTY2NjgwMDAwMiwwMDAwMDAwMDY4NzFiNjIzNjEwOTY1NGJhMDJiY2E5YTYxYzI0Zjg1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 218306,
       "name": "White Gloves",
       "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Sheep",
-        "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 215180,
-      "name": "Sheep",
-      "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 357357,
       "name": "Movie",
       "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Sheep",
+        "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 215180,
+      "name": "Sheep",
+      "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 210895,
       "name": "Take Some Time",
       "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Sexy Weekend EP",
+        "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
+      },
+      "artists": [
+        {
+          "name": "Scoundrels",
+          "url": "https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj"
+        }
+      ],
+      "duration_ms": 251255,
+      "name": "Sexy Weekend",
+      "url": "https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Sexy Weekend EP",
-        "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
-      },
-      "artists": [
-        {
-          "name": "Scoundrels",
-          "url": "https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj"
-        }
-      ],
-      "duration_ms": 251255,
-      "name": "Sexy Weekend",
-      "url": "https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Bert Jansch",
-        "url": "https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy"
-      },
-      "artists": [
-        {
-          "name": "Bert Jansch",
-          "url": "https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D"
-        }
-      ],
-      "duration_ms": 140273,
-      "name": "Running from Home - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5I4LTcEg5nFSnuMzAQumh5"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 258693,
       "name": "Far Out",
       "url": "https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Bert Jansch",
+        "url": "https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy"
+      },
+      "artists": [
+        {
+          "name": "Bert Jansch",
+          "url": "https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D"
+        }
+      ],
+      "duration_ms": 140273,
+      "name": "Running from Home - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5I4LTcEg5nFSnuMzAQumh5"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Crane Song",
         "url": "https://open.spotify.com/album/7645lROHCBoCTaBZXuGbYy"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 185397,
       "name": "Colors",
       "url": "https://open.spotify.com/track/62FVFc1vz3NmSlqOOKTlTF"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Waterfall II",
-        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 277093,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
     },
     {
       "added_at": "2022-10-07 04:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDQyNTVkYWI3YjY0YzY2YWZiOGRkZGVhNjg0MGU1OWFm",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDZjM2U0ZTQ0MzE1NzM5MjJiNDk1OGIzZDVjYzI3MTAy",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Don't Worry (Radio Edit)",
+        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
+      },
+      "artists": [
+        {
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+        }
+      ],
+      "duration_ms": 190278,
+      "name": "Don't Worry - Radio Edit",
+      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Don't Worry (Radio Edit)",
-        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
       },
       "artists": [
         {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 190278,
-      "name": "Don't Worry - Radio Edit",
-      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
+      "duration_ms": 189243,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1463,22 +1479,6 @@
       "duration_ms": 159000,
       "name": "Walk Me Home - R3HAB Remix",
       "url": "https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 189243,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
     },
     {
       "added_at": "2020-02-18 13:31:30",

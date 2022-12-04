@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
@@ -3862,6 +3862,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -4881,7 +4907,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -11463,7 +11489,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
@@ -11485,7 +11511,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
@@ -12667,6 +12693,32 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
     },
     {
       "album": {
@@ -14084,6 +14136,24 @@
     },
     {
       "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
+    },
+    {
+      "album": {
         "name": "Poland",
         "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
       },
@@ -14911,7 +14981,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 201023,
       "name": "Rocket Science (feat. D-Block Europe)",
       "url": "https://open.spotify.com/track/6g9w2kMmb0SpHY4ADT4z6k"
@@ -16239,7 +16309,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
@@ -16846,6 +16916,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+    },
+    {
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -16929,7 +17025,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

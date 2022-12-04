@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,214 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,344 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 40 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 |
 | 41 | [Jeito Dela](https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Jeito Dela](https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1) | 3:28 |
 | 42 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
-| 43 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
-| 44 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 |
-| 45 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 |
-| 46 | [Dando Love](https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dando Love](https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz) | 3:02 |
+| 43 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 |
+| 44 | [Dando Love](https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dando Love](https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz) | 3:02 |
+| 45 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
+| 46 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 |
 | 47 | [Nha Rainha \(feat\. Dino D'Santiago\)](https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [The Gentleman](https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0) | 3:46 |
 | 48 | [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 |
 | 49 | [No Bad Vibez](https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:10 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 76 | [É Golo](https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [É Golo](https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q) | 3:36 |
 | 77 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 |
 | 78 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 |
-| 79 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
-| 80 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 |
+| 79 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 |
+| 80 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
 
-Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMDA3MDQxN2M1YzM4MDgwYmYxYmRlMWQyNzRiMThmYjRj`
+Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMDJhMjE5NjcwZjI1YzUwZjA2NzUzNGUzZmNlNjMyZmFl`

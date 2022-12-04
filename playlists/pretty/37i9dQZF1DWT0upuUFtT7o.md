@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds Indie tracks of 2022\. Cover: hemlocke springs \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,299 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,812 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

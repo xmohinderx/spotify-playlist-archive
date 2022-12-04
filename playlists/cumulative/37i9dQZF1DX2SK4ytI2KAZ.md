@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-412 songs - 23 hr 6 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+413 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-05-27 | 2022-07-30 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-05-27 |  |
 | [Faith](https://open.spotify.com/track/0c5rPwlRxcBmVLNARI2kGQ) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/2Zp4jloZJFW8K9Lls75luH) | 3:06 | 2021-03-10 | 2022-07-29 |
-| [Faith](https://open.spotify.com/track/3ExC1r91qMl0qIUGyvuaRo) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/4ozLbfB6lf2KeuWZLrrcMn) | 3:06 | 2022-10-07 |  |
+| [Faith](https://open.spotify.com/track/3ExC1r91qMl0qIUGyvuaRo) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/4ozLbfB6lf2KeuWZLrrcMn) | 3:06 | 2022-10-07 | 2022-12-04 |
 | [Falling Down \- Edit](https://open.spotify.com/track/6jRNplNtd8xT0sc4iUJyW5) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Falling Down \(Edit\)](https://open.spotify.com/album/2biOtCehtzEDKjyZH8AbMv) | 3:11 | 2022-03-11 | 2022-04-20 |
 | [Famous Son](https://open.spotify.com/track/7o4BF5REJbrZwgYaOdYO2b) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Famous Son](https://open.spotify.com/album/5rfM6bb7ZmgTXFpv7DOcI8) | 3:00 | 2021-05-04 | 2022-07-29 |
 | [Fangs](https://open.spotify.com/track/618DIJLSOg5ffmXaFFRsnv) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Fangs](https://open.spotify.com/album/41yYEgLaRvDor6cNwWBsfB) | 3:35 | 2022-03-11 | 2022-04-21 |
@@ -157,6 +157,7 @@
 | [High And Low](https://open.spotify.com/track/4idXqwDDENjWPbkrEy1w47) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [High And Low](https://open.spotify.com/album/3OpZa2TGRJjO4MpcKfTERd) | 3:44 | 2022-03-11 | 2022-04-20 |
 | [High Low](https://open.spotify.com/track/3ATD9XGdgIRLAhviHOIh8q) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [High Low](https://open.spotify.com/album/6iS4AhPXyR0Q7c2iKoftTD) | 3:04 | 2021-03-10 |  |
 | [Hold Me](https://open.spotify.com/track/39CKuYzxf225JhC9Ht3Ghx) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Hold Me](https://open.spotify.com/album/77l525amyRGkAbQOLRVPx4) | 3:06 | 2022-03-11 | 2022-04-21 |
+| [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 | 2022-10-07 |  |
 | [Hold Me Down](https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:43 | 2022-06-27 | 2022-12-01 |
 | [Hold Me Down](https://open.spotify.com/track/70KLrwA35FJlep7tPuYIkF) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Hold Me Down](https://open.spotify.com/album/6TZHhrsNTHdH1NLZCJdyQj) | 3:43 | 2021-03-10 | 2022-07-29 |
 | [hold on](https://open.spotify.com/track/1PkMO2tQMszcKznHFKbd84) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [hold on](https://open.spotify.com/album/4gZVjgXNLuRnyHSKcI9prV) | 3:23 | 2021-03-10 | 2022-07-28 |

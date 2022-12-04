@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: T.I Blaze",
-  "num_followers": 1742,
+  "num_followers": 1757,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDIwMzBlOGM2MDg2M2M0NGExMjU4OWVjNjg0YWFjOWJi",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDA0MjM0ZjU0MDM4YjkyNjU3NGJiYTRjMWNmZTAzYjgy",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -793,6 +793,26 @@
       "url": "https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV"
     },
     {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Shaka",
+        "url": "https://open.spotify.com/album/29shi6mo00EIzN9kejVSI4"
+      },
+      "artists": [
+        {
+          "name": "Small Doctor",
+          "url": "https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 164684,
+      "name": "Shaka",
+      "url": "https://open.spotify.com/track/1HN2Q4IyIoJWqEQKeZSWNA"
+    },
+    {
       "added_at": "2022-06-29 06:30:37",
       "album": {
         "name": "Am I a Yahoo Boy",
@@ -877,26 +897,6 @@
       "url": "https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A"
     },
     {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "Shaka",
-        "url": "https://open.spotify.com/album/29shi6mo00EIzN9kejVSI4"
-      },
-      "artists": [
-        {
-          "name": "Small Doctor",
-          "url": "https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 164684,
-      "name": "Shaka",
-      "url": "https://open.spotify.com/track/1HN2Q4IyIoJWqEQKeZSWNA"
-    },
-    {
       "added_at": "2022-06-29 06:30:37",
       "album": {
         "name": "Fire",
@@ -949,38 +949,6 @@
       "url": "https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs"
     },
     {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
-        "name": "Idi Oremi (Opotoyi, Pt. 2)",
-        "url": "https://open.spotify.com/album/532Y9sBAkcmuOQC3EsgW0K"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Idi Oremi (Opotoyi, Pt. 2)",
-      "url": "https://open.spotify.com/track/1IU3Jr0B5keEYO7zNDk5OX"
-    },
-    {
-      "added_at": "2022-06-29 06:30:37",
-      "album": {
-        "name": "Geng",
-        "url": "https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 127111,
-      "name": "Geng",
-      "url": "https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv"
-    },
-    {
       "added_at": "2022-07-29 07:44:33",
       "album": {
         "name": "Ejon Jor",
@@ -1031,6 +999,38 @@
       "duration_ms": 133160,
       "name": "Tintok Cruise Beat",
       "url": "https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw"
+    },
+    {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
+        "name": "Idi Oremi (Opotoyi, Pt. 2)",
+        "url": "https://open.spotify.com/album/532Y9sBAkcmuOQC3EsgW0K"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Idi Oremi (Opotoyi, Pt. 2)",
+      "url": "https://open.spotify.com/track/1IU3Jr0B5keEYO7zNDk5OX"
+    },
+    {
+      "added_at": "2022-06-29 06:30:37",
+      "album": {
+        "name": "Geng",
+        "url": "https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 127111,
+      "name": "Geng",
+      "url": "https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-06-29 06:30:37",
       "album": {
-        "name": "Otedola",
-        "url": "https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9"
+        "name": "Agbado Wa O",
+        "url": "https://open.spotify.com/album/3UATmv0OvLERgHyOnI40lx"
       },
       "artists": [
         {
-          "name": "Dice Ailes",
-          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
+          "name": "Son of Ika",
+          "url": "https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi"
         }
       ],
-      "duration_ms": 185115,
-      "name": "Otedola",
-      "url": "https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm"
+      "duration_ms": 102504,
+      "name": "Agbado Wa O",
+      "url": "https://open.spotify.com/track/2KjpQ7DwPEuMeSFqve6Nvw"
     }
   ],
   "unique_name": "Street Energy ",

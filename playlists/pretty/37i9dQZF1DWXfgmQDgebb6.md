@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: blah\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,683 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,683 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 15 | [I would](https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq) | 3:25 |
 | 16 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
 | 17 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
-| 18 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
+| 18 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
 | 19 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 |
-| 20 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 |
+| 20 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 |
 | 21 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 |
 | 22 | [Year to Year](https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 4:14 |
 | 23 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 43 | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 |
 | 44 | [Lauren](https://open.spotify.com/track/2mAhxwO0fLjISvxim2Seap) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Lauren](https://open.spotify.com/album/47iCW4EIDHE8XeakoStZhf) | 3:03 |
 | 45 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
-| 46 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 |
-| 47 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
+| 46 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
+| 47 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 |
 | 48 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 49 | [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 |
-| 50 | [Hmmmmm \(Prod\. 1024\)](https://open.spotify.com/track/6Txu5OpH2EAo5xFiF0ucEu) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Lilith The Moonlan](https://open.spotify.com/artist/4LCQokOhuSVwoRnZxCscrM) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 3:05 |
+| 50 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 |
 
-Snapshot ID: `MTY2OTI4MTMzNywwMDAwMDAwMDAxYTJiODdlODYzOTU0MTEwZTRjNzMzNTlkNDU1Mjg2`
+Snapshot ID: `MTY2OTI4MTMzNywwMDAwMDAwMDA3OGZmOTI0ZTQ3NGJkYzgzMTFjYzRmMjExODA0NWI2`

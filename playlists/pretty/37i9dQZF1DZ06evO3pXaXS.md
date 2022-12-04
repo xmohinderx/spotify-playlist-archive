@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,307 likes - 42 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,481 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 35 | [Can't Stand Losing You/Reggatta De Blanc \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/7qXOUUDmgkYql3k9AJUeIw) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 6:30 |
 | 36 | [Fall Out](https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Police](https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP) | 2:03 |
 | 37 | [Shambelle](https://open.spotify.com/track/2jn9j0RG0UKukFZAviVCbG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 5:10 |
-| 38 | [Voices Inside My Head / When The World Is Running Down You Make the Best Of What's Still Around \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/2UtXxz9XGRn7qvZ275H7aJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 7:04 |
-| 39 | [Dead End Job](https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:35 |
-| 40 | [Visions Of The Night](https://open.spotify.com/track/33Wh8esQvnlw5Zex1xcC4z) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:06 |
-| 41 | [Landlord](https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:07 |
-| 42 | [Friends](https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:36 |
+| 38 | [We Are the Police](https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH), [Adam Driver](https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M), [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Annette \(Unlimited Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf) | 1:22 |
+| 39 | [Voices Inside My Head / When The World Is Running Down You Make the Best Of What's Still Around \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/2UtXxz9XGRn7qvZ275H7aJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 7:04 |
+| 40 | [Dead End Job](https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:35 |
+| 41 | [Visions Of The Night](https://open.spotify.com/track/33Wh8esQvnlw5Zex1xcC4z) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:06 |
+| 42 | [Landlord](https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:07 |
+| 43 | [Friends](https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:36 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBiOGJlY2IxNTcyOWM5MGNkMjQ2ZmZkNjk1MGQ0Mzg0Zg==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDA3Yzc0MzYzYmFiZGMyMmQyMDA5Nzg0ODcxNzQ2NDU5Mg==`

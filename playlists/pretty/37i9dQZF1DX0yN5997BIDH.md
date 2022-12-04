@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,927 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,953 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 35 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
 | 36 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 37 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
-| 38 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 |
-| 39 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
+| 38 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
+| 39 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 |
 | 40 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 41 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
 | 42 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 56 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 |
 | 57 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 |
 | 58 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
-| 59 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
-| 60 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
+| 59 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
+| 60 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
 | 61 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
 | 62 | [Cure For Me](https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:21 |
 | 63 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:07 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 81 | [Girlfriend](https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Girlfriend](https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY) | 2:57 |
 | 82 | [The Joker And The Queen](https://open.spotify.com/track/3NuLxTXowTRcguTh9RsPmM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:05 |
 | 83 | [Broken Glass](https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:23 |
-| 84 | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:14 |
-| 85 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
+| 84 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
+| 85 | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\)](https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd) | 3:14 |
 | 86 | [Cryo](https://open.spotify.com/track/4iLavMOMViSouoJ5TY0ga5) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:38 |
 | 87 | [American Cliché](https://open.spotify.com/track/18HE341ScgOOPOLWx1DSjG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/7fsCxUt2YH5ZcfQL2RWY1g) | 3:23 |
 | 88 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 99 | [Burning Bridges \- Acoustic Version](https://open.spotify.com/track/5RsLCQoBZPriFVQ5rkITVt) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Burning Bridges](https://open.spotify.com/album/5uQQRD08v4cRKAXBUBRPK1) | 3:59 |
 | 100 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 |
 
-Snapshot ID: `MTY2OTM1NjAwMCwwMDAwMDAwMDYyNGFlN2EyYmI0OTE4NjRlNTAyNDlmY2U2YTNiZDI1`
+Snapshot ID: `MTY2OTM1NjAwMCwwMDAwMDAwMDk2NmRjMjZlM2QxNTY0MGViOGVmOTNiYjlhZjQyYTRj`

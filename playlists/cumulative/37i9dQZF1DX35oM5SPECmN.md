@@ -4,7 +4,7 @@
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-167 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
+168 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Good Luck, Kid](https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:36 | 2021-10-01 | 2022-07-29 |
 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 | 2021-10-01 |  |
 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-19 |  |
-| [Green Eyes and a Heart of Gold](https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [The Lone Bellow](https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB) | 4:12 | 2021-10-01 |  |
+| [Green Eyes and a Heart of Gold](https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [The Lone Bellow](https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB) | 4:12 | 2021-10-01 | 2022-12-04 |
 | [Guiding Light](https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 3:37 | 2021-10-01 | 2022-10-13 |
 | [Guiding Light](https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:37 | 2022-09-19 |  |
 | [Hazy Morning](https://open.spotify.com/track/01wYSEVGZaqWQ4r744FHq6) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Holy Smokes Future Jokes](https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc) | 3:59 | 2021-10-01 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Mountain Sound](https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 3:31 | 2021-10-01 |  |
 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 | 2022-09-19 |  |
 | [My Love Took Me Down To The River To Silence Me](https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 5:00 | 2021-10-01 | 2022-07-24 |
+| [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 | 2022-09-19 |  |
 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/5wTh0TKsazGQ6iE2wJLOBH) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 5:00 | 2021-10-01 | 2022-09-20 |
 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 | 2021-10-01 | 2022-07-29 |
 | [New Earth](https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Heartmind](https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1) | 4:11 | 2022-09-19 | 2022-11-13 |

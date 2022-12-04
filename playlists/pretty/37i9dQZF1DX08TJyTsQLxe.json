@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nosotras s\u00f3lo queremos divertirnos! ",
-  "num_followers": 119647,
+  "num_followers": 119698,
   "original_name": "Noche de Amigas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMTE3MiwwMDAwMDAwMDQxZDIxMTBkZDNiZDRkNzMzYjE0MTIwYTg0ZDQ0ZDRk",
+  "snapshot_id": "MTY2NDkyMTE3MiwwMDAwMDAwMDJjNTE4NjlhMDQ5MzJiMjNiOTc1Mzk3YmY1NTRiYzIz",
   "tracks": [
     {
       "added_at": "2022-10-04 22:06:12",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "ily (i love you baby) (feat. Emilee)",
-        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 176546,
-      "name": "ily (i love you baby) (feat. Emilee)",
-      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1535,22 +1535,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+        "name": "ily (i love you baby) (feat. Emilee)",
+        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+      "duration_ms": 176546,
+      "name": "ily (i love you baby) (feat. Emilee)",
+      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2022-10-04 22:06:12",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2022-10-04 22:06:12",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2022-10-04 22:06:12",
+      "album": {
         "name": "On The Floor",
         "url": "https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 230906,
       "name": "On The Floor - Radio Edit",
       "url": "https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"
-    },
-    {
-      "added_at": "2022-10-04 22:06:12",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2022-10-04 22:06:12",

@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1982,
+  "num_followers": 1988,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDY1YjQxY2NlMDBlZTIxM2IzYzM3NDJjNjhlYjMyZmIy",
+  "snapshot_id": "MTY2MjM5MzM5MiwwMDAwMDAwMDUzNDNjYjJhY2RkODliNDFmNmUxOWM0NzE1MjhkMTlk",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:32",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 254661,
+      "name": "365",
+      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "To us (feat. wave to earth & WAVY)",
         "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 254826,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 254661,
-      "name": "365",
-      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -607,6 +607,22 @@
       "duration_ms": 282118,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 224288,
+      "name": "WERE WE?",
+      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 224288,
-      "name": "WERE WE?",
-      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "HEY RAIN",
+      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
         "name": "The Blowing",
         "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2022-09-05 15:56:32",
       "album": {
-        "name": "Let\u2019s Dance For Me",
-        "url": "https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes"
-      },
-      "artists": [
-        {
-          "name": "Jang HeeWon",
-          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "Let\u2019s Dance For Me",
-      "url": "https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 267426,
       "name": "A Letter in The Wind",
       "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
+    },
+    {
+      "added_at": "2022-09-05 15:56:32",
+      "album": {
+        "name": "Let\u2019s Dance For Me",
+        "url": "https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "Let\u2019s Dance For Me",
+      "url": "https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4"
     },
     {
       "added_at": "2022-09-05 15:56:32",
@@ -819,22 +835,6 @@
       "duration_ms": 187906,
       "name": "Green War",
       "url": "https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW"
-    },
-    {
-      "added_at": "2022-09-05 15:56:32",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "HEY RAIN",
-      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
     },
     {
       "added_at": "2022-09-05 15:56:32",

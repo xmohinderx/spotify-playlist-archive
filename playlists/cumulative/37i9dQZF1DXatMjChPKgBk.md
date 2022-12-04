@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-455 songs - 1 day 4 hr 19 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+456 songs - 1 day 4 hr 23 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Headlights](https://open.spotify.com/track/6dyCbIxeynWnHjxNMe2B9M) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Everything&Nothing](https://open.spotify.com/album/0BtOID4IhQFeaiYTAwn3Gj) | 2:46 | 2022-01-27 | 2022-07-29 |
 | [Heart's On Fire](https://open.spotify.com/track/5sZYVQVC1B700dWe6bUA5x) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Whispers \(Deluxe\)](https://open.spotify.com/album/3WvSr7uc2MOaNgWDxNxLqJ) | 4:11 | 2022-01-27 | 2022-07-29 |
 | [Heart's on Fire](https://open.spotify.com/track/4oAu3hSqE2EpboB74jTZKr) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Whispers \(Deluxe\)](https://open.spotify.com/album/6hEJyyBGeuKvITh19MfC0n) | 4:13 | 2022-07-08 |  |
+| [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2022-12-02 |  |
 | [Heartbreak Warfare](https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 4:29 | 2022-01-27 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 | 2022-04-11 | 2022-11-13 |
 | [Heaven Knows, Right?](https://open.spotify.com/track/6ZxieV41UDyJEJhmPLFyPC) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Heaven Knows, Right?](https://open.spotify.com/album/4aSYt36QkZJP5fGV1rYt9C) | 4:16 | 2022-01-27 | 2022-07-29 |
@@ -263,7 +264,7 @@
 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 | 2022-07-08 | 2022-09-12 |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 | 2022-10-28 | 2022-11-13 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-09-23 |  |
-| [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 | 2022-01-27 |  |
+| [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 | 2022-01-27 | 2022-12-04 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-05-27 |  |
 | [Miss You](https://open.spotify.com/track/4x6WqZyGxsdqbWmJhaoPwE) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Miss You](https://open.spotify.com/album/0joGNhmxUTBvrldTNr8LCy) | 3:18 | 2022-01-27 | 2022-07-25 |
 | [Missing Peace](https://open.spotify.com/track/5fTJGZ6k0zokfh5KLfe0sm) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Missing Peace](https://open.spotify.com/album/6z7NkrydW0T66QEB2DXblG) | 3:58 | 2022-01-27 |  |

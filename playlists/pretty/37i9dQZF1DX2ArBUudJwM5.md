@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Las artistas que marcaron el año con Nicki Nicole en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,698 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,744 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 20 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
 | 21 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 22 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
-| 23 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
-| 24 | [Afuera](https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Afuera](https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3) | 3:27 |
+| 23 | [Afuera](https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Afuera](https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3) | 3:27 |
+| 24 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
 | 25 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
 | 26 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
 | 27 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Te reís](https://open.spotify.com/track/2eEfdL8lApXa3lDh8I3yRC) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Antigua](https://open.spotify.com/album/7ycO0ov3bClBN6fWtdHiQQ) | 3:26 |
 | 50 | [Ansiedad](https://open.spotify.com/track/7h7SgRb5teNxvfkcMLFabO) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Vulnerable](https://open.spotify.com/album/0uyFaEhSZngTXmQn2E3wvR) | 2:41 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDFhOWQzYjA1ODczNDRhZWNiMWZiZmY4ZWM2NTcwNjk4`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDI4NGIzODhmNGM3ZDk5ZDZmZTJlNzI2YjdkMjdiZjVj`

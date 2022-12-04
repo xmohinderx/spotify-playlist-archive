@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,678 likes - 118 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,703 likes - 118 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 13 | [Above The Trees](https://open.spotify.com/track/4qzxepc9e8IRuqmknRIeAN) | [Ashagen](https://open.spotify.com/artist/65JkSnMfywXP7I1Xuk1XFp) | [Above The Trees](https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX) | 3:23 |
 | 14 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 |
 | 15 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 |
-| 16 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Prana Morales](https://open.spotify.com/artist/4VUxmx1n8byJVJL4rqlzvS) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 |
-| 17 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
+| 16 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Cthulhu Ramón](https://open.spotify.com/artist/6lO9EAgBlx7iOWq7ZT4wWG) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 |
+| 17 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/5ZbjwPQo6CocT2OdJyUsc9) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
 | 18 | [At One With Nature](https://open.spotify.com/track/3ex5KMu8ncO5iDWzAObPMy) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [At One With Nature](https://open.spotify.com/album/55FaUwYwc5gOqYc0Mtm5ua) | 2:53 |
 | 19 | [Pompeiana Waters](https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana Waters](https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ) | 2:54 |
 | 20 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 |
-| 21 | [The Bliss Of Nature](https://open.spotify.com/track/28lD0XCgpWglPM2cuqRTv6) | [Aventurine Skies](https://open.spotify.com/artist/1P9nalZuZKGyqEWPbPdSIZ) | [The Bliss Of Nature](https://open.spotify.com/album/62xIZlAEHbL6K9x7B1G50A) | 3:26 |
+| 21 | [The Bliss Of Nature](https://open.spotify.com/track/28lD0XCgpWglPM2cuqRTv6) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [The Bliss Of Nature](https://open.spotify.com/album/62xIZlAEHbL6K9x7B1G50A) | 3:26 |
 | 22 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 |
 | 23 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 |
 | 24 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 |

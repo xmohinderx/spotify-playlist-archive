@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Lupita Infante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,941 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,960 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 46 | [Fue un Placer Amarte](https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Fue un Placer Amarte](https://open.spotify.com/album/6lkzoOCU8gJ1Vtt6cV9659) | 3:49 |
 | 47 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 48 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
-| 49 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 |
-| 50 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
+| 49 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
+| 50 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 |
 | 51 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
 | 52 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 |
 | 53 | [Te Quise Olvidar](https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Quise Olvidar](https://open.spotify.com/album/2Zt6BjmuPDe7uAbSjj4RmN) | 3:48 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 60 | [Navajas En El Viento](https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj) | 3:45 |
 | 61 | [Yo Quiero Ser](https://open.spotify.com/track/7zXyVTdASO4dzlKkvA26uj) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Yo Quiero Ser](https://open.spotify.com/album/6IQASp9gvLbyMzzVB1FD9v) | 3:17 |
 | 62 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 |
-| 63 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
-| 64 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
+| 63 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
+| 64 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 65 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
 | 66 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
 | 67 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 74 | [La Muerte](https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [La Muerte](https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz) | 2:18 |
 | 75 | [No Me Hace Falta Nada](https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [No Me Hace Falta Nada](https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1) | 3:13 |
 
-Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDY2Y2ZkMmU3YzI3ODBmNTMyODIwNDNmNWU2YzVjMmZh`
+Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMGRiYjNmMmFiMDExN2M1ZjAyMWFhYmYyZjY5NjM5ZWU3`

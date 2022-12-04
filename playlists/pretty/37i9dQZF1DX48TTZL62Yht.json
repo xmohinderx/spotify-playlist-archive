@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Drake, 21 Savage",
-  "num_followers": 425458,
+  "num_followers": 425452,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAyMzM1MywwMDAwMDAwMDUxYzljMzkxZTk4MmRmOWQwMGZhNTk4MTI0ZTUxMzJh",
+  "snapshot_id": "MTY3MDAyMzM1MywwMDAwMDAwMGQyYTA0OTVhZWMxZDYwZjEzZGRkZDk0MWU0MzIyZWYy",
   "tracks": [
     {
       "added_at": "2022-12-02 16:41:18",
@@ -239,26 +239,6 @@
     {
       "added_at": "2022-12-02 16:41:18",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Mood (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2022-12-02 16:41:18",
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
+    },
+    {
+      "added_at": "2022-12-02 16:41:18",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Mood (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
       "added_at": "2022-12-02 16:41:18",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-12-02 16:41:18",
       "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "added_at": "2022-12-02 16:41:18",
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 218210,
       "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
       "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
-    },
-    {
-      "added_at": "2022-12-02 16:41:18",
-      "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
     },
     {
       "added_at": "2022-12-02 16:41:18",
@@ -755,26 +755,6 @@
     {
       "added_at": "2022-12-02 16:41:18",
       "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 199758,
-      "name": "Wolves (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
-    },
-    {
-      "added_at": "2022-12-02 16:41:18",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 193346,
       "name": "P power (feat. Drake)",
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
+    {
+      "added_at": "2022-12-02 16:41:18",
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 199758,
+      "name": "Wolves (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
     },
     {
       "added_at": "2022-12-02 16:41:18",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-02 16:41:18",
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": "2022-12-02 16:41:18",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
+    },
+    {
+      "added_at": "2022-12-02 16:41:18",
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": "2022-12-02 16:41:18",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-12-02 16:41:18",
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
+    },
+    {
+      "added_at": "2022-12-02 16:41:18",
+      "album": {
         "name": "Nothing Changed",
         "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2022-12-02 16:41:18",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
+      "duration_ms": 148421,
+      "name": "a m a r i",
+      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
     },
     {
       "added_at": "2022-12-02 16:41:18",
@@ -1075,22 +1091,6 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2022-12-02 16:41:18",
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "a m a r i",
-      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
     },
     {
       "added_at": "2022-12-02 16:41:18",

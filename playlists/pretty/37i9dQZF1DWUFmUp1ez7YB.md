@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > ¡Quiero Salsa, dame Salsa! Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,977 likes - 90 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,606 likes - 90 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 36 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 37 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 4:49 |
 | 38 | [Detalles](https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 4:38 |
-| 39 | [Hechizo De Luna](https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A), [Anthony Colon](https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz) | 4:54 |
-| 40 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 |
+| 39 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 |
+| 40 | [Hechizo De Luna](https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A), [Anthony Colon](https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz) | 4:54 |
 | 41 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 |
 | 42 | [Si Supieras](https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Exitos Originales](https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy) | 5:10 |
 | 43 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 89 | [Dime Por Qué](https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 3:34 |
 | 90 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
 
-Snapshot ID: `MTY1OTQ1NzI5NSwwMDAwMDAwMDM2ZjNhNzhhNjZlNGE0YWQzMGU0NTFiNGU2OTE2NmE5`
+Snapshot ID: `MTY1OTQ1NzI5NSwwMDAwMDAwMDNkMDQxZjhmYWMyM2QzODU3ZjU0ZDdiMDliZjI2NzFi`

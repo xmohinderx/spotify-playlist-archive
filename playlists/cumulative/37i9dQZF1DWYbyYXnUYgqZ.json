@@ -1012,6 +1012,24 @@
     },
     {
       "album": {
+        "name": "THE 3rd MINI ALBUM NATURE WORLD : CODE W",
+        "url": "https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "LIMBO!",
+      "url": "https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c"
+    },
+    {
+      "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 212264,
       "name": "SO BAD",
       "url": "https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4"

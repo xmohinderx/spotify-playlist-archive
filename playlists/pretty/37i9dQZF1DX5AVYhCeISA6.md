@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,696 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,794 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 50 | [Bella Ciao](https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Bella Ciao](https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu) | 2:40 |
 | 51 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 |
 | 52 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
-| 53 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 |
-| 54 | [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
+| 53 | [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
+| 54 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 |
 | 55 | [Hoy Ya Me Voy \(feat\. Franco de Vita\)](https://open.spotify.com/track/7vw2L7CJS7uXSX5gOty4Nt) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:53 |
 | 56 | [Los Consejos](https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Consejos](https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs) | 2:56 |
 | 57 | [Inventas](https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Todas las mujeres que habitan en mí](https://open.spotify.com/album/2McQoPHfRjo0Ol6E3thbEM) | 3:36 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 84 | [Vuelve](https://open.spotify.com/track/5WGHknjgYatHVCFRTFB8QP) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:47 |
 | 85 | [Chanteito Pa' un Ex](https://open.spotify.com/track/4mK5PG0R3ch1hJoOW9pFe2) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Chanteito Pa' un Ex](https://open.spotify.com/album/1kmys6i9MjDcH2loOM1ZVB) | 3:36 |
 | 86 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 |
-| 87 | [Cuando Hay Amor](https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuando Hay Amor](https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z) | 4:01 |
-| 88 | [Buena Para Nada](https://open.spotify.com/track/2XEqz2zxcbittKhCyPP42z) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:17 |
+| 87 | [Buena Para Nada](https://open.spotify.com/track/2XEqz2zxcbittKhCyPP42z) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:17 |
+| 88 | [Cuando Hay Amor](https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuando Hay Amor](https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z) | 4:01 |
 | 89 | [Quiero Que Me Quieras](https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:11 |
 | 90 | [No Pasa Nada \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:17 |
 | 91 | [Extranjera](https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Extranjera](https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 99 | [Noches en Miami](https://open.spotify.com/track/6MkRRQcKD5n3bLmFA3rJbd) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Noches en Miami](https://open.spotify.com/album/2dCZVCwASQV3KKhnAXY7Py) | 2:34 |
 | 100 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
 
-Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMDI2YjgzMzJlNGY2ZjU3N2VlY2RlMTBlY2RlM2JjYzdh`
+Snapshot ID: `MTY2MTkzMDAzOSwwMDAwMDAwMGJiZGUwMDg3NjkzMzlkOTYzMGI4N2E3NWMwZjRiN2Q2`

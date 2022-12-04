@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 695454,
+  "num_followers": 695559,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgzNTIyMCwwMDAwMDAwMDExY2NmMjU0YzMwYzgxZWEzYTJjNzYwZDA1NWQzNmNj",
+  "snapshot_id": "MTY2NjgzNTIyMCwwMDAwMDAwMDEzMTBlNWVmY2E5OWFmN2UyYTg5M2FjZmZkNWJiYmJm",
   "tracks": [
     {
       "added_at": "2022-08-18 22:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 161829,
+      "name": "All Night Parking (with Erroll Garner) Interlude",
+      "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 188877,
       "name": "First Day of My Life",
       "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 161829,
-      "name": "All Night Parking (with Erroll Garner) Interlude",
-      "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
       },
@@ -903,42 +923,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 384080,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "In Deepest Blue (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 172202,
       "name": "Acoustic",
       "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "In Deepest Blue (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Waltz #2 (XO)",
+      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Waltz #2 (XO)",
-      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Arms Of A Woman",
+      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 251440,
-      "name": "Arms Of A Woman",
-      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1689,7 +1689,7 @@
       "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
-      "added_at": "2022-12-03 01:22:33",
+      "added_at": "2022-12-04 01:26:28",
       "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Change It All",
-        "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 247413,
-      "name": "Change It All",
-      "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 267573,
       "name": "Cucurucu",
       "url": "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Change It All",
+        "url": "https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 247413,
+      "name": "Change It All",
+      "url": "https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Back to Autumn",
-      "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Welcome To The Cruel World",
         "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 204360,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Back to Autumn",
+      "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Play Me Something Nice",
         "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 201301,
       "name": "Play Me Something Nice",
       "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "Magnolia (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 274493,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "I Forget Myself (feat. Darlingside)",
-        "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Forget Myself (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
-    },
-    {
-      "added_at": "2022-08-18 22:01:00",
-      "album": {
         "name": "3 Rounds and a Sound",
         "url": "https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1"
       },
@@ -2243,18 +2223,22 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+        "name": "I Forget Myself (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+      "duration_ms": 212146,
+      "name": "I Forget Myself (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2287,6 +2271,22 @@
       "duration_ms": 227200,
       "name": "On the Train Ride Home",
       "url": "https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL"
+    },
+    {
+      "added_at": "2022-08-18 22:01:00",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2022-08-18 22:01:00",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2022-08-18 22:01:00",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+        "name": "Cragie Dhu",
+        "url": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Dougie MacLean",
+          "url": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
         }
       ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+      "duration_ms": 299746,
+      "name": "Caledonia",
+      "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
     }
   ],
   "unique_name": "Kaffeehausmusik",

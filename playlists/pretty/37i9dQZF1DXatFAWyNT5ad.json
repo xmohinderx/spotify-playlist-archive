@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 89945,
+  "num_followers": 90004,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDY3MGJhZTU0ZWRjYmVlOThiMDQ2YzljYTI4OGM5NjFi",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDkyNDI5MGFkYzMwODZhNTM0NDc4MGE0ODQzMGFkNjdm",
   "tracks": [
     {
       "added_at": "2022-11-11 05:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Isabelle",
         "url": "https://open.spotify.com/album/1rzy7MA291nlNOf957qlLG"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 135000,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/1w9L6dvttZalWd8XqFYvSa"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
         "url": "https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 186249,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "FUCK ABOUT IT",
         "url": "https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 172375,
       "name": "FUCK ABOUT IT (feat. blackbear)",
       "url": "https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "The Bastards",
-        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 186249,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50"
     },
     {
       "added_at": "2022-11-11 05:01:00",

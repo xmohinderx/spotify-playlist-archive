@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 39 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 |
 | 40 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 |
 | 41 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 |
-| 42 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 |
-| 43 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:54 |
-| 44 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
-| 45 | [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 |
-| 46 | [El Potaje](https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Orquesta Aragón](https://open.spotify.com/artist/2Asbl9eNGYQWvaNG9EJtUK), [Pancho Amat](https://open.spotify.com/artist/04mNWBG5bxWAtsMichq3mz), [Chucho Valdés](https://open.spotify.com/artist/3erQxCD42nKs50fpfdK4ve) | [El Potaje](https://open.spotify.com/album/3BEbtgQkUW0KhDgZkXgNmG) | 3:52 |
-| 47 | [Acércame a Tu Piel](https://open.spotify.com/track/5scR0u1qUQbGHXLYUYOnPM) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Santiago Soul](https://open.spotify.com/album/5zqpTQJPeyShwHYWAUTpmE) | 4:08 |
-| 48 | [Imposible](https://open.spotify.com/track/2xh8Xu93BdvH6a5GeappzM) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Siempre Siempre](https://open.spotify.com/album/19SGpkKErbNmC4mbRF5x54) | 4:24 |
-| 49 | [Sonido Animal](https://open.spotify.com/track/09WZ24iCLjkLHn2LMs64KN) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB), [Pablo Saldarriaga](https://open.spotify.com/artist/2OVPfWsOv51fPYcKm80BDc) | [Sonido Animal](https://open.spotify.com/album/4jAdtIAmjQNgzSPmJhiCO8) | 4:15 |
-| 50 | [Funky Man](https://open.spotify.com/track/0sosHfdwwsZV5BZsdbzB4t) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [Joe Bataan's Latin Soul Party: Black Sugar, Coco Lagos Y Sus Orates, Lu Logia Sarabanda & Joe Bataan](https://open.spotify.com/album/4NoBPQUYBcBmJBswHuQ8f4) | 2:08 |
+| 42 | [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 |
+| 43 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 |
+| 44 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:54 |
+| 45 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
+| 46 | [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 |
+| 47 | [El Potaje](https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Orquesta Aragón](https://open.spotify.com/artist/2Asbl9eNGYQWvaNG9EJtUK), [Pancho Amat](https://open.spotify.com/artist/04mNWBG5bxWAtsMichq3mz), [Chucho Valdés](https://open.spotify.com/artist/3erQxCD42nKs50fpfdK4ve) | [El Potaje](https://open.spotify.com/album/3BEbtgQkUW0KhDgZkXgNmG) | 3:52 |
+| 48 | [Acércame a Tu Piel](https://open.spotify.com/track/5scR0u1qUQbGHXLYUYOnPM) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Santiago Soul](https://open.spotify.com/album/5zqpTQJPeyShwHYWAUTpmE) | 4:08 |
+| 49 | [Imposible](https://open.spotify.com/track/2xh8Xu93BdvH6a5GeappzM) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Siempre Siempre](https://open.spotify.com/album/19SGpkKErbNmC4mbRF5x54) | 4:24 |
+| 50 | [Sonido Animal](https://open.spotify.com/track/09WZ24iCLjkLHn2LMs64KN) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB), [Pablo Saldarriaga](https://open.spotify.com/artist/2OVPfWsOv51fPYcKm80BDc) | [Sonido Animal](https://open.spotify.com/album/4jAdtIAmjQNgzSPmJhiCO8) | 4:15 |
 
-Snapshot ID: `MTY3MDAwMzAxOCwwMDAwMDAwMDg2YjE4ODg5ZTU0ZGNlMjVlMWVlZGY4ZTJmYWRkOTIz`
+Snapshot ID: `MTY3MDAwMzAxOCwwMDAwMDAwMGI5NWJiMDEzY2JmZmViYmY4ZGFmZTQ1MzRiMzEyOWIx`

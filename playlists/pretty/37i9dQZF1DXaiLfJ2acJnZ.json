@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35515,
+  "num_followers": 35517,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGQzZjFlMDBlYjMxZDI3NzE4ZTNkZGVlYjI0ZTI4NDI4",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGYwNGE3OWE4YTI4ZTZiMDBlYjRkOTEzNThlYzU4ZGZm",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Whole",
-        "url": "https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW"
-      },
-      "artists": [
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Whole",
-      "url": "https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "One Foot in Front of the Other",
-        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
+        "name": "Whole",
+        "url": "https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 192075,
-      "name": "One Foot in Front of the Other",
-      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
+      "duration_ms": 174466,
+      "name": "Whole",
+      "url": "https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -799,6 +783,22 @@
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "One Foot in Front of the Other",
+        "url": "https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "One Foot in Front of the Other",
+      "url": "https://open.spotify.com/track/032DRv0baStN644jRO2lMV"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Summer Fling",
+        "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 215789,
+      "name": "Summer Fling",
+      "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "good thing",
         "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Summer Fling",
-        "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
       },
       "artists": [
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 215789,
-      "name": "Summer Fling",
-      "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "One & Only",
-        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
-      },
-      "artists": [
-        {
-          "name": "Bevan",
-          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
-        }
-      ],
-      "duration_ms": 246750,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "One Of Those Days",
         "url": "https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py"
       },
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN"
+      },
+      "artists": [
+        {
+          "name": "Bevan",
+          "url": "https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "City That I'm Lost In",
         "url": "https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 191838,
       "name": "1982",
       "url": "https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Cloudy Day (Acoustic)",
-        "url": "https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 185139,
-      "name": "Cloudy Day - Acoustic",
-      "url": "https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4"
     }
   ],
   "unique_name": "Wholesome",

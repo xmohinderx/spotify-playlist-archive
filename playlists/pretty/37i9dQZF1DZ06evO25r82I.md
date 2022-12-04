@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,760 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,766 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 31 | [Crush](https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:11 |
 | 32 | [Coffee And Cigarettes](https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:45 |
 | 33 | [Electable \(Give It Up\)](https://open.spotify.com/track/6YF86Myf8ganLrq9QtCg0E) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 2:56 |
-| 34 | [Surviving](https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:04 |
+| 34 | [Delivery](https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:13 |
 | 35 | [Your New Aesthetic](https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 2:40 |
 | 36 | [Polaris](https://open.spotify.com/track/4fQjex0ezXcMGpdjlGVi44) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures](https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y) | 4:51 |
 | 37 | [It Matters](https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 3:54 |
-| 38 | [Delivery](https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:13 |
+| 38 | [Surviving](https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:04 |
 | 39 | [Ten](https://open.spotify.com/track/2WKfrlOLw7U1RvqvdiMpM2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:48 |
 | 40 | [Littlething](https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 4:09 |
 | 41 | [Disintegration](https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Stay On My Side Tonight](https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj) | 7:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [Appreciation](https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:16 |
 | 50 | [Invented](https://open.spotify.com/track/0a9gDPRPLntNNowrvg4xHs) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 7:07 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBkOWZiMmY0NWFmODM3NWI4N2U0NWRmZjg0ZTdjMjcxYg==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDBmMzNiOWJhYjc1ZjRlMWY1MzIwZTBiODY1NTI0Zjk3MQ==`

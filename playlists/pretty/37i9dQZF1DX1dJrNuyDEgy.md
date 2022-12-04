@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,544 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,625 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,18 +13,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 3 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
 | 4 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
 | 5 | [Pelea De Gallos](https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana‚ Puro Mariachi](https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo) | 2:59 |
-| 6 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
+| 6 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 |
 | 7 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
-| 8 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 |
+| 8 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 9 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 |
 | 10 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 |
 | 11 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
 | 12 | [Piensa En Mí](https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Sueño Y Realidad](https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U) | 2:57 |
-| 13 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
-| 14 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
+| 13 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
+| 14 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
 | 15 | [Al Mando](https://open.spotify.com/track/0uEQGVBz5bCjBoomEm9GNL) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Al Mando](https://open.spotify.com/album/3KUjFdjVadbFYgQ3Q7Dgz4) | 3:08 |
 | 16 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
-| 17 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
+| 17 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 18 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 |
 | 19 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 | 20 | [Amargo Adiós](https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 74 | [Somos Mas Americanos](https://open.spotify.com/track/1grsm6TpzFbgxXEVa2PmmS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
 | 75 | [La Bala](https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Corazón](https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo) | 10:01 |
 
-Snapshot ID: `MTY2ODg3ODc4MywwMDAwMDAwMGYxMDJhY2UxMWViMjJjYTc4MDBlODU5YzlhZmUzM2Jk`
+Snapshot ID: `MTY2ODg3ODc4MywwMDAwMDAwMGI4YjFhYjc5ZDkzZDk4NzNmMTU0MTk0ZTUwMjliMTgx`

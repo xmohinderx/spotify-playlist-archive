@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 
 > All 80s, all ballads\. Cover: Whitney Houston
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,821 likes - 85 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,998 likes - 85 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 59 | [Just Once](https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:33 |
 | 60 | [Truly](https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 3:20 |
 | 61 | [Crazy for You \- Edit](https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:45 |
-| 62 | [The Next Time I Fall \(with Amy Grant\)](https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 3:46 |
-| 63 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 62 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 63 | [The Next Time I Fall \(with Amy Grant\)](https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 3:46 |
 | 64 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
 | 65 | [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 |
 | 66 | [I'll Be Loving You \(Forever\)](https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg0VZ8UGKsU.md) - [plain]
 | 77 | [Almost Over You](https://open.spotify.com/track/5mKqa89zAVKXMRY92haT6p) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Best Kept Secret](https://open.spotify.com/album/3H7htkjBX3E1pMkxnJKKq2) | 3:41 |
 | 78 | [Meet Me Half Way \- From "Over The Top" Soundtrack](https://open.spotify.com/track/5CdX4HXMRxyldTVxXDrzSA) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Back To Avalon](https://open.spotify.com/album/5WtMgGIexFuhipmaqUMi3Z) | 3:39 |
 | 79 | [Hold On To The Nights](https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 5:16 |
-| 80 | [That's What Friends Are For \(with Elton John, Gladys Knight & Stevie Wonder\)](https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Greatest Hits 1979\-1990](https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo) | 4:16 |
-| 81 | [Eternal Flame](https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:55 |
+| 80 | [Eternal Flame](https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9) | 3:55 |
+| 81 | [That's What Friends Are For \(with Elton John, Gladys Knight & Stevie Wonder\)](https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Greatest Hits 1979\-1990](https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo) | 4:16 |
 | 82 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 |
 | 83 | [Only You](https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:15 |
 | 84 | [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:26 |
 | 85 | [You're The Best Thing](https://open.spotify.com/track/0Njh4xmjFcX3f8TO1ocdlb) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Cafe Bleu](https://open.spotify.com/album/22OXpzLJTAeZus7DVZmIds) | 5:40 |
 
-Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMGMxNTU2Mzk2MjAyM2YwY2VkMTJiYTEwYjk2ZGNkOTQw`
+Snapshot ID: `MTY1NTM1MjE1NCwwMDAwMDAwMDg5MTk2NTM0NmE2MzI0MzMzYmEyNmY3Nzk2ZDY0Yzg3`

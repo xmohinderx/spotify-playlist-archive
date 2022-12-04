@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,459,822 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,806 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 26 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 |
 | 27 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
 | 28 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
-| 29 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
-| 30 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
+| 29 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
+| 30 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
 | 31 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
 | 32 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
 | 33 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 56 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
 | 57 | [911 \(Remix\)](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 |
 | 58 | [Desconocidos](https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:24 |
-| 59 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 |
-| 60 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
+| 59 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
+| 60 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 |
 | 61 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 |
 | 62 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 |
 | 63 | [Diosa](https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:34 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 97 | [PORFA](https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 3:52 |
 | 98 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 | 99 | [Favorito](https://open.spotify.com/track/0jT8Nl0shPS8115is0wD2Q) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:29 |
-| 100 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 |
+| 100 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 |
 
-Snapshot ID: `MTY2ODIyNzc2NywwMDAwMDAwMGI0ZmQxNGFlNWZhYTc1YjYyYTE5NzQ1ZjZhY2ZkNzI0`
+Snapshot ID: `MTY2ODIyNzc2NywwMDAwMDAwMDI0M2RiM2E4OTZiZTA0OTBmNjNjMTRjMTc3MjZmMGYw`

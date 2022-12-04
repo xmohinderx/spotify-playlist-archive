@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Babasónicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,185 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,246 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 7 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 8 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 |
 | 9 | [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 |
-| 10 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
-| 11 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
+| 10 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
+| 11 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
 | 12 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 |
 | 13 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
 | 14 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 27 | [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 2:56 |
 | 28 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 |
 | 29 | [Me Quedo Aquí](https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:37 |
-| 30 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 |
-| 31 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
+| 30 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
+| 31 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 |
 | 32 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
 | 33 | [Crímenes perfectos](https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:24 |
 | 34 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 43 | [Dos en la ciudad](https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:42 |
 | 44 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
 | 45 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
-| 46 | [Todo Pasa](https://open.spotify.com/track/28lnhTSWkiBngKkT1ik12n) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:38 |
-| 47 | [Desconexión Sideral](https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:51 |
+| 46 | [Desconexión Sideral](https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:51 |
+| 47 | [Todo Pasa](https://open.spotify.com/track/28lnhTSWkiBngKkT1ik12n) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:38 |
 | 48 | [Diez años después](https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:35 |
 | 49 | [Luz](https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Naranja Persa](https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd) | 4:31 |
 | 50 | [Silencio](https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 4:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 70 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
 | 71 | [Siguiendo la Luna](https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 4:39 |
 | 72 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
-| 73 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
+| 73 | [Capital Afectivo](https://open.spotify.com/track/3ig0xkpP1fVJYr9JZW8lwf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:39 |
 | 74 | [Otro Jueves Cobarde](https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 5:20 |
-| 75 | [Capital Afectivo](https://open.spotify.com/track/3ig0xkpP1fVJYr9JZW8lwf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 3:39 |
+| 75 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGQ5ZmQ4NDYxNzk1ZWM1NmY3NTZmMTg3ZGM3MjlkYmMx`
+Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGRlYmZjYjI5NzE2ODI0Mzc5NjU0M2Q5MzAxOTk4Yjc1`

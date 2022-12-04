@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-122 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/7h4pniSIBGlzdMHb6j7Ipo)
+123 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/7h4pniSIBGlzdMHb6j7Ipo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,12 +35,13 @@
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-06-09 | 2022-11-13 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-16 |  |
 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 | 2022-06-09 |  |
+| [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 |  |
 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 | 2022-06-09 |  |
 | [Come My Way](https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Come My Way](https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV) | 3:28 | 2022-06-09 |  |
 | [Confession](https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Confession](https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF) | 3:08 | 2022-06-09 |  |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-10-13 |  |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-06-09 | 2022-10-14 |
-| [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-06-09 |  |
+| [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-06-09 | 2022-12-04 |
 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 | 2022-06-09 |  |
 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-06-09 | 2022-10-04 |
 | [Designer](https://open.spotify.com/track/7F7KrCYzktQutmPOJC3Ba6) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Designer](https://open.spotify.com/album/7tzvON12MgF7hKK8F5AQQx) | 3:01 | 2022-11-15 | 2022-12-03 |

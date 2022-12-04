@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-243 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/2v08rtTK8fGzJTnf0viUcB)
+244 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/2v08rtTK8fGzJTnf0viUcB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 | 2019-09-29\* | 2022-04-14 |
 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 | 2022-06-06 |  |
 | [Aeroplane](https://open.spotify.com/track/4Opwligc8799m8u2zm89Uo) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [Aeroplane](https://open.spotify.com/album/1fwqOrxOXaZpzy26YbPZtY) | 3:51 | 2019-09-29\* | 2022-07-29 |
-| [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2020-10-06 |  |
+| [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-08-01 |  |
+| [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2020-10-06 | 2022-12-04 |
 | [All Is Well](https://open.spotify.com/track/27B803q0KBf9fmoAAK7V9h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [Linton / / Oslo](https://open.spotify.com/album/7c88HZqfqsdRmc7XqYBGny) | 4:16 | 2022-08-01 | 2022-11-14 |
 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 | 2022-06-06 |  |
 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 | 2019-09-29\* | 2022-07-29 |

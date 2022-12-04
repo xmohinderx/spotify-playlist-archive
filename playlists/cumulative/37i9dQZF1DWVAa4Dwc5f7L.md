@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Limi\-T 21
 
-162 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
+163 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/4vB9Ccatfo6RrukvNmcaBi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2022-09-09 |  |
 | [El Comejen](https://open.spotify.com/track/6ihrP0qxTv5AOZfGMVsdK7) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Merengue Clásico ¡Éxitos Latino!](https://open.spotify.com/album/7rzNtSVwXca2Lk5DYJWoUJ) | 4:19 | 2022-01-20 | 2022-07-29 |
 | [El Costo de la Vida](https://open.spotify.com/track/1CHwcGyYGffGjaaM6pAhvM) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areíto](https://open.spotify.com/album/3MNOf8hEnb3H9twYiMww3T) | 4:10 | 2022-01-20 | 2022-07-29 |
-| [El Costo de la Vida](https://open.spotify.com/track/6GLTEoqfb7gLu9pPmD5gLu) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areíto](https://open.spotify.com/album/2fWv7QiXsz8YKIIEtK7oK1) | 4:10 | 2022-09-09 |  |
+| [El Costo de la Vida](https://open.spotify.com/track/6GLTEoqfb7gLu9pPmD5gLu) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areíto](https://open.spotify.com/album/2fWv7QiXsz8YKIIEtK7oK1) | 4:10 | 2022-09-09 | 2022-12-04 |
 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 | 2022-01-20 |  |
 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 | 2022-01-20 |  |
 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 | 2022-01-20 |  |
@@ -80,6 +80,7 @@
 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 | 2022-01-20 |  |
 | [La Bailadora](https://open.spotify.com/track/3Ud3lGER6MKygOhdCuaMHS) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Lluvia De Amor](https://open.spotify.com/album/1FTFQd9HVhWZWw2pWKgjKj) | 4:41 | 2022-01-20 |  |
 | [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 | 2022-01-20 | 2022-12-01 |
+| [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 | 2022-09-09 |  |
 | [La Casa de Ramon](https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [La Casa de Ramon](https://open.spotify.com/album/7Aav5u8nRnCQadbEtDjmjs) | 3:33 | 2022-01-20 | 2022-07-29 |
 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 | 2022-01-20 | 2022-07-28 |
 | [La Faldita](https://open.spotify.com/track/5ghOXrXO9BF76gIkIXcrmT) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Merengue Party, Vol\. 2](https://open.spotify.com/album/2ZWW5nUJ4QfnpXNBi259wO) | 3:50 | 2022-01-20 |  |

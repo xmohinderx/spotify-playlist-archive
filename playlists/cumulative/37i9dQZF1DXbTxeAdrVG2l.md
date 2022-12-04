@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s.
 
-700 songs - 2 day 1 hr 38 min - [published](https://open.spotify.com/playlist/1RUV9dGsKNifOhk3c3Xq5f)
+701 songs - 2 day 1 hr 44 min - [published](https://open.spotify.com/playlist/1RUV9dGsKNifOhk3c3Xq5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Groove Is in the Heart](https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Rhino Hi\-Five: Deee\-Lite](https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM) | 3:51 | 2019-07-28 | 2022-07-29 |
 | [Gypsy Woman \- La da Dee La Da](https://open.spotify.com/track/1xIYx9XrkjOtmEUpBTP4GU) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Very Best of 90's, Vol\. 2 \(The Feeling Collection\)](https://open.spotify.com/album/6GMHov2SysCLGKzdOpZnA6) | 3:37 | 2019-08-01 | 2019-08-27 |
 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 | 2019-07-17 | 2022-04-21 |
+| [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2022-11-11 |  |
 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 | 2022-06-02 | 2022-07-25 |
 | [Have You Ever Really Loved A Woman?](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 | 2020-12-22 | 2022-11-14 |
 | [Have You Ever? \- Radio Edit](https://open.spotify.com/track/1jisR33Bck5thSyt75iR2c) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [The Best of Brandy](https://open.spotify.com/album/2W8fU1wJz9sGDmwMBcQBRX) | 3:34 | 2019-05-30 | 2020-05-14 |
@@ -522,7 +523,7 @@
 | [Self Esteem](https://open.spotify.com/track/6PVMOFV7IjuP7LxulzSA43) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/5SLfrjQtPxbh5Cf1dukV7g) | 4:17 | 2019-07-21 | 2022-04-16 |
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2019-06-21 |  |
 | [Sexbomb](https://open.spotify.com/track/6KHXp9QKpRuBQPLDOiZlsV) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Reload](https://open.spotify.com/album/5u0s60EjjOZDewkJIZ6GS2) | 3:31 | 2020-06-12 | 2022-04-19 |
-| [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 | 2019-05-26\* |  |
+| [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 | 2019-05-26\* | 2022-12-04 |
 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 | 2020-04-10 | 2022-07-07 |
 | [Shimmer](https://open.spotify.com/track/6WdoToI0z5f4A4kbZ3SXoa) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Sunburn](https://open.spotify.com/album/4Gwwl4Om12HKjYgYs3mIj2) | 3:34 | 2019-07-17 | 2022-04-19 |
 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 | 2019-06-21 |  |

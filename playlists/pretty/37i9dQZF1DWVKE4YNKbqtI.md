@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,963 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,971 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 23 | [The Bottle Wins Again](https://open.spotify.com/track/7c2FB64ULKN97mjU5wvIyQ) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:38 |
 | 24 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 |
 | 25 | [One Monkey Don't Stop The Show](https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Sonny Is King](https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd) | 3:09 |
-| 26 | [Cotton Mouth Man](https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Cotton Mouth Man](https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS) | 3:47 |
+| 26 | [Cotton Mouth Man](https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cotton Mouth Man](https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS) | 3:47 |
 | 27 | [Blues On The Moon](https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Louisiana Legend](https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa) | 2:56 |
 | 28 | [The Wine Talkin'](https://open.spotify.com/track/4jwpFbAnl9e5fsMbhVZgjV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:49 |
-| 29 | [Nobody But You](https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y) | [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [Roots And Branches \- The Songs Of Little Walter](https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz) | 3:07 |
+| 29 | [Nobody But You](https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y) | [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y) | [Roots And Branches \- The Songs Of Little Walter](https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz) | 3:07 |
 | 30 | [Ain't Seen My Baby](https://open.spotify.com/track/5r1gF2DneZC8pBL86SDarK) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Shoulder To Shoulder](https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV) | 3:22 |
 | 31 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
 | 32 | [Jason Solo](https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 6:02 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 38 | [Who's the Fool](https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ) | [Harmonica Shah](https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR) | [Live at the Cove](https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF) | 5:37 |
 | 39 | [Pontiac Blues](https://open.spotify.com/track/7tmwXdsYe2tfm0HCNXQCNT) | [Magic Dick](https://open.spotify.com/artist/1yGvrxUBauXDFNMY14v2xh), [Jay Geils](https://open.spotify.com/artist/1UgjeijAwImO8WTt2WSum0) | [Bluestime](https://open.spotify.com/album/1ZqrooRcmaGlmQptJRKuxu) | 5:19 |
 | 40 | [Can't Believe It's This Good](https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 3:37 |
-| 41 | [Key To The Highway](https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp) | [Jazz Gillum](https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg) | [Jazz Gillum Vol\. 2 1938\-1941](https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6) | 2:43 |
-| 42 | [Mood Room Boogie](https://open.spotify.com/track/71Vue1WdbaB8aP79Nmhd76) | [Jerry Portnoy](https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU) | [Down in the Mood Room](https://open.spotify.com/album/1jJumcgFYNfC07qBagJwKL) | 4:13 |
+| 41 | [Mood Room Boogie](https://open.spotify.com/track/71Vue1WdbaB8aP79Nmhd76) | [Jerry Portnoy](https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU) | [Down in the Mood Room](https://open.spotify.com/album/1jJumcgFYNfC07qBagJwKL) | 4:13 |
+| 42 | [Key To The Highway](https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp) | [Jazz Gillum](https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg) | [Jazz Gillum Vol\. 2 1938\-1941](https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6) | 2:43 |
 | 43 | [Harpoventilatin'](https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR) | [Mark Hummel](https://open.spotify.com/artist/6tThEAJKUsHlj0ALfRObEP) | [Harpbreaker](https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX) | 3:44 |
 | 44 | [Callin' All Fools](https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [One Wrong Turn](https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl) | 5:13 |
 | 45 | [Honky Tonk Parts 1 & 2](https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0) | [Jerry "Boogie" McCain](https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do) | [Abolutely the Best: The Complete Jewel Singles 1965\-1972](https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [Levee Camp Moan](https://open.spotify.com/track/5P3AlDI4rXsBxU4YC3rkL2) | [Forest City Joe](https://open.spotify.com/artist/4lrsWNPzvfhQioDHFarekQ) | [Best of Blues Vol\. 8: Forrest City Joe \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/75TS3pJaEN702DolImKo8K) | 5:19 |
 | 50 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDgzZDVhOTMzMWU3NjYyOWI4MzZhYmVkNWNkYjFjNjRk`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDYzZjMwNWVhZDNlMDljMDQ4MTExNGVmNGU0NmQ2MDNi`

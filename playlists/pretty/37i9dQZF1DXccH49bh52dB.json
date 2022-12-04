@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 377059,
+  "num_followers": 377364,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGQ1MTQ1ZDNkYjMxMGU2MTA2NzgyYzVkM2RmYTZlMTBl",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDAzODU1ZjU2MmVjOWZkYWE1NTZhZjE0ZjY1Yzk3ODUy",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 201680,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Sex",
         "url": "https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 228361,
       "name": "Sex",
       "url": "https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2022-01-18 14:54:04",

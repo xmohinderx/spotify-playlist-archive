@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 54379,
+  "num_followers": 54745,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc5NzQyNSwwMDAwMDAwMDFhNWM3ZWQ3MDI4Mjg5MzYzYzBkZTI1YTdiNjI5MWQy",
+  "snapshot_id": "MTY2OTc5NzQyNSwwMDAwMDAwMGI2ZmVlOTgxMGNiMzcyZjc3ZjliNDdhODBiYWQ2YTNh",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Behold",
-        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 256443,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -527,8 +527,8 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
       },
       "artists": [
         {
@@ -536,13 +536,13 @@
           "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         },
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 194133,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
+      "duration_ms": 166853,
+      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -615,6 +615,42 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
@@ -631,42 +667,6 @@
       "duration_ms": 155641,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 166853,
-      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -791,22 +791,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+        "name": "Baby It's Cold Outside",
+        "url": "https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ"
       },
       "artists": [
         {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Canterbury Cathedral Girls' Choir",
-          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 248746,
-      "name": "Rest in Peace",
-      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
+      "duration_ms": 222226,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/6tMkZkSFdsDC7OxUAWFpMc"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -827,18 +823,38 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Baby It's Cold Outside",
-        "url": "https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ"
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
       "artists": [
         {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Canterbury Cathedral Girls' Choir",
+          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
         }
       ],
-      "duration_ms": 222226,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/6tMkZkSFdsDC7OxUAWFpMc"
+      "duration_ms": 248746,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -875,18 +891,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+        "name": "Jazz To The World",
+        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 206026,
-      "name": "Winter Wonderland - 1959 Version",
-      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
+      "duration_ms": 177293,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 166613,
       "name": "Sleighride",
       "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Jazz To The World",
-        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
-      },
-      "artists": [
-        {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

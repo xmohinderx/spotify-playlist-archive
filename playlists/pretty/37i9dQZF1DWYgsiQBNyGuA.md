@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,489 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,543 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,21 +43,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 33 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
 | 34 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 |
 | 35 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 |
-| 36 | [Follow the Sunshine](https://open.spotify.com/track/1gbVT4Och2a9kk3mtpEYQw) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Follow the Sunshine](https://open.spotify.com/album/6yoF9geojHAisLNofJYTwg) | 3:01 |
+| 36 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 |
 | 37 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
 | 38 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
 | 39 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
 | 40 | [All I Ever Wonder](https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:29 |
 | 41 | [Starry Eyes](https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:18 |
-| 42 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 |
+| 42 | [Follow the Sunshine](https://open.spotify.com/track/1gbVT4Och2a9kk3mtpEYQw) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Follow the Sunshine](https://open.spotify.com/album/6yoF9geojHAisLNofJYTwg) | 3:01 |
 | 43 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
-| 44 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
-| 45 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |
+| 44 | [...Til the Cops Come Knockin' \- Remastered 2021](https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 6:55 |
+| 45 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
 | 46 | [Things We Do for Love](https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [The Sha La Das](https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:28 |
 | 47 | [Stop By](https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 5:54 |
 | 48 | [Every Day a Dream](https://open.spotify.com/track/4EGhtRnsa6DoGImFOzVzLd) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Crossing](https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB) | 3:53 |
-| 49 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
-| 50 | [Honest Man](https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2) | 5:25 |
+| 49 | [Honest Man](https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2) | 5:25 |
+| 50 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
 | 51 | [Just The Two Of Us](https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Lean On Me \- The Songs Of Bill Withers \(Bonustrack Edition\)](https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh) | 4:20 |
 | 52 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 |
 | 53 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 77 | [Sunny Days](https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Bags & Suitcases](https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm) | 3:29 |
 | 78 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take From Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
 | 79 | [There Goes My Sanity](https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn) | [Lynden David Hall](https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ) | [Medicine 4 My Pain](https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK) | 5:16 |
-| 80 | [O\-O\-H Child](https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:05 |
+| 80 | [My Home \(Love Brings Us Here\)](https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [My Home \(Love Brings Us Here\) \- Single](https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB) | 3:33 |
 
-Snapshot ID: `MTY2ODY3Mzk5MiwwMDAwMDAwMDA3YmNmNzJkNmJkYzhhN2NlYjdlMjVjNTdjYzI1Y2Jk`
+Snapshot ID: `MTY2ODY3Mzk5MiwwMDAwMDAwMDNkMDcyZGUzMzg3YzhlYTI2ZjAxMjhhNzY0MmJiY2Ix`

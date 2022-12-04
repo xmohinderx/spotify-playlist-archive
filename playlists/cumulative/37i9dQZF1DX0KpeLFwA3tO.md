@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Against The Current
 
-767 songs - 1 day 14 hr 29 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+768 songs - 1 day 14 hr 31 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-03-31 | 2022-05-21 |
 | [Battleford 1885](https://open.spotify.com/track/4xILoU3BboA4Ue5bpzb4gl) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Battleford 1885](https://open.spotify.com/album/4bRlT2jbfJEcHKQyU5zlqp) | 2:10 | 2022-06-02 | 2022-07-15 |
 | [Beautiful Out](https://open.spotify.com/track/3w3QOkPyhaGPaechBsxTE0) | [Worst Party Ever](https://open.spotify.com/artist/2bLENLdxlsq2xbvzMa1SUG) | [Beautiful Out](https://open.spotify.com/album/0MLwq2J3bl3yWfT554oNum) | 2:19 | 2021-12-17 | 2022-02-25 |
-| [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-13 |  |
+| [Beauty and Grace](https://open.spotify.com/track/3EpMDkSTWJaP7QCoqkKbSn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:09 | 2022-11-25 |  |
+| [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 | 2022-10-13 | 2022-12-04 |
 | [beginners' krav maga](https://open.spotify.com/track/73cVv3i5m47vfiNnhaxTQ8) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [beginners' krav maga](https://open.spotify.com/album/5U0iDRNChDuXvbRWtx7yKu) | 2:38 | 2022-01-21 | 2022-02-25 |
 | [Benchwarmer](https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Benchwarmer](https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV) | 3:09 | 2022-07-14 | 2022-08-19 |
 | [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-10-06 | 2022-11-18 |

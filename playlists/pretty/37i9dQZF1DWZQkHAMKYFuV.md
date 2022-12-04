@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,808 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,883 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 44 | [¡Corre!](https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:48 |
 | 45 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
 | 46 | [Prometiste](https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 5:05 |
-| 47 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
-| 48 | [Olha A Explosão](https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Olha A Explosão](https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg) | 2:42 |
+| 47 | [Olha A Explosão](https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Olha A Explosão](https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg) | 2:42 |
+| 48 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
 | 49 | [Muerte En Hawaii](https://open.spotify.com/track/3kNVYo6BJE9AENxzokM9YC) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 3:09 |
 | 50 | [Ay Mi Dios](https://open.spotify.com/track/5Uel5PmPBZICA0TQTI912U) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Ay Mi Dios](https://open.spotify.com/album/5mL2ReCP9gU2mPnC3SKERE) | 4:12 |
 | 51 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 76 | [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 |
 | 77 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 |
 | 78 | [Shaky Shaky](https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Shaky Shaky](https://open.spotify.com/album/0j74hxgbgc4THmz7rasxgn) | 3:54 |
-| 79 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 |
-| 80 | [Mayores](https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mayores](https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o) | 3:22 |
+| 79 | [Mayores](https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mayores](https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o) | 3:22 |
+| 80 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 |
 | 81 | [Vacaciones](https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 3:58 |
 | 82 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
 | 83 | [Desconocidos](https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Desconocidos](https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ) | 3:24 |
 | 84 | [Ando Bien Pedo](https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:24 |
 | 85 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
 
-Snapshot ID: `MTY2MTkzMDIxMSwwMDAwMDAwMDNmNWExNmNjNGZjNmU0ZDJhODQ5OTU0NWI4MjNiYTcx`
+Snapshot ID: `MTY2MTkzMDIxMSwwMDAwMDAwMDFlMGEwODM5YzcwMjM5ZGQyOWNlNjlhMzU0MDY0NmQx`

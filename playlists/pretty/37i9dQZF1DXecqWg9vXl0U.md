@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Bella Álvarez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,142 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,201 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,21 +55,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 45 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
 | 46 | [Never Felt This Before](https://open.spotify.com/track/6wlwBbeNhohbrPfCxRGBYe) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 1:50 |
 | 47 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
-| 48 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
-| 49 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 |
+| 48 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 |
+| 49 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
 | 50 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
 | 51 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
 | 52 | [Gravedad](https://open.spotify.com/track/5q7BpsT3LJ4Il38ksJlDU1) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Gravedad](https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN) | 4:25 |
 | 53 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
 | 54 | [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 |
 | 55 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
-| 56 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
-| 57 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
+| 56 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
+| 57 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
 | 58 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 |
-| 59 | [Invisible](https://open.spotify.com/track/66F9zo1pdOLL9gOqfIbHas) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Invisible](https://open.spotify.com/album/3dstM2Jz0agjIjoAnLERf8) | 2:24 |
+| 59 | [sinceramente](https://open.spotify.com/track/3e4rhcRKFv0BCErSSQ8sBy) | [Conttra](https://open.spotify.com/artist/0xRizCdjBtIyBeMCLDkcBg), [Strange Frequency](https://open.spotify.com/artist/5uj2Fb3Gbj083ASKjgMEpp) | [sinceramente](https://open.spotify.com/album/3BkhLug7E1F3HuJXRcS30c) | 3:48 |
 | 60 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 |
-| 61 | [sinceramente](https://open.spotify.com/track/3e4rhcRKFv0BCErSSQ8sBy) | [Conttra](https://open.spotify.com/artist/0xRizCdjBtIyBeMCLDkcBg), [Strange Frequency](https://open.spotify.com/artist/5uj2Fb3Gbj083ASKjgMEpp) | [sinceramente](https://open.spotify.com/album/3BkhLug7E1F3HuJXRcS30c) | 3:48 |
-| 62 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
+| 61 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
+| 62 | [Invisible](https://open.spotify.com/track/66F9zo1pdOLL9gOqfIbHas) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Invisible](https://open.spotify.com/album/3dstM2Jz0agjIjoAnLERf8) | 2:24 |
 | 63 | [Como Nadie](https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys) | [Jardín](https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP) | [Como Nadie](https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT) | 3:47 |
 | 64 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
 | 65 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Café](https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Café](https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g) | 3:13 |
 | 75 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 |
 
-Snapshot ID: `MTY2OTk2MDgwMCwwMDAwMDAwMGEwNWMzNWMwZTRmYjAwOTdkYmVlNDk1MjU2NzIxNDZl`
+Snapshot ID: `MTY2OTk2MDgwMCwwMDAwMDAwMDBhYWIyYjQyMjI0NzMwN2UzNzNkMjM4MTI0NzQzNjc5`

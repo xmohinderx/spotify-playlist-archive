@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,434 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,441 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 18 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 |
 | 19 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 |
 | 20 | [Mr\. Sandman](https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn) | 3:26 |
-| 21 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
-| 22 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 |
+| 21 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 |
+| 22 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 23 | [Stand By Me](https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO) | 4:05 |
 | 24 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 |
 | 25 | [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 29 | [Dancing in the Dark](https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Blood & Rust](https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder) | 3:59 |
 | 30 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 |
 | 31 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 |
-| 32 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
-| 33 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
+| 32 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
+| 33 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
 | 34 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
 | 35 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |
 | 36 | [Electric Feel](https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Electric Feel](https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L) | 3:19 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 43 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 |
 | 44 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 |
 | 45 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 |
-| 46 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 |
-| 47 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 |
-| 48 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
+| 46 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 |
+| 47 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
+| 48 | [Let It Be](https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk) | 2:28 |
 | 49 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
 | 50 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 |
 
-Snapshot ID: `MTU1MDg2Njc4NiwwMDAwMDAwMGZkZDc4YzcxY2Q1MzNjOTRiNmI3NTY2YjUwMzNlN2Uz`
+Snapshot ID: `MTU1MDg2Njc4NiwwMDAwMDAwMGVkOWYzMDQwYWJlZmYxYWJjY2VjNmQ4ZTkzMzQ0ZjJj`

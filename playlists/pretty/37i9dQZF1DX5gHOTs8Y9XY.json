@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 134749,
+  "num_followers": 135036,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMwNDg2NCwwMDAwMDAwMDVhODA1YTk4OTM0ZGMzNDljOGI2ZGVmNmEzN2I4Y2Nj",
+  "snapshot_id": "MTY2OTMwNDg2NCwwMDAwMDAwMDIwYTYzZjdjMWJkY2NhMjVhZDk1NzhmNzhlOTJjMjI4",
   "tracks": [
     {
       "added_at": "2022-11-23 12:56:06",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-11-23 12:56:06",
       "album": {
-        "name": "Moanin' (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
-        }
-      ],
-      "duration_ms": 570720,
-      "name": "Moanin' - Remastered",
-      "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
-    },
-    {
-      "added_at": "2022-11-23 12:56:06",
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 320773,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
+    },
+    {
+      "added_at": "2022-11-23 12:56:06",
+      "album": {
+        "name": "Moanin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+        }
+      ],
+      "duration_ms": 570720,
+      "name": "Moanin' - Remastered",
+      "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
     },
     {
       "added_at": "2022-11-23 12:56:06",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-11-23 12:56:06",
       "album": {
-        "name": "Nice 'n' Easy (2020 Mix)",
-        "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "You Go To My Head - 2020 Mix",
-      "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
-    },
-    {
-      "added_at": "2022-11-23 12:56:06",
-      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 482440,
       "name": "Blue Bossa - Remastered",
       "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
+    },
+    {
+      "added_at": "2022-11-23 12:56:06",
+      "album": {
+        "name": "Nice 'n' Easy (2020 Mix)",
+        "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "You Go To My Head - 2020 Mix",
+      "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
     },
     {
       "added_at": "2022-11-23 12:56:06",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-11-23 12:56:06",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 403640,
+      "name": "Blue Rondo \u00e0 la Turk",
+      "url": "https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST"
+    },
+    {
+      "added_at": "2022-11-23 12:56:06",
+      "album": {
         "name": "Kind Of Blue",
         "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 586493,
       "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
       "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
-    },
-    {
-      "added_at": "2022-11-23 12:56:06",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 403640,
-      "name": "Blue Rondo \u00e0 la Turk",
-      "url": "https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST"
     },
     {
       "added_at": "2022-11-23 12:56:06",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-11-23 12:56:06",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
-    },
-    {
-      "added_at": "2022-11-23 12:56:06",
-      "album": {
         "name": "The Swingin's Mutual (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 180200,
       "name": "The Nearness Of You - Remastered",
       "url": "https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo"
+    },
+    {
+      "added_at": "2022-11-23 12:56:06",
+      "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
     },
     {
       "added_at": "2022-11-23 12:56:06",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-11-23 12:56:06",
       "album": {
-        "name": "Teresa Brewer And The Dixieland Band",
-        "url": "https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla"
+        "name": "Jazz Volume: Oscar Peterson",
+        "url": "https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ"
       },
       "artists": [
         {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 225312,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb"
+      "duration_ms": 250853,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/1EI2LEt7o54SZhbxCJYrms"
     },
     {
       "added_at": "2022-11-23 12:56:06",

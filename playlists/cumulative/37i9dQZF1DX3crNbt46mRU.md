@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Loredana
 
-4,413 songs - 9 day 9 hr 22 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+4,414 songs - 9 day 9 hr 24 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,7 +919,8 @@
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-09-23 |
 | [Dankbar](https://open.spotify.com/track/2yPotqvvAfRrMRdgnI0jj8) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Dankbar](https://open.spotify.com/album/6G1DA2iBQToTYthlKNJ4K4) | 3:00 | 2022-11-24 | 2022-12-02 |
 | [Dann mit der Pumpgun 2.0 \(feat\. Azad & Kool Savas\)](https://open.spotify.com/track/6QK8wU6IawkqBGh0ARuXAX) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Mainpark Baby](https://open.spotify.com/album/2mLGeHnFL0oDwDHyoCmyTp) | 3:19 | 2022-12-01 |  |
-| [Dans l'appart'](https://open.spotify.com/track/6h8BhAsca4Yes3lwMqDGgJ) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/4QOXZfgxVwmR8e3wNuimRo) | 2:17 | 2022-12-01 |  |
+| [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 | 2022-12-01 |  |
+| [Dans l'appart'](https://open.spotify.com/track/6h8BhAsca4Yes3lwMqDGgJ) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/4QOXZfgxVwmR8e3wNuimRo) | 2:17 | 2022-12-01 | 2022-12-04 |
 | [Dans les règles](https://open.spotify.com/track/2alIDGhHXNyYP0EcqHJXbE) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6gSQuY4uHKWzLXMnx1Hezx) | 3:12 | 2022-03-31 | 2022-04-08 |
 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 | 2022-09-23 | 2022-09-30 |
 | [Dark Room Dancing](https://open.spotify.com/track/679SXsixSVonKMi6nC4v7o) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Moon](https://open.spotify.com/album/2jCMxN3Ys1PCq6FQBEwM5L) | 4:37 | 2022-06-16 | 2022-06-24 |
@@ -3427,7 +3428,7 @@
 | [Sick Of Being Sad](https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Sick Of Being Sad](https://open.spotify.com/album/4FD9TVJXqsT3OuCR1jZjXP) | 2:43 | 2022-04-07 | 2022-04-15 |
 | [Sick Of Love](https://open.spotify.com/track/0AyH5W6IAE2r5cLo1IUiDt) | [LOVE SICK](https://open.spotify.com/artist/3oX23qsyfFiuzyXDBbmhXO) | [Sick Of Love](https://open.spotify.com/album/5N2xEFICkPnSbI6p5dx8qZ) | 2:37 | 2022-10-13 | 2022-10-21 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-09-29 | 2022-10-07 |
-| [Side by Side](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hugh Laurie](https://open.spotify.com/artist/5WM5zPOswRcPu07rxP2dQv) | [Side by Side](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 | 2022-12-01 |  |
+| [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 | 2022-12-01 |  |
 | [Sidebag](https://open.spotify.com/track/7hKSpPloWNguCnr8kNqg2C) | [Zaba](https://open.spotify.com/artist/77sT35eJQjKHVHtoUJKPLj), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Sidebag](https://open.spotify.com/album/7fiJBJ9tIIMQOECK9JY7pf) | 2:22 | 2022-04-28 | 2022-05-06 |
 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2022-04-14 | 2022-04-22 |
 | [Sideways](https://open.spotify.com/track/72gTwGkP2OzBELgIVg5b4J) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [We May Grow Old But We Never Grow Up](https://open.spotify.com/album/0hWlyiXKg65Wm8T99Uo8OZ) | 3:29 | 2022-06-16 | 2022-06-24 |

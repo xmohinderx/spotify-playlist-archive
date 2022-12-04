@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 40807,
+  "num_followers": 40852,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMDkwMTNlNjBmZWRjNWU5YjAyOTdkN2YzNmE2Mjk0ZjRi",
+  "snapshot_id": "MTY0Njg5NjIwMywwMDAwMDAwMGExZjA5NjNjMjlhZDJmZDJhZTE4ZmFhZmRkZDE3NDVk",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
         }
       ],
-      "duration_ms": 617000,
-      "name": "La Ilaha Illa Allah",
-      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
+      "duration_ms": 440011,
+      "name": "Bania Bambara",
+      "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
         }
       ],
-      "duration_ms": 440011,
-      "name": "Bania Bambara",
-      "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
+      "duration_ms": 617000,
+      "name": "La Ilaha Illa Allah",
+      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -575,8 +575,8 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Allah ya so",
-        "url": "https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0"
+        "name": "Colours of the Night",
+        "url": "https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
         }
       ],
-      "duration_ms": 372558,
-      "name": "Soltani",
-      "url": "https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS"
+      "duration_ms": 530803,
+      "name": "Shaba Kouria",
+      "url": "https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -739,8 +739,8 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Colours of the Night",
-        "url": "https://open.spotify.com/album/73B5ghcGOwmrl3J3Yw2mxA"
+        "name": "Allah ya so",
+        "url": "https://open.spotify.com/album/59Hw4NDvn1pMe5uqD5bEt0"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
         }
       ],
-      "duration_ms": 530803,
-      "name": "Shaba Kouria",
-      "url": "https://open.spotify.com/track/6tghScpQTCpuhlhkrVztdO"
+      "duration_ms": 372558,
+      "name": "Soltani",
+      "url": "https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
-      },
-      "artists": [
-        {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
-        }
-      ],
-      "duration_ms": 550106,
-      "name": "Marhba / Gnawa Sidi Mimoun",
-      "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Oulad Lghaba",
         "url": "https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN"
       },
@@ -843,22 +823,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 323615,
-      "name": "Bangara",
-      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Gnawa Njoum Experience",
         "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
@@ -875,6 +839,22 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 323615,
+      "name": "Bangara",
+      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
         "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 201773,
       "name": "Fangara Fangari\u00e9 - Ouled Bambara",
       "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+      },
+      "artists": [
+        {
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+        }
+      ],
+      "duration_ms": 550106,
+      "name": "Marhba / Gnawa Sidi Mimoun",
+      "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
     },
     {
       "added_at": "2022-03-10 07:10:03",

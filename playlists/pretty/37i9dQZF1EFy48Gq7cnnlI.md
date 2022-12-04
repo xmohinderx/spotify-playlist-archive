@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541 likes - 89 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 89 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 12 | [BLUE](https://open.spotify.com/track/2pmO8V5TEDZqsrcaxSucpj) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:31 |
 | 13 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 |
 | 14 | [Lucky Strike](https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:28 |
-| 15 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 |
-| 16 | [Say](https://open.spotify.com/track/5VjTlCuX8C11QDunDwvyNh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 3:47 |
+| 15 | [Say](https://open.spotify.com/track/5VjTlCuX8C11QDunDwvyNh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 3:47 |
+| 16 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 |
 | 17 | [Real Thing](https://open.spotify.com/track/24KD18eYQQQWaSW9Von1vA) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:12 |
 | 18 | [I Believe You](https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [I Believe You](https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7) | 3:12 |
 | 19 | [HEAVEN](https://open.spotify.com/track/5VrgqxF4HM4NgCboCTbMnL) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 4:21 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 88 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
 | 89 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 
-Snapshot ID: `Mjc4MzM4MzQsMDAwMDAwMDBmMTcxMzQwYmExMWUyYzAzZDhkZDk2Njc5ZTAyMTQxMA==`
+Snapshot ID: `Mjc4MzUyNzMsMDAwMDAwMDAyMjBlN2VlZWY2YzMzNTAxZjZjNmZkZTNkYTA1M2IyOA==`

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-150 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+151 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Aquarium Kisses](https://open.spotify.com/track/0Bp2D0RD5GF83GRh1iMbav) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Aquarium Kisses](https://open.spotify.com/album/2GTlATmh5ktYJyi3NM1Fs9) | 3:42 | 2022-05-20 |  |
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2022-04-08 | 2022-05-21 |
 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 | 2022-04-08 |  |
-| [Beige](https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78) | 3:22 | 2022-04-08 |  |
+| [Beige](https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78) | 3:22 | 2022-04-08 | 2022-12-04 |
+| [Beige](https://open.spotify.com/track/7yiNQMIKNj9tZvhRxscbg2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/5khD0TiegRGYelA8ju93qj) | 3:22 | 2022-11-18 |  |
 | [Best I Can Do \- Alternative version](https://open.spotify.com/track/3SRzNd2pvcRrQgO1a7cZ82) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [How To Belong](https://open.spotify.com/album/0ujaVLfsY5PPAznqSG8QD7) | 3:47 | 2022-04-08 | 2022-08-27 |
 | [Bible](https://open.spotify.com/track/2YWhFsixQdDGS391Wom0s4) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Bible](https://open.spotify.com/album/7nidHGnHANwdtpPgJvPQUY) | 3:21 | 2022-04-08 |  |
 | [Blood Moon](https://open.spotify.com/track/4CEHrmFFbvlf0CFAWm2W7Z) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Blood Moon](https://open.spotify.com/album/14ZX1sy4hoqCsiMSL2cd0T) | 2:36 | 2022-04-08 | 2022-07-02 |

@@ -1269,10 +1269,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 261064,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm"
+    },
+    {
+      "album": {
+        "name": "Bloodshot",
+        "url": "https://open.spotify.com/album/0XrVDH3fJ24Q0kz9pu0wPK"
+      },
+      "artists": [
+        {
+          "name": "The Mammoths",
+          "url": "https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261064,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/77fbCsljxxMr0y7BvmUwJ0"
     },
     {
       "album": {

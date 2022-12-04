@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,000 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,201 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 38 | [Dust My Broom](https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 |
 | 39 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 |
 | 40 | [That's All I Need](https://open.spotify.com/track/2DODPLqY24UuvUokVh2JwF) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Mack Thompson](https://open.spotify.com/artist/26n6ojDqVMAInlzCRGzVxF), [Odie Payne III](https://open.spotify.com/artist/4tcSBbry63txTgC08PNmou) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 3:18 |
-| 41 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
-| 42 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
-| 43 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
+| 41 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
+| 42 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
+| 43 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 44 | [Killing Floor](https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT) | [The Electric Flag](https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl) | [A Long Time Comin'](https://open.spotify.com/album/5816bqBdozCXD95olZoLHk) | 4:09 |
 | 45 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 |
 | 46 | [Born In Chicago](https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Blues Brothers 2000](https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ) | 3:05 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 53 | [Ain't Superstitious](https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:30 |
 | 54 | [Nine Below Zero](https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [His Best](https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj) | 3:27 |
 | 55 | [All for Business](https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Chicago Blues Legend](https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI) | 3:19 |
-| 56 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
+| 56 | [Shake Your Moneymaker](https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:13 |
 | 57 | [The Stumble](https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:51 |
-| 58 | [Shake Your Moneymaker](https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:13 |
+| 58 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
 | 59 | [Wound Up Tight](https://open.spotify.com/track/3a4PKaIVUkFTl2k9PV93yh) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Wound Up Tight](https://open.spotify.com/album/3dvXGTbdS5eesvKcBTOkXM) | 5:18 |
 | 60 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
 
-Snapshot ID: `MTY2ODYxNzQ2OCwwMDAwMDAwMGQwZjU5NjgxNTdhMDdhNzM5ZDg3NDQ0MWU1NmUzZjdm`
+Snapshot ID: `MTY2ODYxNzQ2OCwwMDAwMDAwMGFkZDU4ZGRmNjJmNDRmNmQwOTdmZGU4M2JkMDcwMDZh`

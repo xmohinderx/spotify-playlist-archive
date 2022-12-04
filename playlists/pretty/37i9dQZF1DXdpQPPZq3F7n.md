@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Best Bollywood love songs from last 10 years\. Cover\- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,637 likes - 96 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,372 likes - 96 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 23 | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn) | [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x) | 5:09 |
 | 24 | [Meri Jaan](https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM) | 3:58 |
 | 25 | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/track/6h6kOAlIeWdsqNopumppU5) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/album/1okf7DbIC5vVPmU0p7dsQb) | 5:30 |
-| 26 | [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 |
+| 26 | [Mehabooba \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/4g5o1pEVeXJZi4OiWlTpGJ) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Telugu Latest Love Hits](https://open.spotify.com/album/4H7ZHLm19o7rt6xnFLnu60) | 3:32 |
 | 27 | [Soch Liya \(From "Radhe Shyam"\)](https://open.spotify.com/track/3gc2Rho0Tn8i4LBgf6f2O5) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Soch Liya \(From "Radhe Shyam"\)](https://open.spotify.com/album/0WtqXJA0EiOtn2fEVOQAxq) | 4:43 |
 | 28 | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/4lmtILzOIIvOzMBPMUzvKx) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/5y3SQgGGSM3nwRiIsdllq2) | 4:00 |
 | 29 | [Ik Tu Hai ❤️ \(From "Attack"\)](https://open.spotify.com/track/2q9biTikX9PkTbzDCZfEn7) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Ik Tu Hai ❤️ \(From "Attack"\)](https://open.spotify.com/album/12Uw6AwN2hQAWILBaX4cM4) | 4:10 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 95 | [Ishq Wala Love](https://open.spotify.com/track/1hQia6rxgfM1ly2hE3StWp) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 4:17 |
 | 96 | [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Agent Vinod](https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr) | 4:03 |
 
-Snapshot ID: `MTY2NzYyODI1MCwwMDAwMDAwMDUwZmUxOTllY2VjMWZjNTBlZmFlOTQ5Y2M2ZmVlNWFj`
+Snapshot ID: `MTY2NzYyODI1MCwwMDAwMDAwMDAzMWZlZmRjMDhkMTY4ZjgzMTYxMTk1NGI4YzYxN2M0`

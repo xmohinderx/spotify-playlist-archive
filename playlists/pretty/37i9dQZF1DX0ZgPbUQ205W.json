@@ -1,12 +1,12 @@
 {
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
-  "num_followers": 63737,
+  "num_followers": 63809,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMGU0ODMxY2NkNWQ5NjQ1MDMwMDBiMjk2ODQyMGU1MDdj",
+  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMGMwNjQ4YWExODFmMDY4MmZhZjIzYjMyZTZhMjNkNTYx",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "I Saw The Sun",
+        "url": "https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "duration_ms": 260540,
+      "name": "I Saw The Sun",
+      "url": "https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Akaishi",
         "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
       },
@@ -347,38 +363,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Sails",
-        "url": "https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm"
-      },
-      "artists": [
-        {
-          "name": "Manor Blue",
-          "url": "https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q"
-        }
-      ],
-      "duration_ms": 207663,
-      "name": "Sails",
-      "url": "https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "I Saw The Sun",
-        "url": "https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM"
-      },
-      "artists": [
-        {
-          "name": "Nick Osman Trio",
-          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
-        }
-      ],
-      "duration_ms": 260540,
-      "name": "I Saw The Sun",
-      "url": "https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "You Softly Breathe",
         "url": "https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 196114,
       "name": "You Softly Breathe",
       "url": "https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Sails",
+        "url": "https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm"
+      },
+      "artists": [
+        {
+          "name": "Manor Blue",
+          "url": "https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q"
+        }
+      ],
+      "duration_ms": 207663,
+      "name": "Sails",
+      "url": "https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -423,6 +423,22 @@
       "duration_ms": 193237,
       "name": "Forever Promises",
       "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Home Of My Tomorrow",
+        "url": "https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu"
+      },
+      "artists": [
+        {
+          "name": "Clover Post",
+          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
+        }
+      ],
+      "duration_ms": 188461,
+      "name": "Home Of My Tomorrow",
+      "url": "https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -471,22 +487,6 @@
       "duration_ms": 203348,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Home Of My Tomorrow",
-        "url": "https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu"
-      },
-      "artists": [
-        {
-          "name": "Clover Post",
-          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
-        }
-      ],
-      "duration_ms": 188461,
-      "name": "Home Of My Tomorrow",
-      "url": "https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "The Reasons That I Love You",
-        "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
-      },
-      "artists": [
-        {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
-        }
-      ],
-      "duration_ms": 280938,
-      "name": "The Reasons That I Love You",
-      "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Naima",
         "url": "https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR"
+        "name": "The Reasons That I Love You",
+        "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
       },
       "artists": [
         {
-          "name": "Gillian Spencer Trio",
-          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
         }
       ],
-      "duration_ms": 240225,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk"
+      "duration_ms": 280938,
+      "name": "The Reasons That I Love You",
+      "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 203189,
       "name": "Cherry Stone",
       "url": "https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "duration_ms": 240225,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Being There",
-        "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "Draw Near",
-      "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Distant Hearts",
         "url": "https://open.spotify.com/album/1fbiWYWMGJF3yB4WmoqJNv"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 139970,
       "name": "Distant Hearts",
       "url": "https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Being There",
+        "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Draw Near",
+      "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -891,6 +891,38 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Vine Street",
+        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "duration_ms": 146020,
+      "name": "Vine Street",
+      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Equilibrio",
+        "url": "https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF"
+      },
+      "artists": [
+        {
+          "name": "Les trois copines",
+          "url": "https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx"
+        }
+      ],
+      "duration_ms": 151162,
+      "name": "Equilibrio",
+      "url": "https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Contra La Indecisi\u00f3n",
         "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
       },
@@ -903,22 +935,6 @@
       "duration_ms": 252773,
       "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
       "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -955,6 +971,54 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Merry Monday",
+        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Merry Monday",
+      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Lonely as a Cloud",
+        "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
+      },
+      "artists": [
+        {
+          "name": "South North",
+          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
+        }
+      ],
+      "duration_ms": 167071,
+      "name": "Lonely as a Cloud",
+      "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Mette Henriette",
         "url": "https://open.spotify.com/album/6myWUuimrfYOjiXowul6L5"
       },
@@ -967,26 +1031,6 @@
       "duration_ms": 227066,
       "name": ".oOo.",
       "url": "https://open.spotify.com/track/2geihwLMsED3t9okk4Ag6k"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Dream Logic",
-        "url": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        }
-      ],
-      "duration_ms": 261320,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1019,6 +1063,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "This Autumn",
+        "url": "https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY"
+      },
+      "artists": [
+        {
+          "name": "James & LIsa",
+          "url": "https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg"
+        }
+      ],
+      "duration_ms": 172802,
+      "name": "This Autumn",
+      "url": "https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Opening",
         "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
       },
@@ -1047,6 +1107,26 @@
       "duration_ms": 230000,
       "name": "This Is Not About You",
       "url": "https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Dream Logic",
+        "url": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        }
+      ],
+      "duration_ms": 261320,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1171,6 +1251,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Just Ourselves",
+        "url": "https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB"
+      },
+      "artists": [
+        {
+          "name": "Pearl Street Trio",
+          "url": "https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k"
+        }
+      ],
+      "duration_ms": 228738,
+      "name": "Just Ourselves",
+      "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Strata",
         "url": "https://open.spotify.com/album/2xaTBvbW8pWwaGEao3Ajt4"
       },
@@ -1247,6 +1343,34 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Times Revisited",
+        "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Waking Dream",
+      "url": "https://open.spotify.com/track/44Nuza1A4cfjOAbE65797r"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Elisian/Inutil Paisagem",
         "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
       },
@@ -1307,34 +1431,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Times Revisited",
-        "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
-      },
-      "artists": [
-        {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
-        },
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Waking Dream",
-      "url": "https://open.spotify.com/track/44Nuza1A4cfjOAbE65797r"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Here Be Dragons",
         "url": "https://open.spotify.com/album/5CNcTVrgGUXPTewHvOFzlv"
       },
@@ -1351,22 +1447,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Watercolors",
-        "url": "https://open.spotify.com/album/0zlSV683pRVrcTmtyQ8IZ9"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/5id8E9yAsSjcuSyCqTQEXp"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
       },
@@ -1379,6 +1459,22 @@
       "duration_ms": 278680,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Watercolors",
+        "url": "https://open.spotify.com/album/0zlSV683pRVrcTmtyQ8IZ9"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5id8E9yAsSjcuSyCqTQEXp"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1419,22 +1515,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "A Patch of Old Snow",
         "url": "https://open.spotify.com/album/1VgkPOavzHFghUa01Y2xch"
       },
@@ -1447,6 +1527,22 @@
       "duration_ms": 227456,
       "name": "A Patch of Old Snow",
       "url": "https://open.spotify.com/track/5wSlPHEoAMlca7sm29Ayoe"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1467,6 +1563,30 @@
       "duration_ms": 152234,
       "name": "M\u00f3gr\u00e1",
       "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Tantum",
+        "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
+      },
+      "artists": [
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Jonas Simonson",
+          "url": "https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG"
+        },
+        {
+          "name": "Karin Nelson",
+          "url": "https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Doubt Thou the Stars",
+      "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1495,26 +1615,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Tantum",
-        "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
+        "name": "Min B\u00e4sta V\u00e4n",
+        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
       },
       "artists": [
         {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Jonas Simonson",
-          "url": "https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG"
-        },
-        {
-          "name": "Karin Nelson",
-          "url": "https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV"
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Doubt Thou the Stars",
-      "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
+      "duration_ms": 214944,
+      "name": "Min B\u00e4sta V\u00e4n",
+      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1583,46 +1695,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Min B\u00e4sta V\u00e4n",
-        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
-      },
-      "artists": [
-        {
-          "name": "Bergsundet",
-          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Min B\u00e4sta V\u00e4n",
-      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
-      },
-      "artists": [
-        {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "Remembrance IV",
-      "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Komposition VII",
         "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
       },
@@ -1635,94 +1707,6 @@
       "duration_ms": 473721,
       "name": "L\u00e5ngsamt",
       "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "My Foolish Heart",
-        "url": "https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ"
-      },
-      "artists": [
-        {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        }
-      ],
-      "duration_ms": 124626,
-      "name": "Two Poets",
-      "url": "https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Out of the Loop",
-        "url": "https://open.spotify.com/album/0pR6sQfNeIgdyP7dnV34HD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 479960,
-      "name": "Petrus",
-      "url": "https://open.spotify.com/track/56muRlT0rsMD0Mx18LFELG"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Blue Bird",
-        "url": "https://open.spotify.com/album/23k3ADRVxmy9EbEhmXnUsG"
-      },
-      "artists": [
-        {
-          "name": "Michel Bisceglia",
-          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
-        }
-      ],
-      "duration_ms": 343416,
-      "name": "Dry Water",
-      "url": "https://open.spotify.com/track/3xQH8Wn7AaDIcQlK7itltB"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Uma Elmo",
-        "url": "https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts"
-      },
-      "artists": [
-        {
-          "name": "Jakob Bro",
-          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
-        },
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Jorge Rossy",
-          "url": "https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE"
-        }
-      ],
-      "duration_ms": 415053,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W"
     }
   ],
   "unique_name": "Calming Jazz",

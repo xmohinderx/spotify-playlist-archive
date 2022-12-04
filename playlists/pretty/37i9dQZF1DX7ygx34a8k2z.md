@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,981 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,321 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 74 | [Godless](https://open.spotify.com/track/7zPyyV3kRtp9PWtPJJbNZ1) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 5:19 |
 | 75 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
 | 76 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
-| 77 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 |
-| 78 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 |
+| 77 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 |
+| 78 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 |
 | 79 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
 | 80 | [Banditos](https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC) | [The Refreshments](https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO) | [Fizzy Fuzzy Big & Buzzy](https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV) | 4:17 |
 | 81 | [Heroin Girl](https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 2:23 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 97 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
 | 98 | [Breadcrumb Trail](https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:55 |
 | 99 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
-| 100 | [If I Could Talk I'd Tell You](https://open.spotify.com/track/7F8eSGduNKaqn16evCtdB0) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Car Button Cloth](https://open.spotify.com/album/5NQ9PLQuzOIKG4R1lxcVMf) | 2:50 |
+| 100 | [Ladykillers](https://open.spotify.com/track/64RQTM5ih8kx5rl8fxbRVv) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Lovelife](https://open.spotify.com/album/7GENDDN5PnnAF9e8NbuMIT) | 3:13 |
 
-Snapshot ID: `MTY2NTAwMjI0MSwwMDAwMDAwMDAzMGExOWU5MDk5NTQ5OTIyYjA4ZmYzNjYyNTZkNzRi`
+Snapshot ID: `MTY2NTAwMjI0MSwwMDAwMDAwMDhkNGJjY2ZmMGM4YzRhYzhlZmE5M2ExMGYwNWRkMWM1`

@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 228319,
+  "num_followers": 228761,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGNhMWUxMTlhYzgwMWJmMDMxNWU3YzMxYjFkNzAxYzYz",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGFlYWJmNTA4YTZhMWY5ZWFkMzcxNGRhMjk3ZjM0ZjEx",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 195136,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -895,34 +895,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Ahora Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 225767,
-      "name": "Ahora Todo Es Diferente",
-      "url": "https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ"
+      "duration_ms": 195136,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 148561,
       "name": "A Lo Lejos Me Veran",
       "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Ahora Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 225767,
+      "name": "Ahora Todo Es Diferente",
+      "url": "https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Ojos De Maniaco",
-      "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Est\u00e1 Noche",
         "url": "https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 124267,
       "name": "Est\u00e1 Noche",
       "url": "https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Ojos De Maniaco",
+      "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Dame Un Segundo",
-        "url": "https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Dame Un Segundo",
-      "url": "https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194715,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Lujos y Secretos",
         "url": "https://open.spotify.com/album/4QUx5wQsvFrdwCO4vfN12v"
       },
@@ -1279,6 +1247,38 @@
       "duration_ms": 165836,
       "name": "Lujos y Secretos",
       "url": "https://open.spotify.com/track/5Q7T1ePrtZiMA5whIXdwUC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194715,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Dame Un Segundo",
+        "url": "https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Dame Un Segundo",
+      "url": "https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 131589,
-      "name": "En El Este",
-      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "El Pelo Chino",
         "url": "https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 180324,
       "name": "El Pelo Chino",
       "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 131589,
+      "name": "En El Este",
+      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Estilo Sinaloa",
+        "url": "https://open.spotify.com/album/4Ag5vtuhhrVjHwPMZvYmJH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 248208,
+      "name": "Estilo Sinaloa",
+      "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/0zZqoFO424Fz2mTBqSGNQe"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 218327,
       "name": "Desde Abajo",
       "url": "https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Estilo Sinaloa",
-        "url": "https://open.spotify.com/album/4Ag5vtuhhrVjHwPMZvYmJH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "Estilo Sinaloa",
-      "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"
     },
     {
       "added_at": "2022-10-14 04:00:00",

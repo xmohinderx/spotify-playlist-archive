@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,229 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,239 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 22 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
 | 23 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
 | 24 | [\(Du är så\) Yeah Yeah, Wow Wow](https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio) | [Martin](https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F) | [En helt vanlig Svensson](https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO) | 3:14 |
-| 25 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
-| 26 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
+| 25 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
+| 26 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
 | 27 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
 | 28 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
 | 29 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 47 | [La Dolce Vita](https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [La Dolce Vita](https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl) | 3:00 |
 | 48 | [Främling](https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE) | 2:58 |
 | 49 | [Just nu](https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [40 år 40 hits ett samlingsalbum 1972 \- 2012](https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L) | 2:47 |
-| 50 | [In My Cabana](https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [In My Cabana](https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k) | 2:52 |
-| 51 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 |
+| 50 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 |
+| 51 | [In My Cabana](https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [In My Cabana](https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k) | 2:52 |
 | 52 | [Möt mig i Gamla Stan](https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan](https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B) | 3:02 |
 
-Snapshot ID: `MTU1MTM1ODY3OCwwMDAwMDAwMDM1YWZmMTc2M2IwNjViMWRjNmNkYjc2NjI4NjRiY2Zi`
+Snapshot ID: `MTU1MTM1ODY3OCwwMDAwMDAwMDU2ZGYxZTM0MWNlMDY1MjhmNzZjNzExNmMyNDA4ZGZl`

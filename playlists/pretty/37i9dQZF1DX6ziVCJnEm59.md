@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,032,189 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,032,785 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 33 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
 | 34 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
 | 35 | [This Time Tomorrow](https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:26 |
-| 36 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 |
+| 36 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 |
 | 37 | [Nothing Compares](https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 4:02 |
 | 38 | [Sister](https://open.spotify.com/track/5amf0Fkdt3Mu6cdvXhKgOq) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 2:13 |
 | 39 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 124 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 |
 | 125 | [Going In](https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK), [The Song Confessional](https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E) | [Going In](https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH) | 2:41 |
 
-Snapshot ID: `MTY1OTM3NDY4MiwwMDAwMDAwMDg3NTAyOGY4YTVmNGY1ZTMyNWI5MGNiNWFmNGUwZjA0`
+Snapshot ID: `MTY1OTM3NDY4MiwwMDAwMDAwMGFhZmNkNTcxZDQxYjUxZmI0M2E0OTM1YTFkMjMzZWJi`

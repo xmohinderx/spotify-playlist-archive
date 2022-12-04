@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,006 likes - 44 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,291 likes - 44 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 8 | [Cirice](https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 6:02 |
 | 9 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
 | 10 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
-| 11 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 |
+| 11 | [Hunter’s Moon](https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
 | 12 | [Crucified](https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:13 |
 | 13 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
 | 14 | [Mummy Dust](https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:07 |
-| 15 | [Hunter’s Moon](https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
+| 15 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 |
 | 16 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 |
 | 17 | [Witch Image](https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:30 |
 | 18 | [He Is](https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:13 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 43 | [Bible](https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 6:34 |
 | 44 | [Devil Church](https://open.spotify.com/track/2o2UpxEGdYpJqSAAmEgpRD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 1:06 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDAxODMxM2Y1NGQ0OWNiOTdmMzQ3NzYyOGQzMTM3ZWZjMA==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDBmMDFhMzFmMTkxMmRmOTM1ODA5MWY3ZGQ1YmRlYTFiZA==`

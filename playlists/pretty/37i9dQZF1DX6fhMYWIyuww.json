@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 95300,
+  "num_followers": 95418,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDliMmRjMzYzZjMwYWU0ODZmM2M5MDNiZTRjZmNlZDUz",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGRlODg5NjUxNGYxNzI1Y2YxY2MxMmZhM2E4M2E0YzMx",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Classic Masters",
-        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
-      },
-      "artists": [
-        {
-          "name": "Robert John",
-          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Sad Eyes - Remastered 2002",
-      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "A Rock And Roll Alternative",
         "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 260866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Classic Masters",
+        "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
+      },
+      "artists": [
+        {
+          "name": "Robert John",
+          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Sad Eyes - Remastered 2002",
+      "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -991,6 +991,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 282040,
+      "name": "Get It Right Next Time",
+      "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 285906,
       "name": "The Lady Wants to Know",
       "url": "https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Night Owl",
-        "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 282040,
-      "name": "Get It Right Next Time",
-      "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
     },
     {
       "added_at": "2021-04-22 18:12:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,686 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,990 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 89 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 |
 | 90 | [La Bella y la Bestia](https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [La Bella y la Bestia](https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG) | 3:20 |
 | 91 | [No Te Creas Tan Importante](https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Para Rato!](https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ) | 3:47 |
-| 92 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 |
-| 93 | [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 |
+| 92 | [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 |
+| 93 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 |
 | 94 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
 | 95 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
 | 96 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [La Culpa](https://open.spotify.com/track/17Jh5uDhb7rTLxll7ifn9f) | [Walter Salinas](https://open.spotify.com/artist/6f3f9LAnkwJAeOkxREeZMI) | [La Culpa](https://open.spotify.com/album/4rOUVx4hWo6918txc6fZkk) | 4:13 |
 | 100 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 |
 
-Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMDA0ZDBlYWI3MDc4ODhiMDg2YmFiYzAzYzQzYzNiMTQz`
+Snapshot ID: `MTY2OTk1MDAwMCwwMDAwMDAwMGFiZjQ2YzhhNTQwYWYwMzE4N2M1M2E4MjY4ZGJhNzg5`

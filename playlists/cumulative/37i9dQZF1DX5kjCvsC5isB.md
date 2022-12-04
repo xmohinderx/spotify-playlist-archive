@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-283 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+284 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [So Mean](https://open.spotify.com/track/01PNNcnRkoWTRqsPxy6vIs) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [So Mean](https://open.spotify.com/album/76BpMoIfLe9CEPmCCjytwK) | 2:56 | 2021-08-27 | 2022-03-12 |
 | [sound in my head](https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me \(deluxe\)](https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T) | 2:31 | 2022-10-07 |  |
 | [Spit It Out](https://open.spotify.com/track/2u3M0P7p9zrYYOciWYp4Lx) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:07 | 2022-02-04 | 2022-10-08 |
-| [Split Personality](https://open.spotify.com/track/3EKpRYbFBKxFwba0XBg5q4) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Split Personality](https://open.spotify.com/album/48zAu893Q2z9nNgmBXRBka) | 3:39 | 2021-09-03 |  |
+| [Split Personality](https://open.spotify.com/track/3EKpRYbFBKxFwba0XBg5q4) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Split Personality](https://open.spotify.com/album/48zAu893Q2z9nNgmBXRBka) | 3:39 | 2021-09-03 | 2022-12-04 |
+| [Split Personality](https://open.spotify.com/track/6GhpQLxU3rXiL9xy0pIVMh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I JUST WANNA KNOW WHAT HAPPENS WHEN I'M DEAD \- EP](https://open.spotify.com/album/5rT3OHzmbMBSj376XiKdQy) | 3:39 | 2022-10-07 |  |
 | [State of Me](https://open.spotify.com/track/7mB5qqwuP8LhoauDGLaAgZ) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [State of Me](https://open.spotify.com/album/1IK5IoEkmNl99vE9MEEyXX) | 3:14 | 2021-07-30 |  |
 | [Strangers](https://open.spotify.com/track/1lqUv4fGpY74XMC53V9cAi) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Strangers](https://open.spotify.com/album/3H53YB8nhMo3PZmyJADCib) | 3:00 | 2022-01-14 | 2022-06-25 |
 | [StuckintheMiddle](https://open.spotify.com/track/41wOSqwwI5BYv0Eke9yZHv) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [StuckintheMiddle](https://open.spotify.com/album/2lVvUZidTV6naaGRy7E2WT) | 3:18 | 2022-06-24 | 2022-08-20 |

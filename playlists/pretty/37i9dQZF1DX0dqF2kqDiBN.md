@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,747 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,748 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Listen](https://open.spotify.com/track/5JlYv60TgliGsHiPRzOMfx) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:29 |
+| 1 | [Listen](https://open.spotify.com/track/5JlYv60TgliGsHiPRzOMfx) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:29 |
 | 2 | [Singing In My Soul](https://open.spotify.com/track/3BlwNNhMoNy3kJJQkotssv) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:46 |
 | 3 | [Gonna Be All Right](https://open.spotify.com/track/7iltfnTWDyOWNeVbf6uJEA) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 4:23 |
 | 4 | [Joy Comes Back](https://open.spotify.com/track/2y4xTUliqsmrGvDvJ2sy6y) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Joy Comes Back](https://open.spotify.com/album/0KVRKuJ3L6dpheQaBJZJrt) | 4:31 |

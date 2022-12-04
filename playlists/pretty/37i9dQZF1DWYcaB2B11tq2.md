@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,735 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,912 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sumérgeme](https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 5:27 |
-| 2 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 |
-| 3 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
+| 2 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
+| 3 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 |
 | 4 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |
 | 5 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 |
 | 6 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/636y223sbqgNNVeH7s5qkp) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:52 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 66 | [No Más](https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Más](https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF) | 3:26 |
 | 67 | [Encuéntrame Otra Vez \(Here Again\)](https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Encuéntrame Otra Vez \(Here Again\)](https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF) | 6:49 |
 | 68 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
-| 69 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
-| 70 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
+| 69 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
+| 70 | [Jesus En El Centro \- Live](https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 6:42 |
 | 71 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 72 | [En El Mar De Tu Gracia](https://open.spotify.com/track/6TOgfc4JyqJxdGWPb2dG7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [A Partir De Hoy](https://open.spotify.com/album/7dmuzxoqS8MCTQATUo3nGN) | 3:33 |
 | 73 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
 | 74 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
 | 75 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
 
-Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMGU1MjdjMTI0MzQyODM1MTVmZDdmODg2MGI5OTA5YWFi`
+Snapshot ID: `MTYyMTYyNDc2NywwMDAwMDAwMDk0ZjE4NDBkOWY4ZjQyMGQyNTE5MDA0YzgxNmE4NjY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,206 likes - 112 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,253 likes - 112 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 25 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
 | 26 | [Peaceful Harmony](https://open.spotify.com/track/5YXMvnrosh3tVYusmR8lyb) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Peaceful Harmony](https://open.spotify.com/album/6yigwF9cIfuoVoWwhf1YET) | 2:15 |
 | 27 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 |
-| 28 | [Motions 432 Hz](https://open.spotify.com/track/2y5ukbzq7muEOsdexH55NI) | [Hoja Rama](https://open.spotify.com/artist/4B1koovpVzlZQ4URtMTLvC) | [Motions 432 Hz](https://open.spotify.com/album/71h19HzaS1j93aVO7ygUAx) | 2:47 |
+| 28 | [Motions 432 Hz](https://open.spotify.com/track/2y5ukbzq7muEOsdexH55NI) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Motions 432 Hz](https://open.spotify.com/album/71h19HzaS1j93aVO7ygUAx) | 2:47 |
 | 29 | [Bothain](https://open.spotify.com/track/01dutwUQJ4Yc79OKfejVuQ) | [Peaceful Village](https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI) | [Bothain](https://open.spotify.com/album/4zxWNIQwykrTOJ7cPVPosB) | 2:22 |
 | 30 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 |
 | 31 | [A Warm Welcoming 432 Hz](https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN) | [Joni Ende](https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4) | [Pearls](https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP) | 2:48 |

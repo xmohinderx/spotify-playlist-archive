@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 42623,
+  "num_followers": 42722,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3NzQ5NywwMDAwMDAwMDRiZGM0ZmE1ZDgyOGI3ZmNiODRlOWI5NTBjZDIwMTJm",
+  "snapshot_id": "MTY2ODc3NzQ5NywwMDAwMDAwMDhmYmYxZTE4YzZhMGIyYTM0NmZlMTE3ZGUyZGJlYThk",
   "tracks": [
     {
       "added_at": "2022-11-18 13:18:17",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-11-18 13:18:17",
       "album": {
-        "name": "Little Junior Parker: Mr. Blues",
-        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
-    },
-    {
-      "added_at": "2022-11-18 13:18:17",
-      "album": {
         "name": "Racing To A Red Light",
         "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 264066,
       "name": "Racing To A Red Light",
       "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+    },
+    {
+      "added_at": "2022-11-18 13:18:17",
+      "album": {
+        "name": "Little Junior Parker: Mr. Blues",
+        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
     },
     {
       "added_at": "2022-11-18 13:18:17",
@@ -823,6 +823,26 @@
     {
       "added_at": "2022-11-18 13:18:17",
       "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Outside (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2022-11-18 13:18:17",
+      "album": {
         "name": "Angel In The Alleyways",
         "url": "https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 260092,
       "name": "Angel In The Alleyways",
       "url": "https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9"
-    },
-    {
-      "added_at": "2022-11-18 13:18:17",
-      "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Outside (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
     },
     {
       "added_at": "2022-11-18 13:18:17",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-11-18 13:18:17",
       "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "added_at": "2022-11-18 13:18:17",
+      "album": {
         "name": "Death Valley Blues",
         "url": "https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 238440,
       "name": "Travelling Back Home",
       "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
-    },
-    {
-      "added_at": "2022-11-18 13:18:17",
-      "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2022-11-18 13:18:17",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-11-18 13:18:17",
       "album": {
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+      },
+      "artists": [
+        {
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+    },
+    {
+      "added_at": "2022-11-18 13:18:17",
+      "album": {
         "name": "The Best Of Delta Records",
         "url": "https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 180546,
       "name": "Cigarettes, Whiskey And Wild, Wild Women",
       "url": "https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW"
-    },
-    {
-      "added_at": "2022-11-18 13:18:17",
-      "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2022-11-18 13:18:17",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2022-11-18 13:18:17",
       "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "duration_ms": 218864,
+      "name": "Low Down Dog",
+      "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
+    },
+    {
+      "added_at": "2022-11-18 13:18:17",
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 180066,
       "name": "Fussin' and Fightin' (Blues)",
       "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
-    },
-    {
-      "added_at": "2022-11-18 13:18:17",
-      "album": {
-        "name": "Push The Blues Away",
-        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        }
-      ],
-      "duration_ms": 218864,
-      "name": "Low Down Dog",
-      "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
     },
     {
       "added_at": "2022-11-18 13:18:17",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2022-11-18 13:18:17",
       "album": {
+        "name": "Today!",
+        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Louis Collins",
+      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
+    },
+    {
+      "added_at": "2022-11-18 13:18:17",
+      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1687,26 +1703,6 @@
       "duration_ms": 179293,
       "name": "Tough Times",
       "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
-    },
-    {
-      "added_at": "2022-11-18 13:18:17",
-      "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Sharde Turner",
-          "url": "https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "If My Mind Don't Change (feat. Sharde Thomas)",
-      "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
     }
   ],
   "unique_name": "Black Coffee Blues",

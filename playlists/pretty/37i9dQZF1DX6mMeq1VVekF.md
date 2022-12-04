@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,642 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,687 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 18 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 |
 | 19 | [7:00](https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y \(Deluxe\)](https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy) | 3:08 |
 | 20 | [Matinee](https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [Matinee](https://open.spotify.com/album/238YXuMQe6bGCSqZ3A57EY) | 3:08 |
-| 21 | [Hate It Or Luv It](https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:32 |
-| 22 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
+| 21 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
+| 22 | [Hate It Or Luv It](https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:32 |
 | 23 | [Seasons](https://open.spotify.com/track/1GkofJJt1Uaz5z4ch6ooLM) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM), [Idris Jones](https://open.spotify.com/artist/46qyLqPPSLO54RLTHMV2QC) | [Seasons](https://open.spotify.com/album/13H6kGywIed09VEPyCw9gW) | 5:21 |
 | 24 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 25 | [Hunnids](https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:46 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 52 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 |
 | 53 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 |
 | 54 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 |
-| 55 | [Scary Sight](https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Scary Sight](https://open.spotify.com/album/4fsvP1YJLEu9dEBO1fOIt5) | 5:12 |
-| 56 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
+| 55 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
+| 56 | [Scary Sight](https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Scary Sight](https://open.spotify.com/album/4fsvP1YJLEu9dEBO1fOIt5) | 5:12 |
 | 57 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 58 | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [In Disguise \(feat\. Bakar\)](https://open.spotify.com/album/23u0FuhV3UGHXvMWD2h5ms) | 2:38 |
 | 59 | [Love is a Lottery](https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Love is a Lottery](https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ) | 3:37 |
 | 60 | [Im Workin \(feat\. Jorja Smith\)](https://open.spotify.com/track/4cqjB1MFbHYmCzN6ENAbOV) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 5:19 |
 
-Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMDNmMjRlODJiMWViZjQ4ZThkMDMzNGZjZGE4MjUwN2Rk`
+Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMDE2ZGUzOGQyZDEwMGUzMmM2YTJhY2U1ZGY4NmJlODVi`

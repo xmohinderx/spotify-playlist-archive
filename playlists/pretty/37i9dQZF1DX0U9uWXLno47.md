@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,704 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,725 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 34 | [Black Magic Woman / Gypsy Queen](https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 5:19 |
 | 35 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 |
 | 36 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
-| 37 | [Tiny Dancer](https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 6:01 |
-| 38 | [Where Is My Mind? \- XFM Live Version](https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ) | 3:44 |
+| 37 | [Where Is My Mind? \- XFM Live Version](https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ) | 3:44 |
+| 38 | [Tiny Dancer](https://open.spotify.com/track/69sJBJdGogAYV74hmB0ORK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 6:01 |
 | 39 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
 | 40 | [Shadowplay](https://open.spotify.com/track/6HbTF52swZiGSJ2cvAJ7PU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 4:07 |
 | 41 | [Losing My Religion \(Cover\)](https://open.spotify.com/track/1wJNpWv8GbyEVAxoxlf3gT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:43 |
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 49 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
 | 50 | [Ashes to Ashes](https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894) | 5:10 |
 | 51 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
-| 52 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
-| 53 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
+| 52 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
+| 53 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 |
 | 54 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
 | 55 | [Don't Be Cruel](https://open.spotify.com/track/6A1MJbqxcHvNcT0u9qMqEP) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 3:07 |
 | 56 | [Rocket Man](https://open.spotify.com/track/3q6BJcC0i7UyM8oWn6ntRQ) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Chapter 1: The Sandworm Cometh \- Early Recordings, B\-Sides, Covers, y Mas](https://open.spotify.com/album/1yUh9U9797bPXiqDLZVuht) | 4:59 |
 | 57 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
 | 58 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 2:40 |
 | 59 | [Smells Like Teen Spirit \- Radio Edit](https://open.spotify.com/track/58cKWhCT3I4yhxtNpBlMli) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 5:49 |
-| 60 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 |
-| 61 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
+| 60 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
+| 61 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 |
 | 62 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 |
 | 63 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 | 64 | [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 74 | [Killing Me Softly](https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Nu Funk](https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk) | 3:20 |
 | 75 | [Golden Years](https://open.spotify.com/track/34PRFgMjpf1mTiIDIve6Sz) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [MADLO: Influences](https://open.spotify.com/album/4iIgfgwD4rgVNpGhOkAwyd) | 4:34 |
 
-Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDRkMDI1MmM1YTgxYzAwOWI2MWYzOGIzODFhNzBjODhl`
+Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDI0Y2Q0YTA1YzRkNGZiY2M0MTUwMTMyYjgwMjM3ZTBh`

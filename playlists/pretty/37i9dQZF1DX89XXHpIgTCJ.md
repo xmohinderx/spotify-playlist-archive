@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover:  Cypress Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,363 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,528 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 15 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 |
 | 16 | [Numb / Encore](https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 3:25 |
 | 17 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 |
-| 18 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 |
-| 19 | [Let It Rock](https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [In The City](https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd) | 3:51 |
+| 18 | [Let It Rock](https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [In The City](https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd) | 3:51 |
+| 19 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 |
 | 20 | [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 |
 | 21 | [Bad Mother F\*cker](https://open.spotify.com/track/2kjPvFgVIGki2BRlOHvQQr) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 3:33 |
 | 22 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [the ground below \(feat\. Royal Blood\) \- Royal Jewels Mix](https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [the ground below \(feat\. Royal Blood\) \[Royal Jewels Mix\]](https://open.spotify.com/album/5eV8MufOSCcvwS9oCPN4aX) | 2:53 |
 | 60 | [Fight Like A Brave](https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Uplift Mofo Party Plan](https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F) | 3:53 |
 
-Snapshot ID: `MTY2NzgwODgwMSwwMDAwMDAwMGNlZmI4OTRiYTBiNThmZWE3OTUzYzIxZjBjZTVmOWFl`
+Snapshot ID: `MTY2NzgwODgwMSwwMDAwMDAwMDRjYTU1YmMwN2E2ZGI0MzhmOGI1ZWZkYjQ5ZDFjMTU3`

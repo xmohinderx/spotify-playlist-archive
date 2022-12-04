@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,713 likes - 115 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,355 likes - 115 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 63 | [Sabiendo Quien Era Yo](https://open.spotify.com/track/5zqqZn6KxTKYCONNQh7OWJ) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:32 |
 | 64 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:18 |
 | 65 | [Abeja Reína](https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:50 |
-| 66 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
+| 66 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
 | 67 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
 | 68 | [Actos De Un Tonto](https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdoname Mi Amor](https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n) | 3:45 |
 | 69 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
 | 70 | [Mi tesoro](https://open.spotify.com/track/7KHGecUR5KX9hPLnsIdo8q) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 exitazos](https://open.spotify.com/album/4sMQ7QkSpj49jqNBAoiAyp) | 2:59 |
-| 71 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
+| 71 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
 | 72 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 |
 | 73 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
 | 74 | [Nadie Es Eterno](https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 3:16 |
 | 75 | [Corrido De La Muerta](https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [20 Aniversario \- Martes Trece](https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz) | 4:04 |
 | 76 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 |
 | 77 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 |
-| 78 | [Amigos Tuve Una Novia](https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:37 |
-| 79 | [La Ley Del Desprecio](https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Solamente Tú](https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej) | 3:06 |
+| 78 | [La Ley Del Desprecio](https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Solamente Tú](https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej) | 3:06 |
+| 79 | [Amigos Tuve Una Novia](https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:37 |
 | 80 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 |
 | 81 | [Que Me Lleve El Diablo](https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 3:30 |
 | 82 | [Eslabón Por Eslabón](https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 3:01 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 84 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 |
 | 85 | [Ambicion](https://open.spotify.com/track/2ejgN52DP0gNCYXoGeEh6H) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [Solo Lo Nuestro](https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM) | 3:18 |
 | 86 | [Colgado De Un Árbol](https://open.spotify.com/track/2j5X89pGdAoI2OoXffzeqt) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [Colgado De Un Árbol \(Remasterizado\)](https://open.spotify.com/album/4h1FfxVfSqI7HI8ZHaoZJH) | 3:39 |
-| 87 | [Alta Y Delgadita](https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:05 |
-| 88 | [Mi Linda Esposa \- Remastered](https://open.spotify.com/track/5yUAv2oI8yzpSYgWtTZus0) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [A Ti Madrecita \(Remastered\)](https://open.spotify.com/album/2UFHUfVGw8KVqX5j7M2EcR) | 4:09 |
+| 87 | [Mi Linda Esposa \- Remastered](https://open.spotify.com/track/5yUAv2oI8yzpSYgWtTZus0) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [A Ti Madrecita \(Remastered\)](https://open.spotify.com/album/2UFHUfVGw8KVqX5j7M2EcR) | 4:09 |
+| 88 | [Alta Y Delgadita](https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:05 |
 | 89 | [Traficante De Besos](https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:29 |
 | 90 | [Entrega Total](https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:38 |
 | 91 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 114 | [Solo Una Patada](https://open.spotify.com/track/60yeJAQhq9pWqnA61CbdoJ) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 3:11 |
 | 115 | [Rinconcito En El Cielo](https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 4:27 |
 
-Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMDhkYzYzMDM2ZmQwMTVjYWQyNTY3ZDBkNDEyZGE2YmEx`
+Snapshot ID: `MTY0NzQ3ODE5NiwwMDAwMDAwMDQ3ZDc4OTllNDIwNjJmMWE3ZjIyMTYyNDViMThkZTQ2`

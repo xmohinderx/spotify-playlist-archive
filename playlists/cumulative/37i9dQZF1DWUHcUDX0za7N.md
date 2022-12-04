@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA" > Odumodublvck </a>
 
-131 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/3BUxfJDiPiu9ct0POyewZM)
+132 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/3BUxfJDiPiu9ct0POyewZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Choosey](https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Choosey](https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq) | 3:06 | 2022-08-09 | 2022-11-16 |
 | [City of Kings](https://open.spotify.com/track/0emQg5ptXXIWYufuXGAzgT) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN2](https://open.spotify.com/album/1ru2DrxX58DmKELFCOFO4g) | 2:36 | 2022-10-14 | 2022-10-29 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-07 |  |
-| [Closer](https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD) | [Skaa](https://open.spotify.com/artist/5Z1pJHnETn6fqC37KYfi3Z), [Payper Corleone](https://open.spotify.com/artist/5pNye0bGTXUivn8zdEBIfj) | [Closer](https://open.spotify.com/album/2KiZjho3dmMgLVNm0Ja1Pb) | 3:16 | 2022-11-24 |  |
+| [Closer](https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD) | [Skaa](https://open.spotify.com/artist/5Z1pJHnETn6fqC37KYfi3Z), [Payper Corleone](https://open.spotify.com/artist/5pNye0bGTXUivn8zdEBIfj) | [Closer](https://open.spotify.com/album/2KiZjho3dmMgLVNm0Ja1Pb) | 3:16 | 2022-11-24 | 2022-12-04 |
 | [Commander](https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Commander](https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3) | 2:38 | 2022-06-09 |  |
 | [Cram](https://open.spotify.com/track/1MxH6WGN0iLXnWwLUkO7C6) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Cram](https://open.spotify.com/album/4rKlC12uweXzFArqQDvyyi) | 2:54 | 2022-06-09 |  |
 | [Crown Of Clay](https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Crown Of Clay](https://open.spotify.com/album/1BNLf5GAPux7uFO3bP5TGL) | 3:25 | 2022-06-09 |  |
@@ -77,6 +77,7 @@
 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 | 2022-06-09 |  |
 | [Monaco](https://open.spotify.com/track/4hjINFiJeF8lBFiWphn3Kf) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Monaco](https://open.spotify.com/album/7unx4vrnytVLwxZ3G1DXK4) | 2:33 | 2022-06-30 | 2022-11-25 |
 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 | 2022-06-30 |  |
+| [Naira to Pounds](https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1) | [Zoro](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Naira to Pounds](https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr) | 2:51 | 2022-12-02 |  |
 | [Never stopping](https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [World Citizens](https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4) | 3:06 | 2022-06-23 | 2022-12-02 |
 | [Nobody](https://open.spotify.com/track/3FM1mMiAxyK5cAw1molDtw) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Codename, Vol\. 1](https://open.spotify.com/album/5xwIkodIxjHymcGMLQDhrI) | 4:34 | 2022-10-14 | 2022-10-29 |
 | [O Di Dan Dan](https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [O Di Dan Dan](https://open.spotify.com/album/3g0AJa6WAwfArIjzyGR6yh) | 2:15 | 2022-09-30 | 2022-11-19 |
@@ -138,6 +139,6 @@
 | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/album/2DD6vrTPCM84OBzBAxRx45) | 3:28 | 2022-10-14 | 2022-10-29 |
 | [YOUNG PREACHER](https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 2:22 | 2022-10-28 |  |
 | [YOUNG PREACHER](https://open.spotify.com/track/76aQdQbQYLUAp3I7ywE1jx) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 2:22 | 2022-10-28 | 2022-11-11 |
-| [Your Waist](https://open.spotify.com/track/2QKkkwmfTUA71dfLnMES9P) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Your Waist](https://open.spotify.com/album/6hnoe77FhbYGe73vGOvBVo) | 3:25 | 2022-12-02 |  |
+| [Your Waist](https://open.spotify.com/track/2QKkkwmfTUA71dfLnMES9P) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Waist](https://open.spotify.com/album/6hnoe77FhbYGe73vGOvBVo) | 3:25 | 2022-12-02 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

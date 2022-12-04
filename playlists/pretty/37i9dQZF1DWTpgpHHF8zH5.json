@@ -1,12 +1,12 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 319850,
+  "num_followers": 319865,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk3ODc2MSwwMDAwMDAwMDRlMjQ1NGRiYTVjYWY4Yjc3MmZlNjVmOTJkNGUyNGEx",
+  "snapshot_id": "MTY2OTk3ODc2MSwwMDAwMDAwMDU3MDVhYWIzNTE1ZDY3M2UzNGE0MTIyOTU5ZWU4ZThm",
   "tracks": [
     {
       "added_at": "2022-12-02 10:59:21",
@@ -475,8 +475,8 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Onka's Big Moka",
-        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
-    },
-    {
-      "added_at": "2022-12-02 10:59:21",
-      "album": {
         "name": "Numb Little Bug",
         "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2022-12-02 10:59:21",
+      "album": {
+        "name": "Onka's Big Moka",
+        "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2022-12-02 10:59:21",
-      "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -627,8 +611,24 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "added_at": "2022-12-02 10:59:21",
+      "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2022-12-02 10:59:21",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 169672,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
+    },
+    {
+      "added_at": "2022-12-02 10:59:21",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2022-12-02 10:59:21",
+      "album": {
         "name": "Sun Will Shine",
         "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 201700,
       "name": "Sun Will Shine",
       "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2022-12-02 10:59:21",
-      "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Love Me Now (feat. FAST BOY)",
-        "url": "https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun"
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 152581,
-      "name": "Love Me Now (feat. FAST BOY)",
-      "url": "https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb"
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1503,18 +1499,22 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Welcome To The Madhouse",
-        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+        "name": "Love Me Now (feat. FAST BOY)",
+        "url": "https://open.spotify.com/album/6kqbEWmGMdpVaJ9ZL2kCun"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
+      "duration_ms": 152581,
+      "name": "Love Me Now (feat. FAST BOY)",
+      "url": "https://open.spotify.com/track/6VtfGGQOasBhSQOpCfIcWb"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "WET TENNIS",
-        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 158549,
-      "name": "Summer In New York",
-      "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2022-12-02 10:59:21",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2022-12-02 10:59:21",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+        "name": "WET TENNIS",
+        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
+      "duration_ms": 158549,
+      "name": "Summer In New York",
+      "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
     },
     {
       "added_at": "2022-12-02 10:59:21",

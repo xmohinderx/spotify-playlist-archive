@@ -4,7 +4,7 @@
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/6Xdv835R3SfJNaxAchmcum)
+64 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6Xdv835R3SfJNaxAchmcum)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 | 2021-03-16 |  |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2021-03-16 |  |
 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:58 | 2021-03-16 |  |
-| [Clumsy](https://open.spotify.com/track/5IOUNrN8E37eLGdLNRr9aC) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:27 | 2021-03-16 |  |
+| [Clumsy](https://open.spotify.com/track/5IOUNrN8E37eLGdLNRr9aC) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:27 | 2021-03-16 | 2022-12-04 |
 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 | 2021-03-16 |  |
 | [Eddie Vedder](https://open.spotify.com/track/0cGvHzeVPpH511QtO9wSY5) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:29 | 2021-03-16 |  |
 | [Everything To Everyone](https://open.spotify.com/track/6BdD561PmmMhpUYI7Qhaut) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:20 | 2022-06-29 |  |
@@ -35,6 +35,7 @@
 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 | 2022-06-29 |  |
 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 | 2021-03-16 |  |
 | [Into Your Arms](https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come On Feel The Lemonheads](https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq) | 2:44 | 2021-03-16 |  |
+| [Is Anybody Home?](https://open.spotify.com/track/2QQ0lfEAu3ncUHM3C6Rkg3) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Happiness...Is Not a Fish That You Can Catch](https://open.spotify.com/album/6zlcEv6OCgGoVlF5Fm4cSd) | 3:38 | 2021-03-16 |  |
 | [It's A Shame About Ray \- Remastered](https://open.spotify.com/track/0ccE7u6mHbB1LaSc1ZIQWm) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:07 | 2021-03-16 |  |
 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 | 2021-03-16 |  |
 | [Low](https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Kerosene Hat](https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO) | 4:36 | 2022-06-29 |  |

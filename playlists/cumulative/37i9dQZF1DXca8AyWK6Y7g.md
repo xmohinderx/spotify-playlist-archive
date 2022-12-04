@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-1,422 songs - 3 day 0 hr 49 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,423 songs - 3 day 0 hr 51 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,7 @@
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2019-06-15 |
 | [Illusion](https://open.spotify.com/track/53I38TLjBU1cHfXsBGxh6M) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Illusion](https://open.spotify.com/album/5eTmHILPX2VUkrRSbhqMlk) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 | 2022-08-17 |
-| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 |  |
+| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-12-04 |
 | [In My Head](https://open.spotify.com/track/5ll8HAvZjHncvYQbGmQiWS) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In My Head](https://open.spotify.com/album/1893jpgnH51NsGubSHlvfJ) | 2:45 | 2022-12-02 |  |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-05-22 | 2022-03-26 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-20 | 2022-06-06 |
@@ -729,6 +729,7 @@
 | [LEMON SWAYZE \- Miami Horror Lemonade Remix](https://open.spotify.com/track/0ZqvqklMVDxbyaIsNIdO4c) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [LEMON SWAYZE \(Miami Horror Lemonade Remix\)](https://open.spotify.com/album/6Zxd8PJUYva6YRvDxrmo4z) | 4:29 | 2021-10-25 | 2022-03-10 |
 | [Leona](https://open.spotify.com/track/3nZdGftW9CLVQZ0j9hkPuL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO PT\. 1](https://open.spotify.com/album/1sByjN7ag1X0ppsT6SdP8J) | 4:06 | 2021-06-25 | 2021-11-19 |
 | [Less](https://open.spotify.com/track/44Ghsk1TVBTKEB4ksQYhSV) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8), [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Less](https://open.spotify.com/album/7xb5oS0SLeWgk032ZcmNBc) | 3:31 | 2020-12-12 | 2021-11-10 |
+| [Let Me Down \(with Chelsea Cutler\)](https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Let Me Down](https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx) | 2:29 | 2022-12-02 |  |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-26 | 2022-01-08 |
 | [Let You Know](https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Let You Know](https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0) | 3:19 | 2019-06-15 | 2020-01-16 |
 | [Let's Go](https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Let's Go](https://open.spotify.com/album/3AsiOVv4RrFwgSXFch8wP9) | 2:22 | 2021-12-24 | 2022-03-26 |

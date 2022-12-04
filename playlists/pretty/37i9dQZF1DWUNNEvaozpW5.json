@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Fito.",
-  "num_followers": 529963,
+  "num_followers": 530119,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMGIzYjhhOWU0Y2JmM2NhZDU2MWY5YmRkYmI5Y2QxZGJh",
+  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMGVlMTQ1NmMyZWUxMGVhNzFjMjlhM2FmYzU4NWYxM2Yx",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "La ley innata",
         "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 462013,
       "name": "Dulce introducci\u00f3n al caos",
       "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
     },
     {
       "added_at": "2022-12-01 23:00:00",

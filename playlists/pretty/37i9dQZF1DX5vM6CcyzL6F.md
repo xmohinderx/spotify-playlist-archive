@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina y ponle sabor a tus labores!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,523 likes - 150 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,588 likes - 150 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 63 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
 | 64 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 |
 | 65 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
-| 66 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
-| 67 | [De Mí Enamórate](https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Exitos Eternos](https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx) | 5:08 |
+| 66 | [De Mí Enamórate](https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Exitos Eternos](https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx) | 5:08 |
+| 67 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
 | 68 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
 | 69 | [Pa Que Me Llamas \- Salsa](https://open.spotify.com/track/1KPQ6OqugaSNd6gQSHCYWZ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Dispuesto a Todo](https://open.spotify.com/album/08WiFgOuE8gJL9SUX5Z590) | 4:42 |
 | 70 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 89 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
 | 90 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 | 91 | [Amor De Papel](https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Recogiendo Frutos](https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm) | 4:56 |
-| 92 | [Mala Mujer](https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Colección de Oro](https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh) | 3:52 |
-| 93 | [Enamórate Bailando](https://open.spotify.com/track/3mq6o3YStVTR91oThYGnMf) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:27 |
+| 92 | [Enamórate Bailando](https://open.spotify.com/track/3mq6o3YStVTR91oThYGnMf) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:27 |
+| 93 | [Mala Mujer](https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Colección de Oro](https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh) | 3:52 |
 | 94 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 |
 | 95 | [Amor y Control](https://open.spotify.com/track/6UwXptA4X3zXi3cCszekHx) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Una Decada](https://open.spotify.com/album/4qZQMejSxUgypvuVUOuY7J) | 5:49 |
 | 96 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 4:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 149 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 |
 | 150 | [Ya No Te Puedo Amar](https://open.spotify.com/track/6XTAzYRfBqlkhbxaNMO8H3) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Dos Decadas de Oro](https://open.spotify.com/album/5USvOUEgQWWhZ7CTEpfWsA) | 5:05 |
 
-Snapshot ID: `MTY1OTQ4MDc5MywwMDAwMDAwMDc4YTcxM2NhNThhM2YxMzY5MjFiOTBhNDk2Zjg4OWUw`
+Snapshot ID: `MTY1OTQ4MDc5MywwMDAwMDAwMDJiY2ZiNDYxOWRlNjkzNjZlYjVkYzgzZjEzNzgwNjE3`

@@ -4625,7 +4625,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 230876,
       "name": "Peluche",
       "url": "https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f"
@@ -6845,6 +6845,24 @@
       "duration_ms": 217077,
       "name": "Yo Soy Asi",
       "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
+    },
+    {
+      "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Yo Soy Asi",
+      "url": "https://open.spotify.com/track/7hgNJBaN3BmxMIGtVHoBvm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,474 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,482 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 35 | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica Ep\. Acabou](https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG) | 4:30 |
 | 36 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
 | 37 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
-| 38 | [Grajauex](https://open.spotify.com/track/7Mo4HmVdgYXBrOd9AYeqP9) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/2zeWAYgh0WfMhiHwvUV15b) | 2:36 |
-| 39 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
+| 38 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
+| 39 | [Grajauex](https://open.spotify.com/track/7Mo4HmVdgYXBrOd9AYeqP9) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Nó na Orelha](https://open.spotify.com/album/2zeWAYgh0WfMhiHwvUV15b) | 2:36 |
 | 40 | [Poetas no Topo 2](https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Ducon](https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Poetas no Topo 2](https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb) | 8:43 |
 | 41 | [Rap, Cerva, Erva e Muita Larica](https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Bonde da Madrugada pt\. 2](https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW) | 4:11 |
 | 42 | [Babylon By Gus](https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Como Deus Quiser](https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:01 |
 | 60 | [Estilo Vagabundo 1](https://open.spotify.com/track/5Yxn11dDQeByH8mdA1Tgoa) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Estilo Vagabundo](https://open.spotify.com/album/7AInqEgwdemP41grZlHsLQ) | 5:00 |
 
-Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMGVjYWYwNzkxYWUyNmEwMjIyNjAxYTE0NDg2OTAwOWY1`
+Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMDdjNDE1OTcyOGI5YjRjMDk2NzQzYjFkYThjYjYyZGVk`

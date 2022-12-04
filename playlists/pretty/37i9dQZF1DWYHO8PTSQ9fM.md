@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : ElGrandeToto
+> Les hits du moment sont ici\. Cover : Mocci
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,862 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,133 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 |
-| 2 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
+| 1 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
+| 2 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 |
 | 3 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 |
 | 4 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 |
 | 5 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 50 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 | 51 | [Khalini](https://open.spotify.com/track/7vDAeo3f0EmI5ckfsMcI8b) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:02 |
 
-Snapshot ID: `MTY2OTg5NDg2OSwwMDAwMDAwMDRmN2ZhMzliNjk5NTVmMzhjODZhMWQ0NmViODM0YmEz`
+Snapshot ID: `MTY3MDA4MzI5NywwMDAwMDAwMGM3NzQxOTk3MWQ3Y2QzMmQ2NDJlYzk2ZWI5Mzk1NzRi`

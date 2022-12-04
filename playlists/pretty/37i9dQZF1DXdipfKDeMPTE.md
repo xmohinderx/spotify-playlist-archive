@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,836 likes - 250 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,839 likes - 250 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 23 | [Follow The Lights](https://open.spotify.com/track/2vl2lbZvqLHIc6s82WA3Ki) | [Astrocats](https://open.spotify.com/artist/0dUcMmfiS0evuaD6VrmRoL) | [Follow The Lights](https://open.spotify.com/album/260DlmFD7lGtDIGXpwhTn3) | 2:09 |
 | 24 | [Fonts](https://open.spotify.com/track/0R59jpigi9VVdPo9DA6VA4) | [Manganese Sprinter](https://open.spotify.com/artist/3a9R6p2JMCzIPmdXA7d2yK) | [Fonts](https://open.spotify.com/album/1lxDN41o2LThFNVoxawIfj) | 2:25 |
 | 25 | [who's to say?](https://open.spotify.com/track/21VfOGn96ESFWTdQgavF9T) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [who's to say?](https://open.spotify.com/album/4Epas4vX34ucs7J3iQz5JH) | 2:18 |
-| 26 | [City Of Lofi](https://open.spotify.com/track/487Kkxgr20J7WW60ETMCFR) | [The Great Wide](https://open.spotify.com/artist/4FIpPOsZce0Bt86Voi9vj8) | [City Of Lofi](https://open.spotify.com/album/7qFFRJBS7AeqxMuQZGrBfh) | 2:05 |
+| 26 | [City Of Lofi](https://open.spotify.com/track/487Kkxgr20J7WW60ETMCFR) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [City Of Lofi](https://open.spotify.com/album/7qFFRJBS7AeqxMuQZGrBfh) | 2:05 |
 | 27 | [paris](https://open.spotify.com/track/70pmjmW5fmcKl2jA1JWHvj) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [paris](https://open.spotify.com/album/2WlvbIwWLEwkflo74OMKQS) | 2:15 |
 | 28 | [Seven Seas](https://open.spotify.com/track/2JopSERIXbuKbkeYdk2ZI7) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/1Y56nXdaB209z099ruA4jn) | 2:27 |
 | 29 | [Bhutan](https://open.spotify.com/track/6tz5m79w0m4fYEuSFSP5zR) | [Lil Weggis](https://open.spotify.com/artist/6FbvA8gHMGNtk5v7zYX7IV) | [Bhutan](https://open.spotify.com/album/5pEUFCOP2yRIxakTK3W5hU) | 1:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 95 | [San Francisco, 10AM](https://open.spotify.com/track/5482HpgkeGPqI5khVfbIjQ) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [San Francisco, 10AM](https://open.spotify.com/album/12YGpdNFBDPSGtrr20aQjy) | 2:09 |
 | 96 | [Moondust](https://open.spotify.com/track/5wVL5oe3j2S11EZc3qmA1R) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Moondust](https://open.spotify.com/album/5kwjoMQO24KAKGTX16rdRl) | 2:00 |
 | 97 | [Midnight Cigar](https://open.spotify.com/track/3f0NlJqwjtfPdmXbE2rpfH) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP) | [Midnight Cigar](https://open.spotify.com/album/2d7WHw8dMJsHHsKA69mER9) | 2:06 |
-| 98 | [nighttimez](https://open.spotify.com/track/6j5nBipBPT7wS8p8p2QZme) | [Bear Vizion](https://open.spotify.com/artist/5bRC2m9HTXM5x1NnJvbwhN) | [nighttimez](https://open.spotify.com/album/26o8cVWkrGSR55JnJSZxuo) | 1:51 |
-| 99 | [Cutting The Crap](https://open.spotify.com/track/0YacCBc1ZXHrktfiIBWM1p) | [No Dolby](https://open.spotify.com/artist/52BfyAKN0jvZkhu39J0w89) | [Cutting The Crap](https://open.spotify.com/album/08aDF6M1yB0G3Z9da2Z7pW) | 1:43 |
+| 98 | [nighttimez](https://open.spotify.com/track/6j5nBipBPT7wS8p8p2QZme) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [nighttimez](https://open.spotify.com/album/26o8cVWkrGSR55JnJSZxuo) | 1:51 |
+| 99 | [Cutting The Crap](https://open.spotify.com/track/0YacCBc1ZXHrktfiIBWM1p) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Cutting The Crap](https://open.spotify.com/album/08aDF6M1yB0G3Z9da2Z7pW) | 1:43 |
 | 100 | [I WISH I WAS LIKE YOU](https://open.spotify.com/track/2uvuagXuHwY0WQuUsWJUuM) | [Leevs](https://open.spotify.com/artist/3HHCa5TohONStbWCA2rhEo) | [I WISH I WAS LIKE YOU](https://open.spotify.com/album/3X8qt90fk0vDclaPxem7Nt) | 2:08 |
 | 101 | [Entangled](https://open.spotify.com/track/5YjyRNNS28iHVbrwrSyO0P) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Entangled](https://open.spotify.com/album/0T0rIb0FY0FMnrL6TDXw1K) | 1:47 |
 | 102 | [Tailwind](https://open.spotify.com/track/4fwDAHzAXT7r55nGJ5JZKj) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [Tailwind](https://open.spotify.com/album/2zjpDSio3watKNOwNcykwy) | 2:21 |

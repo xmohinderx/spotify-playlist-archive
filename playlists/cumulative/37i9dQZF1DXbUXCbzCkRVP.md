@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-92 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
+93 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1rB5kOejoAbOILEpVBlbXb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blues For Duke Robillard](https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 7:43 | 2022-05-25 |  |
 | [Blues for Nothing](https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv), [Steve Stills](https://open.spotify.com/artist/0dfXKGyyW8BPJ4QBS95tMY) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:15 | 2022-05-25 |  |
 | [Blues For Otis Rush](https://open.spotify.com/track/1pFnWumJB5ruhvlonhEz7G) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 8:29 | 2022-06-29 | 2022-07-25 |
+| [Blues For Otis Rush](https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 8:29 | 2022-11-24 |  |
 | [Blues For The Red Boy](https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA) | [The Todd Rhodes Orchestra](https://open.spotify.com/artist/6NGm0BWqiRAKTXxboM1tfU) | [The King Records R&B Anthology \- Volume 1](https://open.spotify.com/album/1TF4ssAYpS3HCJ2V5MxTOY) | 2:41 | 2022-05-25 |  |
 | [Blues We Like](https://open.spotify.com/track/67nOaC07CjUkWbxnINEH4v) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 5:06 | 2022-05-25 |  |
 | [Boedo's Blues](https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Boedo's Blues](https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf) | 2:13 | 2022-07-08 |  |
@@ -55,7 +56,7 @@
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/2ukRDdimXaalohB9F4bAXb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 1:34 | 2022-05-25 | 2022-07-28 |
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 | 2022-07-29 |  |
 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 | 2022-05-25 |  |
-| [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 | 2022-11-24 |  |
+| [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 | 2022-11-24 | 2022-12-04 |
 | [Little Johnny Lee](https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 6:33 | 2022-11-24 |  |
 | [Little Johnny Lee](https://open.spotify.com/track/5xYNNVevngzChjz5l8vZsj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 6:33 | 2022-05-25 | 2022-07-29 |
 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 | 2022-05-25 |  |

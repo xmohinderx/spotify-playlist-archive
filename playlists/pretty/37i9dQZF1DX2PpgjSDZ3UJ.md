@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,070 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,079 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 30 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 |
 | 31 | [El equilibrio](https://open.spotify.com/track/13LiYjx7tgdqjMxAt3pgtG) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 3:05 |
 | 32 | [PSILOCIBINA](https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1) | 3:17 |
-| 33 | [Más Triste Que Shinji Ikari](https://open.spotify.com/track/5dUhsIOT08kRzJHgbD9Mxz) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Bellavista](https://open.spotify.com/album/307m411JDgwF4UW2NuEJ3g) | 3:14 |
-| 34 | [Clap Clap](https://open.spotify.com/track/4vUIReErgckFJjhncayvWI) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Las Montañas](https://open.spotify.com/album/1vLTjn72rGfaaR6AnoVxUj) | 3:45 |
+| 33 | [Clap Clap](https://open.spotify.com/track/4vUIReErgckFJjhncayvWI) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Las Montañas](https://open.spotify.com/album/1vLTjn72rGfaaR6AnoVxUj) | 3:45 |
+| 34 | [Más Triste Que Shinji Ikari](https://open.spotify.com/track/5dUhsIOT08kRzJHgbD9Mxz) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Bellavista](https://open.spotify.com/album/307m411JDgwF4UW2NuEJ3g) | 3:14 |
 | 35 | [Chico Pum](https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ya Dormiré Cuando Me Muera](https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w) | 3:06 |
 | 36 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
 | 37 | [Centro](https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ƎDÉN](https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr) | 3:38 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 52 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 53 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 |
 | 54 | [Cuando Quieres Jugar Conmigo](https://open.spotify.com/track/7w7FKUvuYrXojcMjHyQbgc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Verte Antes de Fin de Año](https://open.spotify.com/album/7koEe8boQfsuzueElXW1bb) | 3:38 |
-| 55 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
-| 56 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 |
+| 55 | [Ay Corazón \(Silencio\)](https://open.spotify.com/track/4g4kww73ZByg6RDDfo4uuC) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Ay Corazón \(Silencio\)](https://open.spotify.com/album/6O6QViA34eNzHl5WAwUES2) | 3:52 |
+| 56 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 57 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 |
 | 58 | [7 O 9 \- Ep\. 11: Las vidas de los gato](https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Rod Peralta](https://open.spotify.com/artist/60ESJBF6qMVrZZU9y0reU5), [BLĀCIO](https://open.spotify.com/artist/3GnKd9mY5vfxcIUMdEpyab) | [AZULÆ](https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo) | 3:40 |
 | 59 | [Los Demás](https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Chocadito](https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2) | 4:45 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 68 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 |
 | 69 | [Cara De Idiota](https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Cara De Idiota](https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae) | 2:33 |
 | 70 | [Acción \- O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano](https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Acción \(O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano\)](https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj) | 4:08 |
-| 71 | [Stuck on You](https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [Too Bad](https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC) | 3:20 |
-| 72 | [Texas](https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Texas](https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP) | 4:18 |
+| 71 | [Texas](https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Texas](https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP) | 4:18 |
+| 72 | [Stuck on You](https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [Too Bad](https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC) | 3:20 |
 | 73 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 |
 | 74 | [Caminos Extraños](https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [En Transmisión Perpetua](https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe) | 4:19 |
 | 75 | [Eternos](https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Eternos](https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U) | 3:43 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 88 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 | 89 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMDFlOTdjMjA4YjQ3ZmFhNWUwOGRlYjBjNWI5ZDVlMmNk`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGI1NjU4MTA3MTAyYTUzMDg2ZGU0OTQwZGQ0ZDk1OTIz`

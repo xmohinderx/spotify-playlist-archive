@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,194 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,240 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mahlaki](https://open.spotify.com/track/1BoO5X2MnrwnaN6fEKHo7Q) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/7LYuHz535r0Prz2rXmEQ6n) | 4:14 |
 | 2 | [Takke](https://open.spotify.com/track/1mMFP46MOq92keItSUvSb0) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Dance With Nassif Zeytoun](https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE) | 3:28 |
 | 3 | [Seket El Kalam](https://open.spotify.com/track/7AFuJ7RH19rEML28nWb7oF) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Seket El Kalam](https://open.spotify.com/album/7vENdfNGO5G9E713VdAUPw) | 4:15 |
-| 4 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
-| 5 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 |
+| 4 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 |
+| 5 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
 | 6 | [SAWWAN](https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [SAWWAN](https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF) | 2:26 |
 | 7 | [Ma Mallet](https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Sarya Al Sawas 2014](https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V) | 4:12 |
 | 8 | [Gheyrik Ma Bekhtar](https://open.spotify.com/track/4LtVyR8CvxoI7hHLIfJGLW) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Best Of Hussein El Deek](https://open.spotify.com/album/6NnyYbSJErbQluhkGCnemW) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Sada Mawalena](https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Sada Mawalena](https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7) | 4:20 |
 | 50 | [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 |
 
-Snapshot ID: `MTY2ODI4Mzc4MywwMDAwMDAwMGUxMTNhNTc0ZDdiNTIzNTg5Zjk1MmQ5NTU5ODdiYjhi`
+Snapshot ID: `MTY2ODI4Mzc4MywwMDAwMDAwMGQ5NzY2ZWIzMDAyOTQ1ZGFlYjBkNDI2NDYzMGZmYTg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710,150 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,710,284 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 40 | [Corazón Sin Vida](https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Corazón Sin Vida](https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO) | 3:01 |
 | 41 | [Acuérdate de Mí](https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:57 |
 | 42 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 |
-| 43 | [Te echo de menos](https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te echo de menos](https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj) | 3:14 |
-| 44 | [El Que Olvida](https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:51 |
+| 43 | [El Que Olvida](https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:51 |
+| 44 | [Te echo de menos](https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te echo de menos](https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj) | 3:14 |
 | 45 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 |
 | 46 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 |
 | 47 | [Lo Intenté Todo](https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Lo Intenté Todo](https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2) | 3:24 |
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 73 | [Devuélveme El Corazón](https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Devuélveme El Corazón](https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d) | 4:04 |
 | 74 | [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 |
 | 75 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
-| 76 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
-| 77 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
+| 76 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
+| 77 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
 | 78 | [Amarte y Perderte](https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL) | 3:28 |
-| 79 | [Ahora Quien](https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Amar Sin Mentiras](https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq) | 5:05 |
-| 80 | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv) | 3:21 |
+| 79 | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv) | 3:21 |
+| 80 | [Ahora Quien](https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Amar Sin Mentiras](https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq) | 5:05 |
 | 81 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
 | 82 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 |
 | 83 | [Tiempo Pa Olvidar](https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Tiempo Pa Olvidar](https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Tanto Amor \(feat\. Matisse\) \- El Viaje de Matisse](https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tanto Amor \(feat\. Matisse\) \[El Viaje de Matisse\]](https://open.spotify.com/album/71E9VK0oe7JYo7h226EgIH) | 3:48 |
 | 100 | [Tomar Distancia](https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Tomar Distancia](https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT) | 2:30 |
 
-Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMDNjNDUxZTEyMGRmYmMyNDI3M2ExMzY0NzM0ZWZhNTA3`
+Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMDg4ZGI4NTliMjY4ZmI0NWJiMzc2Njc5YjdlNjRjMDkx`

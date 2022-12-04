@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-241 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+242 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 | 2021-12-24 |  |
 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 | 2022-10-29 |  |
 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 | 2021-12-24 |  |
-| [I Really Don't Want Much For Christmas](https://open.spotify.com/track/7EGUqJ63q9WH8HmFTpeaTY) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [I Really Don't Want Much For Christmas](https://open.spotify.com/album/5x26z9k6QpAjxmU478OXCg) | 3:47 | 2021-12-24 |  |
+| [I Really Don't Want Much For Christmas](https://open.spotify.com/track/7EGUqJ63q9WH8HmFTpeaTY) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [I Really Don't Want Much For Christmas](https://open.spotify.com/album/5x26z9k6QpAjxmU478OXCg) | 3:47 | 2021-12-24 | 2022-12-04 |
 | [I Saw Three Ships](https://open.spotify.com/track/556WbQbFI94lJCiPY8981h) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Christmas](https://open.spotify.com/album/65ubsfvf66iJTF0jTKQqgX) | 4:20 | 2021-12-24 | 2022-07-29 |
 | [I Want It Bad](https://open.spotify.com/track/2kDPCtHDXDhvC8epJJ3KnB) | [Jane's Party](https://open.spotify.com/artist/16SY7vICMlc8XGaTPocEa3), [Jay McCarrol](https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7) | [I Want It Bad](https://open.spotify.com/album/1IF2RnFShtveK7O0bJBdC7) | 3:45 | 2021-12-24 | 2022-07-24 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 | 2021-12-24 |  |
@@ -130,6 +130,7 @@
 | [It’s Me & You \(This Christmas\)](https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [It's Me & You \(This Christmas\)](https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp) | 2:28 | 2021-12-24 |  |
 | [Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing \- Medley / Alternate Version](https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Jingle All The Way \(Alternate Version\)](https://open.spotify.com/album/04IO52eF1aSGDjk6H375SY) | 2:52 | 2021-12-24 | 2022-11-13 |
 | [Jingle Bell Rock](https://open.spotify.com/track/1D7hNc5MALLU7RyjJ1j7NH) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Jingle Bell Rock](https://open.spotify.com/album/6aopXHhakGmlAGxMB5lmXw) | 2:04 | 2021-12-24 | 2022-07-29 |
+| [Jingle Bell Rock](https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Christmas Songs](https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ) | 2:20 | 2022-12-02 |  |
 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 | 2021-12-24 |  |
 | [Just Like A Shooting Star](https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf) | [Dani and Lizzy](https://open.spotify.com/artist/5QruqADxUmpzY0bT56039j) | [Just Like A Shooting Star](https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk) | 3:14 | 2021-12-24 | 2022-11-22 |
 | [Just Like Christmas](https://open.spotify.com/track/2gwTSk4cypsnt1nckURmDM) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Just Like Christmas](https://open.spotify.com/album/6nAO8njLZoV7rKfun9I3mI) | 3:00 | 2021-12-24 | 2022-08-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,190 likes - 66 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,218 likes - 66 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 35 | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/7Lcp4QlpR3RDngYejm4fmS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kahani \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/5R62UdMrx8tGmDVJragQtq) | 3:28 |
 | 36 | [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/track/208sMwgVcaFt2mT79Df1KG) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/album/1i4dE3ZSEKUVNA85Lr5nbA) | 3:34 |
 | 37 | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL) | 4:08 |
-| 38 | [Mehabooba](https://open.spotify.com/track/4hcIkSjuNMYd2bREG38xgH) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qOmNuXm9SoGIaTb6px0j1) | 3:33 |
+| 38 | [Mehabooba \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/4g5o1pEVeXJZi4OiWlTpGJ) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Telugu Latest Love Hits](https://open.spotify.com/album/4H7ZHLm19o7rt6xnFLnu60) | 3:32 |
 | 39 | [Meri Jaan](https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM) | 3:58 |
 | 40 | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/4lmtILzOIIvOzMBPMUzvKx) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/5y3SQgGGSM3nwRiIsdllq2) | 4:00 |
 | 41 | [Atak Gaya \- Arijit Singh](https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g7GkmjF2onRnLexy9cUiC) | 3:19 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 65 | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm) | 4:07 |
 | 66 | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM) | 3:20 |
 
-Snapshot ID: `MTY2OTM3NzI3MSwwMDAwMDAwMGQ5NjE3MWIyNDVkOGMzZTExMTM2ZDcyNWM3ZWI5NGRm`
+Snapshot ID: `MTY2OTM3NzI3MSwwMDAwMDAwMGMzZTZlNTUzNzY5ZDgwNGE2NjNlODEyMjcwMTVlMDAw`

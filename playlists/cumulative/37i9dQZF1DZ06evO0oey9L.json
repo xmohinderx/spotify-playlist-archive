@@ -942,6 +942,24 @@
     },
     {
       "album": {
+        "name": "No Quiero Agarrar El Rollo",
+        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121209,
+      "name": "No Quiero Agarrar El Rollo",
+      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
+    },
+    {
+      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },

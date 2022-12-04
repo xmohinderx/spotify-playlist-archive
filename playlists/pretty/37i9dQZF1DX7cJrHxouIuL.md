@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,075 likes - 151 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,081 likes - 151 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

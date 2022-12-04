@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,330 likes - 114 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,167 likes - 114 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 41 | [Christmas Time](https://open.spotify.com/track/3NlghT7vgsSB8UJjcJqO94) | [Sebastian Javier](https://open.spotify.com/artist/7jEax0MCKxovBHDU6AaFca) | [Christmas Time](https://open.spotify.com/album/2jURLzMPgGdJYJh0WZqGT8) | 2:54 |
 | 42 | [The First Noel](https://open.spotify.com/track/6Lu8BYRVgnlgEj65RvpFdH) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:24 |
 | 43 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 |
-| 44 | [Christmas Without You](https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:15 |
+| 44 | [Christmas Without You](https://open.spotify.com/track/1cEIJUSzxEQPKozm0vW0rV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Winter Mood \- 冬の気分に浸れる洋楽 \-](https://open.spotify.com/album/4ltmz7KA90ycNAH0rwhmvm) | 3:17 |
 | 45 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 |
 | 46 | [Silent Night](https://open.spotify.com/track/44i7QLwC4NQ9dSIYJaEzXl) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:14 |
 | 47 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 113 | [The Dream Of Christmas](https://open.spotify.com/track/4ocBbhGJ8mvnEz6OXbVa27) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/79AQ93mdfqoaRrCQuYYeLq) | 3:32 |
 | 114 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 
-Snapshot ID: `MTY2OTk4NTg3MiwwMDAwMDAwMDVlMWQzYTkwNDBjOTAwNGMzMWEzYTA1MDQyYzNmNGMy`
+Snapshot ID: `MTY2OTk4NTg3MiwwMDAwMDAwMDczZDU0NDAzYWY2MDk0MGNhNTgzNzg2Mjc0NjcxNzJk`

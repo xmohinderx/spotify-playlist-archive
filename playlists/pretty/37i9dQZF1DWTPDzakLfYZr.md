@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: The Rudeboyz, Maluma y Adam Levine
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,483 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,638 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

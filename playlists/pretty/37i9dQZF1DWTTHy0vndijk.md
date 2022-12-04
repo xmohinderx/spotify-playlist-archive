@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: woo!ah! \(우아!\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,779 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,907 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 28 | [Me Gustas Tu](https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 2nd Mini Album 'Flower Bud'](https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7) | 3:40 |
 | 29 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
 | 30 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
-| 31 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
-| 32 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 |
+| 31 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 |
+| 32 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
 | 33 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 |
 | 34 | [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 |
 | 35 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
@@ -47,23 +47,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 37 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 |
 | 38 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 3rd Mini Album 'SNOWFLAKE'](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 |
 | 39 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
-| 40 | [Anymore](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:17 |
+| 40 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 |
 | 41 | [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 |
-| 42 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 |
+| 42 | [Anymore](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:17 |
 | 43 | [Mr\. Chu](https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Pink Blossom](https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o) | 3:34 |
 | 44 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 |
 | 45 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 |
-| 46 | [Trouble? TRAVEL!](https://open.spotify.com/track/6A3J47xL9B4EFAjQ79YX52) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Trouble? TRAVEL!](https://open.spotify.com/album/07FQYMZJFk9t3jpZ8fDQAA) | 3:53 |
-| 47 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 |
-| 48 | [O.O.O \(Over&Over&Over\)](https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- O.O.O \(Over&Over&Over\)](https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6) | 4:07 |
-| 49 | [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 |
+| 46 | [O.O.O \(Over&Over&Over\)](https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- O.O.O \(Over&Over&Over\)](https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6) | 4:07 |
+| 47 | [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 |
+| 48 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 |
+| 49 | [Trouble? TRAVEL!](https://open.spotify.com/track/6A3J47xL9B4EFAjQ79YX52) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [Trouble? TRAVEL!](https://open.spotify.com/album/07FQYMZJFk9t3jpZ8fDQAA) | 3:53 |
 | 50 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
 | 51 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 | 52 | [Why Not?](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:25 |
 | 53 | [Dumhdurum](https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [LOOK](https://open.spotify.com/album/49NKBZDb92AQlMFypkZRTF) | 3:28 |
-| 54 | [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 |
-| 55 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 |
+| 54 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 |
+| 55 | [Sunrise](https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 2nd Album 'Time for us'](https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO) | 3:36 |
 | 56 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 |
-| 57 | [Sunrise](https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 2nd Album 'Time for us'](https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO) | 3:36 |
+| 57 | [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 |
 
-Snapshot ID: `MTY2ODU4OTIwMCwwMDAwMDAwMGMyYTQ1Yjk2Mzg0ZDY3MzI1NmU3ZDRiZjRlMDU4YTVh`
+Snapshot ID: `MTY2ODU4OTIwMCwwMDAwMDAwMDFkZmVhZWVkNzgwZjFkMDJkYTc5ZjM4NTRmNmI2MTdl`

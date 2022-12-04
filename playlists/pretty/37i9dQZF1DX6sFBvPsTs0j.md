@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sFBvPsTs0j.md) - [plain]
 
 > Easy and soft piano Jazz when you need to relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,113 likes - 133 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,176 likes - 133 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

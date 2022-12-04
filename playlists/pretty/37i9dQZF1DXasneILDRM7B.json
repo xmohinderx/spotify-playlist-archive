@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 1050356,
+  "num_followers": 1050959,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMGIyNTlkMzI2M2Y4Y2JhNTY1ZWE5OWM3ODdhMGIwN2I0",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDQ2MGM4MGU4YjI0ZTQxZDRhM2NkYTVkYzU2YThlN2M0",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -175,8 +175,8 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -287,8 +287,8 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Last Stop Suburbia",
-        "url": "https://open.spotify.com/album/5RckAEYpUDGYqGpn3OqRyz"
-      },
-      "artists": [
-        {
-          "name": "Allister",
-          "url": "https://open.spotify.com/artist/6Bygk8YvDJTfJSuY5ccUJH"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Somewhere On Fullerton",
-      "url": "https://open.spotify.com/track/7qPYC9z7FSJIjDc3V2tBix"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "fever",
         "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 197209,
       "name": "weapon",
       "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Last Stop Suburbia",
+        "url": "https://open.spotify.com/album/5RckAEYpUDGYqGpn3OqRyz"
+      },
+      "artists": [
+        {
+          "name": "Allister",
+          "url": "https://open.spotify.com/artist/6Bygk8YvDJTfJSuY5ccUJH"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Somewhere On Fullerton",
+      "url": "https://open.spotify.com/track/7qPYC9z7FSJIjDc3V2tBix"
     }
   ],
   "unique_name": "Pure Pop Punk",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,191 likes - 206 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,193 likes - 206 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Delicate Silence](https://open.spotify.com/track/6qGtOGeYlQc52iHd2SkKwC) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 2:46 |
 | 2 | [Clouds](https://open.spotify.com/track/6za1vOLEcxfVRs9xFTNGfS) | [Vista Hierro](https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp) | [An Evening Sky](https://open.spotify.com/album/3au3MZf62Yy8cm4OknYbWh) | 2:32 |
 | 3 | [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 |
-| 4 | [Essence Of Life](https://open.spotify.com/track/1AEY6qqRFUTssOXfRZOh9p) | [Sama Reicart](https://open.spotify.com/artist/37ciUEYtMGcDUn53mDSCtb) | [Essence Of Life](https://open.spotify.com/album/6meq3ncBqgqKwKmA8Zy7zR) | 3:15 |
+| 4 | [Essence Of Life](https://open.spotify.com/track/1AEY6qqRFUTssOXfRZOh9p) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Essence Of Life](https://open.spotify.com/album/6meq3ncBqgqKwKmA8Zy7zR) | 3:15 |
 | 5 | [Star Light](https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Atlas Of Beauty](https://open.spotify.com/album/0P5IAGKQmeAU3ZIN0IQyxf) | 2:32 |
 | 6 | [Alunissage](https://open.spotify.com/track/3I9DGW4nS3BJJeyoPNuOHS) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Alunissage](https://open.spotify.com/album/0JwgAGmFOckRMnqShQVbGG) | 2:56 |
 | 7 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 26 | [Yellow Sky \- Remix](https://open.spotify.com/track/3TLlEb1wke6lJTwCZutq52) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Yellow Sky \- Remix](https://open.spotify.com/album/0YgwqMPyCPRBIlGnkIEkSv) | 2:24 |
 | 27 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
 | 28 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 |
-| 29 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Mergen Aurel](https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
-| 30 | [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Zhou Thiemo](https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 |
+| 29 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
+| 30 | [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 |
 | 31 | [Rising](https://open.spotify.com/track/0Qy6plsdEVd1MIYBIXFJuJ) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Rising](https://open.spotify.com/album/6L2Zy4AGt4Js9crCKuPwnQ) | 2:34 |
 | 32 | [Counting Days](https://open.spotify.com/track/6ICbjz9nRT7tRGDrkabqc6) | [Twilight Time](https://open.spotify.com/artist/3TMpH9YDPUAnGeC5oEtq21) | [Counting Days](https://open.spotify.com/album/6XuscYT9AD9Q45AbvswZVA) | 2:37 |
 | 33 | [Let The Lights On](https://open.spotify.com/track/5jbEgWSfbxBA7573jEnYhr) | [Christine Malowe](https://open.spotify.com/artist/6v132t3GaQZqfu3okc5VoO) | [Let The Lights On](https://open.spotify.com/album/4L3rZkyKokj7M23tAAgLCF) | 3:01 |

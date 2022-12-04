@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,948 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,405 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 11 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 12 | [All Night \- Slowed N Reverb](https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Married In Vegas \(Matoma Remix\)](https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU) | 4:04 |
 | 13 | [vendetta! \- Slowed + Reverb](https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta! \(Slowed + Reverb\)](https://open.spotify.com/album/23BaWXcjrA2P7khBHQLP7N) | 1:57 |
-| 14 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
-| 15 | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC) | 3:00 |
+| 14 | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous \(SLOW & REVERB\)](https://open.spotify.com/album/4YI4JmnkU1ggD6wWdCrBfC) | 3:00 |
+| 15 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
 | 16 | [help\_urself \- slowed](https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 2:31 |
 | 17 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 18 | [SNAP \- Low and Slow](https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT) | 4:39 |
 | 50 | [I Don't Trust Nobody \- Slowed and Reverb](https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r) | [ZRobb](https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [My Head In The Sky](https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ) | 1:35 |
 
-Snapshot ID: `MTY2ODE0ODg2MCwwMDAwMDAwMDFjNGEyMTllNDA0MGU2OGQ5ZDY0ZjE0OWEzNTU3YjM1`
+Snapshot ID: `MTY2ODE0ODg2MCwwMDAwMDAwMGYxY2NkNDEwZTdiODA5YmZlYmEzYWU2ODUzZTUyYjVl`

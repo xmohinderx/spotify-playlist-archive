@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,990 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,167 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 34 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 35 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
 | 36 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 |
-| 37 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
-| 38 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
+| 37 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
+| 38 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
 | 39 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 |
 | 40 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 |
 | 41 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 45 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 |
 | 46 | [En Vida](https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 2:25 |
 | 47 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 |
-| 48 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
-| 49 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
+| 48 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
+| 49 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
 | 50 | [Payaso de rodeo](https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Payaso de rodeo](https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S) | 4:14 |
 | 51 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
 | 52 | [El Sonidito](https://open.spotify.com/track/3kCeW0fmkrLBWCpEGazRMR) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [El Sonidito](https://open.spotify.com/album/3BxWiuHL0AuFxpnVLTVmEC) | 3:19 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 64 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
 | 65 | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ) | 2:51 |
 | 66 | [No rompas mi corazón \- Achy Breaky Heart](https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Trayectoria](https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D) | 3:40 |
-| 67 | [La Vecinita](https://open.spotify.com/track/0qJWmorcTJIxCHdpX9xdMT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Pensando En Ti](https://open.spotify.com/album/7Ew5ubVqMA3lQq7nOqITok) | 2:36 |
-| 68 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
+| 67 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
+| 68 | [La Vecinita](https://open.spotify.com/track/0qJWmorcTJIxCHdpX9xdMT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Pensando En Ti](https://open.spotify.com/album/7Ew5ubVqMA3lQq7nOqITok) | 2:36 |
 | 69 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 |
 | 70 | [El Paso del Gigante](https://open.spotify.com/track/3G0msIrMQ9vVzvFrnkS6vw) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Grandes Exitos de La Cumbia Vol\. 2](https://open.spotify.com/album/4eIT6DsACeCBoV6Bg5o3H8) | 3:39 |
 | 71 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 89 | [Micaela](https://open.spotify.com/track/4b07ImFm5cxW7gx05lFWqG) | [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [Por Siempre Alacranes](https://open.spotify.com/album/4HxFwtq3TyZ4zZvl6fO6rX) | 3:55 |
 | 90 | [La Leona y el Mandilón](https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:31 |
 
-Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMDIwMTAyNzVlZjgxNDM0YTM3MmZiMTllNGNjOTI2MmE0`
+Snapshot ID: `MTY2MDkyOTQzNSwwMDAwMDAwMDBjM2Q5NzA2NmE2MjYwMDljODg0MDE4MDUzNDU5Nzkx`

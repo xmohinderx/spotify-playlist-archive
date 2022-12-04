@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring PAWSA.
 
-711 songs - 1 day 16 hr 28 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+712 songs - 1 day 16 hr 31 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Be Good](https://open.spotify.com/track/7vaPvdlnM8kBtibPGjRwxp) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Be Good](https://open.spotify.com/album/1BxTavE4Mq4RYV9NafcpWx) | 3:18 | 2022-02-18 | 2022-04-23 |
 | [Beautiful \- James Hype Remix](https://open.spotify.com/track/53Vaa3bArj0iBOyCb9Ta4Z) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Beautiful \(James Hype Remix\)](https://open.spotify.com/album/3YZlrtEA2PTwDNGAo84dLl) | 3:04 | 2022-04-29 | 2022-06-11 |
 | [Beggin For More](https://open.spotify.com/track/3SPdGT7bxHTi0c8hUJEeZT) | [Fran Valdivieso](https://open.spotify.com/artist/4guxJfujrQB0QSyCuH3f5o), [Wrong Department](https://open.spotify.com/artist/0e3STjK3glU43XkbMMz17D) | [Beggin For More](https://open.spotify.com/album/52yKPsGADBiTYBt41DzSlT) | 2:53 | 2022-08-19 | 2022-10-01 |
-| [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-02 |  |
+| [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-02 | 2022-12-04 |
+| [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-02 |  |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-01-14 | 2022-06-25 |
 | [Better Days \- GUZ Remix](https://open.spotify.com/track/6fXFHBFcfwUIjzGDb7ttgK) | [House Of Virus](https://open.spotify.com/artist/30GgMIm1GpwrIockIVpzkz), [Jimi Polo](https://open.spotify.com/artist/2LF3qYISOPgRfBywG1lWw9), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Better Days \(GUZ Remix\)](https://open.spotify.com/album/177fioYntPDgpvr24oCPqk) | 2:35 | 2022-05-06 | 2022-05-14 |
 | [Better Than This](https://open.spotify.com/track/3KbQSTVyoXHeJ8VLdvQFYr) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Parachute Youth](https://open.spotify.com/artist/7y5xCKz1V2iSh1YsOLyOPH) | [Better Than This](https://open.spotify.com/album/1GHxt8fwdzdjJfuZSv3B83) | 3:08 | 2021-11-26 | 2022-01-06 |

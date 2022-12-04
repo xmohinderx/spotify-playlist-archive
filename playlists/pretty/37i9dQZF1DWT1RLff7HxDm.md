@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,528 likes - 60 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,613 likes - 60 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Always Free \(Live in Austin\)](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 |
-| 2 | [Empty Promises \(Live\)](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 |
+| 2 | [Empty Promises \- Live](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 |
 | 3 | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X) | 6:13 |
 | 4 | [The Reformation \- Live in Camden](https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [The Reformation](https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9) | 3:35 |
 | 5 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 24 | [The Healing \- Live](https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Live North America 2016](https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN) | 5:38 |
 | 25 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 |
 | 26 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 |
-| 27 | [One of These Days \- Live](https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV) | 5:08 |
-| 28 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 |
+| 27 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 |
+| 28 | [One of These Days \- Live](https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV) | 5:08 |
 | 29 | [No Time For Cryin' \- Live](https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Live in London](https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX) | 5:22 |
 | 30 | [Nobody Knows You When You're Down And Out \- Live at LOCKN' / 2019](https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 4:59 |
 | 31 | [Things Are Changin' \- Live](https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 6:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Red Light \- Live](https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Live at the Ryman](https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1) | 10:15 |
 | 60 | [Rocket 88 \- Live](https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 7:26 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGRlNmE0NzNmNjU4MmQyODdkM2UxOTEwOTk4ZTMxNDU4`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGE3NDJlZGFkYjdmZTljNjNkMTg4NTEwMWZmMGE5NDZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,374 likes - 200 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,472 likes - 200 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 66 | [Control & Shape](https://open.spotify.com/track/0tFj3BzYeuG31brvnQFkqA) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Control & Shape](https://open.spotify.com/album/2vmeoonFQgwYHDRQmMzRmn) | 2:26 |
 | 67 | [You know it so try it](https://open.spotify.com/track/6LA3e74TtttA6PFhD3pneQ) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [You know it so try it](https://open.spotify.com/album/0UgCX7bUSlJ5szufSoLwb7) | 2:07 |
 | 68 | [Hip Hop Healing](https://open.spotify.com/track/0I6UBiDoGQVAB9EMuJfHVu) | [Osoku](https://open.spotify.com/artist/7tGFPYtcRKqkiEYu9ryCcl) | [Hip Hop Healing](https://open.spotify.com/album/3MnAoO1Pxejy6tZziJmCLS) | 2:53 |
-| 69 | [Deep Drone Magic](https://open.spotify.com/track/1V9FMnXI2CcPnnJmeDKVe1) | [Riki Leon](https://open.spotify.com/artist/6SNToe0Oza9Z0i4MYVMrx0) | [Deep Drone Magic](https://open.spotify.com/album/4P0Yw0kGIVTGA6N6POz7uh) | 1:54 |
+| 69 | [Deep Drone Magic](https://open.spotify.com/track/1V9FMnXI2CcPnnJmeDKVe1) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Deep Drone Magic](https://open.spotify.com/album/4P0Yw0kGIVTGA6N6POz7uh) | 1:54 |
 | 70 | [TuWho](https://open.spotify.com/track/24sF23FQFjsgQ0WCFllOFC) | [Loop](https://open.spotify.com/artist/1YnFRLLEjnqcJRcytKBZa5) | [TuWho](https://open.spotify.com/album/2s3lHNN8q6rScFsAFYVpNh) | 3:03 |
 | 71 | [brown red leaves](https://open.spotify.com/track/1VGRbMthQ9WzCzFRettr4u) | [Stainlexz](https://open.spotify.com/artist/1Qcw8vwRygx31ecdpJZsyT), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [brown red leaves](https://open.spotify.com/album/3fcXIm09o8gSv3is3tCnya) | 2:35 |
 | 72 | [Noah](https://open.spotify.com/track/7FiQ21YJUREnPpxg3bxJWk) | [Intjay](https://open.spotify.com/artist/14tP8zKJqmXnuYULLcnYkB) | [Noah](https://open.spotify.com/album/10N0QmAIWVqpRh6t7NvufC) | 1:49 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 78 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 |
 | 79 | [90's Flavour](https://open.spotify.com/track/5wFag2sCvJHkVJworyvPWQ) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mr\. Ginseng](https://open.spotify.com/artist/7ttm00ZarLoBYsKnjauVKw) | [90's Flavour](https://open.spotify.com/album/2XoxrVgfh8qQ3YxLGqnlAw) | 2:07 |
 | 80 | [Going Places](https://open.spotify.com/track/7nynETPpnViUI1xpfM974x) | [BeatLump](https://open.spotify.com/artist/1qfE0r0sCa4ZlMVl5rXwWL) | [Going Places](https://open.spotify.com/album/4LIfB9cGOegYwDfqbOxwUW) | 1:49 |
-| 81 | [Fiesta Siesta](https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue) | [Mojo Rojo](https://open.spotify.com/artist/1EUmokQ0A5FeDfuXb5IzJ8) | [Fiesta Siesta](https://open.spotify.com/album/4cp82gqMhMVUrGW6zFDuea) | 2:18 |
+| 81 | [Fiesta Siesta](https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Fiesta Siesta](https://open.spotify.com/album/4cp82gqMhMVUrGW6zFDuea) | 2:18 |
 | 82 | [DONTKRY](https://open.spotify.com/track/0N3Va74DxgNP3fsc2HmGEJ) | [dylantheinfamous](https://open.spotify.com/artist/5GU82aVRZ2vVfaNuNyYJMM) | [DONTKRY](https://open.spotify.com/album/6DVFOFmjYMtAutqOqwH4Vf) | 1:19 |
 | 83 | [Back In Time](https://open.spotify.com/track/31MDjUsn0l5YsOWzDqqFc5) | [ben iwa](https://open.spotify.com/artist/55xLPbt33Mg2MUQd7p1ev4), [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u) | [Back In Time](https://open.spotify.com/album/1nx7fxExiW1rhDcAqfODZ2) | 1:49 |
 | 84 | [Stars Above](https://open.spotify.com/track/5WtaGZevzqVOIoqpC80kT3) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Stars Above](https://open.spotify.com/album/73QcuppG1Gfqp0pEmy2o6O) | 3:03 |

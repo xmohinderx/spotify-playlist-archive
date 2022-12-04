@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,329 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,356 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 3 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
 | 4 | [Pídeme](https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Lo Más Romántico De](https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ) | 3:18 |
 | 5 | [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 |
-| 6 | [Te Cambio El Domicilio](https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:12 |
-| 7 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 |
+| 6 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 |
+| 7 | [Te Cambio El Domicilio](https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:12 |
 | 8 | [Lo Que Pienso De Ti](https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:34 |
 | 9 | [Olvidarte No Será Sencillo](https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:46 |
 | 10 | [Y Te Vas](https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 45 | [Vuelve, Vuelve \- En Vivo](https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Acústicos \(En Vivo\)](https://open.spotify.com/album/1mMTAEorTDJjxHVeN4eKLo) | 4:22 |
 | 46 | [La Repetidora](https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:35 |
 | 47 | [Mis Dos Vicios](https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:07 |
-| 48 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
-| 49 | [Vete Ya](https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 2:38 |
+| 48 | [Vete Ya](https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 2:38 |
+| 49 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 |
 | 50 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDA0MzA4ODI5OWZmMTk0ZjMyZmIxYmUzNjM0NTEwZDc4NQ==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA0YzRmYTdlNmQ5MzdmMTY3ZjE1NTU5ODU1OWY3MWE1ZQ==`

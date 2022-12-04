@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,783 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,994 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 23 | [Kill Me](https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:20 |
 | 24 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
 | 25 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 |
-| 26 | [Hunned Bandz](https://open.spotify.com/track/0nJM3li3qU18Q7MJqzbZ4R) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/64TSZqQszg2OHzX5vYiqRP) | 2:48 |
+| 26 | [Fast in My Car](https://open.spotify.com/track/5HqY0PolOVfmhTgCTih4HF) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:42 |
 | 27 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
-| 28 | [Fast in My Car](https://open.spotify.com/track/5HqY0PolOVfmhTgCTih4HF) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:42 |
+| 28 | [Hunned Bandz](https://open.spotify.com/track/0nJM3li3qU18Q7MJqzbZ4R) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/64TSZqQszg2OHzX5vYiqRP) | 2:48 |
 | 29 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
 | 30 | [Jackie](https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/2Q02pptKl3XlbHJWtQmHmJ) | 2:56 |
 | 31 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 38 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 |
 | 39 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 |
 | 40 | [Dream Song](https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Sleepyhead](https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa) | 2:10 |
-| 41 | [Dye Yer Hair](https://open.spotify.com/track/22rHS6KkGbNccIdXLlQoFg) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [Dye Yer Hair](https://open.spotify.com/album/7bUhqpm35dpdoRYNgZCS7m) | 3:00 |
-| 42 | [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 3:08 |
+| 41 | [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 3:08 |
+| 42 | [Dye Yer Hair](https://open.spotify.com/track/22rHS6KkGbNccIdXLlQoFg) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [Dye Yer Hair](https://open.spotify.com/album/7bUhqpm35dpdoRYNgZCS7m) | 3:00 |
 | 43 | [Super Soaker](https://open.spotify.com/track/5aPsS8Erp6FBlFSEunU51j) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 2:58 |
 | 44 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 |
-| 45 | [Perfect](https://open.spotify.com/track/0pO3rLTNv7tHZgB32B3ktv) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [925](https://open.spotify.com/album/1x4UFeq7sIZohSXgitqWXp) | 2:45 |
-| 46 | [Where to Start](https://open.spotify.com/track/59AH3Da4bVx4htRwPzYlBL) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [SUGAREGG](https://open.spotify.com/album/3o5jaI0rb660GQ7SiDse2R) | 3:00 |
+| 45 | [Where to Start](https://open.spotify.com/track/59AH3Da4bVx4htRwPzYlBL) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [SUGAREGG](https://open.spotify.com/album/3o5jaI0rb660GQ7SiDse2R) | 3:00 |
+| 46 | [Perfect](https://open.spotify.com/track/0pO3rLTNv7tHZgB32B3ktv) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [925](https://open.spotify.com/album/1x4UFeq7sIZohSXgitqWXp) | 2:45 |
 | 47 | [The Greatest](https://open.spotify.com/track/2XHJ3DLnRp7wfUwrhPcMKH) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:20 |
 | 48 | [Percolator](https://open.spotify.com/track/5qL7xLKWFsDbe1ojGl9cRT) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Guppy](https://open.spotify.com/album/2nHZYXFcuUsOCVWAIS4TTi) | 2:46 |
 | 49 | [She Said](https://open.spotify.com/track/2azIROikp58zEAbcYYmLpH) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:53 |
 | 50 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 |
 
-Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMDc2YTY1MjcyZjFmMDFiZTMyYmJmMTQ2ODI3ZmY2Yzkz`
+Snapshot ID: `MTY2OTEzNTUyNCwwMDAwMDAwMGIzODBhMDM0NWJhYWE5YTgxNzE3MDdjYTkyMzdjZTRj`

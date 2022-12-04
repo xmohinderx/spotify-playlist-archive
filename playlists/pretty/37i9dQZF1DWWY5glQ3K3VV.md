@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,835 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,953 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 40 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 |
 | 41 | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz) | 2:38 |
 | 42 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 |
-| 43 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 |
-| 44 | [Blauer](https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:55 |
+| 43 | [Blauer](https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:55 |
+| 44 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 |
 | 45 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 |
 | 46 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:21 |
 | 47 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/track/6KF78W66DcQ9m5YqR0r5Ig) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/album/0p1nAaMSArHL3sz5XKVIsq) | 3:20 |
 | 80 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 |
 
-Snapshot ID: `MTY2OTkzNTY2MCwwMDAwMDAwMGYwNTNiMGQ0ZWE2ZWExYmExZTA2NGU1Njc4NmU5MjE2`
+Snapshot ID: `MTY2OTkzNTY2MCwwMDAwMDAwMDBkMjVmNDg1NTVkYTUxNGMzMmRlMzQ1OGVmYzU0NTg5`

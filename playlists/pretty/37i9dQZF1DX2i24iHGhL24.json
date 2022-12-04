@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 83422,
+  "num_followers": 83533,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDE0ZmQzZDYzYzI5ZmYzNjZiYWEyMjQzNWU2ZGZkYWY0",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGU1ZTFlYTkxMGZmMWM0MWVmYmI2ODRkZDYyMzUxMzRm",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Use Somebody - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Everywhere (BBC Children In Need)",
         "url": "https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 171413,
       "name": "Everywhere (BBC Children In Need)",
       "url": "https://open.spotify.com/track/0z0kUUd2jPQiI2Ob8VXajc"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Use Somebody - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
         "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 163680,
       "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
       "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1044,22 +1044,6 @@
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
       },
       "artists": [
@@ -1071,6 +1055,22 @@
       "duration_ms": 186600,
       "name": "Teenage Dirtbag \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
       },
       "artists": [
         {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY"
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 210956,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1300,22 +1300,6 @@
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1331,6 +1315,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
         "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+      "duration_ms": 248449,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 190927,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4jaiounlhJY1Vd0Vt6lrpB"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248449,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Better Now - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+      "duration_ms": 167933,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Better Now - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
-      },
-      "artists": [
-        {
-          "name": "Dan Caplen",
-          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "No Letting Go - Acoustic",
-      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
         "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
@@ -1967,6 +1951,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
+      },
+      "artists": [
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "No Letting Go - Acoustic",
+      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "the quarantine covers",
         "url": "https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO"
       },
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Beautiful Girls",
-        "url": "https://open.spotify.com/album/4E0LEtlY4LfTdIK9J9AN8R"
-      },
-      "artists": [
-        {
-          "name": "OSIS",
-          "url": "https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea"
-        }
-      ],
-      "duration_ms": 245519,
-      "name": "Beautiful Girls",
-      "url": "https://open.spotify.com/track/6xBeYC4Y5Ya2nzZ9DYErXZ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 149189,
       "name": "Solar Power - Spotify Singles",
       "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Beautiful Girls",
+        "url": "https://open.spotify.com/album/4E0LEtlY4LfTdIK9J9AN8R"
+      },
+      "artists": [
+        {
+          "name": "OSIS",
+          "url": "https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea"
+        }
+      ],
+      "duration_ms": 245519,
+      "name": "Beautiful Girls",
+      "url": "https://open.spotify.com/track/6xBeYC4Y5Ya2nzZ9DYErXZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 284050,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 220975,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/1FT0UxEC9oRWUg18MfPEcj"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 284050,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2379,6 +2379,22 @@
       "duration_ms": 146668,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Covers from Home",
+        "url": "https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2635,22 +2651,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Covers from Home",
-        "url": "https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Soft Pop Hits",
         "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
       },
@@ -2663,6 +2663,22 @@
       "duration_ms": 182986,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2699,18 +2715,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
+        "name": "Boyfriends",
+        "url": "https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh"
       },
       "artists": [
         {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+          "name": "Wilson Phillips",
+          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
         }
       ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"
+      "duration_ms": 174915,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2795,22 +2811,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4"
-      },
-      "artists": [
-        {
-          "name": "Jennel Garcia",
-          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "The One That Got Away (Acoustic)",
         "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
       },
@@ -2823,6 +2823,22 @@
       "duration_ms": 217884,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4"
+      },
+      "artists": [
+        {
+          "name": "Jennel Garcia",
+          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2927,22 +2943,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Boyfriends",
-        "url": "https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh"
-      },
-      "artists": [
-        {
-          "name": "Wilson Phillips",
-          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Synth City",
         "url": "https://open.spotify.com/album/2xc7LOrGqYfDvSi0mZqheu"
       },
@@ -2979,22 +2979,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "If I Were A Boy",
-        "url": "https://open.spotify.com/album/7C7uRn4p2HhauHrzjb486u"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 244906,
-      "name": "If I Were A Boy",
-      "url": "https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Cover Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
       },
@@ -3007,6 +2991,22 @@
       "duration_ms": 212027,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "If I Were A Boy",
+        "url": "https://open.spotify.com/album/7C7uRn4p2HhauHrzjb486u"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 244906,
+      "name": "If I Were A Boy",
+      "url": "https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "A Blue State",
-        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
-      },
-      "artists": [
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 169782,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "positions",
         "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
       },
@@ -3059,18 +3043,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv"
+        "name": "A Blue State",
+        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
       },
       "artists": [
         {
-          "name": "The Butterfly Effect",
-          "url": "https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY"
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 189242,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO"
+      "duration_ms": 169782,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -3087,6 +3071,22 @@
       "duration_ms": 218283,
       "name": "Black Velvet - Junos 365 Sessions",
       "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv"
+      },
+      "artists": [
+        {
+          "name": "The Butterfly Effect",
+          "url": "https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY"
+        }
+      ],
+      "duration_ms": 189242,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO"
     },
     {
       "added_at": "2022-12-02 05:00:00",

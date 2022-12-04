@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,502 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,507 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 42 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 |
 | 43 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
 | 44 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
-| 45 | [Snapback](https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:26 |
+| 45 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
 | 46 | [Hard To Forget](https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:24 |
-| 47 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
+| 47 | [Snapback](https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:26 |
 | 48 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 |
 | 49 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 |
 | 50 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 99 | [Thought This Through \(Talegate Remix\)](https://open.spotify.com/track/53TqaPbE50nemoHs23g5ca) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi), [Talegate](https://open.spotify.com/artist/00IczxaF2dh2W68AutGoC6) | [Thought This Through \(Talegate Remix\)](https://open.spotify.com/album/3n3qky3fUqU7XnHno66e9P) | 2:49 |
 | 100 | [Be Like That \(feat\. Swae Lee & Khalid\) \[Matt Medved Remix\]](https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Matt Medved](https://open.spotify.com/artist/5xmKSoBLGN455TjWbaFcZa) | [Be Like That \(Remixes\) \- EP](https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3) | 3:24 |
 
-Snapshot ID: `MTY0MDE5NTI4NCwwMDAwMDAwMDdhNDBlYTE3NmE3NDdmYTg1Mjk3Y2QyNjFiOGQ1YmJm`
+Snapshot ID: `MTY0MDE5NTI4NCwwMDAwMDAwMGEwNThmZjk3MDkyMWZkZGI2ZmI2ODJhMzEyMjVlMGY0`

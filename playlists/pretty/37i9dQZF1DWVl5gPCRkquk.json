@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 856013,
+  "num_followers": 856107,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1NTYxNCwwMDAwMDAwMGNhOTRmMTRiNTc1NTYwYTVkOTg2MjBiZDMwOTFiNTg2",
+  "snapshot_id": "MTY2OTA1NTYxNCwwMDAwMDAwMDU4YjU2ZDFlYzAwODM3YzVlNWI4NTQ1NTViY2EyZTc1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 209906,
       "name": "Crowded Table",
       "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Waking Up in Los Angeles",
+        "url": "https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 241384,
+      "name": "Waking Up in Los Angeles",
+      "url": "https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "How Long Do You Think It's Gonna Last?",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Waking Up in Los Angeles",
-        "url": "https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5"
+        "name": "Radiator",
+        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
         }
       ],
-      "duration_ms": 241384,
-      "name": "Waking Up in Los Angeles",
-      "url": "https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz"
+      "duration_ms": 234783,
+      "name": "radiator",
+      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Radiator",
-        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
-      },
-      "artists": [
-        {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
-        }
-      ],
-      "duration_ms": 234783,
-      "name": "radiator",
-      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 265387,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1371,26 +1391,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 265387,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Adeline",
         "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
       },
@@ -1403,6 +1403,26 @@
       "duration_ms": 188824,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Evergreen (feat. Molly Tuttle)",
+        "url": "https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 191993,
+      "name": "Evergreen (feat. Molly Tuttle)",
+      "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1419,6 +1439,22 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1443,42 +1479,6 @@
       "duration_ms": 251733,
       "name": "America",
       "url": "https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Evergreen (feat. Molly Tuttle)",
-        "url": "https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 191993,
-      "name": "Evergreen (feat. Molly Tuttle)",
-      "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
     },
     {
       "added_at": "2022-10-07 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hVUrFvprfE.md) - [plain]
 
 > Not anti\-prom..\. just anti giving a crap about a dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hVUrFvprfE.md) - [plain]
 | 31 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 |
 | 32 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 |
 | 33 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
-| 34 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |
-| 35 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
+| 34 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
+| 35 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |
 | 36 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 |
 | 37 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 38 | [The Other Side Of Paradise](https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 5:20 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hVUrFvprfE.md) - [plain]
 | 43 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
 | 44 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 |
 | 45 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
-| 46 | [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 3:52 |
-| 47 | [Silver Soul](https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:58 |
+| 46 | [Silver Soul](https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:58 |
+| 47 | [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 3:52 |
 | 48 | [Hey Kids](https://open.spotify.com/track/5poS8LyxohSACjuIZ61EyS) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [Late Verlane](https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3) | [Hey Kids](https://open.spotify.com/album/2w5lbvxycNKqfGSrWgmDpI) | 3:53 |
 | 49 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 50 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hVUrFvprfE.md) - [plain]
 | 59 | [Crybaby](https://open.spotify.com/track/61a0LXQA7wJ64CGzttDaN9) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 3:10 |
 | 60 | [For the Damaged Coda](https://open.spotify.com/track/6lvJDlBrtabJWiBlMTGxKs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody of Certain Damaged Lemons](https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN) | 2:37 |
 
-Snapshot ID: `MTY1MTgwOTYwMCwwMDAwMDAwMDI4ZWE5MzVhOWE4NWY5MzQzYjM5NDk1YWRkOTVmZDdl`
+Snapshot ID: `MTY1MTgwOTYwMCwwMDAwMDAwMDNiNWFlYmIzNmJjZWY1YjU3MTc0YWY1OTFjMDc3OTA2`

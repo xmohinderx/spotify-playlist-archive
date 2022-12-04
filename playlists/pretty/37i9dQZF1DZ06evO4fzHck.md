@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,533 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,862 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 42 | [The Caterpillar](https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Top \(Deluxe Edition\)](https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV) | 3:41 |
 | 43 | [Last Dance \- Remastered](https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:43 |
 | 44 | [Maybe Someday](https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bloodflowers](https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B) | 5:06 |
-| 45 | [End \- Live In Paris / 1992](https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 8:40 |
-| 46 | [Underneath The Stars](https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 6:16 |
+| 45 | [Underneath The Stars](https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 6:16 |
+| 46 | [End \- Live In Paris / 1992](https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 8:40 |
 | 47 | [Prayers For Rain \- Remastered](https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 6:07 |
 | 48 | [If Only Tonight We Could Sleep \- Live](https://open.spotify.com/track/2fqKtoic5F3mJW5JpnVScF) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Anniversary: 1978 \- 2018 Live In Hyde Park London](https://open.spotify.com/album/3rK1q79KbTporCJVvbMNUX) | 5:13 |
-| 49 | [Cut \- 1990 Demo](https://open.spotify.com/track/1Esj2DJR8Xlxru5RDQtcoP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 3:33 |
-| 50 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
+| 49 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
+| 50 | [Cut \- 1990 Demo](https://open.spotify.com/track/1Esj2DJR8Xlxru5RDQtcoP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 3:33 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDAxZGE0MjgwNjViM2Y2YjA5M2I4NWJhOGNlMDU2ZWZhYg==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDBlZDdlOWQ3MWRkNjUwNzY0OGQxYjM0ZDk1MGI3ZDJkMQ==`

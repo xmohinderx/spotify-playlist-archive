@@ -4,13 +4,14 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-54 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0suQIohnJkMbg3Mf0bU3LR)
+55 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/0suQIohnJkMbg3Mf0bU3LR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Ángel](https://open.spotify.com/track/471CAxyTTVZDK8g4MUXfnq) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Voy A Entregar Mi Corazón](https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2) | 3:36 | 2022-07-22 |  |
 | [Alaba](https://open.spotify.com/track/3gtKnR2a9bQMIB4OnSZ1JX) | [Banda Generasion](https://open.spotify.com/artist/6W6JOZ91tOgrLB4bdcGs3r) | [Yo Soy Generasion](https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV) | 5:24 | 2022-07-22 |  |
-| [Almas Mecanicas](https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/2EXsfs6TC1Z2l2kw8CivdQ) | 5:52 | 2022-07-22 |  |
+| [Almas Mecanicas](https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/2EXsfs6TC1Z2l2kw8CivdQ) | 5:52 | 2022-07-22 | 2022-12-04 |
+| [Almas Mecanicas](https://open.spotify.com/track/4t15P4sjW4v7OsaxvmD42k) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/3GkSk8MzVJjxBKSgCh4mfx) | 5:52 | 2022-10-25 |  |
 | [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 | 2022-07-22 | 2022-10-26 |
 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 | 2022-07-22 |  |
 | [Dias Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 | 2022-07-22 |  |

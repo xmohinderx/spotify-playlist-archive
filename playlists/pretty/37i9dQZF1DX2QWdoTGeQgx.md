@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Sit back and unwind to the most selamba songs around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,588 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,637 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 9 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
 | 10 | [my only](https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [my only](https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu) | 2:53 |
 | 11 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
-| 12 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
-| 13 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 |
+| 12 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 |
+| 13 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
 | 14 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 |
 | 15 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 |
 | 16 | [my type](https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [my type](https://open.spotify.com/album/3qhn2VpMdGW7khh0FGXA9F) | 2:12 |
 | 17 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T \(Wanna Hold U Tight\)](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
 | 18 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
-| 19 | [Whiskey Bottle](https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 2:30 |
-| 20 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
+| 19 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
+| 20 | [Whiskey Bottle](https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 2:30 |
 | 21 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
 | 22 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
 | 23 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 55 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
 | 56 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 |
 | 57 | [Teenage Dream](https://open.spotify.com/track/3cr8XcChCFSkZogQnCNGXl) | [Wen Wei](https://open.spotify.com/artist/12LXmUdAbhmRP9CCa7wGHn) | [Teenage Dream](https://open.spotify.com/album/6qKAa3lbkxOIRXYNzNBFJ4) | 3:45 |
-| 58 | [Better With You](https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Better With You](https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC) | 2:46 |
+| 58 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
 | 59 | [no space](https://open.spotify.com/track/3W1wvz416f8ZaGJyTlaCBq) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [no space](https://open.spotify.com/album/1U1lgG9SK27rA9rVNdKZci) | 2:57 |
 | 60 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 61 | [Serendipity](https://open.spotify.com/track/1NikdFvytzN4sS2XTDleOp) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX), [Julia Gartha](https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs) | [Serendipity](https://open.spotify.com/album/4gXr2hrrKhdD4X4oBsvlgr) | 2:46 |
 | 62 | [love from afar](https://open.spotify.com/track/0fvl59TGA4uO3a2kVDsOWM) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [love from afar](https://open.spotify.com/album/6NxNRFMuU0jiWyaMdj6EPM) | 4:09 |
 | 63 | [Hopelessly Devoted To You](https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Hopelessly Devoted To You](https://open.spotify.com/album/2MK7qxuZhopOH2KzdnHds2) | 3:38 |
-| 64 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
+| 64 | [Better With You](https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Better With You](https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC) | 2:46 |
 | 65 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 |
 | 66 | [Pulang](https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh), [Aj](https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37) | [Pulang](https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3) | 4:20 |
 | 67 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 69 | [Moonlight](https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Moonlight](https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819) | 3:06 |
 | 70 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 |
 
-Snapshot ID: `MTY2NjkwMDc0NiwwMDAwMDAwMDgxYzhjZmFlZDI0ZDU0NmMzMjVjZmZjMmE0NjJiODJl`
+Snapshot ID: `MTY2NjkwMDc0NiwwMDAwMDAwMDM3YTVmMzZlN2RlMmE2MTY0Yjg4NTJhOTBjOTE3MDVj`

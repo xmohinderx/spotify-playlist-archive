@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,734 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,901 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 41 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 |
 | 42 | [The Only Way is Down](https://open.spotify.com/track/2NRClj4jFGy35kmAooFcTN) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Victoria & Abdul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vOVohJVa82DGdzk3uVW8g) | 1:13 |
 | 43 | [Harry and Ginny](https://open.spotify.com/track/25XuCuq4K715NKLOohw7ZM) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0) | 1:43 |
-| 44 | [Thank You For Being My Friend](https://open.spotify.com/track/23VgfPIZCZr9hhg0Z3l59o) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/4Fm0bCiGx5j5E7tntHv2J7) | 3:52 |
+| 44 | [Thank You For Being My Friend](https://open.spotify.com/track/16zZ6xJoy1MQ03K2RgItua) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/3orFgkUSLsCypUNgtGgcZ7) | 3:52 |
 | 45 | [The Globe Newsroom](https://open.spotify.com/track/5b5f2QcUDRvwj7Pz9HPlEr) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Spotlight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3u04rTgOYkILUtXzreNszQ) | 2:02 |
 | 46 | [Extremely Loud and Incredibly Close](https://open.spotify.com/track/4FnK3GEuekjYXavXPIGlmQ) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Extremely Loud and Incredibly Close \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WAWnX8Ryd0CfqnYnV6wzB) | 1:57 |
 | 47 | [Frank Gehry](https://open.spotify.com/track/7BaosKNwKG6icbPSpNPg2y) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [A Family Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1oMmTmUhk9eAgaU2ls8gjz) | 2:13 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 55 | [The Chair](https://open.spotify.com/track/1EcJYWBoOiF8TlcUyYPVY3) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [The Chair](https://open.spotify.com/album/22Y2C5UQbkvxQOzEUdjDG9) | 4:31 |
 | 56 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
 
-Snapshot ID: `MTY2MDU1NTk2MCwwMDAwMDAwMDY5M2FkMmM5MmJhNjU5MTAyOGZjNjFhYmNlYmZhNGZi`
+Snapshot ID: `MTY2MDU1NTk2MCwwMDAwMDAwMGNiODRiYTM3MzQ4YjU5ZDZjZjRhZWQ3MTk5ZDAzMmEw`

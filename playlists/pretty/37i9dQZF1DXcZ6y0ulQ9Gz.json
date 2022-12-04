@@ -1,12 +1,12 @@
 {
   "description": "The best of Indie in one place. Cover: Steve Lacy",
-  "num_followers": 26279,
+  "num_followers": 26301,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDU0ZGI1MjM5NGRiZGYwNzg0YjhmOTA0N2FmNDlhYzQz",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGU2NWJlNjhhYWM1ZmI4ZDkzZDExMGQwYmU4YjhhMjcw",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Fallen Star",
-        "url": "https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 224938,
-      "name": "Fallen Star",
-      "url": "https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 194693,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Fallen Star",
+        "url": "https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 224938,
+      "name": "Fallen Star",
+      "url": "https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Untitled (Black Is)",
         "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "THREAT",
-        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 170793,
-      "name": "THREAT",
-      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "THREAT",
+        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 170793,
+      "name": "THREAT",
+      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Liz",
         "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 175866,
       "name": "Liz",
       "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Working for the Knife",
-        "url": "https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 158617,
-      "name": "Working for the Knife",
-      "url": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Working for the Knife",
+        "url": "https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "Working for the Knife",
+      "url": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 220332,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Heaven, Wait",
         "url": "https://open.spotify.com/album/5kQwGFGp61L6iYlk8tgHCS"
       },
@@ -1515,22 +1535,6 @@
       "duration_ms": 230587,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7BjZD4TVbmqNAJpEbvS6By"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1551,6 +1555,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 137092,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 220332,
-      "name": "Bound",
-      "url": "https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo"
     },
     {
       "added_at": "2022-11-11 05:00:00",

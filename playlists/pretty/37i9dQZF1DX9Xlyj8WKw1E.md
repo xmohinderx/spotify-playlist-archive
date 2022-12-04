@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Babyface Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,391 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,392 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 1 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 2 | [One Time \(feat\. Jeezy\)](https://open.spotify.com/track/4tKDqeQ3ncq5o5TSWfqF6r) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [One Time \(feat\. Jeezy\)](https://open.spotify.com/album/271gGCV1AglrQLAr1VsiAx) | 2:46 |
 | 3 | [Chiraq](https://open.spotify.com/track/0noJPiJ7nLUrh0oPWhZK2f) | [KB Mike](https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY) | [Chiraq](https://open.spotify.com/album/5lHcFqzArUef00Mttol0tO) | 3:33 |
 | 4 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 19 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
 | 20 | [Dumb In Love With You](https://open.spotify.com/track/6WFQyZonE1mQkeLx1ymi0k) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Dumb In Love With You](https://open.spotify.com/album/6Y04QM8AkjO42pzX1Yvxik) | 3:33 |
 | 21 | [For The Best](https://open.spotify.com/track/6TIAj4WLkXKV6afNwXz1dp) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [For The Best](https://open.spotify.com/album/3Ycl5WaR5AVYL90ZjECwx4) | 3:01 |
-| 22 | [ETI \- Original](https://open.spotify.com/track/4q7BGKFjgeQYeo5cgf8ML2) | [Marshall Vincent](https://open.spotify.com/artist/33drHOJI6SmYvHGKiHMqOh) | [ETI](https://open.spotify.com/album/1ccVU2Nr1zUJoX653NGOHt) | 3:02 |
+| 22 | [ETI](https://open.spotify.com/track/4q7BGKFjgeQYeo5cgf8ML2) | [Marshall Vincent](https://open.spotify.com/artist/33drHOJI6SmYvHGKiHMqOh) | [ETI](https://open.spotify.com/album/1ccVU2Nr1zUJoX653NGOHt) | 3:02 |
 | 23 | [Close friends](https://open.spotify.com/track/32F5kTZn5QRuxL1BnnX913) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Close friends](https://open.spotify.com/album/3pT69NRXaQN4P6TX3FtH9O) | 2:46 |
 | 24 | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/track/5iY0Mx5x4XMUL8PKIFns4n) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci) | 3:18 |
 | 25 | [IDGAF](https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [IDGAF](https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI) | 2:18 |

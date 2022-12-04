@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,999 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,313 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 33 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 |
 | 34 | [Reste un oiseau](https://open.spotify.com/track/2EJF3EdnuLtLNVNafgP08h) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [S.H.A.M.A.N.E.S](https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS) | 3:15 |
 | 35 | [Why Not?](https://open.spotify.com/track/0mhDVzQgnwtrY1JnDqz7KQ) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Why Not? / Montara](https://open.spotify.com/album/7DKRJTdgGHoTedH7F9z50G) | 5:30 |
-| 36 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 |
+| 36 | [Ondes of Chakras](https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Ondes of chakras](https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ) | 6:17 |
 | 37 | [Ascent](https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Ascent](https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0) | 4:40 |
 | 38 | [Faith](https://open.spotify.com/track/6IaE8Jw1Wm5GyXjDZT3gOk) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 8:33 |
 | 39 | [Eh Hee 2.0 \(feat\. Dave Matthews, Pat Metheny\)](https://open.spotify.com/track/5N9bcA6tfDSDCcymXQlqqn) | [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [SHIFT \(Bad Hombre, Vol\. II\)](https://open.spotify.com/album/68mtSbfLawBp5pJvBxSEAF) | 4:28 |

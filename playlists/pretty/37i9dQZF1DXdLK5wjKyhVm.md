@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,377 likes - 200 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,990 likes - 200 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 85 | [No Requests](https://open.spotify.com/track/5nl0c4J9RxP2hW4R8mzSbG) | [dsntf](https://open.spotify.com/artist/7pGATqxSjgQ7u0YQzeTH9F) | [No Requests](https://open.spotify.com/album/6WrE77WQive8u8DjZocOKC) | 2:25 |
 | 86 | [Flannel Ballad](https://open.spotify.com/track/5ML2EJhOo795DQdu9vlnkA) | [funLabor](https://open.spotify.com/artist/0bzltcLBQqC7wTDefQutkc) | [Flannel Ballad](https://open.spotify.com/album/1ZDYdlP14ukhfHIVGUeDm9) | 1:49 |
 | 87 | [in other forms](https://open.spotify.com/track/1WN8vpPDnYAQWtEJqyenVq) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [in other forms](https://open.spotify.com/album/00UiVyvCrzBo7Hez7BFr1d) | 1:41 |
-| 88 | [Bad Advice](https://open.spotify.com/track/64Y98kPBDetoal6mecQuDh) | [Le Bam](https://open.spotify.com/artist/3dXi6sfHQLwkue5VkN7f07) | [Bad Advice](https://open.spotify.com/album/7nAp6b785JHPm7RN0Xqo7y) | 1:55 |
+| 88 | [Bad Advice](https://open.spotify.com/track/64Y98kPBDetoal6mecQuDh) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Bad Advice](https://open.spotify.com/album/7nAp6b785JHPm7RN0Xqo7y) | 1:55 |
 | 89 | [rooibos](https://open.spotify.com/track/3nXix3ekYTh1LAYxmpcMZQ) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [rooibos](https://open.spotify.com/album/4hkW6DiANxyOHha2fCsBZZ) | 2:29 |
 | 90 | [Great Listener](https://open.spotify.com/track/6naWnjaM6tZwt7Mpnv9HQK) | [Yashan](https://open.spotify.com/artist/6qH95hbW1DJeRbsIG1OKFp) | [Great Listener](https://open.spotify.com/album/7eLNVm2V5UdCg2IWMampBB) | 1:46 |
 | 91 | [late at night](https://open.spotify.com/track/0ml6yjq12mYNMuBgn9KJE0) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [late at night](https://open.spotify.com/album/48qNXV3F112EWWdys7D8ha) | 2:06 |

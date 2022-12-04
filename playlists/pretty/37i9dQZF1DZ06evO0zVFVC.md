@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,969 likes - 48 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,999 likes - 48 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,19 +16,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 6 | [The Void](https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:53 |
 | 7 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
 | 8 | [Idols and Anchors](https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:48 |
-| 9 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
+| 9 | [Like Napalm](https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:44 |
 | 10 | [Shadow Boxing](https://open.spotify.com/track/0IjgnngXXRb1adm4kYVeB2) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:50 |
 | 11 | [Bottom Feeder](https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:20 |
 | 12 | [Schattenboxen](https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Viva The Underdogs](https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb) | 3:50 |
-| 13 | [Like Napalm](https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:44 |
+| 13 | [The Greatest Fear](https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 5:28 |
 | 14 | [Wishing Wells](https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 5:03 |
 | 15 | [Crushed](https://open.spotify.com/track/2BzEsfwqucjlBSFu8s74sz) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:36 |
 | 16 | [Sleepwalker](https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:01 |
-| 17 | [The Greatest Fear](https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 5:28 |
+| 17 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 |
 | 18 | [Absolute Power](https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:42 |
 | 19 | [Dedicated](https://open.spotify.com/track/467sEVDgETBscsn9OKJ87Q) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 3:23 |
 | 20 | [Karma](https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:49 |
-| 21 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 |
+| 21 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
 | 22 | [Chronos](https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 6:20 |
 | 23 | [A Deathless Song \(feat\. Jenna McDougall\)](https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [Jenna McDougall](https://open.spotify.com/artist/2GlLtFW2NFh16BFIxMvIYC) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 4:00 |
 | 24 | [Deliver Me](https://open.spotify.com/track/1OuOKS43b3pRYb9d49WrBp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:13 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 47 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:40 |
 | 48 | [Mutiny](https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:13 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBjOGJjOTg2ZmUxOTk5MDVlZjg1YmU5NGQyNDE5YjY3Nw==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDAyMjNlNDU4NzdmZGEyYTVmN2Q2MzkwNmQxNTRjMjBlNA==`

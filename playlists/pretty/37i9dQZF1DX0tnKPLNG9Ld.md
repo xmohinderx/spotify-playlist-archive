@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,689 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,760 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 29 | [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 |
 | 30 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
 | 31 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 |
-| 32 | [Oh! Look At Me Now](https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 2:22 |
-| 33 | [Sunny](https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH) | [Gemini Changes](https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB) | 2:10 |
+| 32 | [Sunny](https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH) | [Gemini Changes](https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB) | 2:10 |
+| 33 | [Oh! Look At Me Now](https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 2:22 |
 | 34 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 35 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
 | 36 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 71 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
 | 72 | [Woman's Got Soul](https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra](https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA) | 2:22 |
 | 73 | [Let's Dance](https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 2:32 |
-| 74 | [Hey There](https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [A Treasury Of Golden Hits](https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby) | 2:56 |
-| 75 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
+| 74 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
+| 75 | [Hey There](https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [A Treasury Of Golden Hits](https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby) | 2:56 |
 | 76 | [What Game Shall We Play Today](https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 4:26 |
 | 77 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
 | 78 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [Es wird scho glei dumpa](https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe) | [Jazzrausch Bigband](https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw), [Julian Hesse](https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U) | [Es wird scho glei dumpa](https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z) | 3:13 |
 | 100 | [Didn't You](https://open.spotify.com/track/1ST1NsO69sL7rUZKdrLeQz) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 4:43 |
 
-Snapshot ID: `MTY2OTkwMzM0MiwwMDAwMDAwMDllNjAwM2FjOTIzMjRmYmYxYTM1YjdmZjNiZjYwMGQ4`
+Snapshot ID: `MTY2OTkwMzM0MiwwMDAwMDAwMDllOTExOGVhMzJjYWViYmMzNDljMTAzZDM2YTc1NTYw`

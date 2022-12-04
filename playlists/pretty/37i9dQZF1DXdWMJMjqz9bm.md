@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,907 likes - 58 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,975 likes - 58 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

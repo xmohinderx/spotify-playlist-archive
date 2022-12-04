@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Manuel Medrano, Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,168 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,341 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 55 | [Dance Forever](https://open.spotify.com/track/7giwWyKAz4UTduCgnrQxSx) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Dance Forever](https://open.spotify.com/album/4y1HLTEMoY6ZfGpIH3Vgnh) | 2:37 |
 | 56 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 57 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
-| 58 | [Buenos Dias Bebé](https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Buenos Dias Bebé](https://open.spotify.com/album/7GBQ9TY855quKaacVc7yZD) | 3:36 |
-| 59 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
+| 58 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
+| 59 | [Buenos Dias Bebé](https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Buenos Dias Bebé](https://open.spotify.com/album/7GBQ9TY855quKaacVc7yZD) | 3:36 |
 | 60 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 |
 | 61 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 |
 | 62 | [Marea](https://open.spotify.com/track/762sfNdn6m2dnTp8VqFiF5) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:14 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 86 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 |
 | 87 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 | 88 | [Ganas de Verte](https://open.spotify.com/track/53LAYZeyIvplSdQTmEoeKC) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Ganas de Verte](https://open.spotify.com/album/3iskV49V4RAvWSbHOBrgr7) | 4:05 |
-| 89 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
+| 89 | [Feliz](https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:43 |
 | 90 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
-| 91 | [Feliz](https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:43 |
+| 91 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 |
 | 92 | [Y Es de Día](https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Gimnasia para Momias](https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG) | 5:37 |
 | 93 | [Fotosíntesis](https://open.spotify.com/track/6BARUJnP3HFzeEcK9KER1g) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Fotosíntesis](https://open.spotify.com/album/3VppSFRLWDea4KZmSs80HQ) | 3:04 |
 | 94 | [Sin Ti \(feat\. Quique Neira\)](https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [MIL Canciones](https://open.spotify.com/album/6zjahAclu3UUidDuggIIMJ) | 3:31 |
-| 95 | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/track/0i28uCpFSDqIf7KVTqj5hv) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/album/0t3QVhg859BVQMZ9BxQWK5) | 4:06 |
-| 96 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
-| 97 | [Moreno](https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Moreno](https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4) | 4:18 |
-| 98 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
+| 95 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
+| 96 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
+| 97 | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/track/0i28uCpFSDqIf7KVTqj5hv) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [No me quieras mal \(feat\. Green Valley\)](https://open.spotify.com/album/0t3QVhg859BVQMZ9BxQWK5) | 4:06 |
+| 98 | [Moreno](https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Moreno](https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4) | 4:18 |
 | 99 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
 | 100 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDk1MDQ5YmI3MWJiZWQzZjhmZjgzNTA2ZmM2N2IxOGRl`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDNkZDAxZjcwYTRjYjNkMGNjZjRmY2M4NTQ5MDgwNzIz`

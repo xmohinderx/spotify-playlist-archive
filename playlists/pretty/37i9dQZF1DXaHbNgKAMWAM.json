@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 8485,
+  "num_followers": 8513,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MjQ5MCwwMDAwMDAwMDhjNzM2YTVkYWQyYmNiZTRjODdjMjY4YThhZDVjOTk0",
+  "snapshot_id": "MTY2OTM0MjQ5MCwwMDAwMDAwMDViMmVhNWVjYzUxNzU5MGUxOWEwYjljYzJlMWVmMmQ1",
   "tracks": [
     {
       "added_at": "2022-11-22 08:58:45",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 260607,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 260607,
-      "name": "Gift",
-      "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -565,23 +565,7 @@
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
-        "name": "LUV SIGN",
-        "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Got U",
-      "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
-    },
-    {
-      "added_at": "2022-12-03 01:31:02",
+      "added_at": "2022-12-04 01:35:01",
       "album": {
         "name": "GOMAK BOYS",
         "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
@@ -611,6 +595,22 @@
       "duration_ms": 184066,
       "name": "For You",
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
+        "name": "LUV SIGN",
+        "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Got U",
+      "url": "https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx"
     },
     {
       "added_at": "2022-11-22 08:58:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-22 08:58:45",
       "album": {
-        "name": "SPRING (Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan')",
-        "url": "https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP"
-      },
-      "artists": [
-        {
-          "name": "JAECHAN",
-          "url": "https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "Our Season",
-      "url": "https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV"
-    },
-    {
-      "added_at": "2022-11-22 08:58:45",
-      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
+    },
+    {
+      "added_at": "2022-11-22 08:58:45",
+      "album": {
+        "name": "SPRING (Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan')",
+        "url": "https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP"
+      },
+      "artists": [
+        {
+          "name": "JAECHAN",
+          "url": "https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "Our Season",
+      "url": "https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV"
     },
     {
       "added_at": "2022-11-22 08:58:45",

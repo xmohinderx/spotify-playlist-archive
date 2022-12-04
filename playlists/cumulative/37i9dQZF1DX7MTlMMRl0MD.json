@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Bluetooth",
+        "url": "https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj"
+      },
+      "artists": [
+        {
+          "name": "Brenda Aliendro",
+          "url": "https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160560,
+      "name": "Bluetooth",
+      "url": "https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -890,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Sin Cara (2.0)",
+        "url": "https://open.spotify.com/album/5HDywuzxDTbHC3FyKsv4bK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210118,
+      "name": "Coraz\u00f3n Sin Cara - 2.0",
+      "url": "https://open.spotify.com/track/2KYJkrhsEOmyUgeFPCHvkD"
+    },
+    {
+      "album": {
         "name": "Criminal (Bachata Version)",
         "url": "https://open.spotify.com/album/5bCLLEFFlPJx8n2oelzBjD"
       },
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 206933,
       "name": "Darte un Beso",
       "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-28",
+      "date_removed": null,
       "duration_ms": 234786,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl"
@@ -1847,7 +1883,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 240080,
       "name": "Hablamos En La Cama",
       "url": "https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi"
@@ -2129,6 +2165,24 @@
       "duration_ms": 238395,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/31q1SLZZJZkdXENljyG1xC"
+    },
+    {
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR"
+      },
+      "artists": [
+        {
+          "name": "Manny Rod",
+          "url": "https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204125,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG"
     },
     {
       "album": {
@@ -2849,7 +2903,7 @@
           "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
         }
       ],
-      "date_added": "2022-10-28",
+      "date_added": "2022-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203327,
@@ -3029,7 +3083,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 264266,
       "name": "Necio (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
@@ -3445,7 +3499,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 223133,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA"
@@ -4391,9 +4445,9 @@
           "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
         }
       ],
-      "date_added": "2022-10-28",
+      "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 164093,
       "name": "SIRI",
       "url": "https://open.spotify.com/track/5S4aEL1BMsgLvCSt4BijHd"
@@ -4415,7 +4469,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 198332,
       "name": "Sobredosis (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"

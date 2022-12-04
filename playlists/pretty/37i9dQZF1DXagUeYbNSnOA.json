@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168174,
+  "num_followers": 168185,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDUxYTJhNjJmNzFjNGEzNjQyYWQ4Y2UxYWJhYmQ0NmVi",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMGFiMGI5YWFhNGUxZmUxNDlhMWE5NjE1OTNiMzIzYzA4",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "HUGITO",
         "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Axis",
-        "url": "https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
       },
       "artists": [
         {
-          "name": "Natalia Spiner",
-          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Axis",
-      "url": "https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS"
+      "duration_ms": 247698,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -619,6 +603,22 @@
       "duration_ms": 141597,
       "name": "piano, piano",
       "url": "https://open.spotify.com/track/7t18kLASLlcOnCsD7GtFu8"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Axis",
+        "url": "https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Spiner",
+          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Axis",
+      "url": "https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "AGUA CON SAL",
-        "url": "https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m"
-      },
-      "artists": [
-        {
-          "name": "cata rec",
-          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
-        }
-      ],
-      "duration_ms": 198031,
-      "name": "AGUA CON SAL",
-      "url": "https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/0SWw8wLHOkel2D5H1Y5pFo"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 238474,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/61R9b6bR0ikp0ezhjJ0AtL"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "AGUA CON SAL",
+        "url": "https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m"
+      },
+      "artists": [
+        {
+          "name": "cata rec",
+          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
+        }
+      ],
+      "duration_ms": 198031,
+      "name": "AGUA CON SAL",
+      "url": "https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg"
     },
     {
       "added_at": "2022-11-30 14:52:40",

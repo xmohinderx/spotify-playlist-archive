@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,687 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,021 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 27 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 28 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
 | 29 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 |
-| 30 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
-| 31 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
+| 30 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
+| 31 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 | 32 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 |
 | 33 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 |
 | 34 | [Con Un Botecito A Pecho](https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Con Un Botecito A Pecho](https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k) | 2:56 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 47 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 48 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
 | 49 | [Soy lo prohibido](https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:04 |
-| 50 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
+| 50 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 |
 | 51 | [En Realidad](https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [En Realidad](https://open.spotify.com/album/4RX4z2boimAXPxgEif3YKM) | 3:25 |
 | 52 | [Perdí la Pose](https://open.spotify.com/track/6FGMsyDuHxkUmPwMvAJvDj) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 2:37 |
 | 53 | [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 56 | [Como Tú Decidas](https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 3:07 |
 | 57 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 | 58 | [No discutamos](https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:22 |
-| 59 | [Caballero](https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Caballero](https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C) | 3:48 |
+| 59 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
 | 60 | [El Loco](https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:54 |
 | 61 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
 | 62 | [El Pastor](https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [Cucurrucucu Paloma](https://open.spotify.com/track/5VTlMAQ0x9EdDyehNQor8D) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p), [Mariachi Guadalajara De Silvestre Vargas](https://open.spotify.com/artist/4nAScEAjSATCbdeccIftls) | [Canciones Populares](https://open.spotify.com/album/6mTzA7zGzLhmYSQycC8f09) | 3:15 |
 | 100 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 
-Snapshot ID: `MTY2ODU0NzgxOSwwMDAwMDAwMDk4NmNhZjc0N2M5YTM2Y2NmNWMxMDdjNDA3ZDBhOTMz`
+Snapshot ID: `MTY2ODU0NzgxOSwwMDAwMDAwMDdhNGEwMTRhOGQyOWZmMzU1ZTFjMzg0ZmQ4MjA5NzE5`

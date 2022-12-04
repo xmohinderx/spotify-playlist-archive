@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 1984247,
+  "num_followers": 1984447,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTczMTYxMywwMDAwMDAwMDU3NGZiYmEzYTI2NmQzMTQ3ODYwMDQ5ZjNlNWNiYzc4",
+  "snapshot_id": "MTY2OTczMTYxMywwMDAwMDAwMGFhZGUwNzEwMjZjYzUxYmMyZDZiMTU0OTNlMjdlYmQz",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Hodges: Front and Center, Vol. 1",
+        "url": "https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD"
+      },
+      "artists": [
+        {
+          "name": "Owen Broder",
+          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
+      "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 329600,
       "name": "Ballad Of The Sad Young Men",
       "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Hodges: Front and Center, Vol. 1",
-        "url": "https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD"
-      },
-      "artists": [
-        {
-          "name": "Owen Broder",
-          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
-      "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Gilles Peterson - Magic Peterson Sunshine",
-        "url": "https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw"
-      },
-      "artists": [
-        {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
-        }
-      ],
-      "duration_ms": 280480,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Rhapsody in Blue",
         "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 249453,
       "name": "Rhapsody in Blue",
       "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Gilles Peterson - Magic Peterson Sunshine",
+        "url": "https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 280480,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -799,6 +799,46 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "duration_ms": 472573,
+      "name": "Music For Some Film",
+      "url": "https://open.spotify.com/track/5iiM7aAhdPWhzvoGtSqGtP"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/6LXuAUGcglKV3b4zEwbDqJ"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        },
+        {
+          "name": "Krydda Sundstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
+        },
+        {
+          "name": "Oskar Cederblad",
+          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
+        }
+      ],
+      "duration_ms": 241434,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2M5EVZsjXDyj532rLybsHt"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Mankind to Earth",
         "url": "https://open.spotify.com/album/3gVD9Plwh4a4ajwRFKB73J"
       },
@@ -819,22 +859,6 @@
       "duration_ms": 533500,
       "name": "Mankind to Earth",
       "url": "https://open.spotify.com/track/5W4WLKjKt4rVmyQV8CsCZ2"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 472573,
-      "name": "Music For Some Film",
-      "url": "https://open.spotify.com/track/5iiM7aAhdPWhzvoGtSqGtP"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -899,30 +923,6 @@
       "duration_ms": 160720,
       "name": "Roy",
       "url": "https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Autumn Leaves",
-        "url": "https://open.spotify.com/album/6LXuAUGcglKV3b4zEwbDqJ"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen Trio",
-          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
-        },
-        {
-          "name": "Krydda Sundstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm"
-        },
-        {
-          "name": "Oskar Cederblad",
-          "url": "https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM"
-        }
-      ],
-      "duration_ms": 241434,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2M5EVZsjXDyj532rLybsHt"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Answer Me (Live from Budapest)",
-        "url": "https://open.spotify.com/album/3C9m7THKeXyUkICSDItxOb"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 269024,
-      "name": "Answer Me - Live from Budapest",
-      "url": "https://open.spotify.com/track/58eWz82VjBZLNwL6u4li7F"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Stay Now",
         "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 270896,
       "name": "Procession",
       "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Answer Me (Live from Budapest)",
+        "url": "https://open.spotify.com/album/3C9m7THKeXyUkICSDItxOb"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 269024,
+      "name": "Answer Me - Live from Budapest",
+      "url": "https://open.spotify.com/track/58eWz82VjBZLNwL6u4li7F"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Semantics",
-        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rathbun",
-          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
-        }
-      ],
-      "duration_ms": 501106,
-      "name": "Old Ballad For Hawk",
-      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 252480,
-      "name": "Get Out of Town",
-      "url": "https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Quiet Nights of Quiet Songs",
         "url": "https://open.spotify.com/album/371VzyXWti506VTodQfkf8"
       },
@@ -1223,6 +1191,38 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 252480,
+      "name": "Get Out of Town",
+      "url": "https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Semantics",
+        "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rathbun",
+          "url": "https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx"
+        }
+      ],
+      "duration_ms": 501106,
+      "name": "Old Ballad For Hawk",
+      "url": "https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Street Of Dreams",
         "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 320373,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Cloud 10",
+        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "duration_ms": 365693,
+      "name": "Before I Go",
+      "url": "https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Cloud 10",
-        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        }
-      ],
-      "duration_ms": 365693,
-      "name": "Before I Go",
-      "url": "https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Theme for Ernie",
         "url": "https://open.spotify.com/album/2nT1hom1JGnM6Z1RQCCPxs"
       },
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "The Parable Of The Poet",
+        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 344466,
+      "name": "BENEDICTION",
+      "url": "https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Perspectives",
         "url": "https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 317426,
       "name": "Stairway to the Stars",
       "url": "https://open.spotify.com/track/4XfFBYtS2QlwddTWzbxGGS"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "The Parable Of The Poet",
-        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 344466,
-      "name": "BENEDICTION",
-      "url": "https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 376445,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/7d9ND9ohwsKUB40Ce9ThFp"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6cFgakb3roXl3GgOqr3XHS"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 388600,
       "name": "Lament",
       "url": "https://open.spotify.com/track/3u5U1SG291e4HfJUm4MMQV"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 376445,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/7d9ND9ohwsKUB40Ce9ThFp"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Links",
-        "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 232559,
-      "name": "Links",
-      "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Pocket Rhapsody II",
         "url": "https://open.spotify.com/album/7o7WzQ3safNurKu8xWrcji"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Links",
+        "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 232559,
+      "name": "Links",
+      "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Isabela",
         "url": "https://open.spotify.com/album/53IXzlGp6ibwzN5DHR156U"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Broken Balance",
-        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
-      },
-      "artists": [
-        {
-          "name": "Shalosh",
-          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
-        }
-      ],
-      "duration_ms": 160999,
-      "name": "Quiet Corner",
-      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Silver Light",
         "url": "https://open.spotify.com/album/37zSkjz6slUovSDYQlqFCX"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Gone With Golson",
-        "url": "https://open.spotify.com/album/6F2T22yUsmFWvnETgGBB1y"
+        "name": "Broken Balance",
+        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Shalosh",
+          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
         }
       ],
-      "duration_ms": 516133,
-      "name": "Blues After Dark",
-      "url": "https://open.spotify.com/track/6kVGcuAOP7WnMnhWTL2p0W"
+      "duration_ms": 160999,
+      "name": "Quiet Corner",
+      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1743,6 +1727,38 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
+        "name": "Gone With Golson",
+        "url": "https://open.spotify.com/album/6F2T22yUsmFWvnETgGBB1y"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 516133,
+      "name": "Blues After Dark",
+      "url": "https://open.spotify.com/track/6kVGcuAOP7WnMnhWTL2p0W"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Preaching to the Choir",
+        "url": "https://open.spotify.com/album/3Lc55JT9sZ0c4nTVu2xKWD"
+      },
+      "artists": [
+        {
+          "name": "Vincent Herring",
+          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
+        }
+      ],
+      "duration_ms": 386440,
+      "name": "In a Sentimental Mood",
+      "url": "https://open.spotify.com/track/2VEB1PohDkoy7NBDeKhepa"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Preaching to the Choir",
-        "url": "https://open.spotify.com/album/3Lc55JT9sZ0c4nTVu2xKWD"
-      },
-      "artists": [
-        {
-          "name": "Vincent Herring",
-          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
-        }
-      ],
-      "duration_ms": 386440,
-      "name": "In a Sentimental Mood",
-      "url": "https://open.spotify.com/track/2VEB1PohDkoy7NBDeKhepa"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2022-11-24 23:00:00",
       "album": {
-        "name": "Ben Webster Meets Oscar Peterson",
-        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "In The Wee Small Hours Of The Morning",
-      "url": "https://open.spotify.com/track/5gtIMCsxsCn9wxlfed5Doy"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
         "name": "Live At Bird's Eye",
         "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 319468,
       "name": "When October Goes - Live",
       "url": "https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ"
+    },
+    {
+      "added_at": "2022-11-24 23:00:00",
+      "album": {
+        "name": "Ben Webster Meets Oscar Peterson",
+        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/5gtIMCsxsCn9wxlfed5Doy"
     },
     {
       "added_at": "2022-11-24 23:00:00",

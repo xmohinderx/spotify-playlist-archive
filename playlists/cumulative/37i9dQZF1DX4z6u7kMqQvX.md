@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-395 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+396 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 | 2022-01-07 | 2022-07-05 |
 | [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 | 2022-04-01 | 2022-07-21 |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2022-01-07 |  |
-| [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2022-01-07 |  |
+| [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2022-01-07 | 2022-12-04 |
 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-10-28 | 2022-11-13 |
 | [aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 | 2022-07-15 | 2022-07-20 |
 | [Ares Herido](https://open.spotify.com/track/2D68IRfHtph27wM8xrOGka) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ares Herido](https://open.spotify.com/album/5cUNE8WOV2C3nLCRfxrJVL) | 2:59 | 2022-01-07 | 2022-07-22 |
@@ -92,6 +92,7 @@
 | [Corazón](https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp) | 3:19 | 2022-01-07 | 2022-04-20 |
 | [Corazón de piedra](https://open.spotify.com/track/0ck5g54mtxNccaHXSHiKxu) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [Corazón de piedra](https://open.spotify.com/album/1SSa8plyYVHl21FG65zkJQ) | 3:21 | 2022-05-06 | 2022-07-26 |
 | [Cosas para Decirte](https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 5:40 | 2022-01-07 |  |
+| [Cuando Estamos los Dos](https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Portales](https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd) | 3:17 | 2022-12-02 |  |
 | [Cuando Estamos los Dos](https://open.spotify.com/track/49OdM2GAMPKmjMvKREwr9z) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Cuando Estamos los Dos](https://open.spotify.com/album/6fcX02OAL5PYZWgzusNEwB) | 3:17 | 2022-01-07 | 2022-07-24 |
 | [Cuando Te Vas](https://open.spotify.com/track/72ge45v4SgWtoP7Z3IxNUr) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Cuando Te Vas](https://open.spotify.com/album/2KOXFHYCaZITE4XsWwE1w1) | 3:22 | 2022-04-01 | 2022-04-15 |
 | [Cuenta Conmigo](https://open.spotify.com/track/5pkLzY2lawUgk6TZHph7uN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Cuenta Conmigo](https://open.spotify.com/album/1PV8wnu2yvaGsq7WQnbj4P) | 4:51 | 2022-01-07 | 2022-06-21 |

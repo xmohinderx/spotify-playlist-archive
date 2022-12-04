@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,989 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,125 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 10 | [I Wanna Love You](https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 4:07 |
 | 11 | [Chammak Challo](https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Hamsika Iyer](https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 3:47 |
 | 12 | [I Wanna Fuck You](https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 2:58 |
-| 13 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 |
-| 14 | [Sorry, Blame It On Me](https://open.spotify.com/track/61BqwgSRTyWH9M4uPjsC3B) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:55 |
+| 13 | [Sorry, Blame It On Me](https://open.spotify.com/track/61BqwgSRTyWH9M4uPjsC3B) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:55 |
+| 14 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 |
 | 15 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 |
 | 16 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 17 | [Locked Up](https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 44 | [Coméntale](https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:34 |
 | 45 | [That's Right \(feat\. Akon\) \- Explicit Album Version](https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Last 2 Walk](https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn) | 2:56 |
 | 46 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
-| 47 | [Tell Me We're Ok](https://open.spotify.com/track/6gHG47OtyMngVSvRSw6tuH) | [DJ Hardwerk](https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tell Me We're Ok \- Single](https://open.spotify.com/album/0YKav7VhBM8vUefVsGCNvT) | 4:38 |
-| 48 | [Keep You Much Longer](https://open.spotify.com/track/2vmGdxSGSkWTZJmtDLPvGC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 4:20 |
+| 47 | [Keep You Much Longer](https://open.spotify.com/track/2vmGdxSGSkWTZJmtDLPvGC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 4:20 |
+| 48 | [Tell Me We're Ok](https://open.spotify.com/track/6gHG47OtyMngVSvRSw6tuH) | [DJ Hardwerk](https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tell Me We're Ok \- Single](https://open.spotify.com/album/0YKav7VhBM8vUefVsGCNvT) | 4:38 |
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDAyY2JhZmQ0Nzk3YTU2ODYxNGFjMmQ0NzVlZjEyZmQ4ZQ==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDAzMGZlM2NlMDA4MGFjYmUzY2ViYmIwZjNmYWI3ZWI1Mg==`

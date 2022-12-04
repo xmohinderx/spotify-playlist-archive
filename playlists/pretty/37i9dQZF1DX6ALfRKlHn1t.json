@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 1006062,
+  "num_followers": 1006171,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDM2YTBkNWU1MTIxZTMzZDhhNTEzYWVkN2E2MzNlNTM0",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGUxMjk5ZDA1YmFlN2UzOTEwYjNkYTAzODEzZThiYjM3",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "The Tarantino Connection",
+        "url": "https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q"
+      },
+      "artists": [
+        {
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Little Green Bag",
+      "url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "The Tarantino Connection",
-        "url": "https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q"
-      },
-      "artists": [
-        {
-          "name": "George Baker Selection",
-          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Little Green Bag",
-      "url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Pacific Daydream",
         "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 216187,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/0ByROqFlBxTQeX4XlvE7Gk"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Apocalypse Whenever",
+        "url": "https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 202955,
+      "name": "Peachy",
+      "url": "https://open.spotify.com/track/176zLXcj1PiFN7DATpBT1j"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Apocalypse Whenever",
-        "url": "https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 202955,
-      "name": "Peachy",
-      "url": "https://open.spotify.com/track/176zLXcj1PiFN7DATpBT1j"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Aer",
         "url": "https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 188416,
       "name": "Crazy Mad Beautiful",
       "url": "https://open.spotify.com/track/7aZkSXM4C6XBspwHaLSvaJ"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Girls.",
-        "url": "https://open.spotify.com/album/731pQqiILP4nsxEUzvRAhf"
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+          "name": "TWIN XL",
+          "url": "https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 232863,
-      "name": "Mixtape",
-      "url": "https://open.spotify.com/track/7pV3R5btHH6ddO4FYUumej"
+      "duration_ms": 161068,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
     }
   ],
   "unique_name": "Soak Up the Sun",

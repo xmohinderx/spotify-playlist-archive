@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,628 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,694 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 39 | [マーシャル・マキシマイザー](https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 2:43 |
 | 40 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
 | 41 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 |
-| 42 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
-| 43 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 |
+| 42 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 |
+| 43 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 44 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 |
 | 45 | [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 |
 | 46 | [39 Music!](https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 Music!](https://open.spotify.com/album/22mBVLZToKGQ2Qc4DN6pPP) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Shadow Shadow](https://open.spotify.com/track/3kKrLW9Fi7FdPi5oeLER7U) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Shadow Shadow](https://open.spotify.com/album/0czcM9b8vvv9vGIoftmnMq) | 2:21 |
 | 50 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 |
 
-Snapshot ID: `MTY2OTkxNDYxNiwwMDAwMDAwMGZmNDViYTMyNjA2YjQwNGY2ODE0MzE2NjA4NjczNGVi`
+Snapshot ID: `MTY2OTkxNDYxNiwwMDAwMDAwMDQwOTk1YzI4MDAzMDNkMjRmYjkzODc4NDQxMzZmNGRi`

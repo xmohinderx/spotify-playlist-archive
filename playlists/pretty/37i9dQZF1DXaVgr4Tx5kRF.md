@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,911 likes - 65 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,091 likes - 65 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 12 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 13 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
 | 14 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 15 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
+| 15 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 |
 | 16 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 |
-| 17 | [The Drugs Don't Work](https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 5:04 |
-| 18 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 |
+| 17 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
+| 18 | [The Drugs Don't Work](https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 5:04 |
 | 19 | [Sit Down](https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr) | 4:04 |
 | 20 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
 | 21 | [She Bangs the Drums \- Remastered](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Trash](https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 4:05 |
 | 65 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 
-Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMDZmZmM0NmE2YmEwZmViYjYwZDQ2ZWI3MjZiNTBkOTRl`
+Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMGZkZjUyZDJkZDQ4NzM1YWM2Mzk4ODVhZWFjODhmN2M4`

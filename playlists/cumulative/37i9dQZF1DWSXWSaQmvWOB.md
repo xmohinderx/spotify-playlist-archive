@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-595 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+596 songs - 1 day 12 hr 35 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [I Don't Need](https://open.spotify.com/track/2OWxZQWs4e7iFTitJcuwj9) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [I Don't Need](https://open.spotify.com/album/1jtH0Y8ZHrDYdgrb1jyjiY) | 2:37 | 2020-03-25\* | 2020-04-12 |
 | [i miss](https://open.spotify.com/track/7lCesgt0Bnuu229PE0prHY) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [no sleep in LA](https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe) | 3:44 | 2022-09-22 | 2022-11-13 |
 | [I Miss You Baby, Pt\. 1](https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Miss You Baby, Pt\. 1](https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF) | 4:04 | 2022-10-14 |  |
+| [I Need \- Mav's Version](https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are the Brave \(Mav's Version\)](https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph) | 3:59 | 2022-12-02 |  |
 | [I Need A Man \- 2020 Remaster](https://open.spotify.com/track/1FXVZvHIgXMy9FEvIBMXad) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [I Need A Man \(2020 Remaster\)](https://open.spotify.com/album/3743OmxhbZblJxwYI4JJbj) | 5:33 | 2020-09-21 | 2021-02-28 |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-02-01 | 2021-04-17 |
 | [I See Fire](https://open.spotify.com/track/5lwvVpNRG0GsjxwE2cIMZc) | [Paa Kofi](https://open.spotify.com/artist/3wR1dAQNUCIYpjXJJmMNB3) | [I See Fire](https://open.spotify.com/album/4nh6dRVrhAbnrUUpE55mIF) | 3:07 | 2021-01-23 | 2021-04-23 |
@@ -389,7 +390,7 @@
 | [Own Me](https://open.spotify.com/track/0NYd1Gbv9zXS3w1oSzzBA7) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 3:37 | 2021-09-24 | 2022-01-28 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-08 | 2020-08-25 |
 | [Parachutes](https://open.spotify.com/track/1FLl9H98n8TVPqGvPACnUq) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Parachutes](https://open.spotify.com/album/3cs8uoEmn3QNbUYfuJ1Jx5) | 3:43 | 2020-03-25\* | 2020-08-25 |
-| [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 | 2022-04-08 |  |
+| [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 | 2022-04-08 | 2022-12-04 |
 | [Paris](https://open.spotify.com/track/0ZVgf0hXL2hdrhNbZ0DYdI) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Paris](https://open.spotify.com/album/6db4NbMyKv2N0HGPngeN4a) | 2:55 | 2022-10-14 | 2022-12-02 |
 | [Patience](https://open.spotify.com/track/0v8AGlTcou0f49oeaJkfSR) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:09 | 2020-03-25\* | 2020-10-30 |
 | [Peace by Piece](https://open.spotify.com/track/3aWxO57NUJM1StrCzJLflQ) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Peace by Piece](https://open.spotify.com/album/2y5IH8hmjixAvhff4XdNiI) | 3:02 | 2020-12-05 | 2021-04-17 |

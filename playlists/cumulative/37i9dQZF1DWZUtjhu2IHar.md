@@ -4,7 +4,7 @@
 
 > Highlights from the class of 2022\. Cover: YUNGBLUD
 
-108 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
+109 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [hover like a GODDESS](https://open.spotify.com/track/1v3d3KsoHgmiWEI6vFyJ0t) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:23 | 2022-11-30 |  |
 | [how could you do this to me?](https://open.spotify.com/track/3fLCfvAGhyi8i4MfBjHCLB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:40 | 2022-11-30 |  |
 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 | 2022-11-30 |  |
-| [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-11-30 |  |
+| [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-11-30 | 2022-12-04 |
+| [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:21 | 2022-11-30 |  |
 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 | 2021-12-01 | 2022-12-01 |
 | [I Hope You’re Happy](https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 2:59 | 2022-11-30 |  |
 | [I Think I Hate Myself](https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Think I Hate Myself](https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA) | 3:34 | 2021-12-01 | 2022-12-01 |

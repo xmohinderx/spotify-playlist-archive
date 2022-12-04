@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 91774,
+  "num_followers": 91798,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGE4ZjAwODUyYzYxZTQ2ZmE2YWY1ZGQ0NjZiZWUwY2Zm",
+  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGYyMWExMmNiYjBmZGFmODFiN2E0YjUzYzYwZDY5ZWIy",
   "tracks": [
     {
       "added_at": "2022-04-16 03:31:06",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "The Best Of The Clovers (Love Potion No. 9)",
-        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 113200,
-      "name": "Love Potion No. 9 - Remastered / Single Version",
-      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Never To Be Forgotten - The Mustang Years",
         "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 138360,
       "name": "I Fought the Law - Single Version",
       "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "The Best Of The Clovers (Love Potion No. 9)",
+        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "duration_ms": 113200,
+      "name": "Love Potion No. 9 - Remastered / Single Version",
+      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
     },
     {
       "added_at": "2022-04-16 03:31:06",

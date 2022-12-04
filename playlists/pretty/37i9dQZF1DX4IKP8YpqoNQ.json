@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 21828,
+  "num_followers": 21837,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGRlNTI2NjNhYWM5ODg2ZTYzOTczMWM3MjM4NGNiNjQw",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDU1OTRkZmMyODc5YmQ0MzU1ZjEyNDlhMmZiYTc2NTFm",
   "tracks": [
     {
       "added_at": "2022-02-10 23:02:00",
@@ -475,38 +475,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Save Room - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Fela With Ginger Baker Live!",
         "url": "https://open.spotify.com/album/4muZmxBESyBUEW61rIF0D5"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 465280,
       "name": "Let's Start (feat. Ginger Baker) - Live",
       "url": "https://open.spotify.com/track/7nM9ZnOD6nL04E5dOjjZiw"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Save Room - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "Live on Soundstage",
+        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
         }
       ],
-      "duration_ms": 539920,
-      "name": "Lady - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
+      "duration_ms": 273933,
+      "name": "I Keep Forgettin' - Live",
+      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live on Soundstage",
-        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 273933,
-      "name": "I Keep Forgettin' - Live",
-      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
+      "duration_ms": 539920,
+      "name": "Lady - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Walk With Me (Live from Blackbird Studio)",
+        "url": "https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 222490,
+      "name": "Walk With Me - Live from Blackbird Studio",
+      "url": "https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Aretha Live at Fillmore West",
         "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Walk With Me (Live from Blackbird Studio)",
-        "url": "https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 222490,
-      "name": "Walk With Me - Live from Blackbird Studio",
-      "url": "https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L"
+      "duration_ms": 398986,
+      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
+      "duration_ms": 289600,
+      "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
+      "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1475,22 +1475,6 @@
       "duration_ms": 356493,
       "name": "Say Yes - Live At The House Of Blues, New Orleans / 2003",
       "url": "https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
-      "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1531,22 +1515,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1575,6 +1543,22 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 366773,
       "name": "California Dreamin' - Live In Hollywood / 1968",
       "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Live and Uncensored / Live and Outrageous",
+        "url": "https://open.spotify.com/album/6WAkTQuyJu9eHiX5FnUyA1"
+      },
+      "artists": [
+        {
+          "name": "Millie Jackson",
+          "url": "https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Keep the Home Fire Burnin' - Live",
+      "url": "https://open.spotify.com/track/3nVbQp2oSkQa0CRiiVubZp"
     }
   ],
   "unique_name": "Soul Live",

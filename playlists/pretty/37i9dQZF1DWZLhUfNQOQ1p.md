@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,903 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,899 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 45 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
 | 46 | [Don't Speak](https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3) | [Don't Speak](https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD) | 3:24 |
 | 47 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
-| 48 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 |
-| 49 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
+| 48 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
+| 49 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 |
 | 50 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 |
 | 51 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 |
 | 52 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
-| 53 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
-| 54 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
-| 55 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
-| 56 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 |
-| 57 | [Crying Wolf](https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Leda](https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O) | [Crying Wolf](https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L) | 3:38 |
+| 53 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
+| 54 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
+| 55 | [Crying Wolf](https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Leda](https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O) | [Crying Wolf](https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L) | 3:38 |
+| 56 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
+| 57 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 |
 | 58 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 59 | [Bellevue](https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W) | [Isla Bonner](https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo) | [Bellevue](https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv) | 3:18 |
 | 60 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDIyMGRlOGZlNzliOWJhZDMwZGMwYjc5OTU0YmVjMjYw`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDhkZDdjODJjZTUwODE1ZjlhM2EyOTNhZTNjZDVjMzJh`

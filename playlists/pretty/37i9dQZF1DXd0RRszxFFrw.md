@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,365 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,381 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 34 | [30 De Marzo](https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Re\-Foc](https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G) | 4:14 |
 | 35 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 |
 | 36 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
-| 37 | [Ibiza Sunset](https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Ibiza Sunset](https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8) | 2:48 |
-| 38 | [Cinque Terre](https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cinque Terre](https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM) | 3:52 |
-| 39 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
-| 40 | [Mood for Love](https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P) | [Novamenco](https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp) | [Flight to Paradise](https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x) | 4:16 |
+| 37 | [Cinque Terre](https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cinque Terre](https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM) | 3:52 |
+| 38 | [Ibiza Sunset](https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Ibiza Sunset](https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8) | 2:48 |
+| 39 | [Mood for Love](https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P) | [Novamenco](https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp) | [Flight to Paradise](https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x) | 4:16 |
+| 40 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
 | 41 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
 | 42 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 |
 | 43 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 |
 | 44 | [Tierra Mestiza](https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l) | [Gerardo Tamez](https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF), [Terceto De Guitarras De La Ciudad De Mexico](https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV) | [Querencia](https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL) | 3:39 |
-| 45 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 |
-| 46 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
+| 45 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
+| 46 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 |
 | 47 | [Senior Emilio](https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA) | [Diego Fernandez](https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk) | [Senior Emilio](https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda) | 4:38 |
 | 48 | [Monte Gurugú](https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 4:34 |
 | 49 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 69 | [Porgy and Bess: Summertime \- The Sound of Music: My Favorite Things \- Autumn Leaves \(arr\. J\. Carter\)](https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Contemporary Spanish Guitar: Kindred Spirits](https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV) | 6:42 |
 | 70 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 | 71 | [Libertango](https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Latin Style](https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu) | 4:06 |
-| 72 | [Herencia de Valencia](https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Herencia de Valencia](https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN) | 3:18 |
-| 73 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
+| 72 | [Tavernas' Hasapikos \- Instrumental](https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06) | [Yiorgos Zabetas](https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM) | [Colours of Greece / Instrumentals of Greek Music](https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w) | 2:40 |
+| 73 | [Herencia de Valencia](https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Herencia de Valencia](https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN) | 3:18 |
 | 74 | [El Primero](https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [El Primero](https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV) | 2:24 |
 | 75 | [Tango](https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Romance](https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h) | 2:58 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDVlNzgxN2JiOThmOTdmYmYwZjdiY2IyNmI4MGFiMjlm`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGQxZmNmODhhODk4ODk2MmZkMTNhMGY5NzkwY2UzZDNk`

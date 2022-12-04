@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/3nMEEnkEAdgYOrFDi0Ea6J)
+72 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/3nMEEnkEAdgYOrFDi0Ea6J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Millonario y Me Retiro](https://open.spotify.com/track/6u9KQvTQBGQ6uQ5PbqPItd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:59 | 2022-07-26 | 2022-08-03 |
 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 | 2022-06-01 |  |
 | [No Andamos Solos](https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:37 | 2022-06-01 |  |
+| [No Quiero Agarrar El Rollo](https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Quiero Agarrar El Rollo](https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi) | 2:01 | 2022-12-03 |  |
 | [No Toco Inocentes](https://open.spotify.com/track/1EXfrxDYUSufbBeUXnf2j6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 | 2022-08-22 | 2022-09-26 |
 | [Para Ser Respetado](https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 | 2022-06-01 |  |
 | [Peter King Kong](https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:43 | 2022-08-12 |  |

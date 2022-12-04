@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,289 likes - 89 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,305 likes - 89 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 57 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 |
 | 58 | [Resistencia indigena](https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:09 |
 | 59 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
-| 60 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
+| 60 | [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 |
 | 61 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
-| 62 | [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 |
+| 62 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
 | 63 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
 | 64 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
 | 65 | [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 77 | [Si vas a dejarme...](https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 4:20 |
 | 78 | [On the Good Road \- En Vivo En Sala Siranush](https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [On the Good Road \(En Vivo En Sala Siranush\)](https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt) | 3:48 |
 | 79 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
-| 80 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 |
-| 81 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
+| 80 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
+| 81 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 |
 | 82 | [En el Sonido](https://open.spotify.com/track/142f0JPC6R9GQI3X9C23M8) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amanecido](https://open.spotify.com/album/5IasRQZbiBI7TJQhsYSaUi) | 2:40 |
 | 83 | [Cerquita](https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [La Vida Es Una Canción II](https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd) | 4:18 |
 | 84 | [La Máscara \- En Vivo](https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [20 Años en Vivo & En Directo](https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT) | 5:31 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [Strengthen Your Mind](https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 4:46 |
 | 89 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 
-Snapshot ID: `MTY2NDU0OTgzMywwMDAwMDAwMGRkZDEyYTc4MDg5NTUzMzQ5ZjM2NDI4OWE5MWVmOTRm`
+Snapshot ID: `MTY2NDU0OTgzMywwMDAwMDAwMDNjNjBkNTI3MmQxMjJlMjMzNDhkZjA0NmI3ZDc1ZTJm`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-526 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+527 songs - 1 day 8 hr 12 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-26 | 2021-12-27 |
 | [jagi \(feat\. KIRE\)](https://open.spotify.com/track/487CwH00ao0LRep28i58sT) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [jagi \(feat\. KIRE\)](https://open.spotify.com/album/2yeqUCHCnv0IKsN5KXuGA6) | 3:40 | 2022-06-16 | 2022-07-09 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-25 | 2021-12-27 |
-| [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-13 |  |
+| [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-13 | 2022-12-04 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-11-10 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-14 | 2021-06-27 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-16 |
@@ -290,6 +290,7 @@
 | [What a Life](https://open.spotify.com/track/18FEkn4hwZKVPJ4KmvqPja) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [What a Life](https://open.spotify.com/album/0s1JRNrcz7YcRyNaqV2fMp) | 2:19 | 2021-04-30 | 2021-05-06 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-05-02 |
 | [Who I Am](https://open.spotify.com/track/76O16TXhsSMYZhEQAJXwmZ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Who I Am](https://open.spotify.com/album/6rossoBfDzEiVWn0EdD8DQ) | 3:45 | 2021-10-08 | 2021-10-14 |
+| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 |  |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2021-09-24 | 2021-10-02 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-05-08 |
 | [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 | 2021-03-27\* |  |

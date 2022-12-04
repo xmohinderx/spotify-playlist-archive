@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,990 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,041 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 49 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 |
 | 50 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
 | 51 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 |
-| 52 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 |
-| 53 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 |
+| 52 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 |
+| 53 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 |
 | 54 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 |
 | 55 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 56 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 59 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 |
 | 60 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 |
 | 61 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 |
-| 62 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 |
-| 63 | [Wednesday Morning Atonement](https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 4:28 |
+| 62 | [Wednesday Morning Atonement](https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 4:28 |
+| 63 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 |
 | 64 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 |
 | 65 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
-| 66 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 |
-| 67 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 |
-| 68 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 |
-| 69 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 |
+| 66 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 |
+| 67 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 |
+| 68 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 |
+| 69 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 |
 | 70 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 |
 | 71 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 |
-| 72 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 |
+| 72 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 |
 | 73 | [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 |
-| 74 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 |
+| 74 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 |
 | 75 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 |
 
-Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMDc0YTZhNTVlNTIxMTBjNDU3OWZiNjY2ZmM3ODM5Yjlj`
+Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMDM1YTBiNjU5ZGMzMGQ2ZTAwN2E5ZjdiNGM4ZjAxNWJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lee Seung Yoon\(이승윤\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,022 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,100 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 10 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
 | 11 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
 | 12 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
-| 13 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
-| 14 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 |
+| 13 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 |
+| 14 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
 | 15 | [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 |
 | 16 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
-| 17 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
+| 17 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 |
 | 18 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 |
 | 19 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 |
 | 20 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 24 | [FAKE LOVE \- Rocking Vibe Mix](https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:58 |
 | 25 | [누군가 필요해 I Need Somebody](https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:38 |
 | 26 | [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 |
-| 27 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 |
+| 27 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
 | 28 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 29 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 |
-| 30 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
+| 30 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 |
 | 31 | [I Loved You](https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:54 |
-| 32 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 |
+| 32 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 33 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 |
 | 34 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 |
 | 35 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 |
 | 50 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
 
-Snapshot ID: `MTY2OTg4NjMzNSwwMDAwMDAwMDg3NzI2YTg3ZjZiNmZkMTI4M2UxZjBkNjljODBjYTUx`
+Snapshot ID: `MTY2OTg4NjMzNSwwMDAwMDAwMDc4MzM5MWJkYWUzNmU3ODcwYmQ1MDM3N2MwYTgxODcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,318 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,377 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 64 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
 | 65 | [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 |
 | 66 | [Lampshades on Fire](https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Strangers to Ourselves](https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf) | 3:07 |
-| 67 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 |
-| 68 | [Clearest Blue](https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM) | 3:53 |
+| 67 | [Clearest Blue](https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM) | 3:53 |
+| 68 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 |
 | 69 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 |
 | 70 | [Fool for Love](https://open.spotify.com/track/77x96TdWdkIia82QqU35SD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:34 |
 | 71 | [Lover Come Back](https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 99 | [Bros](https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:44 |
 | 100 | [Something Soon](https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens of Style](https://open.spotify.com/album/7s2vwXfI8Ki49zYIfTTkRT) | 4:20 |
 
-Snapshot ID: `MTY0MTIxOTg5NiwwMDAwMDAwMDM0OTBiYmVhYmZmMTM3NDI1ZjM3MDJhYTk2NjlhOGE4`
+Snapshot ID: `MTY0MTIxOTg5NiwwMDAwMDAwMGQ1MzAxMThjNGZjYzkzODY4NTUxMGRjMjI2NmJiMTcy`

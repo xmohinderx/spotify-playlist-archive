@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > it's never too early.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,340 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,482 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 35 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/5nZYc9ZDMhlXv6iWahZTU8) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/0jgWVVvhT0tbpzFIr73p3f) | 4:12 |
 | 36 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 37 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
-| 38 | [Qué Más Pues?](https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:37 |
-| 39 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |
+| 38 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |
+| 39 | [Qué Más Pues?](https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:37 |
 | 40 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
 | 41 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
 | 42 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [Un Minuto](https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Minuto](https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8) | 2:57 |
 | 60 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 |
 
-Snapshot ID: `MTY2OTA0MDYwMSwwMDAwMDAwMDYzNDAxOGEwYTE5MjY0YTRmZTNjNzhjMDgyNGJjMjhh`
+Snapshot ID: `MTY2OTA0MDYwMSwwMDAwMDAwMDVmMDcwYWZhNjViNmVjOTBhMjczZWFmM2NiOTk1MWU2`

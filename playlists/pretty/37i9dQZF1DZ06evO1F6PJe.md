@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,379 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,431 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 38 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
 | 39 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
 | 40 | [Self\-Inflicted Wounds](https://open.spotify.com/track/0r61QhigETeOXpl03u1nSV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:35 |
-| 41 | [I Won't Be Led Astray](https://open.spotify.com/track/4dhiXdTmpDy5gDaFElnUrv) | [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG), [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Mike Larson](https://open.spotify.com/artist/6mrMrYWO8ZfWiry8Obud1l) | [From the New World](https://open.spotify.com/album/0ySYs5Q9ATYf72SvoNGULZ) | 4:40 |
-| 42 | [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 |
-| 43 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 |
+| 41 | [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 |
+| 42 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 |
+| 43 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 |
 | 44 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 |
-| 45 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 |
-| 46 | [A Conversation With Alice](https://open.spotify.com/track/12mxhoIT5lU3o4NNAqSu3f) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:19 |
+| 45 | [A Conversation With Alice](https://open.spotify.com/track/12mxhoIT5lU3o4NNAqSu3f) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:19 |
+| 46 | [I Won't Be Led Astray](https://open.spotify.com/track/4dhiXdTmpDy5gDaFElnUrv) | [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG), [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Mike Larson](https://open.spotify.com/artist/6mrMrYWO8ZfWiry8Obud1l) | [From the New World](https://open.spotify.com/album/0ySYs5Q9ATYf72SvoNGULZ) | 4:40 |
 | 47 | [The Ballad of John Henry](https://open.spotify.com/track/1jIerjgmmIjYoiRaf0DaM0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:26 |
 | 48 | [Redemption](https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:57 |
 | 49 | [Dirty Grease \- Radio Version](https://open.spotify.com/track/1EDqhqTWnZ9Ch9cL5pRGvF) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 4:55 |
 | 50 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBjMTUyZmZmN2QyYWNmMjM5ZGY0ZDNiYTE0Yzg4NTUxNw==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDBlNjQxYTMwNjMzNDIxYTNjNjdiMzgxOTMzM2Q1NzQxNQ==`

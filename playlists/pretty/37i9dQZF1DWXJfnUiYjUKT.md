@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,530 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,766 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 44 | [me and my gang](https://open.spotify.com/track/4AQGuktK4SQqVuSR7XQH79) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [me and my gang](https://open.spotify.com/album/7A1MMdXbkJDUOhnczJ7JIF) | 2:18 |
 | 45 | [Everything Is Nothing](https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Everything Is Nothing](https://open.spotify.com/album/2Gg9al8bC4Je0nmgRAnujj) | 2:01 |
 | 46 | [Lil Mama](https://open.spotify.com/track/7CBUbrYdluuTZZvZAhJgXr) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Lil Mama](https://open.spotify.com/album/1p75dyBk7vMZeeK4mEadMU) | 2:23 |
-| 47 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 47 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 48 | [Delincuente](https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Delincuente](https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU) | 2:52 |
 | 49 | [shade of blue \(feat\. Rxseboy, Tia Tia & Shalfi\)](https://open.spotify.com/track/11JLypXfGVfs314vav1JAB) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS), [Shalfi](https://open.spotify.com/artist/6HJqFsXnlWehSwPu6s4BAO) | [surrounded by hounds and serpents](https://open.spotify.com/album/5iFPxq21dVb6E7RFjBSYvG) | 2:28 |
 | 50 | [biscayne](https://open.spotify.com/track/3iyIdq70MeRuOR97n1KkGS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [Bittersweet](https://open.spotify.com/album/71OIRHVI6JIkc6O4MpD9cc) | 2:01 |

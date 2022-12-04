@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > Best Latin Indie tracks right now\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,943 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,972 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 20 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 |
 | 21 | [Girls Go Wild \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Girls Go Wild \(feat\. Ximena Sariñana\)](https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX) | 3:43 |
 | 22 | [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 |
-| 23 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
-| 24 | [Universe](https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:30 |
+| 23 | [Universe](https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:30 |
+| 24 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 25 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 |
-| 26 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 |
-| 27 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
+| 26 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
+| 27 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 |
 | 28 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
 | 29 | [Un Millón](https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Millón](https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i) | 2:47 |
 | 30 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 40 | [There Must Be a Song Like You](https://open.spotify.com/track/0686tzFJ79mRZPApYYLiMA) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 4:50 |
 | 41 | [Oscuridad](https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll) | 3:30 |
 | 42 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 |
-| 43 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
-| 44 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
-| 45 | [Pastel](https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 2:09 |
-| 46 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
+| 43 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
+| 44 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
+| 45 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
+| 46 | [Pastel](https://open.spotify.com/track/6Xur7MWcS7np7zm3ijJO0w) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3) | 2:09 |
 | 47 | [Te Guardo](https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:22 |
 | 48 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
 | 49 | [Brillo Más Que El Oro \(La Bala Apuntándome\)](https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 99 | [No Te Vayas with Jane](https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0) | [Danto](https://open.spotify.com/artist/0L8DGJwLOOu7DePOSdE49v) | [Danto's Inferno](https://open.spotify.com/album/3N9wGucblUYoiCR3uGoIhW) | 2:30 |
 | 100 | [Colors](https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:33 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDBiMWJlYjRkZDkyOWU5YmNlYTU0ODc2NWFhNjU0Yzky`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMGRkYzYzMjA1MGExODljMmYyZTE5NzU1OWYxMWExZTk5`

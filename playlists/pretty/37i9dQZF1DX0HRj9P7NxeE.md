@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,378 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,368 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 42 | [Toot That \(feat\. DreamDoll & BeatKing\)](https://open.spotify.com/track/73a3q3FYKM4dPemgvD03wD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:31 |
 | 43 | [Nann Hoe](https://open.spotify.com/track/3umaJVPB3ux55pcPAUNOZn) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [RAW](https://open.spotify.com/album/7qjfG80Q4046ra6Pvn6yLc) | 2:04 |
 | 44 | [Look At You](https://open.spotify.com/track/0AHuw4iupGt4nOs5p5oYth) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Look At You](https://open.spotify.com/album/77SZvkJYrWOYH4T0lf8T9V) | 2:51 |
-| 45 | [RBT](https://open.spotify.com/track/6pK0FMFD0Q0GtsiZ5laA8W) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Down In The Valley \(Mixtape\)](https://open.spotify.com/album/7nxBJnr6HvLAf5MNxh1nm5) | 2:58 |
-| 46 | [Lower](https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Lower](https://open.spotify.com/album/5ivFW60jaUHbkhdovHXKGr) | 1:52 |
-| 47 | [PTDOM](https://open.spotify.com/track/5BfbwG8kBqNoHFrBJ6Ygt6) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [PTDOM](https://open.spotify.com/album/4JdgeVZeAPBeU4niC1ueKh) | 1:48 |
-| 48 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
+| 45 | [Lower](https://open.spotify.com/track/4CQAcnsINylLDrhmB1HNJt) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Lower](https://open.spotify.com/album/5ivFW60jaUHbkhdovHXKGr) | 1:52 |
+| 46 | [RBT](https://open.spotify.com/track/6pK0FMFD0Q0GtsiZ5laA8W) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Down In The Valley \(Mixtape\)](https://open.spotify.com/album/7nxBJnr6HvLAf5MNxh1nm5) | 2:58 |
+| 47 | [Dancing Queen](https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:09 |
+| 48 | [PTDOM](https://open.spotify.com/track/5BfbwG8kBqNoHFrBJ6Ygt6) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [PTDOM](https://open.spotify.com/album/4JdgeVZeAPBeU4niC1ueKh) | 1:48 |
 | 49 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 |
-| 50 | [Dancing Queen](https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:09 |
+| 50 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
 
-Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMDAwY2FhMjZkMTUxZjZjYTVmZWU1MzQ4MDI0M2U4ZjQz`
+Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMDBkNWJiZjUxMzVlMTE3NGVmYTU3NjYwNGRhNjY4M2U2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lewis Capaldi \(pictured\), PinkPantheress, James Arthur and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,105 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,178 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 94 | [Would You](https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J) | [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Would You](https://open.spotify.com/album/1Xrb0PD8vHAnH3T6c0m2e1) | 3:12 |
 | 95 | [Empties](https://open.spotify.com/track/2jpVYKkXv9s8yVgHi2J1BE) | [Sophie Jamieson](https://open.spotify.com/artist/61SAO7vBYIjApKdECAwhDo) | [Choosing](https://open.spotify.com/album/48FBMX7bIChGaNAy5QT8Fb) | 2:29 |
 | 96 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 |
-| 97 | [This Dance Isn't Over \- Edit](https://open.spotify.com/track/2hoGEGsFVMzzz0TDjaer9n) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Disco Machine Sound’ / ‘This Dance Isn’t Over](https://open.spotify.com/album/49qrTIPhXEndH93olUNl2B) | 3:21 |
+| 97 | [This Dance Isn't Over \- Edit](https://open.spotify.com/track/2hoGEGsFVMzzz0TDjaer9n) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Disco Machine Sound / This Dance Isn’t Over](https://open.spotify.com/album/49qrTIPhXEndH93olUNl2B) | 3:21 |
 | 98 | [slow down](https://open.spotify.com/track/3T3PvEfkfZFbJs1vCht2K9) | [asianblonde.](https://open.spotify.com/artist/21ttAjGNQzBGHTeQoJYX8H), [Jacob Bayley](https://open.spotify.com/artist/2e0386FFEF5FCtMFxv55Cz) | [slow down](https://open.spotify.com/album/6WotImiypjbYCpsg9grzRn) | 3:41 |
 | 99 | [Berlin](https://open.spotify.com/track/52JodxprtCiEEO5FODNxwu) | [Michael B Thomas](https://open.spotify.com/artist/0SQMSsL2ds4MNdzP5sKv0B) | [Berlin](https://open.spotify.com/album/2POEkhrK6ZoCM2fKg4G3Zy) | 3:14 |
 | 100 | [Don't Lose Yourself](https://open.spotify.com/track/4cfKTzWBAJSRLK9sr6TZcw) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC) | [Don't Lose Yourself](https://open.spotify.com/album/1vs7AwuicuTcJaSsVTp8WI) | 2:00 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 104 | [Purple Skies](https://open.spotify.com/track/1nv4t1MhKQskcQDtjMttpb) | [Volaris](https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy) | [Purple Skies](https://open.spotify.com/album/5dL7TI2pclkAyd9bmrl7A9) | 3:46 |
 | 105 | [Optimus Prime](https://open.spotify.com/track/7tiTOD3aGwrufKs2sUoy07) | [Big Tobz](https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK) | [Optimus Prime](https://open.spotify.com/album/3dVkTViMN13WHhrmBTuMXE) | 2:52 |
 | 106 | [Lotus](https://open.spotify.com/track/1ps4TpuoR9eZgcRuPzS7Ig) | [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Lotus](https://open.spotify.com/album/5OWCHXl4P7OjQBqTJ1QzDj) | 4:42 |
-| 107 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
+| 107 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 108 | [Messages](https://open.spotify.com/track/4C83d5U54HagBz6DtseAB9) | [Tungz](https://open.spotify.com/artist/2U8Spt8w0ylEP8NA9CkUh7) | [Messages](https://open.spotify.com/album/68Sp5PSIfWU4YE0RWAWotx) | 3:10 |
 | 109 | [SLEEPING ON MY FEET](https://open.spotify.com/track/7buPOYRZGwS8qVdwJ6MZHX) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [SLEEPING ON MY FEET](https://open.spotify.com/album/5HOokx2Hbu89Xtad8xIJAr) | 3:19 |
 | 110 | [wholeness](https://open.spotify.com/track/2sZGejZUMzGuZMUgx27iQE) | [bathhat](https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh) | [wholeness](https://open.spotify.com/album/0YAcw5LtpuU5ukwC5eMsP1) | 2:48 |
@@ -129,6 +129,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 119 | [SE17](https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U), [Danny Chaska](https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP) | [SE17](https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC) | 3:22 |
 | 120 | [Kill Me Again](https://open.spotify.com/track/3NAWynocgUkGNhmOBmHNqf) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Kill Me Again](https://open.spotify.com/album/5JVfCuRJOc6gCCWuyoUF0H) | 4:08 |
 | 121 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 |
-| 122 | [Side by Side](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hugh Laurie](https://open.spotify.com/artist/5WM5zPOswRcPu07rxP2dQv) | [Side by Side](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 |
+| 122 | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDlmYzQwZTI1OTRjODBkOGZkMjM2NzBiMWM4NTVhMzhj`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDIyZGFhMzVlNDg2YjZlMGU2NGE0YzI2OGM2YzljOTY5`

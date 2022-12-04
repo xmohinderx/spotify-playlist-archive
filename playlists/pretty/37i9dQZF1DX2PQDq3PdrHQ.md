@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,701 likes - 300 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,259 likes - 300 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 41 | [puddles](https://open.spotify.com/track/1ICqwks7d1Jw0ivRAjnIUt) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [Chillhop World](https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8) | [billboard](https://open.spotify.com/album/0iIsngFS2dkWGrKjemVvBG) | 2:13 |
 | 42 | [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 |
 | 43 | [Swept Away](https://open.spotify.com/track/2rdrOLBcNyBaNbLh5WSShT) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Late Night Tapes](https://open.spotify.com/album/02KiqbwymPu8bTlDfCn1IJ) | 2:17 |
-| 44 | [Nightsong](https://open.spotify.com/track/5gRrMNfhLBHvxlJRYbe0pI) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Nightsong](https://open.spotify.com/album/1uP2BabnDDOcBqdGTO7GH3) | 2:32 |
+| 44 | [Nightsong](https://open.spotify.com/track/02Xug25tB1hYcCscxlZky4) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Nightsong](https://open.spotify.com/album/1IUvVvGzTPNhPHFmF4Shxz) | 2:32 |
 | 45 | [Past Lives](https://open.spotify.com/track/2KqTbUZuvtP0Vu9BH1T8Ak) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Past Lives](https://open.spotify.com/album/2PSyXQLiU4uXB3892OPnzr) | 3:04 |
 | 46 | [Slow Drives](https://open.spotify.com/track/5dUpBcyuNSuqSUmZ5lmuO5) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [Slow Drives](https://open.spotify.com/album/6Vvb8APjpOiP74S0Ko93TV) | 1:44 |
 | 47 | [Contemplation](https://open.spotify.com/track/0mrMtZYcXTmQZJomdf3zRz) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Contemplation](https://open.spotify.com/album/3f4PF164QqbIdTOBCobxFV) | 1:58 |
@@ -252,7 +252,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 242 | [the painted world of ariamis](https://open.spotify.com/track/0t91JGfq5xtqlK40viu8Jx) | [Expedidor](https://open.spotify.com/artist/4HT9RXmMeZnR2Jxd6VViHk) | [beat tapes para o dia todo](https://open.spotify.com/album/0yktBhWYcTiFJ3000jFhY1) | 2:18 |
 | 243 | [remember how we use to be](https://open.spotify.com/track/4BqA4LoQGIL3f4IKmPhI3O) | [Billy Wuot](https://open.spotify.com/artist/7N3iUlklKpjkGB0X11eMx4) | [remember how we use to be](https://open.spotify.com/album/4jXlZE2NYrSn2xMNmi6LJc) | 2:50 |
 | 244 | [Serendipia](https://open.spotify.com/track/3lVzlqQPzLnWF4VheKVOIp) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Serendipia](https://open.spotify.com/album/4y9fw4Ngps5SZtxy1shHxr) | 2:27 |
-| 245 | [Remembrance](https://open.spotify.com/track/3CZJ4uF6IyWt6KTQJeSEdZ) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs) | [Remembrance](https://open.spotify.com/album/0fP29H4VwNonD78wnEMC1f) | 2:05 |
+| 245 | [Remembrance](https://open.spotify.com/track/6kaPtPyfD2IXfaq3zg7RlJ) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [KASE](https://open.spotify.com/artist/6iI4o333BU6MmImw2N1NJs) | [Remembrance](https://open.spotify.com/album/2nt6eNKRQ68uTRYU0wu8R5) | 2:06 |
 | 246 | [Lost at Sea](https://open.spotify.com/track/05ZVdVvMoPqfXQ0nEHkwt0) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Lost at Sea](https://open.spotify.com/album/6ywO7CvmHg3JjFLeGqdeBM) | 2:05 |
 | 247 | [vanilla syrup.](https://open.spotify.com/track/30gAL6dQhKhphPKuL4xP1p) | [bluemoon.music](https://open.spotify.com/artist/0UQaaL0eNaAMwnmcceqFj1) | [vanilla syrup.](https://open.spotify.com/album/5KUHIWs94mXxXu7t1ONxkR) | 1:57 |
 | 248 | [Fireflies](https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Fireflies](https://open.spotify.com/album/4ZHqOdkFxvVhispfS44eKC) | 2:51 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 299 | [The right way](https://open.spotify.com/track/3ARJRdBJRpWr21xER2FgXr) | [Deep In A Dream](https://open.spotify.com/artist/3WOrrOBvpsk3noSkNQgRxj), [leo.drummer](https://open.spotify.com/artist/7gwqxYpgDJabcweudcwoUd) | [Dreamy Waves](https://open.spotify.com/album/5Gsb3ipeljvyBgi3aJBVMs) | 2:03 |
 | 300 | [Dawn](https://open.spotify.com/track/36BMjs8wDcpQZjRcipxlgx) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Dawn](https://open.spotify.com/album/0kPlC8bFxLBcTsdavgWq2j) | 1:44 |
 
-Snapshot ID: `MTY2OTk4OTU1NywwMDAwMDAwMGRlNDg3ZjgyMTVjMzllMTU1MDRkYjcwMWZjMDI5NDY0`
+Snapshot ID: `MTY2OTk4OTU1NywwMDAwMDAwMGJiNDY3MThjMDM0YWMxMGE2YWViMDcyYzc2MDIwNWE1`

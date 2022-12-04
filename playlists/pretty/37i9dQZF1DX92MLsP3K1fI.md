@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Thalía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,454 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,511 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 16 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 17 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
 | 18 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 |
-| 19 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
-| 20 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
+| 19 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
+| 20 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
 | 21 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
 | 22 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
 | 23 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 34 | [Me Liberé](https://open.spotify.com/track/54o97glZqjfQambK2yyNCG) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Me Liberé](https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S) | 3:37 |
 | 35 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 36 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
-| 37 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 |
-| 38 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 |
-| 39 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
+| 37 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 |
+| 38 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
+| 39 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 |
 | 40 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 |
 | 41 | [Mi Película](https://open.spotify.com/track/4Gd65mnCu829bBJL4lb5Bb) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Mi Película](https://open.spotify.com/album/3gqhmbNm30Dw3qoiJd7B8e) | 2:23 |
 | 42 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
 | 50 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
 
-Snapshot ID: `MTY2OTk2MDgwMCwwMDAwMDAwMDVlZDcxMDUzMjc3N2RiYmRmMjM3M2VmN2NjNzlkNmZh`
+Snapshot ID: `MTY2OTk2MDgwMCwwMDAwMDAwMDQwNTlhYjc4MzljNTI1M2JlZThkYzk2MWJhNTc5Yzc2`

@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-409 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+410 songs - 1 day 1 hr 41 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Drama](https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Drama](https://open.spotify.com/album/1udu7ftqiJGPFjMyUvetdq) | 3:48 | 2021-03-19 | 2022-07-19 |
 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 | 2020-12-21 | 2022-04-15 |
 | [Drift](https://open.spotify.com/track/4BNqWebyipWrMsupuTmKO9) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:35 | 2020-12-21 | 2022-04-09 |
+| [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 | 2022-10-28 |  |
 | [Drifting Off](https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:33 | 2022-07-22 | 2022-10-08 |
 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/42xSa2OHeuhpGYkWPXo3cA) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u) | 2:34 | 2022-07-20 | 2022-07-29 |
 | [Drunk](https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Drunk](https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7) | 3:11 | 2020-12-21 | 2022-09-19 |
@@ -178,7 +179,7 @@
 | [How Can I Love You?](https://open.spotify.com/track/4XNPZFA6HMhkIkbJBDo70X) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [How Can I Love You?](https://open.spotify.com/album/0UQVlX3U6hHVEHBGiWwxfg) | 4:24 | 2020-12-21 | 2022-04-19 |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2020-12-21 | 2022-04-16 |
 | [Human](https://open.spotify.com/track/4LIIWJjlXMftVKMQWUrxKO) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Ison](https://open.spotify.com/album/2yjRCaDVCsAJjcavAPztVY) | 3:12 | 2022-12-01 |  |
-| [i don't care \- bonus track](https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 2:40 | 2022-10-28 |  |
+| [i don't care \- bonus track](https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 2:40 | 2022-10-28 | 2022-12-04 |
 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 | 2020-12-21 | 2022-04-20 |
 | [I Don't Wanna Lose](https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:20 | 2020-12-21 | 2022-04-20 |
 | [I Feel Best When I'm Alone](https://open.spotify.com/track/3OYejGbGSMijzWFTdCd8sy) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 3:10 | 2020-12-21 | 2022-04-17 |

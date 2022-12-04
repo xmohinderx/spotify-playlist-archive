@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-158 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
+159 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/5BHFCfYdJmMsXV8ZMJ0kKJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Jesús Nació](https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 2:59 | 2021-12-24 |  |
 | [Jesús Nació](https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Jesús Nació](https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR) | 3:48 | 2021-12-24 |  |
 | [La Estrella](https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Estrella](https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze) | 3:41 | 2021-12-24 |  |
+| [La Primera Navidad](https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [La Primera Navidad](https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt) | 4:17 | 2022-11-26 |  |
 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 | 2021-12-24 |  |
 | [Llegó La Navidad](https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 4:02 | 2021-12-24 | 2022-11-27 |
 | [Lucecitas](https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh) | [Banda Montreal](https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym) | [Lucecitas](https://open.spotify.com/album/6yTGTLZ9sMu7Xdn5JSMsQ9) | 3:10 | 2021-12-24 |  |
@@ -100,7 +101,7 @@
 | [Nadie Se Lo Imaginó](https://open.spotify.com/track/1hjpA2QecgiBKX8JB8I38V) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:23 | 2021-12-24 |  |
 | [Nadie Se Lo Imaginó](https://open.spotify.com/track/6ag9XT4JrxCEbiw4fwOgGG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:23 | 2021-12-24 | 2022-07-29 |
 | [Nattyvidad](https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Nattyvidad](https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss) | 4:24 | 2021-12-24 |  |
-| [Navidad](https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Navidad](https://open.spotify.com/album/4M3g8HcYnCJmA99uh2456G) | 3:07 | 2021-12-24 |  |
+| [Navidad](https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Navidad](https://open.spotify.com/album/4M3g8HcYnCJmA99uh2456G) | 3:07 | 2021-12-24 | 2022-12-04 |
 | [Navidad](https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA) | [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Navidad](https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw) | 3:48 | 2021-12-24 |  |
 | [Navidad En Mi País](https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 4:10 | 2021-12-24 |  |
 | [Navidad Es Jesús](https://open.spotify.com/track/4uHZzqsTVrcs1Ob47Q5pr2) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Esta Navidad](https://open.spotify.com/album/0THHB0bxRAaw33N6Q7pEEc) | 5:26 | 2021-12-24 |  |

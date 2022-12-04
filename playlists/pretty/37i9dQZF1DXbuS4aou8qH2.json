@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk0MDU2NSwwMDAwMDAwMDUzYzk0ZTk1ZTc0NDQ5ZjEzOWY4ZjMzMDJmOWI5MjMz",
+  "snapshot_id": "MTY2Mzk0MDU2NSwwMDAwMDAwMDAyMDY2NWI0N2RiMjA5MzNhZjFhZmU3MzYzM2M4NzZk",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 240653,
-      "name": "Feel No Ways",
-      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Freaky Deaky",
+        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Freaky Deaky",
+      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Freaky Deaky",
-        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Freaky Deaky",
-      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "F.N.F. (Let's Go)",
         "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 137579,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 209760,
       "name": "Mood (feat. BNXN)",
       "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "We Go Up",
         "url": "https://open.spotify.com/album/5IfknrZnkcbBcT7KQuDZXI"
       },
@@ -1679,22 +1699,6 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 141346,
-      "name": "poochie gown",
-      "url": "https://open.spotify.com/track/3daUZMkia3HT0E7xITejR6"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1755,6 +1759,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 141346,
+      "name": "poochie gown",
+      "url": "https://open.spotify.com/track/3daUZMkia3HT0E7xITejR6"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1875,22 +1875,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Keep Dissing 2 (with Lil Durk)",
-        "url": "https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
         {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 173683,
-      "name": "Keep Dissing 2 (with Lil Durk)",
-      "url": "https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh"
+      "duration_ms": 227000,
+      "name": "Skin Tight (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
     },
     {
       "added_at": "2022-09-23 04:00:00",

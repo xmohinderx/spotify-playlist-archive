@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,905 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,907 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 38 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 39 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 40 | [Can you tell me \(feat\. Kumira\)](https://open.spotify.com/track/3ZtEsiOvuXAT13NdYiBpi6) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK) | [Can you tell me \(feat\. Kumira\)](https://open.spotify.com/album/3M3CQMihnl1yUswPoqmv1k) | 3:28 |
-| 41 | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb) | [BOOKKU DDOONG](https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/album/31T5angQfNXokneuSdQq56) | 2:47 |
-| 42 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
+| 41 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
+| 42 | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb) | [BOOKKU DDOONG](https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/album/31T5angQfNXokneuSdQq56) | 2:47 |
 | 43 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
 | 44 | [Spring Flowers](https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH) | 3:36 |
 | 45 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 51 | [Loneliness Amplifier](https://open.spotify.com/track/6yDx0EcCpFa4SvFwe0d0Sr) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) | 3:03 |
 | 52 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
 | 53 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 |
-| 54 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
-| 55 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
+| 54 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
+| 55 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
 | 56 | [Just Can't Say](https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG](https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL) | 3:23 |
 | 57 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 |
 | 58 | [Feeling Good \- 2019 Ver](https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 2:42 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 71 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
 | 72 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 |
 | 73 | [Only I Want To Know](https://open.spotify.com/track/15ecAutv7JSuRkL9I9DrUB) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:31 |
-| 74 | [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 |
-| 75 | [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 |
+| 74 | [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 |
+| 75 | [Walk](https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Walk](https://open.spotify.com/album/4erB8I424GyOFWNcze24Dd) | 3:35 |
 
-Snapshot ID: `MTY2NTExODg2NywwMDAwMDAwMDU3OWI5NzAwYmVjMTJiZjViZGJlN2JhYmI4NTc4MDZm`
+Snapshot ID: `MTY2NTExODg2NywwMDAwMDAwMDE5ZTRkYmY4MDUzNjkzNWY2MTM0ZTIzZDM2YzI5ZmNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,216 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,229 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 78 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 79 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
 | 80 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
-| 81 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
-| 82 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
+| 81 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
+| 82 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 |
 | 83 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
 | 84 | [La Quebradora](https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:07 |
 | 85 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [Oye](https://open.spotify.com/track/04JEvxmdGP93VzXekCxoJZ) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 2:35 |
 | 125 | [El Venao](https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:52 |
 
-Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMDViNDZhYzU4NzIyN2M3MzJkMmY1MWMxOGY5YzljZjgy`
+Snapshot ID: `MTY2MjU3MDkyMSwwMDAwMDAwMGU0N2RjMmNjNTA1MGI3NDk4YWQ4YzI2MzIwM2FkOTRi`

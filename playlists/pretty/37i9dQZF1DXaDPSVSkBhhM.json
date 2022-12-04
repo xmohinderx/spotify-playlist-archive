@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 56704,
+  "num_followers": 56725,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDhlMjE0NjRkZjRhNjRiYzRiZWQ1OGViZDM3MWI3ZWZi",
+  "snapshot_id": "MTY2NDY1MDQ4MiwwMDAwMDAwMDYxN2YxNWIxNDQxY2VjNTlkMTVkZWQzNmE5NGI3Mzk5",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Al infierno y de regreso",
-        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
-      },
-      "artists": [
-        {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Dualidad",
         "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 223046,
       "name": "Dualidad",
       "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+      },
+      "artists": [
+        {
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Lok@",
-        "url": "https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6"
+        "name": "La Ultima Excusa",
+        "url": "https://open.spotify.com/album/4JeUbPW3mouXCWWgV5KFt8"
       },
       "artists": [
         {
-          "name": "Luisa Vox",
-          "url": "https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA"
+          "name": "Corre Forrest!",
+          "url": "https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5"
         }
       ],
-      "duration_ms": 151157,
-      "name": "Lok@",
-      "url": "https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a"
+      "duration_ms": 294325,
+      "name": "La Ultima Excusa",
+      "url": "https://open.spotify.com/track/00ru0jOJXVP8Qf5fdBTaqX"
     }
   ],
   "unique_name": "Escena Pop Punk",

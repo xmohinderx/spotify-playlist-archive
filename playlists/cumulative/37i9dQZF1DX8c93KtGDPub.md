@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-258 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
+259 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Christmas Day](https://open.spotify.com/track/5hexwMWl47Y4XASG8aOI36) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4Z0E2zhE6qdsKdrUTKffXn) | 2:28 | 2021-12-24 | 2022-07-29 |
 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 | 2021-12-24 |  |
 | [Christmas Don't Be Late](https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:40 | 2021-12-24 |  |
-| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2021-12-24 |  |
+| [Christmas Dream](https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl) | [Almost Christmas](https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Maybe This Christmas, Vol\. 7: Country Sleigh Ride](https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2) | 2:57 | 2022-11-15 |  |
+| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2021-12-24 | 2022-12-04 |
 | [Christmas Dream](https://open.spotify.com/track/2pTaSZ6sHWlkS0s2NgiRRi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/5BMGHueD4rgP4xfkWC8uBb) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Christmas Eve](https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 4:22 | 2021-12-24 |  |
 | [Christmas Kiss](https://open.spotify.com/track/3elTRcb0pkf3YtuMfYIghB) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 2:44 | 2021-12-24 |  |

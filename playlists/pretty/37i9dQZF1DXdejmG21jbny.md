@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,183 likes - 271 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,188 likes - 271 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 69 | [Soft Blend](https://open.spotify.com/track/62bbizSic7MEEfMFDJniE5) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Complex](https://open.spotify.com/album/0BhbkpkVvEbIF3zG8SEC16) | 2:11 |
 | 70 | [Trail Winds](https://open.spotify.com/track/6vNggvaJBLf6dSomU6sMhX) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Trail Winds](https://open.spotify.com/album/4YutP0RPMH4eRnyZ3xKDY3) | 2:10 |
 | 71 | [Synonymous Light](https://open.spotify.com/track/7iKNqizNb5AwJZ3B0TUEPX) | [Arhaa Doak](https://open.spotify.com/artist/4psjQuohUvbvwl50sFuqR9) | [Synonymous Light](https://open.spotify.com/album/7L9xYQq5lRk1PC5HZqutF0) | 2:41 |
-| 72 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Mergen Aurel](https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
+| 72 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
 | 73 | [Abendrot](https://open.spotify.com/track/7dTK3hzPpd2cpwQ9QoW1ug) | [Caleb Huber](https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW) | [Abendrot](https://open.spotify.com/album/5xHti9Kvw0Nlsez7DiStkH) | 2:28 |
 | 74 | [Changes](https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Changes](https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY) | 3:06 |
 | 75 | [Human Perspective](https://open.spotify.com/track/5c2Z7W7kARLvrvzIO7P18c) | [Dawn Sankrit](https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU) | [Human Perspective](https://open.spotify.com/album/7gevGqGtLeH2yPx7tv21mY) | 2:48 |
@@ -212,7 +212,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 202 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 |
 | 203 | [Nurture](https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Nurture](https://open.spotify.com/album/6hA1k6pw60zDJhxv9gjReC) | 3:51 |
 | 204 | [Seguro](https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Descanso](https://open.spotify.com/album/1pzm6eTtrCOHYuyqGeCpoZ) | 2:37 |
-| 205 | [Regreso](https://open.spotify.com/track/0xbwOBfj9VQzrixeUrkbv5) | [Yestize](https://open.spotify.com/artist/6Q7kUyZyeap1NroAeY39R1) | [Regreso](https://open.spotify.com/album/4NynEaNsMqhoOAWjxP2c6v) | 2:58 |
+| 205 | [Regreso](https://open.spotify.com/track/0xbwOBfj9VQzrixeUrkbv5) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Regreso](https://open.spotify.com/album/4NynEaNsMqhoOAWjxP2c6v) | 2:58 |
 | 206 | [Hankering](https://open.spotify.com/track/7dZf1E475t9raui9KSVC0L) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Hankering](https://open.spotify.com/album/7yZlegVo0up43u1nuQHfzu) | 2:49 |
 | 207 | [Reefs](https://open.spotify.com/track/4Y6BJckPBrpWNIFYtkd5Mo) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Reefs](https://open.spotify.com/album/10ebwgBwyuG5UO3rB1FCKt) | 2:40 |
 | 208 | [Praiseworthy](https://open.spotify.com/track/6UDUV0eh8K04FTxhfpOEdR) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:27 |

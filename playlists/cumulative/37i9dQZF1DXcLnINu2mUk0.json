@@ -982,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Leite",
+          "url": "https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Espa\u00e7o",
+      "url": "https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr"
+    },
+    {
+      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 200097,
       "name": "Mar\u00eda\u2661",
       "url": "https://open.spotify.com/track/737sa9JwA5YmswwNYcJXAE"

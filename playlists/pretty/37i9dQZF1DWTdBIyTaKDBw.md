@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,936 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,014 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 49 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
 | 50 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 |
 | 51 | [Our Cinema \#2 \- Dancing](https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#2 \- Dancing](https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC) | 3:30 |
-| 52 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
-| 53 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 |
+| 52 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 |
+| 53 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
 | 54 | [Dancing Universe](https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [LOVER](https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu) | 4:25 |
 | 55 | [Back Home](https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:48 |
 | 56 | [I don't want \(feat.So Jung of LADIES’ CODE\)](https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [So Jung of LADIES’ CODE](https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ) | [LISH](https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj) | 3:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [나비](https://open.spotify.com/track/1R1mvOZ2cfnM39erhGQ5WQ) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [나비](https://open.spotify.com/album/0J1t80ksf1tqqLJodid9Cs) | 3:59 |
 | 70 | [With all my heart](https://open.spotify.com/track/5zhOr1qGlSEHhv5XEuzi0j) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/6o6gPj3oOu3ueWm30egKg3) | 3:05 |
 
-Snapshot ID: `MTY2OTAwMjY0OSwwMDAwMDAwMDk2NzZlODUzYjg2ZTQwY2VlNzZiOGI2M2U2ZDJiN2Zj`
+Snapshot ID: `MTY2OTAwMjY0OSwwMDAwMDAwMGI0MWVjNDllNGEzMDY4YTIyODUxZDUwODI4OTAyZmMz`

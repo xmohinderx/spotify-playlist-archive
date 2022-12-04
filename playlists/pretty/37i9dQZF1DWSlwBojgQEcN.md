@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,733,468 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733,723 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,18 +56,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 46 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
 | 47 | [Sweetest Thing](https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7) | 3:38 |
 | 48 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 |
-| 49 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
-| 50 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
+| 49 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
+| 50 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 | 51 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 52 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 |
 | 53 | [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 |
-| 54 | [Hate The Way You Love Me](https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI) | 4:03 |
+| 54 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 |
 | 55 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 |
-| 56 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 |
+| 56 | [Hate The Way You Love Me](https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI) | 4:03 |
 | 57 | [Wind & Anchor](https://open.spotify.com/track/34fJIXIKjz8tbUwzRiD4lj) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Young](https://open.spotify.com/album/7c7WXAvGLEnfritd5ir09k) | 3:08 |
 | 58 | [Dark Four Door](https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:28 |
-| 59 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 |
-| 60 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
+| 59 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
+| 60 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 |
 | 61 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 62 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
 | 63 | [We'll Make It Through](https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 6:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Whatever You Do](https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:07 |
 | 100 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDBmNTIyY2U1MmJlMjVkMzA3NzZkOWMxMWRlYzZlZjYw`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGEzMDYyMzdmYWFkMDYwNDk3N2JiMmYzZDlkZmUwMmEy`

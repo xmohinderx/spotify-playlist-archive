@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Artist: Blake Shelton",
-  "num_followers": 2058907,
+  "num_followers": 2059368,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ1ODYwMCwwMDAwMDAwMGFjY2E2ZDAyZWU5YTRmOWYxZGIxOTk5Mjg1MWZjNTgx",
+  "snapshot_id": "MTY2ODQ1ODYwMCwwMDAwMDAwMDlkZTI5MjFlZGEwZmNiNzg3NzBjNGVlOGQ0M2I2YzYy",
   "tracks": [
     {
       "added_at": "2022-11-14 20:43:20",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-14 20:43:20",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2022-11-14 20:43:20",
-      "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 241533,
       "name": "It's A Great Day To Be Alive",
       "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+    },
+    {
+      "added_at": "2022-11-14 20:43:20",
+      "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2022-11-14 20:43:20",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-11-14 20:43:20",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2022-11-14 20:43:20",
@@ -711,34 +711,18 @@
     {
       "added_at": "2022-11-14 20:43:20",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
-    },
-    {
-      "added_at": "2022-11-14 20:43:20",
-      "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "As Good As I Once Was",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2022-11-14 20:43:20",
@@ -759,6 +743,22 @@
       "duration_ms": 198688,
       "name": "I Hope You\u2019re Happy Now",
       "url": "https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr"
+    },
+    {
+      "added_at": "2022-11-14 20:43:20",
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "As Good As I Once Was",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2022-11-14 20:43:20",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-11-14 20:43:20",
       "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Mean",
-      "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
+      "duration_ms": 242733,
+      "name": "Drive (For Daddy Gene)",
+      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
     },
     {
       "added_at": "2022-11-14 20:43:20",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-11-14 20:43:20",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Drive (For Daddy Gene)",
-      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
+      "duration_ms": 237733,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
     },
     {
       "added_at": "2022-11-14 20:43:20",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-11-14 20:43:20",
       "album": {
-        "name": "Mercury Lane",
-        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Best Shot",
-      "url": "https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ"
-    },
-    {
-      "added_at": "2022-11-14 20:43:20",
-      "album": {
         "name": "Backslider",
         "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 203381,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa"
+    },
+    {
+      "added_at": "2022-11-14 20:43:20",
+      "album": {
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Best Shot",
+      "url": "https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ"
     },
     {
       "added_at": "2022-11-14 20:43:20",

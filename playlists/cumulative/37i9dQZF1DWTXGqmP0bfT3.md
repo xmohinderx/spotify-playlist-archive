@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-213 songs - 15 hr 5 min - [published](https://open.spotify.com/playlist/3uOYzCcMPXvMkVwUxmAaer)
+214 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/3uOYzCcMPXvMkVwUxmAaer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [The Truth](https://open.spotify.com/track/6zY01uEjoEooORQkEqUGMO) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP) | 3:04 | 2021-12-17 | 2022-07-26 |
 | [The Way of Vikings](https://open.spotify.com/track/3ofbnIF89fQgZ1FMAGlTn7) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 5:11 | 2021-12-17 | 2022-07-29 |
 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 | 2021-12-17 |  |
-| [Through The Fire And Flames](https://open.spotify.com/track/1iTb2vi8Bls7QY6CKL2gj2) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Killer Elite](https://open.spotify.com/album/6p2TDcw5AKmxzEqzgjWlGN) | 7:19 | 2021-12-17 |  |
+| [Through The Fire And Flames](https://open.spotify.com/track/1iTb2vi8Bls7QY6CKL2gj2) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Killer Elite](https://open.spotify.com/album/6p2TDcw5AKmxzEqzgjWlGN) | 7:19 | 2021-12-17 | 2022-12-04 |
+| [Through the Fire and Flames](https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Inhuman Rampage](https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5) | 7:21 | 2022-12-01 |  |
 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 | 2022-01-06 | 2022-01-08 |
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2021-12-17 |  |
 | [Tornado Of Souls \- Remastered 2004](https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:19 | 2021-12-17 |  |

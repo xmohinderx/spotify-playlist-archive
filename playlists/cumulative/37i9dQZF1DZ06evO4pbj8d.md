@@ -4,7 +4,7 @@
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0zLwUoEPRguD1c7IKr5fDt)
+44 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/0zLwUoEPRguD1c7IKr5fDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 | 2022-09-16 |  |
 | [No Turning Back](https://open.spotify.com/track/6XwtP51GmM6r09dVouba1W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [No Turning Back](https://open.spotify.com/album/4QWBRmlZjIolh4WBq84jy0) | 3:48 | 2022-09-16 |  |
 | [Poison](https://open.spotify.com/track/1yCbpQOLC7pCOKUpnYfm4Q) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:56 | 2022-09-16 |  |
+| [Power \- From the Al Sharpton Documentary LOUDMOUTH](https://open.spotify.com/track/7thDDJkwC3ubFYK7x1q7I3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Power \(From the Al Sharpton Documentary LOUDMOUTH\)](https://open.spotify.com/album/3NBUJAebIR6GVVQpyG6sK7) | 3:14 | 2022-12-03 |  |
 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 | 2022-09-16 |  |
 | [Shelter](https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:55 | 2022-09-16 |  |
 | [smoke](https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 2:50 | 2022-09-16 |  |

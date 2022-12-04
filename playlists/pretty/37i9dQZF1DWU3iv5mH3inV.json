@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 69926,
+  "num_followers": 70046,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGYzY2ZkNTNlZWMwZDhhMzc0MDZhY2I0NGYyOWI2MDk0",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDM0ZGJjYWMwZTdmZDA4MDAyNGIxOTZlOWZjNzlhYjc2",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Exito, Vol 1",
-        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
-      },
-      "artists": [
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 228324,
-      "name": "De Amor Nadie Se Muere",
-      "url": "https://open.spotify.com/track/1Tu483bh5Yotr3fE7yHKCi"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Ponme to Eso Pa Lante",
         "url": "https://open.spotify.com/album/30DAg92KlUWk4k8chGRWNJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 167786,
       "name": "Ponme to Eso Pa Lante",
       "url": "https://open.spotify.com/track/7HNX5ap83jCLeWODW6CU2m"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Exito, Vol 1",
+        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 228324,
+      "name": "De Amor Nadie Se Muere",
+      "url": "https://open.spotify.com/track/1Tu483bh5Yotr3fE7yHKCi"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+        "name": "Mensaje Directo (DM)",
+        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
       },
       "artists": [
         {
-          "name": "Sarodj",
-          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
         }
       ],
-      "duration_ms": 134237,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
+      "duration_ms": 220706,
+      "name": "Mensaje Directo (DM)",
+      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Mensaje Directo (DM)",
-        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
-      },
-      "artists": [
-        {
-          "name": "Shadow Blow",
-          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Mensaje Directo (DM)",
-      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Klok Con Klok",
         "url": "https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 163800,
       "name": "Klok Con Klok",
       "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1795,50 +1795,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Calle",
-        "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        },
-        {
-          "name": "Imperio Record",
-          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 152049,
-      "name": "Calle",
-      "url": "https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Peine Caracol, Vol. 2",
-        "url": "https://open.spotify.com/album/0fCnAn6n7ioHrbQW2VGFRM"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 190593,
-      "name": "Peine Caracol, Vol. 2",
-      "url": "https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Tu Cojea (Remix)",
         "url": "https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi"
       },
@@ -1871,6 +1827,50 @@
       "duration_ms": 244916,
       "name": "Tu Cojea - Remix",
       "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Peine Caracol, Vol. 2",
+        "url": "https://open.spotify.com/album/0fCnAn6n7ioHrbQW2VGFRM"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 190593,
+      "name": "Peine Caracol, Vol. 2",
+      "url": "https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Calle",
+        "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 152049,
+      "name": "Calle",
+      "url": "https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Hoy Me Desacato Dale Pipo",
-        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
-      },
-      "artists": [
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        }
-      ],
-      "duration_ms": 162482,
-      "name": "Hoy Me Desacato Dale Pipo",
-      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Otro Formato",
         "url": "https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 245815,
       "name": "Pepe",
       "url": "https://open.spotify.com/track/6kkG9O8oKrZ7ETFFzbEtrk"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Hoy Me Desacato Dale Pipo",
+        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 162482,
+      "name": "Hoy Me Desacato Dale Pipo",
+      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Otro Formato",
-        "url": "https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35"
-      },
-      "artists": [
-        {
-          "name": "Doble T y El Crok Los Pepes",
-          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
-        }
-      ],
-      "duration_ms": 209989,
-      "name": "Bulto",
-      "url": "https://open.spotify.com/track/7IQF0Z5ZwfSpVYHF7CikOc"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Ella Eh!",
         "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
       },
@@ -2287,6 +2271,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Otro Formato",
+        "url": "https://open.spotify.com/album/5PiUtsffoSQ9mdMj0Tno35"
+      },
+      "artists": [
+        {
+          "name": "Doble T y El Crok Los Pepes",
+          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
+        }
+      ],
+      "duration_ms": 209989,
+      "name": "Bulto",
+      "url": "https://open.spotify.com/track/7IQF0Z5ZwfSpVYHF7CikOc"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Exito, Vol 1",
         "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
       },
@@ -2315,6 +2315,22 @@
       "duration_ms": 202005,
       "name": "Ella Quiere Cualto (Tu No Tiene Cualto)",
       "url": "https://open.spotify.com/track/0DBhySOALDr1Nz5rtY4kOW"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Piddy",
+          "url": "https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Me Tienen Dema (Golo Golo)",
+      "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2367,22 +2383,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/7p9lBLA0o9JnxOgosUZlLJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Piddy",
-          "url": "https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Me Tienen Dema (Golo Golo)",
-      "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Exitos, Vol.1",
         "url": "https://open.spotify.com/album/3VYjIp6qFqI0GrEAy3tvBD"
       },
@@ -2423,30 +2423,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Eso Es Mental",
-        "url": "https://open.spotify.com/album/2UqAGEkeshUDADfxlDMApg"
-      },
-      "artists": [
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 157863,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/3q13pn7i4AWn1aAl98ph7E"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "LATIN HITS 2018 - Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness (60 Super Exitos Latinos - Club Edition)",
         "url": "https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4"
       },
@@ -2475,6 +2451,30 @@
       "duration_ms": 274840,
       "name": "La Nota Se Me Encampana (with Tali Goya, Ceky Viciny, Quimico Ultra Mega & Shelow Shaq) - Remix",
       "url": "https://open.spotify.com/track/6fF4naENXsnyCaiHCctKCp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Eso Es Mental",
+        "url": "https://open.spotify.com/album/2UqAGEkeshUDADfxlDMApg"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 157863,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/3q13pn7i4AWn1aAl98ph7E"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2771,22 +2771,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Matadora",
-        "url": "https://open.spotify.com/album/7h8QOqVOVS9AZXeXwSqAzk"
-      },
-      "artists": [
-        {
-          "name": "O.2.J",
-          "url": "https://open.spotify.com/artist/72zahFOqcscGO4dGgbrlyM"
-        }
-      ],
-      "duration_ms": 209470,
-      "name": "Matadora",
-      "url": "https://open.spotify.com/track/0invq6hmeodEYK3pJbi1au"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Mi Cumplea\u00f1o",
         "url": "https://open.spotify.com/album/4X9gqosf7H0MRVs0HTKH1C"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 183534,
       "name": "De Boca",
       "url": "https://open.spotify.com/track/2VaYsYUBZZfj8nLyQxnGCs"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Matadora",
+        "url": "https://open.spotify.com/album/7h8QOqVOVS9AZXeXwSqAzk"
+      },
+      "artists": [
+        {
+          "name": "O.2.J",
+          "url": "https://open.spotify.com/artist/72zahFOqcscGO4dGgbrlyM"
+        }
+      ],
+      "duration_ms": 209470,
+      "name": "Matadora",
+      "url": "https://open.spotify.com/track/0invq6hmeodEYK3pJbi1au"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -2999,6 +2999,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Exito, Vol 1",
+        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 154884,
+      "name": "Mi Noche",
+      "url": "https://open.spotify.com/track/5hs8E0PCAG5uVZXjURDCJ7"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "La Gomita",
         "url": "https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4"
       },
@@ -3027,22 +3043,6 @@
       "duration_ms": 144120,
       "name": "El Chiva",
       "url": "https://open.spotify.com/track/6Lpx9mRll44qoVXhSPBdSw"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Exito, Vol 1",
-        "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
-      },
-      "artists": [
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 154884,
-      "name": "Mi Noche",
-      "url": "https://open.spotify.com/track/5hs8E0PCAG5uVZXjURDCJ7"
     },
     {
       "added_at": "2022-11-25 05:00:00",

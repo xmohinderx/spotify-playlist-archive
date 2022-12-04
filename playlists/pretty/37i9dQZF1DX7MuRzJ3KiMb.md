@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,447 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,498 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 20 | [Torpe](https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Torpe](https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4) | 4:12 |
 | 21 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
 | 22 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
-| 23 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
-| 24 | [Caía la Noche](https://open.spotify.com/track/6Xzu0zKKceCVd8uSHJAjgq) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Souvenir](https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC) | 3:11 |
+| 23 | [Caía la Noche](https://open.spotify.com/track/6Xzu0zKKceCVd8uSHJAjgq) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Souvenir](https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC) | 3:11 |
+| 24 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
 | 25 | [Quién Podrá Saberlo](https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:43 |
 | 26 | [Nenita](https://open.spotify.com/track/0R8sg8rEFSQ5Nc3Becf6c9) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nenita](https://open.spotify.com/album/452AFjVFW2pvZlAFOPUoFS) | 3:23 |
 | 27 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 42 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 |
 | 43 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 44 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
-| 45 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
-| 46 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
+| 45 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
+| 46 | [Suéltate](https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Dimittas](https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ) | 2:47 |
 | 47 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
 | 48 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 | 49 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 71 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 |
 | 72 | [Átame](https://open.spotify.com/track/0oLIHr9UiL68al3E8MeT2u) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Átame](https://open.spotify.com/album/0dDvgoijFTIRu3gPR4XTpn) | 3:10 |
 | 73 | [Postre](https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN) | 3:00 |
-| 74 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
-| 75 | [Contigo Me Quedo](https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Contigo Me Quedo](https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV) | 3:16 |
+| 74 | [Contigo Me Quedo](https://open.spotify.com/track/3iwURMcbfTjtOZcBrVwQh5) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Contigo Me Quedo](https://open.spotify.com/album/7LOGZuxzTIwBT4XnuwOxDV) | 3:16 |
+| 75 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
 
-Snapshot ID: `MTY2Mzk3NTMyNSwwMDAwMDAwMGQzOWYwZGI5OTgwMTY4ODVhMWUxMmE5NGJhMjNmOWJh`
+Snapshot ID: `MTY2Mzk3NTMyNSwwMDAwMDAwMDdmZjEwM2EwYjYxNmY5OGYwN2EzODk5NTUxMmUzMzUw`

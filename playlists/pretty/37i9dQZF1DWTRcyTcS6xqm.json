@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 7488,
+  "num_followers": 7507,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDAxZWY2NTE2NTlhOTY0ZTI4MjNhN2RiZjZmOGJjODBm",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGE4YjMzOTc5M2EwNmM5ZDdlNGUzZTUwYzAyZjI1MjZi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "King Bee Shakedown",
-      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hellfire",
         "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 236746,
       "name": "Too Drunk To Drive Drunk",
       "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "King Bee Shakedown",
+      "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 239386,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt"
     },
     {
+      "added_at": "2021-11-05 04:00:00",
+      "album": {
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "duration_ms": 149895,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "The Dirty Truth",
@@ -707,22 +723,6 @@
       "duration_ms": 275226,
       "name": "Let The Good Time Party Begin",
       "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
-    },
-    {
-      "added_at": "2021-11-05 04:00:00",
-      "album": {
-        "name": "Shout Into The Noise",
-        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        }
-      ],
-      "duration_ms": 149895,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Damage Control",
@@ -863,6 +847,22 @@
       "duration_ms": 214133,
       "name": "Mr. Loving Man",
       "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
     }
   ],
   "unique_name": "Blues Party",

@@ -4,7 +4,7 @@
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 51 min - not published yet
+30 songs - 1 hr 54 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Famine Or Disease](https://open.spotify.com/track/6Un0N91DjUVLmRNNazLQ6g) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:56 | 2022-10-25 |  |
 | [Fireflies](https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:28 | 2022-10-25 |  |
 | [From Hell](https://open.spotify.com/track/23CtmrAxtou9iB43mfim6r) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:38 | 2022-10-25 |  |
-| [Further From The Few](https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:31 | 2022-10-25 |  |
+| [Further From The Few](https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:31 | 2022-10-25 | 2022-12-04 |
 | [Grey Matter](https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:39 | 2022-10-25 |  |
 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 | 2022-10-25 |  |
 | [Insomniatic Meat](https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:24 | 2022-10-25 |  |
@@ -35,6 +35,7 @@
 | [Post Script](https://open.spotify.com/track/0XxaJChXTfqNkIOqlYmNOw) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:49 | 2022-10-25 |  |
 | [Spanish Fly \- Bonus Track](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 | 2022-10-25 |  |
 | [Stay With Me](https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:02 | 2022-10-25 |  |
+| [Two Guns To The Temple](https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 2:53 | 2022-12-03 |  |
 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 | 2022-10-25 |  |
 | [Worms Of The Earth \- Live](https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn \- X](https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae) | 3:45 | 2022-10-25 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Falling leaves and cozy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,730 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,662 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 48 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
 | 49 | [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 |
 | 50 | [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 |
-| 51 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 |
+| 51 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 |
 | 52 | [Atlas Hands](https://open.spotify.com/track/4gSYPXqENGdaJiwm6W0hkQ) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:53 |
 | 53 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
 | 54 | [Home](https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 74 | [Didn't You](https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 4:03 |
 | 75 | [Thirteen Sad Farewells](https://open.spotify.com/track/4hcEsAXv3vAcUsRT4Tgd1H) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/3uphRkVItHVdeK9EVStwiM) | 2:45 |
 
-Snapshot ID: `MTY2MjQ3Nzg4MSwwMDAwMDAwMGY1OTQ5MzY2YzkwNzViMjk0ZDBhMjhlOWQwOThlOTFj`
+Snapshot ID: `MTY2MjQ3Nzg4MSwwMDAwMDAwMGIzYThjYTg3ZDZlMjI4MzE2NjNjYmViYzk3YTlkMDlk`

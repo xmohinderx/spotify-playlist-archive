@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ALALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,311 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,387 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 6 | [งอนละ \- Boo](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 |
 | 7 | [หวานใจ](https://open.spotify.com/track/6Mr7XbwIKjbpTRofrDegVB) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [หวานใจ](https://open.spotify.com/album/4Fdzbc9iDgLCyRctS1R5g6) | 3:31 |
 | 8 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
-| 9 | [ถ้าเธอจะรักก็รักไปแล้ว](https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [ถ้าเธอจะรักก็รักไปแล้ว](https://open.spotify.com/album/7IGF03KO1vRanMOaROicVI) | 3:44 |
+| 9 | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/album/7IGF03KO1vRanMOaROicVI) | 3:44 |
 | 10 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 | 11 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 |
 | 12 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 |

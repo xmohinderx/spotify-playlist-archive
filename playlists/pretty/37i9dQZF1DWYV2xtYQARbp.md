@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,889 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,904 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 7 | [Davy Crockett](https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Archive From 1959 \- The Billy Childish Story](https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb) | 2:55 |
 | 8 | [Crackalacka](https://open.spotify.com/track/7hOazEoGmlZrK63w6wMMwA) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:57 |
 | 9 | [Frog Went a Courtin'](https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl) | [Flat Duo Jets](https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC) | [Two Headed Cow](https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY) | 2:18 |
-| 10 | [Commit a Crime](https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:30 |
+| 10 | [Pretty Baby](https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Talking 'bout](https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe) | 2:14 |
 | 11 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
 | 12 | [Calvin](https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Acme](https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq) | 3:02 |
-| 13 | [Pretty Baby](https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Talking 'bout](https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe) | 2:14 |
+| 13 | [Commit a Crime](https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:30 |
 | 14 | [Nitroglycerine](https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 3:52 |
 | 15 | [Good Man](https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 2:57 |
 | 16 | [Fishfight](https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & Bbq Show](https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDE5OTA5MmI3OGY5ZWIyODRmMTg4ZDgxMjNmOTdhYWFk`
+Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMGM1YjVmNDUyZTFjNjg0YTRlNWI4NzQ2MWM1NjFjZTEx`

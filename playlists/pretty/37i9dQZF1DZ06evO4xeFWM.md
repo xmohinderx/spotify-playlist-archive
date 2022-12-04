@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,828 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,878 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 51 | [Fake It](https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:04 |
 | 52 | [No One’s Here To Sleep](https://open.spotify.com/track/0txjdg6j38GxiWzfH2Skpg) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 4:32 |
 
-Snapshot ID: `Mjc4MzMzODcsMDAwMDAwMDAxM2U0NDNjY2ZmNGNkMjRhODkzZWY2ZTliMDQwZTFlYw==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDAxNWVhOGIyNmM3OTU1YmUwNmYyZGE0Njc3OWM4ODNmZQ==`

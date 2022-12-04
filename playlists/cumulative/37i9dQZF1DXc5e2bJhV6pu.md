@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,411 songs - 3 day 8 hr 7 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
+1,412 songs - 3 day 8 hr 11 min - [published](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 | 2021-03-14 | 2021-07-27 |
 | [Don't Need You](https://open.spotify.com/track/5VuuQAqTwEXe3GiwlaS8cC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/6KFUEpoc6kGKE27Uie6qEC) | 3:05 | 2022-04-05 | 2022-04-18 |
 | [Don't Say](https://open.spotify.com/track/6rHC7eMaQDDpbm29WuuJbe) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Say](https://open.spotify.com/album/6yYmVFP4TaBffBvA604Ney) | 3:32 | 2020-01-07 | 2021-05-12 |
-| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-12-06 |  |
+| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2019-12-06 | 2022-12-04 |
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2019-08-26 | 2022-04-20 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2019-08-08 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2021-03-16 | 2022-04-14 |
@@ -345,6 +345,7 @@
 | [Everyday People](https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:19 | 2019-08-02 | 2022-04-18 |
 | [Everything I'm Not](https://open.spotify.com/track/1Ofm6uBEI1kBfztltCyQpd) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:21 | 2019-08-06 | 2019-08-08 |
 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 | 2019-08-01 | 2022-04-17 |
+| [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2022-10-27 |  |
 | [Everywhere \- Remastered](https://open.spotify.com/track/0U6Ga0VWSGq6iEE1AKkgO1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe\)](https://open.spotify.com/album/0fdD8bSIoORVTtQ7R5YdOE) | 3:46 | 2021-03-16 | 2022-04-17 |
 | [EXHALE \(feat\. Sia\)](https://open.spotify.com/track/30xUaJSXc6aQfsF3yIcj0o) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [EXHALE \(feat\. Sia\)](https://open.spotify.com/album/0jN9u42ixbBaGnk8CFYl24) | 2:34 | 2020-06-29 | 2021-05-25 |
 | [Exit Sign](https://open.spotify.com/track/4c2cdWv3GLKoP12tY0OzZl) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [The Great Expanse](https://open.spotify.com/album/4ROQFvVOISvh3ypktsynm1) | 3:43 | 2019-07-29\* | 2022-04-21 |

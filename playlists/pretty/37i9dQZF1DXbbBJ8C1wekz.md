@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,978 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,023 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 53 | [Meu Corre](https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Corre](https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr) | 2:50 |
 | 54 | [21](https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [21](https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO) | 3:35 |
 | 55 | [C Walk 2](https://open.spotify.com/track/0CeaAvEotqd1vxT25x2oQ2) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [C Walk 2](https://open.spotify.com/album/1acftUORHmGwfl2HMP2ZUH) | 3:43 |
-| 56 | [Eu Peço Paz](https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Eu Peço Paz](https://open.spotify.com/album/5ghalgVjIzcEQfZiKbFkPk) | 5:14 |
-| 57 | [RJ Mais Que Atlanta](https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [RJ Mais Que Atlanta](https://open.spotify.com/album/3fkbibWGlHrHzaaoJ6MXq1) | 3:04 |
+| 56 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
+| 57 | [Eu Peço Paz](https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Eu Peço Paz](https://open.spotify.com/album/5ghalgVjIzcEQfZiKbFkPk) | 5:14 |
 | 58 | [Jordan](https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jordan](https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL) | 3:10 |
-| 59 | [Ak Forty Seven](https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Ak Forty Seven](https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3) | 2:52 |
+| 59 | [RJ Mais Que Atlanta](https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [RJ Mais Que Atlanta](https://open.spotify.com/album/3fkbibWGlHrHzaaoJ6MXq1) | 3:04 |
 | 60 | [Cheat Code](https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 3:00 |
 
-Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDM5NDE1NDExODU4ZGMwZjRmZGQ0NGFmNmVjYmIzMGU1`
+Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDQ0OTYwYjM3ZDk5MjczMDVlOWJhZWYzMmM1YWQ5ZmFj`

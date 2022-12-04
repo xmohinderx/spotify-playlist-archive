@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-69 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
+70 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 | 2021-07-28 | 2022-10-23 |
 | [Don't Look Back in Anger](https://open.spotify.com/track/7pE8VRAZfWCwiQhRf2NXuX) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:28 | 2021-07-28 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ) | [Mariachi Tierras Caliente](https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC) | [Don't Stop Believin'](https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s) | 3:43 | 2021-07-28 |  |
+| [Don't Stop Me Now](https://open.spotify.com/track/2keKYQq7bs6WUWBsmlzSOV) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 4:40 | 2021-07-28 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/7vwp4fDLYkaLmMABuTQJKz) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 | 2022-10-22 |
 | [Don't You Want Me](https://open.spotify.com/track/33lBbfm7wD1lyorChcTqdK) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:33 | 2021-07-28 | 2022-10-19 |
 | [Don't You Want Me](https://open.spotify.com/track/7lzJGHFr3LJuKUsM0rtfMJ) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 3:33 | 2021-07-28 |  |
@@ -39,7 +40,7 @@
 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 | 2022-11-27 |
 | [Happy](https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:57 | 2021-07-28 | 2022-11-27 |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 2:45 | 2021-07-28 |  |
-| [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 |  |
+| [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 | 2022-12-04 |
 | [Hotel California](https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd) | [Mariachi Espiritus](https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7) | [Hotel California](https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K) | 5:21 | 2021-07-28 |  |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/19OQ0JOUYNRaZVjI2cS0YR) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:17 | 2021-07-28 | 2022-10-19 |
 | [I Love Rock 'N' Roll](https://open.spotify.com/track/1kCQGipg9DCCtTlx80wZ8J) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm) | 3:17 | 2021-07-28 |  |

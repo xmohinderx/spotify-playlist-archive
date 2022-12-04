@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,512 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,682 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 60 | [More Than Words Can Say](https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl) | [Alias](https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ) | [Alias](https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF) | 3:54 |
 | 61 | [Honestly](https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN) | [Harem Scarem](https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va) | [Harem Scarem](https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c) | 4:02 |
 | 62 | [Second Chance](https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Rock & Roll Strategy](https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX) | 5:04 |
-| 63 | [Love Walks In](https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 5:10 |
-| 64 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
+| 63 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
+| 64 | [Love Walks In](https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 5:10 |
 | 65 | [Don't Treat Me Bad](https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 3:55 |
 | 66 | [Don't Go Away Mad \(Just Go Away\)](https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(2021 \- Remaster\)](https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2) | 4:38 |
 | 67 | [Something To Believe In \- Remastered](https://open.spotify.com/track/7pUYjnFTXMs0mFWsE9epqV) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 5:28 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 80 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 81 | [Heartbreak Station](https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Heartbreak Station](https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA) | 4:28 |
 | 82 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 |
-| 83 | [Love Is on the Way](https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe) | [Saigon Kick](https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d) | [The Lizard](https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ) | 4:24 |
-| 84 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
+| 83 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
+| 84 | [Love Is on the Way](https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe) | [Saigon Kick](https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d) | [The Lizard](https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ) | 4:24 |
 | 85 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
 | 86 | [I Live My Life for You](https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Good Acoustics](https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf) | 4:21 |
 | 87 | [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 |
 | 100 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
 
-Snapshot ID: `MTY2MzAxMDE4MywwMDAwMDAwMGY2M2E1ZTFkN2I4ZmNhMGRmZjU5ZjcwOTNjM2JjZTUw`
+Snapshot ID: `MTY2MzAxMDE4MywwMDAwMDAwMDAyYWMwMjJhM2RmYjIzZTAzODczZWMyOTk0NzZmZWU5`

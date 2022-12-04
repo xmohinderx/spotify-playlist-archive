@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,326 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,402 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 13 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
 | 14 | [Power Over Me \- Acoustic](https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me EP](https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65) | 3:20 |
 | 15 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
-| 16 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
+| 16 | [Green Eyes](https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:50 |
 | 17 | [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 |
-| 18 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
-| 19 | [Green Eyes](https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:50 |
+| 18 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
+| 19 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
 | 20 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
 | 21 | [Know You Better](https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:09 |
 | 22 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Too Repressed \- Explicit](https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx) | [Sometymes Why](https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU) | [Sometimes Why](https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q) | 5:57 |
 | 50 | [Revelry](https://open.spotify.com/track/0MqjKvmJPGJ6t0EQ83jcd2) | [The Careful Ones](https://open.spotify.com/artist/1DdAoWvETBUklcJCOISZx1) | [Moths, Flames, Etc.](https://open.spotify.com/album/70X36a93N5RF7tXXJmESEJ) | 3:36 |
 
-Snapshot ID: `MTYxNjEyNjUyMCwwMDAwMDAwMGE2Yzk0OTIxMWJjYzU3MWZiMzMzZjcwMzcxMWY4ODU4`
+Snapshot ID: `MTYxNjEyNjUyMCwwMDAwMDAwMGI5M2M2MzgyOTY4MDFkODZkNWYxZDZjM2ViNGEwOGM3`

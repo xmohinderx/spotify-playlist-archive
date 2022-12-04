@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,264 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,534 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 56 | [\(I Left My Heart\) In San Francisco](https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Left My Heart In San Francisco](https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7) | 2:50 |
 | 57 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 |
 | 58 | [Up on the Roof](https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:37 |
-| 59 | [People Get Ready](https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [People Get Ready](https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL) | 2:43 |
-| 60 | [In Dreams](https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB) | 2:49 |
+| 59 | [In Dreams](https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB) | 2:49 |
+| 60 | [People Get Ready](https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [People Get Ready](https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL) | 2:43 |
 | 61 | [I Will Follow You](https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [For Your Sweet Love](https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox) | 2:26 |
 | 62 | [It Was A Very Good Year](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 4:27 |
 | 63 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 74 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
 | 75 | [I Wish It Would Rain](https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Wish It Would Rain](https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l) | 2:42 |
 | 76 | [Darling Baby](https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [Hitsville USA \- The Motown Singles Collection 1959\-1971](https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj) | 2:36 |
-| 77 | [Sweet Happy Life](https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Guitars A La Lee](https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4) | 2:09 |
-| 78 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
+| 77 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
+| 78 | [Sweet Happy Life](https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Guitars A La Lee](https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4) | 2:09 |
 | 79 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 80 | [Can't Help Falling In Love \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt) | 3:18 |
 | 81 | [Ain't Nothing Like The Real Thing](https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:18 |
@@ -126,12 +126,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 116 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
 | 117 | [Take Another Little Piece of My Heart](https://open.spotify.com/track/43gYYzuAUfrsXxurrxVyE9) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In London](https://open.spotify.com/album/5g3vH5YFr5Om6x7P2xhML3) | 2:38 |
 | 118 | [Runaround \- Early Version](https://open.spotify.com/track/2owX09XMfbzBCVLUfJiGqJ) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Presenting The Fleetwoods](https://open.spotify.com/album/5Fc0EToP02Ep5Ej2cTB4if) | 2:34 |
-| 119 | [Both Sides Now](https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:34 |
+| 119 | [Hey Paula](https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Hey Paula](https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh) | 2:26 |
 | 120 | [Fool for You](https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [This Is My Country](https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68) | 2:52 |
-| 121 | [Hey Paula](https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Hey Paula](https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh) | 2:26 |
+| 121 | [Both Sides Now](https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:34 |
 | 122 | [The Windmills of Your Mind](https://open.spotify.com/track/6MUHAvKGAmKXojn8wdFB71) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 3:51 |
 | 123 | [Something \- Remastered 2009](https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:02 |
 | 124 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 | 125 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 
-Snapshot ID: `MTY2Mjk1ODU0OSwwMDAwMDAwMDA5ZTgxZTBmZjllMDRjMTg4MzE5NDVmZDhkOWYyYmI1`
+Snapshot ID: `MTY2Mjk1ODU0OSwwMDAwMDAwMDViZGViNmQzYTk2MmFjYmE1MGQwOTBjZWI0ODA0ZjYw`

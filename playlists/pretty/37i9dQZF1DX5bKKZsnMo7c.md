@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,959 likes - 81 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,645 likes - 81 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 59 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 |
 | 60 | [Turn the Lights Off](https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:56 |
 | 61 | [Touch\-Tone Telephone](https://open.spotify.com/track/1tmRlF5pFo8G5OfJYUjWrR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:42 |
-| 62 | [Like or Like Like](https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj) | 2:38 |
+| 62 | [Like or Like Like](https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov) | 2:38 |
 | 63 | [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 |
 | 64 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/1yS9wpv8GW2c8tHC7P85JJ) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:19 |
 | 65 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 80 | [Ooh! Sumthin' New](https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Ooh! Sumthin' New](https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc) | 4:45 |
 | 81 | [Catch Me](https://open.spotify.com/track/2IttUhFdxdQqP6EQjC1J2x) | [Joey Howard](https://open.spotify.com/artist/6LODFSsk8IzeCBK5ZM2qMI) | [Catch Me](https://open.spotify.com/album/1YkL3NppRuzl3Vsc0eCgmP) | 2:43 |
 
-Snapshot ID: `MTY3MDAwMDQwMCwwMDAwMDAwMDFhMzdkNjM1MzY0YTUzOGRjY2RiZjM4YmFlNDZmN2Fl`
+Snapshot ID: `MTY3MDAwMDQwMCwwMDAwMDAwMGIwZjA5YzMzNWNhN2U1MWQwZDU1YmM4NDY2YjBjNWE2`

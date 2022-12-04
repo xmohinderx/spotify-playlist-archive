@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 204734,
+  "num_followers": 204846,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDQ3ZGFhYTYxNjYwM2RmODE0MzE3MTNlMmVjYWM1ODY1",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDNhMzIxMWE3MTQ3YzFkNGVkNmI2NmZhZDA2Y2M4OTRh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Un Toque De F\u00e9",
-        "url": "https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd"
-      },
-      "artists": [
-        {
-          "name": "Nancy Amancio",
-          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Cuando Oras",
-      "url": "https://open.spotify.com/track/5FCDZ3L0Tr0KqYrn3j9v3V"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Glorificad a Jehov\u00e1",
         "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 313866,
       "name": "Llevame Al Lugar Sant\u00edsimo",
       "url": "https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Un Toque De F\u00e9",
+        "url": "https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd"
+      },
+      "artists": [
+        {
+          "name": "Nancy Amancio",
+          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Cuando Oras",
+      "url": "https://open.spotify.com/track/5FCDZ3L0Tr0KqYrn3j9v3V"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -691,6 +691,26 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Santo Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
+      },
+      "artists": [
+        {
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "Hay Una Fuente En M\u00ed",
+      "url": "https://open.spotify.com/track/5QcC5tFnqsNOjxksGXZHCB"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "De Vuelta Al Jardin",
         "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 281773,
       "name": "Danzo en el R\u00edo (En Vivo)",
       "url": "https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Santo Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
-      },
-      "artists": [
-        {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
-        },
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 273066,
-      "name": "Hay Una Fuente En M\u00ed",
-      "url": "https://open.spotify.com/track/5QcC5tFnqsNOjxksGXZHCB"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -859,18 +859,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Devoci\u00f3n",
-        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
+        "name": "Santo Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 472493,
-      "name": "Revelacion",
-      "url": "https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94"
+      "duration_ms": 305040,
+      "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
+      "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -891,22 +895,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Santo Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
+        "name": "Devoci\u00f3n",
+        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
       },
       "artists": [
         {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
-        },
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 305040,
-      "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
-      "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
+      "duration_ms": 472493,
+      "name": "Revelacion",
+      "url": "https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -991,18 +991,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Devoci\u00f3n",
-        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
+        "name": "Glorificad a Jehov\u00e1",
+        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 296546,
-      "name": "Bendito Jesus",
-      "url": "https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT"
+      "duration_ms": 183040,
+      "name": "Como Hizo David",
+      "url": "https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Glorificad a Jehov\u00e1",
-        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
+        "name": "Devoci\u00f3n",
+        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
       },
       "artists": [
         {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
-        },
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Como Hizo David",
-      "url": "https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ"
+      "duration_ms": 296546,
+      "name": "Bendito Jesus",
+      "url": "https://open.spotify.com/track/2RW5lhGNfI0dKwVrx446iT"
     },
     {
       "added_at": "2020-11-24 13:23:38",

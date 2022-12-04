@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 150967,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/4dskGPAW5tyuWhWWfmmCh7"
@@ -3796,6 +3796,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
         "name": "Cristal & \u041c\u041e\u0401\u0422",
         "url": "https://open.spotify.com/album/6PP0Ir5XTp5gksiloHJP6P"
       },
@@ -5623,7 +5649,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
@@ -5707,7 +5733,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 259079,
       "name": "Ezers",
       "url": "https://open.spotify.com/track/2R0nK5m5bWPDGQB6dtxX2B"
@@ -8037,7 +8063,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -8643,7 +8669,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -11641,7 +11667,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -12703,6 +12729,32 @@
       "duration_ms": 127808,
       "name": "NEZINU",
       "url": "https://open.spotify.com/track/5t18d6f9tT6XKkbeO0SiCf"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+      "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
     },
     {
       "album": {
@@ -14650,6 +14702,28 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188586,
+      "name": "Raindrops (Insane) [with Travis Scott]",
+      "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -14809,7 +14883,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -16633,7 +16707,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -16917,7 +16991,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -17344,6 +17418,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+    },
+    {
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -17359,7 +17459,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 350320,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
@@ -18381,7 +18481,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 188523,
       "name": "Thru Your Phone",
       "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
@@ -18655,6 +18755,32 @@
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
       "album": {
@@ -19181,6 +19307,32 @@
       "duration_ms": 224819,
       "name": "Ulala",
       "url": "https://open.spotify.com/track/5mZU5bcxh11JS6L3klhgkf"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Umbrella (with 21 Savage & Young Nudy)",
+      "url": "https://open.spotify.com/track/2Yt4SXIgmoaPZHGdRafp4P"
     },
     {
       "album": {
@@ -19961,7 +20113,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -20095,7 +20247,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
@@ -20214,7 +20366,7 @@
     },
     {
       "album": {
-        "name": "WORTH NOTHING",
+        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
       "artists": [
@@ -20231,7 +20383,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164629,
-      "name": "WORTH NOTHING",
+      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
@@ -21337,6 +21489,24 @@
       "duration_ms": 176394,
       "name": "\u0414\u043e\u0440 \u0411\u043b\u044e",
       "url": "https://open.spotify.com/track/7BnqVQ9dzFli95IPNBMiSd"
+    },
+    {
+      "album": {
+        "name": "\u0414\u043e\u0447\u0430",
+        "url": "https://open.spotify.com/album/2PGuAYpfQsutRbbObp59Fh"
+      },
+      "artists": [
+        {
+          "name": "Jah Khalib",
+          "url": "https://open.spotify.com/artist/4TjXA854eWs8P5EBgCbQmv"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "\u0414\u043e\u0447\u0430",
+      "url": "https://open.spotify.com/track/1Y3yCJ0YaoiNvicBkBJjXf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-83 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/01maJOrccQkLIBTAA7idZs)
+84 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/01maJOrccQkLIBTAA7idZs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 | 2022-01-24 |  |
 | [Cuando Quieras Quiero \- En Vivo](https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 5:11 | 2022-01-24 | 2022-11-13 |
 | [Cuatro Rosas](https://open.spotify.com/track/51Cv1Dpi7PBCj3DfiMt24E) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [¡Juepa Je!](https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4) | 4:35 | 2022-01-24 | 2022-07-29 |
-| [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 | 2022-01-24 |  |
+| [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 | 2022-01-24 | 2022-12-04 |
 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 | 2022-01-24 |  |
 | [Dile al Amor](https://open.spotify.com/track/6lFM8kkmpffm0aq2gzEtEK) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/5kUva4uwVPMIyo8VX7pjBI) | 3:48 | 2022-01-24 | 2022-07-27 |
 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 | 2022-01-24 |  |
@@ -38,6 +38,7 @@
 | [Invierno en Primavera](https://open.spotify.com/track/15JgFCbjwYYmDOfQrelHHD) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:13 | 2022-01-24 |  |
 | [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 | 2022-01-24 | 2022-12-01 |
 | [La Bilirrubina](https://open.spotify.com/track/67cjCSd8UeTYumRkvaC30z) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:05 | 2022-01-24 | 2022-07-29 |
+| [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 | 2022-01-24 |  |
 | [La Ciguapa](https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:35 | 2022-01-24 |  |
 | [La creciente](https://open.spotify.com/track/5ABW351uT1n2HwcXOJga4N) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:02 | 2022-01-24 | 2022-07-29 |
 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 | 2022-01-24 |  |

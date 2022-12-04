@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,925 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,163 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 89 | [Sea Beast](https://open.spotify.com/track/1ItiGdViCRAShsm05gjX1a) | [The Dead Deads](https://open.spotify.com/artist/5WGrqaw1HnSJTslqdqZKOj) | [Tell Your Girls It's Alright](https://open.spotify.com/album/2XctpNmXJpUjhYseKpjEoc) | 3:52 |
 | 90 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 |
 | 91 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 |
-| 92 | [Split Personality](https://open.spotify.com/track/3EKpRYbFBKxFwba0XBg5q4) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Split Personality](https://open.spotify.com/album/48zAu893Q2z9nNgmBXRBka) | 3:39 |
+| 92 | [Split Personality](https://open.spotify.com/track/6GhpQLxU3rXiL9xy0pIVMh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I JUST WANNA KNOW WHAT HAPPENS WHEN I'M DEAD \- EP](https://open.spotify.com/album/5rT3OHzmbMBSj376XiKdQy) | 3:39 |
 | 93 | [Motel \#27](https://open.spotify.com/track/1Y3ljpiOvGbiXRGo60DMLT) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:48 |
 | 94 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 |
 | 95 | [The Next Curse](https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Next Curse](https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1) | 4:01 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGUwMWUzMDI2NmI1ZjZmOGFmMTRhNzg3Nzk0YWFjYjgx`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDdiMmFhZjJlNWNlMjk0N2VlNWFiNGRhYTVhMTljMWRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Lime Cordiale
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,925 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,893 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

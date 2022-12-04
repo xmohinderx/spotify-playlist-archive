@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: Big Yasa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,935 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,954 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

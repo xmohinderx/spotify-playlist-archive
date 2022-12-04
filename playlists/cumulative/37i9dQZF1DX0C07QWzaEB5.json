@@ -1005,6 +1005,24 @@
     {
       "album": {
         "name": "JUST 4 U\u2026",
+        "url": "https://open.spotify.com/album/6nRF22Aks8hXmdHmZ5XrQV"
+      },
+      "artists": [
+        {
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252148,
+      "name": "JUST 4 U\u2026",
+      "url": "https://open.spotify.com/track/48UxplgQgIdFJVFkMCza7a"
+    },
+    {
+      "album": {
+        "name": "JUST 4 U\u2026",
         "url": "https://open.spotify.com/album/4GNHP9aikaKwjS11EiIBaD"
       },
       "artists": [
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 252148,
       "name": "JUST 4 U\u2026",
       "url": "https://open.spotify.com/track/4wUJrcKgtHG6ya2DQuoGsk"

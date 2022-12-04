@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,279 likes - 45 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,288 likes - 45 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 2 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 |
 | 3 | [ヒミツ恋ゴコロ](https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI) | 3:38 |
 | 4 | [我武者羅 \(TV size\)](https://open.spotify.com/track/2o6d0rAC9BAyPmgXnbXx1h) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅 \(TV size\)](https://open.spotify.com/album/0oPcNJfKvuBkb9fpg5UMxc) | 1:30 |
-| 5 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 |
+| 5 | [乙女どもよ。](https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:12 |
 | 6 | [プライド革命](https://open.spotify.com/track/3CrLoLfSwNqZGbSDupVUdu) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:55 |
-| 7 | [乙女どもよ。](https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:12 |
+| 7 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 |
 | 8 | [ハートの誓い](https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ハートの誓い](https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT) | 3:27 |
 | 9 | [リベンジゲーム](https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [リベンジゲーム](https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX) | 3:17 |
 | 10 | [アイのシナリオ](https://open.spotify.com/track/6eltM9Os3VEdgcG5lrsoSH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 4:19 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 44 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
 | 45 | [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBhYmJlMDY1OWNkOGI5NDE1NTYwOTE5ZTdhMGNlNTQyZQ==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA1NTEyODAzZTNjNTg5MTVlNzhlMDVmZjIxNjZiNGIzZA==`

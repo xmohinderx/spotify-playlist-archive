@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Tommy Torres en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,837 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,893 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 10 | [Éxitos de Jorge Luis Piloto: Por Ella / Perdóname / Yo No Sé Mañana \- En Vivo](https://open.spotify.com/track/46QpXgmA5SyX4wBnTpk9Kl) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Éxitos de Jorge Luis Piloto: Por Ella / Perdóname / Yo No Sé Mañana \(En Vivo\)](https://open.spotify.com/album/0ZJnMhaZ1ObgDIvDfwnF1L) | 12:53 |
 | 11 | [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 |
 | 12 | [Hasta Que Salga El Sol](https://open.spotify.com/track/1u32PI6m6VnaHkdiBR5phW) | [Los De Akino](https://open.spotify.com/artist/1ku8P7nRp6RZevarbprvB6) | [Hasta Que Salga El Sol](https://open.spotify.com/album/1H8dtIHehS6fZV6gLZCUAt) | 2:45 |
-| 13 | [Que Tiene la Noche](https://open.spotify.com/track/0ZY0V2lkqbxDxq3Ys0AU1U) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Que Tiene la Noche](https://open.spotify.com/album/61z2zm2d248rCOaPppWrd5) | 3:26 |
+| 13 | [Que Tiene la Noche](https://open.spotify.com/track/0ZY0V2lkqbxDxq3Ys0AU1U) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Que Tiene la Noche](https://open.spotify.com/album/61z2zm2d248rCOaPppWrd5) | 3:26 |
 | 14 | [Mil Amores](https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Mil Amores](https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy) | 3:01 |
 | 15 | [A Lo Que Vinimo](https://open.spotify.com/track/7vSOMKgywvqsAVZGSRqe0g) | [Checo Acosta](https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [A Lo Que Vinimo](https://open.spotify.com/album/4FQrau5zQL0I5TV2shbxOm) | 3:25 |
 | 16 | [Sube y Baja](https://open.spotify.com/track/049RiBDRdH6dtfNdlTtoFP) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Sube y Baja](https://open.spotify.com/album/2adg6XUGw5miJge9bko0jl) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,658 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,880 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 4 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 5 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 |
 | 6 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
-| 7 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 7 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 |
 | 8 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 |
-| 9 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 |
+| 9 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 10 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
 | 11 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 12 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 35 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
 | 36 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 |
 | 37 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
-| 38 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
-| 39 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
+| 38 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
+| 39 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 40 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 41 | [More Than A Woman \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
 | 42 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
 | 50 | [Dead To Me \- Slow + Reverb](https://open.spotify.com/track/7xnElMPFCmSlMJ0AY2hnxc) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 4:27 |
 
-Snapshot ID: `MTY2OTgyNDc2OSwwMDAwMDAwMDlmNWZkNGMzNjIyMjA4YjFjZjQ5NzIzYzQyYjViMDJk`
+Snapshot ID: `MTY2OTgyNDc2OSwwMDAwMDAwMDk3MmI4YzNkODkyZmMzYzM5N2M0NGI3YzlkMzUyMmZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,079 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,089 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 12 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
 | 13 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
 | 14 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
-| 15 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
-| 16 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
+| 15 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
+| 16 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
 | 17 | [The Future](https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 6:41 |
 | 18 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 |
 | 19 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [A List Of Things](https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Shadows Wake Me](https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI) | 3:16 |
 | 50 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 
-Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMGZlOWJjMjFmZWQ5MjI0NzhhODk3ZmFhNDZhODIxZGI2`
+Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMGExNmY2NTRkOWUyNDI1ODk0NWYyMDU0YWU3MGEzMGI0`

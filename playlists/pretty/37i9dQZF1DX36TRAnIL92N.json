@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 64756,
+  "num_followers": 65173,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NzIzMywwMDAwMDAwMGZlMWE1OTQzMjMyMGE0NzcwMmI1ZTNiNmE2ZmFkYzUw",
+  "snapshot_id": "MTY2OTM4NzIzMywwMDAwMDAwMGU0N2U1N2UxMDE4NDNiM2UxYjgwZDgzNTFjMjg1MDUx",
   "tracks": [
     {
       "added_at": "2022-11-25 14:40:32",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
-    },
-    {
-      "added_at": "2022-11-25 14:40:32",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "added_at": "2022-11-25 14:40:32",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2022-11-25 14:40:32",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2022-11-25 14:40:32",
-      "album": {
         "name": "Asura EP",
         "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 469612,
       "name": "Asura",
       "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
+    },
+    {
+      "added_at": "2022-11-25 14:40:32",
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
       "added_at": "2022-11-25 14:40:32",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-25 14:40:32",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
-    },
-    {
-      "added_at": "2022-11-25 14:40:32",
-      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "added_at": "2022-11-25 14:40:32",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
     },
     {
       "added_at": "2022-11-25 14:40:32",

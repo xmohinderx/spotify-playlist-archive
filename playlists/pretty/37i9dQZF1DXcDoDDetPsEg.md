@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,247 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,290 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

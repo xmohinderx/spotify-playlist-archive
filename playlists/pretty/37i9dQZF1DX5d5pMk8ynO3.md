@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 
 > Canciones que marcaron época en nuestro rock\. ¡Para cantar a los gritos! Foto: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,235 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,792 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 | 33 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 34 | [Cuando Seas Grande](https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:25 |
 | 35 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
-| 36 | [Mil Horas](https://open.spotify.com/track/5RXIOm3I9Pl9qKqMyZmuoy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Rock en Español Otro Más](https://open.spotify.com/album/429AX1N1gSOl7Vc7EcpKh4) | 2:47 |
-| 37 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
+| 36 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
+| 37 | [Mil Horas](https://open.spotify.com/track/5RXIOm3I9Pl9qKqMyZmuoy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Rock en Español Otro Más](https://open.spotify.com/album/429AX1N1gSOl7Vc7EcpKh4) | 2:47 |
 | 38 | [Tren Al Sur](https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 5:38 |
 | 39 | [Guitarras Blancas](https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:26 |
 | 40 | [Veneno en la Piel](https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5d5pMk8ynO3.md) - [plain]
 | 49 | [Mal Bicho](https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:03 |
 | 50 | [Por el Resto](https://open.spotify.com/track/2Goy8S7mDU8mDrbgxlQ2WA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 4:26 |
 
-Snapshot ID: `MTY2MTg5NjAyOSwwMDAwMDAwMDU2NGUyY2Y5YzdkMmUyNDVkNDMwNWUxMDgwZTk1YmY4`
+Snapshot ID: `MTY2MTg5NjAyOSwwMDAwMDAwMGFkZmJiZTUyN2MyMWQzYjM3ZGZlYjllNmI1OTgzNjli`

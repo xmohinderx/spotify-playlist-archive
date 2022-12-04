@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Metro Boomin, Babyface Ray, Pheelz, Lion Babe, Latto, Zulu, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,394 likes - 103 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,479 likes - 103 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 |
-| 2 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 2 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 3 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
 | 4 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 5 | [Ballin](https://open.spotify.com/track/55B4vsTxKHCjDhx7Qx96iB) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ballin](https://open.spotify.com/album/2YOrMIgSjAYxGy0rjzE1Ch) | 2:34 |

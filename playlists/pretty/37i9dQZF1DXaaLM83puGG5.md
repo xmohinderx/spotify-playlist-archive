@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going where ever you are w/ Everyday People for Art Basel
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,113 likes - 54 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,165 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 46 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 47 | [Doin It Wrong \- DJ iMarkkeyz Remix](https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [iMarkkeyz](https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R) | [Doin It Wrong \(DJ iMarkkeyz Remix\)](https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb) | 2:57 |
 | 48 | [Love Song \- TrillzAL Jersey Edit](https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [TrillzAL](https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A) | [Love Song \(Remixes\)](https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu) | 2:22 |
-| 49 | [Recorddeals](https://open.spotify.com/track/1XrUXIY86zAKuoqTQmuw7u) | [1905](https://open.spotify.com/artist/51uXwniBlHKIZUKCuGN1hQ), [Former City Records](https://open.spotify.com/artist/0HOe9Qrbs4Tb4A6hj5ISzj) | [Ghettoboom, Vol\. 1](https://open.spotify.com/album/53eW63TwjQd00HCefxYijM) | 3:17 |
+| 49 | [Recorddeals](https://open.spotify.com/track/1XrUXIY86zAKuoqTQmuw7u) | [1 9 0 5](https://open.spotify.com/artist/1y0RusNjG4LhlFU8Jmzjj7), [Former City Records](https://open.spotify.com/artist/0HOe9Qrbs4Tb4A6hj5ISzj) | [Ghettoboom, Vol\. 1](https://open.spotify.com/album/53eW63TwjQd00HCefxYijM) | 3:17 |
 | 50 | [AMERICA HAS A PROBLEM](https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:18 |
 | 51 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 |
 | 52 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 |

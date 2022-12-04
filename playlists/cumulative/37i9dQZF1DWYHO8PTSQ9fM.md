@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : ElGrandeToto
+> Les hits du moment sont ici\. Cover : Mocci
 
 125 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
 

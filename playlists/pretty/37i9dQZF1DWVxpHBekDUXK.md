@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > We're here to provide some sonic solace for your grief.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,190 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,220 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 35 | [The Wind \- Remastered 2021](https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 1:42 |
 | 36 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 |
 | 37 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Expanded Edition\)](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) | 2:35 |
-| 38 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |
-| 39 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
+| 38 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
+| 39 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |
 | 40 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
 | 41 | [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 |
 | 42 | [Candle In The Wind \- Remastered 2014](https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 49 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 6:23 |
 | 50 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
 
-Snapshot ID: `MTY2MDIzODY5MCwwMDAwMDAwMGQ1OTIyZThjMTVjNWI5NDg3Y2I1MWZkNjIyMjYwZTFk`
+Snapshot ID: `MTY2MDIzODY5MCwwMDAwMDAwMGUzNjViMmYwMTkwMjk5N2IxMzYyOWM3NzY4ZjVmM2Q2`

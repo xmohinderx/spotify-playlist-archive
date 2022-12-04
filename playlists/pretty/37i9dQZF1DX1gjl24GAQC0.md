@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? Cover: P1Harmony \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,478 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,757 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 20 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
 | 21 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 22 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
-| 23 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
+| 23 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
 | 24 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 |
-| 25 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 25 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
 | 26 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
 | 27 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 |
 | 28 | [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 34 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
 | 35 | [Don't Wanna Cry](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:23 |
 | 36 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 |
-| 37 | [Same Scent](https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [MALUS](https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp) | 3:12 |
+| 37 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 |
 | 38 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 |
 | 39 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 |
-| 40 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 |
+| 40 | [Same Scent](https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [MALUS](https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp) | 3:12 |
 | 41 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 42 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 |
 | 43 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 |
 | 50 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
 
-Snapshot ID: `MTY2OTc5ODgwMCwwMDAwMDAwMDUzMTZjMmY1ODEzZDQ5OWVhNTViMWY0Y2M4M2Y5OGUy`
+Snapshot ID: `MTY2OTc5ODgwMCwwMDAwMDAwMDdhZjMxOTc1ZTY2ZDk3ZTUwYjA3ZWFmMWI0Y2NlYTA5`

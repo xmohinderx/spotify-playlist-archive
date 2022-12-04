@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547 likes - 69 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,614 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 | 57 | [The World Is Yours To Take \- Budweiser Anthem Of The FIFA World Cup 2022](https://open.spotify.com/track/6LiCDjlGCBx8DK4VhOijvp) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The World Is Yours To Take \(Budweiser Anthem Of The FIFA World Cup 2022\)](https://open.spotify.com/album/6EVAtrDDDMRCbxmLikzJnv) | 2:47 |
 | 58 | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/139nCjBRQCLgnWNRxBKAC7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6rjTLZmOHDByOn63ZZomyY) | 3:39 |
 | 59 | [We Are One \(Ole Ola\) \[The Official 2014 FIFA World Cup Song\] \(feat\. Jennifer Lopez & Claudia Leitte\)](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:42 |
-| 60 | [La La La \(Brazil 2014\) \(feat\. Carlinhos Brown\)](https://open.spotify.com/track/2A17TySL9lcoRTA28w9yfB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [The 2014 FIFA World Cup Official Album: One Love, One Rhythm](https://open.spotify.com/album/5htwZrf4lCiZ6GTj9Z0CMo) | 3:17 |
+| 60 | [La La La \(Brasil 2014\) \(feat\. Carlinhos Brown\)](https://open.spotify.com/track/6i2kn3iS5WKzsaYBdeHLIQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:17 |
 | 61 | [The World Is Ours \(Coca\-Cola 2014 World's Cup Anthem\)](https://open.spotify.com/track/3C4w6xn8ywZX6tPY110Avs) | [Aloe Blacc X David Correy](https://open.spotify.com/artist/4Nx36PEzJoS5uSPoYZ7E5B) | [The World Is Ours \(Coca\-Cola 2014 World's Cup Anthem\)](https://open.spotify.com/album/4sIDoxshMRh5RC5XX1DXCd) | 2:54 |
 | 62 | [Oh Africa](https://open.spotify.com/track/6Kz15VD322cOE7kE1vxO9M) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Oh Africa \(Pepsi Version\)](https://open.spotify.com/album/3H1Lef1jjve7DIPBPTS7mP) | 3:21 |
 | 63 | [Game On \- The Official 2010 FIFA World Cup\(TM\) Mascot Song](https://open.spotify.com/track/1SgA9LyTP9O9zyRTuwfz1F) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:19 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 | 68 | [Premier League Anthem](https://open.spotify.com/track/2G369PWLsQasfuNwLeDrZw) | [Premier League](https://open.spotify.com/artist/7jdi4Wj9TKBABuJTKsxQKn) | [Premier League Anthem](https://open.spotify.com/album/6gb8ZFqOodTjLpxvBtlpIe) | 3:12 |
 | 69 | [This Is Premier League](https://open.spotify.com/track/49ujze11sPOADic4ssGnrO) | [Premier League Music](https://open.spotify.com/artist/7BO1yFil6IhV5i73zeU9gO) | [This Is Premier League](https://open.spotify.com/album/2YTQepsyrqmSypnw5VKMJr) | 3:24 |
 
-Snapshot ID: `MTY2OTAxMzYyOSwwMDAwMDAwMDRkYTNlNWY0ZWFiNTUwMmI0NDgzMTM1MjhlMTFhOTc3`
+Snapshot ID: `MTY2OTAxMzYyOSwwMDAwMDAwMDE5ZDczZjViN2IwYTViZDQzODBkYzFkMjFmMTY0NzU1`

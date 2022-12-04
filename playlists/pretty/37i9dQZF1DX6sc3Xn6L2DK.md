@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,350 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,366 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 22 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 |
 | 23 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 24 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
-| 25 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
-| 26 | [Rather Low](https://open.spotify.com/track/4wgJslCrAghGakRdVwyiBr) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Okay, Crawdad](https://open.spotify.com/album/1H2cJ2DDfG9WnCkEQoS1oH) | 3:00 |
+| 25 | [Rather Low](https://open.spotify.com/track/4wgJslCrAghGakRdVwyiBr) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Okay, Crawdad](https://open.spotify.com/album/1H2cJ2DDfG9WnCkEQoS1oH) | 3:00 |
+| 26 | [The Dead Don't Die](https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Dead Don't Die](https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ) | 3:51 |
 | 27 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
 | 28 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 |
 | 29 | [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 |
 | 30 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
-| 31 | [U.F.O.](https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:49 |
-| 32 | [Hot Burrito \#1](https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:37 |
+| 31 | [Hot Burrito \#1](https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Gilded Palace Of Sin](https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU) | 3:37 |
+| 32 | [U.F.O.](https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:49 |
 | 33 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
 | 34 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 35 | [Blue Pill Blues](https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 45 | [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 |
 | 46 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
 | 47 | [Turn on the Dark](https://open.spotify.com/track/6Dig9Jq9kH9TGw6zf3w2xG) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/0nRvOoAUtr6aoJscKOlXQS) | 4:22 |
-| 48 | [Toshiba Sky](https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO) | 3:16 |
-| 49 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
+| 48 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 |
+| 49 | [Toshiba Sky](https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO) | 3:16 |
 | 50 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
 | 51 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
 | 52 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Lonesome City](https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB) | 3:34 |
 | 75 | [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDRiM2I0ZTgxNTE0ZGVhMzQxOTE1OWJiOTY0ZWE0ODZi`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGM2YzViOWYwZmY1NGMzOGQxY2JkNzhiZjliMDU1OGE2`

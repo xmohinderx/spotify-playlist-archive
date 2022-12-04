@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 51 min - not published yet
+32 songs - 1 hr 54 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [God of War](https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 4:06 | 2022-12-01 |  |
 | [God of War Ragnarök \(feat\. Eivør\)](https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:34 | 2022-12-01 |  |
 | [Godzilla \(feat\. Serj Tankian\)](https://open.spotify.com/track/7cY7jiKLnE6a2pLmv840dm) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 3:10 | 2022-12-01 |  |
+| [Halbrand](https://open.spotify.com/track/58y5rtCFQxGMvWlXWSY9xU) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:55 | 2022-12-03 |  |
 | [Holding On \(feat\. Eivør\)](https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:33 | 2022-12-01 |  |
-| [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 | 2022-12-01 |  |
+| [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 | 2022-12-01 | 2022-12-04 |
 | [Lullaby of the Giants](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 | 2022-12-01 |  |
 | [Masters of the Universe: Revelation \- Extended Version](https://open.spotify.com/track/6J7kQ0BC7okiBFwbxLo7Rw) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Masters of the Universe: Revelation \(Netflix Original Series Soundtrack, Vol\. 1\)](https://open.spotify.com/album/1k5g35tSjZE4Rqqa96mbq1) | 1:55 | 2022-12-01 |  |
 | [Memories of Mother \(feat\. Eivør\)](https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:39 | 2022-12-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 676749,
+  "num_followers": 677463,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY3NjU1MiwwMDAwMDAwMDkxOWMxNDE2NDJkMTdiYjA3MDA1NmQ3NGY5ZTEzMTYw",
+  "snapshot_id": "MTY2OTY3NjU1MiwwMDAwMDAwMGM4NDBhY2VlZDY1YzdjYzUzMGI3NzMyMjM0OTRkODlj",
   "tracks": [
     {
       "added_at": "2022-09-09 18:52:35",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-09 18:52:35",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
-      },
-      "artists": [
-        {
-          "name": "Home",
-          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
-        }
-      ],
-      "duration_ms": 212881,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
-    },
-    {
-      "added_at": "2022-09-09 18:52:35",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2022-09-09 18:52:35",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
+      },
+      "artists": [
+        {
+          "name": "Home",
+          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
+        }
+      ],
+      "duration_ms": 212881,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
     },
     {
       "added_at": "2022-09-09 18:52:35",

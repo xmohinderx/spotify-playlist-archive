@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Hundred Reasons
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,510 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,727 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 33 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 |
 | 34 | [This Time I'm Ready](https://open.spotify.com/track/6ihh48ZhT3PedSDhRbZb4B) | [Those Damn Crows](https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7) | [This Time I'm Ready](https://open.spotify.com/album/0jDPMu4pEOxqQy3eNFNdCR) | 4:20 |
 | 35 | [she](https://open.spotify.com/track/1H7k2yuO2bQs5fz7CPvXtm) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [she](https://open.spotify.com/album/5ik4kZTHYwwTfgs6NQY2t8) | 2:53 |
-| 36 | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
+| 36 | [Cottonmouth \(Rock Mix\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
 | 37 | [A Perfect Storm](https://open.spotify.com/track/3QHT86FNISWT8G1GA6VGmb) | [Blindspott](https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu), [Sophie\-Maude](https://open.spotify.com/artist/6UqpAADXa90AcrsczMmq0G) | [Volume 2](https://open.spotify.com/album/0brLUAJovZWHbkbQSOMTkS) | 4:23 |
 | 38 | [Riding Out the Storm](https://open.spotify.com/track/0sRdBrY8MpjGOPuHw1hrkO) | [Black Star Riders](https://open.spotify.com/artist/1COfrboArH3tNjlhFsG5ys) | [Riding Out the Storm](https://open.spotify.com/album/2bOaj8ABm8Qx3MmnrsVHiJ) | 3:51 |
 | 39 | [Limit](https://open.spotify.com/track/78IZg4QfN6kegtvl4Vgayo) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Limit](https://open.spotify.com/album/09FsXW3fjJlmVKNMpOCLUL) | 4:17 |

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 166294,
+  "num_followers": 166389,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDEwMDgwOTY3YTZkMzI3YTFlMTc3ZWFhODkyZGE4NGRk",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGZkZDdmM2Y4ODNmNTQ0MWZmNzIzYzdmZjdjNmZlNjk3",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -271,6 +271,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Tore Down House",
+        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
+      },
+      "artists": [
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Dolemite",
+      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
         "url": "https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 371617,
       "name": "Riding Giants",
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Tore Down House",
-        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
-      },
-      "artists": [
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Dolemite",
-      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
     },
     {
+      "added_at": "2021-06-04 04:01:00",
+      "album": {
+        "name": "MAINS",
+        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
+      },
+      "artists": [
+        {
+          "name": "J3PO",
+          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
+        }
+      ],
+      "duration_ms": 222554,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Chapter One: Shredemption",
@@ -495,22 +511,6 @@
       "duration_ms": 207625,
       "name": "U.T.F.F.",
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "MAINS",
-        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
-      },
-      "artists": [
-        {
-          "name": "J3PO",
-          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
-        }
-      ],
-      "duration_ms": 222554,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Time In Place",
-        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 462373,
-      "name": "Chromazone",
-      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Walk Cycle",
@@ -615,6 +599,22 @@
       "duration_ms": 192013,
       "name": "Walk Cycle",
       "url": "https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Time In Place",
+        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 462373,
+      "name": "Chromazone",
+      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -765,34 +765,6 @@
       "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "The New Heritage",
-        "url": "https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK"
-      },
-      "artists": [
-        {
-          "name": "Telemakus",
-          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
-        },
-        {
-          "name": "Kosie",
-          "url": "https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb"
-        },
-        {
-          "name": "Chino Corval\u00e1n",
-          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
-        },
-        {
-          "name": "David James",
-          "url": "https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U"
-        }
-      ],
-      "duration_ms": 145643,
-      "name": "The New Heritage",
-      "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Morse Code",
@@ -831,6 +803,34 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "The New Heritage",
+        "url": "https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Kosie",
+          "url": "https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb"
+        },
+        {
+          "name": "Chino Corval\u00e1n",
+          "url": "https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol"
+        },
+        {
+          "name": "David James",
+          "url": "https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U"
+        }
+      ],
+      "duration_ms": 145643,
+      "name": "The New Heritage",
+      "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Blues for Tony",
         "url": "https://open.spotify.com/album/6qcxk9oihNAODxDkVBV8kS"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1013,6 +1013,26 @@
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
+      "added_at": "2022-02-11 19:11:35",
+      "album": {
+        "name": "Pursuit of Ends",
+        "url": "https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "All Roads Lead To Los Angeles",
+      "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Vtt2",
@@ -1043,26 +1063,6 @@
       "duration_ms": 288909,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
-    },
-    {
-      "added_at": "2022-02-11 19:11:35",
-      "album": {
-        "name": "Pursuit of Ends",
-        "url": "https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2"
-      },
-      "artists": [
-        {
-          "name": "High Pulp",
-          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
-        },
-        {
-          "name": "Jaleel Shaw",
-          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "All Roads Lead To Los Angeles",
-      "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Gimme 5",
@@ -1239,6 +1223,22 @@
       "duration_ms": 579060,
       "name": "1 Year After",
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1373,6 +1373,26 @@
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "close tail",
@@ -1423,26 +1443,6 @@
       "duration_ms": 653190,
       "name": "Guinnevere",
       "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
-    },
-    {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
-      },
-      "artists": [
-        {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
       "added_at": "2021-02-12 00:49:35",

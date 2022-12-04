@@ -2431,7 +2431,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "Controller",
       "url": "https://open.spotify.com/track/6UGJKTfIzk6WqjTgBeQg5O"
@@ -2595,6 +2595,32 @@
       "duration_ms": 210372,
       "name": "COZY",
       "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
       "album": {
@@ -3851,7 +3877,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -4185,7 +4211,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
@@ -4755,7 +4781,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -11649,8 +11675,8 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
-      "duration_ms": 165906,
+      "date_removed": null,
+      "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
@@ -12225,7 +12251,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
@@ -13523,7 +13549,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"

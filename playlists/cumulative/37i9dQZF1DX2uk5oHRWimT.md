@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-196 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+197 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Christmas Alone](https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:48 | 2021-11-09 |  |
 | [Christmas Day](https://open.spotify.com/track/5hexwMWl47Y4XASG8aOI36) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4Z0E2zhE6qdsKdrUTKffXn) | 2:28 | 2021-11-09 | 2022-07-29 |
 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 | 2021-11-09 |  |
-| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2021-11-09 |  |
+| [Christmas Dream](https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl) | [Almost Christmas](https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Maybe This Christmas, Vol\. 7: Country Sleigh Ride](https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2) | 2:57 | 2022-11-21 |  |
+| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2021-11-09 | 2022-12-04 |
 | [Christmas Dream](https://open.spotify.com/track/2pTaSZ6sHWlkS0s2NgiRRi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/5BMGHueD4rgP4xfkWC8uBb) | 2:57 | 2021-11-09 | 2022-07-29 |
 | [Christmas Eve](https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 4:22 | 2021-11-09 |  |
 | [Christmas Eve, I'm Yours\. \(feat\. Jillian Edwards & Corey Kilgannon\)](https://open.spotify.com/track/4gsNO2qnHlrdvR4JFCi4P3) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [Christmas Eve, I'm Yours\. \(feat\. Jillian Edwards & Corey Kilgannon\)](https://open.spotify.com/album/1sREPHtpCUSQmPuOfj70Rp) | 3:23 | 2021-11-09 |  |

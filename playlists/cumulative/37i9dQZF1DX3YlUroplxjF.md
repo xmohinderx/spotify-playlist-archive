@@ -4,7 +4,7 @@
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-367 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+368 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Blue](https://open.spotify.com/track/4Gfo5wAk8uPP5auPvQyC7y) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Blue](https://open.spotify.com/album/4OZfH2lZxKgp7CK7whPze0) | 3:47 | 2021-11-30 | 2022-07-29 |
 | [BLURRY \(out of place\)](https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 3:20 | 2021-11-30 |  |
 | [Book Of Curses](https://open.spotify.com/track/0UsmHgJqLUvVBuFKyqB1VL) | [Adulkt Life](https://open.spotify.com/artist/66eBmk1nmbCCt0HE1VANWW) | [Split](https://open.spotify.com/album/7MjkIhfjC2XLpOtGqPYzny) | 3:16 | 2022-04-01 | 2022-04-21 |
+| [Break Me Down](https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 | 2022-04-01 |  |
 | [Break Me Down](https://open.spotify.com/track/7fPtc6eLQKvSUAR4MjBo1f) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Break Me Down](https://open.spotify.com/album/4ZqklwVo7XWoyqCT8LTzv1) | 3:10 | 2021-11-30 | 2022-07-24 |
 | [Breathe](https://open.spotify.com/track/5VmLXlqGZleRyGkEqQxg4P) | [To Octavia](https://open.spotify.com/artist/6n7fNyZbuKRarfCjUrJbMY) | [Nocturnal](https://open.spotify.com/album/0iHKfu3Vd7US1WScussuhT) | 3:05 | 2021-11-30 | 2022-04-22 |
 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 | 2021-11-30 |  |
@@ -320,7 +321,7 @@
 | [Stars Before The Sun](https://open.spotify.com/track/4d7dyljzjkPs3tT0xK1KF7) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Stars Before The Sun](https://open.spotify.com/album/2tLcU78vHNEPPuSaiPuWZI) | 3:27 | 2021-11-30 | 2022-07-29 |
 | [Still Breathing](https://open.spotify.com/track/7B0haLvZqqZFWkmfLl6JXS) | [Elusive](https://open.spotify.com/artist/6myEKXiRQOo8qxdF2YHdDZ) | [Still Breathing](https://open.spotify.com/album/0Qct6u71GJTwvSQJPzLgJq) | 4:31 | 2021-11-30 | 2022-05-19 |
 | [Strangers \- Radio Edit](https://open.spotify.com/track/1u1Lm8J4ELoKPUTYuBH39o) | [Spring.Fall.Sea](https://open.spotify.com/artist/07DpdTcJtQoY1aXSvjTtEB) | [Strangers \(Radio Edit\)](https://open.spotify.com/album/3wSfxVgiyNOd3o7qi4xAXs) | 3:37 | 2021-11-30 | 2022-04-21 |
-| [Sudden Sky](https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 4:20 | 2021-11-30 |  |
+| [Sudden Sky](https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 4:20 | 2021-11-30 | 2022-12-04 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 |  |
 | [Swipe](https://open.spotify.com/track/5Xm3q9DHDSCGyQg2o3RGhD) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Swipe](https://open.spotify.com/album/4xdo8J0AGTVlvxQoIkR0jB) | 3:13 | 2021-11-30 | 2022-07-27 |
 | [Synthetic](https://open.spotify.com/track/0TjdRpN1VNAqmQPmGkwGBd) | [Summer Wars](https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy), [Nick Casasanto](https://open.spotify.com/artist/3IwnEcBxXV4WR3M4zroChh) | [Synthetic](https://open.spotify.com/album/6HVeTYGVcf6Qazkj2jXR2f) | 3:47 | 2021-11-30 | 2022-06-24 |

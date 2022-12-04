@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2223,7 +2223,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
@@ -3339,6 +3339,24 @@
       "duration_ms": 168416,
       "name": "BETON",
       "url": "https://open.spotify.com/track/5jLGAGH8M1pw5xqSb6Lwap"
+    },
+    {
+      "album": {
+        "name": "BIELEFELD",
+        "url": "https://open.spotify.com/album/6ysRaaGCT2wG16jga7XjyT"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135424,
+      "name": "BIELEFELD",
+      "url": "https://open.spotify.com/track/1ukq3qBP7zOokVa3nEc9bR"
     },
     {
       "album": {
@@ -5444,6 +5462,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/40Vl4nxvxKkNr6EHF6e5Oj"
       },
@@ -5635,6 +5679,36 @@
       "duration_ms": 167415,
       "name": "Daniel Lee",
       "url": "https://open.spotify.com/track/11NL4WkilMYNvu1iQrzCLL"
+    },
+    {
+      "album": {
+        "name": "Mainpark Baby",
+        "url": "https://open.spotify.com/album/2mLGeHnFL0oDwDHyoCmyTp"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Azad",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199607,
+      "name": "Dann mit der Pumpgun 2.0 (feat. Azad & Kool Savas)",
+      "url": "https://open.spotify.com/track/6QK8wU6IawkqBGh0ARuXAX"
     },
     {
       "album": {
@@ -5877,7 +5951,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 194445,
       "name": "Der Berg ruft",
       "url": "https://open.spotify.com/track/2IvrIIvwA3zEPXmJitBlJD"
@@ -7159,7 +7233,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
@@ -9019,7 +9093,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 145013,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1DTVCRW8QPPteXXhBlohM2"
@@ -9822,6 +9896,28 @@
     },
     {
       "album": {
+        "name": "Mainpark Baby",
+        "url": "https://open.spotify.com/album/2mLGeHnFL0oDwDHyoCmyTp"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215267,
+      "name": "Geruch von Koks (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/2TpyGiNH4UrjM9gnlgKzsW"
+    },
+    {
+      "album": {
         "name": "Geschichten ausm Hof",
         "url": "https://open.spotify.com/album/2hJnuNjgqksyG8cKXX8kWw"
       },
@@ -9837,6 +9933,32 @@
       "duration_ms": 167665,
       "name": "Geschichten ausm Hof",
       "url": "https://open.spotify.com/track/3FVjGbAi1m3evDKNei6oFZ"
+    },
+    {
+      "album": {
+        "name": "GET THE FUCK OUT",
+        "url": "https://open.spotify.com/album/4e2c8rGBQM9IiaQco9wFG1"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "OZ",
+          "url": "https://open.spotify.com/artist/6yfgM1rkLSenhFIW3iV9hm"
+        },
+        {
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109668,
+      "name": "GET THE FUCK OUT",
+      "url": "https://open.spotify.com/track/7LF1STq2OSdN7M8WHsqghe"
     },
     {
       "album": {
@@ -10175,6 +10297,24 @@
       "duration_ms": 171933,
       "name": "Give That Wolf A Banana",
       "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
+    },
+    {
+      "album": {
+        "name": "Fieber / Glatteis",
+        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202709,
+      "name": "Glatteis",
+      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
     },
     {
       "album": {
@@ -11589,7 +11729,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -14843,7 +14983,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 185706,
       "name": "Layla",
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
@@ -16313,7 +16453,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 243561,
       "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
       "url": "https://open.spotify.com/track/4wjEJULVdwTFlSDPlhdkRa"
@@ -16999,7 +17139,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
@@ -17021,7 +17161,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
@@ -17313,7 +17453,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -18243,7 +18383,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 188659,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/4pnk9Mhzcv3oHxFyARlNNP"
@@ -19173,7 +19313,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
@@ -19399,6 +19539,28 @@
       "duration_ms": 132909,
       "name": "NUR AUS PRINZIP",
       "url": "https://open.spotify.com/track/3RaGnI3zmPUElLfNcl3W56"
+    },
+    {
+      "album": {
+        "name": "Nur Dich",
+        "url": "https://open.spotify.com/album/3F3rcasqctTETwECH5VSAa"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Nur Dich",
+      "url": "https://open.spotify.com/track/5f0jN8csP6MQ5kY9XPkd5M"
     },
     {
       "album": {
@@ -20355,7 +20517,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 192975,
       "name": "PARADISE (MIT DIR)",
       "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
@@ -23623,7 +23785,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -23667,6 +23829,28 @@
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/76ut2VBUwuQpUeCVilsLRh"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151770,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/4o0GJW0DTPBtUisifo6Thp"
     },
     {
       "album": {
@@ -24313,6 +24497,28 @@
       "duration_ms": 180000,
       "name": "Sterne",
       "url": "https://open.spotify.com/track/2u6bOElAumW6DiNbOv69we"
+    },
+    {
+      "album": {
+        "name": "Sterne (feat. Bozza)",
+        "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236056,
+      "name": "Sterne (feat. Bozza)",
+      "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
     },
     {
       "album": {
@@ -25287,7 +25493,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - Non-Album Single",
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
@@ -26387,7 +26593,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -26693,6 +26899,28 @@
       "duration_ms": 159360,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG"
+    },
+    {
+      "album": {
+        "name": "UUU (feat. Capital Bra)",
+        "url": "https://open.spotify.com/album/3APBR389nz1x0B78DIWF6w"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176427,
+      "name": "UUU (feat. Capital Bra)",
+      "url": "https://open.spotify.com/track/3udydGp3WtLkUs7qL5G6Ll"
     },
     {
       "album": {
@@ -27380,6 +27608,24 @@
     },
     {
       "album": {
+        "name": "Wartest auf mich",
+        "url": "https://open.spotify.com/album/7JdL0hc6u3xNElqdbECpdQ"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Wartest auf mich",
+      "url": "https://open.spotify.com/track/2dlCCLLT1CYdbllX7oFfCc"
+    },
+    {
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/00hZzdK6UYu3y6HOBZzj41"
       },
@@ -27739,6 +27985,28 @@
       "duration_ms": 144382,
       "name": "Weinst du",
       "url": "https://open.spotify.com/track/4djlVYFizR8zKmKGDlLcn7"
+    },
+    {
+      "album": {
+        "name": "WEISS NICHT WIE",
+        "url": "https://open.spotify.com/album/4bbtQiQizPdZHAu48bmvRf"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171270,
+      "name": "WEISS NICHT WIE",
+      "url": "https://open.spotify.com/track/1tlN3EA0pwIIVvd85CUdbN"
     },
     {
       "album": {
@@ -28769,7 +29037,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

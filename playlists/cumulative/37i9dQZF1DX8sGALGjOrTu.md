@@ -4,7 +4,7 @@
 
 > When emo and hardcore fell hard for each other.
 
-180 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
+181 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Calling All Cars](https://open.spotify.com/track/4LtUNqSiFZzm70a7kM8hnc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:23 | 2021-12-07 | 2022-11-26 |
 | [Calling All Cars](https://open.spotify.com/track/6rmTJ9n2KMbvMCjE9Fd5CC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/648NLiNFJhurepyJCjhVmF) | 3:23 | 2021-12-07 | 2022-07-29 |
 | [Can't Be Saved](https://open.spotify.com/track/1yo9liZKrCiuvM9StsWAOm) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/648NLiNFJhurepyJCjhVmF) | 3:07 | 2021-12-07 | 2022-07-29 |
+| [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 | 2021-12-07 |  |
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2021-12-07 | 2022-11-26 |
 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 | 2021-12-07 | 2022-07-21 |
 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 | 2021-12-07 |  |
@@ -114,7 +115,7 @@
 | [Perfect Weapon](https://open.spotify.com/track/2pg002Dqz4DsOthj5hqhNn) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [We Stitch These Wounds](https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B) | 4:07 | 2021-12-07 |  |
 | [Pirates Belong At Sea](https://open.spotify.com/track/2jLBZJ4KsYt0FTxhn2Kgmg) | [Close to Home](https://open.spotify.com/artist/1NgynHOx23zTkveKFZC7lu) | [Momentum](https://open.spotify.com/album/6wXAqWSjKlf2NTWUhu6pdC) | 3:14 | 2021-12-07 | 2022-02-05 |
 | [Planning a Prison Break](https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL) | [The Receiving End Of Sirens](https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV) | [Between the Heart and the Synapse](https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt) | 5:18 | 2021-12-07 | 2022-07-29 |
-| [Ravenous, Ravenous Rhinos](https://open.spotify.com/track/1YT8RiexjSXtUcLjD92N8V) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 2:42 | 2021-12-07 |  |
+| [Ravenous, Ravenous Rhinos](https://open.spotify.com/track/1YT8RiexjSXtUcLjD92N8V) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 2:42 | 2021-12-07 | 2022-12-04 |
 | [Reach](https://open.spotify.com/track/3bQTjUBTX3TvkKLoVBlRra) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Reach](https://open.spotify.com/album/4hxJ8XzBPYGHeHRFhEd42y) | 4:21 | 2021-12-07 | 2022-07-19 |
 | [Rebel Love Song](https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:57 | 2021-12-07 |  |
 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 | 2021-12-07 |  |

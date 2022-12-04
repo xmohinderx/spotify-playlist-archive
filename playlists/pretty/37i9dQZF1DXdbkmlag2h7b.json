@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 630503,
+  "num_followers": 630530,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk4OTU4MywwMDAwMDAwMDc5MTk2MGY0YmU5ZmY0ZDhhMzU2ZTAzYTI5OTU5MDFh",
+  "snapshot_id": "MTY2OTk4OTU4MywwMDAwMDAwMGU0ODJiMGQxZTVjOGFkMDA5YzI1MDc5ZWM4ZGFlMjg5",
   "tracks": [
     {
       "added_at": "2022-12-02 13:59:43",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-12-02 13:59:43",
       "album": {
-        "name": "String Of Light",
-        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
-      },
-      "artists": [
-        {
-          "name": "Blissful Dreams",
-          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
-    },
-    {
-      "added_at": "2022-12-02 13:59:43",
-      "album": {
         "name": "Quiet Motions",
         "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 195600,
       "name": "Quiet Motions",
       "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
+    },
+    {
+      "added_at": "2022-12-02 13:59:43",
+      "album": {
+        "name": "String Of Light",
+        "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
+      },
+      "artists": [
+        {
+          "name": "Blissful Dreams",
+          "url": "https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
     },
     {
       "added_at": "2022-12-02 13:59:43",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-12-02 13:59:43",
       "album": {
+        "name": "The Shed",
+        "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
+      },
+      "artists": [
+        {
+          "name": "Alex Miracone",
+          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
+        }
+      ],
+      "duration_ms": 150750,
+      "name": "The Shed",
+      "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
+    },
+    {
+      "added_at": "2022-12-02 13:59:43",
+      "album": {
         "name": "Legend Of Zea",
         "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 140878,
       "name": "Forests",
       "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
-    },
-    {
-      "added_at": "2022-12-02 13:59:43",
-      "album": {
-        "name": "The Shed",
-        "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
-      },
-      "artists": [
-        {
-          "name": "Alex Miracone",
-          "url": "https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh"
-        }
-      ],
-      "duration_ms": 150750,
-      "name": "The Shed",
-      "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
     },
     {
       "added_at": "2022-12-02 13:59:43",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-12-02 13:59:43",
       "album": {
-        "name": "Aion",
-        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
       },
       "artists": [
         {
-          "name": "Kolorascze",
-          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
         }
       ],
-      "duration_ms": 124212,
-      "name": "Aion",
-      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
+      "duration_ms": 271893,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
     },
     {
       "added_at": "2022-12-02 13:59:43",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-12-02 13:59:43",
       "album": {
+        "name": "Aion",
+        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
+      },
+      "artists": [
+        {
+          "name": "Kolorascze",
+          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
+        }
+      ],
+      "duration_ms": 124212,
+      "name": "Aion",
+      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
+    },
+    {
+      "added_at": "2022-12-02 13:59:43",
+      "album": {
         "name": "Tenebris",
         "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
       },
@@ -1215,6 +1231,22 @@
       "duration_ms": 233174,
       "name": "Aragorn",
       "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
+    },
+    {
+      "added_at": "2022-12-02 13:59:43",
+      "album": {
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+      },
+      "artists": [
+        {
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2022-12-02 13:59:43",
@@ -1247,22 +1279,6 @@
       "duration_ms": 127693,
       "name": "Ali",
       "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
-    },
-    {
-      "added_at": "2022-12-02 13:59:43",
-      "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
-      },
-      "artists": [
-        {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2022-12-02 13:59:43",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2022-12-02 13:59:43",
       "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
-    },
-    {
-      "added_at": "2022-12-02 13:59:43",
-      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-12-02 13:59:43",
       "album": {
-        "name": "Earth Child",
-        "url": "https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p"
-      },
-      "artists": [
-        {
-          "name": "Harlan Silverman",
-          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
-        }
-      ],
-      "duration_ms": 165755,
-      "name": "Kalapas",
-      "url": "https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119"
-    },
-    {
-      "added_at": "2022-12-02 13:59:43",
-      "album": {
         "name": "Lucent Path",
         "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 240000,
       "name": "Divine Light - Studio Edit",
       "url": "https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh"
+    },
+    {
+      "added_at": "2022-12-02 13:59:43",
+      "album": {
+        "name": "Earth Child",
+        "url": "https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "duration_ms": 165755,
+      "name": "Kalapas",
+      "url": "https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119"
     }
   ],
   "unique_name": "DayDreamer",

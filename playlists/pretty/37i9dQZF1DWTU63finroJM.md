@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,125 likes - 245 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,223 likes - 245 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

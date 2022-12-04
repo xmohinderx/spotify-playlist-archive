@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,377 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,410 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 14 | [Never Git Drunk No More](https://open.spotify.com/track/0JuhSdmFY00TcRQZeslOep) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:25 |
 | 15 | [Turn Up That Dial](https://open.spotify.com/track/42ef8hFlFvRtMYTEelfiTm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:42 |
 | 16 | [All You Fonies](https://open.spotify.com/track/5nMAPIuIxezwDgaeklUG07) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [All You Fonies](https://open.spotify.com/album/7wEv3shDfmxmPucrVDZgfE) | 2:49 |
-| 17 | [Ten Times More](https://open.spotify.com/track/6ICSBwJIVzU7d5JnuUzmau) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Ten Times More](https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U) | 2:11 |
+| 17 | [The Gauntlet](https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:47 |
 | 18 | [Talking Jukebox](https://open.spotify.com/track/56cKEoN9Rdmv2QAGOHrqCr) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:13 |
 | 19 | [Middle Finger](https://open.spotify.com/track/4GPs3FuG2SMYa245EHzbKe) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 2:35 |
-| 20 | [The Gauntlet](https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:47 |
+| 20 | [Ten Times More](https://open.spotify.com/track/6ICSBwJIVzU7d5JnuUzmau) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Ten Times More](https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U) | 2:11 |
 | 21 | [It's A Long Way To The Top \(If You Wanna Rock 'n' Roll\)](https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 4:43 |
 | 22 | [Where Trouble Is At](https://open.spotify.com/track/3NDnVXyl83rLQSALHn2HFT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 2:33 |
 | 23 | [Boys on the Docks](https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:33 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 37 | [Caught In A Jar](https://open.spotify.com/track/1qqu8COuWRIDUpMLrYKRou) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
 | 38 | [Prisoner's Song](https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 2:46 |
 | 39 | [Blood](https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 4:01 |
-| 40 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 |
-| 41 | [Your Spirit's Alive](https://open.spotify.com/track/56IfZE4yzzv9GcqPoooI4k) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:20 |
-| 42 | [Do Or Die](https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:50 |
+| 40 | [Your Spirit's Alive](https://open.spotify.com/track/56IfZE4yzzv9GcqPoooI4k) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:20 |
+| 41 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 |
+| 42 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
 | 43 | [The Lonesome Boatman](https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 2:42 |
-| 44 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
+| 44 | [Do Or Die](https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:50 |
 | 45 | [I Wish You Were Here](https://open.spotify.com/track/1SwGLh5FjretgcJFf85QIw) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 4:23 |
-| 46 | [Alcohol](https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 1:54 |
+| 46 | [Heroes From Our Past](https://open.spotify.com/track/6woegjlrVelSK2Oy5vM2ge) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:30 |
 | 47 | [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 |
-| 48 | [Heroes From Our Past](https://open.spotify.com/track/6woegjlrVelSK2Oy5vM2ge) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:30 |
+| 48 | [Alcohol](https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 1:54 |
 | 49 | [Skinhead on the MBTA](https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 3:49 |
 | 50 | [The Dirty Glass](https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [A Toast to St\. Patrick! \- Irish Drinking Songs](https://open.spotify.com/album/3b2jUk4GM9CcOXEnQ7kIXh) | 3:53 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDA2NjBmODU0YTA4NTRjZjBhZjQyNzE4NmU1Mjc0ZTBmNg==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDAxZGQ4MTBkZTE1ZDIyZDczYTU1NmRmNmMzNDhiNjhiNw==`

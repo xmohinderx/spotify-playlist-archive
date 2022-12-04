@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Sabrina Caprenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,957 likes - 103 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,682 likes - 103 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

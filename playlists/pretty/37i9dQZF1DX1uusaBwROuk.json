@@ -1,12 +1,12 @@
 {
   "description": "Will you be my anti-valentine?",
-  "num_followers": 78778,
+  "num_followers": 78790,
   "original_name": "Anti-Valentine's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMGFhMTVlZjI1NTM1MmI0MWUxODg3N2Y5MWM0YWU4NDQ0",
+  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMDcxMDMyMWFmYWY0ZjBhYmY1MTIwYWIzMmNmNTRkZjc1",
   "tracks": [
     {
       "added_at": "2022-01-25 16:27:07",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 207626,
       "name": "Gold Digger",
       "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -887,18 +887,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "What A Shame",
-        "url": "https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX"
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
       "artists": [
         {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 177200,
-      "name": "What A Shame",
-      "url": "https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA"
+      "duration_ms": 162586,
+      "name": "i'm so tired...",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -935,6 +939,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "What A Shame",
+        "url": "https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "What A Shame",
+      "url": "https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 221720,
       "name": "Too Little Too Late",
       "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "i'm so tired...",
-      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Party For One",
-      "url": "https://open.spotify.com/track/7KW3XQV5Or5CF57MYVj5h4"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Glad He's Gone",
         "url": "https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 196348,
       "name": "Glad He's Gone",
       "url": "https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Party For One",
+      "url": "https://open.spotify.com/track/7KW3XQV5Or5CF57MYVj5h4"
     },
     {
       "added_at": "2022-01-25 16:27:07",

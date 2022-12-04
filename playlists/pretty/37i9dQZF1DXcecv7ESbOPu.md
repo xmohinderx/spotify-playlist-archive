@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,725 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,721 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 68 | [Sunny D](https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Penny](https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW) | 3:42 |
 | 69 | [listen up \- Radio Edit](https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9) | 1:48 |
 | 70 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/4DGrMHTVjxecZbYStawUK1) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:19 |
-| 71 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 71 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 72 | [Risky](https://open.spotify.com/track/7KCB6TjcTuoemBmDaNOZkN) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Risky](https://open.spotify.com/album/4gPtrY7z6Rh8CV7I7JRgmS) | 2:17 |
 | 73 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 |
 | 74 | [midnight sun \- king krule remix](https://open.spotify.com/track/04NJEtg1Wj3oMmghmEECPs) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [midnight sun \(king krule remix\)](https://open.spotify.com/album/33han1MpED00ZVXVRbm9nm) | 5:03 |

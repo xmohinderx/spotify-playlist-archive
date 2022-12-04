@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring PAWSA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,307 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,392 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 4 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 |
 | 5 | [Only You](https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Only You](https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl) | 2:49 |
 | 6 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 |
-| 7 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
+| 7 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 8 | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm) | 3:33 |
 | 9 | [Addiction](https://open.spotify.com/track/0Udf6kbPQSJgtJD0iPLNqD) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Tigerlight](https://open.spotify.com/artist/01vSmhUgSriqhRCQOYTad4) | [Addiction](https://open.spotify.com/album/1qHMGF3yqe6mlrV8HhGZnE) | 3:38 |
 | 10 | [The Inside](https://open.spotify.com/track/1WUfZV1VUPCLQiATnJ11E9) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD) | [The Inside](https://open.spotify.com/album/1qu4VgY15fuhhdY2HOzeek) | 3:10 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 100 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 101 | [Chromatic](https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic](https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA) | 3:22 |
 
-Snapshot ID: `MTY3MDAxMzAwMCwwMDAwMDAwMDM4Zjk1YTU4ODliNDgwOTdhY2I4ZTI3OGQ2ZjJiMWM3`
+Snapshot ID: `MTY3MDAxMzAwMCwwMDAwMDAwMDFmNjU5Y2Y0MmRjNjQzNTEzNTgzNjdmZmRmZmI0ZGM4`

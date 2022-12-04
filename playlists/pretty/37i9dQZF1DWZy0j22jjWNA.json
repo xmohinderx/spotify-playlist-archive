@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73480,
+  "num_followers": 73502,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDE1MjY2MjEwMGI5OWEzNGRjZTFhMjE1YzQzNmEwMTVh",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDI4YjA4ODVmMzFkMjYwMDE1N2EyNjY4ODYzM2I2MDhj",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -459,6 +459,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "If In Case You Feel The Same",
+        "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
+      },
+      "artists": [
+        {
+          "name": "Thad Cockrell",
+          "url": "https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM"
+        },
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Morning Song",
         "url": "https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 197120,
       "name": "Time's Always Leaving",
       "url": "https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "If In Case You Feel The Same",
-        "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
-      },
-      "artists": [
-        {
-          "name": "Thad Cockrell",
-          "url": "https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM"
-        },
-        {
-          "name": "The New Respects",
-          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
+      },
+      "artists": [
+        {
+          "name": "Zach Winters",
+          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "When the Walls Come Crashing Down",
         "url": "https://open.spotify.com/album/4xaqP5u8jIbH7cTwTRZ3a8"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 221680,
       "name": "When the Walls Come Crashing Down (feat. Jon Foreman & Jillian Edwards)",
       "url": "https://open.spotify.com/track/6b0X26lFzNr7FnlbPTD4Qg"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
-      },
-      "artists": [
-        {
-          "name": "Zach Winters",
-          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "One Wild Life",
-        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
+        "name": "Wildwood Kin",
+        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
       },
       "artists": [
         {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+          "name": "Wildwood Kin",
+          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
         }
       ],
-      "duration_ms": 208946,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
+      "duration_ms": 246686,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "One Wild Life",
+        "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Autumn Love",
         "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Wildwood Kin",
-        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
+        "name": "Beautiful Anyway",
+        "url": "https://open.spotify.com/album/7nBneg4Rg24xh4awr2PJye"
       },
       "artists": [
         {
-          "name": "Wildwood Kin",
-          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 246686,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
+      "duration_ms": 298977,
+      "name": "Beautiful Anyway",
+      "url": "https://open.spotify.com/track/57nsUfW0qofrkoy9un0ffJ"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -947,22 +963,6 @@
       "duration_ms": 308883,
       "name": "Suffering Servant",
       "url": "https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Beautiful Anyway",
-        "url": "https://open.spotify.com/album/7nBneg4Rg24xh4awr2PJye"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 298977,
-      "name": "Beautiful Anyway",
-      "url": "https://open.spotify.com/track/57nsUfW0qofrkoy9un0ffJ"
     },
     {
       "added_at": "2020-09-04 04:02:00",

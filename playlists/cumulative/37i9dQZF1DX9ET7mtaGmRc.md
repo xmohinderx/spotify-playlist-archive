@@ -4,7 +4,7 @@
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-73 songs - 4 hr 23 min - not published yet
+74 songs - 4 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2022-11-07 |  |
 | [Korea Oh Korea\(Full Ver.\)](https://open.spotify.com/track/4J3IIEJpeDXoQPAOWcvtew) | [The Crack](https://open.spotify.com/artist/1HZgiKuoLQ8eMbn3Z5oEJ5) | [Korea Oh Korea \- SBS 월드컵 응원가](https://open.spotify.com/album/5ZAj6mXcVDwHhjLFbE8MqR) | 4:16 | 2022-11-07 |  |
 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 | 2022-11-07 |  |
-| [La La La \(Brazil 2014\) \(feat\. Carlinhos Brown\)](https://open.spotify.com/track/2A17TySL9lcoRTA28w9yfB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [The 2014 FIFA World Cup Official Album: One Love, One Rhythm](https://open.spotify.com/album/5htwZrf4lCiZ6GTj9Z0CMo) | 3:17 | 2022-11-07 |  |
+| [La La La \(Brasil 2014\) \(feat\. Carlinhos Brown\)](https://open.spotify.com/track/6i2kn3iS5WKzsaYBdeHLIQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:17 | 2022-11-21 |  |
+| [La La La \(Brazil 2014\) \(feat\. Carlinhos Brown\)](https://open.spotify.com/track/2A17TySL9lcoRTA28w9yfB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [The 2014 FIFA World Cup Official Album: One Love, One Rhythm](https://open.spotify.com/album/5htwZrf4lCiZ6GTj9Z0CMo) | 3:17 | 2022-11-07 | 2022-12-04 |
 | [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2022-11-07 |  |
 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 | 2022-11-07 |  |
 | [Love Me Again](https://open.spotify.com/track/0KXeAa7gr7nRdUOmoywsh8) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Happy Morning](https://open.spotify.com/album/1P2qhDeq4RJCbsAujcfaWe) | 4:00 | 2022-11-07 | 2022-11-13 |

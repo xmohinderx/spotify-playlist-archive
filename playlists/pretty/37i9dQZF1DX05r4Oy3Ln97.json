@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix!",
-  "num_followers": 341708,
+  "num_followers": 341740,
   "original_name": "Summer House 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGE3ZjJlZTQ0ZDlmZGE5MThkYzRhZjIzMGQzMTMzZTI3",
+  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGU2ZWM1OTFjNTA1MGUwNjliZmE3ODIxMjhkNWU1NTky",
   "tracks": [
     {
       "added_at": "2022-11-24 23:01:00",
@@ -207,42 +207,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
       },
@@ -263,6 +227,42 @@
       "duration_ms": 243176,
       "name": "Demons - Massane Remix",
       "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Never Really Loved Me (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Never Really Loved Me (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Be Someone",
         "url": "https://open.spotify.com/album/0Vwyb2eozh9pmtD8KwtVYm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 166005,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/0XMl0fVTh3PyPlwyJTn33n"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2022-11-24 23:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-11-24 23:01:00",
       "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp"
-      },
-      "artists": [
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        }
-      ],
-      "duration_ms": 134005,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
         "name": "Sweet Nothings (feat. Minke)",
         "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 228845,
       "name": "Sweet Nothings (feat. Minke)",
       "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
+    },
+    {
+      "added_at": "2022-11-24 23:01:00",
+      "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        }
+      ],
+      "duration_ms": 134005,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C"
     },
     {
       "added_at": "2022-11-24 23:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: J Rabbit\(제이레빗\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,759 likes - 52 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,809 likes - 52 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 14 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 15 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
 | 16 | [Si Fueras Mía](https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 |
-| 17 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
-| 18 | [Walking In The Rain \(feat\. Younha\)](https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Chancellor](https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq) | 4:08 |
+| 17 | [Walking In The Rain \(feat\. Younha\)](https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Chancellor](https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq) | 4:08 |
+| 18 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 19 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 20 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 21 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 39 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 |
 | 40 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 |
 | 41 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
-| 42 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
-| 43 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
+| 42 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
+| 43 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 44 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 45 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 |
 | 46 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 52 | [Missing You](https://open.spotify.com/track/1euacZfEZhuUcGleQFLJSS) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/55pitdWiMC7ADRWJUOo6VP) | 3:54 |
 
-Snapshot ID: `MTY2OTI4MTQ3MCwwMDAwMDAwMDkzNGI4NTUyY2JmNGZmNjA3MDNkZTcwYTdjMzdjYzg4`
+Snapshot ID: `MTY2OTI4MTQ3MCwwMDAwMDAwMDM0ODU3YjRkNGE1Mzg1ZTAyMjU0MzZjYzEwNmVmMzhh`

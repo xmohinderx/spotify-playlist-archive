@@ -1,15 +1,15 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Rubinsky Rbk",
-  "num_followers": 112977,
+  "num_followers": 113060,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk4NDIyNSwwMDAwMDAwMDVkMjFkYzAwYmEwNjQyNjFiNTkxMjRiZmMzZWRlNWJj",
+  "snapshot_id": "MTY2OTk4NDIyNSwwMDAwMDAwMGQzODE0M2I5NTQ4NWRhMzI4YzRhYzBiMjJiNTFiMTli",
   "tracks": [
     {
-      "added_at": "2022-12-03 01:35:27",
+      "added_at": "2022-12-04 01:39:41",
       "album": {
         "name": "La Oraci\u00f3n",
         "url": "https://open.spotify.com/album/22MZoLR9ERwdK8rmbDL7KT"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
     },
     {
-      "added_at": "2022-12-03 01:35:27",
+      "added_at": "2022-12-04 01:39:41",
       "album": {
         "name": "Presumirte",
         "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
     },
     {
-      "added_at": "2022-12-03 01:35:27",
+      "added_at": "2022-12-04 01:39:41",
       "album": {
         "name": "El Robo",
         "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/54OKvi0G0EZF10lR1lRokv"
     },
     {
-      "added_at": "2022-12-03 01:35:27",
+      "added_at": "2022-12-04 01:39:41",
       "album": {
         "name": "Bello Jes\u00fas",
         "url": "https://open.spotify.com/album/4BWWJQWNs265qa4NaED1gB"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6dj56LrLWhITcqkffJxI9s"
     },
     {
-      "added_at": "2022-12-03 01:35:27",
+      "added_at": "2022-12-04 01:39:41",
       "album": {
         "name": "Feliz Junto a Ti",
         "url": "https://open.spotify.com/album/1KdpVaGRotQJkPIWtWVD0z"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/6w3BbDG0LslVtIiqJ9rOGW"
     },
     {
-      "added_at": "2022-12-03 01:35:27",
+      "added_at": "2022-12-04 01:39:41",
       "album": {
         "name": "1996 (En Vivo)",
         "url": "https://open.spotify.com/album/1x214S59FCSiq27VsY3XHG"
@@ -327,6 +327,22 @@
       "duration_ms": 286767,
       "name": "Tu Iglesia",
       "url": "https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Suelto",
+        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Suelto",
+      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -371,22 +387,6 @@
       "duration_ms": 351542,
       "name": "Yo Te Busco",
       "url": "https://open.spotify.com/track/2yYEoYSJnQyZlQpch07h5f"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Suelto",
-        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Suelto",
-      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Adoraci\u00f3n Vol. 1",
-        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
-        {
-          "name": "Elena Witt-Guerra",
-          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
-        }
-      ],
-      "duration_ms": 278789,
-      "name": "Dame De Beber",
-      "url": "https://open.spotify.com/track/4wfgyTSPuSLezpBiAji1jB"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Tuyo Soy",
         "url": "https://open.spotify.com/album/2pup0ILRokspy6lSerGxJx"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 432853,
       "name": "Tuyo Soy",
       "url": "https://open.spotify.com/track/7jvyXMQbCOa8dRBoB2Xmjt"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Elena Witt-Guerra",
+          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
+        }
+      ],
+      "duration_ms": 278789,
+      "name": "Dame De Beber",
+      "url": "https://open.spotify.com/track/4wfgyTSPuSLezpBiAji1jB"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour"
-      },
-      "artists": [
-        {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Celebra Victorioso",
         "url": "https://open.spotify.com/album/2qHcU5VILpvAe1B1tu53yA"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 228576,
       "name": "Celebra Victorioso",
       "url": "https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "BUENO (Nunca Vas a Cambiar)",
+        "url": "https://open.spotify.com/album/7fml1stxwLAWkTKONJ1SWw"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 305116,
+      "name": "BUENO (Nunca Vas a Cambiar)",
+      "url": "https://open.spotify.com/track/4tMecu7jQX9jnaqmaPzvMz"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -655,18 +671,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "BUENO (Nunca Vas a Cambiar)",
-        "url": "https://open.spotify.com/album/7fml1stxwLAWkTKONJ1SWw"
+        "name": "Lo Veo",
+        "url": "https://open.spotify.com/album/4s9TBAg6YMgEeD5ZAwDEyd"
       },
       "artists": [
         {
-          "name": "Ayrton Day",
-          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 305116,
-      "name": "BUENO (Nunca Vas a Cambiar)",
-      "url": "https://open.spotify.com/track/4tMecu7jQX9jnaqmaPzvMz"
+      "duration_ms": 215712,
+      "name": "Lo Veo",
+      "url": "https://open.spotify.com/track/6quvUcIru3huNKGscwQVRD"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -703,22 +719,6 @@
       "duration_ms": 212210,
       "name": "No Te Negar\u00e9",
       "url": "https://open.spotify.com/track/2F6zKVc94xmamV8gdJBB0M"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Lo Veo",
-        "url": "https://open.spotify.com/album/4s9TBAg6YMgEeD5ZAwDEyd"
-      },
-      "artists": [
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "Lo Veo",
-      "url": "https://open.spotify.com/track/6quvUcIru3huNKGscwQVRD"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0YwyzylHIlcBAbyv6k2RJG"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 199700,
-      "name": "Lo Primero",
-      "url": "https://open.spotify.com/track/2E54WDKyVtjTSwDGPMJSo6"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "A El Alto y Sublime",
         "url": "https://open.spotify.com/album/6GkqmaXAL7drZrOFJizWAM"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 356062,
       "name": "A El Alto y Sublime",
       "url": "https://open.spotify.com/track/3sO9EvbB4oRxmmkyj4uOof"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0YwyzylHIlcBAbyv6k2RJG"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "Lo Primero",
+      "url": "https://open.spotify.com/track/2E54WDKyVtjTSwDGPMJSo6"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Dios Es la Vuelta",
+        "url": "https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "duration_ms": 155172,
+      "name": "Dios Es la Vuelta",
+      "url": "https://open.spotify.com/track/0HsVzHslRJxTCW0UJK6DEo"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Me Elevas",
         "url": "https://open.spotify.com/album/4E3fwaDZNj7ypvyIpTmxOu"
       },
@@ -987,6 +1007,22 @@
       "duration_ms": 166116,
       "name": "Me Elevas",
       "url": "https://open.spotify.com/track/1yDI3pAYtyDT6GKRwbKun9"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Esperar\u00e9 en ti SE\u00d1OR",
+        "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
+      },
+      "artists": [
+        {
+          "name": "Josu\u00e9 Del Cid",
+          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
+        }
+      ],
+      "duration_ms": 313222,
+      "name": "Esperar\u00e9 en ti SE\u00d1OR",
+      "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1019,42 +1055,6 @@
       "duration_ms": 218809,
       "name": "Puesta Pal Perreo",
       "url": "https://open.spotify.com/track/4J4JlzmObQ2AgZQaVo6AAN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Dios Es la Vuelta",
-        "url": "https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        }
-      ],
-      "duration_ms": 155172,
-      "name": "Dios Es la Vuelta",
-      "url": "https://open.spotify.com/track/0HsVzHslRJxTCW0UJK6DEo"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Esperar\u00e9 en ti SE\u00d1OR",
-        "url": "https://open.spotify.com/album/6CtANcQxXO50tsmMzzah6W"
-      },
-      "artists": [
-        {
-          "name": "Josu\u00e9 Del Cid",
-          "url": "https://open.spotify.com/artist/5HmMfZ8kvduIyl1TOlWXCs"
-        }
-      ],
-      "duration_ms": 313222,
-      "name": "Esperar\u00e9 en ti SE\u00d1OR",
-      "url": "https://open.spotify.com/track/4HtKWZ8bJUUiGMrPnamtys"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Alegre",
+        "url": "https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Alegre",
+      "url": "https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Banco Del Cielo",
         "url": "https://open.spotify.com/album/5AuaN9JTZ1zwdVlytKILfm"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 209379,
       "name": "Banco Del Cielo",
       "url": "https://open.spotify.com/track/5MSsuejUx8Gyo0ryjJQA7i"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Alegre",
-        "url": "https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX"
-      },
-      "artists": [
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        },
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Alegre",
-      "url": "https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "When I Pray (Mi Oraci\u00f3n) (feat. Blanca)",
-        "url": "https://open.spotify.com/album/7H6R1f1I6cz3emRjys6E7V"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        }
-      ],
-      "duration_ms": 221655,
-      "name": "When I Pray (Mi Oraci\u00f3n) (feat. Blanca)",
-      "url": "https://open.spotify.com/track/5AU3lAWOFwjjCjb9rC2jEr"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Carmesi",
         "url": "https://open.spotify.com/album/4I8FKMAgtQA7rSa90M9KKA"
       },
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "When I Pray (Mi Oraci\u00f3n) (feat. Blanca)",
+        "url": "https://open.spotify.com/album/7H6R1f1I6cz3emRjys6E7V"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "duration_ms": 221655,
+      "name": "When I Pray (Mi Oraci\u00f3n) (feat. Blanca)",
+      "url": "https://open.spotify.com/track/5AU3lAWOFwjjCjb9rC2jEr"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Dani Dani",
         "url": "https://open.spotify.com/album/2vVqfZRg7N3fS5VNpbIoHY"
       },
@@ -1319,70 +1319,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Evangelio Hecho Canci\u00f3n - Volumen 1",
-        "url": "https://open.spotify.com/album/6p9mBV5gxEhNbcxw7Pps58"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sanfilippo",
-          "url": "https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf"
-        }
-      ],
-      "duration_ms": 172294,
-      "name": "Cuidas de Mi",
-      "url": "https://open.spotify.com/track/2jXBBV24GYXqJ7ZKp2mUTK"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Nombre Sin Igual",
-        "url": "https://open.spotify.com/album/2gWvx9CJ0IWXtBoBA7VZem"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez Music",
-          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "Nombre Sin Igual",
-      "url": "https://open.spotify.com/track/3ZqoLbKwihizc1j3wJErNK"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Esta Es Mi Respuesta",
-        "url": "https://open.spotify.com/album/1HDJNkPq1GMtTPaEMsDIe9"
-      },
-      "artists": [
-        {
-          "name": "caminodevida m\u00fasica",
-          "url": "https://open.spotify.com/artist/26uYihnzGQPWmX5208Hdiq"
-        }
-      ],
-      "duration_ms": 355797,
-      "name": "Esta Es Mi Respuesta",
-      "url": "https://open.spotify.com/track/09atBeBiQFsXbLZIVSnSy8"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "T\u00fa Eres Rey (Aleluya)",
-        "url": "https://open.spotify.com/album/4Ubai9xWxsgUZ5vbIijy6g"
-      },
-      "artists": [
-        {
-          "name": "Omar Oropesa",
-          "url": "https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno"
-        }
-      ],
-      "duration_ms": 315391,
-      "name": "T\u00fa Eres Rey (Aleluya)",
-      "url": "https://open.spotify.com/track/6s9Oy3qwYVG4AAlgpkcJje"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Prendio",
         "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
       },
@@ -1403,6 +1339,70 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Evangelio Hecho Canci\u00f3n - Volumen 1",
+        "url": "https://open.spotify.com/album/6p9mBV5gxEhNbcxw7Pps58"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sanfilippo",
+          "url": "https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf"
+        }
+      ],
+      "duration_ms": 172294,
+      "name": "Cuidas de Mi",
+      "url": "https://open.spotify.com/track/2jXBBV24GYXqJ7ZKp2mUTK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Esta Es Mi Respuesta",
+        "url": "https://open.spotify.com/album/1HDJNkPq1GMtTPaEMsDIe9"
+      },
+      "artists": [
+        {
+          "name": "caminodevida m\u00fasica",
+          "url": "https://open.spotify.com/artist/26uYihnzGQPWmX5208Hdiq"
+        }
+      ],
+      "duration_ms": 355797,
+      "name": "Esta Es Mi Respuesta",
+      "url": "https://open.spotify.com/track/09atBeBiQFsXbLZIVSnSy8"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Nombre Sin Igual",
+        "url": "https://open.spotify.com/album/2gWvx9CJ0IWXtBoBA7VZem"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "duration_ms": 258950,
+      "name": "Nombre Sin Igual",
+      "url": "https://open.spotify.com/track/3ZqoLbKwihizc1j3wJErNK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "T\u00fa Eres Rey (Aleluya)",
+        "url": "https://open.spotify.com/album/4Ubai9xWxsgUZ5vbIijy6g"
+      },
+      "artists": [
+        {
+          "name": "Omar Oropesa",
+          "url": "https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno"
+        }
+      ],
+      "duration_ms": 315391,
+      "name": "T\u00fa Eres Rey (Aleluya)",
+      "url": "https://open.spotify.com/track/6s9Oy3qwYVG4AAlgpkcJje"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "ALEXXANDER",
         "url": "https://open.spotify.com/album/6xHlAmurzP5JBJ8jn6aDcu"
       },
@@ -1415,70 +1415,6 @@
       "duration_ms": 141131,
       "name": "EN LA M\u00cdA",
       "url": "https://open.spotify.com/track/5IunGc5yGpCc4rRF8dmPVg"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Mi Idonea",
-        "url": "https://open.spotify.com/album/3juKvTKcELihhudD3HhW15"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Mi Idonea",
-      "url": "https://open.spotify.com/track/7egCvAnXLtlNbg2VrssndM"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Naci\u00f3 El Salvador",
-        "url": "https://open.spotify.com/album/1aajGKcYs2CtZgPZ2B1GQN"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 227897,
-      "name": "Naci\u00f3 El Salvador",
-      "url": "https://open.spotify.com/track/5YwAuDB6UvcvcG5rRddIi5"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Siempre Estas Ah\u00ed",
-        "url": "https://open.spotify.com/album/3xymheoaTZUVWzMyvmwQWI"
-      },
-      "artists": [
-        {
-          "name": "Anagrace",
-          "url": "https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w"
-        }
-      ],
-      "duration_ms": 471355,
-      "name": "Siempre Estas Ah\u00ed",
-      "url": "https://open.spotify.com/track/70kYPME1i3B0UU9G09f0B0"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Recrea",
-        "url": "https://open.spotify.com/album/71KFGogmp9ZLWlVcgMc9RN"
-      },
-      "artists": [
-        {
-          "name": "Isaac Salinas",
-          "url": "https://open.spotify.com/artist/7xqZrj9YaPC57GXU4r2JwF"
-        }
-      ],
-      "duration_ms": 409874,
-      "name": "F\u00f3rmame",
-      "url": "https://open.spotify.com/track/3T9j3WGB4sXJn5pmP9X2vE"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1503,6 +1439,54 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Naci\u00f3 El Salvador",
+        "url": "https://open.spotify.com/album/1aajGKcYs2CtZgPZ2B1GQN"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 227897,
+      "name": "Naci\u00f3 El Salvador",
+      "url": "https://open.spotify.com/track/5YwAuDB6UvcvcG5rRddIi5"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Mi Idonea",
+        "url": "https://open.spotify.com/album/3juKvTKcELihhudD3HhW15"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Mi Idonea",
+      "url": "https://open.spotify.com/track/7egCvAnXLtlNbg2VrssndM"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Siempre Estas Ah\u00ed",
+        "url": "https://open.spotify.com/album/3xymheoaTZUVWzMyvmwQWI"
+      },
+      "artists": [
+        {
+          "name": "Anagrace",
+          "url": "https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w"
+        }
+      ],
+      "duration_ms": 471355,
+      "name": "Siempre Estas Ah\u00ed",
+      "url": "https://open.spotify.com/track/70kYPME1i3B0UU9G09f0B0"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Yo Estuve Ah\u00ed",
         "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
       },
@@ -1515,6 +1499,54 @@
       "duration_ms": 197498,
       "name": "Yo estuve ah\u00ed",
       "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Recrea",
+        "url": "https://open.spotify.com/album/71KFGogmp9ZLWlVcgMc9RN"
+      },
+      "artists": [
+        {
+          "name": "Isaac Salinas",
+          "url": "https://open.spotify.com/artist/7xqZrj9YaPC57GXU4r2JwF"
+        }
+      ],
+      "duration_ms": 409874,
+      "name": "F\u00f3rmame",
+      "url": "https://open.spotify.com/track/3T9j3WGB4sXJn5pmP9X2vE"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Le\u00f3n de Jud\u00e1",
+        "url": "https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC"
+      },
+      "artists": [
+        {
+          "name": "Dahaira",
+          "url": "https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR"
+        }
+      ],
+      "duration_ms": 479008,
+      "name": "Le\u00f3n de Jud\u00e1",
+      "url": "https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Maranatha",
+        "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Fones, Sj",
+          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
+        }
+      ],
+      "duration_ms": 300857,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Maranatha",
-        "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Fones, Sj",
-          "url": "https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk"
-        }
-      ],
-      "duration_ms": 300857,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Ayer & Hoy",
         "url": "https://open.spotify.com/album/5nTBsdMMmH7sPvRL0TfNYl"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 204545,
       "name": "Ayer & Hoy",
       "url": "https://open.spotify.com/track/62hD9IQldcecd13tWGFdPy"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Le\u00f3n de Jud\u00e1",
-        "url": "https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC"
-      },
-      "artists": [
-        {
-          "name": "Dahaira",
-          "url": "https://open.spotify.com/artist/3nIeDI9YmzJ4iWAoerBQVR"
-        }
-      ],
-      "duration_ms": 479008,
-      "name": "Le\u00f3n de Jud\u00e1",
-      "url": "https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/7LOVNMezm1H8eeyrb7mIY7"
+        "name": "Hola Jes\u00fas",
+        "url": "https://open.spotify.com/album/0vLrM4pHTB8LPehombeId8"
       },
       "artists": [
         {
-          "name": "Andy CM",
-          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
         },
         {
-          "name": "La D Rodriguez",
-          "url": "https://open.spotify.com/artist/2JLiNmuhc4a6G1FvZ3jlBz"
+          "name": "Amanda Vernon",
+          "url": "https://open.spotify.com/artist/6U5LavdtWNIZcVmpbOxjWc"
         }
       ],
-      "duration_ms": 182769,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6VIw4fwvDXfKGiNmpjcuth"
+      "duration_ms": 198750,
+      "name": "Hola Jes\u00fas",
+      "url": "https://open.spotify.com/track/3swBmzPIbpIiEXWHJ02M2i"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/7LOVNMezm1H8eeyrb7mIY7"
+      },
+      "artists": [
+        {
+          "name": "Andy CM",
+          "url": "https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos"
+        },
+        {
+          "name": "La D Rodriguez",
+          "url": "https://open.spotify.com/artist/2JLiNmuhc4a6G1FvZ3jlBz"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6VIw4fwvDXfKGiNmpjcuth"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Vas a Llegar",
         "url": "https://open.spotify.com/album/2t3q3LbGj450g9brgSwUVF"
       },
@@ -1731,22 +1751,42 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Hola Jes\u00fas",
-        "url": "https://open.spotify.com/album/0vLrM4pHTB8LPehombeId8"
+        "name": "Pa' que Son Las Guitarras",
+        "url": "https://open.spotify.com/album/40z3TYafjcab3mfN6VkDT1"
       },
       "artists": [
         {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+          "name": "Los Herederos",
+          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
         },
         {
-          "name": "Amanda Vernon",
-          "url": "https://open.spotify.com/artist/6U5LavdtWNIZcVmpbOxjWc"
+          "name": "Grupo Respaldo",
+          "url": "https://open.spotify.com/artist/4ETVNscBfQBhJaBtnUX93m"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Hola Jes\u00fas",
-      "url": "https://open.spotify.com/track/3swBmzPIbpIiEXWHJ02M2i"
+      "duration_ms": 193956,
+      "name": "Pa' que Son Las Guitarras",
+      "url": "https://open.spotify.com/track/2I6G5TABjMu7RVntToFDwk"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Impactante",
+        "url": "https://open.spotify.com/album/6fNos7867saNspKabGZ3TA"
+      },
+      "artists": [
+        {
+          "name": "Egleyda Belliard",
+          "url": "https://open.spotify.com/artist/1sBwtYxFdcxMORPsC6SMyl"
+        },
+        {
+          "name": "Chanel Novas",
+          "url": "https://open.spotify.com/artist/0RgLJNCnffcLWDsEczr0FL"
+        }
+      ],
+      "duration_ms": 509189,
+      "name": "Impactante",
+      "url": "https://open.spotify.com/track/6n4XeEJedj0jMpB1mgaFiF"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1775,26 +1815,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Pa' que Son Las Guitarras",
-        "url": "https://open.spotify.com/album/40z3TYafjcab3mfN6VkDT1"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos",
-          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
-        },
-        {
-          "name": "Grupo Respaldo",
-          "url": "https://open.spotify.com/artist/4ETVNscBfQBhJaBtnUX93m"
-        }
-      ],
-      "duration_ms": 193956,
-      "name": "Pa' que Son Las Guitarras",
-      "url": "https://open.spotify.com/track/2I6G5TABjMu7RVntToFDwk"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Busquen al Muchacho",
         "url": "https://open.spotify.com/album/2HvyBHvUdcgOXkCyYMV06B"
       },
@@ -1807,6 +1827,26 @@
       "duration_ms": 236008,
       "name": "Busquen al Muchacho - Leche y Miel Live",
       "url": "https://open.spotify.com/track/138El5wROpJAFUvZN5alVZ"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/5D28oJP25nei32y5XBDGZn"
+      },
+      "artists": [
+        {
+          "name": "Brayan Booz",
+          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
+        },
+        {
+          "name": "Borrero",
+          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+        }
+      ],
+      "duration_ms": 206392,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1839,42 +1879,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/5D28oJP25nei32y5XBDGZn"
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/47Yd2xwDnY6ecLe80LwYSl"
       },
       "artists": [
         {
-          "name": "Brayan Booz",
-          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
-        },
-        {
-          "name": "Borrero",
-          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+          "name": "Hennessy",
+          "url": "https://open.spotify.com/artist/1LoeAMwjd44lrd6zU5Lh6U"
         }
       ],
-      "duration_ms": 206392,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Impactante",
-        "url": "https://open.spotify.com/album/6fNos7867saNspKabGZ3TA"
-      },
-      "artists": [
-        {
-          "name": "Egleyda Belliard",
-          "url": "https://open.spotify.com/artist/1sBwtYxFdcxMORPsC6SMyl"
-        },
-        {
-          "name": "Chanel Novas",
-          "url": "https://open.spotify.com/artist/0RgLJNCnffcLWDsEczr0FL"
-        }
-      ],
-      "duration_ms": 509189,
-      "name": "Impactante",
-      "url": "https://open.spotify.com/track/6n4XeEJedj0jMpB1mgaFiF"
+      "duration_ms": 209234,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/3LGZx3Hn3qI3uXq3p2AoIt"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1895,22 +1911,6 @@
       "duration_ms": 189375,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/1BC0BeYRVroR8MEK0NPeWD"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/47Yd2xwDnY6ecLe80LwYSl"
-      },
-      "artists": [
-        {
-          "name": "Hennessy",
-          "url": "https://open.spotify.com/artist/1LoeAMwjd44lrd6zU5Lh6U"
-        }
-      ],
-      "duration_ms": 209234,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/3LGZx3Hn3qI3uXq3p2AoIt"
     }
   ],
   "unique_name": "Novedades Cristianas",

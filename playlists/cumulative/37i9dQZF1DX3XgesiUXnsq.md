@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: Mobb Deep
 
-254 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
+255 songs - 14 hr 15 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Beat Breaks \(feat\. Nas\)](https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:39 | 2022-07-15 |  |
 | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/1nLHSHocLNaLJCjKO153zw) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/album/1pR6uGydVEKpApUfXi3SRp) | 4:41 | 2022-06-17 | 2022-10-15 |
 | [BENNY'S GOT A GUN](https://open.spotify.com/track/37HgVj2kLDeGWpWwDDE0PB) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [BENNY'S GOT A GUN](https://open.spotify.com/album/79iEtuOTXwD7VObxVoKX4n) | 3:52 | 2022-06-03 | 2022-09-24 |
+| [Biggie/Tupac Live Freestyle \(Funkmaster Flex & Big Kap Feat\. DJ Mister Cee, Notorious B.I.G & Tupac\)](https://open.spotify.com/track/2FjvG9IQg242g2LEornfjy) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [Big Kap](https://open.spotify.com/artist/1GeODmmQycY9UqF4MLO94I), [DJ Mister Cee](https://open.spotify.com/artist/0eEM0WZQ0ow2FNrym7ngTe), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Tunnel](https://open.spotify.com/album/3UsJV5yxzjuPv6O2pfjPSU) | 1:48 | 2022-12-04 |  |
 | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI) | 3:49 | 2022-04-29 | 2022-09-24 |
 | [Bleed It](https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bleed It](https://open.spotify.com/album/4jbjMs0rSuwQl7Jk5JFyYb) | 2:31 | 2022-06-03 | 2022-06-11 |
 | [Blood Bath](https://open.spotify.com/track/5ha1smmGfz7sttHdxFcrbY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside II](https://open.spotify.com/album/79qFRdOPllZ9t0uhJsqHwi) | 2:46 | 2022-04-29 | 2022-06-18 |

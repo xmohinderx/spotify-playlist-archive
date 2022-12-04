@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,841 likes - 110 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,876 likes - 110 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 17 | [Vast Ocean View](https://open.spotify.com/track/5fIDb2LhOLbGAHEwdlVKLo) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:26 |
 | 18 | [Wheels Of Time](https://open.spotify.com/track/79f1BWnoz0SzwpQVXjmtxX) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [Wheels Of Time](https://open.spotify.com/album/0w5QFggozxNROc5LqPjK7N) | 2:18 |
 | 19 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 |
-| 20 | [The Beauty Of Cold](https://open.spotify.com/track/1FD8sEUe8DLfMFZSjLrZaR) | [The Peaceful Silence](https://open.spotify.com/artist/1MPPhE6Gj5OT5QSIW7yik6) | [The Beauty Of Cold](https://open.spotify.com/album/4lBKbzCmFIoRTrCCUHCzrf) | 2:22 |
+| 20 | [The Beauty Of Cold](https://open.spotify.com/track/1FD8sEUe8DLfMFZSjLrZaR) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [The Beauty Of Cold](https://open.spotify.com/album/4lBKbzCmFIoRTrCCUHCzrf) | 2:22 |
 | 21 | [moon in motion](https://open.spotify.com/track/3GOYS5D20KoipqTbLYjQRM) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [moon in motion](https://open.spotify.com/album/4tWt4T1Yh0581fO8FTLuqN) | 2:30 |
 | 22 | [Dreaming While Awake](https://open.spotify.com/track/1KVq03Ocupx3tRE18yZa5Q) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Dreaming While Awake](https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5) | 2:50 |
 | 23 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Hyalite Glow](https://open.spotify.com/artist/3DT9YiO0OHVX5mEsehDD89) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 44 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 |
 | 45 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 |
 | 46 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 |
-| 47 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Red Deer](https://open.spotify.com/artist/5zFlIwFPxOQ9sbuVZ1HyEg) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 |
+| 47 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 |
 | 48 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 |
 | 49 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 |
 | 50 | [Buckle Up](https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [authenticity](https://open.spotify.com/album/0CdkSTJwCTIJRd2BgbPyct) | 3:11 |

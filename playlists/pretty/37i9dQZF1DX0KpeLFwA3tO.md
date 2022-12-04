@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Against The Current
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,255 likes - 120 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,357 likes - 120 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,11 +122,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 112 | [Everything Or Nothing At All](https://open.spotify.com/track/0oGZaR3AqOKjJMHno0uE9T) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00) | [Flight Risk](https://open.spotify.com/album/6UQqFaB5RsrjbLBhphH2dt) | 3:24 |
 | 113 | [Fistful of Bees](https://open.spotify.com/track/1WtwJ2u5OgYXnjUg1HmOFW) | [Born Without Bones](https://open.spotify.com/artist/541FGx3Aj5vHIpwFiByjFg) | [Fistful of Bees](https://open.spotify.com/album/0Nrr1s14D7ychQOzXfkoYz) | 3:16 |
 | 114 | [See the Splendor](https://open.spotify.com/track/5yFNV83QQXGMIuGcjkglI1) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [See the Splendor](https://open.spotify.com/album/6yWeBUDjeXYTjeZXjMxL1t) | 3:09 |
-| 115 | [Beauty and Grace](https://open.spotify.com/track/3vBLbzaqKlJgDfquAEuZ5B) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Beauty and Grace](https://open.spotify.com/album/7IsKOyk8quTcg8bpRptkgw) | 2:09 |
+| 115 | [Beauty and Grace](https://open.spotify.com/track/3EpMDkSTWJaP7QCoqkKbSn) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:09 |
 | 116 | [Sainted](https://open.spotify.com/track/514xG7c5ygps7lfctO30yP) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 4:57 |
 | 117 | [PARADE](https://open.spotify.com/track/2TSu26aUupiIfzv5OE1hjr) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [PARADE](https://open.spotify.com/album/04xTZdEbwVCV3TO2GDXq3o) | 2:03 |
 | 118 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 |
 | 119 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 |
 | 120 | [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDIyYjRjMGMxZmJmOTZjNzE2MTc4YjJlNDM0MDBkY2Nk`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDE0OTY5Nzk5MDMyYjE1OGZhNzI2YTQ0ODEyODZiOThl`

@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-633 songs - 1 day 12 hr 37 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+635 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [I Wanna](https://open.spotify.com/track/6COz34yZcAmqHSzK8d7E6q) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [I Wanna](https://open.spotify.com/album/0mJDABp1dKnhZqrmAdEsHb) | 4:26 | 2022-07-09 | 2022-07-16 |
 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\) \- James Hype Remix](https://open.spotify.com/track/1iLU3hQxwqvCQW7v4wzLuF) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\) \[James Hype Remix\]](https://open.spotify.com/album/0o8X83p6Ve3Pz6WBPSPgv0) | 3:21 | 2022-07-15 | 2022-07-30 |
 | [if i could](https://open.spotify.com/track/2dy1VuzuheRn282vM8cuM1) | [Joel Macintosh](https://open.spotify.com/artist/6TOiaTqXCHBs1801K5Mqe4) | [Anima](https://open.spotify.com/album/4dEwQ1pwP4Peo41NsvicND) | 2:10 | 2022-06-10 | 2022-06-18 |
+| [Impossible Beat](https://open.spotify.com/track/3xq46WZUsGhKdflu8zXJJn) | [Fletcher Kerr](https://open.spotify.com/artist/0MMPzOAJySvSWs8lqcDc5k), [KEFFI](https://open.spotify.com/artist/06x3YBkBTZLOZN4C2I6MlY) | [Olhar EP](https://open.spotify.com/album/1pJbx7mjMCxKh5wlE9rR8s) | 3:54 | 2022-12-03 |  |
 | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/track/624KQ6MFOrY8q1EOH6YGzf) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza) | 3:47 | 2022-08-05 | 2022-09-03 |
 | [In Chicago](https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [In Chicago](https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1) | 3:06 | 2022-05-13 | 2022-05-30 |
 | [In My Head](https://open.spotify.com/track/2U7ePu00JjIu04rLM0EZFn) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [In My Head](https://open.spotify.com/album/3P9NfGR1yGOkPdAU1ZJRRs) | 4:30 | 2022-05-29 | 2022-06-04 |
@@ -431,6 +432,7 @@
 | [Party People](https://open.spotify.com/track/4CdNJGwzSXTU1EE1GJBxM6) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Party People](https://open.spotify.com/album/3m11xfvM8zaRt5i9Ozj6hY) | 3:06 | 2022-09-02 | 2022-09-10 |
 | [Party Time](https://open.spotify.com/track/55Q6nK8zmglR9wvPwpcX2m) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Party Time](https://open.spotify.com/album/5Fuwvv3cQgJg2b1fBx8zVE) | 3:30 | 2022-09-23 | 2022-10-01 |
 | [Peanut Butter](https://open.spotify.com/track/7F2xg9REyaMDf9JHMV8V9S) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Dances With White Girls](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [New Age of House](https://open.spotify.com/album/7zBY7JzAeooq0E8cMXmZ0X) | 2:51 | 2022-11-05 | 2022-11-12 |
+| [Percussive](https://open.spotify.com/track/1uFDOWFuZTP2mBad6ohPLh) | [JOSA](https://open.spotify.com/artist/7vXbk6muCLwqhhWmjCBDhA) | [Percussive](https://open.spotify.com/album/1P8STKdATYhXu6QK6CWee3) | 3:37 | 2022-12-03 |  |
 | [Phone Call](https://open.spotify.com/track/5MQNYci3rJ0LSaPj1weacg) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Connection EP](https://open.spotify.com/album/3dKXxFhbCQXaDQ1oQHR3vb) | 3:12 | 2022-10-14 | 2022-10-29 |
 | [Pills and Chill](https://open.spotify.com/track/4N23Zsa9qEBfuheDI6pnig) | [Jon Warg](https://open.spotify.com/artist/1O1ngdcfTb1SrRjmQHZHNp) | [Litterbox 12](https://open.spotify.com/album/6XSqMd6HwTAreAKbHMKan2) | 3:42 | 2022-06-03 | 2022-06-11 |
 | [Pillz for Sleep](https://open.spotify.com/track/6N0LzD9vKqR571KWexuv7y) | [Catsinka](https://open.spotify.com/artist/2Ynro8ElWjD3skhoMLjJTh) | [Pillz for Sleep](https://open.spotify.com/album/4hD2S9lwCGJXgDOpKf6Jcs) | 6:37 | 2022-09-09 | 2022-09-18 |

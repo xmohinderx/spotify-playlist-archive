@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,552 songs - 2 day 22 hr 14 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,553 songs - 2 day 22 hr 17 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-04-12 | 2022-04-15 |
 | [Coffee in Bed](https://open.spotify.com/track/2u9vbtu5Vkg8osAqPHqD1w) | [Russel F Jr](https://open.spotify.com/artist/3eH6Y4vnHy8bIZ8XwtEhRR) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 2:53 | 2022-03-24 | 2022-04-15 |
 | [Cold Winter](https://open.spotify.com/track/3xznA8YNWR0pMYdSnuhSpq) | [Ann Simons](https://open.spotify.com/artist/5Mnt5Fm6IJpanaFY9Fei3g) | [Cold Winter](https://open.spotify.com/album/2P25HjtCsvifpGn2RuydFV) | 2:54 | 2021-03-19 | 2022-04-17 |
-| [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-04-20 |  |
+| [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-04-20 | 2022-12-04 |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2021-05-14 | 2022-07-28 |
 | [Come Autumn](https://open.spotify.com/track/4vKuB6Rup1brmFSmrP3XlN) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Good Harvest](https://open.spotify.com/album/3oLL89HLuYQIIT4Au1zAlN) | 2:42 | 2021-04-21 | 2021-04-22 |
 | [Comfort](https://open.spotify.com/track/6D8Rpm5uM7Ak9W5S7t0VA0) | [Happy People](https://open.spotify.com/artist/4nczWWUv1aBW4lPSV1cj0j) | [Comfort](https://open.spotify.com/album/7auBQwUCqEXn9kSsRZD0As) | 1:58 | 2021-12-17 | 2022-04-21 |
@@ -974,6 +974,7 @@
 | [Palette](https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Palette](https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY) | 3:46 | 2021-03-29 | 2022-07-27 |
 | [Palmaille](https://open.spotify.com/track/47IaIWJmpBCbksEiCtXlg7) | [Stephan Neudorf](https://open.spotify.com/artist/3LTEyjfC2BYp3WdJhPJjm1) | [Palmaille](https://open.spotify.com/album/0K6JSOVeSDT93tjITOl6TZ) | 1:37 | 2021-03-20 | 2021-05-24 |
 | [Papa](https://open.spotify.com/track/3cAT1jmDFz969hO1LikyNH) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Papa](https://open.spotify.com/album/4LlT8tzmFNuzXEppDKn7qu) | 1:09 | 2021-03-07 | 2022-04-21 |
+| [Papier collé](https://open.spotify.com/track/6zB7Vvymi8vYeSqH9z9HhV) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Papier collé](https://open.spotify.com/album/7e1X0WJqhFqDc3qqfRrFXd) | 2:25 | 2022-11-15 |  |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2021-09-16 | 2022-09-30 |
 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2021-03-07 | 2022-04-13 |
 | [Partings](https://open.spotify.com/track/7HwJqlErsgkpld73bb7kxC) | [Marcus Ackermann](https://open.spotify.com/artist/6noL2qkK3vGykmVQPunJns) | [A New Day](https://open.spotify.com/album/6qTn1Zdgx0idq2yTJ4FJeA) | 3:04 | 2021-03-22 | 2022-07-18 |

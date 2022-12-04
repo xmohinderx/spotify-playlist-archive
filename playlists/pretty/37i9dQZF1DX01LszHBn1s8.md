@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > “i could eat girl scouts for breakfast" \- wednesday addams 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,970 likes - 609 songs - 1 day 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,623 likes - 609 songs - 1 day 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 6 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 |
 | 7 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 |
 | 8 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
-| 9 | [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 9 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
 | 10 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
 | 11 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 12 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 |
@@ -334,7 +334,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 324 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
 | 325 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
 | 326 | [THE ONLY TIME IT RAINS IN HOLLYWOOD](https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [THE ONLY TIME IT RAINS IN HOLLYWOOD](https://open.spotify.com/album/0w6KHetzLC2MOoPTveJWPP) | 5:14 |
-| 327 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 |
+| 327 | [Blue Spirits](https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk) | 3:08 |
 | 328 | [stuck in the friendzone](https://open.spotify.com/track/1kaLHit6xNoaR1PkuKPfT1) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [stuck in the friendzone](https://open.spotify.com/album/1c7TvxeGfHzoBlkQ3y5Fq3) | 2:57 |
 | 329 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
 | 330 | [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 |
@@ -618,4 +618,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 608 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 609 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGIyNGVjYTU4YzBhMGVkNzYzMWY3MTU3Nzg3MDNhNjA1`
+Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMDIwMGY2NTBlMzZkZGEyNTEwZGNjZjc1ZGUzODNkNTYw`

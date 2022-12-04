@@ -4,7 +4,7 @@
 
 > despacito que no llevamos prisa
 
-185 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/01F4jrZZjsWlaAtllI2OQa)
+186 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/01F4jrZZjsWlaAtllI2OQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,8 +136,9 @@
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6eu4W9RlGEzGPjfVJlXWtT) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 4:01 | 2021-11-01 | 2022-10-03 |
 | [Si Nos Dejan](https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Si Nos Dejan](https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ) | 2:32 | 2021-11-01 |  |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 | 2021-11-01 | 2022-10-23 |
-| [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 | 2021-11-01 |  |
+| [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 | 2021-11-01 | 2022-12-04 |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/5kmVb41juCytQvRfoYkdsP) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/58GCQtBESSNDEGCJw5vCoY) | 3:51 | 2021-11-01 | 2022-07-29 |
+| [Simplemente Gracias](https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh) | 3:04 | 2022-08-03 |  |
 | [Simplemente Gracias](https://open.spotify.com/track/3yJPDtrII0EVSQFdpSZIQR) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/5VCYfrOsF7WzUl0QIQCYBc) | 3:04 | 2021-11-01 | 2022-11-30 |
 | [Simplemente Gracias](https://open.spotify.com/track/7ebRw8NKRtmfmeOMpLeOYn) | [Vivin LP](https://open.spotify.com/artist/5JJP8xQtbMdnnJE2E7zogW) | [Simplemente Gracias](https://open.spotify.com/album/19mlWCpjnmnAXYrsYnS7iV) | 2:51 | 2021-11-01 | 2022-07-29 |
 | [Sin Esencia](https://open.spotify.com/track/6IFxVOBebgwbgiKcIFb3RA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Sin Esencia](https://open.spotify.com/album/3V0SOfhpcMfTMw3CWXK2wM) | 3:46 | 2021-11-01 | 2022-07-29 |

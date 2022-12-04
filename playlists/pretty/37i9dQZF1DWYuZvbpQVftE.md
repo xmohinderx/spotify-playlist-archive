@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,623 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,637 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 21 | [My Funny Valentine \- Live At The Shrine Auditorium, Los Angeles / 1957](https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Stan Getz And J.J\. Johnson At The Opera House \(Live / 1957\)](https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm) | 8:28 |
 | 22 | [Grooveyard](https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD) | [Harold In The Land Of Jazz](https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG) | 7:06 |
 | 23 | [Thou Swell](https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn) | [Hampton Hawes](https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK) | [Four!](https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz) | 4:54 |
-| 24 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
-| 25 | [Star Song](https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Latin Side Of Vince Guaraldi](https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4) | 3:36 |
+| 24 | [Star Song](https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Latin Side Of Vince Guaraldi](https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4) | 3:36 |
+| 25 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
 | 26 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
 | 27 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
 | 28 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [We'll Be Together Again](https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 8:43 |
 | 50 | [Ahmoore](https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj) | [The Quartet and the Quintet](https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9) | 3:15 |
 
-Snapshot ID: `MTY2NTEzMjQ4MSwwMDAwMDAwMGVkZWFlMWRmZGU4OWMxMjhmZDI4YThiNjA3ZTFiYjM5`
+Snapshot ID: `MTY2NTEzMjQ4MSwwMDAwMDAwMDZhY2JlYzZiYzJlZmFiYzcyOTdmZjQ5MmY4NmFmYzJk`

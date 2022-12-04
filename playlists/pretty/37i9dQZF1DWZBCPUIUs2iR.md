@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,863 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,668 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 80 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
 | 81 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
 | 82 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
-| 83 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
-| 84 | [When I Call Your Name](https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When I Call Your Name](https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK) | 4:15 |
+| 83 | [When I Call Your Name](https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When I Call Your Name](https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK) | 4:15 |
+| 84 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
 | 85 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 86 | [Mind Your Own Business](https://open.spotify.com/track/4raGevWiW8i1gactXulebp) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [A Country Boy Can Survive \(Box Set\)](https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm) | 2:28 |
 | 87 | [Fightin Side Of Me](https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi) | 2:54 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 92 | [Lost In The Fifties Tonight](https://open.spotify.com/track/1p7hfw8melMsCbaaX36C0v) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Lost In The Fifties Tonight](https://open.spotify.com/album/3s9Hu6hCMFAMbRPb93mBaG) | 4:18 |
 | 93 | [Don't Let Our Love Start Slippin' Away](https://open.spotify.com/track/70TsRbycWfabtevnripyRu) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Souvenirs](https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM) | 3:43 |
 | 94 | [Have Mercy](https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 3:23 |
-| 95 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
-| 96 | [Hello Darlin' \- Single Version](https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [The Very Best Of Conway Twitty](https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG) | 2:25 |
+| 95 | [Hello Darlin' \- Single Version](https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [The Very Best Of Conway Twitty](https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG) | 2:25 |
+| 96 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
 | 97 | [Teddy Bear](https://open.spotify.com/track/50hbhWWZ5b36hC6x7dh4bP) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [Teddy Bear](https://open.spotify.com/album/0xxE726J8JTLgjqwvYVOTb) | 4:59 |
 | 98 | [All the Gold In California](https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526) | [Larry Gatlin & The Gatlin Brothers](https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS) | [Straight Ahead \(Expanded Edition\)](https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ) | 2:37 |
 | 99 | [The Good Stuff](https://open.spotify.com/track/1EKiQ1InQXuodp4M1idrng) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 3:19 |
 | 100 | [Black Sheep](https://open.spotify.com/track/5EPQbU0wk70Btiu9onZR48) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [All The People Are Talkin'](https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS) | 2:57 |
 
-Snapshot ID: `MTY2MzIxNDQwMCwwMDAwMDAwMDc4OWU4YjBjNTcwYmI1MDJhMTkzYzUyMjRiOGU4ZDFh`
+Snapshot ID: `MTY2MzIxNDQwMCwwMDAwMDAwMGQzMjVkNGNiNWE5N2RlMzIwZjEzZThjZWU1ZmI5ZTAz`

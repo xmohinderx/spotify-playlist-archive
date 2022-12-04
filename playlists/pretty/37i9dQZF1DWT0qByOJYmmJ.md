@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,068 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,438 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 64 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 65 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
 | 66 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
-| 67 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
-| 68 | [Linda Coincidencia](https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Linda Coincidencia](https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW) | 3:35 |
+| 67 | [Linda Coincidencia](https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Linda Coincidencia](https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW) | 3:35 |
+| 68 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
 | 69 | [Ponte en Mi Lugar](https://open.spotify.com/track/2fpGFJKJlpMPMRVqU1olyV) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ponte en Mi Lugar](https://open.spotify.com/album/4uwXTB8SVFcBTXvfRcY5Pp) | 3:12 |
 | 70 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 |
 | 71 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 80 | [Brillantina](https://open.spotify.com/track/3s8adoST6a6F2X01hA4g2s) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 3:44 |
 
-Snapshot ID: `MTY2Mjc2NjkzOCwwMDAwMDAwMDg2YWEzODVhMjk2OTJiMGI1ZGQxNmI5ZTNlODBiODg3`
+Snapshot ID: `MTY2Mjc2NjkzOCwwMDAwMDAwMGNlZGUwYzI3NmEzYzcxODQ5MzM5YTVlNWZmM2MzZGZj`

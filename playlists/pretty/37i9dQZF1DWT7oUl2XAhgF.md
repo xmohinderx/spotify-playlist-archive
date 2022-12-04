@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,462 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,866 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 40 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 |
 | 41 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
 | 42 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 |
-| 43 | [Do You Wanna Do Nothing with Me?](https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd) | 4:11 |
+| 43 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 |
 | 44 | [Don’t You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 |
-| 45 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 |
+| 45 | [Do You Wanna Do Nothing with Me?](https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd) | 4:11 |
 | 46 | [Fire](https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 |
 | 47 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
 | 48 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 51 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
 | 52 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 53 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 |
-| 54 | [Hear Me](https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l) | [The Buttshakers](https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ) | [Arcadia](https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv) | 2:36 |
-| 55 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
+| 54 | [Envy](https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 4:07 |
+| 55 | [Hear Me](https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l) | [The Buttshakers](https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ) | [Arcadia](https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv) | 2:36 |
 | 56 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
 | 57 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
 | 58 | [Hard Up](https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 4:15 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 64 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
 | 65 | [hey rose](https://open.spotify.com/track/6J4et4u2ECB9AH2QC9B5tg) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 2:55 |
 | 66 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 |
-| 67 | [Black Heart](https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Bury Me](https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb) | 2:54 |
-| 68 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
+| 67 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
+| 68 | [Black Heart](https://open.spotify.com/track/6lTZctflz7IxPbWKXGJVVS) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Bury Me](https://open.spotify.com/album/30t9ltSIwCagrzwMSHHnZb) | 2:54 |
 | 69 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 |
-| 70 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 |
+| 70 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDc2YjgyMzU3NWFlNzdmZDIyMGMwYmQ3ZGRlNDk5MGVl`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDAxZDhjOTdlYzAxZTI1YWY4ZTM3YzkzMTdkZjE3NTg1`

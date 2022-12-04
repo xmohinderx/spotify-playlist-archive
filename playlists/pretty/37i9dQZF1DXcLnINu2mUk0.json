@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 21804,
+  "num_followers": 21866,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDZhYzJhMTlkYmExNzQzMWI3OGQ0YWZkNjA4MWRjMmI3",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDhkODkwODU1Mjg2NzM1NjJmMjBhY2Q0M2Y0MjVmM2Ex",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 241565,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 297737,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 241565,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong - Single Version",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
         "name": "Nada a Esconder",
         "url": "https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong - Single Version",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
+        "name": "Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Leite",
+          "url": "https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Espa\u00e7o",
+      "url": "https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
         "name": "Wine for me",
         "url": "https://open.spotify.com/album/6B9wuurKE6Y6PTNRmzzGvk"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 210237,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/6pK1CAuGhitqP65KqoH2XA"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "Mar\u00eda\u2661",
-        "url": "https://open.spotify.com/album/28moMVQvQVXvCCrBCDH3cK"
-      },
-      "artists": [
-        {
-          "name": "Arthyy",
-          "url": "https://open.spotify.com/artist/78W2GovFrkUXeFlIkmEHhs"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Mar\u00eda\u2661",
-      "url": "https://open.spotify.com/track/737sa9JwA5YmswwNYcJXAE"
     }
   ],
   "unique_name": "Seda",

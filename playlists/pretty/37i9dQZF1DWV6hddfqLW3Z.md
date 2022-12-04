@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,220 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,590 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 55 | [Eu sei que vou te amar](https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 3:49 |
 | 56 | [Pra Melhorar](https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Pra Melhorar](https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv) | 4:16 |
 | 57 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
-| 58 | [Travessia \- Spotify Singles](https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Travessia \- Spotify Singles](https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL) | 3:25 |
-| 59 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 3:20 |
-| 60 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
+| 58 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 3:20 |
+| 59 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
+| 60 | [Travessia \- Spotify Singles](https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Travessia \- Spotify Singles](https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL) | 3:25 |
 | 61 | [Flor da Pele](https://open.spotify.com/track/4Y1lcFT9McR3GcLWXdNGPi) | [Rachell Luz](https://open.spotify.com/artist/34DhScarDVDwmG4ieQ6HxN), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Ao Nordeste do Meu Coração](https://open.spotify.com/album/2QbOusxuxYro7NxiaRnSmk) | 3:37 |
 | 62 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 |
 | 63 | [Grão de Amor](https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Saiba](https://open.spotify.com/album/68Yj9neF1g9YG1Joo1noqM) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 | 70 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 |
 
-Snapshot ID: `MTY2OTM0NTIwMCwwMDAwMDAwMDVjM2ExMzc5YWU0YjgyNDEyOTUxZGMxNzNlZWU1OWNj`
+Snapshot ID: `MTY2OTM0NTIwMCwwMDAwMDAwMGFhMmFlY2IzMjY4YzY0NGExODc5MTkyNzA3NGM3YzEz`

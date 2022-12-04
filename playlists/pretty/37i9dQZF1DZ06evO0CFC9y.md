@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,894 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,900 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 18 | [This Celluloid Dream](https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
 | 19 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
 | 20 | [Ever And A Day](https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:06 |
-| 21 | [Begging For Trouble](https://open.spotify.com/track/5JdWKsA1x4DOpn8w25vJHg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 |
+| 21 | [He Who Laughs Last...](https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:50 |
 | 22 | [Miseria Cantare \- The Beginning](https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 2:56 |
-| 23 | [He Who Laughs Last...](https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:50 |
+| 23 | [Begging For Trouble](https://open.spotify.com/track/5JdWKsA1x4DOpn8w25vJHg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 |
 | 24 | [Wester](https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:02 |
 | 25 | [Kill Caustic](https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 2:39 |
 | 26 | [Porphyria](https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [The Prayer Position](https://open.spotify.com/track/6DxOjwql8bm5hGn7WtRnS8) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:27 |
 | 50 | [Still A Stranger](https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:49 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDAyZDU0YjNmN2Q5ODgyN2JkODc1MzYzOTAxZDNhYzk5ZA==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA4ZGM0OWQwMGFjNTYyYWNhNzU0YjYzYTdiMWI4YmNhZA==`

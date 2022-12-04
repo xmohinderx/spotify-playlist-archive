@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: 松浦亜弥
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,022 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,074 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 65 | [Onozomidori](https://open.spotify.com/track/5zylPPIua3ORvZxLudnjzc) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Onozomidori](https://open.spotify.com/album/4gSVJvKLVGJP7cHuQue9qQ) | 3:33 |
 | 66 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
 | 67 | [Take My Chance](https://open.spotify.com/track/2GVX6HsiD6iuODag1DwpDy) | [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [tella](https://open.spotify.com/artist/5M5fYuVOhthE9itACmSFT4), [AOBA](https://open.spotify.com/artist/45fMjdlelpJvuhXpExanRO) | [Their story](https://open.spotify.com/album/3FqK17tq9ABeovAl5LmFw8) | 3:40 |
-| 68 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
+| 68 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 |
 | 69 | [日本ロマンチック街道](https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [日本ロマンチック街道](https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P) | 3:45 |
 | 70 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 |
 | 71 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 74 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 |
 | 75 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
 | 76 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 |
-| 77 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 |
+| 77 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
 | 78 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 |
 | 79 | [アルデバラン](https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [アルデバラン](https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq) | 4:26 |
 | 80 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 83 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
 | 84 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
 | 85 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 |
-| 86 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 |
-| 87 | [Hikare Inochi](https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14) | 5:22 |
+| 86 | [Hikare Inochi](https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14) | 5:22 |
+| 87 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 |
 | 88 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 |
 | 89 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 |
 | 90 | [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 |
 | 91 | [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 |
 | 92 | [ブレス](https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ブレス](https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq) | 4:24 |
 | 93 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 |
-| 94 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 |
-| 95 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
-| 96 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
-| 97 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 |
-| 98 | [花火](https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [花火](https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9) | 4:31 |
+| 94 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
+| 95 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 |
+| 96 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
+| 97 | [花火](https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [花火](https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9) | 4:31 |
+| 98 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 |
 | 99 | [懐かしい未来](https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [懐かしい未来](https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op) | 4:33 |
 | 100 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 |
 
-Snapshot ID: `MTY2OTk2NTg0NywwMDAwMDAwMGRiOTI2MTUwM2U2NjI2ZWZjOGU4MzhkNmZhMzkwZDE0`
+Snapshot ID: `MTY2OTk2NTg0NywwMDAwMDAwMDg3YTM0ZGNiMDQ3OWFjN2RkYzMxNWE0NTg3OGRiMDM5`

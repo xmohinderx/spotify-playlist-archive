@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Yotto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,004,590 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,004,804 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 3 | [idk](https://open.spotify.com/track/1PhKKmyFwhnKVLuNpbOtg7) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Warehouse Summer](https://open.spotify.com/album/0feKW6G3IxAn97JhLUKXdJ) | 3:41 |
 | 4 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 5 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 |
-| 6 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
+| 6 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 7 | [Drifting Away](https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Drifting Away](https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7) | 3:18 |
 | 8 | [Avalanche](https://open.spotify.com/track/3O9dvtdxw1LMIycQDnKkud) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [Avalanche](https://open.spotify.com/album/4tczgxFNxSi7x061uaf322) | 4:21 |
 | 9 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 |
 | 75 | [Power](https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Mario Reyes](https://open.spotify.com/artist/0MNovidyopz59Kcu16ot3v) | [Power](https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO) | 7:49 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDUyNDc1MmIzMjNjM2EwMmFmNDZhMTEzNmZhNDUxZjJh`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDJkZDMwZjM3YTlhYjc1MTY2OTU5ZTU4YjdiOGM0ZGI3`

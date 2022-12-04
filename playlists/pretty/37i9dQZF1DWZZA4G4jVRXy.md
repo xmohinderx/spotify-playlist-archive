@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,557 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,611 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,18 +32,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 22 | [Coffee Bean / Calabash Annie](https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Soul Of The Drums](https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0) | 2:15 |
 | 23 | [I Kona](https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp) | 3:35 |
 | 24 | [Nani Wale Ka Lau Oliva](https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU) | [Benitez, Darren](https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI) | [Dear Mama](https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn) | 5:07 |
-| 25 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
-| 26 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
+| 25 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
+| 26 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
 | 27 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 |
 | 28 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |
 | 29 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
 | 30 | [Kawohikukupulani](https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg) | 2:26 |
 | 31 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
 | 32 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
-| 33 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
-| 34 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
-| 35 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
-| 36 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
+| 33 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
+| 34 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
+| 35 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
+| 36 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
 | 37 | [Uilani / Baby Kalae](https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1) | [Maunalua](https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS) | [Maunalua](https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I) | 5:24 |
 | 38 | [Aquellos Ojos Verdes](https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu) | [Al Romero And His Orchestra](https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0) | [Vintage Jazz Nº 32 \- EPs Collectors "Aquellos Ojos Verdes"](https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs) | 2:42 |
 | 39 | [Head Hunter](https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1) | [Don Ralke](https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3) | [The Savage And The Sensuous Bongos](https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8) | 3:03 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MTY0ODYwNDc3OCwwMDAwMDAwMDQxMjIzMjhlZDgyNzdkYjA2YjljYTYwYjU2ODUxNGUz`
+Snapshot ID: `MTY0ODYwNDc3OCwwMDAwMDAwMGI2OTZmMjg5NjQxYWNmY2Q3ZjhjZGJjNjQ4MzY4OGE2`

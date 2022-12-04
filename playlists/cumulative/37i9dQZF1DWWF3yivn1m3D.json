@@ -103,10 +103,36 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 265373,
       "name": "Big Blue",
       "url": "https://open.spotify.com/track/1eyWrDLSbq52nOTF1cTwbH"
+    },
+    {
+      "album": {
+        "name": "Blue Planet II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6fdRTUQDoCXqOjhkVU7NuE"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265373,
+      "name": "Big Blue",
+      "url": "https://open.spotify.com/track/6UrNUfys0o9Z1FvaGaQK0g"
     },
     {
       "album": {
@@ -1527,10 +1553,36 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 271266,
       "name": "Planet Earth II Suite",
       "url": "https://open.spotify.com/track/0PnLxRZKlGsla3Mbg7xMOd"
+    },
+    {
+      "album": {
+        "name": "Planet Earth II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0DuJfDsORVE5T5jaQkKIzL"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Jasha Klebe",
+          "url": "https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "Planet Earth II Suite",
+      "url": "https://open.spotify.com/track/1P2QPnAPlrRnldot0wIE6E"
     },
     {
       "album": {
@@ -1895,7 +1947,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 301776,
       "name": "Seven Worlds One Planet Suite",
       "url": "https://open.spotify.com/track/3CEHKMxKKGOqeiYFtDVN1a"
@@ -1921,6 +1973,28 @@
       "duration_ms": 301776,
       "name": "Seven Worlds One Planet Suite",
       "url": "https://open.spotify.com/track/3wUAu4Ym2RbF07uHmt9z0O"
+    },
+    {
+      "album": {
+        "name": "Seven Worlds One Planet (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2KTONzFGV20JddBJYTsMyR"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301776,
+      "name": "Seven Worlds One Planet Suite",
+      "url": "https://open.spotify.com/track/5lQVNs4bllulBximHUQL5K"
     },
     {
       "album": {

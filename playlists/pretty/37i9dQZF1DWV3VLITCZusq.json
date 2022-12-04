@@ -1,12 +1,12 @@
 {
   "description": "A pop rock running mix.",
-  "num_followers": 167379,
+  "num_followers": 167562,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMGQ1ZjhjMDk1NmYxNjkwOWI1ZTkzNDE5ZTVhM2ExMTlm",
+  "snapshot_id": "MTY2NTA0ODYwMSwwMDAwMDAwMGViY2UxOGMyYmRhMWQwZGNlYTcyYWI3NThkMjgxODJl",
   "tracks": [
     {
       "added_at": "2022-08-12 10:55:26",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
     },
     {
-      "added_at": "2022-12-03 00:59:52",
+      "added_at": "2022-12-04 01:02:54",
       "album": {
         "name": "5SOS5",
         "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"
     },
     {
-      "added_at": "2022-12-03 00:59:52",
-      "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215163,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
-    },
-    {
       "added_at": "2022-08-12 10:55:26",
       "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
@@ -639,6 +623,22 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+    },
+    {
+      "added_at": "2022-12-04 01:02:54",
+      "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
     },
     {
       "added_at": "2022-08-12 10:55:26",

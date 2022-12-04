@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,928 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,009 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 20 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 |
 | 21 | [Hate To See You Go](https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:16 |
 | 22 | [I've Got Love If You Want It](https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:46 |
-| 23 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Plays The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
-| 24 | [662](https://open.spotify.com/track/2JHVfdnXq3ITx5RxzjM2qf) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:17 |
+| 23 | [662](https://open.spotify.com/track/2JHVfdnXq3ITx5RxzjM2qf) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:17 |
+| 24 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Plays The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
 | 25 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 |
 | 26 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 27 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 47 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
 | 48 | [Movin' On](https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Movin' On](https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6) | 3:47 |
 | 49 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 |
-| 50 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
+| 50 | [Mustang Sally](https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Very Best of Wilson Pickett](https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH) | 3:07 |
 
-Snapshot ID: `MTY2OTk5MDQ5NiwwMDAwMDAwMDUxYWMwMDk4NzcxNzM2MjFjOTAwNmI5NjM0YTQ1NTdm`
+Snapshot ID: `MTY2OTk5MDQ5NiwwMDAwMDAwMDEzNTY4YzcxNmVjODVhNjZmYzhlYmU0Y2Y5NTZlNWI2`

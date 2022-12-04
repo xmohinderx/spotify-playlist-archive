@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,353 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,410 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 | 22 | [Castlevania](https://open.spotify.com/track/664qR3uQQOlRVIr2bTzJQz) | [Michiru Yamane](https://open.spotify.com/artist/6yHzqH70UbRHmoTOcEBmRz), [Jun Irie](https://open.spotify.com/artist/5JqskDaiPYXK7suG5avAiC), [Play! Orchestra](https://open.spotify.com/artist/0GYcXLXJH56tMNErPW6Wfg) | [Castlevania](https://open.spotify.com/album/4RSVZeOGgBwv3z0l7lHpIT) | 6:50 |
 | 23 | [John And Savannah](https://open.spotify.com/track/3UJmWWBnOPyMzsmXugVRPu) | [Deborah Lurie](https://open.spotify.com/artist/0zU7G01YKSZImwBPRU9ObN) | [Dear John](https://open.spotify.com/album/48u6FkQwWas69dN2iOJbmG) | 1:55 |
 | 24 | [Regarding Susan Sontag](https://open.spotify.com/track/0SSEbFWpjjdwjAZOtWPUEI) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [Regarding Susan Sontag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4sy9Wpj4P89IXHUe4lpncU) | 4:03 |
-| 25 | [Wolf Hall](https://open.spotify.com/track/2aQDxK7OoNmkDJJPopIAfc) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC) | [Wolf Hall \(Original Television Soundtrack\)](https://open.spotify.com/album/10n1CIxYncAP6kLRma8rbw) | 3:18 |
+| 25 | [Wolf Hall](https://open.spotify.com/track/3W1imaOxeXGVsGgqAz62tB) | [Debbie Wiseman](https://open.spotify.com/artist/4rUMZjDiYilkBk8vc5WMZC) | [Wolf Hall \(Original Television Soundtrack\)](https://open.spotify.com/album/1EzC0f0vGFJLSECKWg38CG) | 3:18 |
 | 26 | [End Titles](https://open.spotify.com/track/1CxT3WZkSuEAxPOKAPzDDl) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Duchess \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl) | 2:08 |
 | 27 | [My Sanctuary](https://open.spotify.com/track/6d1NPNNXtUPmqdwg8bEGSo) | [Amelia Warner](https://open.spotify.com/artist/1SSl5N7XDvbNT88DomuDmW) | [Mary Shelley \(Original Motion Picture Score\)](https://open.spotify.com/album/4Bu9CTxnEx079i37tGHlXi) | 3:01 |
 | 28 | [Cotillion Invite](https://open.spotify.com/track/6JVo3NZH2EyGusweiswAuh) | [Wendy Melvoin](https://open.spotify.com/artist/23yaIfQozFQPSVO0yLAf2V), [Lisa Coleman](https://open.spotify.com/artist/63hYYCAWq84DG0M4Uj9ccd) | [Something New \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UBk5nPtLDP7CjErDzpZmq) | 1:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 | 50 | [Love Blossoms](https://open.spotify.com/track/1HfTQWEZl6Qynha7AJj3LT) | [Jocelyn Pook](https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06) | [Brick Lane OST](https://open.spotify.com/album/3nNhTbKbh3XhxalMqwUTp7) | 2:44 |
 | 51 | [Closed Roads \- Live](https://open.spotify.com/track/1C8nGDemdf5mTMiXRCv8E3) | [Eleni Karaindrou](https://open.spotify.com/artist/2ojmPypSGMyKaRvknyxKKP), [Kim Kashkashian](https://open.spotify.com/artist/6ZGBjaZJPB8JHVBpHvRrXG), [Camerata, Friends Of Music Orchestra](https://open.spotify.com/artist/4kB7GqlHxTWL4n2w0myL3h), [Alexandros Myrat](https://open.spotify.com/artist/11P5A51PLAT7giMJ8pUTMF) | [Concert In Athens \(Live In Athens / 2010\)](https://open.spotify.com/album/4VOhxBqjCJB8xsWMSOjxhH) | 5:36 |
 
-Snapshot ID: `MTYxNDYwNzQ1MCwwMDAwMDAwMGYxNjMyYjhjNzJlNGM4ZTY5YzFmNTY2MGU0MWJjMTdk`
+Snapshot ID: `MTYxNDYwNzQ1MCwwMDAwMDAwMDI2ZDY0ZjgyYjE1ZmJkY2MxMjQ3MzA3MWVkMjcwOGJi`

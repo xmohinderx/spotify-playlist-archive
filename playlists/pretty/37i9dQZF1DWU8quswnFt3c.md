@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the most streamed tracks from EQUAL Global in 2022, at full volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,687 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,255 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 32 | [Balance](https://open.spotify.com/track/7hMSysDmiuzDmecbl2ba5u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Balance](https://open.spotify.com/album/3VfITgUbE2jcmEPelaejwz) | 2:56 |
 | 33 | [Onde Vais \(feat\. Carminho\)](https://open.spotify.com/track/4xigvdbvlzxJIIZGIg6eGT) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Onde Vais \(feat\. Carminho\)](https://open.spotify.com/album/2qUlkECr3lYwfkWSSTtr16) | 3:58 |
 | 34 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 |
-| 35 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 |
-| 36 | [לך לישון](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לך לישון](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) | 2:38 |
+| 35 | [לך לישון](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לך לישון](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) | 2:38 |
+| 36 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 |
 | 37 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 |
 | 38 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 |
 | 39 | [Not Just A Girl](https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Not Just A Girl \(The Highlights\)](https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS) | 3:11 |
 | 40 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 |
-| 41 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
-| 42 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
+| 41 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
+| 42 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
 | 43 | [Eva+Eva \(feat\. Rose Villain\)](https://open.spotify.com/track/471zaA6Hax2HkKJTfR4yE1) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Eva+Eva \(feat\. Rose Villain\)](https://open.spotify.com/album/7JAbbByzQ8jd8QPXlJlnfX) | 3:09 |
 | 44 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 |
 | 45 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 73 | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz) | 2:33 |
 | 74 | [Au Revoir](https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Au Revoir](https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd) | 4:01 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGNlZWE1NDI2N2RlZmY5OWE3NDE1ZDRkNTAxNjlhMDI1`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGVkN2JiYWYyNmI1M2UzOGMxZjFhNjZhMGIwOWFlY2Zj`

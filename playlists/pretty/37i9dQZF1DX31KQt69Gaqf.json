@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182800,
+  "num_followers": 182803,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDBiNmY4NjFmODRlMDEzYjJjYjc3OWM2ZjJjNjU4Y2Uw",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDM3MTIwMDE5NzRhMDMwMTdkYWNmM2YxMTc5NzI3Mzk4",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -223,6 +223,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "madhouse",
         "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2021-09-24 18:51:29",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -355,22 +371,6 @@
       "duration_ms": 247968,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
-    },
-    {
-      "added_at": "2021-09-24 18:51:29",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Undecided (with Marie Dahlstrom)",
         "url": "https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 176373,
       "name": "Undecided (with Marie Dahlstrom)",
       "url": "https://open.spotify.com/track/1TyStc858QNwSpXtDdxSly"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -783,26 +783,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Secret Life (feat. Lana Del Rey)",
-        "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Secret Life (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Secret Life (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Secret Life (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
-      },
-      "artists": [
-        {
-          "name": "Jade Emperor",
-          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Freckle Season",
         "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 166413,
       "name": "Oh GOD",
       "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
+      },
+      "artists": [
+        {
+          "name": "Jade Emperor",
+          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 174166,
       "name": "Gladstone",
       "url": "https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo"
+        "name": "Andy",
+        "url": "https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO"
       },
       "artists": [
         {
-          "name": "Lo",
-          "url": "https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO"
+          "name": "Raleigh Ritchie",
+          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
         }
       ],
-      "duration_ms": 217792,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo"
+      "duration_ms": 212626,
+      "name": "Party Fear",
+      "url": "https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4"
     },
     {
       "added_at": "2021-09-24 18:51:29",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Andy",
-        "url": "https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo"
       },
       "artists": [
         {
-          "name": "Raleigh Ritchie",
-          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
+          "name": "Lo",
+          "url": "https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO"
         }
       ],
-      "duration_ms": 212626,
-      "name": "Party Fear",
-      "url": "https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4"
+      "duration_ms": 217792,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo"
     },
     {
       "added_at": "2021-08-12 14:57:38",

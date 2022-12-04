@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing water sounds.
 
-210 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
+211 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3orUpWmUP8XdWYQVEuyTH3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Peaceful Ocean Swell](https://open.spotify.com/track/3I6D33n2ZnmwoTipzfEwsS) | [Luxury Waves Secret Sounds](https://open.spotify.com/artist/12M6hon2b8Y4MFMX56nUK3) | [Luxury Ocean Sounds Vol\. 1](https://open.spotify.com/album/5CgEMFNlqJ0jdzhevzK96F) | 2:27 | 2021-11-11 |  |
 | [Peaceful Ocean Swell](https://open.spotify.com/track/5CEjQkKaqViM0jPnG8DJZW) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:55 | 2021-11-11 |  |
 | [Pebbles](https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp) | [Yin Elements](https://open.spotify.com/artist/1WK6PTezwqF9ckYPdy8jwU) | [Off the Deep Ends](https://open.spotify.com/album/35JLEKkJ13mL1VuBQVQboc) | 4:15 | 2021-11-11 |  |
-| [Private Beach](https://open.spotify.com/track/6g1xE17djSI1Frb3n9VRif) | [Ocean Sounds Plus](https://open.spotify.com/artist/5egi8NfM9HG9Zp7vaHvkdL) | [Ocean Sounds Plus](https://open.spotify.com/album/2GtXxCESzfoyvwWcC7kKyl) | 2:39 | 2021-11-11 |  |
+| [Private Beach](https://open.spotify.com/track/6g1xE17djSI1Frb3n9VRif) | [Ocean Sounds Plus](https://open.spotify.com/artist/5egi8NfM9HG9Zp7vaHvkdL) | [Ocean Sounds Plus](https://open.spotify.com/album/2GtXxCESzfoyvwWcC7kKyl) | 2:39 | 2021-11-11 | 2022-12-04 |
 | [Relaxing Morning Waves](https://open.spotify.com/track/55FrxMLd1O3tDQZ4xyYKDr) | [Ocean Minds](https://open.spotify.com/artist/6D2TJfOVqwpkYM4UTG2Int) | [Relaxing Morning Waves](https://open.spotify.com/album/23CcFm07HEfktHhwNYv0As) | 2:57 | 2021-11-11 |  |
 | [Relaxing Waves](https://open.spotify.com/track/4JEQHMYlsQiOpPK0aSVGXF) | [Relax with Waves](https://open.spotify.com/artist/5LJ7TcljsZptkoXTX0VIv1) | [Relaxing Waves](https://open.spotify.com/album/7l5yqRA3b3J7hcebgmdp9s) | 3:45 | 2021-11-11 |  |
 | [Restful Waves](https://open.spotify.com/track/49PblPGIrPcJbU2Ul9F3U1) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 3:02 | 2021-11-11 |  |
@@ -135,6 +135,7 @@
 | [San Diego Waves](https://open.spotify.com/track/4ljJ5YsllFvel7JjZIs8oQ) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [La Jolla Waves](https://open.spotify.com/album/3H5jbmk8MCrO3qdW3sLJKL) | 3:55 | 2021-11-11 | 2022-10-12 |
 | [Sandy Beach Sounds](https://open.spotify.com/track/1VApDifG2Adn7kAWWMXqT6) | [Sleep Recording Sounds](https://open.spotify.com/artist/4r0X3VjxxLGYO02PmVTF3B) | [Oceanic Waves](https://open.spotify.com/album/1C52yI9myDEvIQlHT8sv7s) | 3:22 | 2021-11-11 |  |
 | [Santa Monica Beach Waves](https://open.spotify.com/track/6tk4FeBQbOTJ2DT3VB509w) | [Pacific Ocean Wave Sounds](https://open.spotify.com/artist/5xS7pgxPJgT5afkIppVezB) | [Volume 1](https://open.spotify.com/album/3RSVUGZJ3Zc0iEKZG5mvf9) | 3:10 | 2021-11-11 |  |
+| [Santa Teresa \(Ocean\)](https://open.spotify.com/track/5cxdMghnuN2EpTpeJ1v6Qm) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:34 | 2022-11-16 |  |
 | [Sea Foam](https://open.spotify.com/track/64jtkwpckVDG9StUHwN8Wx) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Private Beach Wave Sounds](https://open.spotify.com/album/32DqIRyDehbR8cLyWFilgg) | 3:08 | 2021-11-11 | 2022-10-12 |
 | [Sea Waves](https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ) | [Relaxation Makers](https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF) | [Relaxation Makers](https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl) | 3:57 | 2021-11-11 |  |
 | [September Waves](https://open.spotify.com/track/3nsILhUrRMn7N2Ywfo3rkj) | [Ocean Nights](https://open.spotify.com/artist/7JqBVMtVSDBnbLDnzJC9N8) | [Soothing Ocean Waves](https://open.spotify.com/album/6TnGaEvEH21v6glgB7X467) | 2:53 | 2021-11-11 |  |

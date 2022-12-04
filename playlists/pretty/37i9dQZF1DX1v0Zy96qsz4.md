@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,443 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 23 | [Superstition](https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 4:26 |
 | 24 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 |
 | 25 | [99 Problems](https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 3:54 |
-| 26 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
-| 27 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
+| 26 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
+| 27 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
 | 28 | [Check the Rhime](https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 3:36 |
 | 29 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
 | 30 | [Bitch, Don’t Kill My Vibe \- Remix](https://open.spotify.com/track/7ALEBJ8LOQqXVJ2tqnXtoH) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 49 | [Right Here](https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
 | 50 | [MOOD 4 EVA \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:32 |
 
-Snapshot ID: `MTY2NDY3NjMxOSwwMDAwMDAwMDU2ZTg3MDZkNDdiZDAzNTE0YjJlNjBmOTA5YTJiMTMy`
+Snapshot ID: `MTY2NDY3NjMxOSwwMDAwMDAwMGJhYzI1ZTgwYTU3ZDA1NWQxN2Q2MDNiOWNhMmY5ZDdl`

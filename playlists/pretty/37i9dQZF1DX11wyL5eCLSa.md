@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Kevin Kaarl en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,591 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,663 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 3 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
 | 4 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
 | 5 | [Tóxico](https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tóxico](https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl) | 3:49 |
-| 6 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
+| 6 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
 | 7 | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO) | 4:34 |
-| 8 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
+| 8 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 9 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 |
 | 10 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
 | 11 | [Pendejo](https://open.spotify.com/track/3PG2vYXGQuBZhTTdvtwxdj) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Pendejo](https://open.spotify.com/album/77yiQPiK9LOQtP4cUzb0sY) | 3:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 45 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 |
 | 46 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
 | 47 | [El Duelo](https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [El Duelo](https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu) | 4:17 |
-| 48 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
-| 49 | [Pasiflorine](https://open.spotify.com/track/2dGLgeorhk8f54PSm9xPLH) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Borregos En La Niebla](https://open.spotify.com/album/4dRYCUjEYplBppMnnITj2I) | 4:09 |
+| 48 | [Pasiflorine](https://open.spotify.com/track/2dGLgeorhk8f54PSm9xPLH) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Borregos En La Niebla](https://open.spotify.com/album/4dRYCUjEYplBppMnnITj2I) | 4:09 |
+| 49 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
 | 50 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 |
 | 51 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 |
 | 52 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 74 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
 | 75 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 |
 
-Snapshot ID: `MTY2OTM1NjAwMCwwMDAwMDAwMDZlN2Q1NzQ4ZDI4ODM2YjA0MjRjMmRlY2ZjY2U4ZGY2`
+Snapshot ID: `MTY2OTM1NjAwMCwwMDAwMDAwMDE3ZGYyYWM4ZTZmOGJjYWM1NDRlNmUyNWUyNjhlNTgw`

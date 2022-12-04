@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>我想夢見你 可你沒回應<br/>別怕我再次經歷分離<br/>我想你 就看看鏡子裡的我自己。
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,426 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,447 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 4 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 |
 | 5 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 |
 | 6 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
-| 7 | [嚣张](https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM) | 4:13 |
-| 8 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
+| 7 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
+| 8 | [嚣张](https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM) | 4:13 |
 | 9 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 |
 | 10 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 |
 | 11 | [突然好想你](https://open.spotify.com/track/0IAgufC1FlOg1nZMmRZxRr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後 青春期的詩](https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF) | 4:25 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 29 | [最長的電影](https://open.spotify.com/track/6C9w3NKP7yKqGLBP09iEL4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY) | 3:55 |
 | 30 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 |
 | 31 | [我真的受傷了](https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [學友.熱](https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR) | 3:28 |
-| 32 | [淘汰](https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk) | 4:45 |
+| 32 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 |
 | 33 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
 | 34 | [像魚](https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S) | [王貳浪](https://open.spotify.com/artist/6jNRSV0cd0kL5Tfz6JPxZA) | [像魚](https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v) | 4:45 |
 | 35 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 39 | [Love U U](https://open.spotify.com/track/16o2AmA4xxtE3vMGl3zi0W) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [學不會](https://open.spotify.com/album/1hTBgTLTxoaK9TJ8YmnYU5) | 3:39 |
 | 40 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
 | 41 | [我以為](https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [愛到無可救藥](https://open.spotify.com/album/6dE7rz16SWXc6FU5C5pI5m) | 4:58 |
-| 42 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 |
+| 42 | [淘汰](https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk) | 4:45 |
 | 43 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
 | 44 | [剛剛好](https://open.spotify.com/track/3urogUGoBidulMDDoucJBB) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:10 |
 | 45 | [太委屈](https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [愛缺](https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r) | 4:51 |
-| 46 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
-| 47 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
+| 46 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
+| 47 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
 | 48 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 49 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
 | 50 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 |
 
-Snapshot ID: `MTY2NzQ3MTc3NiwwMDAwMDAwMDA3Mjk5NDQzYzMzZGNjMjJhMTQ2YzQ0NmY1MmVkNTBk`
+Snapshot ID: `MTY2NzQ3MTc3NiwwMDAwMDAwMDlhMGVmN2ZiYmRlMmVlNjI3ODNmOTNkYWRjYzBjOWQz`

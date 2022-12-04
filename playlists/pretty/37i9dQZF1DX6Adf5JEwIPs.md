@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Victor Cibrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,029 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,051 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 40 | [Ningún Pero](https://open.spotify.com/track/34drpn3wwgOnotfh6BHxEb) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ningún Pero](https://open.spotify.com/album/3K5b9SrlpBbPE55TARnzOH) | 3:09 |
 | 41 | [Hoy Voy A Ponerme Pedo](https://open.spotify.com/track/3RQm9PrP6lw5xGOzpER6QH) | [Banda La Fugitiva De Mike Miramontes](https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J) | [De Mi Puño Y Letra](https://open.spotify.com/album/68Y56CJ9RdR7RQuEGdefqA) | 2:58 |
 | 42 | [Así o Más Claro](https://open.spotify.com/track/40V0xBxz1XpFeLJ1ydL45o) | [La Fuerza Del Rio Conchos](https://open.spotify.com/artist/2LVTPteFX5eBb9Me5M6hOc) | [Así o Más Claro](https://open.spotify.com/album/64D45KTNfwECrgPQ0EZkIl) | 2:27 |
-| 43 | [Invierto Sin Ti](https://open.spotify.com/track/7gpm5EF806HtJyTrusxG4q) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Invierno Sin Ti](https://open.spotify.com/album/0zXZv5HGPVNzGkXsmsv2e8) | 2:38 |
+| 43 | [Invierno Sin Ti](https://open.spotify.com/track/7gpm5EF806HtJyTrusxG4q) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Invierno Sin Ti](https://open.spotify.com/album/0zXZv5HGPVNzGkXsmsv2e8) | 2:38 |
 | 44 | [En Diciembre No Se Llora](https://open.spotify.com/track/12Ud1OO05XKPxplfanjXAV) | [Grupo Los Caballeros](https://open.spotify.com/artist/5Nyw7PGLzZg1zOMUgstdWI) | [En Diciembre No Se Llora](https://open.spotify.com/album/1wzu7Xepipr8mUFY7ypH3F) | 3:34 |
 | 45 | [El Zarco](https://open.spotify.com/track/68fOaOvXciQ8wx8qV7S2K9) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW) | [Corridos de Caballos Vol\. 1](https://open.spotify.com/album/4sgrFe0nncNtWmcJOPgtO5) | 3:27 |
 | 46 | [Ahora Va La Mía](https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 2:44 |

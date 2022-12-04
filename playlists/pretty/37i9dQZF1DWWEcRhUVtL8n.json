@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Rachel Chinouriri",
-  "num_followers": 1696041,
+  "num_followers": 1696461,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMDMzMSwwMDAwMDAwMDQ5Y2IwZDU3NWZlZjk4NzFjZjA1NTI3NWFlMjhkN2Q0",
+  "snapshot_id": "MTY2OTkxMDMzMSwwMDAwMDAwMGVkMjc3ZTQwNzU1NmQ4MDk2MDUwYWJlZGYxZGQ2MDk4",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 232796,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -667,6 +667,22 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -691,22 +707,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Cognitive Dissonance",
         "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/7m1b79R5MjeWFZbfu6hgIT"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 176480,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/1e8OoeGOa2VbOqrBhYDliJ"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -815,6 +815,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -943,22 +959,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 258319,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Hypotheticals",
         "url": "https://open.spotify.com/album/0uhu6Qrq4NPI9fI8iO4D6c"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 228691,
       "name": "Hypotheticals",
       "url": "https://open.spotify.com/track/3JenOF4HdWxBhP2HrOPii4"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 258319,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Problem Song",
-        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "The Problem Song",
-      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
@@ -1055,38 +1071,6 @@
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Ruin My Life",
-        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1107,22 +1091,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Talk to You (remixes)",
         "url": "https://open.spotify.com/album/2PiDg6FYdpPMPFZFP9y51H"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 214724,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/2xi7ZaCjI9UPek4MpWabZ6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/6esHeLToAEKkGVkjTbmd1i"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 170488,
       "name": "slow down",
       "url": "https://open.spotify.com/track/2IKix80lBA5ppm6096p5U7"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2022-11-11 05:00:00",

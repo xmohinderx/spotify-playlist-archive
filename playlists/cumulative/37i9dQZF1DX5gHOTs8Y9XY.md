@@ -4,7 +4,7 @@
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-136 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
+137 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6turhzq7wb2AQ4gmSzxhcu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fly Me To The Moon](https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:27 | 2022-01-20 |  |
 | [Four Brothers](https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 2:27 | 2022-01-20 | 2022-11-12 |
 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA) | 9:46 | 2022-01-20 |  |
-| [Georgia On My Mind](https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa Brewer And The Dixieland Band](https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla) | 3:45 | 2022-01-20 |  |
+| [Georgia On My Mind](https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa Brewer And The Dixieland Band](https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla) | 3:45 | 2022-01-20 | 2022-12-04 |
+| [Have You Met Miss Jones?](https://open.spotify.com/track/1EI2LEt7o54SZhbxCJYrms) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Volume: Oscar Peterson](https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ) | 4:10 | 2022-11-23 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 4:10 | 2022-10-05 | 2022-11-19 |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/6916T4FnaJvcmGl9PDbbz7) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 4:10 | 2022-06-22 | 2022-11-13 |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/2Ob1A4itFyJWUa6fpwqAOs) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 4:13 | 2022-01-20 | 2022-07-29 |

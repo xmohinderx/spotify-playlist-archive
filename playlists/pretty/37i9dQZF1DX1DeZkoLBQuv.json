@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 3797,
+  "num_followers": 3879,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NzMwMSwwMDAwMDAwMDAwZjk2MzlmMjJhNzY3MDA4OGU3MTlkNWE0ZjY0ZjM5",
+  "snapshot_id": "MTY2OTM0NzMwMSwwMDAwMDAwMGQzZDNjMDBmYWU2ZTEyNDQ0ZTVmZmI3OTRkZjkxODEw",
   "tracks": [
     {
       "added_at": "2022-11-25 03:35:01",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "Louvor VII",
-        "url": "https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX"
-      },
-      "artists": [
-        {
-          "name": "Vencedores por Cristo",
-          "url": "https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Brilha, Jesus (Shine, Jesus, Shine)",
-      "url": "https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP"
-    },
-    {
-      "added_at": "2022-11-25 03:35:01",
-      "album": {
         "name": "\u00d3 Noite Santa",
         "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
       },
@@ -363,18 +347,38 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "Natal em Fam\u00edlia",
-        "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
+        "name": "Louvor VII",
+        "url": "https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX"
       },
       "artists": [
         {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+          "name": "Vencedores por Cristo",
+          "url": "https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT"
         }
       ],
-      "duration_ms": 287499,
-      "name": "Natal em Fam\u00edlia",
-      "url": "https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8"
+      "duration_ms": 234360,
+      "name": "Brilha, Jesus (Shine, Jesus, Shine)",
+      "url": "https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP"
+    },
+    {
+      "added_at": "2022-11-25 03:35:01",
+      "album": {
+        "name": "Gl\u00f3ria a Deus nas Alturas",
+        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+      },
+      "artists": [
+        {
+          "name": "Laura Morena",
+          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
+        },
+        {
+          "name": "Sullivan Dutra",
+          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+        }
+      ],
+      "duration_ms": 242192,
+      "name": "Gl\u00f3ria a Deus nas Alturas",
+      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
     },
     {
       "added_at": "2022-11-25 03:35:01",
@@ -411,22 +415,18 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "Gl\u00f3ria a Deus nas Alturas",
-        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+        "name": "Natal em Fam\u00edlia",
+        "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
       },
       "artists": [
         {
-          "name": "Laura Morena",
-          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
-        },
-        {
-          "name": "Sullivan Dutra",
-          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
         }
       ],
-      "duration_ms": 242192,
-      "name": "Gl\u00f3ria a Deus nas Alturas",
-      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
+      "duration_ms": 287499,
+      "name": "Natal em Fam\u00edlia",
+      "url": "https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8"
     },
     {
       "added_at": "2022-11-25 03:35:01",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Nasce Jesus",
+      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+    },
+    {
+      "added_at": "2022-11-25 03:35:01",
+      "album": {
         "name": "Cl\u00e1ssicos",
         "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
       },
@@ -595,18 +611,22 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+        "name": "\u00d3, Vinde, Adoremos",
+        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
         }
       ],
-      "duration_ms": 219920,
-      "name": "Nasce Jesus",
-      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+      "duration_ms": 195000,
+      "name": "\u00d3, Vinde, Adoremos",
+      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2022-11-25 03:35:01",
@@ -647,22 +667,18 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "\u00d3, Vinde, Adoremos",
-        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
       "artists": [
         {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 195000,
-      "name": "\u00d3, Vinde, Adoremos",
-      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
+      "duration_ms": 211466,
+      "name": "Primeiro Natal (The First Noel)",
+      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
     },
     {
       "added_at": "2022-11-25 03:35:01",
@@ -679,22 +695,6 @@
       "duration_ms": 258054,
       "name": "Filho de Deus Amigo Meu",
       "url": "https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ"
-    },
-    {
-      "added_at": "2022-11-25 03:35:01",
-      "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Primeiro Natal (The First Noel)",
-      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
     },
     {
       "added_at": "2022-11-25 03:35:01",
@@ -751,18 +751,38 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "Deus Emanuel",
-        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
+        "name": "Nasceu o Redentor",
+        "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
       },
       "artists": [
         {
-          "name": "Adora\u00e7\u00e3o Central",
-          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
         }
       ],
-      "duration_ms": 313652,
-      "name": "Deus Emanuel",
-      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
+      "duration_ms": 324820,
+      "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
+      "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
+    },
+    {
+      "added_at": "2022-11-25 03:35:01",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Noite Feliz (Stille Nacht)",
+      "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
     },
     {
       "added_at": "2022-11-25 03:35:01",
@@ -783,18 +803,18 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+        "name": "Deus Emanuel",
+        "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
       },
       "artists": [
         {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+          "name": "Adora\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4"
         }
       ],
-      "duration_ms": 284200,
-      "name": "Noite Feliz (Stille Nacht)",
-      "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
+      "duration_ms": 313652,
+      "name": "Deus Emanuel",
+      "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
     },
     {
       "added_at": "2022-11-25 03:35:01",
@@ -823,26 +843,6 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "Nasceu o Redentor",
-        "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 324820,
-      "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
-      "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
-    },
-    {
-      "added_at": "2022-11-25 03:35:01",
-      "album": {
         "name": "Noite de Paz",
         "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-25 03:35:01",
       "album": {
-        "name": "Melhores Aline Barros",
-        "url": "https://open.spotify.com/album/5vIVtdrGrNf7SxocqDuPui"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Ao \u00danico",
-      "url": "https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i"
-    },
-    {
-      "added_at": "2022-11-25 03:35:01",
-      "album": {
         "name": "Feliz Natal",
         "url": "https://open.spotify.com/album/7vTIzjCHpHEVlRVpv4ZFhm"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 198228,
       "name": "Feliz Natal",
       "url": "https://open.spotify.com/track/5gYzSC8RstOKVyM6HHgVKA"
+    },
+    {
+      "added_at": "2022-11-25 03:35:01",
+      "album": {
+        "name": "Melhores Aline Barros",
+        "url": "https://open.spotify.com/album/5vIVtdrGrNf7SxocqDuPui"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i"
     }
   ],
   "unique_name": "Louvores de Natal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,955 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,985 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 40 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 |
 | 41 | [Voiceless](https://open.spotify.com/track/7nN1LUAJUDuGJyDawcok6v) | [Funny Factures](https://open.spotify.com/artist/38mbcqDg0k0gQcoQNCUJYx), [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [Voiceless](https://open.spotify.com/album/3dic6PtEjCZw5vDunj1fgY) | 3:21 |
 | 42 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
-| 43 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
-| 44 | [Si Yo Me Muero](https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Si Yo Me Muero](https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH) | 3:21 |
+| 43 | [Si Yo Me Muero](https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Si Yo Me Muero](https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH) | 3:21 |
+| 44 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 45 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
 | 46 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
 | 47 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
 | 60 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
 
-Snapshot ID: `MTY2OTkwNjgwMCwwMDAwMDAwMDNiMTg5YTNlMDZlZmU4Y2FjOGRhYzMwZmJlYzdjNjhj`
+Snapshot ID: `MTY2OTkwNjgwMCwwMDAwMDAwMGEyODdjMTllZmE3MjAyNzBiMmZhMGE2MWU4MTUyYTg3`

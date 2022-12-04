@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: skaiwater.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,382 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,500 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,14 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 77 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
 | 78 | [Back It Up](https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [I Said It's Lilman](https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H) | 2:36 |
 | 79 | [Shake Dat](https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3) | [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx) | [Shake Dhat](https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL) | 0:56 |
-| 80 | [All Night](https://open.spotify.com/track/3ZWDMpOPLbFgqLjMzCtX6U) | [Beatdemons](https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [All Night](https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J) | 3:00 |
-| 81 | [Jimmy Crooks](https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3) | [Tricks](https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT) | [Jimmy Crooks](https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG) | 2:25 |
-| 82 | [My Heart Freestyle](https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q) | [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW) | [My Heart Freestyle](https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp) | 2:27 |
-| 83 | [Beautiful Lies \(Jersey Club Remix\)](https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Don't Say I Didn't Warn You \(Jersey Club Remixes\)](https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a) | 1:55 |
+| 80 | [Jimmy Crooks](https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3) | [Tricks](https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT) | [Jimmy Crooks](https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG) | 2:25 |
+| 81 | [All Night](https://open.spotify.com/track/3ZWDMpOPLbFgqLjMzCtX6U) | [Beatdemons](https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [All Night](https://open.spotify.com/album/5b3LuycxkwePie0mdQ5G0J) | 3:00 |
+| 82 | [Beautiful Lies \(Jersey Club Remix\)](https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Don't Say I Didn't Warn You \(Jersey Club Remixes\)](https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a) | 1:55 |
+| 83 | [My Heart Freestyle](https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q) | [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW) | [My Heart Freestyle](https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp) | 2:27 |
 | 84 | [My Boo \(Running Man Challenge\)](https://open.spotify.com/track/5bF0IsOH5bHZh1hSKkJtwU) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [My Boo \(Running Man Challenge\)](https://open.spotify.com/album/3Oo8LIqO7sN4tnTt2msL6r) | 1:57 |
 | 85 | [POP](https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr) | [BR33ZY](https://open.spotify.com/artist/2UXvoavIi2SaWRY7A1vgcq) | [Pop](https://open.spotify.com/album/5ejDnrOQ5Yb8qZhxrn5nBx) | 2:19 |
-| 86 | [Hey DJ](https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Hey DJ](https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0) | 2:20 |
-| 87 | [Free Me](https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK) | [YK ACE](https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx) | [Jersey Vs The World](https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP) | 2:50 |
+| 86 | [Free Me](https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK) | [YK ACE](https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx) | [Jersey Vs The World](https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP) | 2:50 |
+| 87 | [Hey DJ](https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Hey DJ](https://open.spotify.com/album/0JQimmEMl5bl3Na6oyrOi0) | 2:20 |
 | 88 | [SLIME PROTOCOL](https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr) | [Koi the Alchemist](https://open.spotify.com/artist/4QaIOY2A21dfP0E6UN5Y7A), [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW) | [SLIME PROTOCOL](https://open.spotify.com/album/7HEIOXw6lP2GKuJnYxQvgb) | 2:29 |
 | 89 | [Crowd Pleaser](https://open.spotify.com/track/0BkkC24F3nWKAS2NyHYsME) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc), [Vianna](https://open.spotify.com/artist/1BpHYjBTqv7eRxSnpV2D6S) | [So Far So Good \(Deluxe\)](https://open.spotify.com/album/5QPYD8dztySGd1vOQiOoUS) | 2:24 |
 | 90 | [Desire \- Jersey Club Remix](https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Desire \(Jersey Club Remix\)](https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 99 | [Hit Dat Ass \(JERSEY CLUB\)](https://open.spotify.com/track/6sKRoplEWT13gRT0hayL7L) | [DJ Difficult](https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39), [A.B.E](https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R), [Dj Popbang](https://open.spotify.com/artist/2BIIrGzP3w8YM9OhTmcgWy), [Slice ThaHitMaker](https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul) | [Hit Dat Ass \(JERSEY CLUB\)](https://open.spotify.com/album/2LcPtjiQxbFCW0bnJOxRjz) | 4:19 |
 | 100 | [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDU3OTAyYWYzMTk5N2VjZGNkZTdiM2I1NjA2MTEzZGU4`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGVlMDY2OGZiYTQ5ZmQ4OTBhZWVmNGU4ODI2MjI3OWU4`

@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Bonnie Kemplay
 
-1,209 songs - 2 day 23 hr 40 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,210 songs - 2 day 23 hr 47 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Dealer](https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:34 | 2021-10-29 | 2022-03-09 |
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-05-26 | 2022-08-06 |
 | [Death Is the New Sex](https://open.spotify.com/track/3OnVuVQYJZD8SNvdJimSub) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [Death Is the New Sex](https://open.spotify.com/album/5FZZ2na219wUj1SUM0mBZb) | 4:14 | 2020-11-06 | 2021-02-06 |
+| [deathbed hangover](https://open.spotify.com/track/61WMop1HdgbxsneJ2IuTxx) | [Ben Gregory](https://open.spotify.com/artist/5ySqcP3quTUGx0l48NMDGm) | [deathbed hangover](https://open.spotify.com/album/3M3Z8ViaopoH2NvTYZjpPt) | 7:10 | 2022-12-03 |  |
 | [deathbound](https://open.spotify.com/track/75c8IAKvGrKPs4yV8b5EJN) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [deathbound](https://open.spotify.com/album/5muwkbr09PnED5FvxA15bo) | 3:24 | 2021-12-17 | 2022-01-28 |
 | [December \- Magdalena Bay's Simulation Mix](https://open.spotify.com/track/1JBlGEHXGzzw1afWgomNsj) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [December \(Magdalena Bay's Simulation Mix\)](https://open.spotify.com/album/5Q8cegpgDVU941aToOa6uP) | 4:11 | 2020-11-06 | 2021-02-06 |
 | [Deep Down Way Out](https://open.spotify.com/track/5UPXitLeEHQyL5TZRy47uN) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Deep Down Way Out](https://open.spotify.com/album/3wPnYCG0sFiZuJzuAcgHnS) | 2:43 | 2021-08-27 | 2021-10-16 |

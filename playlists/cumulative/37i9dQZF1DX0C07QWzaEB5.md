@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-159 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
+160 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/5TvEGY4L7IQ4l4nYERahnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Initial S](https://open.spotify.com/track/7I8y3zAkJxmQEQTU4YR8pl) | [Sori](https://open.spotify.com/artist/27L28cNkMJsYKs8Xyuhmd9) | [Initial S](https://open.spotify.com/album/0Vi25uxqxAx3Uif4yCFd8l) | 3:03 | 2021-12-07 |  |
 | [Juliana](https://open.spotify.com/track/4l8v79zniK5xgPUWqRrS4O) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [Juliana \(we.MAKE20 \#9\)](https://open.spotify.com/album/2F7LfrbY5o0aNDYCkcyCAg) | 3:26 | 2022-07-04 |  |
 | [Juliana](https://open.spotify.com/track/6GONQZLIT7Iqe7DWrRXHTx) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [Juliana \(we.MAKE20 \#9\)](https://open.spotify.com/album/34NHZonxGm6OLWnL7jH54j) | 3:26 | 2021-12-07 | 2022-07-29 |
-| [JUST 4 U…](https://open.spotify.com/track/4wUJrcKgtHG6ya2DQuoGsk) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [JUST 4 U…](https://open.spotify.com/album/4GNHP9aikaKwjS11EiIBaD) | 4:12 | 2022-07-04 |  |
+| [JUST 4 U…](https://open.spotify.com/track/48UxplgQgIdFJVFkMCza7a) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [JUST 4 U…](https://open.spotify.com/album/6nRF22Aks8hXmdHmZ5XrQV) | 4:12 | 2022-10-18 |  |
+| [JUST 4 U…](https://open.spotify.com/track/4wUJrcKgtHG6ya2DQuoGsk) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [JUST 4 U…](https://open.spotify.com/album/4GNHP9aikaKwjS11EiIBaD) | 4:12 | 2022-07-04 | 2022-12-04 |
 | [JUST 4 U…](https://open.spotify.com/track/18VJy6r7Y6e01dX1prwNwx) | [CSVC 치스비치](https://open.spotify.com/artist/3giVZjriL2C3Gn798Eciez) | [JUST 4 U…](https://open.spotify.com/album/4mH1JayZebiJtYlETM1ufS) | 4:12 | 2021-12-07 | 2022-07-29 |
 | [Keep your head up](https://open.spotify.com/track/6Rl98LHjwoqjee8eDGRfNX) | [Lee Dong Hwi](https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46) | [Are you there](https://open.spotify.com/album/4zLJwubaOBT0pHQuvrjLmN) | 3:31 | 2021-12-07 |  |
 | [LA DI DA](https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989) | 3:30 | 2021-12-07 | 2022-07-29 |

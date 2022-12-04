@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,244 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,312 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 67 | [Todo va lento](https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [El Club del Amigo](https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB) | 3:30 |
 | 68 | [Labios Rojos](https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Salvador Moreno](https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:39 |
 | 69 | [Oír Tu Voz](https://open.spotify.com/track/68gi1yEZqkzKJPiUeZe8bI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:34 |
-| 70 | [No Te Olvidé](https://open.spotify.com/track/05oVLw37812S2eoTVetosi) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj), [Banda Bastón](https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:17 |
-| 71 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 |
+| 70 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 |
+| 71 | [No Te Olvidé](https://open.spotify.com/track/05oVLw37812S2eoTVetosi) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj), [Banda Bastón](https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:17 |
 | 72 | [Sólo Vivir](https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub Ska](https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w) | 3:26 |
 | 73 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
 | 74 | [Mi Corazón Encantado](https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Cesar Franco](https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w) | [El Ska No Está en Extinción](https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT) | 3:58 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 81 | [Allá Cayó](https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Plomo Revienta](https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc) | 4:12 |
 | 82 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
 | 83 | [Confesión](https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [King Changó](https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ) | 5:40 |
-| 84 | [Song Bomb](https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:42 |
-| 85 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 84 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 85 | [Song Bomb](https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Super Riddim Internacional Volumen 1](https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r) | 3:42 |
 | 86 | [Solo un Minuto](https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:59 |
 | 87 | [Ste Ska](https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q), [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 2:23 |
 | 88 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Pachuco \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), ["Sax" Maldita Vecindad](https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq) | [Pachuco \(feat\. "Sax" Maldita Vecindad \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC) | 3:56 |
 | 100 | [No Te Calles](https://open.spotify.com/track/1lDVKcpFlMASlz6ysYmINg) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Jungla Ska](https://open.spotify.com/album/6qhfDuhY3DPyeELLp6KFce) | 3:01 |
 
-Snapshot ID: `MTY2NDU1MTk3MiwwMDAwMDAwMGE4YWM5MTk3ZjdhZDQ0OTVjMGQ0NTZjYmNhMDVmODJi`
+Snapshot ID: `MTY2NDU1MTk3MiwwMDAwMDAwMDYzZTk5MzAyMzM1NjZmNTY2YTZkOWNhNzMwNTM1ZjQy`

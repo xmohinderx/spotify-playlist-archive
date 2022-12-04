@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,653 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,975 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 6 | [Insomnia \(Feat\. YAYYOUNG\)](https://open.spotify.com/track/7tr6WuxHOWyWQl0W8YfBtq) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [Yayyoung](https://open.spotify.com/artist/1mefU9eSDsjTwOJK0gn7xZ) | [Dawn Defibrillation, Vol.1](https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7) | 3:30 |
 | 7 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
 | 8 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
-| 9 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
-| 10 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
+| 9 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
+| 10 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
 | 11 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 |
 | 12 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 |
 | 13 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 19 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 |
 | 20 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
 | 21 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
-| 22 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
-| 23 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 |
+| 22 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 |
+| 23 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
 | 24 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
 | 25 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
 | 26 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
 | 50 | [Old Notes](https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX) | [JOGON](https://open.spotify.com/artist/2lrODr1QCehowaCjKFxOZG) | [Old Notes](https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl) | 3:26 |
 
-Snapshot ID: `MTY2OTM0MTk5NSwwMDAwMDAwMDlkNWMyMWUwZjFhMTE4ZDkxOTUwNWMwNjk2Y2FhYjRm`
+Snapshot ID: `MTY2OTM0MTk5NSwwMDAwMDAwMDM4YjRkOGFmNmVkOTk5ZTJkZmU4NTMwOWI4YmMzMTI5`

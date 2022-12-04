@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Los Dorados
 
-246 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/2wigFKrLmiEwF5seFjIof2)
+247 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/2wigFKrLmiEwF5seFjIof2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 | 2022-05-12 |  |
 | [Corazoncito \- Regional Mexican Version](https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 2:21 | 2022-08-26 | 2022-09-09 |
 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 | 2022-07-01 | 2022-09-24 |
+| [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 | 2022-11-24 |  |
 | [Desde Morro](https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Líricas De Oro](https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX) | 2:26 | 2022-09-23 |  |
 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 | 2022-05-12 | 2022-09-24 |
 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:54 | 2022-05-12 |  |
@@ -112,7 +113,7 @@
 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 | 2022-05-12 |  |
 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 | 2022-09-23 |  |
 | [La Estoy Pasando Mal](https://open.spotify.com/track/35aju8GgJmbaMk9zmhNhg4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [La Estoy Pasando Mal](https://open.spotify.com/album/2vaYWR9abky08e59kiZEOF) | 3:34 | 2022-05-12 | 2022-07-29 |
-| [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 | 2022-11-03 |  |
+| [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 | 2022-11-03 | 2022-12-04 |
 | [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 | 2022-11-03 |  |
 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 | 2022-09-23 |  |
 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 | 2022-11-03 |  |

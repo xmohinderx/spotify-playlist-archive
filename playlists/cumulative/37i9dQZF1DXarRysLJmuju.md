@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Photo: Sabrina Carpenter
 
-690 songs - 1 day 11 hr 16 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+691 songs - 1 day 11 hr 20 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,8 +175,9 @@
 | [Eggshells](https://open.spotify.com/track/7wGwYO5EkMa9sakdoNjOhT) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Eggshells](https://open.spotify.com/album/1EBnNmxQlf3CRbYKgCBO0h) | 3:03 | 2022-10-21 |  |
 | [Enemies](https://open.spotify.com/track/1eg0I4UkEhDgaHYxpXXG26) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Manic Party](https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE) | 3:15 | 2022-11-25 |  |
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-10-14 |  |
-| [Escape](https://open.spotify.com/track/6t8oosZU0hFD847n53vinc) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(Remixes\)](https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo) | 4:00 | 2022-11-25 |  |
+| [Escape](https://open.spotify.com/track/6t8oosZU0hFD847n53vinc) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(Remixes\)](https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo) | 4:00 | 2022-11-25 | 2022-12-04 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 | 2022-09-23 | 2022-12-01 |
+| [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 | 2022-12-02 |  |
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-25 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 | 2022-08-26 | 2022-09-17 |
 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 | 2022-02-18 | 2022-03-05 |

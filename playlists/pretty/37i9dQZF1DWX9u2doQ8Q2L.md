@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,813 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,900 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 48 | [Mornin Dew](https://open.spotify.com/track/6IDZpk0zFGk5Gptc8WiaR4) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Marsh Willow](https://open.spotify.com/artist/0peX4zwJwmSYGbCp7xT0eA) | [Mornin Dew](https://open.spotify.com/album/28VeLIJUs9pwdiMeGpTvrZ) | 2:58 |
 | 49 | [Lonely](https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Yonawo House](https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX) | 3:31 |
 | 50 | [Futari](https://open.spotify.com/track/5ULKxARl3sQRa9FjkPn9ey) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [Elephant](https://open.spotify.com/album/4L87Q0OnGLe89dfaY0ddix) | 3:30 |
-| 51 | [DEEP](https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DEEP](https://open.spotify.com/album/6plK6Io4aV3wSY53pZjSW9) | 3:36 |
+| 51 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
 | 52 | [身に起こる](https://open.spotify.com/track/7IXpwQdfEZDjSxw9q0TmuN) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [身に起こる](https://open.spotify.com/album/5e26hFeelIO1spvDIzySth) | 3:52 |
-| 53 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 |
+| 53 | [DEEP](https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DEEP](https://open.spotify.com/album/6plK6Io4aV3wSY53pZjSW9) | 3:36 |
 | 54 | [Wellmade](https://open.spotify.com/track/4c3w3gcinYMP7NiAGr9o30) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Wellmade](https://open.spotify.com/album/3hfhcnGgl5jypAv4eKxkOK) | 4:21 |
 | 55 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 |
 | 56 | [chord](https://open.spotify.com/track/1XyBpaXQaxWZeOqBCmi72A) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [chord](https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE) | 3:36 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 60 | [Stroll](https://open.spotify.com/track/6ROEvtwxMEFIAwZNsQLivQ) | [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [Stroll](https://open.spotify.com/album/6UQ9ur981be1Sa7rxWZl2f) | 4:16 |
 | 61 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 |
 | 62 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 |
-| 63 | [都合](https://open.spotify.com/track/3hEopKpyeGAf9CoaAAU6D8) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [都合](https://open.spotify.com/album/7IZ3zDRZLZQljv701eNySG) | 4:30 |
-| 64 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 |
+| 63 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 |
+| 64 | [都合](https://open.spotify.com/track/3hEopKpyeGAf9CoaAAU6D8) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [都合](https://open.spotify.com/album/7IZ3zDRZLZQljv701eNySG) | 4:30 |
 | 65 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
-| 66 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
-| 67 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 |
+| 66 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 |
+| 67 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
 | 68 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 |
-| 69 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 |
-| 70 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 |
+| 69 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 |
+| 70 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 |
 
-Snapshot ID: `MTY2OTkwNjgwMCwwMDAwMDAwMDUwZGU1OTVmMmRjOTUwOGQ4ZGFhMzhkM2VhZjRiZDI0`
+Snapshot ID: `MTY2OTkwNjgwMCwwMDAwMDAwMDAzYjZjOWQ1NjQyZmI4ZGY2MzIxNGExZDBkZTgyMDRi`

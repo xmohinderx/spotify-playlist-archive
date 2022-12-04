@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,554 likes - 80 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,624 likes - 80 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 60 | [King of Glory](https://open.spotify.com/track/27E4LObyzj6OiszOv221pI) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Greatest Lord](https://open.spotify.com/album/4lBzS3jh7CsoijvRlWhT9r) | 5:40 |
 | 61 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 |
 | 62 | [Your Majesty \- Live](https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ) | [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | [Declaring His Power \(Live\)](https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw) | 5:17 |
-| 63 | [Your Name](https://open.spotify.com/track/50OdYCrgXjemzCDZ110bQn) | [M'ViTim](https://open.spotify.com/artist/5Yfi09XNJW2XCdbFZZhLMO), [GRACELYNE](https://open.spotify.com/artist/2moloLNsTmL1NPphDdgIsS) | [Your Name](https://open.spotify.com/album/2LxSXk05DNpcYZfJzBF1y3) | 8:26 |
-| 64 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
+| 63 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
+| 64 | [Your Name](https://open.spotify.com/track/50OdYCrgXjemzCDZ110bQn) | [M'ViTim](https://open.spotify.com/artist/5Yfi09XNJW2XCdbFZZhLMO), [GRACELYNE](https://open.spotify.com/artist/2moloLNsTmL1NPphDdgIsS) | [Your Name](https://open.spotify.com/album/2LxSXk05DNpcYZfJzBF1y3) | 8:26 |
 | 65 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
 | 66 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 |
 | 67 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 73 | [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 |
 | 74 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 |
 | 75 | [Wade In The Water \- Live](https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Black History Project \(Live from London\)](https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6) | 3:19 |
-| 76 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 |
-| 77 | [Without You](https://open.spotify.com/track/1wPm27SNAr2ogeJPXeAzqB) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 2:30 |
+| 76 | [Without You](https://open.spotify.com/track/1wPm27SNAr2ogeJPXeAzqB) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 2:30 |
+| 77 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 |
 | 78 | [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 |
 | 79 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 |
 | 80 | [Messengers](https://open.spotify.com/track/16QyjYsEnTcPhmpjqTg1Ad) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Messengers](https://open.spotify.com/album/0upBIxCFfX69fL1uB0NhTO) | 4:48 |
 
-Snapshot ID: `MTY2OTM2MjU0NSwwMDAwMDAwMDlkNzQyY2M2OTQ4NzZhMTkwN2UyNjIxMjczZjFiZmJm`
+Snapshot ID: `MTY2OTM2MjU0NSwwMDAwMDAwMGIyYmM0Zjc1YmRkMzg0M2M1NTVlY2I0Y2NmNjBiYmZh`

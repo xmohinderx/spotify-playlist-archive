@@ -1,12 +1,12 @@
 {
   "description": "Highlights of 2022, listen to women at full volume. Cover: <a href=\u201cspotify:artist:55fhWPvDiMpLnE4ZzNXZyW\u201d>Noah Cyrus</a>  #SpotifyWrapped",
-  "num_followers": 22469,
+  "num_followers": 22785,
   "original_name": "Best of EQUAL US 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNjAyMCwwMDAwMDAwMDU0NDQwMGI0MThhNWI2YzIyZDExODM3MDYxOTVlZmM4",
+  "snapshot_id": "MTY2OTgxNjAyMCwwMDAwMDAwMDNiNDQxOTdhMzUxOTRiYTgzN2RmOGVhNjhhMTYwZjYy",
   "tracks": [
     {
       "added_at": "2022-11-30 13:47:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-11-30 13:47:00",
       "album": {
-        "name": "My Mind & Me",
-        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "My Mind & Me",
-      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
-    },
-    {
-      "added_at": "2022-11-30 13:47:00",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": "2022-11-30 13:47:00",
       "album": {
+        "name": "My Mind & Me",
+        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+    },
+    {
+      "added_at": "2022-11-30 13:47:00",
+      "album": {
         "name": "i'm yours",
         "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 145667,
       "name": "i'm yours",
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
-    },
-    {
-      "added_at": "2022-11-30 13:47:00",
-      "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
     },
     {
       "added_at": "2022-11-30 13:47:00",
@@ -415,6 +399,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+    },
+    {
+      "added_at": "2022-11-30 13:47:00",
+      "album": {
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
     },
     {
       "added_at": "2022-11-30 13:47:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-11-30 13:47:00",
       "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 148470,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
+      "added_at": "2022-11-30 13:47:00",
+      "album": {
         "name": "Purple Hearts (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2022-11-30 13:47:00",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 148470,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+      "duration_ms": 157373,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
     },
     {
       "added_at": "2022-11-30 13:47:00",
@@ -531,22 +547,6 @@
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2022-11-30 13:47:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
     },
     {
       "added_at": "2022-11-30 13:47:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-11-30 13:47:00",
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
+    },
+    {
+      "added_at": "2022-11-30 13:47:00",
+      "album": {
         "name": "LOKITA",
         "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 193294,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
-    },
-    {
-      "added_at": "2022-11-30 13:47:00",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
     },
     {
       "added_at": "2022-11-30 13:47:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-11-30 13:47:00",
       "album": {
-        "name": "Praying for July - Spotify Singles",
-        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 186159,
-      "name": "Praying for July - Spotify Singles",
-      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
-    },
-    {
-      "added_at": "2022-11-30 13:47:00",
-      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2022-11-30 13:47:00",
+      "album": {
+        "name": "Praying for July - Spotify Singles",
+        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 186159,
+      "name": "Praying for July - Spotify Singles",
+      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
     },
     {
       "added_at": "2022-11-30 13:47:00",

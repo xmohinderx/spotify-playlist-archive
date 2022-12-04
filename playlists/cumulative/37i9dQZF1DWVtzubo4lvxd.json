@@ -1614,6 +1614,24 @@
     },
     {
       "album": {
+        "name": "Longing for You",
+        "url": "https://open.spotify.com/album/2MHX68LB8hbdFvuOu9bxvD"
+      },
+      "artists": [
+        {
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73846,
+      "name": "Jocelyn",
+      "url": "https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv"
+    },
+    {
+      "album": {
         "name": "Sweet Journey",
         "url": "https://open.spotify.com/album/3cvSg8qQkJXbgfW3hxerbh"
       },
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"

@@ -1411,10 +1411,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 237386,
       "name": "Olvidate",
       "url": "https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d"
+    },
+    {
+      "album": {
+        "name": "Olv\u00eddate (Cuarteto)",
+        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Olv\u00eddate - Cuarteto",
+      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
     },
     {
       "album": {

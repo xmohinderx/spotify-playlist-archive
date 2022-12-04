@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,300 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,418 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 17 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
 | 18 | [Two Tickets to Paradise](https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Eddie Money](https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye) | 3:57 |
 | 19 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 |
-| 20 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
-| 21 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
+| 20 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
+| 21 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 22 | [You Can Do Magic](https://open.spotify.com/track/5dXED6MP1v1qghkaniirb1) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [View From The Ground](https://open.spotify.com/album/5ON91aFwvhfeFX6DhVto5h) | 3:57 |
 | 23 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
 | 24 | [All Right](https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page](https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2) | 4:13 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 27 | [Somebody's Baby](https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 4:22 |
 | 28 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 |
 | 29 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
-| 30 | [Sad Eyes \- Remastered 2002](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 |
-| 31 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
+| 30 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
+| 31 | [Sad Eyes \- Remastered 2002](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 |
 | 32 | [Love the One You're With](https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Givin' It Back](https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h) | 3:43 |
 | 33 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
 | 34 | [O\-o\-h Child](https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [Stairsteps \(Expanded Edition\)](https://open.spotify.com/album/7H8uLkHFuEqAWpLKBwbGvg) | 3:17 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 59 | [This Night Won't Last Forever](https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [Dialogue](https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK) | 4:01 |
 | 60 | [Love Is the Answer \(Single Version\)](https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED) | 4:41 |
 | 61 | [Son Of A Son Of A Sailor](https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Son Of A Son Of A Sailor](https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK) | 3:26 |
-| 62 | [In Your Letter](https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:16 |
-| 63 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
-| 64 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
+| 62 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
+| 63 | [In Your Letter](https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:16 |
+| 64 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
 | 65 | [Say You'll Be Mine](https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 2:56 |
 | 66 | [If I Saw You Again](https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/1qdncgTUWG6mnVUfTyYdIG) | 3:24 |
 | 67 | [Fins](https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Volcano](https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Better Love Next Time](https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:00 |
 | 80 | [Marina Del Rey](https://open.spotify.com/track/23TcFJ0XSv7jugzpucHNW7) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Mannequin](https://open.spotify.com/album/1jhT5nqbschpILLzEWkjX3) | 3:11 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDliMmRjMzYzZjMwYWU0ODZmM2M5MDNiZTRjZmNlZDUz`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGRlODg5NjUxNGYxNzI1Y2YxY2MxMmZhM2E4M2E0YzMx`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Michael Sparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,776 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,862 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 |
 | 2 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
 | 3 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 |
-| 4 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 |
+| 4 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 5 | [The Reason](https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Reason](https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4) | 3:24 |
 | 6 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 |
 | 7 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [You Be Mine](https://open.spotify.com/track/4FaEnMfs9lzN35MGbrOJer) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [You Be Mine](https://open.spotify.com/album/0faUGEYeWddhu5M2bPEaGs) | 2:38 |
 | 75 | [Ossington](https://open.spotify.com/track/4jKH7fJtZi07pI8ptnuYMd) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Twelfth Wave](https://open.spotify.com/album/3GKVwIYdBHIZERnBooyet1) | 6:28 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDFhZjllZWVmOGFlZDM5ODQyZDY5MzJlMWRhNDRmMWZk`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGQxZTNhYWQxOGM2MTJjM2ZmMTIxNWY0OTg5NGVlODMz`

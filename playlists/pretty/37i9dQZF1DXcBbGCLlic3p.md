@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,286 likes - 206 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,323 likes - 206 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 31 | [Thorns](https://open.spotify.com/track/3WWF9kTWsPRVfgX6BFLisb) | [Rama Fiore](https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366) | [Blossom](https://open.spotify.com/album/6Ali5VGJJO9MkkPrhhLcmc) | 3:07 |
 | 32 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 |
 | 33 | [Blue Planet](https://open.spotify.com/track/29KXf3gbyfbtG5OWTxnssl) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 3:05 |
-| 34 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Mergen Aurel](https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
+| 34 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
 | 35 | [Coucher](https://open.spotify.com/track/0gBwjXf71aUxndZSzrJ6Ej) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Coucher](https://open.spotify.com/album/5GaPY7G2NrAsOG6M0y5d4y) | 3:13 |
 | 36 | [The Hands Of Time](https://open.spotify.com/track/2etpMgKM1SbJLOXJQ4bexE) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [The Hands Of Time](https://open.spotify.com/album/1kbHxrCOM0F14VekC7QMga) | 2:31 |
 | 37 | [Porcelain](https://open.spotify.com/track/1p6B2W8oxPhLhkY9baZbi5) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 2:09 |

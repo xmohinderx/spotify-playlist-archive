@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 
 > Let these Latin hits guide you through your daily commute!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,378 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,413 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 44 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
 | 45 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 | 46 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
-| 47 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
-| 48 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
+| 47 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
+| 48 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
 | 49 | [Vaina Loca](https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:56 |
 | 50 | [Pa Mí \- Remix](https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 6:00 |
 | 51 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 77 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
 | 78 | [Una Nota](https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:50 |
 | 79 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
-| 80 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 |
-| 81 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 |
+| 80 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 |
+| 81 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 |
 | 82 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 83 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 |
 | 84 | [Dembow](https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DSRR3tGze6.md) - [plain]
 | 89 | [Bajo La Mesa](https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Bajo La Mesa](https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0) | 2:37 |
 | 90 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 |
 
-Snapshot ID: `MTY2OTk1ODcxOSwwMDAwMDAwMDFhYWZiM2QxNzAxYThiMzMyNzZhNDliZmUwZGI0ZTMw`
+Snapshot ID: `MTY2OTk1ODcxOSwwMDAwMDAwMDcyZTQxZDY5YmM3YzMwMjA1NjQ0YjAxMjI2ZWU2MjEx`

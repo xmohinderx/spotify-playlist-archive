@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,059 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,364 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 41 | [Aloha](https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [Panorama](https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r) | 3:38 |
 | 42 | [Line Of Sight \(feat\. WYNNE & Mansionair\)](https://open.spotify.com/track/2WWfjbHALIb3e7FMcj9mr4) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:57 |
 | 43 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
-| 44 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
-| 45 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 |
+| 44 | [No Place](https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:57 |
+| 45 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
 | 46 | [Sun Goes Down](https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [Sun Goes Down](https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8) | 3:23 |
 | 47 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 |
 | 48 | [Young](https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:44 |
 | 49 | [Working For It](https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 3:51 |
-| 50 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 |
-| 51 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
+| 50 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
+| 51 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 |
 | 52 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:29 |
 | 53 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 54 | [Runaways \(feat\. Teemu\)](https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Runaways \(feat\. Teemu\)](https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj) | 3:02 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGQ1MTQ1ZDNkYjMxMGU2MTA2NzgyYzVkM2RmYTZlMTBl`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDAzODU1ZjU2MmVjOWZkYWE1NTZhZjE0ZjY1Yzk3ODUy`

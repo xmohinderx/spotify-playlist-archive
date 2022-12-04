@@ -4490,6 +4490,24 @@
     },
     {
       "album": {
+        "name": "Lonely Are the Brave (Mav's Version)",
+        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "I Need - Mav's Version",
+      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
+    },
+    {
+      "album": {
         "name": "I Need A Man (2020 Remaster)",
         "url": "https://open.spotify.com/album/3743OmxhbZblJxwYI4JJbj"
       },
@@ -7501,7 +7519,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 316626,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"

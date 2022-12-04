@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,473 likes - 36 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,515 likes - 36 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
-| 2 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
-| 3 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 |
+| 2 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 |
+| 3 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
 | 4 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 |
 | 5 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 |
 | 6 | [Better Version \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 2:53 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 35 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 |
 | 36 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDA3ZTZlZTJjMGI2N2Y2ZjllOGQ1ZDBmZWFkNTE1ODg0Yg==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDBiMmE4MjM4M2NjYTQzNmUxMTQ4ZDk2YWNmZmU1ZTU1ZA==`

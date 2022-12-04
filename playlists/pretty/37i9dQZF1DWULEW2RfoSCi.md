@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the biggest soul tracks from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,899 likes - 94 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,632 likes - 94 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 52 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
 | 53 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 54 | [Respect Yourself](https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:31 |
-| 55 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
-| 56 | [L\-O\-V\-E \(Love\)](https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Is Love](https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK) | 3:09 |
+| 55 | [L\-O\-V\-E \(Love\)](https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Is Love](https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK) | 3:09 |
+| 56 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
 | 57 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 |
 | 58 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 | 59 | [Groove Me](https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY) | 3:04 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 65 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 |
 | 66 | [Never Can Say Goodbye](https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9) | 2:59 |
 | 67 | [Rock the Boat](https://open.spotify.com/track/0w4s0d8Qtu0K8dyMcB2tw1) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Rockin' Soul](https://open.spotify.com/album/6HIHjj9rn4F3oZzqeD3YI6) | 3:08 |
-| 68 | [Oh Girl](https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 3:37 |
+| 68 | [Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1) | [Shirley Brown](https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV) | [Woman to Woman \[Stax Remasters\]](https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I) | 3:58 |
 | 69 | [Spanish Harlem](https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 3:33 |
-| 70 | [Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1) | [Shirley Brown](https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV) | [Woman to Woman \[Stax Remasters\]](https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I) | 3:58 |
+| 70 | [Oh Girl](https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 3:37 |
 | 71 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
 | 72 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 2:49 |
 | 73 | [For the Love of You, Pts\. 1 & 2](https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:37 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 93 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
 | 94 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 
-Snapshot ID: `MTY2MDgyNDY2OSwwMDAwMDAwMGQxN2NmNjRlMjk1YTc1MzlmZDc5MTM2NDVhZTZiOWNm`
+Snapshot ID: `MTY2MDgyNDY2OSwwMDAwMDAwMDZjNjYzMmRhMDQ5MGVkNzFmNjJkNGE1NWE2M2E2ZmU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,138 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,527 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 18 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 |
 | 19 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 | 20 | [Who You Thought I Was](https://open.spotify.com/track/4dXIIUOtekoc54xIktc559) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 3:09 |
-| 21 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
-| 22 | [Should've Been A Cowboy](https://open.spotify.com/track/18BajNiyvH6GpYshB0unrm) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:28 |
+| 21 | [Should've Been A Cowboy](https://open.spotify.com/track/18BajNiyvH6GpYshB0unrm) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:28 |
+| 22 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 23 | [Three Chords at a Time](https://open.spotify.com/track/6IxRtoq2yObhqJ6NbGfUJw) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [Three Chords at a Time](https://open.spotify.com/album/69r15hje0MZxDf4OQR2pz0) | 3:41 |
-| 24 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
+| 24 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 25 | [Break Down Here](https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Julie Roberts](https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi) | 4:05 |
 | 26 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 27 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 86 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 |
 | 87 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 |
 | 88 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 |
-| 89 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
+| 89 | [Out Of Sight](https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 4:21 |
 | 90 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 |
 | 91 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 |
 | 92 | [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 |
 | 93 | [Hot Beer](https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:10 |
 | 94 | [Ten Thousand Angels](https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:27 |
-| 95 | [Out Of Sight](https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 4:21 |
+| 95 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
 | 96 | [Just Might Have Her Radio On](https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm) | [Trent Tomlinson](https://open.spotify.com/artist/1Zn69emN3uZsF6YwCrkgYp) | [Country Is My Rock](https://open.spotify.com/album/1dMtfygDergsiS0sep6KDL) | 3:38 |
 | 97 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
 | 98 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 |
 | 99 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
 | 100 | [Little Miss Saturday Night](https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Little Miss Saturday Night](https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j) | 3:20 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGUzNjVhMGIxZGRlYzllYjkzZDM0OGRhZTRkODkzM2E3`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDQ2YjRmNTZhMTMwM2UxOGFmNjVhNjE4NWQ2YjM2ZTlm`

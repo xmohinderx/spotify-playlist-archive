@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,706 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,713 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 7 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 |
 | 8 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 |
 | 9 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 |
-| 10 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 |
-| 11 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
-| 12 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
-| 13 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
+| 10 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
+| 11 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 |
+| 12 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
+| 13 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
 | 14 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 |
 | 15 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 |
 | 16 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
@@ -45,19 +45,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 35 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
 | 36 | [Be My Muse \- Gold Edit](https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:18 |
 | 37 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 |
-| 38 | [Mad World](https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 3:15 |
-| 39 | [Be Bad](https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Moral](https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb) | 2:34 |
+| 38 | [Be Bad](https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Moral](https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb) | 2:34 |
+| 39 | [Mad World](https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 3:15 |
 | 40 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
 | 41 | [Good People](https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good People](https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ) | 3:31 |
 | 42 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 |
 | 43 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 |
 | 44 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 |
-| 45 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 |
-| 46 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
+| 45 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
+| 46 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 |
 | 47 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 |
 | 48 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
-| 49 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
-| 50 | [Summer Moon](https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Summer Moon](https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0) | 3:21 |
+| 49 | [Summer Moon](https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Summer Moon](https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0) | 3:21 |
+| 50 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
 | 51 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
 | 52 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/1DRgiVyaCJ9PXO276H0Ak9) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/album/466wPD03sWZ4ohCe8ZdgeJ) | 2:44 |
 | 53 | [This Is The Day \- Full Band Version](https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [This Is The Day \(Full Band Version\)](https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj) | 4:42 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Start over Again](https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Start over Again](https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V) | 3:39 |
 | 65 | [Suitcase \(Add The Weight\)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 |
 
-Snapshot ID: `MTY2ODc3MDU2NiwwMDAwMDAwMGY4NzBjZDVkZmYyMWFiZWE0MTQ1Mzk1ZjIwMzUzYjI0`
+Snapshot ID: `MTY2ODc3MDU2NiwwMDAwMDAwMGY1NjNjMDM3M2IxY2JkNGM1NGY1ZmNjZDU5MDBhZTI0`

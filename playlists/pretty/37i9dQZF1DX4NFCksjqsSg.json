@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25113,
+  "num_followers": 25122,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDJhMzc5MDA5NTI3MTEzN2E1YjA1Yzg0Mzk3MjQyYzBh",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDk4NDlhYzQ0OGJkNjBkYTg4YmYxMDg3MzAyZmNlMDA0",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -335,6 +335,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Lapointe 1994-2006 N'importe qui",
+        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Lapointe",
+          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "La bartendresse",
+      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Rendez-vous doux",
         "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 256760,
       "name": "Les yeux du coeur",
       "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Lapointe 1994-2006 N'importe qui",
-        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
-      },
-      "artists": [
-        {
-          "name": "\u00c9ric Lapointe",
-          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "La bartendresse",
-      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -451,18 +451,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
+        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
       },
       "artists": [
         {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+          "name": "Bruno Pelletier",
+          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
         }
       ],
-      "duration_ms": 235066,
-      "name": "Un beau grand bateau",
-      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
+      "duration_ms": 202733,
+      "name": "Le temps des cath\u00e9drales",
+      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+      },
+      "artists": [
+        {
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Un beau grand bateau",
+      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Parlez-moi de lui - Single",
         "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 200760,
       "name": "Parlez-moi de lui",
       "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
-        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
-      },
-      "artists": [
-        {
-          "name": "Bruno Pelletier",
-          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Le temps des cath\u00e9drales",
-      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
-      },
-      "artists": [
-        {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Premi\u00e8res nuits",
         "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 244933,
       "name": "La berceuse du petit diable",
       "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
+      },
+      "artists": [
+        {
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
     },
     {
       "added_at": "2020-04-07 15:18:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ cover: kid bookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,047 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,016 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 46 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
 | 47 | [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 |
 | 48 | [estella//](https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 1:58 |
-| 49 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 |
+| 49 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 3:21 |
 | 50 | [MY HEAD](https://open.spotify.com/track/4Ky0M6BP4lKfw7lyJabZxi) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [ARRIVED](https://open.spotify.com/album/5BC8FN2b91LD7tyym1ocsa) | 2:35 |
 | 51 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 |
 | 52 | [wasted](https://open.spotify.com/track/6izAsljZMKSGtLVAk9gWY8) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [wasted](https://open.spotify.com/album/5aTiToGyRhE9sgEvhmXvwI) | 2:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Hold On](https://open.spotify.com/track/3dl6BNoUgzvtG2aQ2hqzKO) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Hold On](https://open.spotify.com/album/6Phz8GiLOJLu4c1JPEjf3h) | 3:15 |
 | 85 | [In Over My Head](https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:18 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDFlOTQ0NjhhOTM3MDU5ODI0N2U4NjVhNzNmNTVhZTg4`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDQ5YTk0YTllM2ZkOGVmM2UyOGUxMmNlY2YyZTkxNDc5`

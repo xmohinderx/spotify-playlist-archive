@@ -581,7 +581,7 @@
     {
       "album": {
         "name": "Eleven",
-        "url": "https://open.spotify.com/album/6rDsE9m1fJqtfgJmbp91bc"
+        "url": "https://open.spotify.com/album/17WoKlxY15L7vUuwplGgSn"
       },
       "artists": [
         {
@@ -592,6 +592,24 @@
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220684,
+      "name": "Her Winter",
+      "url": "https://open.spotify.com/track/1UEpN7Ns4F4sRgmuZeF9hx"
+    },
+    {
+      "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/6rDsE9m1fJqtfgJmbp91bc"
+      },
+      "artists": [
+        {
+          "name": "Melo-Zed",
+          "url": "https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
       "duration_ms": 220684,
       "name": "Her Winter",
       "url": "https://open.spotify.com/track/2xGBD7Bn0zsCBJvpuo9W1w"

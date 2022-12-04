@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 11706,
+  "num_followers": 11713,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MDU2NiwwMDAwMDAwMGY4NzBjZDVkZmYyMWFiZWE0MTQ1Mzk1ZjIwMzUzYjI0",
+  "snapshot_id": "MTY2ODc3MDU2NiwwMDAwMDAwMGY1NjNjMDM3M2IxY2JkNGM1NGY1ZmNjZDU5MDBhZTI0",
   "tracks": [
     {
       "added_at": "2022-11-18 11:22:46",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
         "name": "More Moore Mixtape",
         "url": "https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av"
       },
@@ -183,18 +199,18 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Come Around EP",
-        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
       "artists": [
         {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 228473,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -211,22 +227,6 @@
       "duration_ms": 228613,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 151913,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Origin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
         "name": "Moral",
         "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 154986,
       "name": "Be Bad",
       "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Nona",
-        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "Preaching To The Choir",
-      "url": "https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
         "name": "Never Compare",
         "url": "https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 267237,
       "name": "Never Compare",
       "url": "https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
+        "name": "Nona",
+        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "Preaching To The Choir",
+      "url": "https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t"
     },
     {
       "added_at": "2022-11-18 11:22:46",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-18 11:22:46",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 223517,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
-    },
-    {
-      "added_at": "2022-11-18 11:22:46",
-      "album": {
         "name": "Summer Moon",
         "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 201343,
       "name": "Summer Moon",
       "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
+    },
+    {
+      "added_at": "2022-11-18 11:22:46",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 223517,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
     },
     {
       "added_at": "2022-11-18 11:22:46",

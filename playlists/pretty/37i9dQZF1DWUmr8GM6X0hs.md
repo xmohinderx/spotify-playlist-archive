@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,877 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,936 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 35 | [Mi Viejo / Recordando a Mi Padre](https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals, Vol\. 2](https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4) | 5:07 |
 | 36 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
 | 37 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 |
-| 38 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
-| 39 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
+| 38 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
+| 39 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
 | 40 | [Si Nos Dejan \- Remastered](https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR) | 3:02 |
 | 41 | [Señor Abogado](https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Una Rockola en el Cielo, Vol\. 1](https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU) | 1:53 |
 | 42 | [Que Te Vayas Bien](https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Los Triunfadores de la Rockola](https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 |
 | 60 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDA2M2MxYWQ2ZDI5MzAwOTJlYjFlN2VlNTkwZmY3ZWE4`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDM3ZDFiYzVlNjE2MjBhODUzNTc5MjlhNDc2OTAzNDU2`

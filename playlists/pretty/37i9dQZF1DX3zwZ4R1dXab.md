@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 35 | [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 3:33 |
 | 36 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 |
 | 37 | [Early Hours](https://open.spotify.com/track/6FDWiY1Gy0DVhvYGtkLBCa) | [Sunset Chamber](https://open.spotify.com/artist/6xdDIOgbdCLHsDX4dcnSfI) | [Early Hours](https://open.spotify.com/album/0xpzjW3KD6Dy9sRk0IxPh5) | 3:02 |
-| 38 | [Flavor](https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Flavor](https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy) | 2:32 |
-| 39 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
+| 38 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 |
+| 39 | [Flavor](https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Flavor](https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy) | 2:32 |
 | 40 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 |
 | 41 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 |
 | 42 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 |
 | 43 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 |
 | 44 | [Light in the Mist](https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 4:00 |
 | 45 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
-| 46 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
-| 47 | [Rêverie Lilas](https://open.spotify.com/track/5ZzpqPQsDM5MaVhEGFzTtD) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Moonlight Improvisations](https://open.spotify.com/album/3pRrgNnbS3bXYjS4R6kfMe) | 1:16 |
-| 48 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
+| 46 | [Rêverie Lilas](https://open.spotify.com/track/5ZzpqPQsDM5MaVhEGFzTtD) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Moonlight Improvisations](https://open.spotify.com/album/3pRrgNnbS3bXYjS4R6kfMe) | 1:16 |
+| 47 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
+| 48 | [On the Stairs](https://open.spotify.com/track/6qedmSEhHCcpsAxSAc0YZ0) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [On the Stairs](https://open.spotify.com/album/1y6ItDuTMzmJfIJ6Z4ghGu) | 2:21 |
 | 49 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 |
 | 50 | [The Grass](https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv) | [Brandon Cason](https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt) | [The Grass](https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX) | 2:37 |
 | 51 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 |
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zwZ4R1dXab.md) - [plain]
 | 58 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 |
 | 59 | [While You Were Sleeping](https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 1:45 |
 | 60 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 |
-| 61 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
-| 62 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
+| 61 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
+| 62 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
 | 63 | [Silverstar](https://open.spotify.com/track/5Gcrk6EV2cErGfyBsz9sVF) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Silverstar](https://open.spotify.com/album/5bIFCJp1sNpoik82ui7CUE) | 2:08 |
 | 64 | [Sweet Gesture](https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [By Your Side](https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI) | 2:34 |
-| 65 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 |
-| 66 | [On a Clear Day](https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 1:59 |
+| 65 | [On a Clear Day](https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 1:59 |
+| 66 | [Muddus](https://open.spotify.com/track/45We1ecGx6GcCNJWiQywxA) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Muddus](https://open.spotify.com/album/2vgJ3w2gKOoKNFe9myNZcO) | 2:08 |
 | 67 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 |
 | 68 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
-| 69 | [Story Time](https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Story Time](https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl) | 2:09 |
-| 70 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 |
+| 69 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 |
+| 70 | [Story Time](https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Story Time](https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl) | 2:09 |
 | 71 | [Bocks](https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Bocks](https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa) | 2:13 |
 | 72 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 |
 | 73 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 |
 | 74 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 |
 | 75 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 |
 
-Snapshot ID: `MTY2OTgwNTgzNSwwMDAwMDAwMDNjNGM2ZmQ4OWM4ZGE2Zjc0ZTcxNWIzYjVhODk4N2Y5`
+Snapshot ID: `MTY2OTgwNTgzNSwwMDAwMDAwMGQ1MDE5MWQ1NDE1NDczM2E4Zjg0MWI4N2YwYWVkNjk5`

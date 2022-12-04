@@ -4,7 +4,7 @@
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-100 songs - 6 hr 3 min - not published yet
+101 songs - 6 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 | 2021-03-01 |  |
 | [I Like That](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [INSANE LOVE](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) | 3:41 | 2021-03-01 |  |
 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 | 2021-03-01 |  |
-| [I Need A Girl \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:39 | 2021-03-01 |  |
+| [I Need A Girl \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:39 | 2021-03-01 | 2022-12-04 |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-03-01 |  |
 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 | 2021-03-01 |  |
 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 | 2021-03-01 |  |
@@ -67,6 +67,7 @@
 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 | 2021-03-01 |  |
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2021-03-01 |  |
 | [LUCIFER](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 | 2021-03-01 |  |
+| [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 | 2021-03-01 |  |
 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 | 2021-03-01 |  |
 | [MAMA](https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 4:30 | 2021-03-01 |  |
 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 | 2021-03-01 |  |

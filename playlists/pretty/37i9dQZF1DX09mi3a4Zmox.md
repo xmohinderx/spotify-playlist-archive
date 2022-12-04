@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,982,946 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,983,416 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 71 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 |
 | 72 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 73 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
-| 74 | [Te Adoraré](https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:47 |
-| 75 | [Deje de Amar](https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo) | [Felipe Muñiz](https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deje de Amar](https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou) | 3:12 |
+| 74 | [Deje de Amar](https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo) | [Felipe Muñiz](https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deje de Amar](https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou) | 3:12 |
+| 75 | [Te Adoraré](https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:47 |
 | 76 | [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 |
 | 77 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
 | 78 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Me Enamoré De Ti](https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Enamoré De Ti](https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU) | 3:26 |
 | 100 | [Lo Intenté Todo](https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Lo Intenté Todo](https://open.spotify.com/album/0r18uYl5JRCEPLsLqdDEB2) | 3:24 |
 
-Snapshot ID: `MTY2MzY3OTA5MCwwMDAwMDAwMDY2NTc1ODRkYjg0ZTVhMTg3MjdhMjkyNGQzYTFlNDkw`
+Snapshot ID: `MTY2MzY3OTA5MCwwMDAwMDAwMDQwZDYyNWNiMWZjNTUwZDA0MjIwZDk4YWRjZmFkYWRl`

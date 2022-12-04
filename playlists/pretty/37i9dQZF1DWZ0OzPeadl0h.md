@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,340 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,493 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 30 | [Beautiful Hell](https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Run, Lucifer](https://open.spotify.com/album/1uL86W2jobgxHMrJEGdAal) | 2:56 |
 | 31 | [Going Home](https://open.spotify.com/track/1vlt1z8Ez6SueIfCE2pm9A) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 4:50 |
 | 32 | [Horizons](https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j) | [Xavia](https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i) | [Mountain Whisper](https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0) | 4:34 |
-| 33 | [Faux](https://open.spotify.com/track/0d9UAfLZnNNKhr5zUd9nfv) | [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Faux](https://open.spotify.com/album/5RbQdXsFFnmWR29qJpQGgW) | 4:32 |
+| 33 | [Faux](https://open.spotify.com/track/6SxnGpJwsNO78aJnAzOHXz) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Faux](https://open.spotify.com/album/6EJzOOCPJqYWXpu0Gfn1oy) | 4:32 |
 | 34 | [Bloodflows](https://open.spotify.com/track/6I3aXlhgyCOaQlVBph51qU) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Bloodflows](https://open.spotify.com/album/4ATD47ehDL7R9FMFLDNzC7) | 4:21 |
 | 35 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 36 | [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 104 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 |
 | 105 | [M](https://open.spotify.com/track/7kcMm8WE6jc5mVt2EATrV2) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 2:46 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDVmODlhNTJiYTE5OGEwY2E3YTUxYWQ3ZmQzNDU1M2Ex`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDUwMzIyNTRiZjkxY2NmMzUzMzI5ODVjNGEzYmZiMWMz`

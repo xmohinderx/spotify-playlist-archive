@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,760 likes - 45 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,771 likes - 45 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 24 | [まっさら](https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
 | 25 | [決意の朝に](https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:11 |
 | 26 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 |
-| 27 | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ) | 5:52 |
-| 28 | [葬送の儀](https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:02 |
+| 27 | [葬送の儀](https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:02 |
+| 28 | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ) | 5:52 |
 | 29 | [トウシンダイ](https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [forget\-me\-not](https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2) | 5:14 |
 | 30 | [ミミック](https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 5:53 |
 | 31 | [おやすみの詩](https://open.spotify.com/track/078Zvw4Fd1PBx8efZdyuuY) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 3:46 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 44 | [Lost \-Game size\-](https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 4:01 |
 | 45 | [ANIMA \-Naked Style.\- \-Instrumental\-](https://open.spotify.com/track/1D7CDijkgMBPtWARJiOxNt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 |
 
-Snapshot ID: `Mjc4MzMzODcsMDAwMDAwMDAxYWQ5ZWU3M2ZlYjViNDQwOTY2M2ZlODkyNGYyNTEyMg==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDAzYmFkNWMyNTkzZDlkYzYyMGM2Y2QxOGEzYTUxODkzYw==`

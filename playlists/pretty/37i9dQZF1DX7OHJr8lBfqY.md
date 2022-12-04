@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 
 > Add some sabor to your summer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,946 likes - 111 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,961 likes - 111 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 83 | [Cobarde](https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Cobarde](https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ) | 3:51 |
 | 84 | [Carne \- Merengue Electrónico Remix](https://open.spotify.com/track/69pyUc13LhpXAyXtcyutk9) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Carne \(Merengue Electrónico Remix\)](https://open.spotify.com/album/5vd9BylC4C5xzXk4Q6uIUO) | 3:25 |
 | 85 | [Cosita Linda](https://open.spotify.com/track/4J7oEi8YEEKqold6VImH1f) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Cosita Linda](https://open.spotify.com/album/6Vk2TVVMsR68HPiO6993Pa) | 2:42 |
-| 86 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
-| 87 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
+| 86 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
+| 87 | [Sin Pijama \- Kumbia Remix](https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama \(Kumbia Remix\)](https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7) | 3:24 |
 | 88 | [Hasta el Sol de Hoy \- Versión Salsa](https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Hasta el Sol de Hoy](https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp) | 3:56 |
 | 89 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 |
 | 90 | [Adicto \- Salsa Version](https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:51 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OHJr8lBfqY.md) - [plain]
 | 110 | [Saber Perder \- Versión Salsa\-Son](https://open.spotify.com/track/32l5lCxrPvhwIXOOKL51ix) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Saber Perder \(Versión Salsa\-Son\)](https://open.spotify.com/album/66qMU3zi1gYtCYgqz4ASdZ) | 3:33 |
 | 111 | [El Fenómeno del Mambo](https://open.spotify.com/track/2J6tJINnAI7Oqh0hYyQPLd) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [El Fenómeno del Mambo](https://open.spotify.com/album/25Vl33c9fDERhuJ7mSzEdJ) | 2:59 |
 
-Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMDY2NTkzY2YwNmQ4YjYyNmQyOTIyNWYzYWFlYTgyNzY5`
+Snapshot ID: `MTY2MTkzMTQ1NywwMDAwMDAwMDA2MWM4YTE4YjNiYzllZDE1NWJlZjUzYTU3OTNlZjVl`

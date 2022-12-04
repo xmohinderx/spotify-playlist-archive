@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/0RiCMVj1fDLgP3TQwhgent)
+72 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/0RiCMVj1fDLgP3TQwhgent)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-09 |  |
 | [アヴァロン・ブルー](https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:49 | 2022-06-09 |  |
 | [クロイウタ](https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 6:20 | 2022-06-09 |  |
-| [コバルト・スカイ](https://open.spotify.com/track/3Z957DGjG79SQ4DLEHn8M0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:32 | 2022-06-09 |  |
+| [グローアップ](https://open.spotify.com/track/1JnzJ2SnSrsiUSXIGkvX06) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:19 | 2022-12-03 |  |
+| [コバルト・スカイ](https://open.spotify.com/track/3Z957DGjG79SQ4DLEHn8M0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:32 | 2022-06-09 | 2022-12-04 |
 | [サテライト](https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:25 | 2022-06-09 | 2022-10-13 |
 | [サンビカ](https://open.spotify.com/track/5w8BuUpt4CORux5GjRAtXd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:49 | 2022-06-09 |  |
 | [シューゲイザー](https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:03 | 2022-06-09 |  |

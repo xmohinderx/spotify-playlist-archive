@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465 likes - 23 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,464 likes - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 22 | [Better To Forget](https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:52 |
 | 23 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBkNDFmNzA4OGUzNWEwMWMwZmNiMzNhMmM3MzYwNzU1Nw==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDAzOTA5YzY2ODFhZmI1Mjk3MmJjMzE4OTFlNjlmYWNlYQ==`

@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 49644,
+  "num_followers": 49867,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMGMwZGI5MWUyZTVjNDdiZjA1ZGY0NThmYjNjMmE3MjM1",
+  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMDZlODZlN2I5NDY2NDBiNDFmNTgyNzAzODI5MzE5NmZm",
   "tracks": [
     {
       "added_at": "2022-08-02 16:37:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 166548,
-      "name": "Demasiado Loco",
-      "url": "https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/4hlLOR9Zd7pmBg2Qb4Dlss"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 133747,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 166548,
+      "name": "Demasiado Loco",
+      "url": "https://open.spotify.com/track/1algWk375QvT1XNJJbRsGM"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -863,22 +863,18 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "There's No Way",
-        "url": "https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2"
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 174860,
-      "name": "There's No Way",
-      "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -895,22 +891,6 @@
       "duration_ms": 251017,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -951,6 +931,22 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
         "name": "Dos X Tres (Demo)",
         "url": "https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ"
       },
@@ -971,22 +967,6 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -999,6 +979,22 @@
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -1019,18 +1015,18 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
+        "name": "Estas Canciones Me Recuerdan a Ti",
+        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
       "artists": [
         {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
+      "duration_ms": 234425,
+      "name": "No S\u00e9 Decirte No",
+      "url": "https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB"
     }
   ],
   "unique_name": "pov: te enamoras de tu bestie",

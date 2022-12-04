@@ -4,7 +4,7 @@
 
 > “i could eat girl scouts for breakfast" \- wednesday addams 🖤
 
-874 songs - 1 day 22 hr 14 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+875 songs - 1 day 22 hr 17 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-05-19 |  |
 | [Blitzkrieg 2022 \- Drammen](https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k) | [Kris Winther](https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG), [SuperJonny](https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc), [Rapposaurus Rex](https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT), [LamboLaz](https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN) | [Blitzkrieg 2022 \- Drammen](https://open.spotify.com/album/3GUUcR6YtDVmGPg5yEhFIf) | 3:05 | 2022-06-12 |  |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-11-28 |  |
-| [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 | 2022-05-25 |  |
+| [Blue Spirits](https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk) | 3:08 | 2022-12-01 |  |
+| [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 | 2022-05-25 | 2022-12-04 |
 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 | 2022-05-19 |  |
 | [Bong Bing](https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Bong Bing](https://open.spotify.com/album/1jrrIPwjrDSsnx7Ciaqge6) | 2:48 | 2022-05-19 |  |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2022-05-19 | 2022-10-29 |
@@ -859,7 +860,7 @@
 | [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-08 |  |
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-05-19 |  |
 | [World's Smallest Violin](https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh) | 3:00 | 2022-05-19 | 2022-07-29 |
-| [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-22 |  |
+| [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-22 |  |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-05-19 |  |
 | [Ya Lili \- AHR Remix](https://open.spotify.com/track/0hmZNJCjnSfhekl0TwqbIu) | [Adam H Rohit](https://open.spotify.com/artist/0DhZkQdLvZsmzhQDBneTts), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Lili \(AHR Remix\)](https://open.spotify.com/album/4Rz3QBsei57qVSroQT89Lj) | 3:20 | 2022-05-19 |  |
 | [Yerushalayim](https://open.spotify.com/track/715xydYGcGuc4SGH4frm43) | [Yerachmiel Begun & The Miami Boys Choir](https://open.spotify.com/artist/6s2HLzlqGE56ToNhMvWu7Q) | [Moshiach](https://open.spotify.com/album/1a6JhV4CXvyy7mNM45NQFG) | 5:52 | 2022-09-26 |  |

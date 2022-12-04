@@ -1,15 +1,31 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 314168,
+  "num_followers": 314348,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUyMTYwMSwwMDAwMDAwMGNjODIxMGEwZDQ1MTY0NDRmY2M5MjlhNjlmNDIzZTQx",
+  "snapshot_id": "MTY3MDAzODczMiwwMDAwMDAwMDJkOGYwMzBhOWYwODdkOTRkOTFjZGE5NjdlNmI2Zjdm",
   "tracks": [
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Blockbuster Movie Hits",
+        "url": "https://open.spotify.com/album/3XQdk4BKeIPcaTfNiXzVb2"
+      },
+      "artists": [
+        {
+          "name": "Bill Conti",
+          "url": "https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "Gonna Fly Now - Theme From \"Rocky\" / Remastered 2006",
+      "url": "https://open.spotify.com/track/5dulYd9AKIprMoF837OTDb"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
@@ -25,39 +41,27 @@
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+      "duration_ms": 205733,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Curtain Call: The Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
@@ -73,7 +77,7 @@
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
@@ -89,95 +93,7 @@
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 243836,
-      "name": "goosebumps",
-      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Narco",
-        "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 208634,
-      "name": "Narco",
-      "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
@@ -193,7 +109,55 @@
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 243836,
+      "name": "goosebumps",
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
@@ -213,43 +177,7 @@
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "FUTURE",
         "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
@@ -265,7 +193,7 @@
       "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
@@ -281,7 +209,55 @@
       "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 115280,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
@@ -309,23 +285,7 @@
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
@@ -341,7 +301,7 @@
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
@@ -357,7 +317,23 @@
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
@@ -373,7 +349,7 @@
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
@@ -389,23 +365,7 @@
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
@@ -421,7 +381,27 @@
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
@@ -437,23 +417,7 @@
       "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
@@ -473,7 +437,7 @@
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
@@ -489,7 +453,7 @@
       "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
@@ -505,7 +469,23 @@
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
@@ -521,27 +501,7 @@
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-        "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
@@ -557,7 +517,7 @@
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
@@ -573,23 +533,7 @@
       "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "High Voltage",
         "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
@@ -605,7 +549,23 @@
       "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
@@ -621,7 +581,7 @@
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
@@ -637,7 +597,7 @@
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
@@ -657,39 +617,7 @@
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Oxymoron (Deluxe)",
         "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
@@ -709,7 +637,23 @@
       "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
@@ -725,7 +669,7 @@
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
@@ -741,7 +685,7 @@
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
@@ -757,7 +701,7 @@
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Agents Of Fortune",
         "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
@@ -773,7 +717,7 @@
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
@@ -789,7 +733,7 @@
       "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Rolling Papers",
         "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
@@ -805,7 +749,7 @@
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
         "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
@@ -821,23 +765,7 @@
       "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
@@ -853,7 +781,23 @@
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -869,7 +813,7 @@
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
@@ -897,7 +841,7 @@
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
@@ -913,7 +857,7 @@
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
@@ -929,23 +873,7 @@
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Black Skinhead",
-      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
@@ -961,7 +889,7 @@
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
@@ -977,7 +905,7 @@
       "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -993,7 +921,7 @@
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Black Sunday",
         "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
@@ -1009,7 +937,7 @@
       "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
@@ -1025,7 +953,7 @@
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
@@ -1041,7 +969,7 @@
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
@@ -1065,7 +993,7 @@
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
@@ -1085,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
@@ -1101,35 +1029,7 @@
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
-      "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 357706,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
-    },
-    {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "The Definition Of X: Pick Of The Litter",
         "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
@@ -1145,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "The Rising Tied",
         "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
@@ -1165,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
@@ -1181,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
@@ -1197,7 +1097,7 @@
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
@@ -1213,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
@@ -1229,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
@@ -1245,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
@@ -1265,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
@@ -1281,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
-      "added_at": "2022-09-07 03:33:21",
+      "added_at": "2022-12-03 03:38:52",
       "album": {
         "name": "Trapt",
         "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
@@ -1295,6 +1195,90 @@
       "duration_ms": 285569,
       "name": "Headstrong",
       "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Hell: The Sequel (Deluxe)",
+        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+      },
+      "artists": [
+        {
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 205879,
+      "name": "Jumpman",
+      "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+    },
+    {
+      "added_at": "2022-12-03 03:38:52",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     }
   ],
   "unique_name": "Jock Jams",

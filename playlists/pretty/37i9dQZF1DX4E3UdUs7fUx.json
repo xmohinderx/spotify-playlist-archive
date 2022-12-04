@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2326812,
+  "num_followers": 2326763,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTA4OTEwNSwwMDAwMDAwMDNhZTJhMTNiOGVjNWJkMTRiMmRkMjUwYzBiMDA1ZWE4",
+  "snapshot_id": "MTYzOTA4OTEwNSwwMDAwMDAwMGZhNjY5YTEzNmM3YWZjOTNjN2MwYjdiOGFmM2I5ZjE5",
   "tracks": [
     {
       "added_at": "2021-09-02 16:19:31",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "You and Me for Now",
         "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 256680,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
     },
     {
-      "added_at": "2021-12-09 22:31:45",
-      "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
-    },
-    {
       "added_at": "2021-09-02 16:19:31",
       "album": {
         "name": "Idle Mind",
@@ -587,6 +571,22 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
+    },
+    {
+      "added_at": "2021-12-09 22:31:45",
+      "album": {
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -875,6 +859,22 @@
       "duration_ms": 304493,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243012,
-      "name": "Hate The Way You Love Me",
-      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "Wildewoman (Expanded Edition)",
         "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 275628,
       "name": "Two of Us On the Run",
       "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 243012,
+      "name": "Hate The Way You Love Me",
+      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "The Pleasant Trees (Volume 2)",
-        "url": "https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 164721,
-      "name": "Middle Of My Mind",
-      "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "Resilient",
         "url": "https://open.spotify.com/album/1AwzLRB4cP8KISlr8ExOEt"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 250429,
       "name": "Resilient",
       "url": "https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "The Pleasant Trees (Volume 2)",
+        "url": "https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 164721,
+      "name": "Middle Of My Mind",
+      "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
     },
     {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
-        "name": "Open Season (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
-      },
-      "artists": [
-        {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
-        }
-      ],
-      "duration_ms": 150521,
-      "name": "Bridge",
-      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
-    },
-    {
       "added_at": "2021-12-09 22:31:45",
       "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
@@ -1279,6 +1263,22 @@
       "duration_ms": 195840,
       "name": "Eyes Wide Open - From \"North Star\"",
       "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Open Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "duration_ms": 150521,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
     },
     {
       "added_at": "2021-09-02 16:19:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-09-02 16:19:31",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2021-09-02 16:19:31",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 251008,
       "name": "Belly of the Beast",
       "url": "https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC"
+    },
+    {
+      "added_at": "2021-09-02 16:19:31",
+      "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2021-09-02 16:19:31",

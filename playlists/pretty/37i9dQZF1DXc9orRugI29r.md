@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > ¡No busques más! La música del momento está aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,667 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,892 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 | 6 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 |
 | 7 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
 | 8 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
-| 9 | [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 9 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
 | 10 | [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 |
 | 11 | [La Invitación](https://open.spotify.com/track/5i2u1LN3LOhhKyd5nBKBK0) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:29 |
 | 12 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 |

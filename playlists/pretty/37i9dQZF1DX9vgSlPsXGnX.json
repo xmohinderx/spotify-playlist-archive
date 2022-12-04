@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 41460,
+  "num_followers": 41524,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMGU5Nzg3ZjQ1YzI3MTNjMzA4NGU4MmRjZjAyNGNmM2M3",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMGQ3MTYyZTQ5ZjM1YTBjOGEzMjIzNTFiZWU0ZDRiMjEz",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -599,22 +599,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
       },
       "artists": [
         {
           "name": "Alberto Beltran",
           "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 161346,
-      "name": "Todo Me Gusta de Ti",
-      "url": "https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof"
+      "duration_ms": 171432,
+      "name": "Mil Cosas",
+      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -771,18 +767,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
       "artists": [
         {
           "name": "Alberto Beltran",
           "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 171432,
-      "name": "Mil Cosas",
-      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
+      "duration_ms": 161346,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof"
     },
     {
       "added_at": "2021-12-26 12:28:38",

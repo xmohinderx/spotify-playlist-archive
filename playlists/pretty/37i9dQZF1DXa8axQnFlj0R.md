@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,941 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,088 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 76 | [Still](https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 3:47 |
 | 77 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 |
 | 78 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
-| 79 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
-| 80 | [The Wolves and the Ravens](https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [False Floors](https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT) | 4:16 |
+| 79 | [The Wolves and the Ravens](https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [False Floors](https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT) | 4:16 |
+| 80 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
 | 81 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
 | 82 | [Last To Make It Home](https://open.spotify.com/track/3cV2LIqOuroxPnpAYsfoLq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 5:21 |
 | 83 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 95 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
 | 96 | [Follaton Wood](https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Old Pine E.P.](https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA) | 4:49 |
 | 97 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
-| 98 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 |
-| 99 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 98 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 99 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 |
 | 100 | [Northern Towns](https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8) | 2:56 |
 
-Snapshot ID: `MTY3MDAwNzc1NywwMDAwMDAwMGY5NGI3ZmI0YTUzZjU0YzQ0YWU4ZDMxMmJiNTY4YjQ1`
+Snapshot ID: `MTY3MDAwNzc1NywwMDAwMDAwMDY1NDc1MmE2MTg1MDEwYjVjNWVjMTBiMThlMDc1MTc4`

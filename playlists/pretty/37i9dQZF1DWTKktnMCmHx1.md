@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,828 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,841 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 28 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 29 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 |
 | 30 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 |
-| 31 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
-| 32 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 |
+| 31 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 |
+| 32 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
 | 33 | [Sex Sounds](https://open.spotify.com/track/5JtvedSVWW9McnoEAPJwQm) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 2:42 |
 | 34 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 |
 | 35 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 | 80 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 |
 
-Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMGIxN2ViMWY1NDJiOThiMTc1NTMxYTE1MzQ3ZGY5Zjgy`
+Snapshot ID: `MTY2ODAwNTYyNywwMDAwMDAwMDIwZmM0Yjk3YjlmMTM2ODNiNTAyZmE3MjE1MGY5ODA0`

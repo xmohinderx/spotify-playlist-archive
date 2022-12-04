@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,669,654 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,669,979 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 36 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 |
 | 37 | [Rissa](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 4:42 |
 | 38 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
-| 39 | [Sundown](https://open.spotify.com/track/07GHJiyxs9nbOUXuo33DEp) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/56WWOnVnKXVIPOww1TGvk0) | 2:29 |
-| 40 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 |
+| 39 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 |
+| 40 | [Sundown](https://open.spotify.com/track/07GHJiyxs9nbOUXuo33DEp) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/56WWOnVnKXVIPOww1TGvk0) | 2:29 |
 | 41 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 |
-| 42 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 |
-| 43 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 |
+| 42 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 |
+| 43 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 |
 | 44 | [Mirrors](https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB) | 3:40 |
 | 45 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 |
 | 46 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 61 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 |
 | 62 | [Mukiwa](https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Mukiwa](https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo) | 4:18 |
 | 63 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 |
-| 64 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 |
-| 65 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 |
+| 64 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 |
+| 65 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 |
 | 66 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 |
 | 67 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 |
 | 68 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 75 | [Heat Waves](https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Heat Waves](https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd) | 2:37 |
 | 76 | [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 |
 | 77 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 |
-| 78 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
-| 79 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 |
+| 78 | [Alike](https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:15 |
+| 79 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
 | 80 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 |
 | 81 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
 | 82 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 94 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
 | 95 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
 | 96 | [Rose \- Edit](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa) | [Ljuvski](https://open.spotify.com/artist/2xE2iDErWgKFLmOOcF8hMa) | [Chill House x 3](https://open.spotify.com/album/34TKQyCcsvUv3ISgZsU60p) | 3:20 |
-| 97 | [Unfading](https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Unfading](https://open.spotify.com/album/37wVWvWgPPCoZUlgpJ9Z06) | 2:42 |
-| 98 | [Never Thought](https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Never Thought](https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st) | 6:34 |
-| 99 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 |
+| 97 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 |
+| 98 | [Unfading](https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Unfading](https://open.spotify.com/album/37wVWvWgPPCoZUlgpJ9Z06) | 2:42 |
+| 99 | [Never Thought](https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Never Thought](https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st) | 6:34 |
 | 100 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 |
 
-Snapshot ID: `MTY2OTM5MzA4NiwwMDAwMDAwMDliYzk2YmE1M2EwNTRjN2JiY2I2MTQ1Y2QyZmQzOTMw`
+Snapshot ID: `MTY2OTM5MzA4NiwwMDAwMDAwMDMwZTRlMGI0NmE3NmRiNTE0Mzc2ZjY3ODcwMzdjNTJl`

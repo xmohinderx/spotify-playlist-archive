@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2016-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 188013,
       "name": "Black Skinhead",
       "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 271600,
       "name": "Can't Tell Me Nothing",
       "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 249560,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 357706,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
@@ -1113,6 +1113,24 @@
       "duration_ms": 168360,
       "name": "Gonna Fly Now (Theme From \"Rocky\") - 2006 - Remaster",
       "url": "https://open.spotify.com/track/4hszow3YBRAbGGA0WbbR6r"
+    },
+    {
+      "album": {
+        "name": "Blockbuster Movie Hits",
+        "url": "https://open.spotify.com/album/3XQdk4BKeIPcaTfNiXzVb2"
+      },
+      "artists": [
+        {
+          "name": "Bill Conti",
+          "url": "https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Gonna Fly Now - Theme From \"Rocky\" / Remastered 2006",
+      "url": "https://open.spotify.com/track/5dulYd9AKIprMoF837OTDb"
     },
     {
       "album": {
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 205879,
       "name": "Jumpman",
       "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 208634,
       "name": "Narco",
       "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
@@ -2167,7 +2185,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 250746,
       "name": "Right Thurr",
       "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
@@ -2500,6 +2518,24 @@
     },
     {
       "album": {
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115280,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn"
+    },
+    {
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -2587,7 +2623,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"

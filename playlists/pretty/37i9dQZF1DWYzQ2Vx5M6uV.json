@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 100820,
+  "num_followers": 100860,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGE0NTdkMzNjNzIyZmFhMGE3NzE0NjRhZDVkYTRmYjJh",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGU4YzY4NzAyMjE5NWMzMzE5NTVlYzE2NzNkYTM1Y2Vk",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Hapo Tu (feat. Chris Kaiga)",
+        "url": "https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        },
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        }
+      ],
+      "duration_ms": 187555,
+      "name": "Hapo Tu (feat. Chris Kaiga)",
+      "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Boom Bam (with Afro B & Mariah Angeliq",
         "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 177000,
       "name": "Boom Bam (with Afro B & Mariah Angeliq",
       "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Hapo Tu (feat. Chris Kaiga)",
-        "url": "https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        },
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        }
-      ],
-      "duration_ms": 187555,
-      "name": "Hapo Tu (feat. Chris Kaiga)",
-      "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
     },
     {
       "added_at": "2022-09-06 16:11:58",

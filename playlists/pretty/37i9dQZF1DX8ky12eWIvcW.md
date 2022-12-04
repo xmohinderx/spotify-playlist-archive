@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 
 > Turn up with the biggest party tracks of the '90s and '00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,165,185 likes - 93 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,166,120 likes - 93 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 52 | [Bartender \(feat\. Akon\)](https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Epiphany \(Expanded Edition\)](https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h) | 3:58 |
 | 53 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
 | 54 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
-| 55 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
-| 56 | [Run It! \(feat\. Juelz Santana\)](https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
+| 55 | [Run It! \(feat\. Juelz Santana\)](https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
+| 56 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 57 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
 | 58 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 |
 | 59 | [Big Poppa \- 2007 Remaster](https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:09 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 67 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
 | 68 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
 | 69 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 |
-| 70 | [Day 'N' Nite \(nightmare\)](https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:41 |
+| 70 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
 | 71 | [Where The Hood At](https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Grand Champ](https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd) | 4:46 |
 | 72 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
-| 73 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
+| 73 | [Day 'N' Nite \(nightmare\)](https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:41 |
 | 74 | [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8) | 5:24 |
 | 75 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
 | 76 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 85 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
 | 86 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |
 | 87 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
-| 88 | [Pump It](https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 3:33 |
-| 89 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
-| 90 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
-| 91 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
+| 88 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
+| 89 | [Pump It](https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf) | 3:33 |
+| 90 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
+| 91 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
 | 92 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:47 |
 | 93 | [I'll Be Missing You \(feat\. Faith Evans & 112\) \- 2014 Remaster](https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [No Way Out \(2014 Remaster\)](https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw) | 5:06 |
 
-Snapshot ID: `MTY3MDAyMTU5MCwwMDAwMDAwMGFlZTk1ZGQ3ZDRhNDA1ZTRiYTYwYTU1YjU3YWE0MGM0`
+Snapshot ID: `MTY3MDAyMTU5MCwwMDAwMDAwMGJlYzkzZGI5MmNjM2ZmMjNlYmI3ZDc0Y2ExMDE2NTE5`

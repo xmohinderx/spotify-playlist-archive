@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,196 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,290 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 46 | [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 |
 | 47 | [You're Not Alone](https://open.spotify.com/track/0L5oYrkC94ArMJDmjtvJWC) | [Olive](https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4) | [Extra Virgin](https://open.spotify.com/album/7KmNl25MQnnmcb6YfIT08V) | 4:31 |
 | 48 | [Adiós ayer](https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Navigator\. 15th Anniversary Edition](https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp) | 5:02 |
-| 49 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
-| 50 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/4u88MrYJ8ZCnmUdjITNGKz) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7) | [The Age Of Love \(Radio Edit\)](https://open.spotify.com/album/5h1Jeu9UoNEITNYcWd4BTF) | 6:48 |
+| 49 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/4u88MrYJ8ZCnmUdjITNGKz) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7) | [The Age Of Love \(Radio Edit\)](https://open.spotify.com/album/5h1Jeu9UoNEITNYcWd4BTF) | 6:48 |
+| 50 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
 
-Snapshot ID: `MTY0OTg2MjE2MSwwMDAwMDAwMGI4ZjJkMGRkNmJjOWFjNDE1NWU5NWQxY2E2ZDlhYWQ5`
+Snapshot ID: `MTY0OTg2MjE2MSwwMDAwMDAwMDMwMzdkOWI0ZTQ1MGU2YTk4MDYxOGNjZDg4ZDc1MjI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,251 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,281 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 53 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
 | 54 | [Crash and Burn](https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:10 |
 | 55 | [Cold Beer Calling My Name](https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Cold Beer Calling My Name](https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx) | 3:30 |
-| 56 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 |
-| 57 | [Redneck Yacht Club](https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:50 |
+| 56 | [Redneck Yacht Club](https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:50 |
+| 57 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 |
 | 58 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
 | 59 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
 | 60 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 92 | [Downtown](https://open.spotify.com/track/4kY7rYtE4OQkJNq22OIYRI) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Golden](https://open.spotify.com/album/254bcFt3AV1O2B121GFD9S) | 3:15 |
 | 93 | [Backwoods](https://open.spotify.com/track/3mSAhPW73pyeKoquI7E8B3) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 2:35 |
 | 94 | [Beer Money](https://open.spotify.com/track/61voPX1C71rhwynuLQyajo) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:38 |
-| 95 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
-| 96 | [Mr\. Lonely](https://open.spotify.com/track/6V6Fma9lttQBnIaeHdZ4eC) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Let It Roll](https://open.spotify.com/album/558uSttH0s3zk6tRa0T7tF) | 3:00 |
+| 95 | [Mr\. Lonely](https://open.spotify.com/track/6V6Fma9lttQBnIaeHdZ4eC) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Let It Roll](https://open.spotify.com/album/558uSttH0s3zk6tRa0T7tF) | 3:00 |
+| 96 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
 | 97 | [Hell Of A Night](https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:10 |
 | 98 | [To Us It Did](https://open.spotify.com/track/35v4CE7o8XHvXPDjGPsp15) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [To Us It Did](https://open.spotify.com/album/3DMERTbdgd3MG3lLTonBrZ) | 2:45 |
 | 99 | [Save a Horse \(Ride a Cowboy\)](https://open.spotify.com/track/7ngLY64yLCFIRaybpIYKJz) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Greatest Hits](https://open.spotify.com/album/5SvITt1qWQTDbUyA9wDFsK) | 3:20 |
 | 100 | [Little Red Wagon](https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 3:24 |
 
-Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMDllYjlmODZlZGRjMjgzOTQzNzEwMjlmZWViMDNlOGQy`
+Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMDA1ZGQ0YjA4MmU3NjZhODlkM2IzYTZmOWFhMDkzMDA1`

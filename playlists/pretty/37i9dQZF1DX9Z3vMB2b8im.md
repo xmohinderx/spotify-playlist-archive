@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,394 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,344 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 27 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
 | 28 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 |
 | 29 | [Fake Moon](https://open.spotify.com/track/5CNRQl4e0b2mMF7Zz3f34U) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Fake Moon](https://open.spotify.com/album/0kfLXfbPt4wGJ8BmBXcPjx) | 2:14 |
-| 30 | [Becoming](https://open.spotify.com/track/5B5Zjcrl4IOb2RwnUx0Qt2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/1QipggjYx6zUGKciuPT8FF) | 3:34 |
+| 30 | [Becoming](https://open.spotify.com/track/0G7TIPBaYi0pgCsfRE5gFf) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/0hKim7XEJ4yPC65smJjVkM) | 3:34 |
 | 31 | [Pale Damp Cheeks](https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:33 |
 | 32 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
 | 33 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 | 80 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
 
-Snapshot ID: `MTY2OTM4OTkwOSwwMDAwMDAwMGQwN2NlMmExY2MxMDI0YTRmNDkxM2MyMjAzNmE1NGI1`
+Snapshot ID: `MTY2OTM4OTkwOSwwMDAwMDAwMDFiMGIwNjYwMDUwNTUwNzQ1ZGY3ODcxMDA2MmJjNGI1`

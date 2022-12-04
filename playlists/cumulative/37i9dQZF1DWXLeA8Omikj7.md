@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-773 songs - 2 day 7 hr 23 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
+774 songs - 2 day 7 hr 26 min - [published](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [God Knows We Tried](https://open.spotify.com/track/4u4kVqtHSNULrl0esijmbK) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [God Knows We Tried](https://open.spotify.com/album/3fp6XL68wHbPJjL6gWfzGM) | 6:13 | 2021-02-26 | 2022-05-29 |
 | [God Over Money](https://open.spotify.com/track/1biT6m3iWTTZqvEjAXeQbC) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB) | 3:36 | 2021-11-19 | 2022-07-23 |
 | [Golden](https://open.spotify.com/track/7lEfj40mIGgEbqW1WO58wY) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:21 | 2019-07-25 | 2020-08-26 |
-| [Gone Fishing](https://open.spotify.com/track/43ZYhWQmtLdtgISK8QmBGE) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Gone Fishing](https://open.spotify.com/album/2pOdA2MvMs96BHaFzztKlZ) | 3:12 | 2020-08-26 |  |
+| [Gone Fishing](https://open.spotify.com/track/43ZYhWQmtLdtgISK8QmBGE) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Gone Fishing](https://open.spotify.com/album/2pOdA2MvMs96BHaFzztKlZ) | 3:12 | 2020-08-26 | 2022-12-04 |
 | [Goodnight Waves](https://open.spotify.com/track/7dlck0U6iU2xhhc3WRyBIU) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Goodnight Waves](https://open.spotify.com/album/277SIFjpQSC1PDDeGbDwjV) | 3:28 | 2019-06-19\* | 2020-10-21 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2021-09-10 | 2022-04-20 |
 | [Great Falls](https://open.spotify.com/track/52DSJ2C3EcgPBIiPEbQIrR) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:32 | 2019-07-25 | 2020-08-26 |
@@ -607,6 +607,7 @@
 | [Sit Around The Fire](https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Sit Around The Fire](https://open.spotify.com/album/6yr4d6TDbPpsUklbsLUz6x) | 8:22 | 2021-09-03 |  |
 | [Skylab District](https://open.spotify.com/track/5N9ORjMVySSfAbW3NbEHeX) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Skylab District](https://open.spotify.com/album/4F4MP8Ifyv38AiLHPeKHUw) | 3:37 | 2021-04-24 | 2022-05-28 |
 | [Skyscrapers](https://open.spotify.com/track/5mUhvWJm21XBOEppDMmGgN) | [Daydreamer](https://open.spotify.com/artist/7pcwfhcdyYJqkCV098EgYl) | [Senses](https://open.spotify.com/album/0ALxr1bwap4ptl8rjpLNop) | 6:23 | 2019-05-26\* | 2020-10-19 |
+| [Sleep Swimming](https://open.spotify.com/track/4WgTDWlUMOJuAtlgT78joj) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Wishful Thinking](https://open.spotify.com/album/15r5QOkft2W7XyYCCN099A) | 2:40 | 2022-09-09 |  |
 | [Sleep Swimming](https://open.spotify.com/track/5M2UUj4MKLWehb2e6FHCU8) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Sleep Swimming](https://open.spotify.com/album/11tHvsaYYk7uHR7yDAsJoX) | 2:40 | 2020-10-28 | 2022-07-28 |
 | [sleep\_mode](https://open.spotify.com/track/5S2qQsIUJS3082VtpE1mrD) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1) | [go\_computer](https://open.spotify.com/album/1VhHn3aZb1XO1EbBCMPkd7) | 2:51 | 2019-06-19\* | 2020-10-22 |
 | [Sleepless in Berlin](https://open.spotify.com/track/1noDNeVWioK5Q17deVoUpl) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sleepless in Berlin](https://open.spotify.com/album/5L7zbbmO9aW5Vj5ZB5yrTs) | 3:18 | 2019-06-19\* | 2020-10-21 |

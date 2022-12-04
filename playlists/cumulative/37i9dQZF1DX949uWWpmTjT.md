@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-270 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+271 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [If I Had You](https://open.spotify.com/track/08x5QqbphPdShZJ0fdJK6h) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2021-12-03 | 2022-11-11 |
 | [If The Moon Turns Green](https://open.spotify.com/track/3VVfyUGLBWKkTbGIuoLd1l) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:48 | 2021-12-03 | 2022-11-11 |
 | [Ill Wind](https://open.spotify.com/track/5x86T4WYD8z4axZugABMJ7) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:41 | 2022-03-25 | 2022-09-23 |
+| [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |
 | [In A Mellow Tone](https://open.spotify.com/track/6PtMY654POS9nizEBvrdPD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:10 | 2021-12-03 | 2022-11-11 |
 | [In a Sentimental Mood](https://open.spotify.com/track/4nwPv8i1VJlgkiy8vTfGzA) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [In a Sentimental Mood](https://open.spotify.com/album/51mMHyLtEz8eQoNGEtwwL1) | 6:23 | 2022-06-09 | 2022-09-25 |
 | [In a Sentimental Mood](https://open.spotify.com/track/7hqUrALWgNQzuqyZGGitUI) | [The Jazz Seekers](https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Divine Beasts](https://open.spotify.com/album/5VKqC7171wf7D2fdcPIH8f) | 6:23 | 2022-09-22 | 2022-11-11 |
@@ -202,7 +203,7 @@
 | [Self\-Portrait In Three Colours](https://open.spotify.com/track/1dLb36wK59q5QgGCZE9YyK) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/4Z8nWz3dGybOP7lhMZpcOo) | 3:06 | 2021-12-03 | 2022-11-11 |
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-11-10 | 2022-11-27 |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2022-11-10 |  |
-| [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-11-10 |  |
+| [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-11-10 | 2022-12-04 |
 | [Since I Fell for You](https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 4:23 | 2021-12-03 | 2022-11-11 |
 | [Slow Motion Blues \- 2003 Remastered Version](https://open.spotify.com/track/28pXjvjSad59tRDv3EmtNz) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Social Call](https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Gigi Gryce](https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa) | [When Farmer Met Gryce](https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a) | 6:05 | 2021-12-03 | 2022-11-11 |

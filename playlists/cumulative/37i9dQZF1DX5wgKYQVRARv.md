@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-575 songs - 2 day 1 hr 50 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+576 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Back in Limbo](https://open.spotify.com/track/6hJkgzJ982UoS1Caq8GMhk) | [Zoch](https://open.spotify.com/artist/2L3wP0u0EwZ0mHz12uZCwp), [City State](https://open.spotify.com/artist/7hPEnlnARMXLX3qT1KNF8U) | [Back in Limbo](https://open.spotify.com/album/0qBTVEV3HaZeubL36c9eRN) | 4:38 | 2022-03-01 | 2022-04-21 |
 | [Badge Of Honour](https://open.spotify.com/track/1h1KYnGuhO3RVI6G859ubf) | [Chaos Divine](https://open.spotify.com/artist/4VT9oITGBWVyRxp1OrSzQh) | [Colliding Skies](https://open.spotify.com/album/39YuvaO4UsT0JCHUXtaTJg) | 4:16 | 2021-12-17 | 2022-01-23 |
 | [Ball of Hatred](https://open.spotify.com/track/3hnrIxXxAwLG8MOwddS8uw) | [Defecto](https://open.spotify.com/artist/2o6fdLOyFmR2e94aYpQoAs) | [Ball of Hatred](https://open.spotify.com/album/3tRkBK61D9TY1VURVVG9NT) | 3:42 | 2022-01-21 | 2022-07-21 |
-| [Ball of Hatred](https://open.spotify.com/track/5v7Am1S5c93UDqYZGlVPdO) | [Defecto](https://open.spotify.com/artist/2o6fdLOyFmR2e94aYpQoAs) | [Ball of Hatred](https://open.spotify.com/album/7lcvKJHUyikxgxt6illlXR) | 3:42 | 2022-10-28 |  |
+| [Ball of Hatred](https://open.spotify.com/track/5v7Am1S5c93UDqYZGlVPdO) | [Defecto](https://open.spotify.com/artist/2o6fdLOyFmR2e94aYpQoAs) | [Ball of Hatred](https://open.spotify.com/album/7lcvKJHUyikxgxt6illlXR) | 3:42 | 2022-10-28 | 2022-12-04 |
 | [Beauty In Expiration \- Instrumental](https://open.spotify.com/track/5XiyUFdyBMvSXY7pHaq9Ni) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka) | [Apple of Discord \(Instrumental Edition\)](https://open.spotify.com/album/3L3PNiY8LMxc6YqlMQHvNq) | 3:54 | 2022-04-08 |  |
 | [Below](https://open.spotify.com/track/23YMwjzqj47YrskpuWvBvj) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Below](https://open.spotify.com/album/7jCNrwvnWDNEUhrsdfgjxE) | 5:52 | 2021-12-17 | 2022-09-03 |
 | [BIG SHOT \(from "DELTARUNE Chapter 2"\) \[Metal Version\]](https://open.spotify.com/track/4sSFw0jd4NoSSVsVKFAtm8) | [FamilyJules](https://open.spotify.com/artist/1w7df2ogprg1i3iQ9fH7pO), [Ace of Hearts](https://open.spotify.com/artist/2HVE2V5PaPVnSohgQCuFCH) | [BIG SHOT \(from "DELTARUNE Chapter 2"\) \[Metal Version\]](https://open.spotify.com/album/60WfK7o3EauUhKriD1v56Y) | 2:27 | 2022-01-28 | 2022-02-02 |
@@ -333,6 +333,7 @@
 | [Nocturne: Lost Faith](https://open.spotify.com/track/0tTenNzVzQMdZK92jgcxIJ) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Everchanger](https://open.spotify.com/album/4dQj0M8CCEAN9kObuRcZZA) | 3:26 | 2022-07-13 |  |
 | [Noonday Devil](https://open.spotify.com/track/6N4SnZzS4YYtslJ86FgxwE) | [The Great Discord](https://open.spotify.com/artist/3KWOkq7nrD0UybEUMj4Ryt) | [Noonday Devil](https://open.spotify.com/album/4kwiB6JzcCoYH6JRsOoTE2) | 3:20 | 2021-12-17 | 2022-07-27 |
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 |  |
+| [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 |  |
 | [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
 | [Obsolete Beings](https://open.spotify.com/track/0FiVaht935tCYXQFMJF5uX) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Obsolete Beings](https://open.spotify.com/album/3mZkwo2gwJP5smBjH04Hp9) | 5:34 | 2021-12-17 | 2022-01-29 |
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
@@ -492,7 +493,7 @@
 | [The Quartz Grave](https://open.spotify.com/track/6XHpv3Ll4amR9EwrMeYm50) | [V3ctors](https://open.spotify.com/artist/6cRxCrWwfxBaBKBJW1WOI8) | [Amarna, Pt\. 1](https://open.spotify.com/album/1LPdLI78lK9xttgvopL1P5) | 4:19 | 2022-07-13 | 2022-07-25 |
 | [The Rat & The Snake](https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka), [Tyler Shelton](https://open.spotify.com/artist/05te9cG7cEF5EuxU9JqnCk) | [Apple of Discord](https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX) | 4:06 | 2022-07-13 |  |
 | [The Regress](https://open.spotify.com/track/0MA6RvZ7cIJLVkREkEJmvX) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/5FEXEjkn7RZM0XycCEkSvP) | [The Regress](https://open.spotify.com/album/5Yxr8ohf1xJPXlIAwbkODu) | 4:52 | 2021-12-17 |  |
-| [The Riven Heart](https://open.spotify.com/track/09QwbIVHfMelQeaCbvIt18) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [The Riven Heart](https://open.spotify.com/album/6JkhAVwtVIextjGF1nOjo5) | 5:57 | 2021-12-17 |  |
+| [The Riven Heart](https://open.spotify.com/track/09QwbIVHfMelQeaCbvIt18) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [The Riven Heart](https://open.spotify.com/album/6JkhAVwtVIextjGF1nOjo5) | 5:57 | 2021-12-17 | 2022-12-04 |
 | [The Same Asylum As Before](https://open.spotify.com/track/1QNwjDbxhWPtdevy7ZTXAg) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [To The Bone](https://open.spotify.com/album/37lL4QxxvHJ3SxFH2KtkDD) | 5:14 | 2021-12-17 | 2022-01-29 |
 | [The Secret Pt\. 1](https://open.spotify.com/track/6D6NRfGV84J0S8IgpDTWxQ) | [DGM](https://open.spotify.com/artist/5Rq2C3wWiwL3NqjutXMt8e) | [The Secret Pt.1](https://open.spotify.com/album/2eh7y0C8ALvLBB1bAXoorh) | 8:24 | 2021-12-17 | 2022-01-28 |
 | [The Shadow](https://open.spotify.com/track/6rLASbKbKCPQjB5WrkOpCx) | [Toothgrinder](https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP) | [Phantom Amour](https://open.spotify.com/album/67qrET1eCDywwoPECD5trm) | 4:01 | 2021-12-17 | 2022-01-29 |
@@ -516,7 +517,7 @@
 | [Three Bridges](https://open.spotify.com/track/7IwuxtmnfC5rjxmk49it95) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Three Bridges](https://open.spotify.com/album/3vb21L1QoverZCitHOoOhq) | 8:45 | 2021-12-17 | 2022-07-29 |
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 |  |
-| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 | 2022-11-26 |
+| [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 |  |
 | [Total](https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo) | 4:24 | 2022-03-25 |  |
 | [Transcend](https://open.spotify.com/track/0BPlqGBFXNrgO7H3H4SB6T) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss), [Vitaly Machunsky](https://open.spotify.com/artist/4mXWfRVvpyFuXhPeUcGKXK) | [Transcend](https://open.spotify.com/album/0sqwBRnSwTe1zoO2dYnhxC) | 5:25 | 2022-01-07 | 2022-07-26 |
 | [Tsitsushka](https://open.spotify.com/track/50oIQfiIQbNnDyhkI0S3sB) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Tsitsushka](https://open.spotify.com/album/313qBhwyl3mlW91CCBIKf2) | 5:38 | 2021-12-17 | 2022-07-29 |

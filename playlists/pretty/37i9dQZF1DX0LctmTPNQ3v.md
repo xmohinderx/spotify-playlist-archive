@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,275 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,709 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 8 | [Carol Of The Bells](https://open.spotify.com/track/5Awe7avyVaXwZEfgdKqBsN) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Carol of The Bells](https://open.spotify.com/album/5PHDePBPQQM5VsXO98L3Pc) | 2:52 |
 | 9 | [Santa Tell Me](https://open.spotify.com/track/1qsPbldREgR4wRvmK1FMBl) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Santa Tell Me](https://open.spotify.com/album/3iQzsXaCoEeNAP1bt1tqFn) | 3:10 |
 | 10 | [We Wish You A Merry Xmas \- We Wish You A Metal X\-Mas](https://open.spotify.com/track/7wtEU2FsjBytfLR4y5PRLA) | [Bruce Kulick](https://open.spotify.com/artist/30TJoJIn79ZTDn7J93ymi8), [Bob Kulick](https://open.spotify.com/artist/4q45RFcseWdsJx2gR1rrio), [Ray Luzier](https://open.spotify.com/artist/6GkkjXQFA2i05eFQnkzAsh), [Chris Wyse](https://open.spotify.com/artist/2hp1rDJZ9RnuNZepcy69Qm), [Jeff Scott Soto](https://open.spotify.com/artist/7afXgYjtXG2zD69Asm5q1Z) | [We Wish You A Metal XMas...And A Headbanging New Year!](https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc) | 4:39 |
-| 11 | [O Holy Night \(feat\. Eva Under Fire\)](https://open.spotify.com/track/71c1CDrbPMM1P8wd9gXAIj) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd), [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [O Holy Night \(feat\. Eva Under Fire\)](https://open.spotify.com/album/5lu7JfIt0sYgi2JAd25UxA) | 1:32 |
+| 11 | [O Holy Night \(feat\. Eva Under Fire\)](https://open.spotify.com/track/71c1CDrbPMM1P8wd9gXAIj) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd), [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5) | [O Holy Night \(feat\. Eva Under Fire\)](https://open.spotify.com/album/5lu7JfIt0sYgi2JAd25UxA) | 1:32 |
 | 12 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3vSogSk1GgB0D1V7r8nkEP) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Winter Wilderness EP](https://open.spotify.com/album/1iNaHBJANUPl2U84kSjogc) | 3:07 |
 | 13 | [Heavy Metal Christmas \(The Twelve Days of Christmas\)](https://open.spotify.com/track/59WsYKt9mpTd0c1Z9uLGsw) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [A Twisted Christmas](https://open.spotify.com/album/0NokM2CRbGwVjhS7J1nyAC) | 5:14 |
 | 14 | [All I Want For Christmas Is You](https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [All I Want For Christmas Is You](https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 
 > A llorar a la llorería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,439 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,644 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 57 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 |
 | 58 | [Break My Heart Again](https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh) | 3:58 |
 | 59 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
-| 60 | [If By Chance](https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 5:03 |
+| 60 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
 
-Snapshot ID: `MTY2ODEyNDY3MSwwMDAwMDAwMDVhM2NhYWEzMmRjMTRmOWJlN2U1NGI0NmFkYWE0NjY1`
+Snapshot ID: `MTY2ODEyNDY3MSwwMDAwMDAwMDgzNjRlNzIwMDcxMzY1MTFkOGY3YzdhYjFhMjc5OTNh`

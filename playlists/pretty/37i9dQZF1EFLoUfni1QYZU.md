@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 24 | [N'oublie pas](https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Désobéissance](https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI) | 3:39 |
 | 25 | [Someday](https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:12 |
 | 26 | [Suspicion](https://open.spotify.com/track/3m2xJrdQwtkv6NCs2SG7O4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:20 |
-| 27 | [Human](https://open.spotify.com/track/3zr5liODTQ9fdtrDOPatiS) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:29 |
-| 28 | [House On Fire](https://open.spotify.com/track/01mKJ0Xz90naXw0iOf0YhH) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:01 |
+| 27 | [House On Fire](https://open.spotify.com/track/01mKJ0Xz90naXw0iOf0YhH) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:01 |
+| 28 | [Human](https://open.spotify.com/track/3zr5liODTQ9fdtrDOPatiS) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:29 |
 | 29 | [Switchblade](https://open.spotify.com/track/6WZplTldmHviPQ6FE4t9mM) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:24 |
 | 30 | [Wasted Love \- Live](https://open.spotify.com/track/2MUI78ENObwkB08yQQbO5a) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:11 |
 | 31 | [Death Valley](https://open.spotify.com/track/7lKCiqJLakjQuPZ7ZvpmPc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 2:52 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 81 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
 | 82 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjc4MzM4MjIsMDAwMDAwMDAxZmEzNDAxNDQ5YTJjZWIwZWE4YThiY2UzMWNkOTJlNw==`
+Snapshot ID: `Mjc4MzUyNjIsMDAwMDAwMDA0ODU3ZDc4NDkxNWVlYzdkM2VkNjgxYTQ3OGM0YjI3MQ==`

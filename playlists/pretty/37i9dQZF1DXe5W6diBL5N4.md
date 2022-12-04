@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:Red Velvet\(레드벨벳\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,091 likes - 560 songs - 1 day 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,245 likes - 560 songs - 1 day 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 15 | [Bam bi](https://open.spotify.com/track/3srqmGniODFINqRYnO0UKT) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Revenge of Others \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2NsgpQ64Ay9ZBKOSS46cEE) | 3:40 |
 | 16 | [WISH \(Feat\. SURAN\)](https://open.spotify.com/track/3BVH2sbLMGAiNzSFA0mamz) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [WISH](https://open.spotify.com/album/6IaF6fy3T5X1DiXszwFdVZ) | 3:21 |
 | 17 | [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/track/4it25gP6QbbMBMNEeRXffp) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [SOMETHING LIKE THAT \(2022\)](https://open.spotify.com/album/21qp6zQffu78ZujaxYbjCf) | 4:30 |
-| 18 | [Dream land](https://open.spotify.com/track/2eBFHksW1ilN9hBWxgATJb) | [XEED](https://open.spotify.com/artist/7syqtf0SAxR6B25u4b5M9L) | [Dream land](https://open.spotify.com/album/2vFR3nCoeBb60npORpJzCD) | 3:11 |
+| 18 | [Dream land](https://open.spotify.com/track/2eBFHksW1ilN9hBWxgATJb) | [XEED](https://open.spotify.com/artist/6N6p7pQeB9kjLhvvS3L5j1) | [Dream land](https://open.spotify.com/album/2vFR3nCoeBb60npORpJzCD) | 3:11 |
 | 19 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 |
 | 20 | [Back Down](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : SET IN](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) | 2:48 |
 | 21 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 |

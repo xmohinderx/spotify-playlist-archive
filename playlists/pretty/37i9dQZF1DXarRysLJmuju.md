@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Photo: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,599 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,616 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 13 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
 | 14 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 |
 | 15 | [Kiss Me](https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:49 |
-| 16 | [Escape](https://open.spotify.com/track/6t8oosZU0hFD847n53vinc) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(Remixes\)](https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo) | 4:00 |
+| 16 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 |
 | 17 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 |
 | 18 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 |
 | 19 | [Lovesick](https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
 | 100 | [Do I make you nervous?](https://open.spotify.com/track/1FC511SYR7SXb1qrBr3oq0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Do I make you nervous?](https://open.spotify.com/album/5zjEJwtQGYfo08aaYiZsYZ) | 2:32 |
 
-Snapshot ID: `MTY2OTk5Nzg3MCwwMDAwMDAwMGUzNzhiNWYxZDI0ZGE5NjcwYTQ0NDcwZGIwODg5Mzhm`
+Snapshot ID: `MTY2OTk5Nzg3MCwwMDAwMDAwMGFkZjFhOTBjYTYyZWI4OWNjY2FjYjkwMWNkODJhMDY4`

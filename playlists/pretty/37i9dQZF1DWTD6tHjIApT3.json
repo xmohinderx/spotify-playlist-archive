@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u677e\u6d66\u4e9c\u5f25",
-  "num_followers": 87022,
+  "num_followers": 87074,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTg0NywwMDAwMDAwMGRiOTI2MTUwM2U2NjI2ZWZjOGU4MzhkNmZhMzkwZDE0",
+  "snapshot_id": "MTY2OTk2NTg0NywwMDAwMDAwMDg3YTM0ZGNiMDQ3OWFjN2RkYzMxNWE0NTg3OGRiMDM5",
   "tracks": [
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
+        "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 266373,
-      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+      "duration_ms": 249426,
+      "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c"
+        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 249426,
-      "name": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi"
+      "duration_ms": 266373,
+      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Hurricanes",
-        "url": "https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 202856,
-      "name": "Hurricanes",
-      "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
         "name": "Hikare Inochi",
         "url": "https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 322146,
       "name": "Hikare Inochi",
       "url": "https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
+        "name": "Hurricanes",
+        "url": "https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 202856,
+      "name": "Hurricanes",
+      "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
+        "name": "LOVE CYCLE",
+        "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        },
+        {
+          "name": "Taka",
+          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Victim of Love - feat. Taka",
+      "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
         "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
@@ -1595,22 +1615,18 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "LOVE CYCLE",
-        "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9"
       },
       "artists": [
         {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        },
-        {
-          "name": "Taka",
-          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Victim of Love - feat. Taka",
-      "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
+      "duration_ms": 271889,
+      "name": "\u82b1\u706b",
+      "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 207521,
       "name": "Love Like A Bomb (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
-        "name": "\u82b1\u706b",
-        "url": "https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9"
-      },
-      "artists": [
-        {
-          "name": "Tielle",
-          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
-        }
-      ],
-      "duration_ms": 271889,
-      "name": "\u82b1\u706b",
-      "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
     },
     {
       "added_at": "2022-12-01 15:00:00",

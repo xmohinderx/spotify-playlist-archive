@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Las artistas que marcaron el año con Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,959 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,975 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 41 | [De los Límites](https://open.spotify.com/track/6F2hjr7MkepvMp69C2JdFP) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 4:13 |
 | 42 | [Por Que Se Fue la Paloma](https://open.spotify.com/track/75ic82G9v6jgTDjlq7jij7) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Lucero](https://open.spotify.com/album/4LFoct8D5qbHcGH1HVq6jP) | 4:03 |
 | 43 | [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 |
-| 44 | [No más me dio](https://open.spotify.com/track/3bms00eq58V702DSRk7spN) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:13 |
-| 45 | [Amuleto](https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Amuleto](https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG) | 3:38 |
+| 44 | [Amuleto](https://open.spotify.com/track/59iDxn0HIxHIcTZW4poFj7) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Amuleto](https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG) | 3:38 |
+| 45 | [No más me dio](https://open.spotify.com/track/3bms00eq58V702DSRk7spN) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:13 |
 | 46 | [Temores](https://open.spotify.com/track/3TOCH8ZjLvmIRfyAe2niE8) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 4:14 |
 | 47 | [Nuestro Viaje](https://open.spotify.com/track/7u5pfiZmga8yk7mRetF98N) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Nuestro Viaje](https://open.spotify.com/album/0uj9llW1D4Gu0yrajpTx2D) | 3:14 |
 | 48 | [Remando Al Fondo](https://open.spotify.com/track/7Hbvcj8TI6cH4VP0XCzqS1) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Nicolas Libertad](https://open.spotify.com/artist/4Zohwfh3tPyL3X3baHjKDc) | [Remando Al Fondo](https://open.spotify.com/album/3KB4oVOGMe0Pyi6AJIM0Kg) | 3:33 |
 | 49 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 |
 | 50 | [Música \- Quadman Remix](https://open.spotify.com/track/1tsOfeJb5PliHGBP4adsmD) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Quadman](https://open.spotify.com/artist/4pIRnTXA6rcHUXbdS7uxuE) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 6:15 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMGRlOTQwOWJlMzAxZTFiOTU1MDI2NmI1ZjQ1YWMwMTY0`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDNkNWY0NTg0MzEyZDgzMzk4Mzg5NDNjNWIxOGJkZjJj`

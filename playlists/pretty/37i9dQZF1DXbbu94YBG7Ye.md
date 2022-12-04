@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > Si la rompe está acá\. Foto: YSY A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,873,076 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,874,190 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

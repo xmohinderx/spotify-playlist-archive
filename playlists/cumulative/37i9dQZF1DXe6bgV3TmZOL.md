@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-355 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+356 songs - 22 hr 27 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Kings & Queens](https://open.spotify.com/track/5q9odCy98qQpGOifzN5bd4) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Kings & Queens](https://open.spotify.com/album/4GTkQiW0rIDDIQYazg0SYR) | 3:02 | 2021-11-12 | 2022-07-22 |
 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 | 2022-07-13 | 2022-11-03 |
 | [Learn To Walk Again](https://open.spotify.com/track/0WqNI4pN93epyGavKOHqgj) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 2:47 | 2021-11-12 |  |
+| [Leave It All Behind](https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:18 | 2022-11-02 |  |
 | [Leave It All Behind](https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:18 | 2022-06-17 | 2022-11-05 |
 | [Leave It All Behind](https://open.spotify.com/track/6nMNpGl4VvMhtYigbbOmBu) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Leave It All Behind](https://open.spotify.com/album/76qwO2cPiwixGhfBnoGZFE) | 3:18 | 2021-11-12 | 2022-07-16 |
 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 | 2021-11-12 | 2022-07-29 |
@@ -231,7 +232,7 @@
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2022-09-28 | 2022-11-03 |
 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 | 2022-06-17 |  |
 | [Over It](https://open.spotify.com/track/7m0OBz7Y2xz3cyhB0uXiFx) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Over It](https://open.spotify.com/album/45BkR6MJzzgNNhZCdG0xjN) | 3:47 | 2022-04-04 | 2022-04-20 |
-| [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 | 2021-11-12 |  |
+| [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 | 2021-11-12 | 2022-12-04 |
 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 | 2022-07-13 |  |
 | [Parabola](https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:03 | 2022-11-02 |  |
 | [Paradigm](https://open.spotify.com/track/02oK4gIc9XIKjvSO13yGwN) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Paradigm](https://open.spotify.com/album/1Ml5MQeO2VVNBgvexIA9Ff) | 3:20 | 2021-11-12 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,369 likes - 59 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,425 likes - 59 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 38 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 |
 | 39 | [Cumbiera Intelectual](https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 4:10 |
 | 40 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
-| 41 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 |
-| 42 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 41 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 42 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 |
 | 43 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
 | 44 | [Agradezco](https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 4:54 |
 | 45 | [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 |
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 47 | [Hasta siempre](https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [Cantos revolucionarios de america latina](https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k) | 4:30 |
 | 48 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 |
 | 49 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
-| 50 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
-| 51 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 |
+| 50 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 |
+| 51 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
 | 52 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 |
-| 53 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
-| 54 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
-| 55 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 |
+| 53 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
+| 54 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 |
+| 55 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 56 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 |
 | 57 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 |
 | 58 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
 | 59 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 
-Snapshot ID: `MTY2OTM1NjAwMCwwMDAwMDAwMGE1YTU5YjkzYTRmNzE1NTc5MGU2N2RhNGJmZmRmNzMz`
+Snapshot ID: `MTY2OTM1NjAwMCwwMDAwMDAwMDVjOGIzZmFhMDM3ZjMwMDM1MzQwN2JiN2Y1MTVkOTQx`

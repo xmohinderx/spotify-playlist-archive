@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-376 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+377 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Oye Abre Tus Ojos](https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z) | [July Mateo Rasputin](https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi) | [Exitos](https://open.spotify.com/album/4ZXAcZ2oYaLj2Xpq8PvbTa) | 4:25 | 2021-02-02 |  |
 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 | 2021-02-02 |  |
 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 | 2021-02-02 | 2022-10-19 |
-| [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 | 2021-02-02 |  |
+| [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 | 2021-02-02 | 2022-12-04 |
 | [Penelope](https://open.spotify.com/track/1rQKgkbKDR7boRA0aPXQGI) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Merengue Salvaje](https://open.spotify.com/album/1BeAOinmiOj7uvjEZp7oCA) | 4:26 | 2021-02-02 | 2022-07-29 |
 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 | 2021-02-02 |  |
 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 | 2021-02-02 |  |
@@ -382,6 +382,7 @@
 | [Yo me siento enamorao](https://open.spotify.com/track/59nZA82434bNwjeDcqO7UE) | [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [30 Merengues Clasicos Pal' Pueblo](https://open.spotify.com/album/6NPXa6NKhHQRw4bMbBaqwQ) | 6:15 | 2021-02-02 | 2022-10-20 |
 | [Yo Que Te Amé / Cuánta Vida / Todo Aquello / Tú Vacilándome](https://open.spotify.com/track/1LduVfHrZmcdf8e1jdptGN) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:05 | 2021-02-02 | 2022-07-29 |
 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 | 2021-02-02 | 2022-12-01 |
+| [Yo Soy Asi](https://open.spotify.com/track/7hgNJBaN3BmxMIGtVHoBvm) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2) | 3:38 | 2021-02-02 |  |
 | [¡Ay Doctor!](https://open.spotify.com/track/0WiXmhgxvudybPq4htELpo) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Arrasando Con Todo ¡Ay Doctor!](https://open.spotify.com/album/5938ac4vSf3QB2rJpWTAbi) | 5:04 | 2021-02-02 |  |
 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 | 2021-02-02 |  |
 

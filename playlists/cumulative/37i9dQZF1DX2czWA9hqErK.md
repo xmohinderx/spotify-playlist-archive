@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-419 songs - 23 hr 42 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+421 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [nobody but me](https://open.spotify.com/track/0digQGlIq6x0wXxkJiNqBh) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:54 | 2022-03-25 | 2022-04-20 |
 | [Nocturnal](https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Nocturnal](https://open.spotify.com/album/3QB4VboOQHb2iNP7ObBltP) | 4:22 | 2021-12-16 | 2022-04-25 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-11 | 2022-07-29 |
-| [nowhere to hide](https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [nowhere to hide](https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0) | 2:51 | 2022-03-25 |  |
+| [nowhere to hide](https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [nowhere to hide](https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0) | 2:51 | 2022-03-25 | 2022-12-04 |
 | [NUMB](https://open.spotify.com/track/4J4IxNIFuulURHUKLGZezs) | [Fya Fox](https://open.spotify.com/artist/7iHKEFusxmUf4LhQcYsZqL) | [NUMB](https://open.spotify.com/album/79HMdlzfBNYRU9W4RpmDu9) | 2:57 | 2022-01-17 | 2022-07-14 |
 | [Oblivion](https://open.spotify.com/track/09q4ALH4QxYkoBaPFy4AKg) | [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Oblivion](https://open.spotify.com/album/6P6bvjFhmPgPYMCt8YTpca) | 3:18 | 2022-01-17 | 2022-01-26 |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-12-16 | 2022-01-06 |
@@ -304,11 +304,12 @@
 | [Perfect Personality](https://open.spotify.com/track/7DPSPzx5RQP5VRFA1f1X7G) | [WORRYWORRY](https://open.spotify.com/artist/5fObbgUTn2cNrVTQwQfZYT) | [Perfect Personality](https://open.spotify.com/album/5Y3ykdFFbu4xHnX5OJnIuN) | 3:01 | 2022-04-04 | 2022-04-21 |
 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 | 2021-12-16 | 2022-03-26 |
 | [Pinnacle](https://open.spotify.com/track/4qIQ8zMxvCX2r7GxZuzyAM) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [Pinnacle](https://open.spotify.com/album/5KRmA2e4skldOdwB6iHLfw) | 3:03 | 2022-05-31 | 2022-07-17 |
+| [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-02 |  |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-02-21 |  |
 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 | 2022-11-23 |  |
 | [Pull You Back Down](https://open.spotify.com/track/3OLtXjraY1wMigUSLv0p7k) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Pull You Back Down](https://open.spotify.com/album/4ewhpsRgSWAFiQUitvmWIE) | 3:50 | 2022-02-14 | 2022-03-28 |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-13 |  |
-| [Quiet Zone](https://open.spotify.com/track/7uThAwbtW0yuK6fePJMpyg) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Quiet Zone](https://open.spotify.com/album/17udCcoR78nM6Dp9P0LNjO) | 2:06 | 2022-03-25 |  |
+| [Quiet Zone](https://open.spotify.com/track/7uThAwbtW0yuK6fePJMpyg) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Quiet Zone](https://open.spotify.com/album/17udCcoR78nM6Dp9P0LNjO) | 2:06 | 2022-03-25 | 2022-12-04 |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-02-21 | 2022-10-14 |
 | [Read My Mind](https://open.spotify.com/track/6n4JuG8pLp7czHiIbbA5D4) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Read My Mind](https://open.spotify.com/album/4yJv4TJLwaYQDZOc5RUGgJ) | 3:48 | 2021-12-16 | 2022-02-28 |
 | [Red Hearts](https://open.spotify.com/track/6kLdSLraP7xxZ7MG2whHBM) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Red Hearts](https://open.spotify.com/album/51SibOPo6UKKZ4ffvZ8Snc) | 4:23 | 2022-03-25 | 2022-04-05 |
@@ -411,6 +412,7 @@
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-01-25 | 2022-05-12 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-05-31 |  |
 | [Where Were You](https://open.spotify.com/track/3ZerLF2MvAUqykOMORxRrz) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Where Were You](https://open.spotify.com/album/31NTXiwyIGfBt7lfndSUMG) | 3:20 | 2022-01-25 | 2022-02-19 |
+| [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 | 2022-12-02 |  |
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-12-16 | 2022-03-28 |
 | [Whose Life?](https://open.spotify.com/track/4ZBPIZ9ucyCYObAYPKPOs6) | [Leon Stanford](https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX) | [Whose Life?](https://open.spotify.com/album/3Tv4HCGpwP8RQm1Qehw73s) | 4:21 | 2022-02-21 | 2022-04-12 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-04-04 | 2022-10-22 |

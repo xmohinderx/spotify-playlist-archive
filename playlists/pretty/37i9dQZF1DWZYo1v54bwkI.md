@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,757 likes - 188 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,856 likes - 188 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 35 | [Crepuscular Light](https://open.spotify.com/track/22Gxnq14IyFZgPcoohx5qQ) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Crepuscular Light](https://open.spotify.com/album/0XmxSLDO7hmFDkQNt6DLer) | 2:39 |
 | 36 | [Vakna](https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Andrum](https://open.spotify.com/album/3DEAYz5dCigP164kUJU53M) | 2:24 |
 | 37 | [Handwritten](https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:23 |
-| 38 | [Regreso](https://open.spotify.com/track/0xbwOBfj9VQzrixeUrkbv5) | [Yestize](https://open.spotify.com/artist/6Q7kUyZyeap1NroAeY39R1) | [Regreso](https://open.spotify.com/album/4NynEaNsMqhoOAWjxP2c6v) | 2:58 |
+| 38 | [Regreso](https://open.spotify.com/track/0xbwOBfj9VQzrixeUrkbv5) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Regreso](https://open.spotify.com/album/4NynEaNsMqhoOAWjxP2c6v) | 2:58 |
 | 39 | [Équilibre](https://open.spotify.com/track/1kY64LDhpgy30XGXj5c7Qa) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Équilibre](https://open.spotify.com/album/3ue6f4Rru74OH3ozKrFnU3) | 3:21 |
 | 40 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 |
 | 41 | [A Day By The Sea](https://open.spotify.com/track/32caN3mL4dftJrVNKYwr1t) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [A Day By The Sea](https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j) | 3:41 |

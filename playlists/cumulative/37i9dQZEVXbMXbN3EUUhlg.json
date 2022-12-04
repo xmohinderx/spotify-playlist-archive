@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 148048,
       "name": "Ai Papai",
       "url": "https://open.spotify.com/track/4PQ5AInr4YoBauth9YPduL"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 153409,
       "name": "Arranh\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3IMLoeLerS7TMpKjxUgAhx"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 123870,
       "name": "Avisa L\u00e1 (feat. Rebecca)",
       "url": "https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO"
@@ -2815,7 +2815,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 153958,
       "name": "Dengo",
       "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
@@ -3319,7 +3319,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 140000,
       "name": "Ela N\u00e3o Vale Nada",
       "url": "https://open.spotify.com/track/0MfG95vjv0Inkmp58b0gNU"
@@ -4243,7 +4243,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 204937,
       "name": "Fala Mal de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/0Nmp2wrm2mDMxhNzX8uHkS"
@@ -6033,7 +6033,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 114461,
       "name": "Macetar",
       "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
@@ -6423,7 +6423,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 183716,
       "name": "Melodia Alucin\u00f3gena",
       "url": "https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN"
@@ -6583,7 +6583,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 208007,
       "name": "Meu N\u00famero - Ao Vivo",
       "url": "https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP"
@@ -7611,7 +7611,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 206896,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4cxApmpAxYi9UlB6AT2H8S"
@@ -9826,6 +9826,24 @@
     },
     {
       "album": {
+        "name": "Com Amor Kevi Jonny (Ao Vivo, Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/2u9oqZGnMJh9wJhIEug4WV"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/5t7E1z1kVtHyPxWNmUtXN4"
+    },
+    {
+      "album": {
         "name": "Te Love (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
       },
@@ -9837,7 +9855,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 169002,
       "name": "Te Love - Ao Vivo",
       "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"

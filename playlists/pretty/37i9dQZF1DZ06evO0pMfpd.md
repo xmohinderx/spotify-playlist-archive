@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,196 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,230 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 43 | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/track/5IEsq0MLLm7NE61IryGDxj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [La Niña Quiere Cerveza \- En Vivo](https://open.spotify.com/album/0Ew74PwPRd1mIefKhLdibE) | 3:32 |
 | 44 | [La Chona](https://open.spotify.com/track/1tdFl5ACRmcEFIRWAgTTQc) | [Banda Los Mazatlecos](https://open.spotify.com/artist/5iVAKb2ERQopiFURsf6g1b), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [La Chona](https://open.spotify.com/album/35HbDxOHRQuOCikY0TlXkX) | 3:03 |
 | 45 | [Sueño](https://open.spotify.com/track/5wvzzRY88HCuzbNfYJX4Dn) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 4:37 |
-| 46 | [Gozala Gozala](https://open.spotify.com/track/30Jv68pHNfzEuASRGwYQ6X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar de Caballito](https://open.spotify.com/album/0hqSpBCMjZ57t2uhcxdbpm) | 2:58 |
-| 47 | [Dale Fondo](https://open.spotify.com/track/3PhCYyHoHjR5NHn6HeUnfw) | [Sergio Hernandez y Su Maverick Show](https://open.spotify.com/artist/1likoE8lTd2g6Br7PtwtzO), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Dale Fondo](https://open.spotify.com/album/7asLWlNrHhBKQDvp6QxBOD) | 3:11 |
+| 46 | [Dale Fondo](https://open.spotify.com/track/3PhCYyHoHjR5NHn6HeUnfw) | [Sergio Hernandez y Su Maverick Show](https://open.spotify.com/artist/1likoE8lTd2g6Br7PtwtzO), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Dale Fondo](https://open.spotify.com/album/7asLWlNrHhBKQDvp6QxBOD) | 3:11 |
+| 47 | [Gozala Gozala](https://open.spotify.com/track/30Jv68pHNfzEuASRGwYQ6X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar de Caballito](https://open.spotify.com/album/0hqSpBCMjZ57t2uhcxdbpm) | 2:58 |
 | 48 | [Adiós y Buena Suerte \- En Vivo](https://open.spotify.com/track/4xQxN1A80B3CGFXVGOosGt) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [Adiós y Buena Suerte \- En Vivo](https://open.spotify.com/album/0iHo2i1ZYSIAnFs5CdKOxz) | 3:44 |
 | 49 | [Florecilla Del Campo](https://open.spotify.com/track/6IfR3khaeLoBiZZKYuBTL0) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:17 |
 | 50 | [Tu Y Las Nubes](https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:54 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBkNjZlOTM2N2NiN2NmMDY1YjM4YzdhMmM1ZjY2ZDI5ZQ==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDAxOWMxZDI1NmQxNmRlNTM5NmJlNmNjNzhhNmI0N2NhNQ==`

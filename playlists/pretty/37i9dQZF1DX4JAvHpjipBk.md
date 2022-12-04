@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Metro Boomin, The Weeknd & 21 Savage, Lewis Capaldi, PinkPantheress, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,004,288 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,005,038 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 46 | [Let Me Go](https://open.spotify.com/track/7mcolOCCHAGVXB7rfyzIui) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Let Me Go](https://open.spotify.com/album/7d3Fk2tsXqf7EnvItNU0uB) | 3:11 |
 | 47 | [angeldust](https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [LIVE FOREVER](https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI) | 1:51 |
 | 48 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 |
-| 49 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 49 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 50 | [Everything Is Nothing](https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Everything Is Nothing](https://open.spotify.com/album/2Gg9al8bC4Je0nmgRAnujj) | 2:01 |
 | 51 | [Pretender](https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Pretender](https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP) | 2:08 |
 | 52 | [New Friends](https://open.spotify.com/track/3UXO74viaatyxa6vIxsK3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 4:15 |

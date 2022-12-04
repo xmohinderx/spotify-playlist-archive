@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-346 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
+347 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/2x6wDidT6OVKVCyYz3g29W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Company](https://open.spotify.com/track/6eMknw1c14DlpWrzx31fE6) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Company](https://open.spotify.com/album/6dvtm35R23LaMWnZnJxja1) | 3:26 | 2022-03-09 | 2022-06-27 |
 | [Control Freak](https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Control Freak](https://open.spotify.com/album/0BO0643aYpi1fi3eRP0wn0) | 3:27 | 2022-03-19 | 2022-04-14 |
 | [Craziest Things](https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Craziest Things](https://open.spotify.com/album/3WAG7aLC9P5NGymA621ly4) | 3:10 | 2021-11-12 | 2022-07-27 |
-| [Craziest Things](https://open.spotify.com/track/4WTy2W1mrlM40lX9ybbp0q) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:10 | 2022-08-05 |  |
+| [Craziest Things](https://open.spotify.com/track/4WTy2W1mrlM40lX9ybbp0q) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:10 | 2022-08-05 | 2022-12-04 |
 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 | 2022-06-22 |  |
 | [Daydream](https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT) | 4:48 | 2021-11-12 | 2022-07-29 |
 | [Daylight Matters](https://open.spotify.com/track/70tFMXuf5fIXiJyy6Rf1Ue) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/082FaK20Q5pWBugogTQbGW) | 4:18 | 2022-03-19 | 2022-04-16 |
@@ -240,6 +240,7 @@
 | [Paramaniac](https://open.spotify.com/track/6bO7GeKYXEvOEDi9O3zMOC) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Paramaniac](https://open.spotify.com/album/3ol4KhcloRgpuQaA9B9rW3) | 3:00 | 2022-02-07 | 2022-05-27 |
 | [Paris](https://open.spotify.com/track/2ERKod7SlWxs93wIK3QeUQ) | [Saint Saviour](https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy) | [Paris](https://open.spotify.com/album/4d5DOcNGBexFH0P3prrJgY) | 3:23 | 2021-11-12 | 2022-07-14 |
 | [Peaches](https://open.spotify.com/track/7BNHwtTtO5JiBYhs8FtRqJ) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Peaches](https://open.spotify.com/album/1a6W2sBTKLRYUi3Z7hiNgp) | 3:56 | 2021-11-12 | 2022-07-29 |
+| [Pharmacist](https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:04 | 2022-08-05 |  |
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-08-05 | 2022-10-09 |
 | [Pharmacist](https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:04 | 2022-08-05 | 2022-11-25 |
 | [Picture of You](https://open.spotify.com/track/2vdI1NcClTNqaH1E8mEvgn) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Picture of You](https://open.spotify.com/album/396mqjz4yrShxMmGdT12S6) | 4:03 | 2021-11-12 | 2022-07-20 |

@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7584,
+  "num_followers": 7589,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDc2OTZhYTc2N2YwYjJjMzkzMjk2MjEzMDA0MThiMGZk",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDJmZmM2YjYxMjg1ZDAzZjQyNTI3M2IxNGQwY2M3NjE5",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Joseph Antoine Fr\u00e9d\u00e9ric Fortin Perron",
-        "url": "https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo"
-      },
-      "artists": [
-        {
-          "name": "Fred Fortin",
-          "url": "https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Moisi mo\u00e9'ssi",
-      "url": "https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le d\u00e9lire du savant fou",
         "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 199066,
       "name": "Le savant fou",
       "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Joseph Antoine Fr\u00e9d\u00e9ric Fortin Perron",
+        "url": "https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo"
+      },
+      "artists": [
+        {
+          "name": "Fred Fortin",
+          "url": "https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Moisi mo\u00e9'ssi",
+      "url": "https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Mal \u00e9duqu\u00e9 mon amour",
-        "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
-      },
-      "artists": [
-        {
-          "name": "Cafeine",
-          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Tu ne peux pas partir",
-      "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "D\u00e9jeuner sur l'herbe",
         "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 192093,
       "name": "J'pourrais pas vivre avec toi",
       "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Mal \u00e9duqu\u00e9 mon amour",
+        "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
+      },
+      "artists": [
+        {
+          "name": "Cafeine",
+          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Tu ne peux pas partir",
+      "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mini-jupe et watusi",
-      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Courtepointes",
         "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 184973,
       "name": "Cit\u00e9 rock suicide",
       "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
-      },
-      "artists": [
-        {
-          "name": "coma",
-          "url": "https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Une araign\u00e9e au plafond",
-      "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "l'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 188800,
       "name": "Gwen et les rats",
       "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
+      },
+      "artists": [
+        {
+          "name": "coma",
+          "url": "https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Une araign\u00e9e au plafond",
+      "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
     },
     {
       "added_at": "2020-06-23 14:47:30",

@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Young Miko
 
-107 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/5dfcyYjgXtZzbFL0wbWZbj)
+108 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/5dfcyYjgXtZzbFL0wbWZbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2022-05-25 |  |
 | [Chavos y Pistolas](https://open.spotify.com/track/0lIEIn1GscdfxeWpQKSWHn) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:53 | 2022-05-25 |  |
 | [Close Friends](https://open.spotify.com/track/6o20NaKRuPqpluh8DPRur1) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 2:01 | 2022-05-25 |  |
-| [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 | 2022-05-25 |  |
+| [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 | 2022-05-25 | 2022-12-04 |
 | [Como Tu Decías](https://open.spotify.com/track/2c6zZv6eIVs8wjFiFzJ913) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:27 | 2022-05-25 | 2022-06-18 |
 | [Conexión](https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Conexión](https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe) | 4:48 | 2022-05-25 |  |
 | [Cuentas Claras](https://open.spotify.com/track/3lP79XScAaS9QQb9yjJQOn) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Cuentas Claras](https://open.spotify.com/album/1oEsVBQG1yb251eNVX4fo7) | 3:07 | 2022-05-25 | 2022-07-28 |
@@ -96,6 +96,7 @@
 | [Sexo Virtual](https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:28 | 2022-07-22 |  |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2022-05-25 |  |
 | [Sicaria](https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4) | 4:19 | 2022-05-25 | 2022-11-23 |
+| [Sicaria](https://open.spotify.com/track/2h5kMJFJeZghxhPF3TTsrj) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/6WIFpzg83yUpYDmFGmdAFG) | 4:19 | 2022-08-17 |  |
 | [Suelta](https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Suelta](https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe) | 4:03 | 2022-07-08 |  |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-05-25 |  |
 | [Toda la Noche](https://open.spotify.com/track/4wzIbfON4V1LF6lIbBWTwP) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 2:06 | 2022-05-25 |  |

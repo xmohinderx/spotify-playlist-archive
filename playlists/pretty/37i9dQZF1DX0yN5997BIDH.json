@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 368927,
+  "num_followers": 368953,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDYyNGFlN2EyYmI0OTE4NjRlNTAyNDlmY2U2YTNiZDI1",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDk2NmRjMjZlM2QxNTY0MGViOGVmOTNiYjlhZjQyYTRj",
   "tracks": [
     {
       "added_at": "2022-11-25 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
         "name": "Hounds of Love (2018 Remaster)",
         "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "I AM WOMAN",
+      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
-        "name": "I AM WOMAN",
-        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "I AM WOMAN",
-      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-11-25 06:00:00",
       "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
+    },
+    {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
         "name": "To Be Young (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/4GulJ0PbD2o6ThcdvIw8Bd"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 194758,
       "name": "To Be Young (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "added_at": "2022-11-25 06:00:00",

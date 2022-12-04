@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDVmZTU3NjI0MDJjMTQ1MDVjZDI3ZDMzMDdjNWZmZGEw",
+  "snapshot_id": "MTY1MDE3NTg2NCwwMDAwMDAwMDcxMTc1NGM0YzE2Zjc4NTBmMjhkNzA5NmQ1NTA2MWQx",
   "tracks": [
     {
       "added_at": "2022-04-17 06:11:04",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-04-17 06:11:04",
       "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2022-04-17 06:11:04",
-      "album": {
         "name": "The Rebirth of Kirk Franklin",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 368560,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2022-04-17 06:11:04",
+      "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
     },
     {
       "added_at": "2022-04-17 06:11:04",

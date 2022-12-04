@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-275 songs - 17 hr 19 min - [published](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
+276 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 | 2022-03-22 | 2022-04-21 |
 | [Head Right](https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Head Right](https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA) | 3:17 | 2021-10-08 | 2022-07-29 |
 | [Head Right](https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:17 | 2022-03-22 | 2022-11-09 |
+| [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2022-10-14 |  |
 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2021-10-08 | 2022-07-29 |
 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 | 2022-01-07 |  |
 | [Hollywood Lawn](https://open.spotify.com/track/6znZU3XCrTHGlIfKPL4anW) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:34 | 2022-03-22 | 2022-04-16 |
@@ -236,7 +237,7 @@
 | [Supertramp](https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 2:56 | 2021-10-08 | 2022-07-07 |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/2QvYlYt1xu85hYt27IC8ox) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/61ouYBX1skZYiuv5EHnmEK) | 2:45 | 2021-10-08 | 2022-07-29 |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 | 2022-03-22 |  |
-| [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 | 2022-03-22 |  |
+| [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 | 2022-03-22 | 2022-12-04 |
 | [Tangled](https://open.spotify.com/track/5sCS5RD3FoaPpru90mS8R7) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Tangled](https://open.spotify.com/album/4g32h5uIabwgSDGykJTvSh) | 3:47 | 2022-03-22 | 2022-07-29 |
 | [Tear Us Apart](https://open.spotify.com/track/1l14q2s86snCdoojbcOGgX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/3sgLYw5U3KArFr36kFCyEr) | 2:35 | 2022-01-07 | 2022-05-03 |
 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 | 2022-01-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 104905,
+  "num_followers": 104913,
   "original_name": "Workday K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTg4NTE3MSwwMDAwMDAwMGJmOTBjMzFmN2IxMDRhY2JlZDMzN2ZlZjA4NTAzYzQ0",
+  "snapshot_id": "MTY2OTg4NTE3MSwwMDAwMDAwMGIyYzJkZjFiYTJmMjliOTMwNGY1ODY4OTI1MjBjMzQ4",
   "tracks": [
     {
       "added_at": "2022-12-01 08:59:31",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
+        "name": "\u2018The ReVe Festival\u2019 Finale",
+        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
-        "name": "\u2018The ReVe Festival\u2019 Finale",
-        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -555,8 +555,8 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "CHECKMATE",
-        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 179453,
-      "name": "SNEAKERS",
-      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+      "duration_ms": 191462,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -703,8 +703,8 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "CRAZY IN LOVE",
-        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 191462,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "GOT7",
-        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "NANANA",
-      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "The Perfect Red Velvet - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 210817,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "NANANA",
+      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
-        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "Don't Wanna Cry",
-      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
+        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
-        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -1335,6 +1335,54 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "Russian Roulette - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 211243,
+      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
+      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1355,22 +1403,6 @@
       "duration_ms": 204991,
       "name": "MOMMAE",
       "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
-        "name": "Not Shy",
-        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "Not Shy",
-      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1407,18 +1439,18 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "Russian Roulette - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
         }
       ],
-      "duration_ms": 211243,
-      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
-      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
+      "duration_ms": 194080,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1435,22 +1467,6 @@
       "duration_ms": 230293,
       "name": "2 Baddies",
       "url": "https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
-        "name": "STAYDOM",
-        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "DOUBLAST",
-        "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
+        "name": "instagram",
+        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 192026,
-      "name": "Up!",
-      "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
+      "duration_ms": 255728,
+      "name": "instagram",
+      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "instagram",
-        "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
+        "name": "DOUBLAST",
+        "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
         }
       ],
-      "duration_ms": 255728,
-      "name": "instagram",
-      "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
+      "duration_ms": 192026,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "mono.",
-        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
-      },
-      "artists": [
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "seoul (prod. HONNE)",
-      "url": "https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "[&]",
-        "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "PTT (Paint The Town)",
-      "url": "https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "[&]",
+        "url": "https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "PTT (Paint The Town)",
+      "url": "https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Heart Burn",
-      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 158253,
       "name": "PING PONG",
       "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Heart Burn",
+      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 228759,
       "name": "Daydream (\ubc31\uc77c\ubabd)",
       "url": "https://open.spotify.com/track/56sdcbPR74RxqmKVbQzJ8s"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "the collective soul and unconscious: chapter one",
-        "url": "https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "GingaMingaYo (the strange world)",
-      "url": "https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -2235,22 +2219,18 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
+        "name": "the collective soul and unconscious: chapter one",
+        "url": "https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw"
       },
       "artists": [
         {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
         }
       ],
-      "duration_ms": 222415,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
+      "duration_ms": 215800,
+      "name": "GingaMingaYo (the strange world)",
+      "url": "https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -2287,6 +2267,26 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 222415,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
         "name": "THE WAR - The 4th Album",
         "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
       },
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 198795,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "TREASURE EPILOGUE : Action To Answer",
         "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 219760,
       "name": "Answer",
       "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "SuperM - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ"
-      },
-      "artists": [
-        {
-          "name": "SuperM",
-          "url": "https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Jopping",
-      "url": "https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "Show Me the Money 4 Episode 6",
         "url": "https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN"
       },
@@ -2847,26 +2831,18 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
+        "name": "SuperM - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ"
       },
       "artists": [
         {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+          "name": "SuperM",
+          "url": "https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE"
         }
       ],
-      "duration_ms": 196549,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+      "duration_ms": 251293,
+      "name": "Jopping",
+      "url": "https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -2899,6 +2875,30 @@
       "duration_ms": 198611,
       "name": "I'LL SHOW YOU",
       "url": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 196549,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -2967,6 +2967,22 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
+        "name": "TAIL",
+        "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "TAIL",
+      "url": "https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
         "name": "from our Memento Box",
         "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
       },
@@ -2995,22 +3011,6 @@
       "duration_ms": 207600,
       "name": "Uh-Oh",
       "url": "https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
-        "name": "TAIL",
-        "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "TAIL",
-      "url": "https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -3115,6 +3115,22 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
+        "name": "The 1st Mini Album 'Beam Of Prism'",
+        "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "BOP BOP!",
+      "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -3159,22 +3175,6 @@
       "duration_ms": 200912,
       "name": "Violeta",
       "url": "https://open.spotify.com/track/0Qzs7eyyx6Il1qkA4wqUHm"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
-        "name": "The 1st Mini Album 'Beam Of Prism'",
-        "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "BOP BOP!",
-      "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -3235,6 +3235,22 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 194707,
+      "name": "You Calling My Name",
+      "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
         "name": "NONSTOP",
         "url": "https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY"
       },
@@ -3251,18 +3267,18 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
       },
       "artists": [
         {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 194707,
-      "name": "You Calling My Name",
-      "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -3287,22 +3303,6 @@
     {
       "added_at": "2022-12-01 08:59:31",
       "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
         "name": "NEW KIDS REPACKAGE : THE NEW KIDS",
         "url": "https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh"
       },
@@ -3315,6 +3315,22 @@
       "duration_ms": 193733,
       "name": "KILLING ME",
       "url": "https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP"
+    },
+    {
+      "added_at": "2022-12-01 08:59:31",
+      "album": {
+        "name": "ZERO : FEVER EPILOGUE",
+        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 210051,
+      "name": "The Real - Heung Version",
+      "url": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU"
     },
     {
       "added_at": "2022-12-01 08:59:31",
@@ -3351,22 +3367,6 @@
       "duration_ms": 220173,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
-    },
-    {
-      "added_at": "2022-12-01 08:59:31",
-      "album": {
-        "name": "ZERO : FEVER EPILOGUE",
-        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 210051,
-      "name": "The Real - Heung Version",
-      "url": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU"
     },
     {
       "added_at": "2022-12-01 08:59:31",

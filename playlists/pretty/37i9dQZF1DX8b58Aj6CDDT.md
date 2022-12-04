@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 16 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 17 | [Cicuta \(Remix\)](https://open.spotify.com/track/6qqeq1UoryAxgud2JfF76t) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cicuta \(Remix\)](https://open.spotify.com/album/5d10y3nytevf7kBa4xEHpi) | 2:49 |
 | 18 | [Cállame](https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:07 |
-| 19 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 |
-| 20 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
+| 19 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
+| 20 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 |
 | 21 | [Vamos A Olvidar](https://open.spotify.com/track/1M163jU3eaTObjYl1F3ANs) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd), [Las Negris](https://open.spotify.com/artist/3xDZdwGvLABCyWw3E17iUY) | [Vamos A Olvidar](https://open.spotify.com/album/5hcpTvIylEamZXDKeDkRNG) | 3:54 |
 | 22 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 |
 | 23 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 35 | [Matizando](https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Matizando](https://open.spotify.com/album/0BLDyvnSOw07mqhIH9vVFH) | 3:34 |
 | 36 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
 | 37 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 |
-| 38 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 |
-| 39 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
+| 38 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
+| 39 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 |
 | 40 | [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 |
 | 41 | [MANTRA](https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [MANTRA](https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V) | 3:19 |
 | 42 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 49 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
 | 50 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
 
-Snapshot ID: `MTY2OTgyMDYzMiwwMDAwMDAwMDg1MmM5YmIwZWYyYjk1NmNkMGI1Y2Y4ZDQxMWYxMTkz`
+Snapshot ID: `MTY2OTgyMDYzMiwwMDAwMDAwMDBiZmExODAzMjE5YjRhODhjZWU2NmVjYzMwOTE1MTUz`

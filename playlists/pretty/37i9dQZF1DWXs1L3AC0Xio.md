@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,114 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,296 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 42 | [Lifeless Stars](https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lifeless Stars](https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU) | 3:17 |
 | 43 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 |
 | 44 | [Hurricane](https://open.spotify.com/track/7FLVnDMOZXKRFgRM3C4aUG) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 6:12 |
-| 45 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
-| 46 | [Drowning \(Face Down\)](https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:55 |
+| 45 | [Drowning \(Face Down\)](https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:55 |
+| 46 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 47 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 |
 | 48 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
 | 49 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 60 | [Fare Thee Well](https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 4:21 |
 | 61 | [Dear Agony \- Aurora Version](https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Aurora](https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz) | 4:15 |
 | 62 | [How Did You Love \- Piano Version](https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
-| 63 | [For You](https://open.spotify.com/track/3ktjSD56hFRXC3LjbHXAH1) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Order Of Things](https://open.spotify.com/album/1ewpZOue9FoiljDHq0UYli) | 4:16 |
-| 64 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
+| 63 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
+| 64 | [For You](https://open.spotify.com/track/3ktjSD56hFRXC3LjbHXAH1) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Order Of Things](https://open.spotify.com/album/1ewpZOue9FoiljDHq0UYli) | 4:16 |
 | 65 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
 | 66 | [Lucy](https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:38 |
-| 67 | [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 |
-| 68 | [Emotionless](https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 4:22 |
+| 67 | [Emotionless](https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 4:22 |
+| 68 | [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 |
 | 69 | [The Fighter](https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Black Widow](https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P) | 4:52 |
 | 70 | [Wake Up](https://open.spotify.com/track/2tUhCTpGeEfssyYTeu0chm) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness](https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN) | 3:35 |
 | 71 | [On My Own](https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:43 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 92 | [Quiet Now](https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can´t Stop](https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE) | 4:14 |
 | 93 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
 | 94 | [Lost In You](https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Black and White Rainbows \(Deluxe Edition\)](https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv) | 4:19 |
-| 95 | [If Only For Now](https://open.spotify.com/track/2paOAPUdPfiPPUVQ8I5epX) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 3:50 |
-| 96 | [Stealing Life](https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [THREAD](https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT) | 5:04 |
+| 95 | [Stealing Life](https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [THREAD](https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT) | 5:04 |
+| 96 | [If Only For Now](https://open.spotify.com/track/2paOAPUdPfiPPUVQ8I5epX) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 3:50 |
 | 97 | [Something In The Way](https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 3:52 |
 | 98 | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/track/3t9seJl7Y0B556M2ndthl1) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Mark Morales](https://open.spotify.com/artist/5QPc5gUxdETGecetdI8o8O) | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/album/3pvMWJSHWaSjFMDkk93JAE) | 3:15 |
 | 99 | [Wake Up Call](https://open.spotify.com/track/1AXMG1DXnkXlUufkMwcS9A) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:55 |
-| 100 | [When They Turn the Lights On](https://open.spotify.com/track/4mkWTl38qBjTMcBMwri6Nx) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:27 |
+| 100 | [I Wanna Be Okay](https://open.spotify.com/track/7C1i5fpwpa1fNyF0zOepSR) | [Blindlove](https://open.spotify.com/artist/4kik9QpAkbd0a9hY8C3w9q) | [I Wanna Be Okay](https://open.spotify.com/album/69x5qpqLM9SkZLUDMr1fdv) | 3:42 |
 
-Snapshot ID: `MTY2Nzg1OTI4NiwwMDAwMDAwMDExNzhhNTYyNDQyZTUxMTQ3YWMxMDRiYjQ2YWQzNTI0`
+Snapshot ID: `MTY2Nzg1OTI4NiwwMDAwMDAwMDg0OGIxYzE2NjU2NjYwZDYzNjg3MzBkNWM5ZmMzNzNk`

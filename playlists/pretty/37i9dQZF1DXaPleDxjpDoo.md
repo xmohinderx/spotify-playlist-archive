@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 995 likes - 86 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011 likes - 86 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 6 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 |
 | 7 | [Sitting Still](https://open.spotify.com/track/6BtENACq8EIL1oeqEJVbdR) | [Sullivan Stone](https://open.spotify.com/artist/222vfEjnEFBEZRczs5zUNj) | [Forest Flowers](https://open.spotify.com/album/5qgrCLlPi1VKF1d5P19inO) | 2:49 |
 | 8 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 |
-| 9 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Javi Rama](https://open.spotify.com/artist/5HBMPTDogj1YyvFHxoPk2z) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 |
+| 9 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 |
 | 10 | [Paddling](https://open.spotify.com/track/6ArermgdPUH5Iu4ZXG9QgN) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Paddling](https://open.spotify.com/album/51MINJirySns0EC825x26Y) | 4:01 |
 | 11 | [Morning Bird](https://open.spotify.com/track/6FwktjhCUnJGUA2AFOVuhS) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:39 |
 | 12 | [The River](https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Celestial Woodlands](https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv) | 3:53 |
 | 13 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 |
 | 14 | [Catchacoma Lake](https://open.spotify.com/track/0KBDOOB3rmySzqcqIet1wp) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Catchacoma Lake](https://open.spotify.com/album/7fTupqeF42aDgxnwxZ4XAj) | 2:59 |
-| 15 | [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Jourado Sky](https://open.spotify.com/artist/5QY48b9fOopYTVlgfkcBqp) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 |
+| 15 | [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 |
 | 16 | [Daydream](https://open.spotify.com/track/1z2QFjVmDqQYyriK5q7DzS) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Daydream](https://open.spotify.com/album/3RdB7JUZymsf7iWvonsUAo) | 4:07 |
 | 17 | [Calm Forest](https://open.spotify.com/track/0lC8zT7WHcpDfY4nXly46Y) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Calm Forest](https://open.spotify.com/album/3shOyi6D4SFu1LG27tSyO4) | 3:12 |
 | 18 | [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 23 | [Alpha Sound Bath](https://open.spotify.com/track/1o2AMc7LXyell5edk3rpYG) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Chromabaths](https://open.spotify.com/album/3COfB16rn7vwZ49mNj6Puk) | 2:20 |
 | 24 | [Dreamwalking](https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Dreamwalking](https://open.spotify.com/album/37ZnhjPhruA4YzrNnmLaOy) | 3:53 |
 | 25 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 |
-| 26 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
+| 26 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/5ZbjwPQo6CocT2OdJyUsc9) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
 | 27 | [Spacious \(Forest Version\)](https://open.spotify.com/track/34JC7pSpTBs2vIcracU2ED) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Spacious](https://open.spotify.com/album/105C3Mcfk9K94SliSGOJTh) | 2:41 |
 | 28 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 |
 | 29 | [Sentiment \- Sound Bath](https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Sound Bath](https://open.spotify.com/album/4iRyKexSdcfqJIff3i1W5j) | 2:42 |

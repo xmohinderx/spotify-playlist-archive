@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Lil Wayne",
-  "num_followers": 52377,
+  "num_followers": 52575,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDE0MTc3NmY2NjU5YWY3MzA2ZTc5YzJhNTIzMzhkNWZi",
+  "snapshot_id": "MTY1MzA4OTU5NiwwMDAwMDAwMDVhMzg2MzliNjM2NGYzOTVjNDY5YzE5YTgzNmJlOTli",
   "tracks": [
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 254400,
       "name": "I'm a Thug",
       "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2022-05-20 23:33:16",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-05-20 23:33:16",
       "album": {
-        "name": "iSouljaBoyTellem",
-        "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Turn My Swag On",
-      "url": "https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS"
-    },
-    {
-      "added_at": "2022-05-20 23:33:16",
-      "album": {
         "name": "On Top Of Our Game",
         "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 229813,
       "name": "Lean Wit It, Rock Wit It",
       "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
+    },
+    {
+      "added_at": "2022-05-20 23:33:16",
+      "album": {
+        "name": "iSouljaBoyTellem",
+        "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Turn My Swag On",
+      "url": "https://open.spotify.com/track/6ATrsVaZT7XjkCynxM8cTS"
     },
     {
       "added_at": "2022-05-20 23:33:16",

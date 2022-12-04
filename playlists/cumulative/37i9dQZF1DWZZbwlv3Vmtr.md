@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-635 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+636 songs - 1 day 0 hr 51 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
 | [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 |  |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 |  |
-| [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 |  |
+| [night waves](https://open.spotify.com/track/4Ymj9hO8ocX1wkA54kZMaM) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/0YY5a07WEQ4kEhbsNOWiWx) | 1:34 | 2022-11-25 |  |
+| [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 | 2022-12-04 |
 | [nightdrive](https://open.spotify.com/track/0fOOBR8JW4u6D8jF6GNhFF) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [nightdrive](https://open.spotify.com/album/5WgyOVLv9DShm6xXKwJ3LZ) | 2:02 | 2022-04-15 | 2022-05-27 |
 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 | 2022-07-29 | 2022-08-12 |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-04-15 | 2022-07-01 |

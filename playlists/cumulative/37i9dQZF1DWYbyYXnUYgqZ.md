@@ -4,7 +4,7 @@
 
 > Enjoy fantastic gameplay with k\-pop music!
 
-101 songs - 5 hr 23 min - not published yet
+102 songs - 5 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-11-24 |  |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2022-11-24 |  |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2022-11-24 |  |
+| [LIMBO!](https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [THE 3rd MINI ALBUM NATURE WORLD : CODE W](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) | 3:16 | 2022-11-24 |  |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2022-11-24 |  |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-11-24 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-11-24 |  |
@@ -93,7 +94,7 @@
 | [Secret Story of the Swan](https://open.spotify.com/track/7G6WuVZuTbF6JcnA9wOvsD) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/1XuKR0Qguy1b0Vne8hv5Pd) | 3:12 | 2022-11-24 |  |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-11-24 |  |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-11-24 |  |
-| [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 | 2022-11-24 |  |
+| [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 | 2022-11-24 | 2022-12-04 |
 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB) | 2:37 | 2022-11-24 |  |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-11-24 |  |
 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2022-11-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,746 likes - 108 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749 likes - 108 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 50 | [hometown](https://open.spotify.com/track/7MOMJntlnsDH95Q9KBbpGh) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [hometown](https://open.spotify.com/album/2OQOLKNqzQJAaRgEsQC3z3) | 3:13 |
 | 51 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 |
 | 52 | [햇빛샤워](https://open.spotify.com/track/51xxRFCFjMWzZoT4OVD2AJ) | [GRACY](https://open.spotify.com/artist/7bQBRMmav4isbcc8sXh8b0) | [햇빛샤워](https://open.spotify.com/album/09GDpLxrMcFLK2dgboCOyq) | 3:30 |
-| 53 | [Autumnal love](https://open.spotify.com/track/091YZwi5O1IiFt4D7ulOCj) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On you](https://open.spotify.com/album/4ydstcEKtkCe9KpYA0JvCW) | 3:42 |
+| 53 | [목소리 듣고 싶다 Autumnal love](https://open.spotify.com/track/3peIyC4z6HstADkfpX4VJh) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [곁 1/2 On you 1/2](https://open.spotify.com/album/7IMNiZLrpONVt9cxPv328J) | 3:42 |
 | 54 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
 | 55 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
 | 56 | [Evoked](https://open.spotify.com/track/5bkstH3fzFHvDnvVPs7KRZ) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Poom](https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH) | 3:58 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 89 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 |
 | 90 | [After love](https://open.spotify.com/track/2ugH0jKsATjJsJGfG1e4pj) | [Party in My Pool](https://open.spotify.com/artist/2pl9dVDwRd7RGJnA9yyRHD), [Lee Michelle](https://open.spotify.com/artist/1raBwKX1IlL7ewBrCcd07p) | [Complicated](https://open.spotify.com/album/0OP5WsrqHp6GxCkadpmDEG) | 3:15 |
 | 91 | [All I want is you](https://open.spotify.com/track/6ESVVNkjPVG7w8VNon6GDH) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:19 |
-| 92 | [The Elephant](https://open.spotify.com/track/72rOtWVtQQtbXrEfLbMONZ) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh) | 4:36 |
+| 92 | [우리의 상아는 구름 모양 The Elephant](https://open.spotify.com/track/1JTTM8rBsNLiem0GCMP24a) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:36 |
 | 93 | [Wind](https://open.spotify.com/track/1MLKahekaOgX0kGbv7i9A0) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [ha:f](https://open.spotify.com/album/7ue0IQUNPL3rWUlVpBHFys) | 2:52 |
 | 94 | [Stupid](https://open.spotify.com/track/3sGYUtkUI0ampaZvbjSrkp) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Not a fairytale](https://open.spotify.com/album/6bYLR9Zkhc6p9YWWnjxtip) | 2:58 |
 | 95 | [Vague Hope](https://open.spotify.com/track/4aGsNc3T9qlk1y9MFBnJs8) | [DALIE](https://open.spotify.com/artist/2l6ZqfOMnjK1q6B5DGxjhn) | [Vague Hope](https://open.spotify.com/album/6DDSlFpCeZyn0Zam7OFE0k) | 3:21 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 107 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 108 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MTY2NzQ2NzYyMCwwMDAwMDAwMDM3OTllMDg5YWU0MWE0NmFmZjQ5MjJkNDM3YjI4NTk1`
+Snapshot ID: `MTY2NzQ2NzYyMCwwMDAwMDAwMDY3MGQ0NDliZDkzMjhmNjlhM2E3MDI0MTM3YmY0MDI4`

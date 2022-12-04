@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 105191,
+  "num_followers": 105346,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg0OTEzOCwwMDAwMDAwMDUyYTQ3NmFlMGNlNzgzMThmZjFhZDZlNDc0NTQ3ZjYz",
+  "snapshot_id": "MTY2Njg0OTEzOCwwMDAwMDAwMGZhYjZiZmE1MjhiN2Q3OGMxYTRlNjRjYWMyZTEyNzVi",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -483,38 +483,34 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
           "name": "Rex Orange County",
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+      "duration_ms": 279693,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
     },
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -567,18 +563,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        "name": "Loving is Easy",
+        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
       "artists": [
         {
           "name": "Rex Orange County",
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 279693,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "TERRITORY",
+        "url": "https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 276373,
+      "name": "TERRITORY",
+      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Thousand Peaces",
         "url": "https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 224660,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/7pBrj5rt4SSxXwFKOyZfHR"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "TERRITORY",
-        "url": "https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 276373,
-      "name": "TERRITORY",
-      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -819,22 +819,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 197546,
-      "name": "Andromeda (feat. DRAM)",
-      "url": "https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC"
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -855,18 +851,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+      "duration_ms": 197546,
+      "name": "Andromeda (feat. DRAM)",
+      "url": "https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Saturnz Barz (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -987,6 +967,26 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Saturnz Barz (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Gone Now",
         "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 215546,
       "name": "Don't Take The Money",
       "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 189796,
-      "name": "Homemade Dynamite",
-      "url": "https://open.spotify.com/track/02oAUzv4M0ItuTDy2RT3IT"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1035,18 +1019,34 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+      "duration_ms": 189796,
+      "name": "Homemade Dynamite",
+      "url": "https://open.spotify.com/track/02oAUzv4M0ItuTDy2RT3IT"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 245456,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1063,6 +1063,22 @@
       "duration_ms": 303013,
       "name": "Everything Now",
       "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 245456,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -1159,38 +1159,6 @@
       "duration_ms": 164000,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Lighting Matches (Deluxe)",
-        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Found What I've Been Looking For",
-      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1227,6 +1195,38 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Lighting Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Found What I've Been Looking For",
+      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "For Crying Out Loud (Deluxe)",
         "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "You Say I'm in Love",
         "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
     },
     {
       "added_at": "2022-10-27 05:38:58",

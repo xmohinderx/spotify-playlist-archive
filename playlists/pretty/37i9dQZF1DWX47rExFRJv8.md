@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,001 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,076 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 25 | [Chica Paranormal](https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:41 |
 | 26 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 |
 | 27 | [Puntos Suspensivos](https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:06 |
-| 28 | [Hipócrita](https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:12 |
-| 29 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 |
+| 28 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 |
+| 29 | [Hipócrita](https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:12 |
 | 30 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 31 | [Ya No Tiene Novio](https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya No Tiene Novio](https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l) | 3:18 |
 | 32 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 49 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 50 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 |
 
-Snapshot ID: `MTYzOTYxNzA5MiwwMDAwMDAwMDE4ZmNjOWQ5YzdjMThhNzJiODZmMDcyMTU4YmQ4NjU2`
+Snapshot ID: `MTYzOTYxNzA5MiwwMDAwMDAwMDcxYmI3MGIzNmQ1NWVkNDZmMTY1M2NlZTgxMjkzZDQ4`

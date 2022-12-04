@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Lewis Capaldi
 
-2,092 songs - 4 day 8 hr 25 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+2,093 songs - 4 day 8 hr 29 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Fake ID](https://open.spotify.com/track/2cWF2PNhZVa2Amajwxd5ss) | [Ryan Wright](https://open.spotify.com/artist/27zmUjQFgOyAfNtp48I9ZT) | [Fake ID](https://open.spotify.com/album/0z18Xa1psp76wXDl710NK5) | 3:04 | 2022-10-14 | 2022-10-29 |
 | [Fall](https://open.spotify.com/track/39Re7R3gpugtgmQty0IvoJ) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Fall](https://open.spotify.com/album/0OIP7U0rxx7XF2unz1gUk3) | 2:40 | 2022-06-10 | 2022-06-25 |
 | [Fall Again](https://open.spotify.com/track/7sYwBsZQ775DglPjuz8p3S) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [ONNAFRIDAY](https://open.spotify.com/album/4M4Lm0G81QTEJDvrdGznP3) | 2:12 | 2022-04-29 | 2022-05-20 |
+| [Fall Back](https://open.spotify.com/track/3UmbvRKk9BYNhFhuHIRPv5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/46FToXWq82RQnC7hoKWBGF) | 3:34 | 2022-12-02 |  |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2022-05-28 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-02-25 | 2022-03-05 |
 | [Fall with Me](https://open.spotify.com/track/0gVJWqxKrXR6Z9GJMitKDj) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Fall with Me](https://open.spotify.com/album/1f2WsNbnkkpn2GheMHPiCP) | 3:18 | 2022-02-18 | 2022-03-05 |

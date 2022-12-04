@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,040 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,085 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 25 | [Peter Pan](https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Personas](https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm) | 4:19 |
 | 26 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
 | 27 | [Solo Se Vive una Vez](https://open.spotify.com/track/0ATzislS5SvAp69hjHczej) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Esclava De Tu Piel](https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB) | 3:31 |
-| 28 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
-| 29 | [La lista de la compra](https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Vestidos De Domingo](https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA) | 3:41 |
+| 28 | [La lista de la compra](https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Vestidos De Domingo](https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA) | 3:41 |
+| 29 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
 | 30 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 |
 | 31 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
 | 32 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 49 | [Puedes Contar Conmigo](https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:58 |
 | 50 | [Carreteras Infinitas](https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG) | [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [El Peor Grupo del Mundo](https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP) | 4:26 |
 | 51 | [Quedate a dormir](https://open.spotify.com/track/0UQitarNPDgB7ObJCj47kn) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Usar Y Tirar](https://open.spotify.com/album/3vqfArwNlflN3NtNTJINqF) | 4:17 |
-| 52 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
-| 53 | [Para no olvidar](https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Hasta luego](https://open.spotify.com/album/17zbU7662bSZyECndKCYio) | 3:54 |
+| 52 | [Para no olvidar](https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Hasta luego](https://open.spotify.com/album/17zbU7662bSZyECndKCYio) | 3:54 |
+| 53 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
 | 54 | [En la Casa de Inés](https://open.spotify.com/track/5nenV4D7Yw2efQxItXOasH) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [El Efecto Guaraná](https://open.spotify.com/album/52cIF30phEVuaLCrsrWMZR) | 4:01 |
 | 55 | [Fuego](https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Fuego](https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny) | 3:14 |
 | 56 | [Kalikeno \- Rumba](https://open.spotify.com/track/4LxFbjtxUtV1h6DNIqRBIK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Y Es Ke Me Han Kambiao Los Tiempos](https://open.spotify.com/album/6I7EVvaptXn9Nwjy80jacV) | 4:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \(Kalikeno\)](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `MTY0MzE1MDgyMiwwMDAwMDAwMDk4ZDYzMmIxZTEyNTdmNDE3ZWY2YTNhNDZmNDQ2MmQy`
+Snapshot ID: `MTY0MzE1MDgyMiwwMDAwMDAwMGZkNzMwZDliODBlYmViZDUxZDFiMDgxZTI5MjE2NjQz`

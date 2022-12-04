@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-129 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
+130 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/4xxd2oBY0gtVGr5sedjYHK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me \(Acoustic\)](https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME) | 3:34 | 2022-10-07 |  |
 | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH) | 3:08 | 2022-09-09 |  |
 | [Die Of A Broken Heart \- Acoustic](https://open.spotify.com/track/1RVq89LvXQYuEDurokDRvO) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart \(Acoustic\)](https://open.spotify.com/album/4pGufWAK66P4G7QyuaW2Db) | 3:08 | 2022-11-04 | 2022-11-26 |
+| [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms) | 2:15 | 2022-12-02 |  |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-11-05 |  |
 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 | 2021-11-05 |  |
 | [Entrelace](https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Entrelace](https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF) | 3:49 | 2022-11-25 |  |
@@ -46,7 +47,7 @@
 | [Exist For Love](https://open.spotify.com/track/2DFo342cqI8tJHDmO0p052) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Exist For Love](https://open.spotify.com/album/2giY2YQ0G9kRGp35FtPikV) | 4:12 | 2021-11-05 | 2022-10-03 |
 | [Exist for Love](https://open.spotify.com/track/583T9jmUm8CbL3FZaItOen) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 4:12 | 2021-11-05 | 2022-09-15 |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2021-11-05 |  |
-| [feitiço](https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [feitiço](https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY) | 3:02 | 2022-10-22 |  |
+| [feitiço](https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [feitiço](https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY) | 3:02 | 2022-10-22 | 2022-12-04 |
 | [FRIENDS \- Acoustic](https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS \(Acoustic\)](https://open.spotify.com/album/233AbsgzaS416igerB12cS) | 3:29 | 2021-11-05 |  |
 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 | 2021-11-05 | 2022-11-16 |
 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/5e5gcfw6ZcAJchRow8adbr) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/4Ons7LgaSM3Z2WfQ08Ev3f) | 2:40 | 2021-11-05 | 2022-07-29 |

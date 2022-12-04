@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 440952,
+  "num_followers": 441011,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTQyNDAyNywwMDAwMDAwMDVkNTFmZTgyNTI0MjY5ZjRlMTA1ZDkwMmFlYWRiOWZk",
+  "snapshot_id": "MTY2OTQyNDAyNywwMDAwMDAwMDQzYjRmMDcxMTM5MjU1MzQ1MDU3MGNiZTNlYTc0ODJi",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Resentment",
-        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Call Me Little Sunshine",
         "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Neon Grave",
-        "url": "https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8"
+        "name": "Resentment",
+        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
       },
       "artists": [
         {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 239353,
-      "name": "Neon Grave",
-      "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
+      "duration_ms": 227266,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -271,6 +255,22 @@
       "duration_ms": 168000,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Neon Grave",
+        "url": "https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Neon Grave",
+      "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Long Time, No Sea (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Long Time, No Sea (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Like a Shadow",
-      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Divided",
         "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Like a Shadow",
+      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "medicine",
-        "url": "https://open.spotify.com/album/1KGKzyp51fVDw8VsM73tGu"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 227265,
-      "name": "medicine",
-      "url": "https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "medicine",
+        "url": "https://open.spotify.com/album/1KGKzyp51fVDw8VsM73tGu"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 227265,
+      "name": "medicine",
+      "url": "https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "I'm Hard To Love, But So Are You, Vol. 4",
-        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+        "name": "I'm Hard To Love, But So Are You, Vol. 4",
+        "url": "https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE"
       },
       "artists": [
         {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
         }
       ],
-      "duration_ms": 174733,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
+      "duration_ms": 203520,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -943,6 +927,22 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Devastation",
-        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "Devastation",
-      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "The Truth in Your Eyes",
         "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 227622,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "Devastation",
+      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
     },
     {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 228299,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
-    },
-    {
       "added_at": "2022-11-26 00:53:47",
       "album": {
         "name": "Paranoid",
@@ -1199,6 +1183,22 @@
       "duration_ms": 199133,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 228299,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
     },
     {
       "added_at": "2022-04-25 13:33:10",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+      },
+      "artists": [
+        {
+          "name": "Novelists FR",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Return of the Arsonist",
         "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 258718,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
-      },
-      "artists": [
-        {
-          "name": "Novelists FR",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 214057,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Someone Else (Underoath Remix)",
         "url": "https://open.spotify.com/album/3eXsyG5eK0VMeBMSfAVZPI"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1455,6 +1455,26 @@
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Death",
+        "url": "https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "DR\u20acW \u00a5ORK",
+          "url": "https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu"
+        }
+      ],
+      "duration_ms": 223547,
+      "name": "Death",
+      "url": "https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1507,26 +1527,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Death",
-        "url": "https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        },
-        {
-          "name": "DR\u20acW \u00a5ORK",
-          "url": "https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu"
-        }
-      ],
-      "duration_ms": 223547,
-      "name": "Death",
-      "url": "https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "EGGY POCKET",
-        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 160982,
-      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
-      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 158824,
       "name": "Shh!",
       "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "EGGY POCKET",
+        "url": "https://open.spotify.com/album/4R8AnjaHbyk7p8ugGF1Wbo"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "ISERIOUSLYDISLIKEMOSTOTHERHUMANS",
+      "url": "https://open.spotify.com/track/67BZCSAtonrsgtacsscLYG"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Sudden Sky",
-        "url": "https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb"
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
       "artists": [
         {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 260769,
-      "name": "Sudden Sky",
-      "url": "https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ"
+      "duration_ms": 190750,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/6hUEwiltS9W4UdO3h2NCsK"
     }
   ],
   "unique_name": "Crash Course",

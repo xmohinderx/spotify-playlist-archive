@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 33 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
 | 34 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 |
 | 35 | [You Don't Know](https://open.spotify.com/track/1eeP92z3DuzoZhLOtKq8jt) | [Dan Port](https://open.spotify.com/artist/6KA3l8F3e3uI8jYBIDGVH5) | [You Don't Know](https://open.spotify.com/album/5DVrx39jp6knd54awdgBg0) | 2:43 |
-| 36 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 |
-| 37 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
+| 36 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
+| 37 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 |
 | 38 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 |
 | 39 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 |
 | 40 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 73 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 74 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc4MzM4MzksMDAwMDAwMDAwYzc5ZjIxMDY1MzVmMmYzMmFlOGE5ZDQyZGU2ZGE1MQ==`
+Snapshot ID: `Mjc4MzUyNzgsMDAwMDAwMDAxZjIzNzA0NWI3YjAyMWZmOWM1M2NiZmVmYjI0NjNmMw==`

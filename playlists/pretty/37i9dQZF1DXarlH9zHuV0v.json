@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 237677,
+  "num_followers": 237632,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDczN2Y4YWQzZDUyODhkMDExZDc0OTI0NWMwOWQ1YmVl",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMGVjODIxM2Y1OGZjMWE0ODE0ZmFlMTFiYzQ3YzlmZmRj",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -247,22 +247,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Cannibal (Expanded Edition)",
         "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 194253,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -295,22 +295,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 358053,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 214960,
       "name": "Runnin' with the Devil - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 358053,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Best Of Edgar Winter",
-        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
-      },
-      "artists": [
-        {
-          "name": "The Edgar Winter Group",
-          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Smells Like Children",
         "url": "https://open.spotify.com/album/5XiQM9S9V3XL03xxmIMPeb"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 216760,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0F5qpNAXWKyvyrHbpn168z"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Best Of Edgar Winter",
+        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
+      },
+      "artists": [
+        {
+          "name": "The Edgar Winter Group",
+          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -911,22 +911,6 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "100 Greatest TV Themes",
-        "url": "https://open.spotify.com/album/0afkOxN5LzmMr3slmUhi6F"
-      },
-      "artists": [
-        {
-          "name": "The City of Prague Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
-        }
-      ],
-      "duration_ms": 141346,
-      "name": "The Addams Family",
-      "url": "https://open.spotify.com/track/4rzBn7FbXAel09UcinvyOA"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -1003,6 +987,22 @@
       "duration_ms": 228640,
       "name": "Yes, I'm A Witch",
       "url": "https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
     }
   ],
   "unique_name": "Ultimate Halloween",

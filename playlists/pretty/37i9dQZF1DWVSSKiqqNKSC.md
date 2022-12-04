@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,963 likes - 48 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,119 likes - 48 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 2 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
 | 3 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
 | 4 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 5 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
-| 6 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
+| 5 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
+| 6 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 7 | [Me Quedo Contigo](https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Amor Bonito](https://open.spotify.com/album/03qKkg0zLrtuOkRJD6MfNI) | 3:23 |
 | 8 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
 | 9 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 |
 | 10 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
 | 11 | [Historia entre tus dedos](https://open.spotify.com/track/1azNmWAecfKNw0efhKkzNM) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Historia entre tus dedos](https://open.spotify.com/album/4TUpMF55WZeLsu6nmucfzS) | 5:07 |
-| 12 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 |
-| 13 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
+| 12 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
+| 13 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 |
 | 14 | [Amor verdadero](https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:36 |
 | 15 | [El Aguila](https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Contra Todos los Pronósticos](https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh) | 6:27 |
 | 16 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
 | 48 | [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 |
 
-Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMGM3MjAzZDA2ZTBjNGQ4OTMzM2JiOGNlMDAxMzlhM2Y5`
+Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMDQxMGFkMjk1MjVmNTVkZmJhYmVkNzMwZmNlYThkMDJj`

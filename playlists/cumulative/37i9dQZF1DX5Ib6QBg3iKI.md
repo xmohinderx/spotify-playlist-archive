@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-147 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/3fipqYb0w1LRACIkepntXi)
+148 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/3fipqYb0w1LRACIkepntXi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 | 2021-12-17 |  |
 | [Alone On Christmas Eve](https://open.spotify.com/track/4OtGbYRuDtpWRj595G2jmI) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone On Christmas Eve](https://open.spotify.com/album/4GqryIZs95P5M0oI2Mg638) | 2:16 | 2021-12-17 | 2022-07-29 |
 | [Alone on Christmas Eve](https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F) | 2:16 | 2021-12-17 |  |
+| [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 | 2022-12-02 |  |
 | [Baby It's Cold Outside](https://open.spotify.com/track/5u6twnQs1d6ontqhUOWh7t) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Ave Maria \- Merry Christmas](https://open.spotify.com/album/0kdIJZ7T44dlfXSp1EIvW8) | 2:46 | 2022-10-28 | 2022-11-13 |
 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas Wishes](https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI) | 2:46 | 2021-12-17 | 2022-07-29 |
 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-17 |  |
@@ -30,7 +31,7 @@
 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2021-12-17 |  |
 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 | 2021-12-17 |  |
 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:06 | 2021-12-17 |  |
-| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2022-11-18 |  |
+| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2022-11-18 | 2022-12-04 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-17 |  |
 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 | 2021-12-17 |  |
 | [Christmas Morning](https://open.spotify.com/track/5to1W03jupeKk8hfrOPoFc) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Christmas Morning](https://open.spotify.com/album/3Cj0Q1P7BA3l1KY0iRZWot) | 3:09 | 2021-12-17 | 2022-07-29 |

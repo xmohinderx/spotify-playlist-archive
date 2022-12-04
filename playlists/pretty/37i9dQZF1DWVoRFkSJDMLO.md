@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Popcaan 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,585 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,744 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 44 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
 | 45 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 |
 | 46 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
-| 47 | [So Me Stay](https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Outta Body Experience Riddim](https://open.spotify.com/album/7mbglZnNuCUrYTzfLKgMDW) | 3:25 |
+| 47 | [So Me Stay](https://open.spotify.com/track/7uQMZflowxzc7S1XM7KXIF) | [Dutty Rock Productions](https://open.spotify.com/artist/0x5ZxVQ17EwrIQDF6a4ref), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Outta Body Experience Riddim](https://open.spotify.com/album/7mbglZnNuCUrYTzfLKgMDW) | 3:25 |
 | 48 | [No Ask Weh Mi Go](https://open.spotify.com/track/6kPhQQhxgG2EcBXFu4KX3O) | [Chi Ching Ching](https://open.spotify.com/artist/1a3wNO8RPhwmEBZqm68aqU), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Bomma](https://open.spotify.com/artist/1SAVDpCXpEdczOH16lNPc7) | [No Ask Weh Mi Go](https://open.spotify.com/album/2MMYS8S4u1GBozGVWp5esy) | 2:42 |
 | 49 | [Amazing](https://open.spotify.com/track/3JtRYW6aYGDVDIQvdGrZWt) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Amazing](https://open.spotify.com/album/73nIh6lr0BYYVG6t7asy8N) | 2:37 |
 | 50 | [In My Bed](https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [In My Bed](https://open.spotify.com/album/7Dw7n5YeIAb1IQ5klyRIae) | 3:45 |

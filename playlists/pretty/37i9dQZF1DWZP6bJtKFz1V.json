@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: spill tab",
-  "num_followers": 83030,
+  "num_followers": 83064,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGM4Yzg4NWFjOTQxNDViZGM4Y2YwYTAxMjZlZmQ0NWFk",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGExMGRmY2M4NTRjNThmMmEwMmNkNzA0MjE4ZmE4YjVk",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "spend the money (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 199669,
       "name": "spend the money (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 177641,
       "name": "Change",
       "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Into My Body",
-        "url": "https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6"
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 144280,
-      "name": "Into My Body",
-      "url": "https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34"
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
+        "name": "Into My Body",
+        "url": "https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
         }
       ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
+      "duration_ms": 144280,
+      "name": "Into My Body",
+      "url": "https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 189202,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "girls just wanna have sex",
         "url": "https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 124029,
       "name": "girls just wanna have sex",
       "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 189202,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Charlie",
-        "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 184797,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Girls Make Me Wanna Die",
         "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
       },
@@ -1035,22 +1019,6 @@
       "duration_ms": 135297,
       "name": "Girls Make Me Wanna Die",
       "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "CHAMPAGNE",
-        "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 180637,
-      "name": "CHAMPAGNE",
-      "url": "https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1071,6 +1039,38 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 184797,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "CHAMPAGNE",
+        "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 180637,
+      "name": "CHAMPAGNE",
+      "url": "https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Mellow Moon",
         "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Puffer",
-        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Puffer",
-      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Rats",
         "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 145947,
       "name": "Rats",
       "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Blood Runs Red",
-        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Blood Runs Red",
-      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Love Brand New",
         "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Blood Runs Red",
+        "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Blood Runs Red",
+      "url": "https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1527,38 +1527,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 196592,
-      "name": "Lucky - Edit",
-      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "SYT",
-        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "SYT",
-      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -1587,6 +1555,38 @@
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 196592,
+      "name": "Lucky - Edit",
+      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "SYT",
+        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "SYT",
+      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "Splinter",
-      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 124130,
       "name": "Pharmacist",
       "url": "https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Splinter",
+      "url": "https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ"
     }
   ],
   "unique_name": "Et Alt",

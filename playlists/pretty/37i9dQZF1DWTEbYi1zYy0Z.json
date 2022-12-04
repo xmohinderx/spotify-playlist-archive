@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 40086,
+  "num_followers": 40159,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGU2NDNiMjZmOWFhODFkOTdiYjAxY2EyZGIxNDFlNGVl",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDNiNWZiMDA5MTJkN2RkNjgyZDIxYWFmMmE4MDUyMGJk",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -113,22 +113,6 @@
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Trilogy, Pt. 3: White",
-        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 308092,
-      "name": "Step into Love",
-      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "III",
@@ -159,6 +143,22 @@
       "duration_ms": 231267,
       "name": "III",
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Trilogy, Pt. 3: White",
+        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 308092,
+      "name": "Step into Love",
+      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "One More Night - Single Edit",
-      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Make Up Your Mind (Radio Edit)",
@@ -279,6 +263,22 @@
       "duration_ms": 240280,
       "name": "Make Up Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "One More Night - Single Edit",
+      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -377,26 +377,6 @@
       "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Movin' N Groovin",
-        "url": "https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        },
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 264640,
-      "name": "Movin' N Groovin",
-      "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Stride",
@@ -427,6 +407,26 @@
       "duration_ms": 270946,
       "name": "G-Wiggle",
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Movin' N Groovin",
+        "url": "https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        },
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "duration_ms": 264640,
+      "name": "Movin' N Groovin",
+      "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
-      "added_at": "2022-10-17 15:45:13",
-      "album": {
-        "name": "Unspeakable",
-        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
-      },
-      "artists": [
-        {
-          "name": "Sam Rucker",
-          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
-        }
-      ],
-      "duration_ms": 226438,
-      "name": "Unspeakable",
-      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Savoir Faire",
@@ -507,6 +491,22 @@
       "duration_ms": 318733,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
+    },
+    {
+      "added_at": "2022-10-17 15:45:13",
+      "album": {
+        "name": "Unspeakable",
+        "url": "https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U"
+      },
+      "artists": [
+        {
+          "name": "Sam Rucker",
+          "url": "https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE"
+        }
+      ],
+      "duration_ms": 226438,
+      "name": "Unspeakable",
+      "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Donut Jam",
-        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
-      },
-      "artists": [
-        {
-          "name": "Peet Project",
-          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
-        }
-      ],
-      "duration_ms": 216437,
-      "name": "Donut Jam",
-      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -595,6 +579,22 @@
       "duration_ms": 285069,
       "name": "Making Love To You",
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Donut Jam",
+        "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
+      },
+      "artists": [
+        {
+          "name": "Peet Project",
+          "url": "https://open.spotify.com/artist/7fiTd7VknYFR4muiLHf1yD"
+        }
+      ],
+      "duration_ms": 216437,
+      "name": "Donut Jam",
+      "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/2BOcRhGIKurTmHQ8t22y6D"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Cool Shades",
@@ -661,6 +645,22 @@
       "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 224237,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
       "added_at": "2022-02-14 15:14:54",
       "album": {
         "name": "A Midnight Rendezvous",
@@ -675,38 +675,6 @@
       "duration_ms": 237586,
       "name": "Pioneer Town",
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
-      "added_at": "2022-12-03 00:56:12",
-      "album": {
-        "name": "Cupid Shuffle",
-        "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 232810,
-      "name": "Cupid Shuffle",
-      "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Summer in Blue",
-        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
-      },
-      "artists": [
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 269129,
-      "name": "Summer In Blue",
-      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -733,6 +701,54 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
+    },
+    {
+      "added_at": "2022-12-04 00:59:11",
+      "album": {
+        "name": "Cupid Shuffle",
+        "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 232810,
+      "name": "Cupid Shuffle",
+      "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
+    },
+    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "A Sunny Day",
@@ -751,22 +767,6 @@
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -789,42 +789,6 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Radio Vibe",
-        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        },
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 249529,
-      "name": "Radio Vibe - radio single",
-      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Piano Tales",
-        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 248712,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
@@ -845,6 +809,22 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Piano Tales",
+        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 248712,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -863,6 +843,22 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "added_at": "2022-10-07 04:01:00",

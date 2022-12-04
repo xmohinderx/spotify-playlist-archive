@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Marca Registrada & Luis R Conriquez",
-  "num_followers": 125648,
+  "num_followers": 125969,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMxMzU2MywwMDAwMDAwMDlmODU1OTAwNGMxNjc4ZDA0M2YwOTk3NzUyM2RmNTYz",
+  "snapshot_id": "MTY2OTMxMzU2MywwMDAwMDAwMDYxNjNjZjk3MmMyM2U1NmQ5NjYxZmQ1NmJkZWMwY2U0",
   "tracks": [
     {
       "added_at": "2022-11-03 19:54:40",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
-      "added_at": "2022-12-03 01:36:54",
+      "added_at": "2022-12-04 01:40:10",
       "album": {
         "name": "Chrysler 300 (En Vivo)",
         "url": "https://open.spotify.com/album/3k43dLRyRy4p1ull0bDUem"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6z9Ef3SnDxISkvLuPVDyju"
     },
     {
-      "added_at": "2022-12-03 01:36:54",
+      "added_at": "2022-12-04 01:40:10",
       "album": {
         "name": "Corridos B\u00e9licos, Vol. 3",
         "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
-      "added_at": "2022-12-03 01:36:54",
+      "added_at": "2022-12-04 01:40:10",
       "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
-      "added_at": "2022-12-03 01:36:54",
+      "added_at": "2022-12-04 01:40:10",
       "album": {
         "name": "Sin Opci\u00f3n",
         "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
-      "added_at": "2022-12-03 01:36:54",
+      "added_at": "2022-12-04 01:40:10",
       "album": {
         "name": "De Buen Callo (En Vivo)",
         "url": "https://open.spotify.com/album/3E3XHq0fQoQ5y4FtjPOzXl"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
-      "added_at": "2022-12-03 01:36:54",
+      "added_at": "2022-12-04 01:40:10",
       "album": {
         "name": "Placas De Papel",
         "url": "https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m"
@@ -615,18 +615,22 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -647,22 +651,18 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Ahora Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 225767,
-      "name": "Ahora Todo Es Diferente",
-      "url": "https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 148561,
       "name": "A Lo Lejos Me Veran",
       "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Ahora Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 225767,
+      "name": "Ahora Todo Es Diferente",
+      "url": "https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Denver Ruleteamos",
-        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Denver Ruleteamos",
-      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 179821,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Denver Ruleteamos",
+        "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Denver Ruleteamos",
+      "url": "https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
+        "name": "El Carrito",
+        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 178812,
+      "name": "El Carrito",
+      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
         "name": "As\u00ed Toc\u00f3 Mi Vida",
         "url": "https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 250440,
       "name": "As\u00ed Toc\u00f3 Mi Vida",
       "url": "https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
-        "name": "El Carrito",
-        "url": "https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "El Carrito",
-      "url": "https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 243460,
-      "name": "Rolling One",
-      "url": "https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/56ZmDRD0prasmcVlSJwQNS"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 206271,
       "name": "La Envidia Se Dio Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/0612bpbpVUQX7mwYNO36xj"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 243460,
+      "name": "Rolling One",
+      "url": "https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1"
     },
     {
       "added_at": "2022-11-03 19:54:40",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-11-03 19:54:40",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 154090,
-      "name": "Chingandole Macizo",
-      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
-    },
-    {
-      "added_at": "2022-11-03 19:54:40",
-      "album": {
         "name": "Se Divisan",
         "url": "https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 160000,
       "name": "Se Divisan",
       "url": "https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z"
+    },
+    {
+      "added_at": "2022-11-03 19:54:40",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 154090,
+      "name": "Chingandole Macizo",
+      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
     },
     {
       "added_at": "2022-11-03 19:54:40",

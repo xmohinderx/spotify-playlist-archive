@@ -1,15 +1,15 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4075512,
+  "num_followers": 4076637,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQzNzI2NSwwMDAwMDAwMGNmODAyZTc4ZmM4Yjk3YzBjMzYxNWY2NjkwNDc3Mjc1",
+  "snapshot_id": "MTY2ODQzNzI2NSwwMDAwMDAwMDFiYmRjYzVlZWVhNGY0YjkzM2Q1YTk1MWJlYTA0Yjg2",
   "tracks": [
     {
-      "added_at": "2022-12-03 00:58:24",
+      "added_at": "2022-12-04 01:01:33",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
     },
     {
-      "added_at": "2022-12-03 00:58:24",
+      "added_at": "2022-12-04 01:01:33",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
-      "added_at": "2022-12-03 00:58:24",
+      "added_at": "2022-12-04 01:01:33",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -567,6 +567,26 @@
     {
       "added_at": "2022-11-14 14:46:57",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2022-11-14 14:46:57",
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
-    },
-    {
-      "added_at": "2022-11-14 14:46:57",
-      "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
       "added_at": "2022-11-14 14:46:57",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-14 14:46:57",
       "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
-    },
-    {
-      "added_at": "2022-11-14 14:46:57",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "added_at": "2022-11-14 14:46:57",
+      "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
     },
     {
       "added_at": "2022-11-14 14:46:57",

@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-673 songs - 1 day 16 hr 9 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+674 songs - 1 day 16 hr 14 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-12-17 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 | 2022-07-29 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-07-22 | 2022-10-13 |
-| [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2021-12-17 |  |
+| [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2021-12-17 | 2022-12-04 |
 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 | 2021-12-17 | 2022-04-21 |
 | [Exhale \- Acoustic](https://open.spotify.com/track/0dY1EGwJi07EHmDr1qwyG0) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Exhale \(Acoustic\)](https://open.spotify.com/album/6iUYug744pXKrAk45VGcuq) | 2:36 | 2022-01-24 | 2022-04-20 |
 | [Extraordinary Life](https://open.spotify.com/track/5uzobcG3nuWj4MU6CBaHfd) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/5h81iCjTwueeh5ZbDGhU9V) | 3:41 | 2021-12-17 | 2022-07-29 |
@@ -607,6 +607,7 @@
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-07-29 |  |
 | [Thumbs](https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr) | [Zander Hawley](https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ) | [Thumbs](https://open.spotify.com/album/4vlNZYQOuPR57SatL0VD54) | 4:33 | 2021-12-17 | 2022-07-27 |
 | [Tiger Lilies](https://open.spotify.com/track/3UTtblnDHe2GOuP3Pil8MV) | [Sun On Shade](https://open.spotify.com/artist/7uYtZH0hRJ7VwvaSCiQpFX), [Lloyd Buchanan](https://open.spotify.com/artist/7jO0KHj4AAwPxABUWH9bD4) | [Sun On Shade](https://open.spotify.com/album/3dOOK4Lw9War8p8WA15P2E) | 5:07 | 2021-12-17 | 2022-11-20 |
+| [Tiger Lilies \- feat\. Lloyd Buchanan](https://open.spotify.com/track/7rSTJg9t7XDq2hgR9XjYS9) | [Sun On Shade](https://open.spotify.com/artist/7uYtZH0hRJ7VwvaSCiQpFX) | [Sun On Shade](https://open.spotify.com/album/69F8Om824qZRGRDVkO187y) | 5:07 | 2022-07-29 |  |
 | [Times Like This](https://open.spotify.com/track/1YldiVKQnq52Y0PeZn94Y4) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Times Like This](https://open.spotify.com/album/0gM1g36RKnxNL66a5OmtXM) | 4:07 | 2021-12-17 | 2022-07-29 |
 | [To a T \- Stripped](https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [To a T \(Stripped\)](https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb) | 3:18 | 2021-12-17 |  |
 | [To Die For \(feat\. Kygo\) \- Acoustic Rework](https://open.spotify.com/track/3YSl368INhEnOCOSxvQRkX) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [To Die For \(feat\. Kygo\) \[Acoustic Rework\]](https://open.spotify.com/album/3uxFdJEIMqnC55yM28knvL) | 3:16 | 2021-12-17 | 2022-04-20 |

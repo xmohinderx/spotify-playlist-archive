@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1405215,
+  "num_followers": 1405768,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGU4ZWY3MjIyYmE1NmE5YjE2ZmU2ODg1MjI1YjA1YmY1",
+  "snapshot_id": "MTY2ODc5MDE4MywwMDAwMDAwMGU1OTNhNTg1NDM4MWI4YTEwZGFmMzJkZjkwMTIwODIw",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -719,22 +719,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Show Me A Sign",
-        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+        "name": "Hide and Seek (Le Youth Remix)",
+        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
         },
         {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         }
       ],
-      "duration_ms": 223283,
-      "name": "Show Me A Sign (with MKLA)",
-      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
+      "duration_ms": 231288,
+      "name": "Hide and Seek - Le Youth Remix",
+      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Hide and Seek (Le Youth Remix)",
-        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        },
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        }
-      ],
-      "duration_ms": 231288,
-      "name": "Hide and Seek - Le Youth Remix",
-      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Show Me A Sign",
+        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Show Me A Sign (with MKLA)",
+      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -911,30 +911,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Ready For More",
-        "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Two Are",
-          "url": "https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD"
-        },
-        {
-          "name": "Alar",
-          "url": "https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a"
-        }
-      ],
-      "duration_ms": 247991,
-      "name": "Ready For More",
-      "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Anjunabeats Volume 14",
         "url": "https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 308053,
       "name": "Need To Feel Loved - Tinlicker Remix",
       "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Ready For More",
+        "url": "https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Two Are",
+          "url": "https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD"
+        },
+        {
+          "name": "Alar",
+          "url": "https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a"
+        }
+      ],
+      "duration_ms": 247991,
+      "name": "Ready For More",
+      "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1181,6 +1181,26 @@
       "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Silence",
@@ -1219,26 +1239,6 @@
       "duration_ms": 460780,
       "name": "Origin",
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP"
-      },
-      "artists": [
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
-        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 329349,
-      "name": "Strangers (with Mansionair) - Tinlicker Remix",
-      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Tantrum",
         "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
       },
@@ -1451,6 +1427,22 @@
       "duration_ms": 229512,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Deep State",
+        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1475,18 +1467,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Deep State",
-        "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
+        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
+        "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
       },
       "artists": [
         {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 337500,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
+      "duration_ms": 329349,
+      "name": "Strangers (with Mansionair) - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "All I Want (feat. Goatchy)",
         "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 224978,
       "name": "All I Want (feat. Goatchy)",
       "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "This Time / Ray",
-        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
-      },
-      "artists": [
-        {
-          "name": "Avoure",
-          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
-        }
-      ],
-      "duration_ms": 414646,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "This Time / Ray",
+        "url": "https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO"
+      },
+      "artists": [
+        {
+          "name": "Avoure",
+          "url": "https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E"
+        }
+      ],
+      "duration_ms": 414646,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Twin Souls",
         "url": "https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm"
       },
@@ -1649,7 +1649,7 @@
       "url": "https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC"
     },
     {
-      "added_at": "2022-12-03 01:23:13",
+      "added_at": "2022-12-04 01:26:23",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Follow You Anywhere",
-        "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 244982,
-      "name": "Follow You Anywhere",
-      "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
@@ -1767,6 +1747,42 @@
       "duration_ms": 234098,
       "name": "Time and Time Again - Single Edit",
       "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Follow You Anywhere",
+        "url": "https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 244982,
+      "name": "Follow You Anywhere",
+      "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Gamma",
+        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 381254,
+      "name": "Gamma",
+      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1817,20 +1833,24 @@
       "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Gamma",
-        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 381254,
-      "name": "Gamma",
-      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
+      "duration_ms": 178750,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
     },
     {
       "added_at": "2022-08-26 13:27:46",
@@ -1851,26 +1871,6 @@
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1937,30 +1937,6 @@
       "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "A Drug From God (Reb\u016bke Remix)",
-        "url": "https://open.spotify.com/album/3m9iHkgf9wX6fM5ZekvZPZ"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "NPC",
-          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 188251,
-      "name": "A Drug From God (Reb\u016bke Remix)",
-      "url": "https://open.spotify.com/track/2O0ESQqVFf95Hcm6NMeEON"
-    },
-    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Vommuli",
@@ -1991,6 +1967,30 @@
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "A Drug From God (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/3m9iHkgf9wX6fM5ZekvZPZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "NPC",
+          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 188251,
+      "name": "A Drug From God (Reb\u016bke Remix)",
+      "url": "https://open.spotify.com/track/2O0ESQqVFf95Hcm6NMeEON"
     }
   ],
   "unique_name": "Night Rider",

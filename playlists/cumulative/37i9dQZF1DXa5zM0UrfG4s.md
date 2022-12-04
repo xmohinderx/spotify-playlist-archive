@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
 
-265 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+266 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 | 2021-12-16 | 2022-11-16 |
 | [Mango IPA \- Remix](https://open.spotify.com/track/6TUkYXRUzsB9i5fBK0BJ30) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo), [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Mango IPA \(Remix\)](https://open.spotify.com/album/4ykZO8NjS3qSnvg5H1JTQM) | 3:22 | 2021-12-16 | 2022-10-16 |
 | [Mawbys](https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv) | [Brødrene Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8) | 3:04 | 2022-10-15 |  |
-| [Mcdonalds](https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:07 | 2022-12-01 |  |
+| [Mcdonalds](https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:07 | 2022-12-01 | 2022-12-04 |
 | [Mcdonalds](https://open.spotify.com/track/4um6ufqR4iLTP11FnrrXfJ) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Mcdonalds](https://open.spotify.com/album/4oLEUIj1vMpVxFbJ1j7Nb8) | 2:07 | 2021-12-16 | 2022-10-16 |
 | [MDG \(Jada, jada, jada\)](https://open.spotify.com/track/1BjSGxczJ2e4uwvAJstkKe) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [MDG \(Jada, jada, jada\)](https://open.spotify.com/album/79cMNOvhoUDp7JvyndUw3r) | 1:02 | 2021-12-16 | 2022-06-29 |
 | [Medbrakt](https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Medbrakt](https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG) | 2:11 | 2022-01-06 | 2022-07-29 |
@@ -212,6 +212,7 @@
 | [Rullær](https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Rullær](https://open.spotify.com/album/54JEprViU1skzpmEgO32A1) | 2:27 | 2021-12-16 |  |
 | [RUN IT BACK](https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [RUN IT BACK](https://open.spotify.com/album/2ZSJAqMW1IWJFU3nFHfsJW) | 2:28 | 2022-10-15 |  |
 | [Rundt neste sving](https://open.spotify.com/track/1a13lJDJfoIwl1sfjVWy4j) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Rundt neste sving](https://open.spotify.com/album/5kK2tt52F3j9ARRsksxOHT) | 3:55 | 2021-12-16 | 2022-07-29 |
+| [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 | 2022-12-01 |  |
 | [Scania fra 1973](https://open.spotify.com/track/149qw7uPNyeYjZbF1TtOq5) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [3](https://open.spotify.com/album/03p4hxaB9DqC7Kh5bAkb8b) | 3:52 | 2022-02-03 | 2022-04-18 |
 | [Sexylubben](https://open.spotify.com/track/0SGHKXTxAxfmaTsfv7Dle1) | [Rød Mix](https://open.spotify.com/artist/5C98HIFpOjDEJKslOt7SI8) | [Sexylubben](https://open.spotify.com/album/49Yrzg0zu7dY2N2qTlYJkR) | 3:50 | 2022-01-13 | 2022-04-19 |
 | [Shotski](https://open.spotify.com/track/0RndJ3YX7oQTm1UXLQMrRR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Shotski](https://open.spotify.com/album/6nKlpUiUlrfjqESyLk9lq3) | 3:00 | 2022-02-17 | 2022-07-28 |

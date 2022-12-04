@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,802 likes - 124 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,812 likes - 124 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 7 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 |
 | 8 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 9 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 |
-| 10 | [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Zhou Thiemo](https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 |
+| 10 | [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 |
 | 11 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 |
 | 12 | [Chromium](https://open.spotify.com/track/2xMdXQxvOJGozOU0Y6gKmw) | [Míper Güel](https://open.spotify.com/artist/6AHriuTXUDvLZWoEMa0SmN) | [Chromium](https://open.spotify.com/album/1ZNEdw4CeZ0kFFBbGDRt1j) | 3:35 |
 | 13 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 |

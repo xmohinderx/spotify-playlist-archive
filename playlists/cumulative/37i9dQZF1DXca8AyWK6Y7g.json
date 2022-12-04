@@ -12223,7 +12223,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 191949,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
@@ -13711,6 +13711,28 @@
       "duration_ms": 211498,
       "name": "Less",
       "url": "https://open.spotify.com/track/44Ghsk1TVBTKEB4ksQYhSV"
+    },
+    {
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149727,
+      "name": "Let Me Down (with Chelsea Cutler)",
+      "url": "https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W"
     },
     {
       "album": {

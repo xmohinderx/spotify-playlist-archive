@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112324,
+  "num_followers": 112332,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGZkZDgxMTQwZGEzZTdlYzFhNDYzOTVhNmE1M2JiZjlh",
+  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGVmZTE5NGU3NWMzMDZiOTM3NmRhMDdiY2ZlZTE4OTJl",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -823,18 +823,26 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/2MvEZPyhKqA5SdVAmsu2nC"
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
         }
       ],
-      "duration_ms": 201883,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys"
+      "duration_ms": 309600,
+      "name": "Welcome To New York City",
+      "url": "https://open.spotify.com/track/6GJe7xXJVxmPZpMBVb7kOc"
     }
   ],
   "unique_name": "I Love NYC",

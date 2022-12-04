@@ -6205,7 +6205,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -6401,7 +6401,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -8983,7 +8983,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 214253,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/1kuw8HFbvgAg3tNqPj00Mb"
@@ -11028,6 +11028,24 @@
     },
     {
       "album": {
+        "name": "najlepszy dzie\u0144 w moim \u017cyciu",
+        "url": "https://open.spotify.com/album/1OZUaI8foVsLMTOIdWQx7C"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "najlepszy dzie\u0144 w moim \u017cyciu",
+      "url": "https://open.spotify.com/track/1U5tyGeq6tFW6WNTmPluvx"
+    },
+    {
+      "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
       },
@@ -12511,7 +12529,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 187208,
       "name": "Panta Rhei",
       "url": "https://open.spotify.com/track/6LxqqfddY2x8UOqJwcgD39"
@@ -16195,7 +16213,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 196600,
       "name": "Szafir",
       "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-866 songs - 1 day 22 hr 15 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+867 songs - 1 day 22 hr 18 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [caroline](https://open.spotify.com/track/2WxB1yMEPUPAILo8BdEUFa) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [caroline](https://open.spotify.com/album/6KuCBVE5ZYTJxbge7Twwel) | 2:47 | 2022-04-01 | 2022-04-06 |
 | [Carousel](https://open.spotify.com/track/12q0i0bpDwti8pIPtqO4yQ) | [Eat Your Heart Out](https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i) | [Carousel](https://open.spotify.com/album/6jkeginjmIxiNCDts3bltL) | 3:53 | 2021-12-10 | 2022-07-07 |
 | [Cat's Cradle](https://open.spotify.com/track/6WtjnP1y7Mo0hxyPl1fCU6) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Cat's Cradle](https://open.spotify.com/album/4SQCiFw6ZlkJBr2Eb5zZ8K) | 2:36 | 2022-04-08 | 2022-05-17 |
+| [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 |  |
 | [Catching Fire \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/0M0iDfjwyJwRWBS1Wpocd5) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Catching Fire \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/5ezmrxI0U874BTigubbQWb) | 4:01 | 2021-12-10 | 2022-08-03 |
 | [Cathedral Bell](https://open.spotify.com/track/6XmQuWdDRF0E2QwDsrRbkb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Cathedral Bell](https://open.spotify.com/album/1EAnGsIjR5X3sdIiwQAGcT) | 3:04 | 2021-12-10 | 2022-06-17 |
 | [Cave In](https://open.spotify.com/track/7foB3FgACotzkH5hkWOOAS) | [I The Mighty](https://open.spotify.com/artist/1aK2PiGHyEgc4wAIKQzMj2) | [Cave In](https://open.spotify.com/album/62qer7kVON5XSwZ3wd8W7B) | 3:27 | 2021-12-10 | 2022-06-22 |
@@ -426,7 +427,7 @@
 | [Kill TV \(feat\. Nile Rodgers\)](https://open.spotify.com/track/1itczyE3t7bDv6ydYmJM2S) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Kill TV \(feat\. Nile Rodgers\)](https://open.spotify.com/album/55GSSpPCguXdIfabzsltC6) | 3:11 | 2021-12-10 | 2022-06-01 |
 | [killing me](https://open.spotify.com/track/1V9luKoEKlMyweVDBEl3uO) | [august brodie](https://open.spotify.com/artist/0aIzyzaRQYsWCtzfNKBiui) | [killing me](https://open.spotify.com/album/1iZn9PYkDyAwqxFXEQ0M9V) | 2:23 | 2021-12-10 | 2022-04-17 |
 | [King](https://open.spotify.com/track/2hZHG5VndIhuJRbKONm9Bv) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [King](https://open.spotify.com/album/1LwwFbR5UDxx9puw5vZEnY) | 3:27 | 2022-04-08 | 2022-04-23 |
-| [King](https://open.spotify.com/track/5p0eL7q0YgcE330KaL0U7q) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:27 | 2022-12-02 |  |
+| [King](https://open.spotify.com/track/5p0eL7q0YgcE330KaL0U7q) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:27 | 2022-12-02 | 2022-12-04 |
 | [King of Nothing](https://open.spotify.com/track/6sPXo5wTA3IKBK2mOJbUbY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [King of Nothing / Empty](https://open.spotify.com/album/4jJzaQ6ovtPPqnMErF6xfR) | 3:23 | 2021-12-10 | 2022-04-21 |
 | [Kites](https://open.spotify.com/track/6gebyKHq3WuHra8gMvaGzG) | [Sorry Ghost](https://open.spotify.com/artist/01kWaiwBGtk1gsVcMv2m1e) | [Kites](https://open.spotify.com/album/32fSNDE3wM3pCmBnFF8QzV) | 2:39 | 2021-12-10 | 2022-07-03 |
 | [Know You Too Well](https://open.spotify.com/track/1w1NiyET8kbJ4Po73YO6Er) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Know You Too Well](https://open.spotify.com/album/5WAUYAKKJrVjXx0bsYo2Ze) | 3:30 | 2021-12-10 | 2022-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,832 likes - 31 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,659 likes - 34 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 20 | [If I Know Me](https://open.spotify.com/track/03d8S7FBY2kIzhP0E7l4rn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 2:37 |
 | 21 | [Livin’ The Dream](https://open.spotify.com/track/2L4YgbxxwmwafMqLIjSx8q) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Livin’ The Dream](https://open.spotify.com/album/6HALwpatS8fPZ62DgZbttt) | 3:59 |
 | 22 | [7 Summers](https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:30 |
-| 23 | [He Went To Jared \(HARDY feat\. Morgan Wallen\)](https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:33 |
+| 23 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 |
 | 24 | [Up Down \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/3EWMoDIm6lzuR0zQKtuCJX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:17 |
-| 25 | [Chain Smokin'](https://open.spotify.com/track/1PTQ22h4JKA2u6BTbuZ5Oc) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Chain Smokin'](https://open.spotify.com/album/1Ci07wKuqbEHE1j6Ff5jVX) | 3:42 |
-| 26 | [Stand Out](https://open.spotify.com/track/1obSAv22xGzYYrPWRcC4PD) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Out](https://open.spotify.com/album/1Kj2VOGUUTdOoZRplfR2rL) | 3:14 |
-| 27 | [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 |
-| 28 | [Sleep When We're Dead](https://open.spotify.com/track/77Q8V48a8jGsghvaVNWMaP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:21 |
-| 29 | [Man of the South](https://open.spotify.com/track/2S1YzIHFyLxLop7XCdYrTp) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:33 |
-| 30 | [Stand Alone](https://open.spotify.com/track/5Gy4y79aKl44KZ2BpmgY7P) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:09 |
-| 31 | [Yin Yang Girl](https://open.spotify.com/track/1jYHeWuwdAcaI7D97GTxF2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:27 |
+| 25 | [He Went To Jared \(HARDY feat\. Morgan Wallen\)](https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:33 |
+| 26 | [Chain Smokin'](https://open.spotify.com/track/1PTQ22h4JKA2u6BTbuZ5Oc) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Chain Smokin'](https://open.spotify.com/album/1Ci07wKuqbEHE1j6Ff5jVX) | 3:42 |
+| 27 | [Tennessee Fan](https://open.spotify.com/track/3Ga7Uele3zN57vQ4F0HPTW) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:18 |
+| 28 | [Stand Out](https://open.spotify.com/track/1obSAv22xGzYYrPWRcC4PD) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Out](https://open.spotify.com/album/1Kj2VOGUUTdOoZRplfR2rL) | 3:14 |
+| 29 | [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 |
+| 30 | [Sleep When We're Dead](https://open.spotify.com/track/77Q8V48a8jGsghvaVNWMaP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:21 |
+| 31 | [Days That End In Why](https://open.spotify.com/track/4tn5fOYDtxFldIMVOVcKkc) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 2:42 |
+| 32 | [Man of the South](https://open.spotify.com/track/2S1YzIHFyLxLop7XCdYrTp) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:33 |
+| 33 | [Stand Alone](https://open.spotify.com/track/5Gy4y79aKl44KZ2BpmgY7P) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:09 |
+| 34 | [Yin Yang Girl](https://open.spotify.com/track/1jYHeWuwdAcaI7D97GTxF2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:27 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBkOGIzZjZiOTY5ZmMyYTdkYzExYzZiZjBjMWYyZGQyMA==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA0Njg1MTViYjlkODJlZjhkNWJiY2M5MTEyZmVhM2ZiYg==`

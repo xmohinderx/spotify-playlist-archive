@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,536 likes - 500 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,742 likes - 500 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 63 | [Hendi Dendi](https://open.spotify.com/track/4E3b2X2YqgyHOsHcs9UUgF) | [Santee Sioux](https://open.spotify.com/artist/5yK5k6LI75ihWI5z78xJ5B) | [Hendi Dendi](https://open.spotify.com/album/5OpiTQzeq0CRKoX6PjNCUe) | 1:45 |
 | 64 | [Tronntora](https://open.spotify.com/track/2f26EtMrZFMuFLx8RrFeaL) | [Dagahra Voi](https://open.spotify.com/artist/77MiU37MLu3JVlifE017yO) | [Tronntora](https://open.spotify.com/album/38e12KrFKnDpLXp6x5rrCN) | 2:06 |
 | 65 | [Guidance](https://open.spotify.com/track/02tOh7uEWKJ6NmbbU8bRbp) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [Guidance](https://open.spotify.com/album/77I1dOZS2sO98FnOph5DBi) | 2:23 |
-| 66 | [Skyrisers](https://open.spotify.com/track/6l4OburkdTyyFVKAQ885mt) | [Y\-Factor](https://open.spotify.com/artist/6RvMHIjA9epxC2SRHQVkxs) | [Skyrisers](https://open.spotify.com/album/6XbT7i6Nqj9RHounBHXHJ2) | 1:53 |
+| 66 | [Skyrisers](https://open.spotify.com/track/6l4OburkdTyyFVKAQ885mt) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skyrisers](https://open.spotify.com/album/6XbT7i6Nqj9RHounBHXHJ2) | 1:53 |
 | 67 | [Laid Back](https://open.spotify.com/track/4pL2JWxZR2LyzCHVw2KXdA) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Laid Back](https://open.spotify.com/album/2mcTE8vGAokL4i8ytHwNXB) | 2:47 |
 | 68 | [Medow](https://open.spotify.com/track/0JoOEjVuA6VtEzHPVygoeA) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Medow](https://open.spotify.com/album/0MpOBAnxzBzNlvkszZrq80) | 2:10 |
 | 69 | [headrest](https://open.spotify.com/track/34onOCGNz7ylA7AxoeVv2z) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [headrest](https://open.spotify.com/album/5e9ZKtgVCNLL51a3xdW3y0) | 2:22 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 107 | [Winter](https://open.spotify.com/track/3YS7RZ6Y6K4GkSEGeiZ7MI) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Winter](https://open.spotify.com/album/4gfssO2quWxqdhQWLxkjbv) | 1:34 |
 | 108 | [No Signal](https://open.spotify.com/track/7pawJCUMhambr79ohofk0A) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [No Signal](https://open.spotify.com/album/1ZmJBdbfQGKI6MacQ816JQ) | 2:30 |
 | 109 | [Rutine](https://open.spotify.com/track/1rfz8agfjrpNkMYbtLPvoU) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Rutine](https://open.spotify.com/album/1FEtSRDR2Gm5Jw0dqgCBab) | 1:33 |
-| 110 | [Softly Spoken](https://open.spotify.com/track/2MUyfYFjFfoHmQ1LnsNOU0) | [flavors](https://open.spotify.com/artist/2rM6bulJnANpphWKBrEn0y), [floridomi](https://open.spotify.com/artist/4I3pwCrFsOXd1laaCNzziZ), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Softly Spoken](https://open.spotify.com/album/0SBcRk7L26ySFBEMYWujkB) | 2:12 |
+| 110 | [Softly Spoken](https://open.spotify.com/track/2MUyfYFjFfoHmQ1LnsNOU0) | [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77), [floridomi](https://open.spotify.com/artist/4I3pwCrFsOXd1laaCNzziZ), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Softly Spoken](https://open.spotify.com/album/0SBcRk7L26ySFBEMYWujkB) | 2:12 |
 | 111 | [Walking Through The Stars](https://open.spotify.com/track/0iTZSbxozdf64p3ozCo8d5) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Walking Through The Stars](https://open.spotify.com/album/7gqBpFvwPy7Ygkp62K0IpH) | 1:56 |
 | 112 | [Cerulean](https://open.spotify.com/track/7FKsMtxwEwX1FObrXB8puk) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Cerulean](https://open.spotify.com/album/4LVcOGl1yV59xdG6hvJmRE) | 1:34 |
 | 113 | [Blanket](https://open.spotify.com/track/5T6TpKmumMp34okwas1cS7) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Blanket](https://open.spotify.com/album/4snPSNeeozoqCrpFSedKD1) | 2:00 |
@@ -257,7 +257,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 247 | [Lycanthropy](https://open.spotify.com/track/2AEBMtMhgeMTag2JXRk8IH) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Lycanthropy](https://open.spotify.com/album/6rK6rA4o3CZQCMKTsYUj4h) | 2:39 |
 | 248 | [MONOLOG](https://open.spotify.com/track/3qtoZIcl06MzOwSaXECYT7) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [SERENITY](https://open.spotify.com/album/4ZjZgsqQJr8sDplpXIMASh) | 3:07 |
 | 249 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 |
-| 250 | [Lift You Up](https://open.spotify.com/track/0EfQpTq8NDJG40Llhg411d) | [Liupold](https://open.spotify.com/artist/42VJibgXN08myFvPbCUTwd) | [Lift You Up](https://open.spotify.com/album/4uvtK9zrNy3GBQ9BVgKAXi) | 2:51 |
+| 250 | [Lift You Up](https://open.spotify.com/track/0EfQpTq8NDJG40Llhg411d) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Lift You Up](https://open.spotify.com/album/4uvtK9zrNy3GBQ9BVgKAXi) | 2:51 |
 | 251 | [Not At All](https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Not At All](https://open.spotify.com/album/69poJpRRslIWZkiasD6wHj) | 2:23 |
 | 252 | [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 |
 | 253 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: lost spaces, JAIE \(Malaysia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,907 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,939 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 44 | [Mind Reader](https://open.spotify.com/track/1rh0jt0HZt0Jep4mSpLYuU) | [View From The Bus Tour](https://open.spotify.com/artist/0GR6ApWdU4ABm01QzYsStJ) | [Mind Reader](https://open.spotify.com/album/4PiWOUGPZiPpAKPwxapiSz) | 3:23 |
 | 45 | [Take My Hug](https://open.spotify.com/track/4Fml95IHlQ9QE976vkyvZk) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Take My Hug](https://open.spotify.com/album/3gf0iNThdkWm4GmyPIwCGQ) | 4:01 |
 | 46 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 |
-| 47 | [Sunset](https://open.spotify.com/track/7nlvbZVjzZZpFmEzfgWN2c) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Tuesday Beach Club](https://open.spotify.com/album/0vGAwNbmAskdxxfGyAxf2Q) | 3:00 |
+| 47 | [Sunset](https://open.spotify.com/track/13zUDc9v7tauSRAp8F0bdJ) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/6zpzuFvYXssa278uauqo1r) | 3:00 |
 | 48 | [Sirens](https://open.spotify.com/track/6HZizUtULpYr2R61iG2IkJ) | [Visiun](https://open.spotify.com/artist/6qqgKFc4hGR6f3P05uRAmx) | [Sirens](https://open.spotify.com/album/5JIrh7kGpBubQXfrcU2kgf) | 2:58 |
 | 49 | [Upon You](https://open.spotify.com/track/6raHSY9SaPWOKXmHiBEegd) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:36 |
 | 50 | [Pink](https://open.spotify.com/track/6Xss284HURvzRGqyIrX0bS) | [Sepia Times](https://open.spotify.com/artist/4m02Ox4bbSriKKv6wo8gS5) | [The Art Of Human Part 2](https://open.spotify.com/album/7B8qalXIydIFlRqUcgJd4d) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
 | 75 | [Songbird](https://open.spotify.com/track/5VkxoPlgC2ujrWX5anVdax) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 3:44 |
 
-Snapshot ID: `MTY2OTk0MTQwNywwMDAwMDAwMGYzYTk1MGQwYTRiZWZkMWIyYWIzZDI1ODUzNjI3ODc0`
+Snapshot ID: `MTY2OTk0MTQwNywwMDAwMDAwMDU0YWFlMWNmMDIyNzFkYzBjMTZiYjhlZTJiYzM3M2Yz`

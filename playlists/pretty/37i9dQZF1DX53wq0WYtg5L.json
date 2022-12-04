@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 526392,
+  "num_followers": 526477,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMDM0YWRlZjE5ZTZiNmNiOWZjMjYzZmYzOTlhZWQzZDFj",
+  "snapshot_id": "MTY2MzAwMzk3NCwwMDAwMDAwMDMyYTRkYTU1YzkyYmVkMjFmNTRhNzA2MTc0NGNmZDI1",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 191576,
-      "name": "Que Lindo Es Michoacan",
-      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Negra Linda",
         "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 389973,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 191576,
+      "name": "Que Lindo Es Michoacan",
+      "url": "https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -899,8 +899,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
+        "name": "L\u00e1stima Que Sean Ajenas",
+        "url": "https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 137108,
-      "name": "La Vaquilla Colorada",
-      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
+      "duration_ms": 188472,
+      "name": "El Tapatio",
+      "url": "https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Zopilote mojado",
-      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
+      "duration_ms": 156333,
+      "name": "Rancho grande",
+      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "L\u00e1stima Que Sean Ajenas",
-        "url": "https://open.spotify.com/album/1aSlbjdsAjY93SiXsqwfIL"
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 188472,
-      "name": "El Tapatio",
-      "url": "https://open.spotify.com/track/2c7hsQ1qRngj4GhMopLE5W"
+      "duration_ms": 137108,
+      "name": "La Vaquilla Colorada",
+      "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Ayer, Hoy y Siempre",
-        "url": "https://open.spotify.com/album/394u6nlGrWXFGQQYZV1h66"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Un canto a Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Puro Mariachi",
         "url": "https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 137586,
       "name": "El Son De Los Aguacates",
       "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Ayer, Hoy y Siempre",
+        "url": "https://open.spotify.com/album/394u6nlGrWXFGQQYZV1h66"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Un canto a Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "La Charreada",
-      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Luis Aguilar",
         "url": "https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "La Charreada",
+      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
         "name": "Estampas De Mexico: Traditional Music From Mexico",
         "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 200400,
       "name": "El Herradero",
       "url": "https://open.spotify.com/track/6ZkWgNSpIGHQ7XoeDRf8x8"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
-        }
-      ],
-      "duration_ms": 322168,
-      "name": "Popurr\u00ed de Sones",
-      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1391,6 +1375,22 @@
       "duration_ms": 178386,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+        }
+      ],
+      "duration_ms": 322168,
+      "name": "Popurr\u00ed de Sones",
+      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Rancho grande",
-      "url": "https://open.spotify.com/track/5fgbllfBxOLke0QHFQZzNQ"
+      "duration_ms": 196000,
+      "name": "Zopilote mojado",
+      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
     },
     {
       "added_at": "2022-09-12 17:32:54",

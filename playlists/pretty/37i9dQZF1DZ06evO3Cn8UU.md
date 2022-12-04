@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,660 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,683 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 34 | [Two Hearts \- Single Version](https://open.spotify.com/track/7ikuX6GAuWaT5SAZytkBRi) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 4:37 |
 | 35 | [Be for Real \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 7:29 |
 | 36 | [To Be Free to Be Who We Are \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:08 |
-| 37 | [2 A.M.](https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 5:26 |
-| 38 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
-| 39 | [Concentrate On Me \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:11 |
-| 40 | [You're My Choice Tonight \(Choose Me\)](https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 4:49 |
-| 41 | [Is It Still Good to Ya](https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:34 |
+| 37 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
+| 38 | [2 A.M.](https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 5:26 |
+| 39 | [You're My Choice Tonight \(Choose Me\)](https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 4:49 |
+| 40 | [Is It Still Good to Ya](https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:34 |
+| 41 | [Concentrate On Me \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:11 |
 | 42 | [Tell the World How I Feel About 'Cha Baby \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:52 |
 | 43 | [Get Up, Get Down, Get Funky, Get Loose](https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:23 |
 | 44 | [Heaven Only Knows](https://open.spotify.com/track/7324pZTc3ZcYNKBSGHKxOT) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:39 |
 | 50 | [Can't We Try](https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 5:03 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDBmNzUwMjZmNGE4MjRmZjNiMDBhYjQ5NmExY2YxYTU2Yg==`
+Snapshot ID: `Mjc4MzQ3MzMsMDAwMDAwMDA2YWJhM2E1NjVmZmIyZTViYzllZGZkZjVhM2ZlNDYxZA==`

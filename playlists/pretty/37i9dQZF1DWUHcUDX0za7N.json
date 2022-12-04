@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=YZ4PsjwoRNK0UBOTjrxGsA\" > Odumodublvck </a> ",
-  "num_followers": 12524,
+  "num_followers": 12584,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1Njg1MSwwMDAwMDAwMGY4M2Q1ODhmNDUxMmNhZDZhMGVkNjA1NGI0MjhlYTI0",
+  "snapshot_id": "MTY2OTk1Njg1MSwwMDAwMDAwMDA2NjdkMmE3YTY1MjljYmUwOTNiM2YwZTA4YmU5ZWUz",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -604,12 +604,12 @@
           "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
           "name": "King Perryy",
           "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
       "duration_ms": 205794,
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Elephant Man",
-        "url": "https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm"
-      },
-      "artists": [
-        {
-          "name": "Cobhams Asuquo",
-          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Elephant Man",
-      "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Crown Of Clay",
@@ -1301,20 +1285,20 @@
       "url": "https://open.spotify.com/track/6utkMJG6xivCFBFdGG5qXO"
     },
     {
-      "added_at": "2022-08-05 07:43:47",
+      "added_at": "2022-07-07 23:00:00",
       "album": {
-        "name": "Rap Jesu",
-        "url": "https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w"
+        "name": "Elephant Man",
+        "url": "https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm"
       },
       "artists": [
         {
-          "name": "MOJO AF",
-          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+          "name": "Cobhams Asuquo",
+          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
         }
       ],
-      "duration_ms": 151048,
-      "name": "Rap Jesu",
-      "url": "https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9"
+      "duration_ms": 166736,
+      "name": "Elephant Man",
+      "url": "https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -1335,6 +1319,42 @@
       "duration_ms": 189230,
       "name": "Ikebe",
       "url": "https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0"
+    },
+    {
+      "added_at": "2022-08-05 07:43:47",
+      "album": {
+        "name": "Rap Jesu",
+        "url": "https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w"
+      },
+      "artists": [
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Rap Jesu",
+      "url": "https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9"
+    },
+    {
+      "added_at": "2022-12-02 04:54:11",
+      "album": {
+        "name": "Naira to Pounds",
+        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
+      },
+      "artists": [
+        {
+          "name": "Zoro",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Naira to Pounds",
+      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 185228,
       "name": "Vawulence",
       "url": "https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2KiZjho3dmMgLVNm0Ja1Pb"
-      },
-      "artists": [
-        {
-          "name": "Skaa",
-          "url": "https://open.spotify.com/artist/5Z1pJHnETn6fqC37KYfi3Z"
-        },
-        {
-          "name": "Payper Corleone",
-          "url": "https://open.spotify.com/artist/5pNye0bGTXUivn8zdEBIfj"
-        }
-      ],
-      "duration_ms": 196657,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4LknxxjOhHOSD1114p2xWD"
     }
   ],
   "unique_name": "Naija Bars ",

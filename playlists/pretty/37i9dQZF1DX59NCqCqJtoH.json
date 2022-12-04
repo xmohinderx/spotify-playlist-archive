@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1053402,
+  "num_followers": 1055227,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkyMTE0NiwwMDAwMDAwMDM3ZDJjYzM2OGVkYmYxOWYxMTc1YjU0NDM0NjdiNDAx",
+  "snapshot_id": "MTY2OTkyMTE0NiwwMDAwMDAwMGUwMGFlODk0MDM3ZTcxNDQzODUyNDlmOWJhMjRjNTI0",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Please Notice",
-      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 220866,
       "name": "Lookalike",
       "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 200672,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 227031,
       "name": "drunk",
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 200672,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Atlas: II",
-        "url": "https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh"
+        "name": "Oso Different",
+        "url": "https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "MarMar Oso",
+          "url": "https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6"
         }
       ],
-      "duration_ms": 256299,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN"
+      "duration_ms": 233023,
+      "name": "Ruthless (Nice Guys Always Finish Last)",
+      "url": "https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -719,18 +719,34 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Oso Different",
-        "url": "https://open.spotify.com/album/0Ga2a9eC2PvMNr8LRceotI"
+        "name": "Atlas: II",
+        "url": "https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh"
       },
       "artists": [
         {
-          "name": "MarMar Oso",
-          "url": "https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 233023,
-      "name": "Ruthless (Nice Guys Always Finish Last)",
-      "url": "https://open.spotify.com/track/6HeCk6yewXH7WO4D93eub9"
+      "duration_ms": 256299,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -751,22 +767,6 @@
       "duration_ms": 167994,
       "name": "Moonlight Shawty",
       "url": "https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1357,20 +1357,20 @@
       "url": "https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
       },
       "artists": [
         {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 272426,
-      "name": "Brockhampton",
-      "url": "https://open.spotify.com/track/02YuLkTLNkOzKfl5Pmvs2S"
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Brockhampton",
+      "url": "https://open.spotify.com/track/02YuLkTLNkOzKfl5Pmvs2S"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Violets",
@@ -1407,22 +1423,6 @@
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 87040,
-      "name": "My American Life",
-      "url": "https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Don't Leave, Don't Go / Bleed",
@@ -1679,6 +1663,22 @@
       "duration_ms": 184242,
       "name": "Don't Leave, Don't Go",
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 87040,
+      "name": "My American Life",
+      "url": "https://open.spotify.com/track/2GtvxN6tjbqxPZKRNZcJ7x"
     },
     {
       "added_at": "2022-11-11 05:00:00",

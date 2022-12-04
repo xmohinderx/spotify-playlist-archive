@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Metro Boomin \(pictured\) ft\. The Weeknd & 21 Savage, $uicideboy$, Loud Luxury, Rêve, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,115 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,210 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 60 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 |
 | 61 | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/track/3qbORtchROy5DjRoYFsz69) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Toni\-Ann Singh](https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ) | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/album/7joy1NA5tfuo0exE4KVZLk) | 3:56 |
 | 62 | [PAIN!](https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [PAIN!](https://open.spotify.com/album/7lxeegF1y69PXsUXWiLVvf) | 1:38 |
-| 63 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 63 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 64 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 |
 | 65 | [Kilo](https://open.spotify.com/track/5ztpUgdLaz8KywdElP8Ykw) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [Kilo](https://open.spotify.com/album/5TY3DfvjdYS2mkLU7TpJrg) | 3:01 |
 | 66 | [Not Today](https://open.spotify.com/track/1s51blCRMahK6EotJPKJYt) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Not Today](https://open.spotify.com/album/3nhgix4TD8AEEldkCZbcPo) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,339 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,358 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 37 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
 | 38 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 |
 | 39 | [Losing Sleep Over You](https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Losing Sleep Over You](https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi) | 3:01 |
-| 40 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 |
-| 41 | [Actor \(Feat\. pH\-1\)](https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
-| 42 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 |
+| 40 | [Actor \(Feat\. pH\-1\)](https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
+| 41 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 |
+| 42 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 |
 | 43 | [NDGGA](https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [NDGGA](https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg) | 2:55 |
-| 44 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
-| 45 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 |
+| 44 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 |
+| 45 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 |
 | 46 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [Chuu \(LOONA\)](https://open.spotify.com/artist/5cFdpa8OCO9JGIOB7O8ygU) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |
 | 47 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 |
 | 48 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 |
 | 49 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 |
 | 50 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 |
 
-Snapshot ID: `MTY2OTEwNzUzNSwwMDAwMDAwMDdmYjIyMDIxMzEwNzliMTZjMTllZjFhYTJhNGQ1ZWQ3`
+Snapshot ID: `MTY2OTEwNzUzNSwwMDAwMDAwMGQ4YTU3Y2VjYjYzNWI1NTVjZDkwNzg5YzQ3MjIyNjdk`

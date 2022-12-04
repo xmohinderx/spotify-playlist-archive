@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,642 likes - 222 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,827 likes - 222 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 22 | [Sajjan](https://open.spotify.com/track/6TrKvsa0yQe8G9lF21r85N) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Sajjan](https://open.spotify.com/album/4A4PZSJa0qN2whFj2Us9LG) | 4:20 |
 | 23 | [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 |
 | 24 | [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 |
-| 25 | [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Jourado Sky](https://open.spotify.com/artist/5QY48b9fOopYTVlgfkcBqp) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 |
+| 25 | [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 |
 | 26 | [Hidden Beneath](https://open.spotify.com/track/0CAM5wnpSHAptTtUxZOrcf) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Hidden Beneath](https://open.spotify.com/album/6NjV1KQgjapRXeel5llObx) | 3:28 |
 | 27 | [Shimmering Above](https://open.spotify.com/track/4PfPTKjMjno9TcIIZmQMQ1) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Shimmering Above](https://open.spotify.com/album/1y0JUuIhpBp708Mbl6YUFe) | 2:57 |
 | 28 | [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 34 | [Celestine](https://open.spotify.com/track/6KQhAeR6HvQQYvt9yjzyyi) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Celestine](https://open.spotify.com/album/2ORpkbhfYy0U63WSvNG7Ke) | 3:28 |
 | 35 | [Passing Thunder](https://open.spotify.com/track/6gCGRVnvUQVhldYHRX0ET1) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Passing Thunder](https://open.spotify.com/album/3b79QhtsMfdYhFNoAlVTAM) | 3:22 |
 | 36 | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/track/7ytJp03Bb2wkKPYD01Y3Yg) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/album/0l88CPrZMuhAnMwdd3MP4k) | 2:14 |
-| 37 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Prana Morales](https://open.spotify.com/artist/4VUxmx1n8byJVJL4rqlzvS) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 |
-| 38 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
+| 37 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Cthulhu Ramón](https://open.spotify.com/artist/6lO9EAgBlx7iOWq7ZT4wWG) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 |
+| 38 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/5ZbjwPQo6CocT2OdJyUsc9) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 |
 | 39 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 |
 | 40 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 |
 | 41 | [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Metro Boomin, Nas, Latto and more\. Cover: Babyface Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,875 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,019 likes - 47 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 2 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 |
 | 3 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 4 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
-| 5 | [Plenty](https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Plenty](https://open.spotify.com/album/097aY57QMnEguasSbYWyoW) | 3:58 |
+| 5 | [Plenty](https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Plenty](https://open.spotify.com/album/097aY57QMnEguasSbYWyoW) | 3:58 |
 | 6 | [Backpack](https://open.spotify.com/track/7ueKWTuprdY9DLMgkOynPx) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [VER](https://open.spotify.com/album/42z63pz06b9oyygHj4qajG) | 3:20 |
-| 7 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 7 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 8 | [One Time \(feat\. Jeezy\)](https://open.spotify.com/track/4tKDqeQ3ncq5o5TSWfqF6r) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [One Time \(feat\. Jeezy\)](https://open.spotify.com/album/271gGCV1AglrQLAr1VsiAx) | 2:46 |
 | 9 | [PAIN!](https://open.spotify.com/track/3pqXhSXgasqhTf865mbpYi) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [PAIN!](https://open.spotify.com/album/7lxeegF1y69PXsUXWiLVvf) | 1:38 |
 | 10 | [Gallery](https://open.spotify.com/track/6L8SpH68TcGEy2PYsHICEy) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Gallery](https://open.spotify.com/album/0dvxB8rEM4hO5iQK8sTqTP) | 2:34 |

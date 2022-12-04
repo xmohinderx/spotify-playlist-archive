@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 
 > A collection of tracks for punks big and small.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,310 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,491 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 19 | [Pump It Up \- 2021 Remaster](https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model \(2021 Remaster\)](https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4) | 3:16 |
 | 20 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 21 | [American Jesus](https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 3:17 |
-| 22 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 |
+| 22 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
 | 23 | [Bro Hymn \- 2005 Remaster](https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:00 |
-| 24 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
-| 25 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
+| 24 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 |
+| 25 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
 | 26 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
 | 27 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
 | 28 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 35 | [We Got The Beat \- 2011 Remaster](https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6) | 2:31 |
 | 36 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 |
 | 37 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
-| 38 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
-| 39 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
+| 38 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
+| 39 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
 | 40 | [Rockaway Beach \- 2017 Remaster](https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:06 |
 | 41 | [Disconnected](https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Don't Turn Away](https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4) | 3:27 |
 | 42 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 55 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 3:02 |
 | 56 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
 | 57 | [Sliver](https://open.spotify.com/track/6vA9MwQSTgsGw2aaiVQdq2) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:11 |
-| 58 | [Lust For Life](https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 5:12 |
-| 59 | [White People for Peace](https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 3:31 |
+| 58 | [White People for Peace](https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 3:31 |
+| 59 | [Lust For Life](https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 5:12 |
 | 60 | [New Rose](https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:42 |
 
-Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMDI1Y2JiNmMxY2M0NWZjOTNmOTJhNmJlNGIyZDljNjBh`
+Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMGMzYmVlZWU1ZDZmZGI3NDRmNDM0OTRkYThjMmRkY2I5`

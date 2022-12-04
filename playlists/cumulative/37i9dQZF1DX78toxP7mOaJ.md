@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-654 songs - 1 day 12 hr 2 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+655 songs - 1 day 12 hr 6 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Blonde](https://open.spotify.com/track/6ZdISlkWjaYillIZuJXd3G) | [cartoonhead](https://open.spotify.com/artist/4aIocyMSx4FLc5u5sfBCvY) | [Blonde](https://open.spotify.com/album/2z9QuB4LBPCPJrPbza1Nt2) | 2:42 | 2022-08-03 | 2022-10-13 |
 | [Blood](https://open.spotify.com/track/7DsobGxPLUoJBFEG0RlIQc) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Blood](https://open.spotify.com/album/4zeALtSykmAswMpTPEFcad) | 2:19 | 2022-03-23 | 2022-05-05 |
 | [Blood Money](https://open.spotify.com/track/0FbmqiqcvIETP7SLa3x0aL) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Tired of Liberty](https://open.spotify.com/album/3aHcCiEzSVklnAgGhl86K9) | 3:32 | 2022-09-07 |  |
-| [Bloodshot](https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm) | [The Mammoths](https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ) | [Bloodshot](https://open.spotify.com/album/1gLddT3QCTtWOucZuRPiH5) | 4:21 | 2022-08-31 |  |
+| [Bloodshot](https://open.spotify.com/track/1lowQQecDUco0WYuI29GGm) | [The Mammoths](https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ) | [Bloodshot](https://open.spotify.com/album/1gLddT3QCTtWOucZuRPiH5) | 4:21 | 2022-08-31 | 2022-12-04 |
+| [Bloodshot](https://open.spotify.com/track/77fbCsljxxMr0y7BvmUwJ0) | [The Mammoths](https://open.spotify.com/artist/33Cjnij54yY7dwWv0o5HHZ) | [Bloodshot](https://open.spotify.com/album/0XrVDH3fJ24Q0kz9pu0wPK) | 4:21 | 2022-11-30 |  |
 | [Blown to Bits](https://open.spotify.com/track/7HPw1XTlk0Qw7xapL0CWoY) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Blown to Bits](https://open.spotify.com/album/6Kidy7y2932jlZWa86N0tc) | 1:17 | 2022-06-29 | 2022-08-04 |
 | [Blue Pants](https://open.spotify.com/track/3ayJ3nmCMCzIDgKBBv0D6v) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [A Superior Athlete](https://open.spotify.com/album/5CPuvRICAR4MYczITNcJF7) | 3:16 | 2022-04-27 | 2022-06-30 |
 | [Bluefish Season](https://open.spotify.com/track/1TxcVW0JrUaFqCe6pYvNWB) | [Nick Cianci](https://open.spotify.com/artist/01ZS9jjsggYfg27iw7AoDp) | [Bluefish Season](https://open.spotify.com/album/7H5ddbP95iKkJi98V9FJOz) | 4:29 | 2022-04-06 | 2022-06-16 |

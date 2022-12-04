@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 60261,
+  "num_followers": 60440,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMDc4NWQxNDZiYmE3MzZmNDc2ZjE0Mjc1ZGQwMmVlYWJh",
+  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMDZhMDNmZTQ2YzRmMWQ2OTYzMDFmYmMzY2U3YzUzNGRj",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 210545,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 269800,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "If You Know Love",
         "url": "https://open.spotify.com/album/6zkbgihaa15nXO07A6VTs4"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 195986,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/1TcoNPMDaoEv3rCebQnl7L"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
-      },
-      "artists": [
-        {
-          "name": "Rosie Frater-Taylor",
-          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
-        },
-        {
-          "name": "Chris Hyson",
-          "url": "https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Songs: The Art of the Trio, Vol. 3",
         "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 209106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6YdHo9aVSZ0bnkm9gMKDYz"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
+      },
+      "artists": [
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        },
+        {
+          "name": "Chris Hyson",
+          "url": "https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "These Are The Vistas",
+        "url": "https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 319786,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6p5xME6kNYc2lkvt4atkKL"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "These Are The Vistas",
-        "url": "https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Flim",
-      "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Everybody Loves Angels",
-        "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
-      },
-      "artists": [
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        }
-      ],
-      "duration_ms": 320460,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Live at the Village Vanguard",
         "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 432915,
       "name": "Car Wash",
       "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Everybody Loves Angels",
+        "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
+      },
+      "artists": [
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        }
+      ],
+      "duration_ms": 320460,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
         }
       ],
-      "duration_ms": 356026,
-      "name": "She's Leaving Home",
-      "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
       "artists": [
         {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
+      "duration_ms": 356026,
+      "name": "She's Leaving Home",
+      "url": "https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Jazz Plays The Beatles",
+        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Can't Buy Me Love",
+      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Here, There and Everywhere",
         "url": "https://open.spotify.com/album/7CC7BwM6EdBIFIDmM0tdq1"
       },
@@ -1591,38 +1607,6 @@
       "duration_ms": 395625,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Jazz Plays The Beatles",
-        "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Can't Buy Me Love",
-      "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Who Used To Dance",
-        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 413240,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Who Used To Dance",
+        "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 413240,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Play Favorites",
         "url": "https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H"
       },
@@ -1683,50 +1683,6 @@
       "duration_ms": 263453,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Speak Low II",
-        "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
-      },
-      "artists": [
-        {
-          "name": "Lucia Cadotsch",
-          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
-        },
-        {
-          "name": "Otis Sandsj\u00f6",
-          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        }
-      ],
-      "duration_ms": 318086,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "River Man (feat. Sara Caswell)",
-        "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
-      },
-      "artists": [
-        {
-          "name": "Dave Stryker",
-          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
-        },
-        {
-          "name": "Sara Caswell",
-          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
-        }
-      ],
-      "duration_ms": 538160,
-      "name": "River Man (feat. Sara Caswell)",
-      "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1751,6 +1707,50 @@
       "duration_ms": 210593,
       "name": "When Most I Wink - Sonnet 43",
       "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "River Man (feat. Sara Caswell)",
+        "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
+      },
+      "artists": [
+        {
+          "name": "Dave Stryker",
+          "url": "https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
+        }
+      ],
+      "duration_ms": 538160,
+      "name": "River Man (feat. Sara Caswell)",
+      "url": "https://open.spotify.com/track/2kw0EpoNg4LzYV6Sui31jM"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Speak Low II",
+        "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
+      },
+      "artists": [
+        {
+          "name": "Lucia Cadotsch",
+          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        }
+      ],
+      "duration_ms": 318086,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
     },
     {
       "added_at": "2022-12-01 23:00:00",

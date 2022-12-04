@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127136,
+  "num_followers": 127140,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg0OSxjOGNkYTkxNTgwMTQ2MDFjZjdjZWFkZGRmYTMzYjcxYjRmOTZjYjNm",
+  "snapshot_id": "Mzg1NiwwYWJkNmJjZmEwNWNhZjI2MGYwYjgzMzQzMjY2NmExOWVjMDY4MzA2",
   "tracks": [
+    {
+      "added_at": "2022-12-03 05:04:57",
+      "album": {
+        "name": "Falling Off (Club Mix)",
+        "url": "https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Falling Off - Club Mix",
+      "url": "https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung"
+    },
+    {
+      "added_at": "2022-12-03 05:05:28",
+      "album": {
+        "name": "Can We Be Free (KDrew Remix)",
+        "url": "https://open.spotify.com/album/3po4Lcgb6oUUksB3d6xrt9"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        },
+        {
+          "name": "KDrew",
+          "url": "https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ"
+        }
+      ],
+      "duration_ms": 148580,
+      "name": "Can We Be Free - KDrew Remix",
+      "url": "https://open.spotify.com/track/6z8jYJCzgBCNgbMTwvvnFy"
+    },
     {
       "added_at": "2022-12-01 20:53:35",
       "album": {
@@ -47,6 +83,46 @@
       "duration_ms": 150888,
       "name": "this feeling that never ends",
       "url": "https://open.spotify.com/track/4YMmmpFYgC29DqDqjghjuT"
+    },
+    {
+      "added_at": "2022-12-03 05:05:51",
+      "album": {
+        "name": "this feeling that never ends",
+        "url": "https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv"
+      },
+      "artists": [
+        {
+          "name": "Scarr.",
+          "url": "https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV"
+        },
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "i can feel your eyes on me",
+      "url": "https://open.spotify.com/track/3R1lKIXCkHnzKvHkBtdRhP"
+    },
+    {
+      "added_at": "2022-12-03 05:05:51",
+      "album": {
+        "name": "this feeling that never ends",
+        "url": "https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv"
+      },
+      "artists": [
+        {
+          "name": "Scarr.",
+          "url": "https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV"
+        },
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "it\u2019s not easy when you\u2019re alone",
+      "url": "https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv"
     },
     {
       "added_at": "2022-11-29 09:23:34",
@@ -1027,78 +1103,6 @@
       "duration_ms": 236874,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/5h2qGN5jMJXp68VzQuMqql"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Out of the Dark",
-        "url": "https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "Out of the Dark",
-      "url": "https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "RAD",
-        "url": "https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "RAD",
-      "url": "https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Luke Coulson",
-          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Unbreakable",
-        "url": "https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19"
-      },
-      "artists": [
-        {
-          "name": "Hoaprox",
-          "url": "https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

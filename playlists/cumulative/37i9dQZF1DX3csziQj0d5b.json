@@ -1258,6 +1258,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "album": {
         "name": "Cry with you",
         "url": "https://open.spotify.com/album/5glLEM78dvTDoN8MSjM241"
       },
@@ -3601,7 +3627,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"

@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/1gYEYogFzvLBeen9BV5hI9)
+71 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/1gYEYogFzvLBeen9BV5hI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Glorioso Día](https://open.spotify.com/track/4ySbI6S4pEd3ipwasuVjec) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:13 | 2022-09-14 |  |
 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 | 2022-09-14 |  |
 | [Grande Y Fuerte](https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 3:20 | 2022-09-14 | 2022-10-15 |
-| [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 | 2022-09-14 |  |
+| [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 | 2022-09-14 | 2022-12-04 |
+| [Hay Libertad](https://open.spotify.com/track/1xnB5yt12jxLQgvebvPfVd) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 1:38 | 2022-12-03 |  |
 | [Impresionante](https://open.spotify.com/track/0z9vOkxQ0tRxGroYHGOc5b) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Impresionante](https://open.spotify.com/album/1sATIq5oVhLxAsV2wW7Xo2) | 5:36 | 2022-09-14 |  |
 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 | 2022-09-14 |  |
 | [Jesucristo Basta](https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 5:49 | 2022-10-01 |  |

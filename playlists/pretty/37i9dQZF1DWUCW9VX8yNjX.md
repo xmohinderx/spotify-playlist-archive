@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,057 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,168 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 86 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Canciones, Mis Amigos](https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t) | 2:23 |
 | 87 | [Nuestro Gran Secreto](https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 2:23 |
 | 88 | [Mátalas \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/45Nu3gKPEA1rvvUu7VVgyt) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:06 |
-| 89 | [Mudanza A La Luna](https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:48 |
-| 90 | [Yo Nací para Amarte](https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:26 |
+| 89 | [Yo Nací para Amarte](https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:26 |
+| 90 | [Mudanza A La Luna](https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:48 |
 | 91 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
 | 92 | [No Lo Beses \- Mariachi](https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Lo Beses \(Mariachi\)](https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw) | 3:23 |
-| 93 | [En Lo Correcto](https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:18 |
-| 94 | [Que Seas Muy Feliz](https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 2:47 |
+| 93 | [Que Seas Muy Feliz](https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 2:47 |
+| 94 | [En Lo Correcto](https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:18 |
 | 95 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 |
 | 96 | [La Mesa 20](https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 2:40 |
 | 97 | [Por Tu Adiós](https://open.spotify.com/track/2Uv19wAiksXZcFM84R00KQ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [La Dinastía Fernández \- La Derrota / Volver, Volver](https://open.spotify.com/track/25iwxsxU8XN3bX14JQWiKr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [La Dinastía Fernández \(La Derrota / Volver, Volver\)](https://open.spotify.com/album/2DtHnffzhLo8A3cjT9yPi9) | 3:31 |
 | 100 | [Qué Lástima](https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 
-Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMDk3ZTYxOTM4MzFmY2I4ZTk0NWVhYzdiMTg1Yzk1Mzdk`
+Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMGUzN2I2ZmQ4MjI4MTQxYjQwMjVjNjhiNTE3YzhjZjYz`

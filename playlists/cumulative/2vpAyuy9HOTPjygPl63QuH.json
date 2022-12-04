@@ -5342,6 +5342,28 @@
     },
     {
       "album": {
+        "name": "Olhar EP",
+        "url": "https://open.spotify.com/album/1pJbx7mjMCxKh5wlE9rR8s"
+      },
+      "artists": [
+        {
+          "name": "Fletcher Kerr",
+          "url": "https://open.spotify.com/artist/0MMPzOAJySvSWs8lqcDc5k"
+        },
+        {
+          "name": "KEFFI",
+          "url": "https://open.spotify.com/artist/06x3YBkBTZLOZN4C2I6MlY"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Impossible Beat",
+      "url": "https://open.spotify.com/track/3xq46WZUsGhKdflu8zXJJn"
+    },
+    {
+      "album": {
         "name": "In & Out (feat. Modern Lover)",
         "url": "https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza"
       },
@@ -8663,6 +8685,24 @@
       "duration_ms": 171180,
       "name": "Peanut Butter",
       "url": "https://open.spotify.com/track/7F2xg9REyaMDf9JHMV8V9S"
+    },
+    {
+      "album": {
+        "name": "Percussive",
+        "url": "https://open.spotify.com/album/1P8STKdATYhXu6QK6CWee3"
+      },
+      "artists": [
+        {
+          "name": "JOSA",
+          "url": "https://open.spotify.com/artist/7vXbk6muCLwqhhWmjCBDhA"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217261,
+      "name": "Percussive",
+      "url": "https://open.spotify.com/track/1uFDOWFuZTP2mBad6ohPLh"
     },
     {
       "album": {

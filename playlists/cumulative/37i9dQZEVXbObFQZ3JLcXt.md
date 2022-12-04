@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-347 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+348 songs - 21 hr 2 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 | 2022-03-09 |  |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2022-09-25 |
 | [Unconditionally](https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:48 | 2022-01-16 | 2022-03-07 |
-| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-04 |  |
+| [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-04 | 2022-12-04 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-16 | 2021-12-18 |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-20 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-08 | 2022-08-21 |
@@ -343,6 +343,7 @@
 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 | 2021-12-12 | 2022-04-29 |
 | [Walking in the Wind](https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:22 | 2021-06-18 | 2021-07-04 |
 | [Weak](https://open.spotify.com/track/07MW63ok3ptSKwaTWEN0o8) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5RzTetLXRT1w3Nbt0V0XLz) | 2:39 | 2021-03-27\* | 2021-07-11 |
+| [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 |  |
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-02-25 | 2022-08-05 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-06-19 |
 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 | 2021-12-23 | 2022-02-11 |

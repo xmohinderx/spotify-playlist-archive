@@ -4,7 +4,7 @@
 
 > Mellow pop favorites from 2022\. Cover: Lauren Spencer Smith \#SpotifyWrapped
 
-114 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/23CdQguTiRUfiEh3jJLc2Q)
+115 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/23CdQguTiRUfiEh3jJLc2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Where We Started](https://open.spotify.com/track/7EBJeRTwxPT00K35jazm7W) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/6AkWdIHq1og7xa6dLrzHeQ) | 3:02 | 2022-11-30 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-12-01 | 2022-12-01 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2021-12-01 | 2022-12-01 |
-| [WTSGD](https://open.spotify.com/track/5t79Mq6vYzvCifV0W3BpNm) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Breathing into Bloom](https://open.spotify.com/album/1IrTFZx6PjBeE4tCKW4drC) | 4:04 | 2022-11-30 |  |
+| [Wtsdg \(with Alessia Cara\)](https://open.spotify.com/track/45Dhc9gFBVFwaxSgzBd7Lo) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSDG \(with Alessia Cara\)](https://open.spotify.com/album/1H3Bkc4nd4MD8hxToqVqjW) | 4:04 | 2022-11-30 |  |
+| [WTSGD](https://open.spotify.com/track/5t79Mq6vYzvCifV0W3BpNm) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Breathing into Bloom](https://open.spotify.com/album/1IrTFZx6PjBeE4tCKW4drC) | 4:04 | 2022-11-30 | 2022-12-04 |
 | [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 | 2022-11-30 |  |
 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-11-30 |  |
 

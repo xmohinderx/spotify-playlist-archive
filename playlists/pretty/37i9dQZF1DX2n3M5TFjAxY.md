@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,525 likes - 53 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,572 likes - 53 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 17 | [Le Beirut](https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:13 |
 | 18 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 |
 | 19 | [Yana Yana](https://open.spotify.com/track/5hUQKHs3lnt0dU5UO5ozZV) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 5:05 |
-| 20 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
-| 21 | [El Hop Elly Kan](https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [El Layale](https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6) | 19:45 |
+| 20 | [El Hop Elly Kan](https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [El Layale](https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6) | 19:45 |
+| 21 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
 | 22 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
 | 23 | [Oyon El Alb Live Record](https://open.spotify.com/track/6UkneNSMIdiwUEaSVfcYVd) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 19:44 |
 | 24 | [Asmar](https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4) | 5:33 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 52 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 | 53 | [](https://open.spotify.com/track/3p80oHzgCSRjyF1NCT01EQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CsOnkpCIORrHXJiXoqqOp) | 0:00 |
 
-Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMDRmMzMzMzIyNzdlMDZlNGNhMzNjYTdjZDAxMWE4NmEz`
+Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMGE4ZWNkMTYzNDYwMTE1ZjEyN2MzMmFhNGU2NDkyMzEy`

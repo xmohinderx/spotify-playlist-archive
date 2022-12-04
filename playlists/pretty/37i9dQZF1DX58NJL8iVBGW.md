@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,422 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,608 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,17 +79,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 69 | [Wrecks](https://open.spotify.com/track/6xuHJHoXYVjDUTCP63PEtF) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/46Txpy91R2fAPBLTEVpz82) | 4:45 |
 | 70 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 71 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |
-| 72 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 |
-| 73 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 |
+| 72 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 |
+| 73 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 |
 | 74 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 |
 | 75 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
 | 76 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
 | 77 | [Devils](https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb) | 2:24 |
-| 78 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 |
-| 79 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
+| 78 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
+| 79 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 |
 | 80 | [Dime in My Pocket](https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K) | [Desert Noises](https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe) | [27 Ways](https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy) | 1:48 |
-| 81 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 |
-| 82 | [Iuka](https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Put Your Needle Down](https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok) | 4:42 |
+| 81 | [Iuka](https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Put Your Needle Down](https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok) | 4:42 |
+| 82 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 |
 | 83 | [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 |
 | 84 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
 | 85 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [O Death \(with Francesco Turrisi\)](https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:13 |
 | 100 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDkxMzkxMWQ2MTY1MWQyMDMyMjRlZmZlZDk3MjA3NTE5`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGFjN2ZlNDcxMmM0ZWFjMjAwNWJiOTI1Njg3YjI1N2I1`

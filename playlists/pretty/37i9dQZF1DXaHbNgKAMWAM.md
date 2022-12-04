@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,485 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,513 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 11 | [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 |
 | 12 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
 | 13 | [Where the sea sleeps](https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 |
-| 14 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
-| 15 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
+| 14 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
+| 15 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
 | 16 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 17 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
 | 18 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 31 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
 | 32 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 33 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
-| 34 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 |
-| 35 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
-| 36 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
+| 34 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
+| 35 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
+| 36 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 |
 | 37 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 38 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
 | 39 | [Walk With Me](https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [The Law Cafe \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR) | 3:37 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 54 | [WANT U](https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 |
 | 55 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
 | 56 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
-| 57 | [Our Season](https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV) | [JAECHAN](https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE) | [SPRING \(Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan'\)](https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP) | 3:50 |
-| 58 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
+| 57 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
+| 58 | [Our Season](https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV) | [JAECHAN](https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE) | [SPRING \(Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan'\)](https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP) | 3:50 |
 | 59 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 |
 | 60 | [Mirage](https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [Mirage](https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP) | 3:34 |
 
-Snapshot ID: `MTY2OTM0MjQ5MCwwMDAwMDAwMDhjNzM2YTVkYWQyYmNiZTRjODdjMjY4YThhZDVjOTk0`
+Snapshot ID: `MTY2OTM0MjQ5MCwwMDAwMDAwMDViMmVhNWVjYzUxNzU5MGUxOWEwYjljYzJlMWVmMmQ1`

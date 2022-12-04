@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,716 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,837 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 28 | [Waiting For](https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 2:57 |
 | 29 | [Excuses](https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Neo Seoul](https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ) | 3:15 |
 | 30 | [2nd THOTS](https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:44 |
-| 31 | [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 |
-| 32 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
+| 31 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
+| 32 | [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 |
 | 33 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |
 | 34 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 |
 | 35 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 50 | [kiss my lips](https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [kiss my lips](https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3) | 3:15 |
 | 51 | [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 |
 | 52 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
-| 53 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
-| 54 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
+| 53 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
+| 54 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 | 55 | [Murder On The Dance Floor](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 3:22 |
 | 56 | [CANTSAY](https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [VELVETMOTH](https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx) | 3:16 |
 | 57 | [Too Many](https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 60 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 |
 
-Snapshot ID: `MTY2OTEwNzU0NiwwMDAwMDAwMDg4ODU5ZTViYTMyODJkMTg4M2ZmMWFhM2FiMTNmYTlj`
+Snapshot ID: `MTY2OTEwNzU0NiwwMDAwMDAwMDFlZTdiNjk1MjMxZWE1OTE0ZjNjZDAwYmZlZjc2YWFl`

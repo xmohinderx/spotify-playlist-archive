@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 908 likes - 38 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 910 likes - 38 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 8 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
 | 9 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
 | 10 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 |
-| 11 | [The Hokey Pokey](https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 2:24 |
-| 12 | [Party Freeze Dance Song](https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Freeze Dance Songs for Learning](https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU) | 2:08 |
+| 11 | [Party Freeze Dance Song](https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Freeze Dance Songs for Learning](https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU) | 2:08 |
+| 12 | [The Hokey Pokey](https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 2:24 |
 | 13 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
 | 14 | [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 |
 | 15 | [Shake Break](https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:35 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 21 | [Chicken Dance](https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 2:08 |
 | 22 | [Dance Silly](https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84) | 3:04 |
 | 23 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
-| 24 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 |
-| 25 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
+| 24 | [Watch Me \(Whip / Nae Nae\)](https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:35 |
+| 25 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 |
 | 26 | [Cotton Eyed Joe](https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe) | [Macarena Party Kids](https://open.spotify.com/artist/6TIUqmj115LWdwTqJVGx9d) | [Macarena Kids](https://open.spotify.com/album/3O4JZycOK2GcM079we6urz) | 4:13 |
 | 27 | [Dance, Dance, Freeze](https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ) | 2:10 |
 | 28 | [Shake Your Body Down](https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Movement Songs](https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i) | 3:06 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 30 | [Do as I'm Doing](https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Do as I'm Doing](https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN) | 1:56 |
 | 31 | [Animal Dance and Freeze](https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Kids Birthday Party](https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2) | 2:30 |
 | 32 | [Electric Slide](https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 3:57 |
-| 33 | [Hand Jive](https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Jump, Wiggle and Hop](https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ) | 2:59 |
-| 34 | [Do Your Own Dance](https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 2:31 |
+| 33 | [Do Your Own Dance](https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 2:31 |
+| 34 | [Hand Jive](https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Jump, Wiggle and Hop](https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ) | 2:59 |
 | 35 | [Chickie Chickie Beat](https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Chickie Chickie Beat](https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d) | 1:39 |
 | 36 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 |
 | 37 | [Robot Song](https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP) | [Michael & The Rockness Monsters](https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f) | [Preschool Songs Volume 2](https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ) | 3:13 |
 | 38 | [Let's Samba](https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Movement Songs](https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i) | 2:41 |
 
-Snapshot ID: `MTY0ODgyNjgwNiwwMDAwMDAwMGM3ZjVmNWI3MzAyMzBiNTA5ZTU4ZDZjZGI1NGNmMmNl`
+Snapshot ID: `MTY0ODgyNjgwNiwwMDAwMDAwMDc5Y2Y1ZmU5MTcxMTZmNmMwOTVmZmFmNDk3YjQ1ZjRj`

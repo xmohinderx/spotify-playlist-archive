@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,565 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,588 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 8 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |
 | 9 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 |
 | 10 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 |
-| 11 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 11 | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 |
 | 12 | [Mirage](https://open.spotify.com/track/37V69QNGaQqUrAZjwB1sgu) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:51 |
-| 13 | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 |
+| 13 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
 | 14 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 | 15 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 16 | [Time Is Precious](https://open.spotify.com/track/6hdFvWuFjmoxJjSeEjiJpg) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Air](https://open.spotify.com/album/7KR3GaBmiaydLWXrzHDKMt) | 7:03 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 32 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
 | 33 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 34 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
-| 35 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
-| 36 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
+| 35 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
+| 36 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
 | 37 | [New Light](https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [New Light](https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq) | 2:31 |
 | 38 | [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 |
 | 39 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 49 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 50 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
 
-Snapshot ID: `MTY2NjU1MzA2MiwwMDAwMDAwMGI3MDFkM2FkNTgyNjY3Yzg5YmIzZmJlMmMzNGJlM2Q5`
+Snapshot ID: `MTY2NjU1MzA2MiwwMDAwMDAwMDg1NjAyYTE1ZjYzZjk1OTg2ZWNmMDg5MjhiOWFlMDZh`

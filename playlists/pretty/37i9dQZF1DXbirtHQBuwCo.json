@@ -1,15 +1,15 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Minsu(\ubbfc\uc218))",
-  "num_followers": 816164,
+  "num_followers": 816373,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk3ODEyNSwwMDAwMDAwMDEzMmYxOWU0Y2ZiNTExM2E1NmJlOGIwNGRlMzJlMTBl",
+  "snapshot_id": "MTY2OTk3ODEyNSwwMDAwMDAwMDRkNTRkODllNzRkYmM0ODhhN2E1YzI2YmJhNGFmMTcx",
   "tracks": [
     {
-      "added_at": "2022-12-03 01:33:45",
+      "added_at": "2022-12-04 01:37:28",
       "album": {
         "name": "NOW NOW",
         "url": "https://open.spotify.com/album/2FP4cEo5GPPe1HnQDuOE6C"
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-11-25 02:02:32",
       "album": {
-        "name": "Need To Know",
-        "url": "https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 169251,
-      "name": "Need To Know",
-      "url": "https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr"
-    },
-    {
-      "added_at": "2022-11-25 02:02:32",
-      "album": {
         "name": "Dawn Defibrillation, Vol.1",
         "url": "https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7"
       },
@@ -1119,22 +1103,18 @@
     {
       "added_at": "2022-11-25 02:02:32",
       "album": {
-        "name": "Gotta Get Back (feat. Pink Sweat$)",
-        "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
+        "name": "Need To Know",
+        "url": "https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t"
       },
       "artists": [
         {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Gotta Get Back (feat. Pink Sweat$)",
-      "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
+      "duration_ms": 169251,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr"
     },
     {
       "added_at": "2022-11-25 02:02:32",
@@ -1155,6 +1135,26 @@
       "duration_ms": 270003,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "added_at": "2022-11-25 02:02:32",
+      "album": {
+        "name": "Gotta Get Back (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Gotta Get Back (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
     },
     {
       "added_at": "2022-11-25 02:02:32",

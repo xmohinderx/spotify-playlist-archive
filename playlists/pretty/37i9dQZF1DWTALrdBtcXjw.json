@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 395336,
+  "num_followers": 395427,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMGUxYTM1MmUwZThjZjZkNzRhNDFlNTI4YjVmZTk4ZmVh",
+  "snapshot_id": "MTY2OTkzNTYwMCwwMDAwMDAwMDhiZjM4YjA0MmFiOTQwNDA3ZTVlZTZlNDU5ODUwZDE3",
   "tracks": [
     {
       "added_at": "2022-12-01 23:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Notes From New York",
-        "url": "https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 424946,
-      "name": "Make Me Rainbows",
-      "url": "https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/5Lc2q83y4ktr26FlqxjQRm"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 192310,
       "name": "Woodland",
       "url": "https://open.spotify.com/track/4yy4WkYlXtrLifrEv5sXNi"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Notes From New York",
+        "url": "https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 424946,
+      "name": "Make Me Rainbows",
+      "url": "https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/2wfDE3UXThq9OPW1dCRIit"
-      },
-      "artists": [
-        {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
-        }
-      ],
-      "duration_ms": 197665,
-      "name": "The Shape of Blue",
-      "url": "https://open.spotify.com/track/11oZK9EdlMVLqVIIxkUFVx"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Uptown, Downtown",
         "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 401493,
       "name": "There's A Small Hotel",
       "url": "https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/2wfDE3UXThq9OPW1dCRIit"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "duration_ms": 197665,
+      "name": "The Shape of Blue",
+      "url": "https://open.spotify.com/track/11oZK9EdlMVLqVIIxkUFVx"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "The Impulse Story",
-        "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Groove Waltz",
-      "url": "https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Have You Seen Me Lately",
         "url": "https://open.spotify.com/album/7xiIJ61hKINcqgrLQo1csQ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 139849,
       "name": "Have You Seen Me Lately",
       "url": "https://open.spotify.com/track/3yuopzkhJwwBCkvHhsEFjV"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "The Impulse Story",
+        "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Groove Waltz",
+      "url": "https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -663,6 +663,42 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        }
+      ],
+      "duration_ms": 317545,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Bright Light",
+        "url": "https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV"
+      },
+      "artists": [
+        {
+          "name": "Mark Sherman",
+          "url": "https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten"
+        }
+      ],
+      "duration_ms": 296020,
+      "name": "For EH",
+      "url": "https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "I Remember Cedar",
         "url": "https://open.spotify.com/album/5kM4FI7fxp22Lro1mBnVTy"
       },
@@ -703,42 +739,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        }
-      ],
-      "duration_ms": 317545,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Bright Light",
-        "url": "https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV"
-      },
-      "artists": [
-        {
-          "name": "Mark Sherman",
-          "url": "https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten"
-        }
-      ],
-      "duration_ms": 296020,
-      "name": "For EH",
-      "url": "https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Left Alone",
         "url": "https://open.spotify.com/album/0AwwQi9FYLGVav6LSZxzJV"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "The Moon and I",
+        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 335933,
+      "name": "Ill Wind",
+      "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Criss-Cross (Expanded Edition)",
         "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 270133,
       "name": "Eronel",
       "url": "https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "The Moon and I",
-        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
       },
       "artists": [
         {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
         }
       ],
-      "duration_ms": 335933,
-      "name": "Ill Wind",
-      "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Have You Met Miss Jones",
-        "url": "https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE"
-      },
-      "artists": [
-        {
-          "name": "Nordic Light Trio",
-          "url": "https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35"
-        }
-      ],
-      "duration_ms": 188797,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Heartsongs",
         "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 514897,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Have You Met Miss Jones",
+        "url": "https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE"
+      },
+      "artists": [
+        {
+          "name": "Nordic Light Trio",
+          "url": "https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35"
+        }
+      ],
+      "duration_ms": 188797,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "From Here I See",
-        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
-      },
-      "artists": [
-        {
-          "name": "Ben Wolfe",
-          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
-        }
-      ],
-      "duration_ms": 393440,
-      "name": "The Good Doctor",
-      "url": "https://open.spotify.com/track/733Qlazejy9lhIcyTBwnjT"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/4t6mWcSyJBwJw17VkCrFb1"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "From Here I See",
+        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
+      },
+      "artists": [
+        {
+          "name": "Ben Wolfe",
+          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
+        }
+      ],
+      "duration_ms": 393440,
+      "name": "The Good Doctor",
+      "url": "https://open.spotify.com/track/733Qlazejy9lhIcyTBwnjT"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Dog Day",
         "url": "https://open.spotify.com/album/6XaCeKX8eXfyQQWseBzknI"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 219814,
       "name": "Dog Day",
       "url": "https://open.spotify.com/track/1XMZnGBdPepIKvMFai5v2f"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Runmar\u00f6",
-        "url": "https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 341746,
-      "name": "Runmar\u00f6",
-      "url": "https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 220329,
       "name": "The Best Thing for You (Would Be Me)",
       "url": "https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Runmar\u00f6",
+        "url": "https://open.spotify.com/album/7ChRBtXYq64ImcF2wFtZ7i"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "duration_ms": 341746,
+      "name": "Runmar\u00f6",
+      "url": "https://open.spotify.com/track/2wcHksp6K21BdxTk5tk6UZ"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Eclypso",
-        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        }
-      ],
-      "duration_ms": 331133,
-      "name": "Denzil's Best",
-      "url": "https://open.spotify.com/track/6IuiRJsGQ1pCqyGwc9lBgi"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "The End of a Bug Affair",
         "url": "https://open.spotify.com/album/1vVUQWQsuJM5yeCSx5MhOZ"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+        "name": "Eclypso",
+        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
       "artists": [
         {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
         }
       ],
-      "duration_ms": 401813,
-      "name": "Summer In Central Park",
-      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
+      "duration_ms": 331133,
+      "name": "Denzil's Best",
+      "url": "https://open.spotify.com/track/6IuiRJsGQ1pCqyGwc9lBgi"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 298991,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/6KkSnMvEWLyArGwgTP6Jrp"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Uptown, Downtown",
+        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 405973,
+      "name": "Bon ami",
+      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Uptown, Downtown",
-        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
       "artists": [
         {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
         }
       ],
-      "duration_ms": 405973,
-      "name": "Bon ami",
-      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
+      "duration_ms": 401813,
+      "name": "Summer In Central Park",
+      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Have You Met Miss Jones?",
-        "url": "https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ"
-      },
-      "artists": [
-        {
-          "name": "Alvin Queen Trio",
-          "url": "https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F"
-        }
-      ],
-      "duration_ms": 224014,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
         "name": "Ambivalence",
         "url": "https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 287453,
       "name": "Luiz",
       "url": "https://open.spotify.com/track/4ExjcScZAfGKTZmONryc8L"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
+        "name": "Have You Met Miss Jones?",
+        "url": "https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ"
+      },
+      "artists": [
+        {
+          "name": "Alvin Queen Trio",
+          "url": "https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F"
+        }
+      ],
+      "duration_ms": 224014,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
+        "name": "Connections Home",
+        "url": "https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 335618,
+      "name": "Connections",
+      "url": "https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk"
+    },
+    {
+      "added_at": "2022-12-01 23:00:00",
+      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -1635,18 +1651,22 @@
     {
       "added_at": "2022-12-01 23:00:00",
       "album": {
-        "name": "Connections Home",
-        "url": "https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif"
       },
       "artists": [
         {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
         }
       ],
-      "duration_ms": 335618,
-      "name": "Connections",
-      "url": "https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk"
+      "duration_ms": 424132,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
     },
     {
       "added_at": "2022-12-01 23:00:00",
@@ -1671,26 +1691,6 @@
       "duration_ms": 415802,
       "name": "Hidden Island",
       "url": "https://open.spotify.com/track/0c0umZtRE9kIrrBMNllIcZ"
-    },
-    {
-      "added_at": "2022-12-01 23:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif"
-      },
-      "artists": [
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "The Modern Jazz Trio",
-          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
-        }
-      ],
-      "duration_ms": 424132,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
     },
     {
       "added_at": "2022-12-01 23:00:00",

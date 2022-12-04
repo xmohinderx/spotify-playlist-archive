@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs \u2013 celebrating music\u2019s greatest achievements by honoring the hottest names on the Billboard Charts. Airing live May 15 on NBC! Cover: The Weeknd",
-  "num_followers": 62381,
+  "num_followers": 62374,
   "original_name": "2022 Billboard Music Awards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjE4ODc3MiwwMDAwMDAwMDU4Y2QwNzFhOGE3ZjMwMDdjODJlZTFhOGIwZDI4OTlk",
+  "snapshot_id": "MTY1MjE4ODc3MiwwMDAwMDAwMGNhZTlkZTRkYzIzYWYyMGJjOTViZmFlODcyZjJlMGNj",
   "tracks": [
     {
       "added_at": "2022-05-10 00:15:15",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-05-10 00:15:15",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2022-05-10 00:15:15",
-      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -231,18 +215,18 @@
     {
       "added_at": "2022-05-10 00:15:15",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
       "added_at": "2022-05-10 00:15:15",
@@ -259,6 +243,22 @@
       "duration_ms": 178520,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+    },
+    {
+      "added_at": "2022-05-10 00:15:15",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2022-05-10 00:15:15",
@@ -368,8 +368,8 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
       "duration_ms": 205090,
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-05-10 00:15:15",
       "album": {
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
+    },
+    {
+      "added_at": "2022-05-10 00:15:15",
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 207294,
       "name": "Unloyal (with Ari Lennox)",
       "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
-    },
-    {
-      "added_at": "2022-05-10 00:15:15",
-      "album": {
-        "name": "Unlimited Love",
-        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
     },
     {
       "added_at": "2022-05-10 00:15:15",

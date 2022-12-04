@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Kelvyn Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,840 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,905 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 46 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
 | 47 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 |
 | 48 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
-| 49 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 |
-| 50 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
+| 49 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
+| 50 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 |
 
-Snapshot ID: `MTY2OTAyOTA3MiwwMDAwMDAwMDYwNjNiYWZjODkzZTc4Y2U0MDZlMWVhYzA3ZDcxMmI5`
+Snapshot ID: `MTY2OTAyOTA3MiwwMDAwMDAwMDExNTkyY2I0YzY2Y2FjNGYzYzlkNzM1YzdhZmJiZjNj`

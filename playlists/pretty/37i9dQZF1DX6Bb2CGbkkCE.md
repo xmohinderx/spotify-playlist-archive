@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 16 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 |
 | 17 | [Seeing Green \(with Drake & Lil Wayne\)](https://open.spotify.com/track/1TZv3bujNaYz646eezRE91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 5:39 |
 | 18 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 |
-| 19 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 19 | [Party Animal](https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Party Animal](https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG) | 3:15 |
 | 20 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
-| 21 | [Party Animal](https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Party Animal](https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG) | 3:15 |
+| 21 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
 | 22 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
 | 23 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 |
 | 24 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 26 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
 | 27 | [Rent Money](https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:25 |
 | 28 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
-| 29 | [You're Mines Still](https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Love Scars: The 5 Stages Of Emotions \(Deluxe\)](https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG) | 3:41 |
-| 30 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 |
+| 29 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 |
+| 30 | [You're Mines Still](https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Love Scars: The 5 Stages Of Emotions \(Deluxe\)](https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG) | 3:41 |
 | 31 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 32 | [Kilometre](https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T) | 2:32 |
 | 33 | [Family](https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Family](https://open.spotify.com/album/09pESGCreuRO6zGh6Sfloy) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 49 | [Say Less](https://open.spotify.com/track/0BCQnF3a3ZKLGbaN6nD3co) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC), [Bibi](https://open.spotify.com/artist/6SC0EXdxo6LSCSsspDxXyT), [Kamal](https://open.spotify.com/artist/49QARoeIkbAkdg1YXaUJ9s) | [Say Less](https://open.spotify.com/album/4qRk52lROgGgQMT9gXY0WA) | 2:40 |
 | 50 | [Need Your Love](https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Jae Xo](https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Need Your Love](https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf) | 3:05 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDUyOTAyMDA1NTNhM2YyMzIzYWE3MDM4MTNhZjEwZmUx`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGNhOWU4NjA0OWVlMjc0NmMxM2Q1ZjEyYjExY2NmM2Mx`

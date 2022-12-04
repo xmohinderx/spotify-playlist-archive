@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Morgan Wallen, Parker McCollum, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,034 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,432 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 32 | ['Til You Can't \- Live](https://open.spotify.com/track/6aZVQQUl17WqobPx0UZKxo) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cody Johnson & The Rockin’ CJB Live](https://open.spotify.com/album/4VFBMu9CJECPk7fAG2oHkr) | 4:25 |
 | 33 | [Weakness \(feat\. Tris Munsick & Sam Munsick\) \- Live](https://open.spotify.com/track/3Qrgsm4w3DLoSb4u30mpsb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Tris Munsick](https://open.spotify.com/artist/6VhJr0L2PbnyAfz5WtLT7R), [Sam Munsick](https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no) | [Wyoming’s Sons Live from Cheyenne](https://open.spotify.com/album/6DFVfxEm38Lrq7kS6jzyYI) | 5:12 |
 | 34 | [RSVP \- Live](https://open.spotify.com/track/4dkaY74ybKD2a72afxOFRm) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [RSVP \(Live\)](https://open.spotify.com/album/0pPmk9j6atfenNZO8ZTMwI) | 2:52 |
-| 35 | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
+| 35 | [Cottonmouth \(Rock Mix\)](https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Cottonmouth \(Rock Mix\) \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL) | 2:45 |
 | 36 | [Foresight](https://open.spotify.com/track/5ELEcEsqXo3bXpBvzW7RWe) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Foresight](https://open.spotify.com/album/4O1aTPNvtBy9oyrxTiRJi4) | 2:39 |
 | 37 | [Supernova](https://open.spotify.com/track/3gp5Y2s38U6Gy8B4t9mna0) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Supernova](https://open.spotify.com/album/0k6V5vfyPjA5eyt20UHmyn) | 3:11 |
 | 38 | [Leave My Boots On](https://open.spotify.com/track/00VmQBlgZV5dE5ny4cUz1K) | [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1) | [No Apologies](https://open.spotify.com/album/6Tj68mnBWjxukc9pYAOiNf) | 3:09 |

@@ -4,7 +4,7 @@
 
 > chill vibes ♡
 
-92 songs - 4 hr 53 min - not published yet
+93 songs - 4 hr 55 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [No Blueberries](https://open.spotify.com/track/4lpvCG7eNzHAXwvMxWUNjz) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:05 | 2022-11-18 |  |
 | [No Chill](https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 2:43 | 2022-11-18 |  |
 | [Nxwhere \(with lophiile\) \- lophiile Remix](https://open.spotify.com/track/5DS1a0fGhmEruQfritbawn) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Division \(Deluxe\)](https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq) | 2:23 | 2022-10-19 | 2022-11-19 |
-| [On Me](https://open.spotify.com/track/4pRTJT48FTbURaikYmSCYh) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Chaos](https://open.spotify.com/album/3kAct6tEw1Lc1TGy5Vv1OI) | 2:28 | 2022-11-18 |  |
+| [On Me](https://open.spotify.com/track/1VTF2L9xSLpPs4qjLbYW2f) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [On Me](https://open.spotify.com/album/0z8w8HFm5pMNauf8NctcWj) | 2:28 | 2022-11-18 |  |
+| [On Me](https://open.spotify.com/track/4pRTJT48FTbURaikYmSCYh) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Chaos](https://open.spotify.com/album/3kAct6tEw1Lc1TGy5Vv1OI) | 2:28 | 2022-11-18 | 2022-12-04 |
 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2022-10-19 | 2022-11-19 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-11-18 |  |
 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 | 2022-10-19 | 2022-11-19 |

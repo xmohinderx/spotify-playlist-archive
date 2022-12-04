@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Dueto Eleval en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,179 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,206 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 33 | [Yo Sin Tu Amor](https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 2:57 |
 | 34 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
 | 35 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
-| 36 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
+| 36 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
 | 37 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
 | 38 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 |
-| 39 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
-| 40 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
+| 39 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 |
+| 40 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
 | 41 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 |
 | 42 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 43 | [Te Aprovechas](https://open.spotify.com/track/4IBhHhbBSGRGrP6wXzRK2v) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMGQ1MzY4NjMzMjljMWUzNTU1ZDkwOWYwYTliN2E2NjI3`
+Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDMzZjExMGE4ODVkYWFiMDkwYWYxNmZiZTc3NGNkNTZl`

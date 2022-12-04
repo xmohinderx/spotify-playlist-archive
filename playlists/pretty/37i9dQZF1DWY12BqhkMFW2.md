@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,694 likes - 35 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,817 likes - 35 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 31 | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All of Me \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA) | 3:35 |
 | 32 | [If Only You Knew](https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [I Missed Us](https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8) | 5:09 |
 | 33 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
-| 34 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
-| 35 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
+| 34 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
+| 35 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMGEzMmUyY2JlYjk2Y2I2Mzk2MGJmMDc0MWQ1YjJjYTQy`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDM1NjY0MTY5YWFkNDMwMjU3MThkZjZhNjU2NGE0MzM4`

@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-230 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+231 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/38qsRkTKBEHhy8DEfT3vig) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes \(Solid Ground\)](https://open.spotify.com/album/1WVS7Ah9lx0SsSyW9QRjzC) | 3:05 | 2021-03-31 | 2022-04-29 |
 | [Body Talks](https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:58 | 2021-03-31 |  |
 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 | 2021-04-23 | 2022-03-01 |
-| [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 | 2022-04-29 |  |
+| [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 | 2022-04-29 | 2022-12-04 |
 | [Boy](https://open.spotify.com/track/6N21ZBtnE0DoofBpoqpNed) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/27l9RTaXrZdE3FL4wTjenz) | 3:21 | 2022-01-14 | 2022-07-28 |
 | [Broken Bones](https://open.spotify.com/track/0fnYEb4IPNMlv46bZweUu8) | [CRX](https://open.spotify.com/artist/4NfVXEoTZVX7rpJSZEVGLg) | [Broken Bones](https://open.spotify.com/album/30gnL7UUcLHZsXYtMsxgfE) | 3:31 | 2021-03-31 | 2022-04-29 |
 | [Bubblegum Infinity](https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 3:10 | 2022-04-29 |  |
@@ -177,6 +177,7 @@
 | [Rich](https://open.spotify.com/track/59emGJDCTWRSBcMEG9M29f) | [Mourners](https://open.spotify.com/artist/2WpziIx9RMAM2jgdqRDrW7) | [Rich](https://open.spotify.com/album/3n0BxFeZoVlqVI17RaJkwl) | 3:10 | 2021-03-31 | 2022-10-15 |
 | [Robot Writes A Love Song](https://open.spotify.com/track/2IL6235nJxKiKsBQykUk2M) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Robot Writes A Love Song](https://open.spotify.com/album/3eKWW3j4U5H4XiR1JDH351) | 3:36 | 2022-01-21 | 2022-07-29 |
 | [Robot Writes A Love Song](https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:36 | 2022-04-29 |  |
+| [Rockstar](https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:09 | 2022-04-29 |  |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-02-28 | 2022-07-29 |
 | [Rockstar](https://open.spotify.com/track/5KYMIVT5vYyeI0OP97nS0Y) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:09 | 2022-04-29 | 2022-12-02 |
 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 | 2021-03-31 |  |

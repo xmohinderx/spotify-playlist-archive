@@ -4,7 +4,7 @@
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-231 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4NC9GP1oyZmO0sV37Tctze)
+232 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/4NC9GP1oyZmO0sV37Tctze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/6TMxrBRi6NZExyAfpJAyv4) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:36 | 2021-12-01 | 2022-11-14 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-11-30 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-11-30 |  |
-| [Escape](https://open.spotify.com/track/6t8oosZU0hFD847n53vinc) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(Remixes\)](https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo) | 4:00 | 2022-11-30 |  |
+| [Escape](https://open.spotify.com/track/6t8oosZU0hFD847n53vinc) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(Remixes\)](https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo) | 4:00 | 2022-11-30 | 2022-12-04 |
+| [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 | 2022-11-30 |  |
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2021-12-01 | 2022-12-01 |
 | [Everything](https://open.spotify.com/track/2cGnOx17iac6m7R5YDUZac) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Everything](https://open.spotify.com/album/4hgIw8ZpU1rkGbEEwkNajV) | 3:19 | 2021-12-01 | 2022-12-01 |
 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 | 2021-12-01 | 2022-12-01 |

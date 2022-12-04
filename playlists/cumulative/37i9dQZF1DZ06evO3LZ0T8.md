@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 34 min - not published yet
+32 songs - 1 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 | 2022-10-10 |  |
 | [Never Say Never](https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Never Say Never](https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX) | 2:33 | 2022-10-15 |  |
 | [Oh Babe](https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/5JfeF8AIoBKK3zdV8ihUTx) | 2:49 | 2022-10-10 |  |
+| [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 | 2022-12-03 |  |
 | [Raise It Up](https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [MC Kane](https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt) | [Raise It Up](https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE) | 3:55 | 2022-10-10 |  |
 | [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 | 2022-10-10 |  |
 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 | 2022-10-10 |  |

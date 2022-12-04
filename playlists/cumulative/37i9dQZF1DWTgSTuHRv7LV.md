@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Flyboiz
 
-423 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
+424 songs - 1 day 0 hr 2 min - [published](https://open.spotify.com/playlist/3yfC00I7TCgx2k9uqVIBNd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Julito Maraña \(feat\. Tego Calderon\)](https://open.spotify.com/track/6mrPBN7zDYiAS3aFLyszLk) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Voltio](https://open.spotify.com/album/48iJAePusVGLmpzbcQuVH3) | 3:24 | 2022-01-06 | 2022-01-20 |
 | [K Paso](https://open.spotify.com/track/6idI6DH8KdVdbdn4aRN0Ru) | [Beam](https://open.spotify.com/artist/1sV6nbDH5xOMlCaufg6q6s) | [K Paso](https://open.spotify.com/album/4eqJNy79xcljhdNQr7fomy) | 2:00 | 2022-02-02 | 2022-05-10 |
 | [Katana](https://open.spotify.com/track/1G2BII1Wgl9NUBwXUByAjS) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4) | [Katana](https://open.spotify.com/album/5VgNI9y1vomTtEPzP4hIx9) | 2:40 | 2022-01-19 | 2022-10-08 |
-| [Kevin, Hugo & Jorge](https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3) | 2:26 | 2022-05-13 |  |
+| [Kevin, Hugo & Jorge](https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/4kzxuzLBkbGGnqeQ3dO8JT) | 2:26 | 2022-10-07 |  |
+| [Kevin, Hugo & Jorge](https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3) | 2:26 | 2022-05-13 | 2022-12-04 |
 | [Kiko](https://open.spotify.com/track/3032JJIqG2nBWY0WvY5d37) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Kiko](https://open.spotify.com/album/4IbZBaoKYfu4f10UdgVuxt) | 3:47 | 2022-02-09 | 2022-05-04 |
 | [Kilos In La](https://open.spotify.com/track/0j6UfFdjIgu6mfEA1cZ2X2) | [Guapo Mafioso](https://open.spotify.com/artist/6qtQo5MNDq83A1EFwV9c7a) | [Kilos In La](https://open.spotify.com/album/4DEO6Ztaa1WF0sx04bWErC) | 2:40 | 2022-06-10 | 2022-10-08 |
 | [Kingdom Babii](https://open.spotify.com/track/7E9BKOc3DPivAlUwBriAXA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [El Babii](https://open.spotify.com/album/79oL8wQzMJfmaymXyG9InS) | 2:16 | 2022-01-19 | 2022-05-12 |

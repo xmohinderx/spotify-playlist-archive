@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,024 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,050 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 17 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
 | 18 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 |
 | 19 | [I Like Dis](https://open.spotify.com/track/0ZoXRQfbp0tOoOZIyB0cPh) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [You Of Now, Pt\. 1](https://open.spotify.com/album/2GKh9AYasgMHrPRz3fzGXD) | 3:19 |
-| 20 | [Beige](https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78) | 3:22 |
+| 20 | [Beige](https://open.spotify.com/track/7yiNQMIKNj9tZvhRxscbg2) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/5khD0TiegRGYelA8ju93qj) | 3:22 |
 | 21 | [I Never Danced](https://open.spotify.com/track/5cUsHnbf2tthokeAMQR5km) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [I Never Danced](https://open.spotify.com/album/1gglryfErGNk6ZiuIPb2u7) | 2:55 |
 | 22 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 |
 | 23 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Can't Buy Happiness](https://open.spotify.com/track/5IwkralT3gnN9hL900X0Fr) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Can't Buy Happiness](https://open.spotify.com/album/6RKsSdVwMCq14PecYUjIQL) | 3:11 |
 | 80 | [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 |
 
-Snapshot ID: `MTY2ODc4NTMyNywwMDAwMDAwMGFmY2ZhY2M4NGI2MTkwNzIwODM3YmU3MzU4NTZhYjM2`
+Snapshot ID: `MTY2ODc4NTMyNywwMDAwMDAwMGE2N2IwMzNkYzkxNzgyZTkyMzE4YWU0MWM4ZmUwNGIw`

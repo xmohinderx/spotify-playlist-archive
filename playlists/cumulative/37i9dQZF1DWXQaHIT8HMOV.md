@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-88 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
+89 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/5zBxtGWhSLF9WlVV5CcxnH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 |  |
 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 | 2022-06-24 |  |
 | [Love \- Remix](https://open.spotify.com/track/5yef0whc1psSC6RDmE5ObC) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Jaz On The Beat](https://open.spotify.com/artist/4K9uuaA2QxgKJtSX7uSwkf) | [Love \(Remix\)](https://open.spotify.com/album/7e5K2OZi6p0jEVRySYDEU0) | 3:02 | 2022-05-12 | 2022-08-20 |
+| [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 | 2022-12-04 |  |
 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 | 2022-09-22 |  |
 | [Magic \(fik\)](https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:14 | 2022-10-07 |  |
 | [MAJJE](https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:30 | 2022-05-12 |  |
@@ -85,7 +86,7 @@
 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 | 2022-11-25 |  |
 | [Simple Guy](https://open.spotify.com/track/4doqYzAKym2GER3mDaU8jy) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Simple Guy](https://open.spotify.com/album/0xJrCs4TbSSdZUNPpFRjUy) | 3:42 | 2022-07-22 | 2022-10-28 |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 |  |
-| [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 |  |
+| [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2022-12-04 |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 |  |
 | [Thc \( Too High to Concentrate \)](https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9) | [Blaqface](https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78) | [Thc \( Too High to Concentrate \)](https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q) | 2:48 | 2022-07-08 |  |
 | [Toora Love](https://open.spotify.com/track/0hnvIcxlmqwvF4LGhSDfcm) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Toora Love](https://open.spotify.com/album/22FUDR7Eg1Qb2HH4aqEVDE) | 3:06 | 2022-11-25 |  |

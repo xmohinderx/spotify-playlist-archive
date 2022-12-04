@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,764 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,821 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 58 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 59 | [Most People Are Good](https://open.spotify.com/track/79LAFAkR1ATb4iIQvZuCL0) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:41 |
 | 60 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 61 | [Tequila](https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Tequila](https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF) | 3:15 |
-| 62 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 |
+| 61 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 |
+| 62 | [Tequila](https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Tequila](https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF) | 3:15 |
 | 63 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 | 64 | [You Make It Easy](https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [You Make It Easy](https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG) | 3:16 |
 | 65 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 74 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
 | 75 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
 
-Snapshot ID: `MTY2OTE0MDkyMSwwMDAwMDAwMDlkMmYxNmMwOGVhMTU3ZDg3NjAwM2E5NDA4OTI0ODc2`
+Snapshot ID: `MTY2OTE0MDkyMSwwMDAwMDAwMDMwZDdkZmRlZTAzMmQ4NTc2OTc0Y2Y0OTRlMmQyNzJh`

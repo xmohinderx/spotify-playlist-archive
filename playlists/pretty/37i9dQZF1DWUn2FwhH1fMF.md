@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,019 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,257 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 |
-| 2 | [Escape](https://open.spotify.com/track/6t8oosZU0hFD847n53vinc) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(Remixes\)](https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo) | 4:00 |
+| 2 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 |
 | 3 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 |
 | 4 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 |
 | 5 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 74 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 75 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 |
 
-Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMDA3NTI3Y2Q5YWRiZDJiODE0NjkzM2M4ZWYyZTQ4MDU3`
+Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMGI3YWQwMmQxMDkzZWIzMjFhY2E5NDkyODVkOWRkY2Zm`

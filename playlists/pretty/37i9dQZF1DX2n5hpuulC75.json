@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 243325,
+  "num_followers": 243411,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDA2MGY3ODIwZTk3ZjQ2YjM4NWQ2MzQ4NDRjNmEwYmFk",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGJmODQ5ZjNlOWEzNWFjNTc2MmYxMWViZDRkYTFlNWNi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -31,22 +31,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Theres Still Us",
         "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 157524,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -147,22 +147,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 199603,
       "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
       "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
     },
     {
       "added_at": "2019-09-16 15:44:25",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Naps",
-        "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 238148,
-      "name": "Naps",
-      "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "Aisle of Palm",
@@ -667,6 +651,22 @@
       "duration_ms": 218311,
       "name": "White Gemini",
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Naps",
+        "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 238148,
+      "name": "Naps",
+      "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -775,18 +775,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
       },
       "artists": [
         {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
         }
       ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -807,34 +807,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
       },
       "artists": [
         {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
         }
       ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Small Clan",
-        "url": "https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K"
-      },
-      "artists": [
-        {
-          "name": "Miink",
-          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
-        }
-      ],
-      "duration_ms": 232312,
-      "name": "Yellow Dust",
-      "url": "https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX"
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1043,6 +1027,22 @@
       "duration_ms": 357894,
       "name": "They Came Along",
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "CARE",
+        "url": "https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp"
+      },
+      "artists": [
+        {
+          "name": "Aaron Sayre",
+          "url": "https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "CARE",
+      "url": "https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4"
     }
   ],
   "unique_name": "Mellow Mood",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: ジェニーハイ \(genie high\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,715 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,730 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 39 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 40 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
 | 41 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
-| 42 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
-| 43 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
+| 42 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
+| 43 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
 | 44 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 |
 | 45 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
 | 46 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 49 | [君と夏フェス](https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:44 |
 | 50 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 |
 
-Snapshot ID: `MTY2OTkxNTI1NCwwMDAwMDAwMGUzMWVjMzY5MjAwMWQxNjM0MzBhYmFmNTI2YjBiZjk0`
+Snapshot ID: `MTY2OTkxNTI1NCwwMDAwMDAwMGRkNTAxY2U2YWIzMjdkMzljYWJhMTkwMzJiNzgzYjgw`

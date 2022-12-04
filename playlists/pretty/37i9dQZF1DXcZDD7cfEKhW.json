@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
-  "num_followers": 3345169,
+  "num_followers": 3345441,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGVhMjE5MDc5NzNlYmUwOTc5OGQ1NzhhYzYzODUzMmZi",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGQyMTNjNWQ5OGYyZDEzZjZlZmIwOTRlOGI3Y2Q4ZWQ4",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Bones (twocolors Remix)",
-        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 256092,
-      "name": "Bones - twocolors Remix",
-      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Bones (twocolors Remix)",
+        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "Bones - twocolors Remix",
+      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Dawn FM (Alternate World)",
         "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 238032,
       "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
       "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fat Max Gsus",
-          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
-        }
-      ],
-      "duration_ms": 224649,
-      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -1043,22 +1023,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
-        "url": "https://open.spotify.com/album/1S2tr4ZI7fHQxCelFuGnFW"
+        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
       },
       "artists": [
         {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Fat Max Gsus",
+          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
-      "url": "https://open.spotify.com/track/4U5qWMjVjSypNB0US9oEMM"
+      "duration_ms": 224649,
+      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1083,6 +1063,26 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
+        "url": "https://open.spotify.com/album/1S2tr4ZI7fHQxCelFuGnFW"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
+      "url": "https://open.spotify.com/track/4U5qWMjVjSypNB0US9oEMM"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
         "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
       },
@@ -1199,8 +1175,32 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
       "artists": [
         {
@@ -1208,13 +1208,13 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Why Can't You Wait (3LAU Remix)",
-        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Why Can't You Wait - 3LAU Remix",
-      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
         "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 205440,
       "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
       "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Why Can't You Wait (3LAU Remix)",
+        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 221612,
+      "name": "Why Can't You Wait - 3LAU Remix",
+      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
       },
       "artists": [
         {
@@ -1424,13 +1424,13 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         }
       ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Questions (Remix Pack)",
-        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 259849,
-      "name": "Questions - Deluxe Remix",
-      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Out Of Time (Remix Bundle)",
         "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 275555,
       "name": "Out of Time - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Questions (Remix Pack)",
+        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 259849,
+      "name": "Questions - Deluxe Remix",
+      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1659,6 +1659,30 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "Freaky Deaky (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 140059,
+      "name": "Freaky Deaky - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Deep Down (feat. Never Dull) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/0pTxtBYmfKmTqlMdJkQOhx"
       },
@@ -1687,30 +1711,6 @@
       "duration_ms": 166463,
       "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Freaky Deaky (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 140059,
-      "name": "Freaky Deaky - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Grand (TroyBoi Remix)",
-        "url": "https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Grand - TroyBoi Remix",
-      "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Caught Up (feat. Olivia O'Brien) [Remixes]",
         "url": "https://open.spotify.com/album/5fCXGInZnTszdgizArIg00"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 159375,
       "name": "Caught Up (feat. Olivia O'Brien) - Zack Martino x Leondis Remix",
       "url": "https://open.spotify.com/track/6rHJ268lwbpsIvdljb9lKR"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Grand (TroyBoi Remix)",
+        "url": "https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Grand - TroyBoi Remix",
+      "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
     },
     {
       "added_at": "2022-11-18 05:00:00",

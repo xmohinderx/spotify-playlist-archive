@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-331 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+332 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [cool kid](https://open.spotify.com/track/7Iq3WKDjRaGyYjaAZr0Lcx) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [cool kid](https://open.spotify.com/album/2AXY3PdfKoLLcIHtEfPSZN) | 4:02 | 2021-06-19 | 2022-07-22 |
 | [Dance In Room Song](https://open.spotify.com/track/52sDdbKEy6OQbv36sU2lSD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:51 | 2022-02-03 |  |
 | [dan’s note](https://open.spotify.com/track/1YanufqNXXYnqOljQsAV58) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [dan’s note](https://open.spotify.com/album/50VepeNKvbal919k6Ktw4e) | 3:20 | 2021-12-09 | 2022-04-20 |
+| [Darcy](https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx) | 3:24 | 2022-09-13 |  |
 | [Darcy](https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr) | 3:24 | 2022-03-30 | 2022-11-21 |
 | [Daylight](https://open.spotify.com/track/5ZLP7psIJFSrmAt3bgFCbI) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Daylight](https://open.spotify.com/album/2RvEHb6b7hWDRamSyZP6in) | 3:44 | 2021-02-26 | 2022-07-29 |
 | [Deaf](https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu) | 5:12 | 2022-03-30 | 2022-11-10 |
@@ -246,7 +247,7 @@
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2020-10-27\* |  |
 | [Raw](https://open.spotify.com/track/4Ot0dM7CB4gr9hVu6Hos3Z) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Raw](https://open.spotify.com/album/4AICfwXPPvRKBzEaUuO32e) | 3:37 | 2021-04-02 | 2022-07-12 |
 | [Real](https://open.spotify.com/track/6JA93Y4aUHtzZyuxCGOhSm) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Real](https://open.spotify.com/album/3LDD22obHHlYlxtBlUnj2h) | 3:46 | 2020-10-27\* | 2022-07-29 |
-| [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 |  |
+| [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 | 2022-12-04 |
 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 | 2022-07-27 |
 | [Red Rag To A Bull](https://open.spotify.com/track/3v9dcSB3xTGLoQ7vwdr3I5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Red Rag To A Bull](https://open.spotify.com/album/7gh3pCCd0TDhLm25VAKlIN) | 2:36 | 2021-10-11 | 2022-04-20 |
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2022-04-21 |

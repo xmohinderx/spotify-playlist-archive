@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,968 likes - 67 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,987 likes - 67 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 21 | [Champesaave Nannu](https://open.spotify.com/track/1soYqSnez9gGQepWQ50Fc1) | [Kapil, Sameera Bharadwaj](https://open.spotify.com/artist/2p90GSbbnImJrBEdsnYvuM) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:20 |
 | 22 | [Pedda Puli](https://open.spotify.com/track/4PYJiAIsR6JlgGZbhXPPK1) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chal Mohan Ranga](https://open.spotify.com/album/3c1DvyiyWk9a7v4or97bWW) | 3:51 |
 | 23 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
-| 24 | [Dhaari Choodu](https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3) | [Penchal Das](https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:08 |
-| 25 | [Box Badhalai Poyi](https://open.spotify.com/track/2tXmqzOJHKDsIWJ2y2ntAe) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 3:33 |
+| 24 | [Box Badhalai Poyi](https://open.spotify.com/track/2tXmqzOJHKDsIWJ2y2ntAe) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 3:33 |
+| 25 | [Dhaari Choodu](https://open.spotify.com/track/6c85Eub4Ze7Jyhxv0xUrm3) | [Penchal Das](https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN) | [Krishnarjuna Yudham](https://open.spotify.com/album/3i0yyqAxnVUW0XWitqUiG8) | 3:08 |
 | 26 | [Time To Party](https://open.spotify.com/track/4MCwrrZj6yl2hL6rGxeXQu) | [David Simon\|Malgadi Subha](https://open.spotify.com/artist/1boEI6lCFhu5guBcZ8CUos) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:29 |
 | 27 | [Psycho Saiyaan](https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Saaho](https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr) | 2:46 |
 | 28 | [Pilla Picture Perfect](https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranarangam](https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg) | 3:34 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 | 67 | [Miami \- Ma Ma Ma Ma Mia](https://open.spotify.com/track/4BfdCnlFZ8sSSL21Sho1yf) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Th8ogCMASbR8eJ9xL3ekG) | 3:38 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDU5MTU3YTdiNTc2NjMzY2UwY2I4NWYwNDk4ZmQyMThl`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDRmZDc5NDUzN2E0MjMxZDQ2ZDM5ODYyMGExODZiOTI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 
 > Find your flow with these trap and lofi beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,518 likes - 146 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,545 likes - 146 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 | 42 | [Shady Business](https://open.spotify.com/track/2hfb30t113bde0rFV4rA4S) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [sword](https://open.spotify.com/artist/7aVAHmMUBvA8a8yKFv8NkC), [haku](https://open.spotify.com/artist/4bPSO3Oj1HPU6T4oIZfGRc) | [Adjust Your Tracking](https://open.spotify.com/album/4WQASjQl8fzEWW2h8hvxwQ) | 2:55 |
 | 43 | [Y2K](https://open.spotify.com/track/5sFrWbiYAfBkHmpgo3j9cV) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Y2K](https://open.spotify.com/album/5zgdMB01DgxhbQClYO9k8Y) | 2:16 |
 | 44 | [Medellín](https://open.spotify.com/track/1IlyeC909WJtqfWzkEsCho) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [CHOI](https://open.spotify.com/album/0CGvfG5iw9EWre6roR4B0A) | 3:02 |
-| 45 | [stating the obvious](https://open.spotify.com/track/6v7devbeCi08pDiP1zwRmQ) | [Snake Pila](https://open.spotify.com/artist/345Ge7p3aRxLcZ7q6lf7BT) | [stating the obvious](https://open.spotify.com/album/0EtIyPTxbTK6yzcr1wbFzy) | 1:49 |
+| 45 | [stating the obvious](https://open.spotify.com/track/6v7devbeCi08pDiP1zwRmQ) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [stating the obvious](https://open.spotify.com/album/0EtIyPTxbTK6yzcr1wbFzy) | 1:49 |
 | 46 | [Baby Blue](https://open.spotify.com/track/48up0BSU2tHcGUkxU3lNCp) | [Saleh Beats](https://open.spotify.com/artist/2dbkUocONloerMjn2QXZuX), [Senojnayr](https://open.spotify.com/artist/0BpQtUlXXG2mcA8PobxOp0) | [Baby Blue](https://open.spotify.com/album/2p3U20UzI2lQKaTKVS7ipD) | 1:43 |
 | 47 | [No Look](https://open.spotify.com/track/18oda7L4uAAYtvQBKVSVK3) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [No Look](https://open.spotify.com/album/6IAgG1VzzVhrrAmUZMF4Cy) | 2:38 |
 | 48 | [Killers](https://open.spotify.com/track/0kmVVO1cDYv9w6CY4UhuPz) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Killers](https://open.spotify.com/album/6HnJ0P7zYGAugVBgghd0ht) | 2:28 |

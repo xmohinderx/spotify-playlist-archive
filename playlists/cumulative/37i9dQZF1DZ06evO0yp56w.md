@@ -4,7 +4,7 @@
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/2A2W6E9IWWEYyaOGZZsUVO)
+70 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/2A2W6E9IWWEYyaOGZZsUVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 | 2022-01-11 |  |
 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 | 2022-01-25 |  |
 | [Ghosts \(How Can I Move On\)](https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:37 | 2022-08-28 | 2022-10-23 |
+| [Ghosts \(How Can I Move On\) \[feat\. Elisa\]](https://open.spotify.com/track/4ggQZbM68glGfoH1kImIwO) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Matt Bellamy](https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ghosts \(How Can I Move On\) \[feat\. Elisa\]](https://open.spotify.com/album/7uz5nvQUPKp2veCYlfOFQe) | 3:37 | 2022-12-03 |  |
 | [Glorious](https://open.spotify.com/track/6IfitwQQ1Gu9g9QnLWDHRY) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:41 | 2022-01-11 | 2022-09-26 |
 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2022-01-11 | 2022-07-30 |
 | [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:47 | 2022-01-11 |  |
@@ -51,7 +52,7 @@
 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 | 2022-01-11 |  |
 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 | 2022-01-11 |  |
 | [Resistance](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:46 | 2022-01-11 |  |
-| [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 | 2022-01-11 |  |
+| [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 | 2022-01-11 | 2022-12-04 |
 | [Sing for Absolution](https://open.spotify.com/track/1hHuyqVCZCbhYQixEkdQCo) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 4:54 | 2022-01-11 |  |
 | [Something Human](https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 | 2022-01-11 |  |
 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 | 2022-01-11 |  |

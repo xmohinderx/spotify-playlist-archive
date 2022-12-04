@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,313 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 3 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 |
 | 4 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 |
 | 5 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
-| 6 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 |
-| 7 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
+| 6 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
+| 7 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 |
 | 8 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 |
 | 9 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Clash \(feat\. Stormzy\)](https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP) | 4:11 |
 | 10 | [All In](https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [Toxic Punk](https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Ain't Scared](https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ) | 2:03 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMGUzNGMxZjA5YTFjMWRhMzNmNjM1YzdlMmE0OWQ1OGJl`
+Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMDhjNmE1OTczY2M5YmFmNDYzYTI3ODQ3OWEyOGM0YjEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,557 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,636 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 17 | [Entre tú y mil mares](https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Entre tú y mil mares](https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj) | 3:48 |
 | 18 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
 | 19 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
-| 20 | [Paris](https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 3:46 |
-| 21 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
+| 20 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
+| 21 | [Paris](https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 3:46 |
 | 22 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 |
 | 23 | [Enséñame A Olvidarte](https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:22 |
 | 24 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 35 | [Amor I Love You / Citação: Trecho da Obra Intitulada "Primo Basilio" De Eça de Queiroz Declamado por Arnaldo Antunes](https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias, Crônicas e Declarações de Amor](https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL) | 3:11 |
 | 36 | [Tal Vez Quizas](https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:34 |
 | 37 | [Lo Unico Que Quiero](https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:27 |
-| 38 | [Aquí](https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Uno](https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK) | 4:44 |
-| 39 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 |
+| 38 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 |
+| 39 | [Aquí](https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Uno](https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK) | 4:44 |
 | 40 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 |
 | 41 | [Y Yo Sigo Aqui](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
 | 42 | [Par Mil](https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 49 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
 | 50 | [Quisiera ser](https://open.spotify.com/track/2sC8ZDPXm0jZTPG84hQ80S) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:28 |
 
-Snapshot ID: `MTY2MDEwODYzOCwwMDAwMDAwMGNhZGVmNjcxNDZjYmY5NzE0NWRjMjllMDg1MDNmZTE1`
+Snapshot ID: `MTY2MDEwODYzOCwwMDAwMDAwMGUwNzdiZjU5NDMyMGQ5ZDI1YTE4ZmU4ZjI2YzFkZjFj`

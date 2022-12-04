@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-361 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+362 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Light On In The Dark](https://open.spotify.com/track/32o3CTqwtQVxhzHJEjNXna) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [A Light On In The Dark](https://open.spotify.com/album/2ehy4s0YUPk85Kn8wa5auN) | 3:51 | 2021-12-20 | 2022-03-22 |
 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 | 2022-06-07 | 2022-09-07 |
 | [Ain’t That Fine](https://open.spotify.com/track/22Is0mpoTCXoz5EE1U2yjb) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:08 | 2022-03-21 | 2022-06-08 |
-| [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2022-09-06 |  |
+| [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-09-06 |  |
+| [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2022-09-06 | 2022-12-04 |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2022-06-07 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/2eiY8qXiV6yReXSeuoplns) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [All the Pretty Girls](https://open.spotify.com/album/4Q4O06TIoYrl7zzVIOq3OF) | 4:29 | 2022-06-07 | 2022-07-29 |
 | [All the Trees of the Field Will Clap Their Hands](https://open.spotify.com/track/5OojmQ36TXkfL2JfoFJcaq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 4:14 | 2022-03-21 | 2022-06-08 |

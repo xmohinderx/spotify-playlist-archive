@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 475679,
+  "num_followers": 475745,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDkxNjVmNjcyM2YzNWRkYWYwNDVlYzE4YmY5MzQyZTA5",
+  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDc4ZDJmOTVkMTVkNjU4ZjhkMGE1YmE0Nzc3YWZmZjQ2",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Somersault",
-        "url": "https://open.spotify.com/album/2d7uieZPQtrUi5AQXwdsYV"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 158474,
-      "name": "Down the Line",
-      "url": "https://open.spotify.com/track/05ZUxHiGT7VR6ShJjhwJxn"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 268880,
       "name": "Booster Seat",
       "url": "https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Somersault",
+        "url": "https://open.spotify.com/album/2d7uieZPQtrUi5AQXwdsYV"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 158474,
+      "name": "Down the Line",
+      "url": "https://open.spotify.com/track/05ZUxHiGT7VR6ShJjhwJxn"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Naked All the Time",
-        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Panama",
-      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 166213,
       "name": "One Another",
       "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Naked All the Time",
+        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "What a Pleasure",
-        "url": "https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 152684,
-      "name": "What a Pleasure",
-      "url": "https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Raspberry Jam",
         "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "What a Pleasure",
+        "url": "https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 152684,
+      "name": "What a Pleasure",
+      "url": "https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "The French Press",
         "url": "https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 326807,
       "name": "French Press",
       "url": "https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
         }
       ],
-      "duration_ms": 214400,
-      "name": "I Follow You",
-      "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
+        "name": "Melody's Echo Chamber",
+        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 153414,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
+      "duration_ms": 214400,
+      "name": "I Follow You",
+      "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
     },
     {
       "added_at": "2022-09-22 19:11:53",

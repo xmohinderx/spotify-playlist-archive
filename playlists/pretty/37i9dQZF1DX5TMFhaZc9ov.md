@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Adeem the Artist
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,196 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,222 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

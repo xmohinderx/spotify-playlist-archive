@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,278 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,331 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 57 | [Quelqu'un m'a dit](https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 2:48 |
 | 58 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
 | 59 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
-| 60 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
-| 61 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
+| 60 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
+| 61 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
 | 62 | [Recording 15](https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 4:02 |
 | 63 | [Into The Sun \- EP Version](https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 5:00 |
 | 64 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 70 | [How Do You Sleep? \- Acoustic](https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep? \(Acoustic\)](https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE) | 3:25 |
 | 71 | [Paint](https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint](https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0) | 4:41 |
 | 72 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
-| 73 | [I Like You](https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu) | 2:18 |
-| 74 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
+| 73 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
+| 74 | [I Like You](https://open.spotify.com/track/7Afr3PKTtlFGHGiXYgnv6P) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu) | 2:18 |
 | 75 | [Slide](https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:23 |
 | 76 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
 | 77 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 81 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
 | 82 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 | 83 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
-| 84 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
+| 84 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 |
 | 85 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 |
-| 86 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 |
-| 87 | [Qué Bueno!](https://open.spotify.com/track/3pCibQLOsHM1z7DnyEpysp) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Chukky](https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL) | [Qué Bueno!](https://open.spotify.com/album/5KJd4syqmjCuCWIMV4mBZM) | 3:42 |
+| 86 | [Qué Bueno!](https://open.spotify.com/track/3pCibQLOsHM1z7DnyEpysp) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Chukky](https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL) | [Qué Bueno!](https://open.spotify.com/album/5KJd4syqmjCuCWIMV4mBZM) | 3:42 |
+| 87 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 88 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 |
 | 89 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
 | 90 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 99 | [Mudanza](https://open.spotify.com/track/2p607VlsD6tMuYukIxolRw) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 2:16 |
 | 100 | [El Camino](https://open.spotify.com/track/4jEEloo2pedhkrP5NBTl85) | [Iseo](https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7) | [El Camino](https://open.spotify.com/album/52QYoj88bTFq4TOfnh0kCz) | 3:34 |
 
-Snapshot ID: `MTY2ODE3MjI5OSwwMDAwMDAwMGUzNDY2OGM3ZGU2OWYzOWZiYjc1NDUzYzQ0NzI0M2Ey`
+Snapshot ID: `MTY2ODE3MjI5OSwwMDAwMDAwMDQ5OWIxOGYxYzU1ZmNiZTdmODllOGM3YzhiODA2MDE3`

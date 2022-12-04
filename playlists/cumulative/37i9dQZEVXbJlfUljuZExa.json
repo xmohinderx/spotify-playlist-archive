@@ -424,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "All Day (with Tablo)",
+      "url": "https://open.spotify.com/track/40SuiVcQ5NyDk48nZSADK3"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -1965,7 +1987,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -4361,7 +4383,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 219040,
       "name": "High School in Jakarta",
       "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
@@ -6255,7 +6277,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -9195,7 +9217,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -9463,6 +9485,28 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175328,
+      "name": "Still Life (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw"
     },
     {
       "album": {
@@ -10079,7 +10123,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 144933,
       "name": "That's Hilarious",
       "url": "https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0"
@@ -10711,7 +10755,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": null,
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
@@ -10945,6 +10989,28 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "\uc870\uc720\uc9c4",
+          "url": "https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273499,
+      "name": "Wild Flower (with youjeen)",
+      "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"
     },
     {
       "album": {
@@ -11257,6 +11323,28 @@
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233688,
+      "name": "Yun (with Erykah Badu)",
+      "url": "https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R"
     },
     {
       "album": {

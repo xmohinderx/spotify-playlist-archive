@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,834 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,920 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 22 | [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 |
 | 23 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 |
 | 24 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
-| 25 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 |
-| 26 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 |
+| 25 | [Borrowed Love \(feat\. Swae Lee & WizKid\)](https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:50 |
+| 26 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 |
 | 27 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
 | 28 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
 | 29 | [Glow In The Dark](https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
 | 50 | [Slow Down \(feat\. Wiz Kid\)](https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:21 |
 
-Snapshot ID: `Mjc4MzMzODcsMDAwMDAwMDAxNzg4MThmYzMxOTkxNmI2OWRiNDdlN2Y0NmVmOTY0ZQ==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDBiMzliNmU2OWQyMGUwYTRkM2RhNzMwOGY2ZGQ1OGI0Zg==`

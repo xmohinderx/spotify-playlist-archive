@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing. Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 639241,
+  "num_followers": 639305,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg3ODM0OCwwMDAwMDAwMDExMTkwM2I5ZTk3Mzk1NjU0MzM3YzAxMWUxZTRiY2E1",
+  "snapshot_id": "MTY2Njg3ODM0OCwwMDAwMDAwMGQ0NmZmYTAyYTNkMGQxMmZlNDM0ZGEzM2JmYTViMTkx",
   "tracks": [
     {
       "added_at": "2022-10-27 13:45:48",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -459,22 +475,6 @@
       "duration_ms": 255514,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212877,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Renacer Pt. 1",
         "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 148562,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212877,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/2nDsjbGVU7aUGNuoAXCIlc"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "duermo sin pijama",
-        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "duermo sin pijama",
-      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Una Noche (Unplugged)",
         "url": "https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 238654,
       "name": "Una Noche - Unplugged",
       "url": "https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "duermo sin pijama",
+        "url": "https://open.spotify.com/album/48RwFsfdrq3EOs0LP8HE2y"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "duermo sin pijama",
+      "url": "https://open.spotify.com/track/5UL2BK6DLcqjTeORNJZrrH"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 230540,
-      "name": "MI TODO",
-      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Visa",
         "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 212452,
       "name": "Cardenalito",
       "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 230540,
+      "name": "MI TODO",
+      "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Somos Nada",
-        "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Somos Nada",
-      "url": "https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Somos Nada",
+        "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Somos Nada",
+      "url": "https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1187,18 +1187,22 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
       "artists": [
         {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Nahuel Barbero",
+          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
         }
       ],
-      "duration_ms": 205874,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
+      "duration_ms": 231936,
+      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
+      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
       },
       "artists": [
         {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Nahuel Barbero",
-          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
         }
       ],
-      "duration_ms": 231936,
-      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
-      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+      "duration_ms": 205874,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
         "name": "Conf\u00eden En M\u00ed",
         "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
         }
       ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1323,22 +1339,6 @@
       "duration_ms": 193953,
       "name": "7 de febrero",
       "url": "https://open.spotify.com/track/3pT3Hel5mso2yNefImHIwb"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Promesa",
         "url": "https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 181443,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/7xEN9p3spnvGC891587UOO"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Singles 2019-2021",
-        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/00VFW0mnvoFYLVhrhFsk7y"
-    },
-    {
-      "added_at": "2022-10-27 13:45:48",
-      "album": {
         "name": "Muy Muy Chico",
         "url": "https://open.spotify.com/album/5WtH2m7dznijnLcQokkdGh"
       },
@@ -1927,22 +1911,18 @@
     {
       "added_at": "2022-10-27 13:45:48",
       "album": {
-        "name": "Track 11",
-        "url": "https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D"
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
       },
       "artists": [
         {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
-        },
-        {
-          "name": "574",
-          "url": "https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40"
+      "duration_ms": 210500,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/00VFW0mnvoFYLVhrhFsk7y"
     },
     {
       "added_at": "2022-10-27 13:45:48",
@@ -1963,6 +1943,26 @@
       "duration_ms": 183607,
       "name": "Vida",
       "url": "https://open.spotify.com/track/38uY6EFyAAKeBLw23s4r9j"
+    },
+    {
+      "added_at": "2022-10-27 13:45:48",
+      "album": {
+        "name": "Track 11",
+        "url": "https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        },
+        {
+          "name": "574",
+          "url": "https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40"
     },
     {
       "added_at": "2022-10-27 13:45:48",

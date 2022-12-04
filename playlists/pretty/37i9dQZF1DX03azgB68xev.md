@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: The Young Escape
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,107 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,109 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 40 | [Help Me \- Remix](https://open.spotify.com/track/65nhpDbzSPax2Gq46dbat8) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Remix\)](https://open.spotify.com/album/6bzyBO35AF4ro1au4ldI2S) | 2:29 |
 | 41 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 42 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
-| 43 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
-| 44 | [Yes & No](https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 2:59 |
+| 43 | [Yes & No](https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 2:59 |
+| 44 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
 | 45 | [You Are](https://open.spotify.com/track/31FbRIjh7s2pf3As8SSM9F) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 4:14 |
 | 46 | [Soldier On](https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:02 |
 | 47 | [perfection](https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part I \- EP](https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb) | 3:33 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 63 | [Roses](https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Roses](https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF) | 3:11 |
 | 64 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 |
 | 65 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
-| 66 | [Sunday Morning Feeling](https://open.spotify.com/track/57Ik3h0X3AlIetDl4rhV5f) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:42 |
-| 67 | [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 |
+| 66 | [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 |
+| 67 | [Sunday Morning Feeling](https://open.spotify.com/track/57Ik3h0X3AlIetDl4rhV5f) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:42 |
 | 68 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 69 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
 | 70 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 
-Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDBjZTVlMmYyMThhZjY1YzUwOGVmNmQyYTMzNjg0Y2E1`
+Snapshot ID: `MTYzNTY0NTA2NSwwMDAwMDAwMDY1YTU5OGI1NzhjNGY1NDI4MDFiN2FiNWI1NGM5N2Yy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,785 likes - 156 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,196 likes - 156 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

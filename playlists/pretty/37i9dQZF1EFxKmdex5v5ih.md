@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578 likes - 178 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580 likes - 178 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 35 | [Sad Forever](https://open.spotify.com/track/6YQT5luUxB6JwQdd8e7jbf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:23 |
 | 36 | [Funny](https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Funny](https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm) | 3:41 |
 | 37 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 |
-| 38 | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/track/1i3z3GR1JtLswOSJNO0BQw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/album/1uuGNc2B7c5tEfCuIy3dDT) | 2:38 |
-| 39 | [Drugs & The Internet](https://open.spotify.com/track/3pOSvuKA8pmBG7Ar9Y5OnK) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:58 |
-| 40 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 |
+| 38 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 |
+| 39 | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/track/1i3z3GR1JtLswOSJNO0BQw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [You Can't Stop The Girl \(From Disney's "Maleficent: Mistress of Evil"\)](https://open.spotify.com/album/1uuGNc2B7c5tEfCuIy3dDT) | 2:38 |
+| 40 | [Drugs & The Internet](https://open.spotify.com/track/3pOSvuKA8pmBG7Ar9Y5OnK) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:58 |
 | 41 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 |
 | 42 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 |
 | 43 | [Changes](https://open.spotify.com/track/45UAiFGe5KssWUbi5s1AOY) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:40 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 66 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
 | 67 | [Paranoid](https://open.spotify.com/track/44FcHS05J9VkzOBjmRFr1y) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:12 |
 | 68 | [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 |
-| 69 | [Julia](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:38 |
-| 70 | [In Case You Don't Live Forever](https://open.spotify.com/track/4Svpc4QRvDW0J34AE30S9c) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:48 |
-| 71 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
+| 69 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
+| 70 | [Julia](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:38 |
+| 71 | [In Case You Don't Live Forever](https://open.spotify.com/track/4Svpc4QRvDW0J34AE30S9c) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:48 |
 | 72 | [Lonely Eyes](https://open.spotify.com/track/0r4l1Eco6JEbeexC8dEawI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:16 |
 | 73 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
 | 74 | [MOONLIGHT](https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:39 |
@@ -149,10 +149,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 139 | [Any Day Now](https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:13 |
 | 140 | [Every Time I Breathe](https://open.spotify.com/track/1IWHzZQuBidgATKd3itjoL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Every Time I Breathe](https://open.spotify.com/album/0QIOGBUOtFj3DtO2W9qmiM) | 3:03 |
 | 141 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 |
-| 142 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
-| 143 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 |
-| 144 | [dance with you](https://open.spotify.com/track/2NY14rxSByaLfPZY0OA78x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:19 |
-| 145 | [Conversations](https://open.spotify.com/track/3MvTNChVxHQyUBnHfKc9Yg) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:04 |
+| 142 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 |
+| 143 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
+| 144 | [Conversations](https://open.spotify.com/track/3MvTNChVxHQyUBnHfKc9Yg) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:04 |
+| 145 | [dance with you](https://open.spotify.com/track/2NY14rxSByaLfPZY0OA78x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:19 |
 | 146 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
 | 147 | [dark times](https://open.spotify.com/track/67dauMD2RclztbZPgMDBKk) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:06 |
 | 148 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 177 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 | 178 | [Wild Dreams](https://open.spotify.com/track/5aRR8YJ6Q7Y7DhurrzgbDY) | [Jay John](https://open.spotify.com/artist/0J1W4llL0TJLG48XsJUSgC) | [Understand Me](https://open.spotify.com/album/0uvBj08KCEjIcXP9aHuDWN) | 3:25 |
 
-Snapshot ID: `Mjc4MzM4MjgsMDAwMDAwMDA1YTE4NWQ3NzEyMGM2NTIzOTJkMjEwMTY2MmM4Y2U0OQ==`
+Snapshot ID: `Mjc4MzUyNjgsMDAwMDAwMDBlNDkwZTkzODNjMmMyZjkyNGVhOWQwOGUxYzc3OTVjNg==`

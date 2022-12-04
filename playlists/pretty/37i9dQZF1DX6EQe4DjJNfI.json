@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Duquesa",
-  "num_followers": 154732,
+  "num_followers": 154791,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDUwZWQ5M2IwNGZlMjIyYmMxNjg1ZjI3YjRmMzY2ZmY5",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDgxMTczNmE0NTBmOGE5ZDA3Nzk2MzVkMzBmMDVjMzA2",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
-      },
-      "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        }
-      ],
-      "duration_ms": 184489,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -595,6 +595,34 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "Wall Music",
+          "url": "https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -703,50 +731,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        },
-        {
-          "name": "Wall Music",
-          "url": "https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Contraponto",
         "url": "https://open.spotify.com/album/2tY2W6wy7KGNk2vDfn2732"
       },
@@ -763,6 +747,42 @@
       "duration_ms": 167108,
       "name": "Contraponto",
       "url": "https://open.spotify.com/track/02Uf0sZHNFPxcOZ8pF3EJW"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Codinome",
+        "url": "https://open.spotify.com/album/5kDTbDeCHdcB44tHAEmaIR"
+      },
+      "artists": [
+        {
+          "name": "Juccas",
+          "url": "https://open.spotify.com/artist/5LmURMRHOHzltNHdQgOLVH"
+        }
+      ],
+      "duration_ms": 181084,
+      "name": "Codinome",
+      "url": "https://open.spotify.com/track/1g4M2OibGjdEsOcu37k14q"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -859,38 +879,18 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Codinome",
-        "url": "https://open.spotify.com/album/5kDTbDeCHdcB44tHAEmaIR"
-      },
-      "artists": [
-        {
-          "name": "Juccas",
-          "url": "https://open.spotify.com/artist/5LmURMRHOHzltNHdQgOLVH"
-        }
-      ],
-      "duration_ms": 181084,
-      "name": "Codinome",
-      "url": "https://open.spotify.com/track/1g4M2OibGjdEsOcu37k14q"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
           "name": "Ana Olic",
           "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
         }
       ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 169142,
       "name": "N\u00e3o Quero Te Perder",
       "url": "https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Na Cama",
-        "url": "https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo"
-      },
-      "artists": [
-        {
-          "name": "LEXY",
-          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "RZ",
-          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Na Cama",
-      "url": "https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "N\u00e3o quis enxergar",
         "url": "https://open.spotify.com/album/2J73R8Jzjx5ILRLBxuMo9A"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 182000,
       "name": "N\u00e3o quis enxergar",
       "url": "https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Na Cama",
+        "url": "https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo"
+      },
+      "artists": [
+        {
+          "name": "LEXY",
+          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        },
+        {
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Na Cama",
+      "url": "https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S"
     },
     {
       "added_at": "2022-12-02 03:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-12-02 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2022-12-02 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2022-12-02 03:01:00",
+      "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     }
   ],
   "unique_name": "R&B Brasil",

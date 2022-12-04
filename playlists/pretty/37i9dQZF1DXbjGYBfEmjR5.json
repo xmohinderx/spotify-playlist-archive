@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 248144,
+  "num_followers": 248331,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDZlZjEzMDcwYzUwNDg5ZjdiNDFiN2E4NTUwN2E4ZjRj",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDJkYTU5MTgxZGVlZjc4ZjIwYzcyMzgzYTViYjU5Yjcz",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "K/92",
-          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
-        }
-      ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Yacht World",
         "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
@@ -1115,38 +1099,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Idols",
-        "url": "https://open.spotify.com/album/5LK3DAyr8xWegy8Ho4dNMA"
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
       },
       "artists": [
         {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        },
-        {
-          "name": "Rugemie",
-          "url": "https://open.spotify.com/artist/7nxcpjqOBCI0KPyVkUntUI"
+          "name": "K/92",
+          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
         }
       ],
-      "duration_ms": 145312,
-      "name": "Idols",
-      "url": "https://open.spotify.com/track/59zvntCUcoxFfFQgiq0s1W"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Cyber Love",
-        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
-      },
-      "artists": [
-        {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "The Way U Make Me Feel",
-      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1183,6 +1147,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Cyber Love",
+        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "The Way U Make Me Feel",
+      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "love u!!",
         "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/5LK3DAyr8xWegy8Ho4dNMA"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        },
+        {
+          "name": "Rugemie",
+          "url": "https://open.spotify.com/artist/7nxcpjqOBCI0KPyVkUntUI"
+        }
+      ],
+      "duration_ms": 145312,
+      "name": "Idols",
+      "url": "https://open.spotify.com/track/59zvntCUcoxFfFQgiq0s1W"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "This Is Just a Test",
         "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 363156,
       "name": "This Is Just a Test",
       "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
-      },
-      "artists": [
-        {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+      },
+      "artists": [
+        {
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Lynx",
-        "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
       "artists": [
         {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
         }
       ],
-      "duration_ms": 245882,
-      "name": "Lynx",
-      "url": "https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV"
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1303,34 +1303,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+        "name": "Lynx",
+        "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
         }
       ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Super Groove Love Club",
-        "url": "https://open.spotify.com/album/563hKWelCb0DXKzDcfZiC7"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Super Groove Love Club",
-      "url": "https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy"
+      "duration_ms": 245882,
+      "name": "Lynx",
+      "url": "https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1347,6 +1331,22 @@
       "duration_ms": 153652,
       "name": "Show Me Your Moves",
       "url": "https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Super Groove Love Club",
+        "url": "https://open.spotify.com/album/563hKWelCb0DXKzDcfZiC7"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Super Groove Love Club",
+      "url": "https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "DaFuture Is Now",
         "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
       },
@@ -1431,34 +1415,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
       "artists": [
         {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
         }
       ],
-      "duration_ms": 203389,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1495,18 +1463,34 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Mental Geller",
-        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
       },
       "artists": [
         {
-          "name": "The Phantom's Revenge",
-          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
         }
       ],
-      "duration_ms": 348750,
-      "name": "DJ BFF Slideshow",
-      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 203389,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1523,6 +1507,22 @@
       "duration_ms": 191366,
       "name": "La Musique",
       "url": "https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Mental Geller",
+        "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
+      },
+      "artists": [
+        {
+          "name": "The Phantom's Revenge",
+          "url": "https://open.spotify.com/artist/4PbkB0f0bB7XeKU54QNTwe"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "DJ BFF Slideshow",
+      "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Summer Splash",
-        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 227812,
-      "name": "Summer Splash",
-      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "REFRESH",
         "url": "https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 132000,
       "name": "REFRESH",
       "url": "https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Summer Splash",
+        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Summer Splash",
+      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/3JxZbaUMmu8qUlT9emiVDd"
-      },
-      "artists": [
-        {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/0N0lYK1YjAIYp71bXBqTX4"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Bae 5",
         "url": "https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 110313,
       "name": "Funk Express",
       "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/3JxZbaUMmu8qUlT9emiVDd"
+      },
+      "artists": [
+        {
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+        }
+      ],
+      "duration_ms": 226874,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/0N0lYK1YjAIYp71bXBqTX4"
     }
   ],
   "unique_name": "Future Funk",

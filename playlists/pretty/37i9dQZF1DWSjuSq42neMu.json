@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 556232,
+  "num_followers": 556565,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMGNmNTdiM2ZhNWNkYThlM2ZhOTk0MzkyZjg3NjViOGQ3",
+  "snapshot_id": "MTY2OTA1MzgwNCwwMDAwMDAwMGU3MTI0MWI3YTUzNDc0MzFiYjAzMzlmOWRlZjIyOTA2",
   "tracks": [
     {
       "added_at": "2022-11-21 18:03:24",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "TRAP CAKE VOL. 2",
+        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 255412,
+      "name": "MUSEO",
+      "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 182506,
       "name": "Quemando Calor\u00edas",
       "url": "https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "TRAP CAKE VOL. 2",
-        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 255412,
-      "name": "MUSEO",
-      "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -743,6 +743,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Fantasias",
+        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 199711,
+      "name": "Fantasias",
+      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "23 Preguntas",
         "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 251221,
       "name": "23 Preguntas",
       "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "INTER SHIBUYA - LA MAFIA",
-        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "SI T\u00da SUPIERAS - Bonus Track",
-      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -899,22 +903,34 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "SI T\u00da SUPIERAS - Bonus Track",
+      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 199711,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+      "duration_ms": 295038,
+      "name": "Aquel Nap ZzZz",
+      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1031,6 +1047,26 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "2/Catorce",
+        "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "duration_ms": 212031,
+      "name": "2/Catorce",
+      "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -1143,22 +1179,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 295038,
-      "name": "Aquel Nap ZzZz",
-      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -1215,22 +1235,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -1251,6 +1255,22 @@
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1327,26 +1347,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "2/Catorce",
-        "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Mr. Naisgai",
-          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
-        }
-      ],
-      "duration_ms": 212031,
-      "name": "2/Catorce",
-      "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Me Fije",
         "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 202320,
       "name": "Me Fije",
       "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Aroma",
         "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
       },
@@ -1503,38 +1483,22 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Dime Cuantas Veces",
-        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 213959,
-      "name": "Dime Cuantas Veces",
-      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 187191,
-      "name": "Extasy",
-      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1571,6 +1535,42 @@
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Dime Cuantas Veces",
+        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 213959,
+      "name": "Dime Cuantas Veces",
+      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187191,
+      "name": "Extasy",
+      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
     },
     {
       "added_at": "2022-11-21 18:03:24",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -1691,6 +1675,42 @@
     {
       "added_at": "2022-11-21 18:03:24",
       "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 211130,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2022-11-21 18:03:24",
+      "album": {
         "name": "Llori Pari",
         "url": "https://open.spotify.com/album/4jG7eBaWlLUjRRS1ajTCJ3"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 215440,
       "name": "Llori Pari",
       "url": "https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7"
-    },
-    {
-      "added_at": "2022-11-21 18:03:24",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 211130,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
     },
     {
       "added_at": "2022-11-21 18:03:24",

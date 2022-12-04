@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 314376,
+  "num_followers": 314454,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NDgyNywwMDAwMDAwMDMyMzM1YTYyOTg5YmI1OWI3OWRiMzk5OGU5OWYxZmQw",
+  "snapshot_id": "MTY1OTA0NDgyNywwMDAwMDAwMGMxMTczYmQwZDNjYjZhZDQwZmQzYTdhZTkxNWQ0Njhh",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
-    },
-    {
       "added_at": "2021-03-15 19:25:13",
       "album": {
         "name": "Loving is Easy",
@@ -547,6 +531,22 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2022-07-07 04:00:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
         "name": "finding it hard to smile",
         "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Dirty Paws",
-      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+      "duration_ms": 278373,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-07 04:00:00",
       "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Feel It All Around",
-      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
-    },
-    {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 176146,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu"
+    },
+    {
+      "added_at": "2022-07-07 04:00:00",
+      "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Feel It All Around",
+      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Eyelid Movies",
-        "url": "https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "When I'm Small",
-      "url": "https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Sylvan Esso",
         "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 268213,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Eyelid Movies",
+        "url": "https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "When I'm Small",
+      "url": "https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
+      "added_at": "2022-07-07 04:00:00",
       "album": {
-        "name": "When It Was Now",
-        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
       "artists": [
         {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Trojans",
-      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
+      "duration_ms": 352003,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
     }
   ],
   "unique_name": " Indie Pop 2010s",

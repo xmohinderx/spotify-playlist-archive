@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,319 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,360 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 15 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
 | 16 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 17 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 |
-| 18 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
-| 19 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 |
+| 18 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 |
+| 19 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
 | 20 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 |
 | 21 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 |
 | 22 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 34 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 |
 | 35 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
 | 36 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 |
-| 37 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
-| 38 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 |
+| 37 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 |
+| 38 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
 | 39 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 |
 | 40 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 |
 | 41 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 |
-| 42 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 |
-| 43 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 |
-| 44 | [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 |
+| 42 | [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 |
+| 43 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 |
+| 44 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 |
 | 45 | [Say You Will](https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 3:54 |
 | 46 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 |
 | 47 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 |
-| 48 | [True Lies](https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [True Lies](https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV) | 5:51 |
-| 49 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 |
+| 48 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 |
+| 49 | [True Lies](https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [True Lies](https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV) | 5:51 |
 | 50 | [Hard Times](https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:26 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDU2NWM3OTExNTNkMDI2ZmNmYjFjM2YyYmI3ZmVhMmZh`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDY1MTczYmIyM2M5ZWZhZGZiYjhiNDM4OWVlMTBiNDQ5`

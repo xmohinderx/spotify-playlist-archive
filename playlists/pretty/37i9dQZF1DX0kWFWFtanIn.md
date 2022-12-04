@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 
 > The perfect soundtrack to your prenatal yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929 likes - 349 songs - 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936 likes - 349 songs - 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,7 +246,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 | 236 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 |
 | 237 | [Di Sini Dan Kini](https://open.spotify.com/track/5Z6Upi9bxSyk8jQzsF0Cka) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Di Sini Dan Kini](https://open.spotify.com/album/5A9XzJpMCg7JkYibgnfIEh) | 2:23 |
 | 238 | [Moving Through Clouds](https://open.spotify.com/track/0UQw1kJHE2gSO09fpFmuNu) | [Alisa Bergman](https://open.spotify.com/artist/78kBvRbqaSQ4tfv2fAbzHf) | [Moving Through Clouds](https://open.spotify.com/album/1ZHf1bZ7LUFzaeAtAgY0TP) | 2:49 |
-| 239 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Mergen Aurel](https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
+| 239 | [Puesta Del Sol](https://open.spotify.com/track/4LQTYB6AiOSp1XJpvA6ger) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Puesta Del Sol](https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9) | 2:48 |
 | 240 | [Santonana](https://open.spotify.com/track/0r60hv2JqbAk5SsaIrFu7r) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Santonana](https://open.spotify.com/album/7x5QB5SscxxWlaHm5zEWqS) | 3:30 |
 | 241 | [Ending In Mist](https://open.spotify.com/track/1EARYCS97kPiVGEf0wMhQt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Ending In Mist](https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3) | 3:04 |
 | 242 | [Antonia](https://open.spotify.com/track/05yZZGyIAKNaTCkKEXqG0j) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Antonia](https://open.spotify.com/album/7uv8GJfj4qtDMd6E58Bh0s) | 2:58 |

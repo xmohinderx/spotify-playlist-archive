@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > Keep on skating to the groovy boogie
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,479 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,677 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 23 | [The Weekend \- Funk Wav Remix](https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [The Weekend \(Funk Wav Remix\)](https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr) | 2:51 |
 | 24 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 25 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
-| 26 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/5lA3pwMkBdd24StM90QrNR) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 3:58 |
-| 27 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
+| 26 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
+| 27 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/5lA3pwMkBdd24StM90QrNR) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 3:58 |
 | 28 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 29 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
 | 30 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 65 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 66 | [Am I Wrong \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1UjyF6okUHhnVxaLV8ojsA) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 4:13 |
 | 67 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
-| 68 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 |
-| 69 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/7KEguG3CDoestm50v6XET5) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 3:54 |
-| 70 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 68 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 69 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 |
+| 70 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/7KEguG3CDoestm50v6XET5) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 3:54 |
 | 71 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
 | 72 | [Don't Start Now \- Purple Disco Machine Remix](https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 3:36 |
 | 73 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
 | 74 | [Love Come Down](https://open.spotify.com/track/17EVu5b0l5uo2gErSfqEt1) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Get Loose](https://open.spotify.com/album/67OkPxOp2elK66KdSwIyse) | 6:05 |
 | 75 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 |
 
-Snapshot ID: `MTY2OTkzNDEzOSwwMDAwMDAwMDkxOGViMWZjOWRmNjA5MzdlNDJkNWJhNDljNzQxZGQ4`
+Snapshot ID: `MTY2OTkzNDEzOSwwMDAwMDAwMGVlOThiNmNhYWY4MzNmMmIxYzdjN2VlMWNmY2I1ZGE2`

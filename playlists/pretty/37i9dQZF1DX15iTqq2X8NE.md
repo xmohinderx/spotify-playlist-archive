@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,114 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,124 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 10 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
 | 11 | [Dead Body](https://open.spotify.com/track/3uoCwqVCa7AjnHZHHliRxp) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [A 249 Experience, Vol\. 1](https://open.spotify.com/album/5aPoFtmnkmYctV1f1vlVfI) | 3:27 |
 | 12 | [Kabasa](https://open.spotify.com/track/3BWwZO7jEDkJDfEMkcu9VO) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Kabasa](https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6) | 2:47 |
-| 13 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
-| 14 | [Kandaka](https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Kandaka](https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH) | 3:01 |
+| 13 | [Kandaka](https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Kandaka](https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH) | 3:01 |
+| 14 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
 | 15 | [Pablo](https://open.spotify.com/track/4YX2GxGnSl5om1hp7JxwH4) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [Pablo](https://open.spotify.com/album/7yvCJaFB6MLnXbbZvbVk4R) | 2:13 |
 | 16 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 |
 | 17 | [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 39 | [Blue \- COLORS Sudan](https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1) | 2:46 |
 | 40 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 |
 | 41 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
-| 42 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
-| 43 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
+| 42 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
+| 43 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
 | 44 | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/0tSLeFVhJ7zfXzJJpFhoI7) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/5Qm9D2Cgs5yKNuSReeLvTw) | 1:19 |
 | 45 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
 | 46 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 49 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 50 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
 
-Snapshot ID: `MTY2OTMxNjMzNSwwMDAwMDAwMGQyMzU1ODAzNzU4M2U5MjY3OWQ2ZjI5ZmJmMGEzYjFi`
+Snapshot ID: `MTY2OTMxNjMzNSwwMDAwMDAwMDFlYmUzMzlkNTQzOWFjOGQ4ZjQxZTVhYjk5MTcxMjUw`

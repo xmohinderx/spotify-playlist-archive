@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,969 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,083 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 56 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 |
 | 57 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
 | 58 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
-| 59 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
-| 60 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 |
+| 59 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 |
+| 60 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
 | 61 | [All My Loving](https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [All My Loving](https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US) | 2:58 |
 | 62 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 |
 | 63 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
 | 64 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
-| 65 | [Witness \- feat\. Rajiv Dhall](https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt) | 3:33 |
-| 66 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
+| 65 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
+| 66 | [Witness \- feat\. Rajiv Dhall](https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt) | 3:33 |
 | 67 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 |
 | 68 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 |
 | 69 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 81 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 |
 | 82 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 |
 | 83 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
-| 84 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 |
-| 85 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
+| 84 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
+| 85 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 |
 | 86 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |
 | 87 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 |
 | 88 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 |
 | 100 | [Texas Girl](https://open.spotify.com/track/33ADzejAdZCu13hAcnzkIC) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Texas Girl](https://open.spotify.com/album/1CCH7mhb1jy84jMV6Y4xMp) | 2:52 |
 
-Snapshot ID: `MTY2OTY0NjQ3OSwwMDAwMDAwMDU1MzM2ZDYxNzMxZjNiNjE2YzhlZWExZTk0OWExMzJm`
+Snapshot ID: `MTY2OTY0NjQ3OSwwMDAwMDAwMDIwYTMwYTZmODg5NTgyZWUxN2ViYWE2ZjE0YzVlY2Yw`

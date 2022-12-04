@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/>! غلاف: ابو الانوار
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,831 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,129 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 40 | [Saa'e3](https://open.spotify.com/track/0Fbl0jYUJkLzz5BIUJ2t7r) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [OV \(The Mixtape\)](https://open.spotify.com/album/4krw20D1j4humTzgD8l8GM) | 2:51 |
 | 41 | [Roo7](https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Cabina](https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp) | 3:09 |
 | 42 | [Buffon](https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 3:26 |
-| 43 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 |
+| 43 | [كابتن \(feat\. Rafiek\)](https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن \(feat\. Rafiek\)](https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G) | 2:58 |
 | 44 | [Wasa3](https://open.spotify.com/track/2Zo8Kn2PslabnsvrouOJxk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Wasa3](https://open.spotify.com/album/1MtIYYteuLNUM2EBUJt0wU) | 2:09 |
 | 45 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 |
 | 46 | [Matgreesh](https://open.spotify.com/track/3RKzFNbYS8iiBGJCrfbVbb) | [VLI WEEZY](https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Matgreesh](https://open.spotify.com/album/0ChMqRWMDlD6RVyl1EOguu) | 3:24 |
 | 47 | [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 |
 | 48 | [No Problema](https://open.spotify.com/track/3ULltzFiFkQO1ojly0zUh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [No Problema](https://open.spotify.com/album/1LgemKfJ05vDyUePTOr1gv) | 2:18 |
-| 49 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 |
+| 49 | [متجلونش \(feat\. EL Waili\)](https://open.spotify.com/track/3BryCsgMtODlRpRIzsa4wF) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [متجلونش \(feat\. EL Waili\)](https://open.spotify.com/album/26ZLUpGMZDZUEet4BTeE9U) | 3:09 |
 | 50 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 |
 
-Snapshot ID: `MTY2OTY0ODUxMCwwMDAwMDAwMGZlZjM1ZWM1OTU4Yjc0ZjkyMWE5YTI3YTU4YzY2MmY2`
+Snapshot ID: `MTY2OTY0ODUxMCwwMDAwMDAwMDQ2MzI5NzZlYzhhNmRmZWMzOGJiMjdjNWIyMzIzNGIz`

@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-111 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
+112 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/1cEBRYgZgK9KzFILZUB2YC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2022-01-14 | 2022-07-29 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 | 2022-07-08 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/6twHO7BEWWdBvYzJ1PAxPJ) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Niños A Bailar Vol\. 4](https://open.spotify.com/album/4bAoIi4Ux7F5lGf3JQQTWn) | 4:26 | 2022-09-23 | 2022-11-13 |
-| [Olvidate](https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Martín Piña](https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g) | [Olvidate](https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW) | 3:57 | 2022-01-14 |  |
+| [Olvidate](https://open.spotify.com/track/55qtkVCefp1ayMMX29w44d) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Martín Piña](https://open.spotify.com/artist/1TndreWtLjfAlywnkm966g) | [Olvidate](https://open.spotify.com/album/2RXjWfynHKQteGUCxDzmFW) | 3:57 | 2022-01-14 | 2022-12-04 |
+| [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 | 2022-12-02 |  |
 | [Orgulloso](https://open.spotify.com/track/6LAZIsZlV9rIvlAQLqjV5v) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Orgulloso](https://open.spotify.com/album/1nYoj6JmXJyFa76uEtCBZo) | 2:58 | 2022-01-14 | 2022-07-28 |
 | [Perdoname](https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Perdoname](https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI) | 3:37 | 2022-01-14 |  |
 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 | 2022-01-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,902 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,048 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 60 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
 | 61 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 |
 | 62 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 |
-| 63 | [9 and Three Quarters \(Run Away\)](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:31 |
+| 63 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 |
 | 64 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
-| 65 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 |
+| 65 | [9 and Three Quarters \(Run Away\)](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:31 |
 | 66 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
 | 67 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 |
 | 68 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 | 69 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 |
 | 70 | [To My Youth](https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:42 |
 
-Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMDY5ZjM4ZmNhMzFhODVhYTYxNTA0NzQ2MDQzYjkzYWU5`
+Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMDRlM2IyNGMwM2JlNmRiNTNkYmNhNDZhZThmMjVlZGIz`

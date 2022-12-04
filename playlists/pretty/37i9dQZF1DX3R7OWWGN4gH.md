@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > Lately I've been dressing for revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,105 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,583 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 38 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 |
 | 39 | [I Did Something Bad](https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:58 |
 | 40 | [I See Red](https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh) | [Everybody Loves an Outlaw](https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW) | [I See Red](https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY) | 3:50 |
-| 41 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
+| 41 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
 | 42 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 |
-| 43 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
+| 43 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
 | 44 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 |
 | 45 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 |
 | 46 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 68 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
 | 69 | [Cradles](https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX) | 3:29 |
 | 70 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 |
-| 71 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 |
-| 72 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
+| 71 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
+| 72 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 |
 | 73 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
-| 74 | [Control](https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:34 |
+| 74 | [Michelle](https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR) | 3:34 |
 | 75 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 |
-| 76 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
-| 77 | [Michelle](https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR) | 3:34 |
+| 76 | [Control](https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:34 |
+| 77 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
 | 78 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
 | 79 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
 | 80 | [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 91 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 |
 | 92 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 |
 | 93 | [Luxury](https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:48 |
-| 94 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
-| 95 | [Class Fight](https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:41 |
+| 94 | [Class Fight](https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:41 |
+| 95 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 96 | [THAT BITCH](https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [THAT BITCH](https://open.spotify.com/album/0kP7zWftghSBU2HVkjzcnP) | 3:21 |
 | 97 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 |
 | 98 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 |
 | 99 | [Candy Store](https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx) | [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:52 |
 | 100 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 
-Snapshot ID: `MTY2OTY1ODUyMCwwMDAwMDAwMGU0MjAxYzJkMDkyNmY1OWU2MDZiNTJmMjg4MmEwN2Fk`
+Snapshot ID: `MTY2OTY1ODUyMCwwMDAwMDAwMGI5MmM1MzE2NmVhOTcyNGNlNWQxNDQ4OTllMTg4NmI2`

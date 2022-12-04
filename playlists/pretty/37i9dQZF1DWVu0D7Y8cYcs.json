@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 456679,
+  "num_followers": 456760,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDE3NmY4ODc2Njc1OGRmMGIxM2Y4ODMxYTcxOGJiZWQw",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDEwNWIzMWUwNjhhNDE4MGFjNDdkYjgzNjUzYWJhMDI2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Best of The Maytals",
-        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "It Must Be True Love",
-      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
         "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 180066,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
     },
     {
       "added_at": "2022-10-13 23:00:00",

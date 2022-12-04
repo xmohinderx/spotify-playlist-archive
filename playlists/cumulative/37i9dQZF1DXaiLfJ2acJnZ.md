@@ -4,7 +4,7 @@
 
 > Lovely, pop\-filled, fun.
 
-207 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
+208 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 | 2022-10-28 |  |
 | [Blue Ghost](https://open.spotify.com/track/5OgJJRTa0jvgri1ZFC17Ip) | [Rushes](https://open.spotify.com/artist/7uC2mHk7XiLKrePh3kiDlN) | [Blue Ghost](https://open.spotify.com/album/36XHQF2eHqvo1RkIagwhxq) | 3:54 | 2021-11-25 | 2022-07-28 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2022-09-23 | 2022-12-01 |
+| [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 | 2022-10-28 |  |
 | [Bottled Up](https://open.spotify.com/track/62OhbVFaFnxYDhz07TdTnV) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Bottled Up](https://open.spotify.com/album/3sSwZcy3p5NVyKT28C1AnT) | 3:09 | 2022-10-28 | 2022-11-13 |
 | [Break Her Heart](https://open.spotify.com/track/0dN4xcgktuAmQNGaPQR5Fz) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Break Her Heart](https://open.spotify.com/album/2wFl2VCAHpU7eGqhwoF2Ye) | 2:59 | 2021-11-25 | 2022-08-12 |
 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-11-25 |  |
@@ -39,7 +40,7 @@
 | [Charlie Be Quiet!](https://open.spotify.com/track/2NGPPfcQfNm3f2ym3WHBuf) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:08 | 2022-10-28 |  |
 | [Chelsea](https://open.spotify.com/track/2KD5oFo4gCT0DgimjizzcM) | [Slim Gabriel](https://open.spotify.com/artist/2V1pidmyk9HpSXo1CvxxwI) | [Chelsea](https://open.spotify.com/album/67ag6hxyhtiijHs7QGFYZ4) | 3:27 | 2021-11-25 | 2022-07-28 |
 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 | 2021-11-25 |  |
-| [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 | 2022-10-28 |  |
+| [Cloudy Day \- Acoustic](https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day \(Acoustic\)](https://open.spotify.com/album/6YylQu9Z1X9Vw3PUaIQGWJ) | 3:05 | 2022-10-28 | 2022-12-04 |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-11-25 | 2022-07-29 |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-11-25 |  |
 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 | 2022-01-21 |  |

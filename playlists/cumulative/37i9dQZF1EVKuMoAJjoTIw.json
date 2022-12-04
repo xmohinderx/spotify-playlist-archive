@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 220239,
       "name": "A Drop in the Ocean",
       "url": "https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392826,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
+    },
+    {
+      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
       },
@@ -263,7 +281,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
@@ -281,7 +299,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 180933,
       "name": "Bored",
       "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
@@ -335,7 +353,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 200672,
       "name": "Broken",
       "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
@@ -357,6 +375,24 @@
       "duration_ms": 220492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246880,
+      "name": "Can I Be Him",
+      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
     },
     {
       "album": {
@@ -447,7 +483,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 189000,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
@@ -465,7 +501,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
@@ -483,7 +519,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 197732,
       "name": "Dancing With Your Ghost",
       "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
@@ -501,7 +537,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 89624,
       "name": "Dead and Cold",
       "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
@@ -537,7 +573,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 144733,
       "name": "Depression & Obsession",
       "url": "https://open.spotify.com/track/2H3wWrnO758y0fPH7Ilerg"
@@ -555,7 +591,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
@@ -591,7 +627,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 95466,
       "name": "Everybody Dies In Their Nightmares",
       "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
@@ -609,7 +645,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 240133,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
@@ -649,7 +685,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 152666,
       "name": "favorite crime",
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
@@ -707,7 +743,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 146520,
       "name": "Fuck Love (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
@@ -754,6 +790,24 @@
     },
     {
       "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -765,7 +819,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 179120,
       "name": "Half A Man",
       "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
@@ -891,7 +945,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 205686,
       "name": "Hold Me While You Wait",
       "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
@@ -945,10 +999,54 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
+    },
+    {
+      "album": {
+        "name": "I Can't Carry This Anymore",
+        "url": "https://open.spotify.com/album/51FT0jxpcACduSG3w3NiFL"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "I Can't Carry This Anymore",
+      "url": "https://open.spotify.com/track/2vzWylXWogTG11HR0frews"
+    },
+    {
+      "album": {
+        "name": "tape for when i'm sad",
+        "url": "https://open.spotify.com/album/1EeYJrmjXcqx5PCZWu6WV1"
+      },
+      "artists": [
+        {
+          "name": "itssvd",
+          "url": "https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C"
+        },
+        {
+          "name": "CORBAL",
+          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84176,
+      "name": "i don't feel part of the world anymore",
+      "url": "https://open.spotify.com/track/11iiMB7TmFTtaXT4YJAltw"
     },
     {
       "album": {
@@ -1003,7 +1101,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
@@ -1050,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "deadroses",
+        "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245172,
+      "name": "idfc",
+      "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
+    },
+    {
+      "album": {
         "name": "Dangerous Levels of Introspection",
         "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
       },
@@ -1065,7 +1181,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 209493,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h"
@@ -1083,7 +1199,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -1101,7 +1217,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -1155,10 +1271,32 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 119133,
       "name": "Jocelyn Flores",
       "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275194,
+      "name": "Jugaste y Sufr\u00ed",
+      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
     },
     {
       "album": {
@@ -1191,7 +1329,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -1209,7 +1347,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
@@ -1267,6 +1405,28 @@
       "duration_ms": 144377,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
+    },
+    {
+      "album": {
+        "name": "Passion & Confusion",
+        "url": "https://open.spotify.com/album/5unak64thjeLQpZqSONKqz"
+      },
+      "artists": [
+        {
+          "name": "Timmies",
+          "url": "https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117916,
+      "name": "Loosing Interest",
+      "url": "https://open.spotify.com/track/2DIFiLjzVxSUc7YY2k7WDA"
     },
     {
       "album": {
@@ -1329,7 +1489,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 276066,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
@@ -1369,7 +1529,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 176971,
       "name": "Love Is Gone - Acoustic",
       "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
@@ -1391,7 +1551,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -1409,7 +1569,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -1427,7 +1587,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 201016,
       "name": "Moral of the Story",
       "url": "https://open.spotify.com/track/69HzZ3ti9DLwb0GdWCGYSo"
@@ -1445,7 +1605,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 172514,
       "name": "NIGHTS LIKE THESE",
       "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
@@ -1463,7 +1623,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 175253,
       "name": "Nobody Cares",
       "url": "https://open.spotify.com/track/4l2soLCGAoYvSKGyqFtsbJ"
@@ -1535,7 +1695,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
@@ -1553,7 +1713,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
@@ -1571,7 +1731,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 270453,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
@@ -1614,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
         "name": "Somewhere Somehow",
         "url": "https://open.spotify.com/album/2hc2nl6opteMmG3LCDVt0e"
       },
@@ -1629,7 +1807,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/05CrK6Q5VGtfPDtyQFJ4Kf"
@@ -1647,7 +1825,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 166605,
       "name": "SAD!",
       "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
@@ -1665,7 +1843,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 163201,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/2UwbhMie1EAYuTZ0QXeMwl"
@@ -1741,10 +1919,50 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 189613,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
+    },
+    {
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "album": {
+        "name": "...As Heard In",
+        "url": "https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct"
+      },
+      "artists": [
+        {
+          "name": "Ben Cocks",
+          "url": "https://open.spotify.com/artist/7yNYyqPx2N4tCfE8omk9pZ"
+        },
+        {
+          "name": "Nikisha Reyes-Pile",
+          "url": "https://open.spotify.com/artist/3TyzFhjcE4DtMNc5edayQl"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "So Cold (The Good Wife Trailer)",
+      "url": "https://open.spotify.com/track/6eLOyOwKUJvjN0f9equFf8"
     },
     {
       "album": {
@@ -1777,10 +1995,28 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "album": {
+        "name": "hopeless fountain kingdom (Deluxe)",
+        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220540,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK"
     },
     {
       "album": {
@@ -1831,7 +2067,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 221106,
       "name": "Supermarket Flowers",
       "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
@@ -1849,7 +2085,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 183103,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
@@ -1907,7 +2143,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 175026,
       "name": "that way",
       "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
@@ -1925,7 +2161,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -1943,7 +2179,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 160184,
       "name": "the remedy for a broken heart (why am I so in love)",
       "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"
@@ -1968,6 +2204,28 @@
     },
     {
       "album": {
+        "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371320,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK"
+    },
+    {
+      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -1979,7 +2237,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 208826,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
@@ -2051,7 +2309,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 179094,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
@@ -2077,7 +2335,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 120189,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/6mhMFztI38c0CZr8CEnPrD"
@@ -2099,6 +2357,24 @@
       "duration_ms": 218893,
       "name": "Water Fountain",
       "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
+    },
+    {
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
     },
     {
       "album": {
@@ -2185,7 +2461,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 204326,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B"
@@ -2203,7 +2479,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
@@ -2225,7 +2501,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 103400,
       "name": "You Broke My Heart Again",
       "url": "https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE"
@@ -2247,7 +2523,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"

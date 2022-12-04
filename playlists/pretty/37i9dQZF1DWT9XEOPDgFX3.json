@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Field Medic",
-  "num_followers": 54477,
+  "num_followers": 54594,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDM0M2UxYjQ3ZWQ1ZDhhMDliZjljZDZiMWJlZTllMDEx",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDE2NmU5ZDcwYjQ4ZmFjYzJmYTNhOWVmY2MzZTBlYTI0",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "I'm Not Like Alice",
+        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 136153,
+      "name": "I'm Not Like Alice",
+      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Mess Esque",
         "url": "https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "I'm Not Like Alice",
-        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
       "artists": [
         {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 136153,
-      "name": "I'm Not Like Alice",
-      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Sucker's Lunch",
-        "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Kenney",
-          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
-        }
-      ],
-      "duration_ms": 283370,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Sucker's Lunch",
+        "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Kenney",
+          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
+        }
+      ],
+      "duration_ms": 283370,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 209826,
       "name": "Michelangelo",
       "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Yeehoo!",
+        "url": "https://open.spotify.com/album/425NhcK8beUulJGrT4duTL"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "duration_ms": 208846,
+      "name": "Yeehoo!",
+      "url": "https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Yeehoo!",
-        "url": "https://open.spotify.com/album/425NhcK8beUulJGrT4duTL"
-      },
-      "artists": [
-        {
-          "name": "Lauren Juzang",
-          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
-        }
-      ],
-      "duration_ms": 208846,
-      "name": "Yeehoo!",
-      "url": "https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Go",
-          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
-        }
-      ],
-      "duration_ms": 294772,
-      "name": "Be the Player, Not the Poet",
-      "url": "https://open.spotify.com/track/0a2TpHXGLcNJ9ZzsLkpCu2"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Old Peel",
         "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Go",
+          "url": "https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC"
+        }
+      ],
+      "duration_ms": 294772,
+      "name": "Be the Player, Not the Poet",
+      "url": "https://open.spotify.com/track/0a2TpHXGLcNJ9ZzsLkpCu2"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Geist",
         "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Plastic Bouquet",
         "url": "https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "The Monster Who Hated Pennsylvania",
-        "url": "https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs"
-      },
-      "artists": [
-        {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        }
-      ],
-      "duration_ms": 167173,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Less Ready to Go",
-        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
+        "name": "The Monster Who Hated Pennsylvania",
+        "url": "https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
         }
       ],
-      "duration_ms": 267870,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
+      "duration_ms": 167173,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Let The Radio Play",
-        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+        "name": "Less Ready to Go",
+        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
       },
       "artists": [
         {
-          "name": "Reverend Baron",
-          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 209634,
-      "name": "Let The Radio Play",
-      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+      "duration_ms": 267870,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 278316,
       "name": "Rare to Wake",
       "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Let The Radio Play",
+        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+      },
+      "artists": [
+        {
+          "name": "Reverend Baron",
+          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+        }
+      ],
+      "duration_ms": 209634,
+      "name": "Let The Radio Play",
+      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Red Bird Pt. 2 (Morning)",
         "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 326156,
       "name": "Red Bird Pt. 2 (Morning)",
       "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Whole New Mess",
-        "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Whole New Mess",
-      "url": "https://open.spotify.com/track/7G2qiNMmclEQvBI5QiVKvs"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "VBS",
         "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Whole New Mess",
+        "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Whole New Mess",
+      "url": "https://open.spotify.com/track/7G2qiNMmclEQvBI5QiVKvs"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "the sum of the in-between",
         "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
       },
@@ -1879,18 +1895,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+        "name": "Whole New Mess",
+        "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
       },
       "artists": [
         {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
         }
       ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+      "duration_ms": 232160,
+      "name": "Waving, Smiling",
+      "url": "https://open.spotify.com/track/4hJEhCACCeA8U4CyTP4BDw"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1927,22 +1943,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Whole New Mess",
-        "url": "https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Waving, Smiling",
-      "url": "https://open.spotify.com/track/4hJEhCACCeA8U4CyTP4BDw"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
@@ -1955,22 +1955,6 @@
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Memory of a Cut off Head",
-        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
-      },
-      "artists": [
-        {
-          "name": "OCS",
-          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
-        }
-      ],
-      "duration_ms": 287280,
-      "name": "Memory of a Cut off Head",
-      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1991,18 +1975,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW"
+        "name": "Memory of a Cut off Head",
+        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
       },
       "artists": [
         {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
         }
       ],
-      "duration_ms": 355366,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT"
+      "duration_ms": 287280,
+      "name": "Memory of a Cut off Head",
+      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2019,6 +2003,22 @@
       "duration_ms": 247756,
       "name": "Pareidolia",
       "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 355366,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT"
     },
     {
       "added_at": "2022-12-02 05:00:00",

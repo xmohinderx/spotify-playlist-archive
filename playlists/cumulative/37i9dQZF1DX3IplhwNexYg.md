@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Jadu Heart
 
-335 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+336 songs - 18 hr 58 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 | 2022-04-01 | 2022-08-19 |
 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 | 2022-10-06 |  |
 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-08-18 | 2022-12-01 |
+| [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 | 2022-11-25 |  |
 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-08-18 | 2022-08-29 |
 | [I'll Make You Sorry](https://open.spotify.com/track/3d0BFjnCZeU2h3Dy7Ub56q) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/27WCDmHjVFzzdhxjqMKDgD) | 4:11 | 2021-03-09 | 2022-01-17 |
 | [I'm Just High](https://open.spotify.com/track/2NgyQkXw3foUsZHlbwg4jA) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Dreams, Pains & Paper Planes](https://open.spotify.com/album/1U7H0RCYbuyJi5rgbQwbPV) | 3:21 | 2022-10-06 |  |
@@ -215,7 +216,7 @@
 | [Ms\. California](https://open.spotify.com/track/0WxZEci23tWn1YzikUljEt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Ms\. California](https://open.spotify.com/album/69vZJh3B8Dvjl7yUU0Eb5v) | 2:52 | 2021-03-09 | 2022-01-17 |
 | [Narration of a Lost Millennial](https://open.spotify.com/track/7iQfH9grc0jwbbPOuUZSSw) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Anti Teenage Sensation \(The Part Where Julia Dies\)](https://open.spotify.com/album/1jZfZrwSmI6TnXrxY5lnk2) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [Nervous](https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb) | [HUSHPUPPY](https://open.spotify.com/artist/40OzWU8bIYirFgmNSy6qct) | [Nervous](https://open.spotify.com/album/3qLRGWTOndzbYgUDi2kd85) | 1:30 | 2022-03-10 | 2022-09-02 |
-| [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 | 2022-08-18 |  |
+| [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 | 2022-08-18 | 2022-12-04 |
 | [Night Sweats \- Edit](https://open.spotify.com/track/3xC3BD4TNapP4PNOtMgTpH) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [Night Sweats \(Edit\) / SPF](https://open.spotify.com/album/4f36muAgsiBsQG1zVkRFuJ) | 2:46 | 2021-03-09 | 2022-01-17 |
 | [Nighttime](https://open.spotify.com/track/73Hh7xuXyKdBChmavyFz0b) | [Fresh](https://open.spotify.com/artist/0q2GJGveytu4IRflsL05Xg) | [Daytime / Nighttime](https://open.spotify.com/album/5ZlFbKdcEz3B8dz1i8x65B) | 2:42 | 2021-03-09 | 2022-01-17 |
 | [No Driver](https://open.spotify.com/track/3MdmCprLdNoUQoobk2wBWw) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [No Driver](https://open.spotify.com/album/3EU4oLHfxIHLnJjtUvKFaX) | 4:05 | 2022-08-18 | 2022-10-14 |

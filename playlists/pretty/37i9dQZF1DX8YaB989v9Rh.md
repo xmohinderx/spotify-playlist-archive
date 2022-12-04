@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/blaircaldwell/">Blair Caldwell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,459 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,500 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 29 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
 | 30 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
 | 31 | [They Don't Know](https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:34 |
-| 32 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 |
-| 33 | [Can't Leave 'Em Alone \(feat\. 50 Cent\)](https://open.spotify.com/track/78CTv7ypHvXQlEjXYst2n9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:04 |
-| 34 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
-| 35 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
-| 36 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
-| 37 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 |
-| 38 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 |
+| 32 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 |
+| 33 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 |
+| 34 | [Can't Leave 'Em Alone \(feat\. 50 Cent\)](https://open.spotify.com/track/78CTv7ypHvXQlEjXYst2n9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:04 |
+| 35 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
+| 36 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
+| 37 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 38 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 |
 | 39 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
 | 40 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
 | 41 | [Before You Walk Out of My Life](https://open.spotify.com/track/6xrvubhznLOcEO3AM6XBN2) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 49 | [Number One \(feat\. Kanye West\)](https://open.spotify.com/track/3zQGmJ4k3JeqwAjfrEcwHp) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:18 |
 | 50 | [Full Moon](https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:08 |
 
-Snapshot ID: `MTY2NDY0MDgwOCwwMDAwMDAwMDE2Y2RlZWRiNWFjYzU0ZGMwYzM4OGY2MDNkN2I3OTFj`
+Snapshot ID: `MTY2NDY0MDgwOCwwMDAwMDAwMDYyODJmMmVhOWIxNDQwMmZlNTE5MGE5ZjZlNjczMmYx`

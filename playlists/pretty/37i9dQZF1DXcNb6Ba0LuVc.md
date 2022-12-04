@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,153 likes - 199 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,390 likes - 199 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 73 | [Feeling Good](https://open.spotify.com/track/3GDDKwA1fWyuV1SlUYteUQ) | [Soul Jungle](https://open.spotify.com/artist/58IG1qa1HOhsjcMqnB4rU0) | [Feeling Good](https://open.spotify.com/album/6grNgnjjemsNK87FfdWxQT) | 2:17 |
 | 74 | [Coffee Bar](https://open.spotify.com/track/7LnYs3WmQFJvwAKWDHhfws) | [Yung Dark](https://open.spotify.com/artist/0FEEkPEuD7LFWz6peeJlIY) | [Coffee Bar](https://open.spotify.com/album/5VsoeebTt6J7pvHcR0w8Mm) | 2:08 |
 | 75 | [1999](https://open.spotify.com/track/5ROGipdo5HwRSp3olANTFa) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG) | [Nostalgia](https://open.spotify.com/album/5p9RXLrMutf2dBgcIxczp2) | 1:24 |
-| 76 | [Fiesta Siesta](https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue) | [Mojo Rojo](https://open.spotify.com/artist/1EUmokQ0A5FeDfuXb5IzJ8) | [Fiesta Siesta](https://open.spotify.com/album/4cp82gqMhMVUrGW6zFDuea) | 2:18 |
+| 76 | [Fiesta Siesta](https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Fiesta Siesta](https://open.spotify.com/album/4cp82gqMhMVUrGW6zFDuea) | 2:18 |
 | 77 | [Sunny Side](https://open.spotify.com/track/1JywCZds4lp3TBWaWX9VCc) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sunny Side](https://open.spotify.com/album/1buEFrWsBE4b1sovzufwle) | 2:14 |
 | 78 | [Alright](https://open.spotify.com/track/0mol5d2VyGgrqArkzguhWv) | [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Alright](https://open.spotify.com/album/5x3axzg6ulLrCmhl4H35Aa) | 2:37 |
 | 79 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 |

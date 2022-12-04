@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,266 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,293 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 16 | [Ms\. Moon](https://open.spotify.com/track/3HFDfyuMD3UU51G0AIfeTa) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:33 |
 | 17 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 |
 | 18 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
-| 19 | [un día en París](https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [un día en París](https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo) | 4:02 |
-| 20 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
+| 19 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
+| 20 | [un día en París](https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [un día en París](https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo) | 4:02 |
 | 21 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 |
 | 22 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 |
 | 23 | [\- es + \(menos es más\)](https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [\- es + \(menos es más\)](https://open.spotify.com/album/1y0JGvEzLx4z5kW1RbJaJA) | 2:59 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 39 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
 | 40 | [Despejao](https://open.spotify.com/track/647jFWacZ3OiV3OmKhbu4q) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Despejao](https://open.spotify.com/album/6H4XoMzMjFlmLVprP5lGFb) | 2:46 |
 | 41 | [todo bien :\-\)](https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [todo bien :\-\)](https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS) | 2:56 |
-| 42 | [desde arriba](https://open.spotify.com/track/1vcN4qmLq4loYfEopGLGap) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [desde arriba](https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX) | 4:44 |
-| 43 | [Nostalgia](https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Nostalgia](https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh) | 3:39 |
+| 42 | [Nostalgia](https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Nostalgia](https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh) | 3:39 |
+| 43 | [desde arriba](https://open.spotify.com/track/1vcN4qmLq4loYfEopGLGap) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [desde arriba](https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX) | 4:44 |
 | 44 | [Todo Es Perfecto](https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Todo Es Perfecto](https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp) | 3:31 |
-| 45 | [RQR](https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [RQR](https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb) | 2:57 |
-| 46 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
+| 45 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
+| 46 | [RQR](https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [RQR](https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb) | 2:57 |
 | 47 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 |
 | 48 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 |
-| 49 | [Verbenas](https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Verbenas](https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC) | 4:13 |
-| 50 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 |
+| 49 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 |
+| 50 | [Verbenas](https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Verbenas](https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC) | 4:13 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMGQ2OWU2YjJjMTdmNmI4MzQ1MjFhNTA3OWEyY2NkNmEw`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDU2NjU1NDc5NGU4MTYzNDJmMjFhMjVmZTg0ZmNmZmU3`

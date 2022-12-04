@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,448 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,478 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 24 | [Tu abandono](https://open.spotify.com/track/7IIB1aFag7RDTEPZW0z00Q) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:09 |
 | 25 | [Chaparra de mi amor](https://open.spotify.com/track/5PurlLJkzmW8kSj8fO0cHR) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 1:48 |
 | 26 | [El viejo joven](https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:38 |
-| 27 | [Usted](https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:52 |
+| 27 | [Mi chica ideal](https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. I](https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2) | 2:34 |
 | 28 | [Cumbia torera](https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:57 |
 | 29 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
 | 30 | [Mi tesoro](https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:32 |
-| 31 | [Mi chica ideal](https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. I](https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2) | 2:34 |
+| 31 | [Usted](https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:52 |
 | 32 | [Motivos](https://open.spotify.com/track/65lfzguWycfHortBjpZAwr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:08 |
 | 33 | [Y la quiere Paco](https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:35 |
 | 34 | [Esclavo y amo](https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 49 | [Vivir sin ella](https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:51 |
 | 50 | [La Novia Coja](https://open.spotify.com/track/27PkP7nu6jxF0mJ0SxRYXR) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 3:09 |
 
-Snapshot ID: `Mjc4MzMzODgsMDAwMDAwMDA1NzI0OWI1NDJiMzQ0Zjc3OGViMGJhOWFmYjI5MTJkOA==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDA0ZDM4YzRjY2E1NzM5ZWM4NmViNjQ3MGMxYzc2NjY5OQ==`

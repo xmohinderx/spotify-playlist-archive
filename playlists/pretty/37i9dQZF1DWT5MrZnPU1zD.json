@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1640973,
+  "num_followers": 1641068,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDY5NjI1MTViYWQ3ODdmYjlmMTA1OGZmNmRjZTRjM2M3",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDQyYjU2ZWZiYWNkMmNhYjM3N2VhNmI5YzIxMDJkYjUz",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -20,20 +20,20 @@
           "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
         },
         {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
           "name": "Babyface Ray",
           "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         },
         {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
         }
       ],
       "duration_ms": 238421,
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Detox",
@@ -935,26 +951,6 @@
       "duration_ms": 161636,
       "name": "Detox",
       "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Nothing Changed",
-        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Nothing Changed",
-      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -977,22 +973,6 @@
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Fighting Demons (Deluxe)",
@@ -1007,6 +987,26 @@
       "duration_ms": 259672,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1209,26 +1209,6 @@
       "url": "https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Hold That Heat (feat. Travis Scott)",
@@ -1251,6 +1231,26 @@
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1295,54 +1295,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "U-Digg (feat. 42 Dugg & Veeze)",
-        "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "U-Digg (feat. 42 Dugg & Veeze)",
-      "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -1375,6 +1327,30 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "U-Digg (feat. 42 Dugg & Veeze)",
+        "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "U-Digg (feat. 42 Dugg & Veeze)",
+      "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Come Through (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 112613,
       "name": "Come Through (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "The Last Slimeto",
         "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 129638,
       "name": "Faster",
       "url": "https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Haitian Scarface",
         "url": "https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 145245,
       "name": "Haitian Scarface",
       "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Baby On Baby 2",
-        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 171123,
-      "name": "SOCKS",
-      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 151285,
-      "name": "NO TRENDS",
-      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
+      "duration_ms": 171123,
+      "name": "SOCKS",
+      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Blockchain",
+        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 195153,
+      "name": "LLC (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "TO THE MOON (Gunna Remix)",
         "url": "https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 166797,
       "name": "TO THE MOON - Gunna Remix",
       "url": "https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Blockchain",
-        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 195153,
-      "name": "LLC (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1925,20 +1925,24 @@
       "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
     },
     {
-      "added_at": "2022-10-14 19:06:53",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Creepers",
-        "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         }
       ],
-      "duration_ms": 111020,
-      "name": "Creepers",
-      "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
     }
   ],
   "unique_name": "Hip Hop Controller",

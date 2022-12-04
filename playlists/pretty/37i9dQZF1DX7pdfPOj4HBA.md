@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 
 > chill vibes ♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,679 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,693 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 3 | [Love Less](https://open.spotify.com/track/6q8Gm9nwtl9ibUwyjj9C51) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Love Less](https://open.spotify.com/album/4fQNJvVeDxkEYen6T4tAPv) | 3:25 |
 | 4 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0prbvDtiY8FrZKEj8LF4Rs) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/02SRvzvwKNQJpqjdehWAif) | 3:12 |
 | 5 | [All Tinted](https://open.spotify.com/track/3ZS6nAQHjvHezX2ncHma2s) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/7adiBGuL9uUEDtGlwkplZf) | 3:17 |
-| 6 | [On Me](https://open.spotify.com/track/4pRTJT48FTbURaikYmSCYh) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Chaos](https://open.spotify.com/album/3kAct6tEw1Lc1TGy5Vv1OI) | 2:28 |
+| 6 | [On Me](https://open.spotify.com/track/1VTF2L9xSLpPs4qjLbYW2f) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [On Me](https://open.spotify.com/album/0z8w8HFm5pMNauf8NctcWj) | 2:28 |
 | 7 | [Remember Summer Days \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [杏里 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz) | 3:46 |
 | 8 | [Femme Like U \(feat\. Emma Peters\)](https://open.spotify.com/track/670E2HDx684Yq0rhf84CQc) | [Monaldin](https://open.spotify.com/artist/1Ngs1vi6M75StypXQdB6su), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Femme Like U \(feat\. Emma Peters\)](https://open.spotify.com/album/4JLvy9j6VMshaXXGsRt7lp) | 2:17 |
 | 9 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 50 | [Bravo](https://open.spotify.com/track/7Fj100bgen9smuQzFdZYM3) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [Bravo](https://open.spotify.com/album/2yCwBfb6fy9kQ5JWXUrpZX) | 3:33 |
 | 51 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
 
-Snapshot ID: `MTY2ODc2OTIwMCwwMDAwMDAwMDNjYTM2Y2U2ZmY1ZDdjMDZlY2UxYTAzOTBmYzViNzk0`
+Snapshot ID: `MTY2ODc2OTIwMCwwMDAwMDAwMGUyYWY1MmVkNTI4NDBhM2UzOTRmZmE2YWIwYTFkZjgx`

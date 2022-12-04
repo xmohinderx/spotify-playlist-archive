@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,319 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,386 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 70 | [Still](https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Still](https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS) | 4:16 |
 | 71 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
 | 72 | [I'm Listening \- Live](https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 4:45 |
-| 73 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
-| 74 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
+| 73 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
+| 74 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
 | 75 | [Every Beat \(feat\. Seth Condrey\)](https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Nothing Ordinary](https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM) | 3:37 |
 | 76 | [Exalted Over All \- Live](https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 6:23 |
 | 77 | [Fountains](https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 5:35 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 86 | [Valley \- Live](https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Valley \(Live\)](https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n) | 4:51 |
 | 87 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 |
 | 88 | [A Thousand More \- Live](https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y) | 5:59 |
-| 89 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
-| 90 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
-| 91 | [Come To Jesus \(Reconciliation Hymn\)](https://open.spotify.com/track/4tFOi2oVttR898yfx1TYXs) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Come to Jesus \(Reconciliation Hymn\)](https://open.spotify.com/album/0S8jHEfJD9U72PUj4VZTWR) | 5:17 |
+| 89 | [Come To Jesus \(Reconciliation Hymn\)](https://open.spotify.com/track/4tFOi2oVttR898yfx1TYXs) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Come to Jesus \(Reconciliation Hymn\)](https://open.spotify.com/album/0S8jHEfJD9U72PUj4VZTWR) | 5:17 |
+| 90 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
+| 91 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word \(Live\)](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 | 92 | [Always Loved Me](https://open.spotify.com/track/2fepfnn0tCwSSAVReXQpPh) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:16 |
 | 93 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
 | 94 | [Jesus, You're Beautiful \(Live\)](https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM) | [Onething Live](https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa), [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Love Makes Us Strong \(Live\)](https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX) | 7:28 |
 | 95 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 96 | [This Is Love \- Live](https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV) | [This Is Love \(Live\)](https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI) | 5:20 |
-| 97 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
-| 98 | [Abraham](https://open.spotify.com/track/3zfgd4lsN0OJh4t4oYpdFo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:32 |
+| 97 | [Abraham](https://open.spotify.com/track/3zfgd4lsN0OJh4t4oYpdFo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:32 |
+| 98 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
 | 99 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 | 100 | [No Other](https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Clarity](https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup) | 3:52 |
 
-Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMGY4ZTdjYTZlODJlYTUyNDZjMWViOWE4N2QyZWNkNjM2`
+Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDkxYjVkOTEyMWM3MTc5ZjUxYTE3ODJlYWRmMjJlMTZj`

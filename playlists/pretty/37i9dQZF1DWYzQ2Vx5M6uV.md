@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ir Sais, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,820 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,860 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 46 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 |
 | 47 | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Obrinn](https://open.spotify.com/artist/50jpd7AIFmv5ki7QBv2WgY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V) | 3:51 |
 | 48 | [iluminada](https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:35 |
-| 49 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |
-| 50 | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 |
+| 49 | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Hapo Tu \(feat\. Chris Kaiga\)](https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr) | 3:07 |
+| 50 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |
 | 51 | [YA LLORARE\(MOS\)](https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [YA LLORARE\(MOS\)](https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk) | 3:50 |
 | 52 | [Estrella](https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Estrella](https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb) | 3:25 |
 | 53 | [lo siento](https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
 | 70 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGE0NTdkMzNjNzIyZmFhMGE3NzE0NjRhZDVkYTRmYjJh`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGU4YzY4NzAyMjE5NWMzMzE5NTVlYzE2NzNkYTM1Y2Vk`

@@ -1,12 +1,12 @@
 {
   "description": "All the Intelligent Dance Music you'll need (not necessarily to dance to). Aphex Twin on cover.",
-  "num_followers": 62876,
+  "num_followers": 63023,
   "original_name": "IDM Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0Njk4MywwMDAwMDAwMDY5NzI5YjI4NjQ2NWZiNzQ3MjcwYjAwNTFkMGZlNzBl",
+  "snapshot_id": "MTY2MzI0Njk4MywwMDAwMDAwMDk2NTBhN2I2NzMzNTA3Njg4NWNlNmYwN2U2ZmEwNDJl",
   "tracks": [
     {
       "added_at": "2022-04-13 13:57:28",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Fahrenheit Fair Enough",
-        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
-      },
-      "artists": [
-        {
-          "name": "Telefon Tel Aviv",
-          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
-        }
-      ],
-      "duration_ms": 400293,
-      "name": "Fahrenheit Fair Enough",
-      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Surfing On Sine Waves",
         "url": "https://open.spotify.com/album/5ZINPXbRLusUuS4olqRFR0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 327960,
       "name": "Polygon Window",
       "url": "https://open.spotify.com/track/2wygWxWzjcgO3C1Iokv4Wj"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Fahrenheit Fair Enough",
+        "url": "https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2"
+      },
+      "artists": [
+        {
+          "name": "Telefon Tel Aviv",
+          "url": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC"
+        }
+      ],
+      "duration_ms": 400293,
+      "name": "Fahrenheit Fair Enough",
+      "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi"
-      },
-      "artists": [
-        {
-          "name": "Speedy J",
-          "url": "https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx"
-        }
-      ],
-      "duration_ms": 373000,
-      "name": "De-Orbit",
-      "url": "https://open.spotify.com/track/51dIflTO3AYBlox82UXDuG"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "In Sides",
         "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 96213,
       "name": "134 32iii",
       "url": "https://open.spotify.com/track/6n9GgbnPKJb1pMyw3zV0ct"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi"
+      },
+      "artists": [
+        {
+          "name": "Speedy J",
+          "url": "https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "De-Orbit",
+      "url": "https://open.spotify.com/track/51dIflTO3AYBlox82UXDuG"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/0SHZjn2r6iaAUUbIAIkvnk"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
-      "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 433679,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/4tBC5l4AkqYfQ5CCx5IrKm"
-    },
-    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Samurai Math Beats",
@@ -879,6 +863,22 @@
     {
       "added_at": "2022-04-13 23:36:29",
       "album": {
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 433679,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/4tBC5l4AkqYfQ5CCx5IrKm"
+    },
+    {
+      "added_at": "2022-04-13 23:36:29",
+      "album": {
         "name": "Body Riddle",
         "url": "https://open.spotify.com/album/04onGeB7bKwWHPPTXAiszV"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 174573,
       "name": "Ted",
       "url": "https://open.spotify.com/track/2MKfF48vuZpUaC3n4mm24c"
+    },
+    {
+      "added_at": "2022-04-13 23:36:29",
+      "album": {
+        "name": "YosepH",
+        "url": "https://open.spotify.com/album/26q3SgrURehSidTag2eV0B"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Liptones",
+      "url": "https://open.spotify.com/track/2cxH8WTPErfw2OWnzYmIu1"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -913,20 +929,20 @@
       "url": "https://open.spotify.com/track/5D2RBWVKgLv4CimNGBUcWS"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
+      "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "YosepH",
-        "url": "https://open.spotify.com/album/26q3SgrURehSidTag2eV0B"
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
       "artists": [
         {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Liptones",
-      "url": "https://open.spotify.com/track/2cxH8WTPErfw2OWnzYmIu1"
+      "duration_ms": 354226,
+      "name": "Lush 3-1",
+      "url": "https://open.spotify.com/track/0kWWrjVHbRqEkd6j8firv4"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -943,22 +959,6 @@
       "duration_ms": 359800,
       "name": "Cascade",
       "url": "https://open.spotify.com/track/77FEFA9LABMYORSAI0gxqG"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 354226,
-      "name": "Lush 3-1",
-      "url": "https://open.spotify.com/track/0kWWrjVHbRqEkd6j8firv4"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-04-13 23:36:29",
       "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
+        "name": "Reachy Prints",
+        "url": "https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z"
       },
       "artists": [
         {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
         }
       ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
+      "duration_ms": 288554,
+      "name": "Hawkmoth",
+      "url": "https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4"
     },
     {
       "added_at": "2022-04-13 23:36:29",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-04-13 23:36:29",
       "album": {
-        "name": "Reachy Prints",
-        "url": "https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z"
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 288554,
-      "name": "Hawkmoth",
-      "url": "https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4"
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/6rFCSylpc7uX3lGDLVdtP3"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "Samurai Math Beats",
-        "url": "https://open.spotify.com/album/3eOyiseebkzsumYgFUdy1O"
-      },
-      "artists": [
-        {
-          "name": "Bogdan Raczynski",
-          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Kimi",
-      "url": "https://open.spotify.com/track/50g7UM8Kj9Qa8PthMWm4mi"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Sch\u00f6neberg 2010 - The Complete Mixes",
@@ -1121,20 +1105,20 @@
       "url": "https://open.spotify.com/track/2DNxdOs2XVD2H3wKuK0eyL"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
+      "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "R Plus Seven",
-        "url": "https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR"
+        "name": "Samurai Math Beats",
+        "url": "https://open.spotify.com/album/3eOyiseebkzsumYgFUdy1O"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "Bogdan Raczynski",
+          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
         }
       ],
-      "duration_ms": 404726,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/7JyR9WAhTfrVMjBqUZt4Zq"
+      "duration_ms": 207600,
+      "name": "Kimi",
+      "url": "https://open.spotify.com/track/50g7UM8Kj9Qa8PthMWm4mi"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1159,6 +1143,22 @@
       "duration_ms": 627200,
       "name": "In Mind - Reload Remix (The 147 Take)",
       "url": "https://open.spotify.com/track/2UxQ9A2rZBGOBMdzzDm7re"
+    },
+    {
+      "added_at": "2022-04-13 23:36:29",
+      "album": {
+        "name": "R Plus Seven",
+        "url": "https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 404726,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/7JyR9WAhTfrVMjBqUZt4Zq"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/6RPyy7Sttg2IUz443Pa2xD"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9"
-      },
-      "artists": [
-        {
-          "name": "Brothomstates",
-          "url": "https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z"
-        }
-      ],
-      "duration_ms": 359480,
-      "name": "Mdrmx",
-      "url": "https://open.spotify.com/track/74wuB4ERudQLnuBOav3OtD"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Patashnik",
@@ -1419,6 +1403,22 @@
       "duration_ms": 387308,
       "name": "Novelty Waves",
       "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
+    },
+    {
+      "added_at": "2022-04-13 23:57:14",
+      "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9"
+      },
+      "artists": [
+        {
+          "name": "Brothomstates",
+          "url": "https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z"
+        }
+      ],
+      "duration_ms": 359480,
+      "name": "Mdrmx",
+      "url": "https://open.spotify.com/track/74wuB4ERudQLnuBOav3OtD"
     },
     {
       "added_at": "2022-04-13 23:36:29",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Biokinetics",
-        "url": "https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg"
-      },
-      "artists": [
-        {
-          "name": "Porter Ricks",
-          "url": "https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR"
-        }
-      ],
-      "duration_ms": 348560,
-      "name": "Nautical Dub",
-      "url": "https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "Kunststoff (Remastered)",
         "url": "https://open.spotify.com/album/6VI3eN7s8hzQXk5sUM8gvh"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 391521,
       "name": "Eastman",
       "url": "https://open.spotify.com/track/0YjvPqVH0mLttgXeBpPmtn"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Biokinetics",
+        "url": "https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg"
+      },
+      "artists": [
+        {
+          "name": "Porter Ricks",
+          "url": "https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR"
+        }
+      ],
+      "duration_ms": 348560,
+      "name": "Nautical Dub",
+      "url": "https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W"
     },
     {
       "added_at": "2022-04-13 23:36:29",
@@ -1917,22 +1917,6 @@
       "url": "https://open.spotify.com/track/4A3XqEaU5LmlhuxHI9zcZG"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
-      "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi"
-      },
-      "artists": [
-        {
-          "name": "Speedy J",
-          "url": "https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx"
-        }
-      ],
-      "duration_ms": 223306,
-      "name": "Fill 3",
-      "url": "https://open.spotify.com/track/3r7VEPuCVZfepG28xuvhUr"
-    },
-    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "Kids Fill the Floor",
@@ -1947,6 +1931,38 @@
       "duration_ms": 496040,
       "name": "Boyrgurl",
       "url": "https://open.spotify.com/track/0CfHjEeBk8mGNiRctKIP1X"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Pomme Fritz",
+        "url": "https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 542360,
+      "name": "Pomme Fritz (Meat 'N Veg)",
+      "url": "https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC"
+    },
+    {
+      "added_at": "2022-04-13 23:36:29",
+      "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi"
+      },
+      "artists": [
+        {
+          "name": "Speedy J",
+          "url": "https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx"
+        }
+      ],
+      "duration_ms": 223306,
+      "name": "Fill 3",
+      "url": "https://open.spotify.com/track/3r7VEPuCVZfepG28xuvhUr"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1967,18 +1983,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Pomme Fritz",
-        "url": "https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1"
+        "name": "The Sound / How To Play Our Music",
+        "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
       },
       "artists": [
         {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+          "name": "Reese & Santonio",
+          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
         }
       ],
-      "duration_ms": 542360,
-      "name": "Pomme Fritz (Meat 'N Veg)",
-      "url": "https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC"
+      "duration_ms": 408404,
+      "name": "The Sound - Extended Mix",
+      "url": "https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -1995,22 +2011,6 @@
       "duration_ms": 407306,
       "name": "Echtzeit",
       "url": "https://open.spotify.com/track/1ljJbBTJ1UbQafZyFso4tV"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "The Sound / How To Play Our Music",
-        "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
-      },
-      "artists": [
-        {
-          "name": "Reese & Santonio",
-          "url": "https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo"
-        }
-      ],
-      "duration_ms": 408404,
-      "name": "The Sound - Extended Mix",
-      "url": "https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Electro-Soma",
-        "url": "https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1"
+        "name": "Not For Threes",
+        "url": "https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74"
       },
       "artists": [
         {
-          "name": "B12",
-          "url": "https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
         }
       ],
-      "duration_ms": 251278,
-      "name": "Telefone 529",
-      "url": "https://open.spotify.com/track/6hKPBJ2UhsAZhkZVYGdJor"
+      "duration_ms": 96933,
+      "name": "Seph",
+      "url": "https://open.spotify.com/track/4nBVt5WGmeEFhcfk6fyoJz"
     },
     {
       "added_at": "2022-04-13 23:36:29",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Vocal Studies and Uprock Narratives",
-        "url": "https://open.spotify.com/album/6sJO4oNOs8b3owt7a3GHEe"
+        "name": "Electro-Soma",
+        "url": "https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1"
       },
       "artists": [
         {
-          "name": "Prefuse 73",
-          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+          "name": "B12",
+          "url": "https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Point To B",
-      "url": "https://open.spotify.com/track/3GycMdRCf9duLBgpGLXThm"
+      "duration_ms": 251278,
+      "name": "Telefone 529",
+      "url": "https://open.spotify.com/track/6hKPBJ2UhsAZhkZVYGdJor"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2215,18 +2215,18 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Not For Threes",
-        "url": "https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74"
+        "name": "Vocal Studies and Uprock Narratives",
+        "url": "https://open.spotify.com/album/6sJO4oNOs8b3owt7a3GHEe"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
         }
       ],
-      "duration_ms": 96933,
-      "name": "Seph",
-      "url": "https://open.spotify.com/track/4nBVt5WGmeEFhcfk6fyoJz"
+      "duration_ms": 241626,
+      "name": "Point To B",
+      "url": "https://open.spotify.com/track/3GycMdRCf9duLBgpGLXThm"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "One On One",
-        "url": "https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "Sparrow",
-      "url": "https://open.spotify.com/track/3MEmYQVHNS861MhgYfvUcq"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "20 Fucking Years Of Planet E: We Ain't Dead Yet",
         "url": "https://open.spotify.com/album/2WGHXZKkxbBbkaqbrQRn6r"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 465852,
       "name": "Covert Action",
       "url": "https://open.spotify.com/track/2xKzx3BcVuCB7X0CHBagYv"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "One On One",
+        "url": "https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/3MEmYQVHNS861MhgYfvUcq"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/3J0fBkYqaw0sz69UxDPqT5"
-      },
-      "artists": [
-        {
-          "name": "Bola",
-          "url": "https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz"
-        }
-      ],
-      "duration_ms": 389640,
-      "name": "Forcasa 1",
-      "url": "https://open.spotify.com/track/2lPva8JFtcImSKwb8gi2ip"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "ex:el",
         "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 289173,
       "name": "Nephatiti",
       "url": "https://open.spotify.com/track/2qFvSLNidOcYd5d7KELAEI"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/3J0fBkYqaw0sz69UxDPqT5"
+      },
+      "artists": [
+        {
+          "name": "Bola",
+          "url": "https://open.spotify.com/artist/3FPr2kgOVTHdeKrnYAKRCz"
+        }
+      ],
+      "duration_ms": 389640,
+      "name": "Forcasa 1",
+      "url": "https://open.spotify.com/track/2lPva8JFtcImSKwb8gi2ip"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Colourform",
-        "url": "https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5"
-      },
-      "artists": [
-        {
-          "name": "Higher Intelligence Agency",
-          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
-        }
-      ],
-      "duration_ms": 457526,
-      "name": "Speedlearn (Empathy Mix)",
-      "url": "https://open.spotify.com/track/6RgnT9qHsV6ABo6Ett7uhW"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "[las vegas]",
         "url": "https://open.spotify.com/album/2L350q8rF8zwpCnaz42dI5"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 682800,
       "name": "Twelve Miles High",
       "url": "https://open.spotify.com/track/4JwWAIOm101bfAs8BndOKX"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Colourform",
+        "url": "https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5"
+      },
+      "artists": [
+        {
+          "name": "Higher Intelligence Agency",
+          "url": "https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs"
+        }
+      ],
+      "duration_ms": 457526,
+      "name": "Speedlearn (Empathy Mix)",
+      "url": "https://open.spotify.com/track/6RgnT9qHsV6ABo6Ett7uhW"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2563,22 +2563,6 @@
       "duration_ms": 193000,
       "name": "Proper Lo-Fi",
       "url": "https://open.spotify.com/track/6sIPYlmJhsYQRWnwLqkHg9"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "808:88:98",
-        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "Plan 9",
-      "url": "https://open.spotify.com/track/4TNEGNPWtwO64StyaiEjGR"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -2613,6 +2597,22 @@
       "url": "https://open.spotify.com/track/2H5rJao0GsQydSv3s7ktPI"
     },
     {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "808:88:98",
+        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Plan 9",
+      "url": "https://open.spotify.com/track/4TNEGNPWtwO64StyaiEjGR"
+    },
+    {
       "added_at": "2022-05-10 02:07:33",
       "album": {
         "name": "Hexavalent",
@@ -2627,22 +2627,6 @@
       "duration_ms": 294283,
       "name": "Zenus Aphalon",
       "url": "https://open.spotify.com/track/0vVRtPyxwUZ2FfDkIsyNsk"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Beautronics Plus",
-        "url": "https://open.spotify.com/album/1oKuAao1T85lcjeRSAoqtM"
-      },
-      "artists": [
-        {
-          "name": "Isan",
-          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
-        }
-      ],
-      "duration_ms": 277179,
-      "name": "Paintchart",
-      "url": "https://open.spotify.com/track/6u0Xf1BYSEttaXjr8eUapN"
     },
     {
       "added_at": "2022-04-13 23:36:29",
@@ -2663,6 +2647,22 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
+        "name": "Beautronics Plus",
+        "url": "https://open.spotify.com/album/1oKuAao1T85lcjeRSAoqtM"
+      },
+      "artists": [
+        {
+          "name": "Isan",
+          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
+        }
+      ],
+      "duration_ms": 277179,
+      "name": "Paintchart",
+      "url": "https://open.spotify.com/track/6u0Xf1BYSEttaXjr8eUapN"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
         "name": "Iaora Tahiti",
         "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
       },
@@ -2675,6 +2675,22 @@
       "duration_ms": 364266,
       "name": "Bib",
       "url": "https://open.spotify.com/track/1oRQagi9sf5J85579KN83w"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Chigliak",
+        "url": "https://open.spotify.com/album/3qKpwSHUazGWmxLm0WWdGS"
+      },
+      "artists": [
+        {
+          "name": "Adam Johnson",
+          "url": "https://open.spotify.com/artist/1mpZvM3DHU6o5DC1lJmw5Y"
+        }
+      ],
+      "duration_ms": 343106,
+      "name": "Anex",
+      "url": "https://open.spotify.com/track/2gBIPZBOGbOOBiaqxjGyYN"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2707,22 +2723,6 @@
       "duration_ms": 634826,
       "name": "Psil-cosyin",
       "url": "https://open.spotify.com/track/3OTbsxbLdlBLBe20W3BXNW"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Chigliak",
-        "url": "https://open.spotify.com/album/3qKpwSHUazGWmxLm0WWdGS"
-      },
-      "artists": [
-        {
-          "name": "Adam Johnson",
-          "url": "https://open.spotify.com/artist/1mpZvM3DHU6o5DC1lJmw5Y"
-        }
-      ],
-      "duration_ms": 343106,
-      "name": "Anex",
-      "url": "https://open.spotify.com/track/2gBIPZBOGbOOBiaqxjGyYN"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2895,22 +2895,6 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9"
-      },
-      "artists": [
-        {
-          "name": "Brothomstates",
-          "url": "https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z"
-        }
-      ],
-      "duration_ms": 492026,
-      "name": "Viimo",
-      "url": "https://open.spotify.com/track/1xv6E9bFh5bmkINR5e72Q5"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
         "name": "A Chance To Cut Is A Chance To Cure",
         "url": "https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs"
       },
@@ -2923,6 +2907,22 @@
       "duration_ms": 601000,
       "name": "California Rhinoplasty",
       "url": "https://open.spotify.com/track/0D9JHNhezKgTaU093ijP0k"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Cerebral Navigators: Anthology 1993-1997",
+        "url": "https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5"
+      },
+      "artists": [
+        {
+          "name": "Brain Pilot",
+          "url": "https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb"
+        }
+      ],
+      "duration_ms": 317139,
+      "name": "C.N.S.",
+      "url": "https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -2943,6 +2943,22 @@
     {
       "added_at": "2022-04-13 13:57:28",
       "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/0XxwFrdmdzzoRWvNuSMGE9"
+      },
+      "artists": [
+        {
+          "name": "Brothomstates",
+          "url": "https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z"
+        }
+      ],
+      "duration_ms": 492026,
+      "name": "Viimo",
+      "url": "https://open.spotify.com/track/1xv6E9bFh5bmkINR5e72Q5"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
         "name": "Innovator (Mayday)",
         "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
       },
@@ -2955,22 +2971,6 @@
       "duration_ms": 397613,
       "name": "Daymares, It Is What It Is",
       "url": "https://open.spotify.com/track/2zGwA60byxEWlt4FeVxwet"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Cerebral Navigators: Anthology 1993-1997",
-        "url": "https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5"
-      },
-      "artists": [
-        {
-          "name": "Brain Pilot",
-          "url": "https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb"
-        }
-      ],
-      "duration_ms": 317139,
-      "name": "C.N.S.",
-      "url": "https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -3053,6 +3053,22 @@
       "url": "https://open.spotify.com/track/1fwH44zNWFYUc1OAwSIbkd"
     },
     {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "How The West Was Won",
+      "url": "https://open.spotify.com/track/6qIBbn4TnX016RiNDGSuhJ"
+    },
+    {
       "added_at": "2022-04-13 23:57:14",
       "album": {
         "name": "Split Series #2",
@@ -3073,20 +3089,20 @@
       "url": "https://open.spotify.com/track/6wnDHdEecId9KIDdcXr2W1"
     },
     {
-      "added_at": "2022-04-13 13:57:28",
+      "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+        "name": "Brownout",
+        "url": "https://open.spotify.com/album/1JuGXW0tGPP5aRKCvS8gav"
       },
       "artists": [
         {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+          "name": "Phoenecia",
+          "url": "https://open.spotify.com/artist/4fwCp2IDhodTxsySBFY6sj"
         }
       ],
-      "duration_ms": 214500,
-      "name": "How The West Was Won",
-      "url": "https://open.spotify.com/track/6qIBbn4TnX016RiNDGSuhJ"
+      "duration_ms": 324200,
+      "name": "Grrl Trrbl",
+      "url": "https://open.spotify.com/track/348voj7WvFVthOJtzXiJDe"
     },
     {
       "added_at": "2022-04-13 13:57:28",
@@ -3105,22 +3121,6 @@
       "url": "https://open.spotify.com/track/6EoU3CB6crpANaW7g6sThW"
     },
     {
-      "added_at": "2022-04-13 23:57:14",
-      "album": {
-        "name": "Brownout",
-        "url": "https://open.spotify.com/album/1JuGXW0tGPP5aRKCvS8gav"
-      },
-      "artists": [
-        {
-          "name": "Phoenecia",
-          "url": "https://open.spotify.com/artist/4fwCp2IDhodTxsySBFY6sj"
-        }
-      ],
-      "duration_ms": 324200,
-      "name": "Grrl Trrbl",
-      "url": "https://open.spotify.com/track/348voj7WvFVthOJtzXiJDe"
-    },
-    {
       "added_at": "2022-04-13 23:36:29",
       "album": {
         "name": "Tiny Reminders",
@@ -3135,22 +3135,6 @@
       "duration_ms": 276960,
       "name": "Akwalek",
       "url": "https://open.spotify.com/track/7EreKvVhlqWi5wTyVfLawL"
-    },
-    {
-      "added_at": "2022-07-11 18:43:54",
-      "album": {
-        "name": "Tigerbeat Inc disc 1",
-        "url": "https://open.spotify.com/album/3ojlAzwrhbB7hsRxrmNNCX"
-      },
-      "artists": [
-        {
-          "name": "Gamers In Exile",
-          "url": "https://open.spotify.com/artist/172ox6jADAYSGQstSEW7ap"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "I Am A Decent Man",
-      "url": "https://open.spotify.com/track/6s7FfdgxJHflFAu4RYBrNA"
     },
     {
       "added_at": "2022-04-13 23:57:14",
@@ -3169,6 +3153,22 @@
       "url": "https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv"
     },
     {
+      "added_at": "2022-07-11 18:43:54",
+      "album": {
+        "name": "Tigerbeat Inc disc 1",
+        "url": "https://open.spotify.com/album/3ojlAzwrhbB7hsRxrmNNCX"
+      },
+      "artists": [
+        {
+          "name": "Gamers In Exile",
+          "url": "https://open.spotify.com/artist/172ox6jADAYSGQstSEW7ap"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "I Am A Decent Man",
+      "url": "https://open.spotify.com/track/6s7FfdgxJHflFAu4RYBrNA"
+    },
+    {
       "added_at": "2022-04-13 13:57:28",
       "album": {
         "name": "While You Were Sleeping",
@@ -3185,10 +3185,26 @@
       "url": "https://open.spotify.com/track/4wanjskAp43E4l97QhoogC"
     },
     {
-      "added_at": "2022-04-13 23:36:29",
+      "added_at": "2022-04-13 23:57:14",
       "album": {
-        "name": "Time Tourist (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1jLV4B5W9rjB8VcsyhyuNA"
+        "name": "Bluff Limbo",
+        "url": "https://open.spotify.com/album/18nE7bx6O1nC1MGpAYCPJv"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Hector's House",
+      "url": "https://open.spotify.com/track/72uwGFdnyzQc0AXtOzst5j"
+    },
+    {
+      "added_at": "2022-04-13 13:57:28",
+      "album": {
+        "name": "Electro-Soma",
+        "url": "https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1"
       },
       "artists": [
         {
@@ -3196,9 +3212,9 @@
           "url": "https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm"
         }
       ],
-      "duration_ms": 403725,
-      "name": "Silicon Garden (Likemind Mix)",
-      "url": "https://open.spotify.com/track/15E3g2APJcVvdhhxO9l7kJ"
+      "duration_ms": 354823,
+      "name": "Bio Dimension",
+      "url": "https://open.spotify.com/track/4sClp5hEcHnVutrGwQt1Gi"
     },
     {
       "added_at": "2022-04-13 23:36:29",
@@ -3215,22 +3231,6 @@
       "duration_ms": 302040,
       "name": "Yoaoshk",
       "url": "https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc"
-    },
-    {
-      "added_at": "2022-04-13 13:57:28",
-      "album": {
-        "name": "Night Drive (Thru-Babylon)",
-        "url": "https://open.spotify.com/album/29MH1JtzLfRvEDU3e32EWz"
-      },
-      "artists": [
-        {
-          "name": "Model 500",
-          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
-        }
-      ],
-      "duration_ms": 368906,
-      "name": "Night Drive (Thru-Babylon)",
-      "url": "https://open.spotify.com/track/4sO0gwczRjDDyXEU8iSuFh"
     },
     {
       "added_at": "2022-04-13 13:57:28",

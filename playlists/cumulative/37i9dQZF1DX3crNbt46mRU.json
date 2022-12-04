@@ -18151,7 +18151,7 @@
     {
       "album": {
         "name": "L\u00e9gende Vivante",
-        "url": "https://open.spotify.com/album/4QOXZfgxVwmR8e3wNuimRo"
+        "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
       },
       "artists": [
         {
@@ -18166,6 +18166,28 @@
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137026,
+      "name": "Dans l'appart'",
+      "url": "https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO"
+    },
+    {
+      "album": {
+        "name": "L\u00e9gende Vivante",
+        "url": "https://open.spotify.com/album/4QOXZfgxVwmR8e3wNuimRo"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo",
+          "url": "https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy"
+        },
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
       "duration_ms": 137026,
       "name": "Dans l'appart'",
       "url": "https://open.spotify.com/track/6h8BhAsca4Yes3lwMqDGgJ"
@@ -67882,24 +67904,20 @@
     },
     {
       "album": {
-        "name": "Side by Side",
+        "name": "Side by Side (from 'The Amazing Maurice')",
         "url": "https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD"
       },
       "artists": [
         {
           "name": "Gabrielle Aplin",
           "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        },
-        {
-          "name": "Hugh Laurie",
-          "url": "https://open.spotify.com/artist/5WM5zPOswRcPu07rxP2dQv"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167031,
-      "name": "Side by Side",
+      "name": "Side by Side (from 'The Amazing Maurice')",
       "url": "https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q"
     },
     {

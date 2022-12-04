@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,787 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,883 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 26 | [Come Up the Stairs](https://open.spotify.com/track/0y8YLiCQmsmG1PLaQGk4gp) | [Lonely Stranded Band](https://open.spotify.com/artist/2SEZuwzh7YLEnD6go7gk2W) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:05 |
 | 27 | [Andy's \- Lafferty's \- Marian's Favourite](https://open.spotify.com/track/4G0r7DBN8im4K5mg5fh6Jg) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:54 |
 | 28 | [Paddy Dreaming](https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 2:54 |
-| 29 | [The Hunt / Dunphy's Hornpipe](https://open.spotify.com/track/3Qmkw1Jq9Gdw7C0rmMFw2h) | [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Jimmy Fitzgerald](https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8), [Paul O Driscoll](https://open.spotify.com/artist/6Qsgo8bmem72haLN99oYJN) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:30 |
+| 29 | [Spancil Hill](https://open.spotify.com/track/7GBFFTfwfS0vTHFacPUDjr) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:02 |
 | 30 | [Unicorns](https://open.spotify.com/track/3mXRtbjwXvsTn51lGMqOn9) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Music & Ballads from Ireland](https://open.spotify.com/album/22UCiw5HAWZ8LTllg2hCvl) | 3:36 |
 | 31 | [Dicey Reilly](https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:17 |
-| 32 | [Spancil Hill](https://open.spotify.com/track/7GBFFTfwfS0vTHFacPUDjr) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:02 |
+| 32 | [The Hunt / Dunphy's Hornpipe](https://open.spotify.com/track/3Qmkw1Jq9Gdw7C0rmMFw2h) | [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Jimmy Fitzgerald](https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8), [Paul O Driscoll](https://open.spotify.com/artist/6Qsgo8bmem72haLN99oYJN) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:30 |
 | 33 | [The Tailor by Trade](https://open.spotify.com/track/4NqeYs9eIrK4qPMlg9gk99) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Irish Festival](https://open.spotify.com/album/7mfyOcjeuUcCI1rwpqPhC0) | 3:25 |
 | 34 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/4sjR31gZhrsxyhDn5S4mNP) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Jimmy Fitzgerald](https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8), [Con Ó Drisceoil](https://open.spotify.com/artist/7p2fbihH459PJENgIkCdQX) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:55 |
 | 35 | [Handsome Molly](https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 | 50 | [Sweet Ballyvaughaan \- Live](https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Sean Tyrrell Live at Greenes](https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV) | 4:08 |
 
-Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDMzNDJjNDljNDU5YjEzMWRhYTQ4OTQ5NWM1NmMwOGU1`
+Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDM1NGQ2N2I0MmU0MDFjMTk1YWFjYmNmYjZjY2NjMzhh`

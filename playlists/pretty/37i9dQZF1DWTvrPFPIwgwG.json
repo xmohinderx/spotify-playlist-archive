@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Cassiane, Midian Lima",
-  "num_followers": 55842,
+  "num_followers": 55904,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDg0NCwwMDAwMDAwMDQ0ZTk4NmM5MGQ0MGU5MzIwNGZhODY2M2RjZjVlOWYy",
+  "snapshot_id": "MTY2OTM1NDg0NCwwMDAwMDAwMDQ5NDgwOTg4MzJkMzkzYzExZDUwYmVkODc5YTIzOWFj",
   "tracks": [
     {
       "added_at": "2022-11-04 17:57:59",
@@ -259,18 +259,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Despreocupa",
-        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
+        "name": "O Le\u00e3o",
+        "url": "https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD"
       },
       "artists": [
         {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 310635,
-      "name": "Despreocupa",
-      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
+      "duration_ms": 267398,
+      "name": "O Le\u00e3o",
+      "url": "https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -291,22 +295,18 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "O Le\u00e3o",
-        "url": "https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD"
+        "name": "Despreocupa",
+        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
       },
       "artists": [
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
         }
       ],
-      "duration_ms": 267398,
-      "name": "O Le\u00e3o",
-      "url": "https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX"
+      "duration_ms": 310635,
+      "name": "Despreocupa",
+      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "T\u00e1 nas M\u00e3os de Deus",
-        "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        }
-      ],
-      "duration_ms": 262528,
-      "name": "T\u00e1 nas M\u00e3os de Deus",
-      "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
         "name": "N\u00e3o Pare Agora",
         "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 269775,
       "name": "N\u00e3o Pare Agora",
       "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "T\u00e1 nas M\u00e3os de Deus",
+        "url": "https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "duration_ms": 262528,
+      "name": "T\u00e1 nas M\u00e3os de Deus",
+      "url": "https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "S\u00f3 Faz Ajudar",
-        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 267983,
-      "name": "S\u00f3 Faz Ajudar",
-      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
         "name": "O C\u00e9u Tem Mais",
         "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 452805,
       "name": "O C\u00e9u Tem Mais",
       "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "S\u00f3 Faz Ajudar",
+        "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 267983,
+      "name": "S\u00f3 Faz Ajudar",
+      "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -765,24 +765,20 @@
       "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
     },
     {
-      "added_at": "2022-11-04 17:57:59",
+      "added_at": "2022-12-04 01:00:11",
       "album": {
-        "name": "Profetiza",
-        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
+        "name": "Recursos",
+        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
       },
       "artists": [
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         }
       ],
-      "duration_ms": 294475,
-      "name": "Profetiza",
-      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
+      "duration_ms": 346495,
+      "name": "Recursos",
+      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -803,18 +799,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Jesus Est\u00e1 no Barco",
-        "url": "https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs"
+        "name": "Profetiza",
+        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 258017,
-      "name": "Jesus Est\u00e1 no Barco",
-      "url": "https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e"
+      "duration_ms": 294475,
+      "name": "Profetiza",
+      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
+        "name": "Jesus Est\u00e1 no Barco",
+        "url": "https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 258017,
+      "name": "Jesus Est\u00e1 no Barco",
+      "url": "https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
         "name": "T\u00e1 Gerando",
         "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
       },
@@ -883,6 +899,22 @@
       "duration_ms": 274773,
       "name": "T\u00e1 Gerando",
       "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "T\u00e1 Passando",
+        "url": "https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        }
+      ],
+      "duration_ms": 311518,
+      "name": "T\u00e1 Passando",
+      "url": "https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -907,34 +939,18 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "T\u00e1 Passando",
-        "url": "https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8"
+        "name": "Esconderijo do Alt\u00edssimo",
+        "url": "https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL"
       },
       "artists": [
         {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+          "name": "Aurelina Dourado",
+          "url": "https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz"
         }
       ],
-      "duration_ms": 311518,
-      "name": "T\u00e1 Passando",
-      "url": "https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC"
-    },
-    {
-      "added_at": "2022-12-03 00:57:38",
-      "album": {
-        "name": "Recursos",
-        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 346495,
-      "name": "Recursos",
-      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
+      "duration_ms": 285152,
+      "name": "Esconderijo do Alt\u00edssimo",
+      "url": "https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -951,22 +967,6 @@
       "duration_ms": 345416,
       "name": "Deus Realiza Sonhos",
       "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
-        "name": "Esconderijo do Alt\u00edssimo",
-        "url": "https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL"
-      },
-      "artists": [
-        {
-          "name": "Aurelina Dourado",
-          "url": "https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz"
-        }
-      ],
-      "duration_ms": 285152,
-      "name": "Esconderijo do Alt\u00edssimo",
-      "url": "https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO"
     },
     {
       "added_at": "2022-11-04 17:57:59",

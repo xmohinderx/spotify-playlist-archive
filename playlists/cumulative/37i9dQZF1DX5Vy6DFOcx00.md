@@ -4,7 +4,7 @@
 
 > iykyk
 
-724 songs - 1 day 15 hr 15 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+725 songs - 1 day 15 hr 18 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-06-15 | 2022-06-26 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-11-28 |  |
 | [Blue \(feat\. Blue Ivy\)](https://open.spotify.com/track/2LjkT4gu5wO4JdeEYl0fMY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Blue Ivy](https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:26 | 2022-06-30 | 2022-07-27 |
-| [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 | 2022-12-01 |  |
+| [Blue Spirits](https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk) | 3:08 | 2022-12-01 |  |
+| [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 | 2022-12-01 | 2022-12-04 |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2022-01-20 | 2022-04-12 |
 | [Boogie Woogie Wu](https://open.spotify.com/track/2nKZMOEvOyTViP09HxBfXx) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [The Great Milenko](https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc) | 4:24 | 2022-04-21 | 2022-06-03 |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-30 | 2022-07-15 |
@@ -710,7 +711,7 @@
 | [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-09 |  |
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-05-03 | 2022-10-19 |
 | [World's Smallest Violin](https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh) | 3:00 | 2022-05-03 | 2022-07-29 |
-| [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-17 |  |
+| [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-17 |  |
 | [WORTH NOTHING \- Instrumental](https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING \(Instrumental\)](https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D) | 2:44 | 2022-10-13 | 2022-10-28 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2021-12-11 | 2022-02-09 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-04-12 | 2022-04-30 |

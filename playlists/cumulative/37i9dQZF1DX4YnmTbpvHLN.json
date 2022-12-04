@@ -1200,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Fools Rush In",
+        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273123,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
+    },
+    {
+      "album": {
         "name": "For a While",
         "url": "https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj"
       },
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 235966,
       "name": "For a While",
       "url": "https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 296517,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/2YsAqYSahjKY9GJfP53qBx"
@@ -2598,6 +2616,24 @@
     },
     {
       "album": {
+        "name": "My Heart Stood Still",
+        "url": "https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj"
+      },
+      "artists": [
+        {
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "My Heart Stood Still",
+      "url": "https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF"
+    },
+    {
+      "album": {
         "name": "My Ideal",
         "url": "https://open.spotify.com/album/4XybR9h4pjJZ2GHXKlVcjb"
       },
@@ -3671,7 +3707,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 207124,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/2i6UvEb8X7i2oQTVHah3pV"
@@ -3711,6 +3747,24 @@
       "duration_ms": 293750,
       "name": "Views Of Dawn",
       "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
+    },
+    {
+      "album": {
+        "name": "Vine Street",
+        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146020,
+      "name": "Vine Street",
+      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
     },
     {
       "album": {

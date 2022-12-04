@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Recordando el legado campirano y rancherón con las clásicas del sierreño\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,267 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,346 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 69 | [El Ranchero Afamado](https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ) | [Daniel Ortiz](https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8) | [De Huarache Y Sombrero](https://open.spotify.com/album/31MF32JeJx4ZCBVrDt92KA) | 2:27 |
 | 70 | [Esta Cobardia](https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
 | 71 | [Para Morir Naci](https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll) | [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Para Morir Nací](https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD) | 3:12 |
-| 72 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
+| 72 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
 | 73 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
 | 74 | [La Novia del Pajarillo](https://open.spotify.com/track/06y718DuJ1P4LeKjY8CLmM) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Ojitos Negros](https://open.spotify.com/album/2WKKoWHdi5ILlBKJk4fEke) | 3:24 |
-| 75 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
+| 75 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
 | 76 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y Caricias](https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4) | 2:10 |
 | 77 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
 | 78 | [La Botella](https://open.spotify.com/track/70lFCPMdLXpxcfApqTECxA) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Vete ya](https://open.spotify.com/track/7nyrLXE5oinHY87LpZL1e3) | [Los Sierreños](https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A) | [Homenaje Sierreño Al Gallo De Oro](https://open.spotify.com/album/0J8RcbQTePcVEYxnbcZqr0) | 2:31 |
 | 100 | [Eres Mi Droga](https://open.spotify.com/track/521UsXTm7oXDQAgTf9dyS4) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [20 Exitos Sierreños](https://open.spotify.com/album/3oQTOdQllM1EwXNzrmClNi) | 3:18 |
 
-Snapshot ID: `MTY0MzM0NTUyMywwMDAwMDAwMGM1NzExMmE4MzFiZjAwYzU3Mjg2ZjgyYWE5ZDRjNDNi`
+Snapshot ID: `MTY0MzM0NTUyMywwMDAwMDAwMGI0NzMyMzMxZTdiMTI3ZDg1NjU5MjU1MGE0ODFjZmNj`

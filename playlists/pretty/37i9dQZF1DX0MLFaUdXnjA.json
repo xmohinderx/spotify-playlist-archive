@@ -1,12 +1,12 @@
 {
   "description": "Keep it low-key with all of today's chill pop. Cover: Chelsea Cutler",
-  "num_followers": 1792209,
+  "num_followers": 1792366,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDY2ZjQ5M2E3YjY5ODM5ZjNiMDM2OGNlOTgwMmE3N2E2",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDZlYzdiNGFmMTE0N2VjNjY0YTg2MWUwNTUyMTRhNzEz",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Firebabe",
-        "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "Firebabe",
-      "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 262544,
       "name": "drivers license - Spotify Singles",
       "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Firebabe",
+        "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "Firebabe",
+      "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Little Bit More",
+        "url": "https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 180678,
+      "name": "Little Bit More",
+      "url": "https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "I'm So Happy",
         "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 173365,
       "name": "I'm So Happy (with BENEE)",
       "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Little Bit More",
-        "url": "https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF"
-      },
-      "artists": [
-        {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
-        }
-      ],
-      "duration_ms": 180678,
-      "name": "Little Bit More",
-      "url": "https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Not Alone (from Devotion)",
-        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 251481,
-      "name": "Not Alone - from Devotion",
-      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "God Must Hate Me",
         "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 155223,
       "name": "never knew a heart could break itself",
       "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Not Alone (from Devotion)",
+        "url": "https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 251481,
+      "name": "Not Alone - from Devotion",
+      "url": "https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/1zBBrKUppVAhnk0s70TRyK"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 191960,
       "name": "Love Letter From The Sea to The Shore",
       "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Persuasion (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234156,
-      "name": "Quietly Yours",
-      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
     },
     {
       "added_at": "2022-12-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,046 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,074 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 11 | [Breathe Again \- Acoustic](https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again \(Acoustic\)](https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D) | 3:18 |
 | 12 | [Inappropriate Behaviour](https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Inappropriate Behaviour](https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY) | 3:16 |
 | 13 | [Gypsy](https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Gypsy Tapes](https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41) | 3:32 |
-| 14 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 |
-| 15 | [Every Side Of You](https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:24 |
+| 14 | [Every Side Of You](https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:24 |
+| 15 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 |
 | 16 | [Without Your Love](https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:30 |
 | 17 | [Call Me Home](https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Call Me Home](https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN) | 3:21 |
 | 18 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 22 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 |
 | 23 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
 | 24 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
-| 25 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
-| 26 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
+| 25 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
+| 26 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
 | 27 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
 | 28 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 29 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 33 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 34 | [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 |
 | 35 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
-| 36 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
-| 37 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
+| 36 | [Think About You](https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:43 |
+| 37 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
 | 38 | [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 |
 | 39 | [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 |
 | 40 | [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
 | 60 | [A Song To Be Named](https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [A Song To Be Named](https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA) | 4:09 |
 
-Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDg1ZGYzNzEzZDE0YTFiMjk4ZWE0NDhlZmM2MjAwNzE3`
+Snapshot ID: `MTY2OTgxMzIwMCwwMDAwMDAwMDNkNzE2YmYxMzAxM2U0N2FiZjczMGJkM2E3NTFhNDA2`

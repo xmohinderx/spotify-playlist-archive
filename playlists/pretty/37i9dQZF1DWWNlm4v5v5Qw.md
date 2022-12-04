@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,500 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,498 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 13 | [TEASE](https://open.spotify.com/track/5M69Wypp38Ea2WPKzIXQzZ) | [Abby T.](https://open.spotify.com/artist/3J0pnyq0rWJUvhrUP165dz) | [TEASE](https://open.spotify.com/album/7EsDGakfGYMvtPcroyXaD0) | 2:54 |
 | 14 | [Call \(Acoustic\)](https://open.spotify.com/track/6Lw4SbPmvnoBYPkuXpsuhH) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Sara Kawai](https://open.spotify.com/artist/1umhlU8WUwF8leg9QZtRqp) | [Call \(Acoustic\)](https://open.spotify.com/album/1oB7VucXNhGcHkgqPMtt2i) | 2:55 |
 | 15 | [The Hands \- From the Original Motion Picture “The Inspection”](https://open.spotify.com/track/1VYLPa8PSEeypLXwbncLfx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [The Hands \(From the Original Motion Picture “The Inspection”\)](https://open.spotify.com/album/71nyj9LZWPJwEHViGRvD02) | 6:16 |
-| 16 | [MACKING](https://open.spotify.com/track/6qxGvL26vaV8NKeT86SBbu) | [KissGang Relly](https://open.spotify.com/artist/7IKwrXpEj8HrseTHxkQ8Rr), [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE), [KissGang Truly](https://open.spotify.com/artist/127TbiEmjp1BIYtsJuHa2y) | [MACKING](https://open.spotify.com/album/1fwrVR4HzZ31qXgGZh9cFh) | 3:17 |
+| 16 | [MACKING](https://open.spotify.com/track/6qxGvL26vaV8NKeT86SBbu) | [KissGang Relly](https://open.spotify.com/artist/7IKwrXpEj8HrseTHxkQ8Rr), [KissGang Truly](https://open.spotify.com/artist/127TbiEmjp1BIYtsJuHa2y), [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE) | [MACKING](https://open.spotify.com/album/1fwrVR4HzZ31qXgGZh9cFh) | 3:17 |
 | 17 | [Coal](https://open.spotify.com/track/6C8QkuZhwVknE18TvGD0iR) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Coal](https://open.spotify.com/album/4pljXbOadkliUMb3mOuWJc) | 3:49 |
 | 18 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 |
 | 19 | [FORGIVENESS](https://open.spotify.com/track/59EgdZjkgN9RSgv8S4pS5B) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t) | [NADAWORLD 2](https://open.spotify.com/album/2xvKxZaBXgG2VfzxL7Cftd) | 2:01 |

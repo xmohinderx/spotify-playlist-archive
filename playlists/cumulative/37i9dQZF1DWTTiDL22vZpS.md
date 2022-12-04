@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-53 songs - 3 hr 29 min - not published yet
+54 songs - 3 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Fuera de Lugar](https://open.spotify.com/track/2BWTYAiWbBGCJeKbQ6rpFA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:16 | 2022-11-22 |  |
 | [Fuma](https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 3:12 | 2022-11-22 |  |
 | [Funky Fiesta](https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Cheo Pardo](https://open.spotify.com/artist/2zxaMVEdb6cRSlAmDKjBtb) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:20 | 2022-11-22 |  |
-| [Funky Man](https://open.spotify.com/track/0sosHfdwwsZV5BZsdbzB4t) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [Joe Bataan's Latin Soul Party: Black Sugar, Coco Lagos Y Sus Orates, Lu Logia Sarabanda & Joe Bataan](https://open.spotify.com/album/4NoBPQUYBcBmJBswHuQ8f4) | 2:08 | 2022-11-22 |  |
+| [Funky Man](https://open.spotify.com/track/0sosHfdwwsZV5BZsdbzB4t) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [Joe Bataan's Latin Soul Party: Black Sugar, Coco Lagos Y Sus Orates, Lu Logia Sarabanda & Joe Bataan](https://open.spotify.com/album/4NoBPQUYBcBmJBswHuQ8f4) | 2:08 | 2022-11-22 | 2022-12-04 |
 | [Gobiérname](https://open.spotify.com/track/6Nh3jUe0llv1BsbyGraH5T) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Gobiérname](https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08) | 3:31 | 2022-11-22 |  |
 | [Golden Choice](https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:48 | 2022-11-22 |  |
 | [Gordo Funky](https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Como Nunca](https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO) | 3:12 | 2022-11-22 |  |
@@ -61,5 +61,6 @@
 | [Váyanse Todos A Mamá](https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 4:59 | 2022-12-02 |  |
 | [Young Girl](https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Funk Your Bones \(Side B\)](https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT) | 3:16 | 2022-11-22 |  |
 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 | 2022-11-22 |  |
+| [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 | 2022-12-02 |  |
 
 \*This playlist was first scraped on 2022-11-22. Prior content cannot be recovered.

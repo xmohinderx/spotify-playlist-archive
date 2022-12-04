@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 581117,
+  "num_followers": 581232,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAzMzU4MCwwMDAwMDAwMGQ0YzMzN2E4NjdhNWNlMDFhMmVmYmM4MWE4MjRkYTYx",
+  "snapshot_id": "MTY2OTAzMzU4MCwwMDAwMDAwMDgwYjcwMTA0OTk5NGI2ZmE0YmNiYjI4YzQ5MmY1ZmY4",
   "tracks": [
     {
       "added_at": "2022-11-21 12:26:20",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 172208,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -287,26 +303,6 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
-        "name": "New Dubby Conquerors",
-        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        },
-        {
-          "name": "Black Kappa",
-          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dickes B (feat. Black Kappa)",
-      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -379,34 +375,22 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+        "name": "New Dubby Conquerors",
+        "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 172208,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        },
         {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+          "name": "Black Kappa",
+          "url": "https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6"
         }
       ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+      "duration_ms": 284906,
+      "name": "Dickes B (feat. Black Kappa)",
+      "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -471,6 +455,22 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "Casia Deluxe",
+        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
+      "duration_ms": 201979,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -655,42 +655,18 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Casia Deluxe",
-        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
       "artists": [
         {
-          "name": "Miami Yacine",
-          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 201979,
-      "name": "Kokaina",
-      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
-        "name": "Party 2020",
-        "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
-        }
-      ],
-      "duration_ms": 188503,
-      "name": "Ohne mein Team",
-      "url": "https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ"
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -751,6 +727,22 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -787,22 +779,6 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
         "name": "Mercedes Dance",
         "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
       },
@@ -815,6 +791,22 @@
       "duration_ms": 295440,
       "name": "Klar",
       "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
+        "name": "Aggro Berlin",
+        "url": "https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Hey Du!",
+      "url": "https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x"
     },
     {
       "added_at": "2022-11-21 12:26:20",
@@ -851,22 +843,6 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Aggro Berlin",
-        "url": "https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hey Du!",
-      "url": "https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x"
-    },
-    {
-      "added_at": "2022-11-21 12:26:20",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
       },
@@ -887,26 +863,38 @@
     {
       "added_at": "2022-11-21 12:26:20",
       "album": {
-        "name": "Legacy - Best Of (Remastered)",
-        "url": "https://open.spotify.com/album/6gZAZJfarP7nvsAumwx7dS"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        },
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Favorite",
-          "url": "https://open.spotify.com/artist/6iHHxsJtBAUzLXbqUr0bbK"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Mittelfinger hoch - Remastered",
-      "url": "https://open.spotify.com/track/6pUMwOnqt0DAvVYFtOLOb7"
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
+    },
+    {
+      "added_at": "2022-11-21 12:26:20",
+      "album": {
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        },
+        {
+          "name": "Dennis Dubplate",
+          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
+        }
+      ],
+      "duration_ms": 330409,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

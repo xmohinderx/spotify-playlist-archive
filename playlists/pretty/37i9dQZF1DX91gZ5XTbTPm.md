@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Peezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,440 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,475 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 1 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 2 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 |
 | 3 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 |
 | 4 | [Vanish Mode](https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 1:57 |

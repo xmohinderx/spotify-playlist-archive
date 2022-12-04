@@ -4,7 +4,7 @@
 
 > ¡Picositos y con mucho sabor para apoyar a la Selección! 🇲🇽 🥳
 
-170 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
+171 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/4Q1G17YGjayP3gLunVYAPv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 | 2021-10-20 |  |
 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 | 2022-10-29 |  |
 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 | 2022-10-29 |  |
-| [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2022-04-20 |  |
+| [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2022-04-20 | 2022-12-04 |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2022-10-29 |  |
 | [Ella Me Enamoró](https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Ella Me Enamoró](https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp) | 3:46 | 2021-10-20 | 2022-07-29 |
 | [En Mi Escritorio](https://open.spotify.com/track/2pvfjoRy3OVfPDJuSKZ9cU) | [Grupo Sensacíon Latina](https://open.spotify.com/artist/0AxfwcgIunBWHErW7HtZmK) | [En Mi Escritorio](https://open.spotify.com/album/6luDAF1ZwQWRb6j2UebJHi) | 4:29 | 2022-10-29 |  |
@@ -170,6 +170,7 @@
 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 | 2021-10-20 | 2022-07-29 |
 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 | 2022-10-29 |  |
 | [Un Tabaco Para Elegua](https://open.spotify.com/track/0jX8MPtLTQc6DV4os7Pdjr) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Orquesta Akokán](https://open.spotify.com/album/71QnNPSX1wsG9ZCUwKOFgE) | 5:35 | 2021-10-20 | 2022-10-15 |
+| [Viene de Mi](https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7) | 3:50 | 2021-10-20 |  |
 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 | 2021-10-20 | 2022-12-01 |
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 | 2022-11-13 |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-20 | 2022-07-25 |

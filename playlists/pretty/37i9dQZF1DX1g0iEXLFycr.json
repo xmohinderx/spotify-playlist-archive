@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1058282,
+  "num_followers": 1058293,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDc2OTA2OGJkOWJkOWI5NjQ0Yzc5MjNmYTVmMWZmNTg0",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDBhYjYyZGIwYzYwYjM5MzA4ZTk0NmU3MTdjMjBjOTQw",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 222733,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Are You Ready For Love? - Remastered",
+      "url": "https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 198066,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/2fHruzatznikGKFeL9Gujm"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Diamonds (Deluxe)",
-        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Are You Ready For Love? - Remastered",
-      "url": "https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR"
     },
     {
       "added_at": "2020-08-27 16:10:25",

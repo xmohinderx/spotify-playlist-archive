@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,022 likes - 148 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,202 likes - 148 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 33 | [Peer Pressure](https://open.spotify.com/track/30PDbNjIAYsxmh5z0gdJUN) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Peer Pressure](https://open.spotify.com/album/6FGjZ4GxmrGCr89TRLwk19) | 3:24 |
 | 34 | [Sinking ships](https://open.spotify.com/track/0rnI5wlgmeUF2iFI2d1WEx) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Arrest that man](https://open.spotify.com/album/21XcINkyFBW3xswH4R3mNl) | 2:25 |
 | 35 | [Sunday](https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sunday](https://open.spotify.com/album/0oRhu0c7zQf7dd2HnrCoHC) | 2:26 |
-| 36 | [stating the obvious](https://open.spotify.com/track/6v7devbeCi08pDiP1zwRmQ) | [Snake Pila](https://open.spotify.com/artist/345Ge7p3aRxLcZ7q6lf7BT) | [stating the obvious](https://open.spotify.com/album/0EtIyPTxbTK6yzcr1wbFzy) | 1:49 |
+| 36 | [stating the obvious](https://open.spotify.com/track/6v7devbeCi08pDiP1zwRmQ) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [stating the obvious](https://open.spotify.com/album/0EtIyPTxbTK6yzcr1wbFzy) | 1:49 |
 | 37 | [hitman](https://open.spotify.com/track/07mtxPnVwfhAjkDyQE1E6s) | [JayDottCee](https://open.spotify.com/artist/3bQMC69yJgrnGSHe9Iq8Hj) | [hitman](https://open.spotify.com/album/5PUyutVWtUf2e8kTHMkKRR) | 1:22 |
 | 38 | [M it Work](https://open.spotify.com/track/5p638kC9qKj6cB2HIZBAri) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [M it Work / Ya Habibi](https://open.spotify.com/album/0wlU5ZnbgwBypx9mMbtu5T) | 2:17 |
 | 39 | [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 |

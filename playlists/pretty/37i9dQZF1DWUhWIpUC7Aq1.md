@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,799 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,102 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 28 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
 | 29 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 |
 | 30 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
-| 31 | [Nine in the Afternoon \- Single Mix](https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:11 |
+| 31 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
 | 32 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
-| 33 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
+| 33 | [Nine in the Afternoon \- Single Mix](https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:11 |
 | 34 | [America](https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 3:35 |
 | 35 | [Rebellion \(Lies\)](https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:10 |
 | 36 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 91 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
 | 92 | [Nothing To Be Done](https://open.spotify.com/track/4vReegUzNPc2t06jJKgieU) | [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP) | [Truckload Of Trouble](https://open.spotify.com/album/2ghVoguFTuCBLKSuDeojQ1) | 3:52 |
 | 93 | [Here We Go](https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF) | [Punch\-Drunk Love](https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB) | [Punch\-Drunk Love \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ) | 4:46 |
-| 94 | [A Teenager in Love](https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 3:19 |
-| 95 | [Atop a Cake](https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:19 |
+| 94 | [Atop a Cake](https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:19 |
+| 95 | [A Teenager in Love](https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 3:19 |
 | 96 | [Glow Worms](https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:16 |
 | 97 | [Hallways](https://open.spotify.com/track/4FzQApCNgoI2HAaBrdmkox) | [Islands](https://open.spotify.com/artist/1ObsHTgbvIYOfSHohHuV6n) | [A Sleep & A Forgetting](https://open.spotify.com/album/36GHC6uosFJ1nR4M7qIo90) | 2:53 |
 | 98 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
 | 99 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:50 |
 | 100 | [Let's Talk About Spaceships](https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz) | [Say Hi](https://open.spotify.com/artist/2da7ehIX9lFyIDqmjqVZvS) | [Numbers & Mumbles](https://open.spotify.com/album/75uYCevfxAInfAFSrBUBIa) | 3:03 |
 
-Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMDk2YzdlZmNkMWMyMTA2YTEyYjUxMTg0NGM3MzBkMTc1`
+Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMGMwMzRlYjM2ZWM5NmE4Yjc5ZjgzNGNiNDA0MTZmMWU3`

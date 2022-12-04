@@ -1,12 +1,12 @@
 {
   "description": "The ultimate neon cowgirl Kelsea Ballerini is taking over to celebrate her brand new album SUBJECT TO CHANGE \ud83d\udc9b",
-  "num_followers": 85363,
+  "num_followers": 85439,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDk3ZTMyOGVmNGU4NDIyOWFkNjdiMWU5ZmY3MDg3NTA1",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDkyYzkwMTFhMjMwODUxM2U3ZjhkZTM0OWVhNzNlYjgx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "I'm Gonna Getcha Good",
-      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Potential Breakup Song",
         "url": "https://open.spotify.com/album/49mFTJkOKu0labagCQyURy"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 218333,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "I'm Gonna Getcha Good",
+      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Whose Bed Have Your Boots Been Under?",
-      "url": "https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -1251,6 +1235,34 @@
       "duration_ms": 174306,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/3d0VZU6Mf2hdZRHA4zry8S"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Hell On Heels",
+        "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
+      },
+      "artists": [
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Hell on Heels",
+      "url": "https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C"
     }
   ],
   "unique_name": "neon cowgirl",

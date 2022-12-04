@@ -4,7 +4,7 @@
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-153 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
+154 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/6D5KhpY0TFfZWTYriDgErp) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Chansons Collected](https://open.spotify.com/album/1mJgaoLt3bJRoOY16VYd6G) | 2:33 | 2022-05-16 | 2022-11-07 |
 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 | 2022-03-25 |  |
 | [Replay](https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [Replay](https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7) | 2:53 | 2020-02-25 |  |
-| [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 | 2020-02-25 |  |
+| [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 | 2020-02-25 | 2022-12-04 |
 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 | 2020-02-25 |  |
 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 | 2020-02-25 |  |
 | [Rise Up \- Eurovision 2014 \- Greece](https://open.spotify.com/track/2oFmGjyOGefQ6Af2ysnDfQ) | [Freaky Fortune](https://open.spotify.com/artist/5cRocmkAjNUol2bK9v2Ce0), [Riskykidd](https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2) | [Eurovision Song Contest 2014 Copenhagen](https://open.spotify.com/album/2ChBXM2MXu0Kvmkq9gAbXm) | 3:04 | 2022-03-01 | 2022-07-28 |
@@ -159,6 +159,7 @@
 | [Wild Dances](https://open.spotify.com/track/1Lav2Z3RKu71MJLIjQz4dQ) | [Ruslana](https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa) | [Wild Dances](https://open.spotify.com/album/1z6OfyGs0GepuESby1DUhB) | 3:03 | 2020-02-25 |  |
 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 | 2020-02-25 |  |
 | [You are the only one](https://open.spotify.com/track/6IMHlXaG4aCFWupl9NCZO2) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [THE ONE](https://open.spotify.com/album/49mZVsGNM1z8GZ5qGOev0r) | 3:06 | 2022-05-16 | 2022-12-01 |
+| [You are the only one](https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [THE ONE](https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO) | 3:06 | 2022-05-16 |  |
 | [You are the only one](https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [You are the only one](https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO) | 3:06 | 2022-02-28 | 2022-07-29 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2022-03-25 |  |
 

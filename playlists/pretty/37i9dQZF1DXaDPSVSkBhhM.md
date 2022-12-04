@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,704 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,725 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 36 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
 | 37 | [Distancias](https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA) | [Diez Veces Yo](https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l) | [Historias](https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg) | 3:18 |
 | 38 | [Lavántula](https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [III·I](https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r) | 3:11 |
-| 39 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 |
-| 40 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
+| 39 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
+| 40 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 |
 | 41 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 | 42 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
 | 43 | [Canción para Ti](https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q) | [Blast55](https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8) | [A Todos Nos Pasa](https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve) | 3:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 47 | [Primer Lugar](https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Primer Lugar](https://open.spotify.com/album/5SqvbU9C4x09HtKMmTRB3D) | 3:32 |
 | 48 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 |
 | 49 | [La Naturaleza Incoherente del Ser](https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG) | [Dolores De Huevos](https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV) | [La Naturaleza Incoherente del Ser](https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW) | 3:23 |
-| 50 | [Lok@](https://open.spotify.com/track/7orFFFEFlV8ZALcxkH4r5a) | [Luisa Vox](https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA) | [Lok@](https://open.spotify.com/album/7qOp61YbdJiEibJUWMaAe6) | 2:31 |
+| 50 | [La Ultima Excusa](https://open.spotify.com/track/00ru0jOJXVP8Qf5fdBTaqX) | [Corre Forrest!](https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5) | [La Ultima Excusa](https://open.spotify.com/album/4JeUbPW3mouXCWWgV5KFt8) | 4:54 |
 
-Snapshot ID: `MTY2NDY1MDQ4MiwwMDAwMDAwMDhlMjE0NjRkZjRhNjRiYzRiZWQ1OGViZDM3MWI3ZWZi`
+Snapshot ID: `MTY2NDY1MDQ4MiwwMDAwMDAwMDYxN2YxNWIxNDQxY2VjNTlkMTVkZWQzNmE5NGI3Mzk5`

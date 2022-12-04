@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 45166,
+  "num_followers": 45228,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MzcxMCwwMDAwMDAwMDU1ZDFjODY5ZTIxYzc1NGY5OGU3ZWVkOGJiZjZlYzA2",
+  "snapshot_id": "MTY2ODE3MzcxMCwwMDAwMDAwMGM0NThlMWNkYjhlNGE0ZDViNDQzZjc4NTg5Y2VlNTU2",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live 2012",
         "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 411973,
       "name": "Yellow - Live",
       "url": "https://open.spotify.com/track/58MrV6J9oS46ViY1N6gTJX"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Cassy O' (EP)",
+        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Budapest - Live from Spotify Stockholm",
+      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "You're Still The One - Live",
-      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live At Knebworth",
         "url": "https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 355666,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "You're Still The One - Live",
+      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 389728,
-      "name": "thank u, next - live",
-      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Infinite Disco",
         "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 193026,
       "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
       "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 389728,
+      "name": "thank u, next - live",
+      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Farewell: Live in Concert at Sydney Opera House",
         "url": "https://open.spotify.com/album/2ROL02gUpj3nTbB6CCuEz3"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 245944,
       "name": "Stars - Live at Sydney Opera House",
       "url": "https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 231040,
-      "name": "Waterloo - Live",
-      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
+      "duration_ms": 217173,
+      "name": "Everything - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Everything - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+      "duration_ms": 231040,
+      "name": "Waterloo - Live",
+      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
-        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
-      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live in Dortmund",
         "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 246146,
       "name": "The Lady In Red - Live",
       "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
+        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 223226,
+      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
+      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
       },
       "artists": [
         {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 321453,
-      "name": "Lemon Tree - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
+      "duration_ms": 180346,
+      "name": "Hopelessly Devoted To You - Live",
+      "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
+        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
         }
       ],
-      "duration_ms": 180346,
-      "name": "Hopelessly Devoted To You - Live",
-      "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
+      "duration_ms": 321453,
+      "name": "Lemon Tree - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Lady Croissant (Live)",
-        "url": "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Breathe Me - Live",
-      "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Warwick Avenue (Live)",
         "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+        "name": "Lady Croissant (Live)",
+        "url": "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+      "duration_ms": 352333,
+      "name": "Breathe Me - Live",
+      "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1587,6 +1571,22 @@
       "duration_ms": 367493,
       "name": "Take My Breath Away - Live",
       "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2022-08-09 09:45:24",

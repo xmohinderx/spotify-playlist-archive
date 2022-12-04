@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 639519,
+  "num_followers": 639708,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMDE5ZmM0MDI1YjhiZTVkMzY3YTIyZDdmYTQ3NGU0NTc4",
+  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGVlZThjMjA5MWVkYTk1NDU1YmY2MDRmMjQ1MWZjNjI1",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -67,26 +67,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
       "artists": [
         {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "FARR",
-          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         }
       ],
-      "duration_ms": 223641,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -111,6 +107,30 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "duration_ms": 223641,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 209864,
       "name": "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "pg baby (Remix)",
-        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "pg baby - Remix",
-      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -239,22 +239,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+        "name": "pg baby (Remix)",
+        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
         },
         {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+      "duration_ms": 249675,
+      "name": "pg baby - Remix",
+      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -419,22 +419,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Fast Life",
-        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
+        "name": "A Quarter Til",
+        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
       "artists": [
         {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
         }
       ],
-      "duration_ms": 117211,
-      "name": "Fast Life",
-      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
+      "duration_ms": 92000,
+      "name": "Jus Lef Phoenix",
+      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "A Quarter Til",
-        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
       },
       "artists": [
         {
-          "name": "A$AP Twelvyy",
-          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
         }
       ],
-      "duration_ms": 92000,
-      "name": "Jus Lef Phoenix",
-      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
+      "duration_ms": 117211,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -547,22 +547,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Plain Sight",
-        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
+        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
       },
       "artists": [
         {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
         },
         {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Plain Sight",
-      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
+      "duration_ms": 177030,
+      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -607,22 +607,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
-        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
+        "name": "Plain Sight",
+        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
       },
       "artists": [
         {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
         },
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
         }
       ],
-      "duration_ms": 177030,
-      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
-      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
+      "duration_ms": 205400,
+      "name": "Plain Sight",
+      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        }
-      ],
-      "duration_ms": 172499,
-      "name": "JADAKISS INTERLUDE (feat. Jadakiss)",
-      "url": "https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "This Thing Of Ours",
         "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "duration_ms": 172499,
+      "name": "JADAKISS INTERLUDE (feat. Jadakiss)",
+      "url": "https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Where I Belong",
-        "url": "https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Hollandaise",
         "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 178677,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
     }
   ],
   "unique_name": "Spilled Ink",

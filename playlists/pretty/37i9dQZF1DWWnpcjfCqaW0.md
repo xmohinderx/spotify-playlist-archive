@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,287 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,521 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 43 | [Young Love](https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S) | [Sonny James](https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy) | [Capitol Collectors Series](https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr) | 2:32 |
 | 44 | [Don't Take Your Guns to Town](https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 3:02 |
 | 45 | [In Care Of The Blues](https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:33 |
-| 46 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
-| 47 | [The Shot Gun Boogie](https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Sixteen Tons](https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4) | 2:35 |
+| 46 | [The Shot Gun Boogie](https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Sixteen Tons](https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4) | 2:35 |
+| 47 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
 | 48 | [Cold, Cold Heart](https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:45 |
 | 49 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [The Complete Columbia Recording Sessions, Vol\. 1 \- 1950\-1951](https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2) | 2:59 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 55 | [Oh Lonesome Me](https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:29 |
 | 56 | [Beautiful Lies](https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [The Best Of Jean Shepard](https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB) | 2:50 |
 | 57 | [Goodnight, Irene](https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS), [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Sunshine Trio](https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn) | [The Definitive Collection](https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T) | 3:01 |
-| 58 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
-| 59 | [Under Your Spell Again](https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:44 |
+| 58 | [Under Your Spell Again](https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:44 |
+| 59 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
 | 60 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
 | 61 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 |
 | 62 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Midnight](https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:12 |
 | 75 | [Fraulein](https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [20 Of His Best](https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0) | 2:41 |
 
-Snapshot ID: `MTY1ODY5MzczNSwwMDAwMDAwMDFmYTIwNWNjNDg2YmY5ZDIyOGIzM2I5OTY1ZDRjNGVi`
+Snapshot ID: `MTY1ODY5MzczNSwwMDAwMDAwMDE4NWU4Mjc0YWZhY2NkYzc3MTMxZWIzZTExYjZhYTJi`

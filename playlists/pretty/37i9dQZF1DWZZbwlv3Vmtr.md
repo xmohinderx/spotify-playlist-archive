@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,569 likes - 349 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,724 likes - 349 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,7 +304,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 294 | [City Lights](https://open.spotify.com/track/6MyvaNGQdY1j36y7yRWpUn) | [Ghostrifter Official](https://open.spotify.com/artist/1mIePRs1ixMW0gTaTSbX2p) | [City Lights](https://open.spotify.com/album/6v2B9nnoNASOyxxM9RW339) | 2:36 |
 | 295 | [Your Glow](https://open.spotify.com/track/7wig0c7koqSvDiincDAEXX) | [Prime Suspect](https://open.spotify.com/artist/5YQhFX1KlOhn5yZJL22mAR) | [Your Glow](https://open.spotify.com/album/1xuQYgF21HQ9va023HWgod) | 1:52 |
 | 296 | [crying in the coupe](https://open.spotify.com/track/5oWdA9tf8u8nBdMscpKtTx) | [boone](https://open.spotify.com/artist/7k8Bmj6nhufgVpoVrGDKib) | [crying in the coupe](https://open.spotify.com/album/4hcVFgwEJOb2bchyx3GOBp) | 2:24 |
-| 297 | [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 |
+| 297 | [night waves](https://open.spotify.com/track/4Ymj9hO8ocX1wkA54kZMaM) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/0YY5a07WEQ4kEhbsNOWiWx) | 1:34 |
 | 298 | [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 |
 | 299 | [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 |
 | 300 | [Fly with me to the moon](https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Fly with me to the moon](https://open.spotify.com/album/3om1Wcwqb7qMFegOjcRPog) | 2:09 |
@@ -358,4 +358,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 348 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 349 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY2OTM4MTcwMCwwMDAwMDAwMDQ4YWVmNWIyNWVmZmRiNWFhMWE3NGY2NTQxNTAyYmQ2`
+Snapshot ID: `MTY2OTM4MTcwMCwwMDAwMDAwMDM0NTliODI2NDRiMDJjNjdiMDgyMGZlNzVhMzI3YmJl`

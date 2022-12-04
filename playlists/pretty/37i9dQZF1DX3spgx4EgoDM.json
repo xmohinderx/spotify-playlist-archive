@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 128069,
+  "num_followers": 128159,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDBmZTEzMTQ0OTk0MGQ0M2E5NDU1ZjJhMDliM2I5ZDE4",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMGY0NmFlNGFiMzRjNDU2MGJkN2U3OWRiZmMzMWY1YmRk",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Coraz\u00f3n de Papel",
+        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Amores como el nuestro",
+      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n de Papel",
-        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Amores como el nuestro",
-      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "No Se",
+        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 160689,
+      "name": "No Se",
+      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 208400,
       "name": "Cumbia A La Gente",
       "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "No Se",
-        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 160689,
-      "name": "No Se",
-      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Lo mejor de R\u00e1faga",
-        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Una R\u00e1faga de Amor",
-      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 254333,
       "name": "Vienes y Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Lo mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Una R\u00e1faga de Amor",
+      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 315680,
       "name": "El Verde De Tus Ojos - Remix",
       "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "A\u00fan Sigue La Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Llorar\u00e1s M\u00e1s De Diez Veces",
-      "url": "https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
         "name": "Sa, Za...Sabor!!!",
         "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "A\u00fan Sigue La Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "Llorar\u00e1s M\u00e1s De Diez Veces",
+      "url": "https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Cumbiando Este 5 De Mayo",
         "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
       },
@@ -1603,18 +1603,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
       },
       "artists": [
         {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 193760,
-      "name": "El Santo Del Amor",
-      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
+      "duration_ms": 220226,
+      "name": "Si Te Marchas, No Hay Manera",
+      "url": "https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1651,22 +1655,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
         }
       ],
-      "duration_ms": 220226,
-      "name": "Si Te Marchas, No Hay Manera",
-      "url": "https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8"
+      "duration_ms": 193760,
+      "name": "El Santo Del Amor",
+      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
     },
     {
       "added_at": "2022-12-02 03:00:00",

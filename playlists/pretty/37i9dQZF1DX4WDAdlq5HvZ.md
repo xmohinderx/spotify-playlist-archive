@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,917 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,929 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 30 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 | 31 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 |
 | 32 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
-| 33 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
-| 34 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
+| 33 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
+| 34 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
 | 35 | [When God Made You](https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [More Life](https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq) | 4:41 |
 | 36 | [Love Me Like I Am](https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:04 |
 | 37 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 |
 | 38 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
 | 39 | [Nobody Loves Me Like You](https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:26 |
 | 40 | [Infinite Love](https://open.spotify.com/track/7nSi8zg7M36sQ8X65CG1q4) | [Orlando Vick](https://open.spotify.com/artist/3MZY2J55U6iYpPB5A7BCyE) | [Infinite Love](https://open.spotify.com/album/5xY3XsSsbDpF5UBQzgGTWu) | 3:43 |
-| 41 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
-| 42 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
+| 41 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
+| 42 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
 | 43 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
 | 44 | [Love Lifting Me](https://open.spotify.com/track/4O8TOAWNMGrvpY3bn0SO3y) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:19 |
 | 45 | [Write Your Story](https://open.spotify.com/track/0wWDNsLRUuXFGRd4NcrdrR) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 79 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 |
 | 80 | [You Have Provided](https://open.spotify.com/track/00bTXTGgdFZDo46TmY52Rv) | [David Walker](https://open.spotify.com/artist/5EnYAzla5xYZmVnTyx7qv4), [10,000 Fathers](https://open.spotify.com/artist/48jeM9IfFZT9LpKKkN076l) | [You Have Provided](https://open.spotify.com/album/5eecteiGogxClzN7fKHQkE) | 3:47 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDQ2ZmQyZTk5YTMzZjAxNDA4OTAxM2Y2MWJkMTBiZDE2`
+Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDlhMTc4YzIyMzNiYTExY2IxMjQxYzgxN2I1MTY2MDc4`

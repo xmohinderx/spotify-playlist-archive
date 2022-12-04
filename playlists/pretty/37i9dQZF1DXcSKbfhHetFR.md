@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,584 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,589 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 7 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 |
 | 8 | [Le temps passe](https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX) | 3:24 |
 | 9 | [J'ai oublié](https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse sociale](https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR) | 3:55 |
-| 10 | [Moisi moé'ssi](https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo) | 3:15 |
-| 11 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
+| 10 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
+| 11 | [Moisi moé'ssi](https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo) | 3:15 |
 | 12 | [Gros tas d'marde](https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV) | 3:10 |
 | 13 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
 | 14 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 26 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
 | 27 | [Ma dope à moi](https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX) | 3:28 |
 | 28 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
-| 29 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
-| 30 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
+| 29 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
+| 30 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
 | 31 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
 | 32 | [Big Bang](https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU) | 3:20 |
 | 33 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 |
 | 34 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 |
 | 35 | [Je suis down](https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL) | [Rita\-Rita](https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse) | [Rita\-Rita](https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj) | 3:15 |
-| 36 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 |
-| 37 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 |
+| 36 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 |
+| 37 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 |
 | 38 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
 | 39 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
 | 40 | [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 43 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
 | 44 | [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 |
 | 45 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
-| 46 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
-| 47 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
+| 46 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
+| 47 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
 | 48 | [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 |
 | 49 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
 | 50 | [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 |
 
-Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDc2OTZhYTc2N2YwYjJjMzkzMjk2MjEzMDA0MThiMGZk`
+Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDJmZmM2YjYxMjg1ZDAzZjQyNTI3M2IxNGQwY2M3NjE5`

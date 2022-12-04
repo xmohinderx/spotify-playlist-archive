@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 551 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 15 | [STOP n GO](https://open.spotify.com/track/1e4kVDvQEnCXmwIyRnQ9Sp) | [ESK MUSIQ](https://open.spotify.com/artist/7ppEFv8M6nW7ctXgqmZduO) | [STOP n GO](https://open.spotify.com/album/62cRkfiKh54HpLnSsey7Sq) | 5:53 |
 | 16 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 |
 | 17 | [Foto's](https://open.spotify.com/track/2CXPWDTeBy24Oimfkt9W5f) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/2Ht5z0X8TlW12AbfhQwqIV) | 3:14 |
-| 18 | [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 18 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
 | 19 | [DALI WAMI \(feat\. Dinky Kunene,LuE,TNK Musiq & Stopper\)](https://open.spotify.com/track/7hTIoS8nyieGhvOWzeN3qf) | [Keenan O & T\-Style](https://open.spotify.com/artist/63IkK2vMT5mnP3yV4v6ein), [Dinky Kunene](https://open.spotify.com/artist/40rNjx0M8iAB9kwQB3h1oI), [LuE](https://open.spotify.com/artist/6zgiCnQkJ4Cdbnvzw0Cssr), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [Stopper](https://open.spotify.com/artist/5bgaMevvR6ah2NlcfiPQNE) | [DALI WAMI \(feat\. Dinky Kunene,LuE,TNK Musiq & Stopper\)](https://open.spotify.com/album/4m5g39Feo5Ro6yVbXJCbm1) | 6:24 |
 | 20 | [I Never Thought \(Soulful Remix\)](https://open.spotify.com/track/0OM8CxsdhxnRidlrc1Z1nM) | [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [Divine Maestro](https://open.spotify.com/artist/5MSnPn1osPJQns6QQA2NvE), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc), [Nex Vocals](https://open.spotify.com/artist/1uGko7NHvYPhtlKK38QI9V) | [Soul In Me](https://open.spotify.com/album/6zbapu2HiXeMQ7DS4JrUNe) | 7:13 |
 | 21 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 |

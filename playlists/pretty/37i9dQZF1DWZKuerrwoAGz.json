@@ -1,12 +1,12 @@
 {
   "description": "Put a smile on your face with these happy tunes from the last 30 years. ",
-  "num_followers": 354924,
+  "num_followers": 355182,
   "original_name": "Happy Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA0ODg2MywwMDAwMDAwMDhkZTBjNjI0MTg3MDQ3YzFlMWMyZWYwN2JhOWY1NzBl",
+  "snapshot_id": "MTY2NTA0ODg2MywwMDAwMDAwMDU0ZjVmNTk4NDExYjkwYzU4MzI1OTFiYjM3NzhmOTVh",
   "tracks": [
     {
       "added_at": "2021-11-23 10:28:23",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 178560,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Feel So Close - Radio Edit",
-      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 197935,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -899,26 +899,6 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "The Midsummer Station",
-        "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
       },
@@ -955,34 +935,22 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+        "name": "The Midsummer Station",
+        "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
-        "name": "Loud (Japan Version)",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 243600,
-      "name": "S&M",
-      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+      "duration_ms": 205933,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -1003,6 +971,38 @@
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -1161,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
     },
     {
-      "added_at": "2022-12-03 01:08:11",
+      "added_at": "2022-12-04 01:10:47",
       "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
+        "name": "Welcome To The Madhouse (Deluxe)",
+        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
-        "name": "Welcome To The Madhouse (Deluxe)",
-        "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "First Band On The Moon (Remastered)",
-        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
       },
       "artists": [
         {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
         }
       ],
-      "duration_ms": 193953,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -1643,21 +1643,21 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+        "name": "First Band On The Moon (Remastered)",
+        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
       "artists": [
         {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
+      "duration_ms": 193953,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
     },
     {
-      "added_at": "2022-12-03 01:08:11",
+      "added_at": "2022-12-04 01:10:47",
       "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
-      },
-      "artists": [
-        {
-          "name": "Hot Chelle Rae",
-          "url": "https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Tonight Tonight",
-      "url": "https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
       },
@@ -2103,22 +2087,18 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "Rather Be (feat. Jess Glynne)",
-        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          "name": "Hot Chelle Rae",
+          "url": "https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0"
         }
       ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
+      "duration_ms": 200466,
+      "name": "Tonight Tonight",
+      "url": "https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -2143,6 +2123,26 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
+        "name": "Rather Be (feat. Jess Glynne)",
+        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
         "name": "Blazzin' Fire",
         "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
       },
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "Magazines Or Novels",
-        "url": "https://open.spotify.com/album/0XUNG1cssmwHh22loRqKdJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 199263,
-      "name": "Honey, I'm Good.",
-      "url": "https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
         "name": "Picture This (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 246240,
       "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
       "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
+        "name": "Magazines Or Novels",
+        "url": "https://open.spotify.com/album/0XUNG1cssmwHh22loRqKdJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 199263,
+      "name": "Honey, I'm Good.",
+      "url": "https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
         "name": "Night Shades",
         "url": "https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 215693,
       "name": "You Make Me Feel... (feat. Sabi)",
       "url": "https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2021-11-23 10:28:23",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2021-11-23 10:28:23",
       "album": {
-        "name": "Night Visions (Deluxe)",
-        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "On Top Of The World",
-      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
-    },
-    {
-      "added_at": "2021-11-23 10:28:23",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "added_at": "2021-11-23 10:28:23",
+      "album": {
+        "name": "Night Visions (Deluxe)",
+        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
     }
   ],
   "unique_name": "Happy Favorites",

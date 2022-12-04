@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,079 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,133 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 17 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
 | 18 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
 | 19 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 |
-| 20 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
-| 21 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
+| 20 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
+| 21 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
 | 22 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 |
 | 23 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 24 | [Clair de lune \(For Twelve\-String\) \[Live\]](https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx) | [Robbie Basho](https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR) | [Live in Forlì, Italy 1982](https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Ghost Dance](https://open.spotify.com/track/6yWlIVjWD0BsSyYfI8nHML) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Time Flies](https://open.spotify.com/album/1Kdp3yonYFGMiBGyP7o6vG) | 3:33 |
 | 50 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ) | 5:39 |
 
-Snapshot ID: `MTY2OTM4MTM5MSwwMDAwMDAwMDQzYzZlZjA4ZThjMzI2MTc2YjkwN2NlNTc4NWJiMzY0`
+Snapshot ID: `MTY2OTM4MTM5MSwwMDAwMDAwMGRhYmQyNjA0YTNiMWRiMzFmNmQ1MjdmNmY0MDE4ODA1`

@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Whitney Houston",
-  "num_followers": 248821,
+  "num_followers": 248998,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMGMxNTU2Mzk2MjAyM2YwY2VkMTJiYTEwYjk2ZGNkOTQw",
+  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMDg5MTk2NTM0NmE2MzI0MzMzYmEyNmY3Nzk2ZDY0Yzg3",
   "tracks": [
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 226133,
       "name": "The Next Time I Fall (with Amy Grant)",
       "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
         "name": "Greatest Hits 1979-1990",
         "url": "https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 256466,
       "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
       "url": "https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6Zryl3gseZcPOYq3KnPXf9"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/4xiaE15ARCs5CVPA6J8gmC"
     },
     {
       "added_at": "2022-06-16 04:02:34",

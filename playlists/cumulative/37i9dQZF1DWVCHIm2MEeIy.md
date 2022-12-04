@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-255 songs - 1 day 0 hr 13 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
+256 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-06-17 | 2022-10-13 |
 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 | 2022-06-24 |  |
 | [Nefarius \- Original Short Edit](https://open.spotify.com/track/6LZ4x2csXmU81hcVCXuKk1) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Nefarius EP \(Short Edits\)](https://open.spotify.com/album/171UVAsDr4v5Qa4Y4a0M2L) | 4:18 | 2022-04-15 | 2022-04-21 |
+| [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 |  |
 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 | 2022-06-17 | 2022-11-20 |
 | [Night Shadows](https://open.spotify.com/track/1FTOQKWSOzAIX52lkTqXXm) | [Oma Nata](https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo) | [Night Shadows](https://open.spotify.com/album/4utOYP6QynCmhWYB6qTNr6) | 6:30 | 2022-05-20 | 2022-05-27 |
 | [Nosara](https://open.spotify.com/track/0cAarkhbKeI6z0YnpwjyLP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Nosara](https://open.spotify.com/album/3S32phAJPXvFM1jbq9fKF5) | 7:28 | 2022-04-15 | 2022-07-28 |
@@ -200,7 +201,7 @@
 | [Save The Rave](https://open.spotify.com/track/0F98k4uhiiQhyCMKojTkFB) | [Lexy & K\-Paul](https://open.spotify.com/artist/5Jpy5UevFNksfrxNyE7tcE) | [Save The Rave](https://open.spotify.com/album/3lejIMtfZWGjcSGSBroPrY) | 6:07 | 2022-05-20 | 2022-06-22 |
 | [Serendipity](https://open.spotify.com/track/6qw42FVO2fhF0C8EetLU09) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Serendipity](https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ) | 6:08 | 2022-11-15 | 2022-11-26 |
 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 | 2022-10-07 |  |
-| [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 | 2022-11-14 |  |
+| [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 | 2022-11-14 | 2022-12-04 |
 | [Shinsetsu](https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shinsetsu](https://open.spotify.com/album/6UqkzKbzEYtSYUtcA0Z2ED) | 8:03 | 2022-04-15 | 2022-07-29 |
 | [Si Soy Fuego](https://open.spotify.com/track/6oa8rEFHMIrYpHh3AmsaMa) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Si Soy Fuego](https://open.spotify.com/album/4kqAFegAsBLlAr9mWWOqOE) | 5:20 | 2022-04-15 |  |
 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 | 2022-04-15 |  |

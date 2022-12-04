@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3OoC54nEM3Xl7Kn5hsDdpg">Finesse2tymes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,704,582 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,704,929 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 5 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 |
 | 6 | [No Passes](https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [No Passes](https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22) | 2:40 |
 | 7 | [One Time \(feat\. Jeezy\)](https://open.spotify.com/track/4tKDqeQ3ncq5o5TSWfqF6r) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [One Time \(feat\. Jeezy\)](https://open.spotify.com/album/271gGCV1AglrQLAr1VsiAx) | 2:46 |
-| 8 | [Wonderful Wayne & Jackie Boy \(feat\. Lil Durk\)](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
+| 8 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 |
 | 9 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 |
 | 10 | [Celine Frames](https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Last Man Standing](https://open.spotify.com/album/2aFnmYzaupGK12iAYejKC4) | 2:35 |
 | 11 | [If You Still Wit Me \(feat\. Lil Baby\)](https://open.spotify.com/track/4EvFzNPsp8iyiEO9LDHopv) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [90 Days](https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL) | 3:16 |

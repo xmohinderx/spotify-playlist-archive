@@ -355,10 +355,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 202495,
       "name": "Beige",
       "url": "https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN"
+    },
+    {
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/5khD0TiegRGYelA8ju93qj"
+      },
+      "artists": [
+        {
+          "name": "Cooza",
+          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202495,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/7yiNQMIKNj9tZvhRxscbg2"
     },
     {
       "album": {

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 | 2021-05-12 |  |
+| [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 | 2021-05-12 | 2022-12-04 |
 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 | 2021-05-12 |  |
 | [A Woman Like You](https://open.spotify.com/track/3oyMHCAAcnWFdcGuVgwfhd) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:29 | 2021-06-07 |  |
 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 | 2021-05-12 |  |
@@ -18,7 +18,7 @@
 | [Am I The Only One](https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:11 | 2022-07-01 | 2022-11-13 |
 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 | 2021-05-12 |  |
 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 | 2021-06-07 |  |
-| [Anywhere With You](https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 3:29 | 2021-06-07 | 2022-11-30 |
+| [Anywhere With You](https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 3:29 | 2021-06-07 |  |
 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF) | 3:04 | 2021-05-12 |  |
 | [As She's Walking Away](https://open.spotify.com/track/2MxvvBEJreIHojGrYCwTVB) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Country](https://open.spotify.com/album/4YiqUj68PLm3CRlTEydT3Y) | 3:43 | 2021-07-22 | 2022-07-29 |
 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 | 2021-05-12 |  |

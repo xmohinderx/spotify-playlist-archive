@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-193 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
+194 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/5twUwU1oldGuLn1zhesNLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Savior](https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:44 | 2022-05-16 | 2022-05-20 |
 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 | 2022-07-25 |  |
 | [Shabba \(feat\. A$AP Rocky\)](https://open.spotify.com/track/7eaKWfov7b2Qa2n6HTesL3) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:35 | 2022-08-29 | 2022-11-08 |
+| [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 | 2022-12-02 |  |
 | [SHOOTOUT](https://open.spotify.com/track/5eAXCjiH7Xa6in6wc4JCJB) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [SHOOTOUT](https://open.spotify.com/album/3UomzSVA0CiGwfKT4a6b92) | 3:12 | 2022-04-20 | 2022-04-24 |
 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 | 2022-06-17 |  |
 | [Skeletons In My Closet](https://open.spotify.com/track/3OMfco4bEsfCOTc4tKG26F) | [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Skeletons In My Closet](https://open.spotify.com/album/441gYdixMIqkDCiGPsYQLE) | 1:53 | 2022-04-20 | 2022-07-08 |
@@ -174,7 +175,7 @@
 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 | 2022-07-25 |  |
 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 | 2022-07-25 | 2022-11-12 |
 | [Subatomic](https://open.spotify.com/track/6WYCFNz19DmDYGxk5wqLiz) | [Muo Duo](https://open.spotify.com/artist/2bpdb2V3w0oIYcMlUCp8cw), [Casshan](https://open.spotify.com/artist/1YopjlnLLy3uNvaTGULUpe), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Subatomic](https://open.spotify.com/album/6vyccqazzc4awpzXr4p428) | 3:22 | 2022-04-14 | 2022-05-14 |
-| [SUMO \| ZUMO](https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 3:47 | 2022-06-17 |  |
+| [SUMO \| ZUMO](https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 3:47 | 2022-06-17 | 2022-12-04 |
 | [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx) | 1:46 | 2022-09-30 | 2022-10-08 |
 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 | 2022-03-29 | 2022-10-17 |
 | [Surrender](https://open.spotify.com/track/2e4XSs7Y5r2lEV9bmOMVtO) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Lord Forgive Me](https://open.spotify.com/album/7BPn9yvoj98BdNOtE7L6nZ) | 3:32 | 2022-06-27 | 2022-07-29 |

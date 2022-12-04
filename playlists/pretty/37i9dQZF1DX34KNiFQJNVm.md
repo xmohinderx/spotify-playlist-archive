@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem João Gomes, Anitta, WIU, Israel & Rodolffo e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,798,041 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,798,688 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pode Maltratar \- Ao Vivo](https://open.spotify.com/track/6ey9OOtVwdRFk7nW914RMH) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Acredite \(Ao Vivo\)](https://open.spotify.com/album/2QpdRn5ixgb4ZnZVq7FUVL) | 2:47 |
-| 2 | [Perdoou Nada \- Ao Vivo](https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Jorge & Matheus](https://open.spotify.com/artist/5dRKQrL0SjYcf7VJoYuFVU) | [Perdoou Nada \(Ao Vivo\)](https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ) | 2:43 |
+| 2 | [Perdoou Nada \- Ao Vivo](https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Perdoou Nada \(Ao Vivo\)](https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ) | 2:43 |
 | 3 | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Avisa Lá \(feat\. Rebecca\)](https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8) | 2:03 |
 | 4 | [Puto de Luxo](https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Puto de Luxo](https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5) | 2:24 |
 | 5 | [Ciumenta](https://open.spotify.com/track/42wWf8vyEYFqXoe4msRScV) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 3:20 |

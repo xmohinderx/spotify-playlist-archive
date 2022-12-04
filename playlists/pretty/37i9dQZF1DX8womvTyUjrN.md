@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Polimá Westcoast, Quevedo & Mora
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,714 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,771 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 7 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
 | 8 | [fuiste](https://open.spotify.com/track/6eS0nYJ6XDrdZfkvUotzp3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [fuiste](https://open.spotify.com/album/1rrMseTyOHnWnU6dbqZC2A) | 2:58 |
 | 9 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 |
-| 10 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 |
-| 11 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
+| 10 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
+| 11 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 |
 | 12 | [En Camara Lenta](https://open.spotify.com/track/6rHlebUvcnfndGTIDB66gY) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [En Camara Lenta](https://open.spotify.com/album/4B50gmMfVnHcMyURL9cZiq) | 3:23 |
 | 13 | [Otra Vez](https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Otra Vez](https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4) | 2:35 |
 | 14 | [El Egoísmo](https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [El Egoísmo](https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx) | 2:50 |
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 21 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 |
 | 22 | [El Plan](https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Plan](https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql) | 3:37 |
 | 23 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 |
-| 24 | [Buscando un Amor](https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Buscando un Amor](https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1) | 2:55 |
-| 25 | [BAILAR CONTIGO](https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:43 |
+| 24 | [BAILAR CONTIGO](https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:43 |
+| 25 | [Buscando un Amor](https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Buscando un Amor](https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1) | 2:55 |
 | 26 | [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 |
 | 27 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 |
-| 28 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 |
-| 29 | [Mil Maneras de Morir](https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Mil Maneras de Morir](https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba) | 2:55 |
+| 28 | [Mil Maneras de Morir](https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Mil Maneras de Morir](https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba) | 2:55 |
+| 29 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 |
 | 30 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 |
 | 31 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 |
 | 32 | [La Única \- Sprite Limelight](https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Única \(Sprite Limelight\)](https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX) | 2:29 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 64 | [too good to be true](https://open.spotify.com/track/4DtPemed93VqdvI0mTw9VG) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [too good to be true](https://open.spotify.com/album/3GYLubZssZWahip1mUSzKR) | 2:32 |
 | 65 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 |
 
-Snapshot ID: `MTY2OTk2Mjc0OCwwMDAwMDAwMGEwMDcwZGIwMWVkNzFhZWI4YmM5MTNlZGU2YzY2MDQz`
+Snapshot ID: `MTY2OTk2Mjc0OCwwMDAwMDAwMDEyZDc2NjlmNDJkNjAwNWFhNzNhZDhjNWUyMjIxMGFj`

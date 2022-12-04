@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23946,
+  "num_followers": 23961,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDY2NTkzY2YwNmQ4YjYyNmQyOTIyNWYzYWFlYTgyNzY5",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDA2MWM4YTE4YjNiYzllZDE1NWJlZjUzYTU3OTNlZjVl",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "En Cuarentena",
+        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "El Combo del Mundo",
+      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Sin Pijama (Kumbia Remix)",
         "url": "https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 204288,
       "name": "Sin Pijama - Kumbia Remix",
       "url": "https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "En Cuarentena",
-        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "El Combo del Mundo",
-      "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
     },
     {
       "added_at": "2022-08-31 07:37:37",

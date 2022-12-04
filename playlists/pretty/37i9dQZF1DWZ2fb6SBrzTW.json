@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 8064,
+  "num_followers": 8090,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1Njk2MCwwMDAwMDAwMDE2ODQ4MTM2NzcyZjdmMWRlY2Q2MTFkOTU5NGQ2ZjBj",
+  "snapshot_id": "MTY2OTk1Njk2MCwwMDAwMDAwMGU2ZThhOTkxNzM3MzQ0NTU1YTMzM2QxMmEwNTllYmM0",
   "tracks": [
     {
       "added_at": "2022-09-19 07:27:22",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
-      "added_at": "2022-07-04 07:22:23",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
-    },
-    {
       "added_at": "2022-05-12 23:00:00",
       "album": {
         "name": "PALAZZO",
@@ -331,6 +315,22 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2022-07-04 07:22:23",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
     },
     {
       "added_at": "2022-09-23 06:36:20",
@@ -393,6 +393,34 @@
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
     },
     {
+      "added_at": "2022-09-09 09:20:13",
+      "album": {
+        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
+        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 205530,
+      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
+      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+    },
+    {
       "added_at": "2022-11-25 07:49:53",
       "album": {
         "name": "Bad Boy (feat. Mayorkun)",
@@ -413,22 +441,6 @@
       "url": "https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz"
     },
     {
-      "added_at": "2022-06-03 03:54:26",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
-    },
-    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Terminator",
@@ -443,6 +455,22 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2022-06-03 03:54:26",
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -501,34 +529,6 @@
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     },
     {
-      "added_at": "2022-09-09 09:20:13",
-      "album": {
-        "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
-        "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 205530,
-      "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
-      "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
-    },
-    {
       "added_at": "2022-08-08 04:43:58",
       "album": {
         "name": "Machala",
@@ -577,20 +577,20 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
-      "added_at": "2022-04-18 06:23:32",
+      "added_at": "2022-11-04 06:29:36",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+      "duration_ms": 177449,
+      "name": "Chance (Na Ham)",
+      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -609,20 +609,20 @@
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
-      "added_at": "2022-11-04 06:29:36",
+      "added_at": "2022-04-18 06:23:32",
       "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 177449,
-      "name": "Chance (Na Ham)",
-      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+      "duration_ms": 161538,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
       "added_at": "2022-11-18 11:45:01",
@@ -765,26 +765,6 @@
       "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "The Love Song (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
-    },
-    {
       "added_at": "2022-10-30 10:53:51",
       "album": {
         "name": "Knocking (Remix)",
@@ -807,6 +787,26 @@
       "duration_ms": 194621,
       "name": "Knocking (Remix)",
       "url": "https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "The Love Song (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -957,6 +957,26 @@
       "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
+      "added_at": "2022-11-25 07:49:53",
+      "album": {
+        "name": "Astalavista",
+        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "Astalavista",
+      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
       "added_at": "2022-10-21 06:11:04",
       "album": {
         "name": "Scatta Scatta",
@@ -971,6 +991,26 @@
       "duration_ms": 195398,
       "name": "Scatta Scatta",
       "url": "https://open.spotify.com/track/0n3APmjHt7yTBeHhRB8rcy"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Full Current (That's My baby)",
+        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 208296,
+      "name": "Full Current (That's My Baby)",
+      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1005,46 +1045,6 @@
       "url": "https://open.spotify.com/track/2zMTOFjChHz0XEcM0kRt4K"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Full Current (That's My baby)",
-        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 208296,
-      "name": "Full Current (That's My Baby)",
-      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
-    },
-    {
-      "added_at": "2022-11-25 07:49:53",
-      "album": {
-        "name": "Astalavista",
-        "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "Astalavista",
-      "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
-    },
-    {
       "added_at": "2021-10-08 04:33:18",
       "album": {
         "name": "Gone Far",
@@ -1059,6 +1059,26 @@
       "duration_ms": 148692,
       "name": "Gone Far",
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
+    },
+    {
+      "added_at": "2022-11-25 07:49:53",
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     },
     {
       "added_at": "2022-09-23 06:36:20",
@@ -1119,26 +1139,6 @@
       "duration_ms": 206280,
       "name": "Kilometer - Remix",
       "url": "https://open.spotify.com/track/3aDnVO9Omzz4EytKraWg9o"
-    },
-    {
-      "added_at": "2022-11-25 07:49:53",
-      "album": {
-        "name": "Vawulence",
-        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Vawulence",
-      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     },
     {
       "added_at": "2022-08-12 05:43:18",

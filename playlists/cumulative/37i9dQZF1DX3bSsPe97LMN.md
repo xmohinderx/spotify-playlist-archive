@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Esteban Gabriel en portada.
 
-179 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
+180 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 | 2022-09-23 | 2022-11-19 |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 | 2022-09-24 |
 | [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 | 2022-09-30 |  |
+| [Eres](https://open.spotify.com/track/1tCJPawEVGoqJJqAKGHKC1) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 4:08 | 2022-12-02 |  |
 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 | 2022-06-07 | 2022-10-15 |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-29 | 2022-08-06 |
-| [Extraño Tus Besos](https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8) | 3:47 | 2022-10-14 |  |
+| [Extraño Tus Besos](https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8) | 3:47 | 2022-10-14 | 2022-12-04 |
 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 | 2022-08-05 | 2022-11-19 |
 | [Falso Amigo](https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Falso Amigo](https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL) | 3:15 | 2022-08-05 | 2022-09-24 |
 | [Flores](https://open.spotify.com/track/1uM5lfjOrfYfdc5AOopUN3) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Flores](https://open.spotify.com/album/1qRuiaQJYQIMGEFaUocYnR) | 2:37 | 2022-06-24 | 2022-07-29 |

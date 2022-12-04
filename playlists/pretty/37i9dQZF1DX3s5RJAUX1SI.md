@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,046 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,081 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 96 | [Desvelado](https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl) | [Mau Soles](https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77) | [Canciones](https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X) | 3:36 |
 | 97 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
 | 98 | [Mi Piel No Te Olvida](https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Piel No Te Olvida](https://open.spotify.com/album/63kE8DHQwfB7v26ikpFHfl) | 3:39 |
-| 99 | [Usted](https://open.spotify.com/track/0dLmUxDPXQOJpf89eS6iIb) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:58 |
-| 100 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 |
+| 99 | [Simplemente Gracias](https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh) | 3:04 |
+| 100 | [Usted](https://open.spotify.com/track/0dLmUxDPXQOJpf89eS6iIb) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:58 |
 
-Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDQxN2RmYTRkMDhhZjAyYTlmYmQ4NzM4OWY3ZjlkNjM1`
+Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDNjZDg0ZDBhNzk2MjFhNmI5NDkyODhlOWNjZjUzMDlh`

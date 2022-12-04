@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,756 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,173 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 15 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 16 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
 | 17 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 |
-| 18 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
-| 19 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
+| 18 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
+| 19 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
 | 20 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 |
 | 21 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
 | 22 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 32 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
 | 33 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 |
 | 34 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
-| 35 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
-| 36 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
+| 35 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
+| 36 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
 | 37 | [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 |
 | 38 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 |
 | 39 | [ME/AN](https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [ME/AN](https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR) | 3:49 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 42 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
 | 43 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 |
 | 44 | [Control \- Original Mix](https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Control](https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF) | 6:27 |
-| 45 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
-| 46 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
+| 45 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
+| 46 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
 | 47 | [Sex and the Machine](https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Sex and the Machine](https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe) | 4:00 |
 | 48 | [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 |
 | 49 | [1981](https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [1981](https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ) | 6:11 |
 | 50 | [Open Up \- Original Mix](https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Open Up](https://open.spotify.com/album/0f8gsdHHUzesyF8rDqUcU5) | 7:12 |
 
-Snapshot ID: `MTY2OTM4NzIzMywwMDAwMDAwMGZlMWE1OTQzMjMyMGE0NzcwMmI1ZTNiNmE2ZmFkYzUw`
+Snapshot ID: `MTY2OTM4NzIzMywwMDAwMDAwMGU0N2U1N2UxMDE4NDNiM2UxYjgwZDgzNTFjMjg1MDUx`

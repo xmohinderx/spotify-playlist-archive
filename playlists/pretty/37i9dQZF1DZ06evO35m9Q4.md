@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,771 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,847 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 49 | [SRV Speaks](https://open.spotify.com/track/7CkTfNc51KRJLinO5jSp3s) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather](https://open.spotify.com/album/4CvDljqpyOVfwTV2CludIH) | 1:08 |
 | 50 | [Old Times](https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 1:15 |
 
-Snapshot ID: `Mjc4MzMzODcsMDAwMDAwMDAzNmUzYWQ2M2Q5ZmMzNWQwNTFhNjY1MGUyYjA0YzA0MQ==`
+Snapshot ID: `Mjc4MzQ3MzIsMDAwMDAwMDAwMDRhYzM5MWM1ZjM4NTVmOGNhOGE1YWNhYzdhYWNiMg==`

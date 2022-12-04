@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 132673,
+  "num_followers": 132917,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwODEwMCwwMDAwMDAwMDMwYjgyN2M4MTlhNGQzNDgyOTk3YjljNjhjYjZiMzE5",
+  "snapshot_id": "MTY3MDAwODEwMCwwMDAwMDAwMGQxNzM1OWRkYWRkYTRhNzQyNWZjY2YxNzc3N2U3NTQ0",
   "tracks": [
     {
       "added_at": "2022-11-10 16:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-10 16:00:00",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
-    },
-    {
-      "added_at": "2022-11-10 16:00:00",
-      "album": {
         "name": "your love",
         "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
+    },
+    {
+      "added_at": "2022-11-10 16:00:00",
+      "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2022-11-10 16:00:00",

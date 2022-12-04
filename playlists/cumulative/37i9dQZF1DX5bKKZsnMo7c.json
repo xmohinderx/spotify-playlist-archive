@@ -1943,6 +1943,24 @@
     {
       "album": {
         "name": "Tell It to the Volcano",
+        "url": "https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov"
+      },
+      "artists": [
+        {
+          "name": "Miniature Tigers",
+          "url": "https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158653,
+      "name": "Like or Like Like",
+      "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
+    },
+    {
+      "album": {
+        "name": "Tell It to the Volcano",
         "url": "https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj"
       },
       "artists": [
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 158653,
       "name": "Like or Like Like",
       "url": "https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD"

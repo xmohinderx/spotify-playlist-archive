@@ -1304,6 +1304,32 @@
     },
     {
       "album": {
+        "name": "SR. SANTOS",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208845,
+      "name": "Bottas",
+      "url": "https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -1453,7 +1479,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
@@ -1515,7 +1541,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
@@ -1781,6 +1807,24 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "album": {
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168133,
+      "name": "CHORRITO PA LAS ANIMAS",
+      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
     },
     {
       "album": {
@@ -2661,7 +2705,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
@@ -2695,8 +2739,8 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
       "date_added": "2021-03-27",
@@ -4531,10 +4575,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 237750,
       "name": "JS4E",
       "url": "https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6"
+    },
+    {
+      "album": {
+        "name": "SR. SANTOS",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "JS4E",
+      "url": "https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX"
     },
     {
       "album": {
@@ -4870,6 +4932,28 @@
     },
     {
       "album": {
+        "name": "SR. SANTOS",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
+    },
+    {
+      "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
       },
@@ -4885,7 +4969,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 255693,
       "name": "La Jumpa",
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
@@ -5015,6 +5099,28 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "album": {
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "La Pasamos CXBRXN",
+      "url": "https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj"
     },
     {
       "album": {
@@ -5941,6 +6047,32 @@
       "duration_ms": 169129,
       "name": "MALAFAMA",
       "url": "https://open.spotify.com/track/6CTPAEcZHibzE7ojZKGojh"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Taiko",
+          "url": "https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160773,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2"
     },
     {
       "album": {
@@ -8893,7 +9025,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"

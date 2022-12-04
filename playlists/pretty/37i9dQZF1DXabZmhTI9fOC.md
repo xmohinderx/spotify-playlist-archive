@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,007 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,002 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 73 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 |
 | 74 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 |
 | 75 | [All Eyes on Me](https://open.spotify.com/track/47DbTdYkVB4r6Ua29Yo1kY) | [LaLa Rose](https://open.spotify.com/artist/4sKgxCn1r8DiKCUGO6gyHo) | [Like It, Love It](https://open.spotify.com/album/3YqDFPeG8Gh8jiveN1L8u3) | 2:41 |
-| 76 | [Let Me Love You](https://open.spotify.com/track/7wv7QHjICh5DoqJupFVYR0) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo) | [Let Me Love You](https://open.spotify.com/album/078kjH79SQ5BlhirDxdHOE) | 3:06 |
+| 76 | [Let Me Love You](https://open.spotify.com/track/7wv7QHjICh5DoqJupFVYR0) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Let Me Love You](https://open.spotify.com/album/078kjH79SQ5BlhirDxdHOE) | 3:06 |
 | 77 | [Little Bit Like Me](https://open.spotify.com/track/1UeDhrVjPcEJABLpXoTPJk) | [Taki Waki](https://open.spotify.com/artist/5rpid11AeK74y5d5zsQmqG) | [Level Up](https://open.spotify.com/album/1lZiC6DzOwcHCFxLFo9u3R) | 2:28 |
 | 78 | [Summer '22](https://open.spotify.com/track/2vPyeSKivhenR8bbJqsnMY) | [Scott the Pisces](https://open.spotify.com/artist/2DDeXyYS2MziEuQpVhO4Hc), [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Summer '22](https://open.spotify.com/album/6wYq700mPyqZyRHEd7m7u1) | 3:29 |
 | 79 | [I Want It That Way \- Acoustic Version](https://open.spotify.com/track/2RtuzqIHrvIgcby8M5Pros) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Want It That Way \(Acoustic Version\)](https://open.spotify.com/album/3wiOoi63n8WNaDKf7DvXOI) | 3:22 |

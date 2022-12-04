@@ -1274,6 +1274,32 @@
     },
     {
       "album": {
+        "name": "SR. SANTOS",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208845,
+      "name": "Bottas",
+      "url": "https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -2606,6 +2632,32 @@
     },
     {
       "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217951,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
       },
@@ -3467,7 +3519,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
@@ -3910,6 +3962,28 @@
     },
     {
       "album": {
+        "name": "SR. SANTOS",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
+    },
+    {
+      "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
       },
@@ -3925,7 +3999,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 255693,
       "name": "La Jumpa",
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
@@ -6113,7 +6187,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"

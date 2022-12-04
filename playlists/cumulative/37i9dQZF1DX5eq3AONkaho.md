@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-830 songs - 1 day 23 hr 6 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
+831 songs - 1 day 23 hr 9 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [CHEER UP](https://open.spotify.com/track/6jIpuClSFwyBoGTwwpkKU5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/4Sm5OwvCBTMxG88fyfOr0T) | 3:28 | 2021-11-17 | 2022-07-27 |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2021-11-17 | 2022-07-26 |
 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 | 2022-03-24 |  |
+| [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-12-01 |  |
 | [Chewing Gum](https://open.spotify.com/track/2VDvDc0s1EvvdO2vu9vnTG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Chewing Gum](https://open.spotify.com/album/4Sv8KMbUHBWjLo3VAOAHKr) | 3:17 | 2021-11-17 | 2022-06-07 |
 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 | 2022-07-08 |  |
 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) | 3:55 | 2021-11-17 | 2022-06-11 |
@@ -516,7 +517,7 @@
 | [NoNoNo](https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:40 | 2021-11-17 | 2022-04-17 |
 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 | 2021-11-17 |  |
 | [NOT BY THE MOON](https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:24 | 2021-11-17 | 2022-07-25 |
-| [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2022-07-08 |  |
+| [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2022-07-08 | 2022-12-04 |
 | [Not Shy](https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 2:57 | 2021-11-17 | 2022-07-29 |
 | [Not That Type](https://open.spotify.com/track/0dHWWPN5XGWotUnM57QQZK) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.5 New Action](https://open.spotify.com/album/1eztr3rLc24EvhtvIdRjkl) | 3:11 | 2022-03-24 | 2022-04-20 |
 | [NOT THE END](https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:38 | 2021-11-17 | 2022-07-29 |

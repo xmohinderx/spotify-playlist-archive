@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1578043,
+  "num_followers": 1578718,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5ODkyMywwMDAwMDAwMGUyNjRmN2Q2OWQyZGI2MGI4MGNmNGFkYTE2YmRmY2Yw",
+  "snapshot_id": "MTY2ODY5ODkyMywwMDAwMDAwMGI2OWQxYjg5Y2EyMmZjMTZjNWU0ZTMzMWM3YTExOGFl",
   "tracks": [
     {
       "added_at": "2022-11-17 15:28:43",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 193346,
       "name": "Don't Stop - 2004 Remaster",
       "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 275733,
-      "name": "Heart Of Glass - Special Mix",
-      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Sticky Fingers (Remastered)",
         "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 341773,
       "name": "Wild Horses - 2009 Mix",
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 277467,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 199906,
       "name": "Doctor My Eyes",
       "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 277467,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
     },
     {
       "added_at": "2022-11-17 15:28:43",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-11-17 15:28:43",
       "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 336093,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
-    },
-    {
-      "added_at": "2022-11-17 15:28:43",
-      "album": {
         "name": "Straight Shooter",
         "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 313840,
       "name": "Feel like Makin' Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
+    },
+    {
+      "added_at": "2022-11-17 15:28:43",
+      "album": {
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 336093,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
     },
     {
       "added_at": "2022-11-17 15:28:43",

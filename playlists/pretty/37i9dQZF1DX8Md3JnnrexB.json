@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 186976,
+  "num_followers": 187015,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyNjAwMCwwMDAwMDAwMGU5M2E3MmRmYWQyY2Q5NjFiMmI1YWQzOTczMzY0YWM5",
+  "snapshot_id": "MTY2MjYyNjAwMCwwMDAwMDAwMGRlMmJiNzc3N2EzOTBmMTZmYTM0MjVlZjYwMTAwZWU0",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Love To The World",
         "url": "https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 275226,
       "name": "Love Ballad",
       "url": "https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Johnny Gill",
+        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gill",
+          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
+        }
+      ],
+      "duration_ms": 321906,
+      "name": "My, My, My",
+      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Johnny Gill",
-        "url": "https://open.spotify.com/album/3VNcHyjMgpq2UQN5LTs4qC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Gill",
-          "url": "https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn"
-        }
-      ],
-      "duration_ms": 321906,
-      "name": "My, My, My",
-      "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "As The Band Turns",
-        "url": "https://open.spotify.com/album/2H6iH0eyDzvuk3FEihD1aJ"
-      },
-      "artists": [
-        {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
-        }
-      ],
-      "duration_ms": 330666,
-      "name": "Secret Lovers",
-      "url": "https://open.spotify.com/track/4nKPgKXfFiPW7cNex5oDtt"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "As The Band Turns",
+        "url": "https://open.spotify.com/album/2H6iH0eyDzvuk3FEihD1aJ"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Secret Lovers",
+      "url": "https://open.spotify.com/track/4nKPgKXfFiPW7cNex5oDtt"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Sparkle",
-        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "Something He Can Feel",
-      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Raw",
         "url": "https://open.spotify.com/album/6u3TtGj4AWtCkHDuO43U8q"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 364533,
       "name": "Just Call My Name",
       "url": "https://open.spotify.com/track/1kpmECxBjYaujpgltrL8wy"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Sparkle",
+        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 381826,
+      "name": "Something He Can Feel",
+      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2463,26 +2463,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Givin' It Up",
-        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
       },
@@ -2499,6 +2479,26 @@
       "duration_ms": 273400,
       "name": "Someone to Love (feat. Babyface)",
       "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Givin' It Up",
+        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
     },
     {
       "added_at": "2022-05-11 12:25:18",

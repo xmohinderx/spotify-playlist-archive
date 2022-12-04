@@ -4,7 +4,7 @@
 
 > Una selección de éxitos para ponerle ritmo a las tareas del hogar.
 
-391 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/0HZQGlRq0MCTlMu5IzL6ZI)
+392 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/0HZQGlRq0MCTlMu5IzL6ZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [diario de vida](https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [diario de vida](https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3) | 3:04 | 2022-03-29 | 2022-04-18 |
 | [Dime Que Me Quieres \(Bring A Little Lovin\)](https://open.spotify.com/track/4pupiOjh6MWxPUTIroVaJy) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 3:15 | 2022-03-24 | 2022-04-21 |
 | [Disciplina](https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Disciplina](https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl) | 2:37 | 2022-02-08 | 2022-04-15 |
-| [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-09-02 |  |
+| [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-09-02 | 2022-12-04 |
 | [Disparos](https://open.spotify.com/track/1MXjqEXbTecoUcpJplUWuY) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [El Amor en Mi Vida](https://open.spotify.com/album/3wxazAm6J5TaVwp7oWS7xg) | 3:28 | 2022-03-24 | 2022-04-18 |
 | [Diva](https://open.spotify.com/track/4QVmV6QHriSb4TkaxvTuZm) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Diva](https://open.spotify.com/album/56gWk6z0ms5UVpKiHpQQO0) | 3:06 | 2022-03-24 | 2022-04-21 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-03-29 |  |
@@ -368,6 +368,7 @@
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2022-03-24 |  |
 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 | 2022-02-08 | 2022-06-21 |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2022-02-08 | 2022-07-28 |
+| [Ulala](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Ulala](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 | 2022-12-02 |  |
 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 | 2022-02-08 | 2022-07-20 |
 | [Un Beso en Madrid](https://open.spotify.com/track/5L3kJqFfHgE0JzLqBoyQlB) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 2:24 | 2022-02-08 | 2022-07-29 |
 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 | 2022-03-24 |  |

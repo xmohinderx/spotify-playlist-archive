@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 27980,
+  "num_followers": 28039,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2ODY1NywwMDAwMDAwMGUwNWM2YjFlZWFkOTljZDVmOGM4MGFhMzYyNDU0OTk3",
+  "snapshot_id": "MTY2OTk2ODY1NywwMDAwMDAwMGQ0M2JmNzhiYzFkZGVkYWMzNjhkODIwOTc3OTlhOWNl",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -553,26 +553,6 @@
       "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
-    },
-    {
       "added_at": "2022-06-08 08:18:16",
       "album": {
         "name": "Overloading (OVERDOSE)",
@@ -607,6 +587,26 @@
       "duration_ms": 205000,
       "name": "Overloading (OVERDOSE)",
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2022-09-09 09:16:27",
@@ -713,23 +713,23 @@
       "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
-      "added_at": "2022-09-19 07:21:02",
+      "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
-      "added_at": "2022-12-03 01:19:05",
+      "added_at": "2022-12-04 01:22:02",
       "album": {
         "name": "Be On It",
         "url": "https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw"
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT"
     },
     {
-      "added_at": "2022-06-08 08:18:16",
+      "added_at": "2022-09-19 07:21:02",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -869,24 +869,20 @@
       "url": "https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA"
     },
     {
-      "added_at": "2022-06-08 08:18:16",
+      "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Mood (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -909,20 +905,24 @@
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+      "duration_ms": 209760,
+      "name": "Mood (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
     },
     {
       "added_at": "2022-08-05 07:32:43",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-06-08 08:18:16",
       "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Eh God (Barnabas)",
-      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
         "name": "Want It All (feat. Polo G)",
         "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
@@ -1379,6 +1363,38 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2022-11-18 11:42:22",
+      "album": {
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
+    },
+    {
+      "added_at": "2022-06-08 08:18:16",
+      "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Eh God (Barnabas)",
+      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
       "added_at": "2022-09-28 09:29:07",
@@ -1399,22 +1415,6 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
-    },
-    {
-      "added_at": "2022-11-18 11:42:22",
-      "album": {
-        "name": "Asiwaju",
-        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
     },
     {
       "added_at": "2022-06-08 08:18:16",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
+      "added_at": "2022-07-04 07:22:02",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
+    },
+    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "No Dey Form",
@@ -1543,22 +1559,6 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
-    },
-    {
-      "added_at": "2022-06-08 08:18:16",
-      "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Yorghaki",
-  "num_followers": 504266,
+  "num_followers": 504293,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMGQ2OWU2YjJjMTdmNmI4MzQ1MjFhNTA3OWEyY2NkNmEw",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDU2NjU1NDc5NGU4MTYzNDJmMjFhMjVmZTg0ZmNmZmU3",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "un d\u00eda en Par\u00eds",
-        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 242626,
-      "name": "un d\u00eda en Par\u00eds",
-      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 190580,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "un d\u00eda en Par\u00eds",
+        "url": "https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 242626,
+      "name": "un d\u00eda en Par\u00eds",
+      "url": "https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
         "name": "desde arriba",
         "url": "https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "Todo Es Perfecto",
         "url": "https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 211813,
       "name": "Todo Es Perfecto",
       "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "RQR",
-        "url": "https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 177581,
-      "name": "RQR",
-      "url": "https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -819,6 +803,22 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "RQR",
+        "url": "https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 177581,
+      "name": "RQR",
+      "url": "https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "Verbenas",
-        "url": "https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC"
-      },
-      "artists": [
-        {
-          "name": "Eva Ryjlen",
-          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
-        }
-      ],
-      "duration_ms": 253134,
-      "name": "Verbenas",
-      "url": "https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 153500,
       "name": "Cohen's Cumbia",
       "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Verbenas",
+        "url": "https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC"
+      },
+      "artists": [
+        {
+          "name": "Eva Ryjlen",
+          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
+        }
+      ],
+      "duration_ms": 253134,
+      "name": "Verbenas",
+      "url": "https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W"
     }
   ],
   "unique_name": "el nuevo indie",

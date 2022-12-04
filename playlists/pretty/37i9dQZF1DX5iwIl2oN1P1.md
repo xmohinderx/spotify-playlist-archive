@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,142 likes - 60 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,148 likes - 60 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 30 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 |
 | 31 | [Live](https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [You Shall Live](https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8) | 5:18 |
 | 32 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
-| 33 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 |
-| 34 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
+| 33 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
+| 34 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 |
 | 35 | [I Forgive Me](https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt) | 4:36 |
 | 36 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
 | 37 | [A Billion People](https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Deitrick Haddon & Hill City Worship Camp](https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu) | 7:38 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 46 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
 | 47 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
 | 48 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
-| 49 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
-| 50 | [Anything Can Happen](https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:05 |
+| 49 | [Anything Can Happen](https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:05 |
+| 50 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
 | 51 | [I'm Good](https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [I'm Good](https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77) | 3:45 |
 | 52 | [I'm Yours](https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Truth \(Standard\)](https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO) | 7:49 |
 | 53 | [No Ordinary Worship \- Live](https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [The Higher Experience](https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV) | 5:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 |
 | 60 | [I Agree \(feat\. Gene Hoskins\)](https://open.spotify.com/track/59Di2wFNVIZZLXQjMxVjgr) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Gene Hoskins](https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0) | [Declarations](https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT) | 7:56 |
 
-Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMGEyNTMyNGVmZTE1ZmQ5MGVmNWY2M2FmZTQ5ZjdhZmI2`
+Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMDgzNjQ4YzA3YzFmOWE5NTU2YjIwMjBkMThiYzBhMDM0`

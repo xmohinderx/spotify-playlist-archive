@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-370 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+371 songs - 23 hr 31 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-28 | 2022-10-17 |
 | [Carpet Ride](https://open.spotify.com/track/4kfcIpwJoHkFbGOX0kmGzX) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Carpet Ride](https://open.spotify.com/album/3RXDEBnOTcxHf3CJBoD7DM) | 2:26 | 2022-06-28 | 2022-10-02 |
 | [Casual](https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Casual](https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL) | 3:40 | 2022-08-30 |  |
-| [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-06-28 |  |
+| [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-06-28 | 2022-12-04 |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-30 |  |
+| [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-01 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-06-28 |  |
 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 | 2022-06-28 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |

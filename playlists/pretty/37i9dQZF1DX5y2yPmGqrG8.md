@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,591 likes - 30 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,701 likes - 30 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 21 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 |
 | 22 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
 | 23 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 |
-| 24 | [Melancholia VI](https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 2:16 |
-| 25 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
+| 24 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 |
+| 25 | [Melancholia VI](https://open.spotify.com/track/28UNXRcOSy94CWFehAPV6u) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 2:16 |
 | 26 | [Waende](https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Waende](https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc) | 3:52 |
 | 27 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 |
-| 28 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
-| 29 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 28 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 29 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 |
 | 30 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
 
-Snapshot ID: `MTY2OTM0NTgwMCwwMDAwMDAwMDI4MDU5Nzk3MTQzNDVmOGRkYTA0MjFjYzVlZWFmZjhj`
+Snapshot ID: `MTY2OTM0NTgwMCwwMDAwMDAwMGIyNDgzZmVlZjlmZDg4MTE1YjE1ZGIwNWM3MjZlNmNm`

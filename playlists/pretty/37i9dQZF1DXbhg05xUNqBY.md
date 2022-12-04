@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,298 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,445 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 18 | [Roses](https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 4:02 |
 | 19 | [Ordinary Days](https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Ordinary Days](https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5) | 4:08 |
 | 20 | [Eternal Light](https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Eternal Light](https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg) | 4:07 |
-| 21 | [06:00 Sunrise](https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:18 |
-| 22 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 |
+| 21 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 |
+| 22 | [06:00 Sunrise](https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:18 |
 | 23 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 |
 | 24 | [Goodness of God \- Acoustic](https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Goodness of God \(Acoustic\)](https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ) | 4:03 |
 | 25 | [LEAVE ME \(feat\. J Moss\)](https://open.spotify.com/track/7riV735cTp56roHAg7fN1v) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:30 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 43 | [No Better Day](https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH) | 3:02 |
 | 44 | [Sunrise](https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Sunrise](https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T) | 2:50 |
 | 45 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 |
-| 46 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
-| 47 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
+| 46 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
+| 47 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 48 | [Meet Me There](https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:14 |
 | 49 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 50 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
 | 70 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
 
-Snapshot ID: `MTYzNTY0NDEyNiwwMDAwMDAwMGUyYmE1N2ZiMDBiZWZhNmNkZDk3NTQ4NDI5YjMzMTE3`
+Snapshot ID: `MTYzNTY0NDEyNiwwMDAwMDAwMDhkOGQ0ZDVmYzkyOWQ5ZjY1ODAyZTk2MGMyYmFlNjM2`

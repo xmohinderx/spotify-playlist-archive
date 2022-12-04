@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456 likes - 116 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,454 likes - 116 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 115 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 116 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc4MzM4MzIsMDAwMDAwMDBhMzEzYWE3MDBhMmM2YTcxY2FmMWE4MzRmYTQyZDdlNw==`
+Snapshot ID: `Mjc4MzUyNzIsMDAwMDAwMDBlYmJlY2IyY2Q3MGVmNGQyNzliNmZmMGMyOTI2Nzc0OQ==`

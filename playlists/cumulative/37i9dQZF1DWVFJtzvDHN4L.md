@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-73 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
+74 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5XoyP0YYwv6kZa4UxwFOYH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [She Remembers](https://open.spotify.com/track/4zj2TfCmxKJ92IwtNWOAaM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 3:49 | 2021-11-19 | 2022-07-29 |
 | [Spiral](https://open.spotify.com/track/1dUJRgcJtUxNfTWVEkshUb) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Way Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4TJtPWRuD0m4brMRz8wi5P) | 2:53 | 2021-11-19 |  |
 | [Strange \(feat\. Hillary Smith\)](https://open.spotify.com/track/2bPWLtJe3v33z1j40sWB8a) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Hillary Smith](https://open.spotify.com/artist/1Yy8TYDcutF60eKqdmaYv0) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:18 | 2021-11-19 |  |
+| [Thank You For Being My Friend](https://open.spotify.com/track/16zZ6xJoy1MQ03K2RgItua) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/3orFgkUSLsCypUNgtGgcZ7) | 3:52 | 2022-07-22 |  |
 | [Thank You for Being My Friend](https://open.spotify.com/track/1exYML70PCk5Exyky12SnY) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution of the Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/0UOkEwL2bJBwLsmgmzkvXH) | 3:52 | 2021-11-19 | 2022-07-29 |
-| [Thank You For Being My Friend](https://open.spotify.com/track/23VgfPIZCZr9hhg0Z3l59o) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/4Fm0bCiGx5j5E7tntHv2J7) | 3:52 | 2022-07-22 |  |
+| [Thank You For Being My Friend](https://open.spotify.com/track/23VgfPIZCZr9hhg0Z3l59o) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Doctor Who Series 12 \- Revolution Of The Daleks \(Original Television Soundtrack\)](https://open.spotify.com/album/4Fm0bCiGx5j5E7tntHv2J7) | 3:52 | 2022-07-22 | 2022-12-04 |
 | [The Causeway](https://open.spotify.com/track/5yQk9aR8FvzRKEf8UdFYU6) | [Dickon Hinchliffe](https://open.spotify.com/artist/3SzIzpOIDpgwKNWaKL4FG4) | [The Third Day: Winter \(Music from the Limited Series\)](https://open.spotify.com/album/6v5IzkegCELuYXWl4B4QAY) | 3:47 | 2021-11-19 |  |
 | [The Chair](https://open.spotify.com/track/1EcJYWBoOiF8TlcUyYPVY3) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [The Chair](https://open.spotify.com/album/22Y2C5UQbkvxQOzEUdjDG9) | 4:31 | 2021-11-19 |  |
 | [The Gift Of Mortality \- Instrumental](https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Bicentennial Man \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA) | 6:10 | 2021-11-19 |  |

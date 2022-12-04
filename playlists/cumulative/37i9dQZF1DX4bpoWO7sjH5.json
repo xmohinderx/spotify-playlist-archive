@@ -1308,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "La Primera Navidad",
+        "url": "https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257624,
+      "name": "La Primera Navidad",
+      "url": "https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L"
+    },
+    {
+      "album": {
         "name": "Generacion Radical",
         "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
       },
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 187665,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7"

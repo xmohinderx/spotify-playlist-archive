@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,554 likes - 63 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,542 likes - 63 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 23 | [Alma](https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:34 |
 | 24 | [Maria Carolina](https://open.spotify.com/track/2GjLFzB8GQBjk8uBVkgGAD) | [Antonio Lauro](https://open.spotify.com/artist/0V0JCoSmbDzy5hwLsGYoQ7), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Lauro: Guitar Music, Vol\. 1 \- Venezuelan Waltzes](https://open.spotify.com/album/1U7J8B2DkCOYqYQSrBw4VE) | 3:05 |
 | 25 | [Reflejo De Luna](https://open.spotify.com/track/4CmUtaftig3n76lkSCzXjf) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Integral](https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E) | 3:54 |
-| 26 | [Married Life \(From "Up"\)](https://open.spotify.com/track/7KnFT8NQPRYtWOZXhWcGGZ) | [Mark Northam](https://open.spotify.com/artist/4weansSvkFXZmnwOKGHMSg) | [Up: Music From The Pixar Films For Solo Piano](https://open.spotify.com/album/2VILAmwCpOQhPe4I6lCPlE) | 4:35 |
+| 26 | [Los Ríos de Alice](https://open.spotify.com/track/5gAxyJT89hHM1DRdbD2sd0) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:28 |
 | 27 | [Lucía](https://open.spotify.com/track/1Bq0ca1doheGTHw83KBwPW) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 1:56 |
-| 28 | [Los Ríos de Alice](https://open.spotify.com/track/5gAxyJT89hHM1DRdbD2sd0) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Los Ríos de Alice \(Original Game Soundtrack\)](https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq) | 2:28 |
+| 28 | [Married Life \(From "Up"\)](https://open.spotify.com/track/7KnFT8NQPRYtWOZXhWcGGZ) | [Mark Northam](https://open.spotify.com/artist/4weansSvkFXZmnwOKGHMSg) | [Up: Music From The Pixar Films For Solo Piano](https://open.spotify.com/album/2VILAmwCpOQhPe4I6lCPlE) | 4:35 |
 | 29 | [Big Brother \(from the Motion Picture "Vicky Cristina Barcelona"\)](https://open.spotify.com/track/0vNtHflJNrmP6EIdtolEs4) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/5mTSSRzpn80KfvSBitxemy) | 3:54 |
 | 30 | [Rasta La Vista](https://open.spotify.com/track/4pVE63OGS5BkXl04trGVug) | [René Aubry](https://open.spotify.com/artist/1dyZDfHcTtUJjx0DFBcOvc) | [Refuges](https://open.spotify.com/album/4B0UEYxDC8kmr7Ej6Ge5rR) | 2:40 |
 | 31 | [Iris](https://open.spotify.com/track/4efssYq66sMZusM0f9habM) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe), [AAESPO](https://open.spotify.com/artist/6zhjVmPJZu9cmiv82lQv5D) | [Iris](https://open.spotify.com/album/51ng5rSLiaHnqrsCnMmLfC) | 4:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 35 | [Farewell](https://open.spotify.com/track/1BEYD0bZSeaA8OlMGnyLpj) | [Emilio Kauderer](https://open.spotify.com/artist/3Ie0iKmYPXlTXUzCiGOmDq), [Federico Jusid](https://open.spotify.com/artist/4Bjfwb6PiXwqru4DHOMwIq), [Sebastian Kauderer](https://open.spotify.com/artist/18tRinDA2SAp0t3qmrh4Ce) | [El Secreto de Sus Ojos \(The Original Motion Pictures Soundtrack\) \(The Secret In Their Eyes, By Juan José Campanella\)](https://open.spotify.com/album/3cdaDNvGnfQiOqzl28VL0c) | 1:41 |
 | 36 | [The Beach](https://open.spotify.com/track/4xiJjmbDFlET0zUwrl2BOy) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [The Two Faces of January \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15Cvr11YPSZIWRLhi6ie9s) | 2:06 |
 | 37 | [Metamorphosis 1](https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Glass Piano](https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj) | 6:27 |
-| 38 | [Yu Yi](https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Yu Yi](https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6) | 4:41 |
-| 39 | [Riding Horses](https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:24 |
+| 38 | [Riding Horses](https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:24 |
+| 39 | [Yu Yi](https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Yu Yi](https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6) | 4:41 |
 | 40 | [Les Deux Guitares](https://open.spotify.com/track/6UJQTS2H8ZuuIdP1GU4oYa) | [The Stephane Wrembel Trio With David Grisman](https://open.spotify.com/artist/2avaXPIQz3YqYar1jwF0yz) | [Gypsy Rumble](https://open.spotify.com/album/3e39bLX6BgsDCaiQmqrlBt) | 3:24 |
 | 41 | [Concierto De Aranjuez: 2\. Adagio](https://open.spotify.com/track/7DZKMO6GK3yQEXx3YzxxrW) | [Joaquín Rodrigo](https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw), [Orquesta De Cadaques](https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU), [Edmon Colomer](https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ) | [Concierto De Aranjuez](https://open.spotify.com/album/3kYhw19SFaOanazThWHgK8) | 11:32 |
 | 42 | [Lineas de Tu Mano](https://open.spotify.com/track/6Gca05CM0s55fDkfvK6uEa) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Lineas de Tu Mano](https://open.spotify.com/album/0BfKQuiDgerAMSaL173ELr) | 4:14 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 62 | [Tema llorón](https://open.spotify.com/track/7DS6x1F9gPR7m30s6kygfG) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Volver \(Banda Sonora Original\)](https://open.spotify.com/album/1sOwreBJafc3ZRLKrmJEnz) | 4:17 |
 | 63 | [Lovin' IT](https://open.spotify.com/track/4X8aAsQvxASw4qky3hfFRg) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [On The Road \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1lxrEDfl1a8ZvhD5ZqmXLV) | 5:32 |
 
-Snapshot ID: `MTY2MzY3OTIwMCwwMDAwMDAwMDdmZDFiMDI0OTJiNzNkZTMwOWIzYzU2N2M1NDc0Njlk`
+Snapshot ID: `MTY2MzY3OTIwMCwwMDAwMDAwMDViY2U0NGFmYTJjNzY1NzdmNmE0NzRmZTEyZTJlMDQ0`

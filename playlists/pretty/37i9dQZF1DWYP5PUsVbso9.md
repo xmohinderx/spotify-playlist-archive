@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,419 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,500 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 66 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
 | 67 | [Love Is Like a Butterfly](https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 2:20 |
 | 68 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
-| 69 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
-| 70 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
+| 69 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
+| 70 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
 | 71 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:36 |
 | 72 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
 | 73 | [San Antonio Stroll](https://open.spotify.com/track/2qXR5YWhvtYIoewHjvflss) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker's Greatest Hits](https://open.spotify.com/album/5T6WDAskZxpghDeEdHUtXn) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
 | 100 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 |
 
-Snapshot ID: `MTY1ODc4NDk1NSwwMDAwMDAwMDI0NjhhNDQ1ZDcyYTRmMDY5ODNmYjlkMzQwYzk2MWJj`
+Snapshot ID: `MTY1ODc4NDk1NSwwMDAwMDAwMDYxYmVhNDZhMzdmNTZlYWMzM2EyYmQ5N2NjYWQyMDc1`

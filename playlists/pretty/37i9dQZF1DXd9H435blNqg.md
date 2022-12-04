@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,224 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,300 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 22 | [Keep Diggin’](https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:13 |
 | 23 | [In the Middle](https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX) | 3:34 |
 | 24 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
-| 25 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 |
-| 26 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
+| 25 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
+| 26 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 |
 | 27 | [Wishing Well](https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Moonshine Blue](https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw) | 2:48 |
 | 28 | [Good So Bad](https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs) | [Eric Tessmer](https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C) | [Eric Tessmer 2](https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD) | 4:09 |
 | 29 | [Get Gone](https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:05 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 40 | [Downtown](https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Downtown](https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5) | 3:32 |
 | 41 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 |
 | 42 | [Chocolate Samurai](https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Chocolate Samurai](https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX) | 4:55 |
-| 43 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 |
-| 44 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
+| 43 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
+| 44 | [Nothing but a Cliché](https://open.spotify.com/track/7a19ONgUWreV4yZykAy7Ub) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:01 |
 | 45 | [Don't Say Goodbye](https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:11 |
 | 46 | [Can't Nobody Stop Us](https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel) | 3:14 |
 | 47 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 49 | [Bottom Shelf Gin](https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bottom Shelf Gin](https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC) | 3:02 |
 | 50 | [Going Down](https://open.spotify.com/track/0g2SE4JV2rn8rEzNcwaTgk) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Going Down](https://open.spotify.com/album/3Gvjf4FDSIqcBScnLI2Kw5) | 3:28 |
 
-Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGFkNGJkN2VjNWEyMDVhYmY2NGE0ZGIyYmMyNDc1ZjJm`
+Snapshot ID: `MTY2MTk3NTU4OCwwMDAwMDAwMGIzMzJmNjc1YjJmNmQxMjk2YTg2NTZkNzg2ZDQwOTky`

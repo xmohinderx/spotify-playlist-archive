@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de diciembre 2022.",
-  "num_followers": 1506045,
+  "num_followers": 1506117,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY2MjAzOCwwMDAwMDAwMGFmMmM5ODBmZTE2NDE3MjI0YWZlZmVjNDZiNDVhZDQ2",
+  "snapshot_id": "MTY2OTY2MjAzOCwwMDAwMDAwMDdiZjljZThmZGQ4MDI5ZWE5NzUwYzZmMGJjODYzNjM1",
   "tracks": [
     {
       "added_at": "2022-11-28 19:00:38",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
         "name": "JS4E",
         "url": "https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "Ya Casi Vienen",
-        "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 174946,
-      "name": "Foto En Panty",
-      "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -387,22 +371,18 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "A Mi Lado",
-        "url": "https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi"
+        "name": "Ya Casi Vienen",
+        "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 197000,
-      "name": "A Mi Lado",
-      "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
+      "duration_ms": 174946,
+      "name": "Foto En Panty",
+      "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -427,6 +407,26 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
+        "name": "A Mi Lado",
+        "url": "https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "A Mi Lado",
+      "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
-        "name": "DIME QUI\u00c9N????",
-        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164727,
-      "name": "DIME QUI\u00c9N????",
-      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -539,6 +523,22 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
+        "name": "DIME QUI\u00c9N????",
+        "url": "https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164727,
+      "name": "DIME QUI\u00c9N????",
+      "url": "https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
         "name": "Doxxis",
         "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
       },
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
-        }
-      ],
-      "duration_ms": 226772,
-      "name": "CAZADORES",
-      "url": "https://open.spotify.com/track/29A2LhTvYXCCkYutVIj3cB"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
         "name": "Nervous (Remix)",
         "url": "https://open.spotify.com/album/3g5ZU0P6CBfSdeJA26bSLF"
       },
@@ -623,22 +603,6 @@
     {
       "added_at": "2022-11-28 19:00:38",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/2Tz8MX5wGPqD70sxFkiCbK"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 192321,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0"
-    },
-    {
-      "added_at": "2022-11-28 19:00:38",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
       },
@@ -655,6 +619,22 @@
       "duration_ms": 213279,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2Tz8MX5wGPqD70sxFkiCbK"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192321,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0"
     },
     {
       "added_at": "2022-11-28 19:00:38",
@@ -743,6 +723,26 @@
       "duration_ms": 237187,
       "name": "WAYO",
       "url": "https://open.spotify.com/track/5mZndhqE6tE6trjPjNFIk0"
+    },
+    {
+      "added_at": "2022-11-28 19:00:38",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD"
+        }
+      ],
+      "duration_ms": 226772,
+      "name": "CAZADORES",
+      "url": "https://open.spotify.com/track/29A2LhTvYXCCkYutVIj3cB"
     },
     {
       "added_at": "2022-11-28 19:00:38",

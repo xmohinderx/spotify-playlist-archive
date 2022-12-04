@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,528 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,718 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 27 | [El Amor Soñado](https://open.spotify.com/track/587p8shYuTXUhThG3t9x60) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 2:44 |
 | 28 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
 | 29 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 |
-| 30 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 |
-| 31 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 |
+| 30 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 |
+| 31 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 |
 | 32 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 |
 | 33 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
 | 34 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 44 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
 | 45 | [Contigo No Fue](https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [La Cotorrisa](https://open.spotify.com/artist/72j1bOj19ZViXuyppnx5tJ), [Strecci](https://open.spotify.com/artist/7p1l2K7lVH2v4hrT3Y3tOv) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:49 |
 | 46 | [La Puerta Negra](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Gracias America Sin Fronteras](https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd) | 3:23 |
-| 47 | [Le Hace Falta Un Beso](https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:47 |
-| 48 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
+| 47 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
+| 48 | [Le Hace Falta Un Beso](https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:47 |
 | 49 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 |
 | 50 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 |
 | 51 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 55 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 56 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 57 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
-| 58 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 |
-| 59 | [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 |
+| 58 | [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 |
+| 59 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 |
 | 60 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 3:42 |
 | 61 | [100 Años](https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [100 Años](https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz) | 3:05 |
 | 62 | [Acábame de Matar \(Feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/track/3Tq17cNZ19NxBlNgLPXx7u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Acábame de Matar \(Feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 99 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 | 100 | [Ya No Quiero Andar Contigo](https://open.spotify.com/track/00XB6UnshchPDNdCvXzokD) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Ya No Quiero Andar Contigo](https://open.spotify.com/album/00xw9cwU9fJbQKQrCHYDJI) | 3:32 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDhjNTMyNDFjOGRhYjFmMjJkZGEyMmJkNmZhZDJjZDk1`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMGZhMGI4N2ZhMGRlMWI0OTIxYzBiNzAzMDNkODZmZTVj`

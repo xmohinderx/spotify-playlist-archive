@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,128 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,157 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 11 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 |
 | 12 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 |
 | 13 | [Smoke and Chill](https://open.spotify.com/track/2WNOKpzXTlT1tEGZmzZWYY) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Smoke and Chill](https://open.spotify.com/album/1bLSbLzbJyNMYTF5L5lkXS) | 2:53 |
-| 14 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 |
-| 15 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
+| 14 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
+| 15 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 |
 | 16 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 |
 | 17 | [Wow>?](https://open.spotify.com/track/4E7GjtYCo6JX1eye0eWnzY) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Not A Project](https://open.spotify.com/album/4OxET58i2SHiaQcsSHgbzV) | 2:56 |
 | 18 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 |
 | 80 | [Breathing](https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [Breathing](https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2) | 3:01 |
 
-Snapshot ID: `MTY2OTk2ODY5MSwwMDAwMDAwMDkxYzZmMGFmMjk5ZTY5MDkwNWVkYjM5NWE2NmJlOGYx`
+Snapshot ID: `MTY2OTk2ODY5MSwwMDAwMDAwMDU1ZWVjMDBmYTI2YmY1NjNkNTg1MmM2ZmI0YTY1Yzcx`

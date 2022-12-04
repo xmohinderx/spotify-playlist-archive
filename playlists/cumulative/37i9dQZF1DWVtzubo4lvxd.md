@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-214 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+215 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2022-04-15 |  |
 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 | 2022-04-15 |  |
 | [jocelyn](https://open.spotify.com/track/2ectLlq6GLnwUCX12tlEHc) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/5g1Wmg2jW2F11eX4aNKcBV) | 1:13 | 2022-04-15 | 2022-11-19 |
+| [Jocelyn](https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Longing for You](https://open.spotify.com/album/2MHX68LB8hbdFvuOu9bxvD) | 1:13 | 2022-04-15 |  |
 | [Joy](https://open.spotify.com/track/2zipR1XbPTWpoKedTbeiuW) | [MFakka](https://open.spotify.com/artist/4AwWk21kRgNYUqldVgdjJC), [johto](https://open.spotify.com/artist/7B2DA6KU0k3hJaENyOBXB4), [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Sweet Journey](https://open.spotify.com/album/3cvSg8qQkJXbgfW3hxerbh) | 1:16 | 2022-04-15 | 2022-07-21 |
 | [Killing Time](https://open.spotify.com/track/3WgPd7FVAvSxjjfdeS7wj4) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Killing Time](https://open.spotify.com/album/6mrxtNyOo55rEMAKJvBO3r) | 2:02 | 2022-04-15 | 2022-07-29 |
 | [KOINOYOKAN](https://open.spotify.com/track/17ZTFbtUE5u8R8AYPItoEo) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg), [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [the SUNFLOWER](https://open.spotify.com/album/61qxOIQv8dWCD3rfcSjkub) | 2:34 | 2022-04-15 | 2022-07-29 |
@@ -156,7 +157,7 @@
 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 | 2022-04-15 |  |
 | [She's Between](https://open.spotify.com/track/2vTXcaiTk5N3g6JJNzmC80) | [George Fields](https://open.spotify.com/artist/2YJ9heXWEDypzrXDW19hDr) | [Beyond Realm](https://open.spotify.com/album/79si9rk2ft0mOkTD25f9Gi) | 2:49 | 2022-04-15 | 2022-07-23 |
 | [Sheep to Sheep](https://open.spotify.com/track/5bVikvReIkwEnmVRJwkzTh) | [Aytun](https://open.spotify.com/artist/7cPjAZYOPseCzqxvEoqeLY), [Can Menek](https://open.spotify.com/artist/0scw6tyxsoUys8IX5GzoZJ) | [Sheep to Sheep](https://open.spotify.com/album/4me1dlJxl6hxGq5hF1ZGQI) | 3:01 | 2022-04-15 | 2022-07-29 |
-| [Silience](https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy) | 3:16 | 2022-04-15 |  |
+| [Silience](https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy) | 3:16 | 2022-04-15 | 2022-12-04 |
 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 | 2022-04-15 |  |
 | [Snow Profile](https://open.spotify.com/track/62zZi1Yk6I4DlUrN5PSpKW) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Snow Profile](https://open.spotify.com/album/2ovh6aY8qeOJNSq0QweDhM) | 3:21 | 2022-04-15 | 2022-07-29 |
 | [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2022-04-15 | 2022-08-05 |

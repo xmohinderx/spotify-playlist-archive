@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Rashid, Liniker",
-  "num_followers": 241515,
+  "num_followers": 241554,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMGM4MTNlM2EzOTFkZGJlODM0NmI2YWQ2MDhhZmQ5ZDE0",
+  "snapshot_id": "MTY2OTk1MDAwMCwwMDAwMDAwMDIxZGI5N2Y0NDNhZGMyYmE1ODVkY2VkYjhkZmIxNzNi",
   "tracks": [
     {
       "added_at": "2022-12-02 03:00:00",
@@ -691,6 +691,34 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Sussurros",
+        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Sussurros",
+      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Melhor Agora",
         "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
@@ -727,34 +755,6 @@
       "duration_ms": 158625,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Sussurros",
-        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Sussurros",
-      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Dif\u00edcil Lembrar, n\u00e9?",
+        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "Dif\u00edcil Lembrar, n\u00e9?",
+      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Xavequin 2",
         "url": "https://open.spotify.com/album/3U0g88ovbhpQwTzaaJMenm"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 350014,
       "name": "Xavequin 2",
       "url": "https://open.spotify.com/track/2C2Ya63y7cp3rh01Umjy2P"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "Dif\u00edcil Lembrar, n\u00e9?",
-        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 155452,
-      "name": "Dif\u00edcil Lembrar, n\u00e9?",
-      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2022-12-02 03:00:00",
+      "album": {
         "name": "Tem Hist\u00f3ria N\u00e3o",
         "url": "https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6"
       },
@@ -1619,22 +1639,18 @@
     {
       "added_at": "2022-12-02 03:00:00",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
         }
       ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-12-02 03:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 276705,
       "name": "Ac\u00fastico Altamira #14 - Medo",
       "url": "https://open.spotify.com/track/4IfMGfaZCGFEfzFizozRco"
-    },
-    {
-      "added_at": "2022-12-02 03:00:00",
-      "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-12-02 03:00:00",

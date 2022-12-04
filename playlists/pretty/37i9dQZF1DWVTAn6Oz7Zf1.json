@@ -1,12 +1,12 @@
 {
   "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
-  "num_followers": 166393,
+  "num_followers": 166388,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGNjZDJlMzZkZjc5ZGE4YmIwZWU4NmIwYjcyZWYyMjk4",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDM0NjM1MmM4MTYyOGEzZWYyNDI2N2QwNzg3N2NiZDRj",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Chain My Heart",
-        "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Chain My Heart",
-      "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 191329,
       "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Chain My Heart",
+        "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Chain My Heart",
+      "url": "https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Safe With Me (with Audrey Mika)",
-        "url": "https://open.spotify.com/album/2qBzKbaRm9IXomwL7jMdM7"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 205164,
-      "name": "Safe With Me (with Audrey Mika)",
-      "url": "https://open.spotify.com/track/6Skh3CBum0pZw9TOr7FQnX"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Do You Dance?",
         "url": "https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 211452,
       "name": "Looking For Me",
       "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Safe With Me (with Audrey Mika)",
+        "url": "https://open.spotify.com/album/2qBzKbaRm9IXomwL7jMdM7"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 205164,
+      "name": "Safe With Me (with Audrey Mika)",
+      "url": "https://open.spotify.com/track/6Skh3CBum0pZw9TOr7FQnX"
     },
     {
       "added_at": "2022-10-14 04:01:00",

@@ -1993,6 +1993,24 @@
     {
       "album": {
         "name": "The Moon and the Mind",
+        "url": "https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153728,
+      "name": "Drifting Off",
+      "url": "https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Mind",
         "url": "https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X"
       },
       "artists": [
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 160941,
       "name": "i don't care - bonus track",
       "url": "https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA"

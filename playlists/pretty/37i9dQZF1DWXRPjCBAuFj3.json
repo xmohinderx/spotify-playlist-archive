@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Metro Boomin",
-  "num_followers": 200467,
+  "num_followers": 200480,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDhhM2NhYmI0MTIxZmNlZjRlOGYwMDQzNmM3MjdmZTUz",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGI5ZTFiMDE4ZGQ4NGVlNjQ2YjIzZTE5MzE1MWI5ZGNl",
   "tracks": [
     {
       "added_at": "2022-12-02 05:01:00",
@@ -771,18 +771,22 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+        "name": "Die Young (feat. 347aidan)",
+        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 208350,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+      "duration_ms": 148816,
+      "name": "Die Young (feat. 347aidan)",
+      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -811,22 +815,18 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Die Young (feat. 347aidan)",
-        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 148816,
-      "name": "Die Young (feat. 347aidan)",
-      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1007,26 +1007,18 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1047,18 +1039,26 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 211935,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "Stop Breathing",
-        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 110706,
-      "name": "Stop Breathing",
-      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "Stop Breathing",
+        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Stop Breathing",
+      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Aston Martin Truck",
-        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Aston Martin Truck",
-      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "Never Sleep",
-        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -1507,6 +1483,30 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
         "name": "Rien 100 Rien",
         "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
       },
@@ -1519,38 +1519,6 @@
       "duration_ms": 160893,
       "name": "La bandite",
       "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "LA Leakers Freestyle",
-        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "LA Leakers Freestyle",
-      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1571,6 +1539,22 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 259672,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "LA Leakers Freestyle",
+        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "LA Leakers Freestyle",
+      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
+        "name": "This Is What I Mean",
+        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 325333,
+      "name": "This Is What I Mean",
+      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
         "name": "ONLY BUILT 4 DIAMOND LINKS",
         "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2022-12-02 05:01:00",
       "album": {
-        "name": "This Is What I Mean",
-        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+        "name": "Pelele",
+        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 325333,
-      "name": "This Is What I Mean",
-      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+      "duration_ms": 216827,
+      "name": "Pelele",
+      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 192427,
       "name": "CODE (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
-    },
-    {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "Pelele",
-        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Pelele",
-      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     },
     {
       "added_at": "2022-12-02 05:01:00",

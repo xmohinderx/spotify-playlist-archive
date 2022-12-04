@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-324 songs - 1 day 5 hr 32 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+325 songs - 1 day 5 hr 39 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-08 |  |
 | [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 |  |
 | [Canvey Island](https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Waiting For The World](https://open.spotify.com/album/0CLJNPrkoE2czy7go4sdZA) | 5:43 | 2021-12-08 |  |
-| [Can’t Quite Understand](https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:29 | 2021-12-08 |  |
+| [Can’t Quite Understand](https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:29 | 2021-12-08 | 2022-12-04 |
 | [Captivated](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Captivated](https://open.spotify.com/album/4vVmbCnag2aKDlEiB4iy6G) | 3:07 | 2021-12-08 |  |
 | [Castles](https://open.spotify.com/track/2kts9CqkgeHyJLIN22WAwb) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 4:18 | 2022-10-28 |  |
 | [Celtic Girl \- Andrew Meller Remix](https://open.spotify.com/track/4MLlxPNKp25tgIxU09cYXA) | [Elian Dust](https://open.spotify.com/artist/78KF9tT5FxhSbI7rTzRB75), [Andrew Meller](https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm) | [Celtic Girl](https://open.spotify.com/album/4s2UWQKCpeiQcqMdrRrj1S) | 3:51 | 2021-12-08 | 2022-07-29 |
@@ -158,6 +158,7 @@
 | [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 | 2021-12-08 |  |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 |  |
 | [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 | 2022-08-12 |
+| [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2022-10-28 |  |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-12-08 | 2022-11-20 |
 | [Mas](https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Mas](https://open.spotify.com/album/1dPZfWvc8Ojdpcz0naiIkH) | 7:46 | 2021-12-08 | 2022-11-17 |
 | [Mellow](https://open.spotify.com/track/5dhQJgHeU8xa1OtEbPebVr) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Mellow](https://open.spotify.com/album/4uZzlvqWYyF8erhXX85QmB) | 7:56 | 2021-12-08 | 2022-05-22 |

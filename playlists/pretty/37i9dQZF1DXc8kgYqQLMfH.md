@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,635 likes - 447 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,683 likes - 447 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 100 | [winter song](https://open.spotify.com/track/4RHef6DRAkz9uVPXsrdj9z) | [aspvijk](https://open.spotify.com/artist/7taylXRz7ut6LReH7b4Neh) | [winter song](https://open.spotify.com/album/6HWNcbMVFJ3fpx5exCpKux) | 1:50 |
 | 101 | [Afloat](https://open.spotify.com/track/6peYztN71W3fVVx4JVUvhq) | [T.R.I.C.K](https://open.spotify.com/artist/4h6veOIcgL56r2sY3razZa) | [Afloat](https://open.spotify.com/album/4SC1mIg4RQYp9MyVukN4Gl) | 2:00 |
 | 102 | [Coffee Break](https://open.spotify.com/track/2iQ7zLgkFg5oz9GszNqKad) | [flat disc](https://open.spotify.com/artist/65GQa6LQz8LMbqjGb8qY5g) | [Coffee Break](https://open.spotify.com/album/1jd8sYTu2nql0HNKUoRwWF) | 2:19 |
-| 103 | [boombox](https://open.spotify.com/track/5DU237MfhlKWzzdH1WzjFg) | [Big Phin](https://open.spotify.com/artist/5vrgsBBfouT3gWjotO102m) | [boombox](https://open.spotify.com/album/5sjeVeQ8dIcvyh2RmqD8Z3) | 2:24 |
+| 103 | [boombox](https://open.spotify.com/track/5DU237MfhlKWzzdH1WzjFg) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [boombox](https://open.spotify.com/album/5sjeVeQ8dIcvyh2RmqD8Z3) | 2:24 |
 | 104 | [19](https://open.spotify.com/track/6p347KMUUvTqTfQmRX8TIk) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [19](https://open.spotify.com/album/6LNUtRzdna1vmq3oGmMuab) | 2:46 |
 | 105 | [Lost in Time](https://open.spotify.com/track/3ZzE94F2aprxYIifQpSGPW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lost in Time](https://open.spotify.com/album/1gYZeyDHGN5NM1Iqmybuzq) | 1:33 |
 | 106 | [innerstellar](https://open.spotify.com/track/1XjXLbMacHjagjg1bkPYKE) | [henry loops](https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO) | [innerstellar](https://open.spotify.com/album/4FqvopQIN3zBeXujzUyL7P) | 2:24 |
@@ -248,7 +248,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 238 | [Falling Leaves](https://open.spotify.com/track/0reKnezLNVWxzZKJwWusOO) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Falling Leaves](https://open.spotify.com/album/6kxoGbgg7Fzakjoul17YN9) | 1:55 |
 | 239 | [Mood](https://open.spotify.com/track/1ZrvSzR17bYxrIVQMd0CWt) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Mood](https://open.spotify.com/album/4f6dgxqb5JZNE8mDfSzIp8) | 2:43 |
 | 240 | [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 |
-| 241 | [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Zola Yachin](https://open.spotify.com/artist/10P5GjC3Yl8fF2ZOnZSfHd) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 |
+| 241 | [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 |
 | 242 | [See you soon](https://open.spotify.com/track/0AAmMbWCDAzq6EmI5NUGNC) | [Gedimi](https://open.spotify.com/artist/68cLSTXnIf1UtW0muey7LG) | [See you soon](https://open.spotify.com/album/73exb1SFjcjvVDh1xgabkI) | 2:26 |
 | 243 | [Voices In My Head](https://open.spotify.com/track/5qcuzoVn3eqQiDPIcSqo6g) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [Voices In My Head](https://open.spotify.com/album/6j2sv5DzZKnZxOgIZgalrY) | 2:20 |
 | 244 | [sound by night](https://open.spotify.com/track/17EyMtoMHoVj1LQyOluAEO) | [scratchine](https://open.spotify.com/artist/7tDgvVUF0rqcdI44ZKWMHh) | [sound by night](https://open.spotify.com/album/3TF0ANcNRkxJUW9qKTBGnk) | 2:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,012 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,024 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 18 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 |
 | 19 | [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 |
 | 20 | [Corporation](https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Boarding House Reach](https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId) | 5:39 |
-| 21 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
+| 21 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 |
 | 22 | [Something's Gotta Give](https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [B\. Slade](https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 4:19 |
 | 23 | [Watch It Die](https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:00 |
 | 24 | [I Want You](https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 6:27 |
-| 25 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 |
+| 25 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
 | 26 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 |
 | 27 | [Coming Back](https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Headway](https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3) | 2:58 |
 | 28 | [Brown Gatton](https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 4:10 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 33 | [Change In Me \(The Rebirth\)](https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 4:37 |
 | 34 | [Sweet Tea](https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 9:59 |
 | 35 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 |
-| 36 | [28 Days](https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:00 |
+| 36 | [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 |
 | 37 | [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 |
-| 38 | [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 |
+| 38 | [28 Days](https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:00 |
 | 39 | [Creepin'](https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 3:41 |
 | 40 | [Surfing](https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Kirk Fletcher](https://open.spotify.com/artist/4SEFm6iz9emp5qH1C5aoi5) | [Surfing](https://open.spotify.com/album/3IXyvwIPq8pfsGstJvzxU8) | 2:45 |
 | 41 | [Royal Tea](https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Backbone](https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi) | 2:48 |
 | 50 | [Shufflin' West Coast](https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m), [Tim Pierce](https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4), [Johnny Lee Schell](https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi), [Toshi Yanagi](https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj), [Michael Thompson](https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE), [Brent Mason](https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Shufflin' West Coast](https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0) | 4:22 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDA5MTgwNmE2MjBjMGYwNjNjMzIwZDE2YzViZjVhNWQw`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDNiNmUzMTI4N2VhMjQyZWQ3OTY2MDk0ZTQ1ZWMzZmYy`

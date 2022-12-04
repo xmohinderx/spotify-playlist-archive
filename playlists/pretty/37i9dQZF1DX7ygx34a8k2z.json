@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 89981,
+  "num_followers": 90321,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDAzMGExOWU5MDk5NTQ5OTIyYjA4ZmYzNjYyNTZkNzRi",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDhkNGJjY2ZmMGM4YzRhYzhlZmE5M2ExMGYwNWRkMWM1",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "The Soft Bulletin",
         "url": "https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 258912,
       "name": "Race for the Prize - 2017 Remaster",
       "url": "https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Car Button Cloth",
-        "url": "https://open.spotify.com/album/5NQ9PLQuzOIKG4R1lxcVMf"
+        "name": "Lovelife",
+        "url": "https://open.spotify.com/album/7GENDDN5PnnAF9e8NbuMIT"
       },
       "artists": [
         {
-          "name": "The Lemonheads",
-          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
         }
       ],
-      "duration_ms": 170906,
-      "name": "If I Could Talk I'd Tell You",
-      "url": "https://open.spotify.com/track/7F8eSGduNKaqn16evCtdB0"
+      "duration_ms": 193493,
+      "name": "Ladykillers",
+      "url": "https://open.spotify.com/track/64RQTM5ih8kx5rl8fxbRVv"
     }
   ],
   "unique_name": "Thrifted",

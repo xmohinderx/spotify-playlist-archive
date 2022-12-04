@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Fito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,963 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,119 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 53 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 |
 | 54 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 | 55 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
-| 56 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
-| 57 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
+| 56 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
+| 57 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
 | 58 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
 | 59 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 60 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 75 | [Dulce condena](https://open.spotify.com/track/61X9MrPozPv0V0WbX9ACUX) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Sin Documentos](https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t) | 4:41 |
 
-Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGIzYjhhOWU0Y2JmM2NhZDU2MWY5YmRkYmI5Y2QxZGJh`
+Snapshot ID: `MTY2OTkzNTYwMCwwMDAwMDAwMGVlMTQ1NmMyZWUxMGVhNzFjMjlhM2FmYzU4NWYxM2Yx`

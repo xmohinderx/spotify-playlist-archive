@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Kany García & Christian Nodal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,566 likes - 57 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,587 likes - 57 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 15 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |
 | 16 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
 | 17 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
-| 18 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 |
-| 19 | [CAMBIA!](https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:08 |
+| 18 | [CAMBIA!](https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:08 |
+| 19 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 |
 | 20 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
 | 21 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 |
 | 22 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 56 | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX) | 3:03 |
 | 57 | [No Hay Pedo](https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX) | [Grupo Sigma](https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [No Hay Pedo](https://open.spotify.com/album/5o7CtNJewla3ScdV8RrePn) | 3:03 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGI4MTI1Yjg3OGRjYzQ1YWE5YzVmMDgwNDQxYTA0YjVj`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGI0ODZmNWQyZmEwZDJjZmEwZTc4NjQ2YmVkYTE2ZTYx`

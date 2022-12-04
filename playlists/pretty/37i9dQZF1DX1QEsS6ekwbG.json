@@ -1,12 +1,12 @@
 {
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
-  "num_followers": 84322,
+  "num_followers": 84453,
   "original_name": "Lluvia y Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE4Mzk1NiwwMDAwMDAwMGVkNzRiZjU4Y2NlYmEwZjBmMjcwNzgwZWVhMzNlYzQ0",
+  "snapshot_id": "MTY2ODE4Mzk1NiwwMDAwMDAwMDEyYWI3MGMyMWQ2NjI5OWU3OGEyZjk3ZGUzY2JkNDgx",
   "tracks": [
     {
       "added_at": "2022-11-11 16:25:56",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-11 16:25:56",
       "album": {
-        "name": "Secuencia",
-        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
-    },
-    {
-      "added_at": "2022-11-11 16:25:56",
-      "album": {
         "name": "Todo Historias",
         "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+    },
+    {
+      "added_at": "2022-11-11 16:25:56",
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
     },
     {
       "added_at": "2022-11-11 16:25:56",

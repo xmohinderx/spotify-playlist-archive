@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,146 likes - 135 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,172 likes - 135 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 35 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
 | 36 | [Sentiment \- Yoga Version](https://open.spotify.com/track/0xknACiHrVed7KEML5oNuU) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Yoga Version](https://open.spotify.com/album/7deF5Xp7ctwSJb85ZWFPaG) | 2:45 |
 | 37 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 |
-| 38 | [Promises](https://open.spotify.com/track/1EkmMHDUp0fygcCYsj00m1) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [Inner Awakening](https://open.spotify.com/album/7q5WVMFSPv1XBA3zqy9pwu) | 2:42 |
+| 38 | [Promises](https://open.spotify.com/track/1EkmMHDUp0fygcCYsj00m1) | [Aerial Sonda](https://open.spotify.com/artist/0dGSpbEGrgn7BqbDOx2kOA) | [Inner Awakening](https://open.spotify.com/album/7q5WVMFSPv1XBA3zqy9pwu) | 2:42 |
 | 39 | [Awaiting The Night](https://open.spotify.com/track/30uebPIcKyKLYs6GvCMoGI) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [Awaiting The Night](https://open.spotify.com/album/4WbmSphPzHRMjuboa8haMl) | 2:14 |
 | 40 | [Valtamania](https://open.spotify.com/track/495yKNbAKF5CcwYizd6XIP) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Valtamania](https://open.spotify.com/album/5LuQNxrMBFujBBMTRfXFGv) | 2:33 |
 | 41 | [The Journey Within](https://open.spotify.com/track/3q0ss0KoYMVsUmgiaMRc7q) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [The Journey Within](https://open.spotify.com/album/17IeLGiiEG70TNZ9KG21US) | 2:08 |

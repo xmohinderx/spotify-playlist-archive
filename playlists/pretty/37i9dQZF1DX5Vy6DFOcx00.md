@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,828,924 likes - 127 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,832,665 likes - 127 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 39 | [Sweet Yamz](https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Sweet Yamz](https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd) | 1:45 |
 | 40 | [Put It On Me](https://open.spotify.com/track/2FWeNvUo79OeiHWoR1bUsO) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:32 |
 | 41 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
-| 42 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 |
+| 42 | [Blue Spirits](https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk) | 3:08 |
 | 43 | [Everyone Can See](https://open.spotify.com/track/7tKkR4FtdgbZeB7XHnFboe) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:20 |
 | 44 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
 | 45 | [just wanna rock \(Lil Uzi Vert\) \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 48 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 49 | [Spinnin](https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Spinnin](https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4) | 1:50 |
 | 50 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
-| 51 | [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 51 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
 | 52 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 |
 | 53 | [Awkward](https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:58 |
 | 54 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 126 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 |
 | 127 | [Just Can’t Get Enough](https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:39 |
 
-Snapshot ID: `MTY3MDAxMzczNCwwMDAwMDAwMDRmYmFlNWIwYzY5MDI2MjllNzZkYTg3ZTY3NTVjMGRk`
+Snapshot ID: `MTY3MDAxMzczNCwwMDAwMDAwMDhiNTVhNDM3M2Q3ZDI2NDA1OTQ2ODg1M2MyNWMwNTRi`

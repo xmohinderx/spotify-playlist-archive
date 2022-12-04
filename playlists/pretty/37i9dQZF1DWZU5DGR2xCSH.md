@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,639 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,843 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 18 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 19 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
 | 20 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
-| 21 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
-| 22 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 |
+| 21 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 |
+| 22 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 23 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 24 | [La parte de adelante](https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 4:21 |
 | 25 | [Prófugos \- Remasterizado 2007](https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 5:17 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 40 | [Tarea Fina](https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:43 |
 | 41 | [Mujer Amante \- Vivo](https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:17 |
 | 42 | [Seminare \(Remasterizado 2021\)](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 |
-| 43 | [Bicho de Ciudad](https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Civilización](https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN) | 5:20 |
-| 44 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
+| 43 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
+| 44 | [Bicho de Ciudad](https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Civilización](https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN) | 5:20 |
 | 45 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 |
 | 46 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
 | 47 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 68 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
 | 69 | [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 |
 | 70 | [Dos en la ciudad](https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:42 |
-| 71 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 |
-| 72 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 |
+| 71 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 |
+| 72 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 |
 | 73 | [Quieren Rock](https://open.spotify.com/track/7KZWjw7JURpLC80tasSdlR) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Buen Dia](https://open.spotify.com/album/3Cm6V0jTg2MMseB6oAfTDg) | 3:44 |
 | 74 | [Y Mientras Tanto el Sol Se Muere...](https://open.spotify.com/track/63WYTOfMwaoD1OwsM2fdBg) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Porco Rex](https://open.spotify.com/album/0CJMyEhIr0E4gyiQ3LqVp4) | 4:00 |
 | 75 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
 | 76 | [Milonga del marinero y el capitán](https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:26 |
 | 77 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 78 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
-| 79 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
-| 80 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
+| 79 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
+| 80 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
 
-Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMDI4NjI2NTk5NmM0ZGFkZWQ4ZGM0NWYzMGVmYmNiMTFh`
+Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMDI2YWY2MTk4ZjNjOWNlZDk1MTNlMzg2MjQwMDAwYWE3`

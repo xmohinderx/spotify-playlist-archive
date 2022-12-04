@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140922,
+  "num_followers": 140927,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMGM5MWYwZGU5YWZkNGIxZGU2NjgwZWZlMjhiZDM3OTk3",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDY5YTA0NDZlZmI0NmUxMmJhOTU5OTAwYjcxNzYyYmU5",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Quinto",
-        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vision",
-          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 240734,
       "name": "Cuatro Caminos",
       "url": "https://open.spotify.com/track/5e6sA4oUXLg7RDAgzMrpxr"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Quinto",
+        "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vision",
+          "url": "https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Por Una Cantina",
+        "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
+      },
+      "artists": [
+        {
+          "name": "David Farias",
+          "url": "https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Por Una Cantina",
+      "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Y Sigues Siendo Tu",
         "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 207725,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1tIcWX7l6ONDoomJWeizc5"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Por Una Cantina",
-        "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
-      },
-      "artists": [
-        {
-          "name": "David Farias",
-          "url": "https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Por Una Cantina",
-      "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+      },
+      "artists": [
+        {
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
-      },
-      "artists": [
-        {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "No Soy La Misma",
-        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 224344,
-      "name": "No Soy La Misma",
-      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Porque Sera",
         "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 227186,
       "name": "Porque Sera",
       "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "No Soy La Misma",
+        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
+      },
+      "artists": [
+        {
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "No Soy La Misma",
+      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
-      },
-      "artists": [
-        {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Mentias",
         "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
+        "name": "Entre El Frio Y El Calor",
+        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
       },
       "artists": [
         {
-          "name": "Lydia Castillo",
-          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
         }
       ],
-      "duration_ms": 220003,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+      "duration_ms": 215640,
+      "name": "Entre El Frio Y El Calor",
+      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -791,6 +775,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
+      },
+      "artists": [
+        {
+          "name": "Lydia Castillo",
+          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Final De Tu Amor",
         "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
+      },
+      "artists": [
+        {
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -823,22 +839,6 @@
       "duration_ms": 227262,
       "name": "Un D\u00eda Veras",
       "url": "https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Trampa De Amor",
-        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
-      },
-      "artists": [
-        {
-          "name": "VIRGINIA Y VALOR",
-          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Trampa De Amor",
-      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     },
     {
       "added_at": "2022-09-15 18:41:23",

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-161 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+162 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 | 2022-09-01 | 2022-09-30 |
 | [Ela Me Xita](https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf) | [Celso Baía](https://open.spotify.com/artist/0qbwa4N5og0uYMtK3ePiMq), [Bruno Soares](https://open.spotify.com/artist/2WStXxWyKuZ9FJpTtCZYYX) | [Ela Me Xita](https://open.spotify.com/album/17zA6qrmj5RH5Ub4NRxcsV) | 4:11 | 2022-07-07 | 2022-08-05 |
 | [Enganada](https://open.spotify.com/track/4syj8Nofc0O0BJ1EtOKCaT) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Enganada](https://open.spotify.com/album/2S3QLFmlbKPgooo0wialtq) | 2:52 | 2022-07-07 | 2022-07-21 |
+| [Espaço](https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr) | [Lucas Leite](https://open.spotify.com/artist/5FE9rWQk9C3bdSUQRgI9dk) | [Espaço](https://open.spotify.com/album/5TddFI2xW974OSHg88pjOb) | 3:14 | 2022-12-02 |  |
 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 | 2022-07-07 |  |
 | [Esse Corpo](https://open.spotify.com/track/69KrMw0IRIwTDXWvib4wON) | [YRC](https://open.spotify.com/artist/6iDIU9vxMcfwrUkpzkoDc7), [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Esse Corpo](https://open.spotify.com/album/6WqINuc1s3vvs0glX9NIWf) | 3:04 | 2022-09-01 | 2022-09-09 |
 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 | 2022-07-07 |  |
@@ -89,7 +90,7 @@
 | [Lá Fora](https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Lá Fora](https://open.spotify.com/album/4RBovD9AuQkPGJ8Tpz9Bpg) | 3:06 | 2022-10-06 | 2022-12-02 |
 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 | 2022-11-11 |  |
 | [Mal\-Me\-Queres Amarelos](https://open.spotify.com/track/0vpZYmZBBGvtgw6jCCnb1q) | [BlvckPunch](https://open.spotify.com/artist/0gECWTBjkZ3EUpW6Ww0mUJ), [Pimp Nilo](https://open.spotify.com/artist/2rWBakgQaaMaYtvzgQbV6w) | [Hat\-Trick de Love](https://open.spotify.com/album/5FTbZYQKPFebxVXe3qgPfq) | 3:52 | 2022-09-29 | 2022-10-14 |
-| [María♡](https://open.spotify.com/track/737sa9JwA5YmswwNYcJXAE) | [Arthyy](https://open.spotify.com/artist/78W2GovFrkUXeFlIkmEHhs) | [María♡](https://open.spotify.com/album/28moMVQvQVXvCCrBCDH3cK) | 3:20 | 2022-12-02 |  |
+| [María♡](https://open.spotify.com/track/737sa9JwA5YmswwNYcJXAE) | [Arthyy](https://open.spotify.com/artist/78W2GovFrkUXeFlIkmEHhs) | [María♡](https://open.spotify.com/album/28moMVQvQVXvCCrBCDH3cK) | 3:20 | 2022-12-02 | 2022-12-04 |
 | [Me Liga](https://open.spotify.com/track/3tDSsSxhgxZXm6cEiNkuBH) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [Me Liga](https://open.spotify.com/album/18sYSSTZxicODIumIZqC54) | 2:53 | 2022-08-18 | 2022-08-31 |
 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 | 2022-07-21 | 2022-10-14 |
 | [Miami](https://open.spotify.com/track/1fxGMZsjCkKZkcwrnjhU7D) | [Yung SpaceGhost](https://open.spotify.com/artist/6XsOyDRKR2HpSDEWYUsNJz), [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL) | [Miami](https://open.spotify.com/album/7u4us2ygesx97lTMlnpRAL) | 2:28 | 2022-07-07 | 2022-08-05 |

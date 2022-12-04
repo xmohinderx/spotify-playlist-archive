@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden",
-  "num_followers": 2374012,
+  "num_followers": 2374667,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMDYyNmFlYTJkY2E3OGU3OTJlMjNjNDlkZWRkZTY4YTlm",
+  "snapshot_id": "MTY2OTkxMjQ3MiwwMDAwMDAwMDM0YjhkYzA2MDZlNjIxYTAzOGEzNDdiNTRlMmYxNzQ4",
   "tracks": [
     {
       "added_at": "2022-10-25 17:33:07",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
+        "name": "Reign In Blood",
+        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+      "duration_ms": 254400,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Raining Blood",
-      "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+        "name": "South Of Heaven",
+        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Strutter",
-      "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
+      "duration_ms": 298533,
+      "name": "South Of Heaven",
+      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -795,34 +795,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "South Of Heaven",
-        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 298533,
-      "name": "South Of Heaven",
-      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+      "duration_ms": 190866,
+      "name": "Strutter",
+      "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -839,6 +823,22 @@
       "duration_ms": 414720,
       "name": "Seek & Destroy (Remastered)",
       "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Creatures Of The Night",
-        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "I Love It Loud",
-      "url": "https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "The Number of the Beast (2015 - Remaster)",
         "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 233506,
       "name": "Run to the Hills - 2015 Remaster",
       "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Overkill (Expanded Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 311133,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
       },
       "artists": [
         {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 311133,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
+      "duration_ms": 255426,
+      "name": "I Love It Loud",
+      "url": "https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "The Number of the Beast (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 290586,
-      "name": "The Number of the Beast - 2015 Remaster",
-      "url": "https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "No Remorse",
         "url": "https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 279306,
       "name": "Killed by Death",
       "url": "https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "The Number of the Beast (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 290586,
+      "name": "The Number of the Beast - 2015 Remaster",
+      "url": "https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Somewhere in Time (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Wasted Years - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
+        "name": "Somewhere in Time (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
       },
       "artists": [
         {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 340240,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/1EoN7hqAsyuTUrBjJPzWJF"
+      "duration_ms": 309640,
+      "name": "Wasted Years - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1399,6 +1383,22 @@
       "duration_ms": 341333,
       "name": "Indians",
       "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 340240,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/1EoN7hqAsyuTUrBjJPzWJF"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1447,22 +1447,6 @@
       "duration_ms": 187493,
       "name": "Animal (Fuck Like A Beast)",
       "url": "https://open.spotify.com/track/22KezdnLpayPKz4aTDt899"
-    },
-    {
-      "added_at": "2022-10-25 17:33:07",
-      "album": {
-        "name": "Powerslave (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 363586,
-      "name": "2 Minutes to Midnight - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2022-10-25 17:33:07",
       "album": {
-        "name": "Wheels of Steel (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J"
+        "name": "Powerslave (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
       },
       "artists": [
         {
-          "name": "Saxon",
-          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 358698,
-      "name": "Wheels of Steel - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/4ie42LCUKcp68EnZOMw9PG"
+      "duration_ms": 363586,
+      "name": "2 Minutes to Midnight - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
     },
     {
       "added_at": "2022-10-25 17:33:07",
@@ -1559,6 +1543,22 @@
       "duration_ms": 300093,
       "name": "Caught In A Mosh",
       "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
+    },
+    {
+      "added_at": "2022-10-25 17:33:07",
+      "album": {
+        "name": "Wheels of Steel (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J"
+      },
+      "artists": [
+        {
+          "name": "Saxon",
+          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+        }
+      ],
+      "duration_ms": 358698,
+      "name": "Wheels of Steel - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/4ie42LCUKcp68EnZOMw9PG"
     },
     {
       "added_at": "2022-10-25 17:33:07",

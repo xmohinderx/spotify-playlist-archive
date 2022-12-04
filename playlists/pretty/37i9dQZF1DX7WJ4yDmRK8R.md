@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,618 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,686 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 14 | [The Science of Selling Yourself Short](https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Anthem](https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7) | 3:06 |
 | 15 | [Keasbey Nights](https://open.spotify.com/track/4XhzDUvgDIokNmvMtHsmOz) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:02 |
 | 16 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 |
-| 17 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 |
-| 18 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 |
+| 17 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 |
+| 18 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 |
 | 19 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 |
 | 20 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |
 | 21 | [9mm And A Three Piece Suit](https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 1:56 |
@@ -85,21 +85,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 75 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 | 76 | [Step One](https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7) | 1:12 |
 | 77 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 |
-| 78 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 |
-| 79 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
+| 78 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
+| 79 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 |
 | 80 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures \- EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 4:14 |
 | 81 | [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 |
 | 82 | [Seven Seas](https://open.spotify.com/track/5EOJzNZsHhJIP0cwowK8i9) | [King Prawn](https://open.spotify.com/artist/1Fjm05W0fV3rvWRW3SFZY9) | [The Fabulous New Sounds of...](https://open.spotify.com/album/0HYasBR6e0TxXDfhmgSsSH) | 3:25 |
 | 83 | [B.L.M](https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Encore \(Deluxe\)](https://open.spotify.com/album/2K7Z8kR4tsXDIkS0jWLkwZ) | 5:05 |
-| 84 | [Lip Up Fatty](https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Viva La Ska Revolution](https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh) | 2:46 |
-| 85 | [Fear](https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Fear](https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7) | 3:36 |
+| 84 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
+| 85 | [Lip Up Fatty](https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Viva La Ska Revolution](https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh) | 2:46 |
 | 86 | [Choose My Friends](https://open.spotify.com/track/5xhB62X5svVDYitg5fDe3v) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Grazie Governo](https://open.spotify.com/album/1MxhSb18IacC40HRB86dTr) | 3:02 |
-| 87 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
+| 87 | [Fear](https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Fear](https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7) | 3:36 |
 | 88 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 |
 | 89 | [LONELY BOY](https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [When God Was Great](https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3) | 3:33 |
 | 90 | [I Don't Wanna Go](https://open.spotify.com/track/2QMorHwzcNe3lvoBaN41CE) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Detonate](https://open.spotify.com/album/749SC742jI27G78tbtxKNT) | 3:22 |
-| 91 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 |
-| 92 | [Dippy Egg](https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [There's a Lot of It About](https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4) | 2:32 |
+| 91 | [Dippy Egg](https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y) | [Snuff](https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3) | [There's a Lot of It About](https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4) | 2:32 |
+| 92 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 |
 | 93 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 94 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
 | 95 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Sorry I'm Not Sorry](https://open.spotify.com/track/278kcYhSJT5MorzKYpkKqK) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/3MByj0jMYnFWIE82Z0ypvb) | 3:06 |
 | 100 | [Let It Go](https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Let It Go](https://open.spotify.com/album/5ubvjtSzbJwZ4mv46SrIed) | 3:05 |
 
-Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDNlODdjZTQ2MzMyZTdhNGEwMzEyOTc2M2I0Y2NkZmY4`
+Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDFlNWJiNGE4M2U4MDE4MTk3NDg4NDNlM2MyMTMyYWVj`

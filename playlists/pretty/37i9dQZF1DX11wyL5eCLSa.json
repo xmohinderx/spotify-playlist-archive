@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Kevin Kaarl en portada.",
-  "num_followers": 136591,
+  "num_followers": 136663,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDZlN2Q1NzQ4ZDI4ODM2YjA0MjRjMmRlY2ZjY2U4ZGY2",
+  "snapshot_id": "MTY2OTM1NjAwMCwwMDAwMDAwMDE3ZGYyYWM4ZTZmOGJjYWM1NDRlNmUyNWUyNjhlNTgw",
   "tracks": [
     {
       "added_at": "2022-07-22 17:47:39",
@@ -95,18 +95,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 224085,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
     },
     {
       "added_at": "2022-11-25 06:00:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2022-07-22 17:47:39",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8"
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
     },
     {
       "added_at": "2022-07-22 17:47:39",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
     },
     {
-      "added_at": "2022-09-27 21:37:51",
-      "album": {
-        "name": "De la Orqu\u00eddea y la Avispa",
-        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 407449,
-      "name": "De la Orqu\u00eddea y la Avispa",
-      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
-    },
-    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Borregos En La Niebla",
@@ -819,6 +803,22 @@
       "duration_ms": 249933,
       "name": "Pasiflorine",
       "url": "https://open.spotify.com/track/2dGLgeorhk8f54PSm9xPLH"
+    },
+    {
+      "added_at": "2022-09-27 21:37:51",
+      "album": {
+        "name": "De la Orqu\u00eddea y la Avispa",
+        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 407449,
+      "name": "De la Orqu\u00eddea y la Avispa",
+      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
     },
     {
       "added_at": "2022-07-22 17:47:39",

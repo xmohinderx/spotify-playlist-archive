@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,986 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,980 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 28 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
 | 29 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 |
 | 30 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 |
-| 31 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
-| 32 | [Something to Someone](https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
+| 31 | [Something to Someone](https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
+| 32 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 33 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
-| 34 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
-| 35 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
+| 34 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
+| 35 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 36 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
 | 37 | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf) | 2:37 |
-| 38 | [YOU AGAINST YOURSELF](https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [YOU AGAINST YOURSELF](https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5) | 2:26 |
-| 39 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
-| 40 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 |
-| 41 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 |
+| 38 | [My Love \- Edit](https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 2:57 |
+| 39 | [YOU AGAINST YOURSELF](https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [YOU AGAINST YOURSELF](https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5) | 2:26 |
+| 40 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 |
+| 41 | [Better Days](https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 |
 | 42 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
 | 43 | [Tacones Rojos \- With John Legend](https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Tacones Rojos \(With John Legend\)](https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO) | 3:08 |
 | 44 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 49 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 |
 | 50 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 |
 
-Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMGU3N2UwOGY3MWQ3MmU2ZGFiM2Q2OWNjZWU3NDc1OTdh`
+Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMDMxODg0YTUyNmM3NzkzMTY2N2FmODNiNmEzZWEyYzg5`

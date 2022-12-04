@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 22660,
+  "num_followers": 22725,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MDUxOCwwMDAwMDAwMDM4ZmI3N2NjOWMxNDYxZThkZGM2Y2FkMzdmYTIwZDBk",
+  "snapshot_id": "MTY2OTk5MDUxOCwwMDAwMDAwMDFmNjQ3MDQ0NTQ1NTMxNzI3MDRmYzZkYWNiNjI2YThl",
   "tracks": [
     {
       "added_at": "2022-11-24 16:50:18",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV"
     },
     {
-      "added_at": "2022-12-03 01:32:49",
-      "album": {
-        "name": "Mick Taylor",
-        "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
-      },
-      "artists": [
-        {
-          "name": "Mick Taylor",
-          "url": "https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Slow Blues",
-      "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
-    },
-    {
       "added_at": "2022-11-24 16:50:18",
       "album": {
         "name": "Freedom Flight",
@@ -103,6 +87,22 @@
       "duration_ms": 428680,
       "name": "Purple",
       "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
+    },
+    {
+      "added_at": "2022-12-04 01:37:41",
+      "album": {
+        "name": "Mick Taylor",
+        "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
+      },
+      "artists": [
+        {
+          "name": "Mick Taylor",
+          "url": "https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Slow Blues",
+      "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Strollin' With Bones",
-      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 566960,
       "name": "12:15 Slow Goonbash Blues",
       "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Strollin' With Bones",
+      "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
-      },
-      "artists": [
-        {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
         "name": "Genuine Houserocking Music",
         "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
       },
@@ -723,18 +723,22 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Ode to Lynn Taitt",
+        "url": "https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Cindy Cashdollar",
+          "url": "https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4"
         }
       ],
-      "duration_ms": 159626,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
+      "duration_ms": 181814,
+      "name": "Ode to Lynn Taitt",
+      "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -755,6 +759,22 @@
       "duration_ms": 463400,
       "name": "Blues For Duke Robillard",
       "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -879,18 +899,18 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
+      "duration_ms": 188293,
+      "name": "The Screwdriver",
+      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -911,18 +931,18 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
       "artists": [
         {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 188293,
-      "name": "The Screwdriver",
-      "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -943,22 +963,18 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Ode to Lynn Taitt",
-        "url": "https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h"
+        "name": "Blueprint (Remastered 2017)",
+        "url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Cindy Cashdollar",
-          "url": "https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4"
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 181814,
-      "name": "Ode to Lynn Taitt",
-      "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"
+      "duration_ms": 170441,
+      "name": "Unmilitary Two-Step",
+      "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Blueprint (Remastered 2017)",
-        "url": "https://open.spotify.com/album/31Sza8aKnWhwkUtcBdQfML"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 170441,
-      "name": "Unmilitary Two-Step",
-      "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "Ain't That Lovin' You Baby",
         "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 153973,
       "name": "Boogie in the Dark",
       "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Hot and Heavy",
-      "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -1071,6 +1055,22 @@
       "duration_ms": 187582,
       "name": "Midnight In Memphis",
       "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Hot and Heavy",
+      "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Go Bo Diddley",
-        "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "The Clock Strikes Twelve",
-      "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "I Feel Like Goin' On",
         "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 393666,
       "name": "Little Johnny Lee",
       "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "Go Bo Diddley",
+        "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "The Clock Strikes Twelve",
+      "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
     },
     {
       "added_at": "2022-11-24 16:50:18",
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
     },
     {
-      "added_at": "2022-12-03 01:32:49",
+      "added_at": "2022-12-04 01:37:41",
       "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-11-24 16:50:18",
       "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
-    },
-    {
-      "added_at": "2022-11-24 16:50:18",
-      "album": {
         "name": "The Grind",
         "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 76339,
       "name": "The Grind",
       "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
+    },
+    {
+      "added_at": "2022-11-24 16:50:18",
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 509106,
+      "name": "Blues For Otis Rush",
+      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
     }
   ],
   "unique_name": "Instrumental Blues",

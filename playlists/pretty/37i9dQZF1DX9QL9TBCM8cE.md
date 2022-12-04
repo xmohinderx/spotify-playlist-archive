@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。©︎THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,567 likes - 54 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,233 likes - 54 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [虹の行方](https://open.spotify.com/track/2EGyVGF3f5h1WAScAqFOnW) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 5:14 |
-| 2 | [Killer×Mission](https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to) | [L'Antica](https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9), [Straylight](https://open.spotify.com/artist/35dTvgt9RcpnrSbIaUW5SZ) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 01](https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ) | 4:01 |
+| 2 | [Killer×Mission](https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to) | [L'Antica](https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9), [Straylight](https://open.spotify.com/artist/55ZnJMJst6Ezqxld9WevAA) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 01](https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ) | 4:01 |
 | 3 | [相合学舎](https://open.spotify.com/track/5HvlTedUOfCe0vW7gk1SjL) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz), [noctchill](https://open.spotify.com/artist/3tTJSmzikeHCApKxATMoxO) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 02](https://open.spotify.com/album/7rg9RfJGUbH8aLeqHLGBst) | 4:25 |
 | 4 | [Secret utopIA](https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62) | [illumination STARS](https://open.spotify.com/artist/4hdNG4UKCFXjzfuCB37vyj), [ALSTROEMERIA](https://open.spotify.com/artist/6JqEyRLu7IsykcxMFFMZAc), [SHHis](https://open.spotify.com/artist/5Myi8VWLHStjf0nqwLMMMO) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 |
 | 5 | [Daybreak Age](https://open.spotify.com/track/12wfryAax6OKqO5Y7lXLcI) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 01](https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i) | 3:43 |
