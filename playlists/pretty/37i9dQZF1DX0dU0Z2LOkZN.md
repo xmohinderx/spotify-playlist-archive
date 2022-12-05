@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,472 likes - 200 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,566 likes - 200 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 168 | [Nightlife](https://open.spotify.com/track/7rFYeoifHq9wYNSL7nQpAj) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nightlife](https://open.spotify.com/album/4IeJl3nyIh15rF6AaaHhFP) | 2:03 |
 | 169 | [shogun](https://open.spotify.com/track/1hccHdv4Vb713T0cRgVg5l) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [moisture](https://open.spotify.com/album/2QQD51qrAwUfSyiqhf2UM9) | 1:32 |
 | 170 | [9th Power](https://open.spotify.com/track/50eSk8PGIs5Io8CGDJESmR) | [Henyao](https://open.spotify.com/artist/6cGhntyNrV6p2Dma040Erk) | [9th Power](https://open.spotify.com/album/3jNRHXHQKfMuSWNG2kp6J1) | 2:56 |
-| 171 | [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 |
+| 171 | [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 |
 | 172 | [It Goes Without Saying](https://open.spotify.com/track/6YFC7nC5xcCSA6vXPfN28A) | [Dariush](https://open.spotify.com/artist/6zY6Ok23fglrQG3PzGR5lt) | [It Goes Without Saying](https://open.spotify.com/album/2nfeBYFTlB4thgt0LDi30I) | 2:07 |
 | 173 | [5th Avenue](https://open.spotify.com/track/6lRKLPXagbdNp6yd3N8aO3) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ) | [5th Avenue](https://open.spotify.com/album/0IEzbO2T1Oab6nk3hRRxMw) | 2:23 |
 | 174 | [From The Soul](https://open.spotify.com/track/1s5GHyLmpYuqLm1uQVoXkw) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [From The Soul](https://open.spotify.com/album/2vxJjfPTMB3fd1MUENkAK1) | 2:31 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 199 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 200 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 |
 
-Snapshot ID: `MTY2OTM4MjIzOCwwMDAwMDAwMDc2NWU5MTAzNTUxZjQxNTVjMTE3ZTkyOWFlNmI5YmU0`
+Snapshot ID: `MTY2OTM4MjIzOCwwMDAwMDAwMDUxNDEwZmVlMjJiM2JjOTAyNDIyNjJlYzc2MWVkMmI0`

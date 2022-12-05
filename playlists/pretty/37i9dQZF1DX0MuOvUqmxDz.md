@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,196 likes - 156 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,702 likes - 156 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 113 | [Sleigh Ride](https://open.spotify.com/track/69D0qlBOmk9u9mPKM2eVNI) | [Lucas Hoge](https://open.spotify.com/artist/0hj3TrC0GoZKDTyxZo88pP) | [12.25](https://open.spotify.com/album/08KWO1TP1FJXumOYUkUHCk) | 3:25 |
 | 114 | [Silent Night](https://open.spotify.com/track/4kPUv0w3d6ZLuFKpbOWEyc) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Silent Night](https://open.spotify.com/album/0VqmzGTHg4eJdMZubt623Z) | 2:46 |
 | 115 | [I'll Be Home For Christmas](https://open.spotify.com/track/1gy2MIhGkg1uDeNOM0gQqY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [I'll Be Home For Christmas](https://open.spotify.com/album/3pVGIYhwAivk0RoSj3YGo5) | 3:09 |
-| 116 | [Lonely on Christmas \(with Mike and the Moonpies\)](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas \(with Mike and the Moonpies\)](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |
+| 116 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |
 | 117 | [Hard Candy Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/7ARgYvIGWXcAyKCmxZMqEW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Hard Candy Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/2rnJ0VBNmS5pdFrbY9p8YI) | 4:09 |
 | 118 | [Santa Ain't A Cowboy](https://open.spotify.com/track/0vNT0zGXZIXnEmSCeEzjvA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Santa Ain't A Cowboy](https://open.spotify.com/album/3ZtWWM1Qj0tk2vA76oWwUl) | 3:40 |
 | 119 | [Santa Claus Is Comin’ To Town](https://open.spotify.com/track/56NwAqyAAD9yJ2gn2W1dvO) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Santa Claus Is Comin’ To Town](https://open.spotify.com/album/1WwXf2YyHyN5kdHxjMVKOe) | 2:41 |

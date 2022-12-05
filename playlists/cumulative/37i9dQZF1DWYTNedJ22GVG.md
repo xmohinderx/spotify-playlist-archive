@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-165 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+166 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Jingle Bells](https://open.spotify.com/track/2iSLGcgeZ6NnLfaHDnBooG) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [The Christmas EP](https://open.spotify.com/album/1H7ff5n8Dju9kDgZTFPgyv) | 3:01 | 2021-12-07 | 2022-11-13 |
 | [Jingle Bells](https://open.spotify.com/track/2tD3pZnBsE4wm4PmqVhJCL) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/6NY392KOBGs1zCJKiNgtp6) | 3:01 | 2021-12-07 | 2022-07-29 |
 | [Jingle Bells](https://open.spotify.com/track/37dlx96QkvFn8gNvTFugYF) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 3:01 | 2021-12-07 |  |
-| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 | 2021-12-07 |  |
+| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Holiday](https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR) | 2:20 | 2022-12-02 |  |
+| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 | 2021-12-07 | 2022-12-05 |
 | [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/2eifVaVxxzerYshms9gIf4) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/08iqqXwfQYhptJEo6Vxe7u) | 2:20 | 2021-12-07 | 2022-07-29 |
 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 | 2021-12-07 |  |
 | [Last Christmas](https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/4mVIcvIiA2bIXiN0P0otKJ) | 3:32 | 2021-12-07 | 2022-07-29 |

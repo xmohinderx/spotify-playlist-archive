@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Thaiane Seghetto, Isadora Pompeo",
+  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Midian Lima",
   "name": "Mulheres do Gospel",
   "published_playlist_ids": [
     "65FJ5aIMXCu7yCIPpdXqxC"
@@ -774,6 +774,28 @@
     },
     {
       "album": {
+        "name": "Eu Tenho Pai",
+        "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400906,
+      "name": "Eu Tenho Pai",
+      "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
+    },
+    {
+      "album": {
         "name": "Eu Vou Construir",
         "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
       },
@@ -875,7 +897,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 366754,
       "name": "Jerusal\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/0dQDXPuqDx5FYbwBcUBn8t"
@@ -1106,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "album": {
         "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
@@ -1135,7 +1175,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 243000,
       "name": "O Melhor Pra Ti",
       "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"

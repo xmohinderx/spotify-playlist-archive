@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Lauren Henderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,392 likes - 116 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,501 likes - 116 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,149 likes - 1,201 songs - 3 day 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,215 likes - 1,201 songs - 3 day 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -542,7 +542,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 532 | [Quicksand](https://open.spotify.com/track/6T4MEK8mRlx6kVf0A5ax5T) | [Joe Yorke](https://open.spotify.com/artist/5txKJQwlX202UqnBPII2PK), [Stand High Patrol](https://open.spotify.com/artist/4aoS8xjLh7iC8vgyEMtBlD) | [Quicksand](https://open.spotify.com/album/3sJGgBCHtC8slEwppdj70A) | 4:00 |
 | 533 | [Soul Alphabet](https://open.spotify.com/track/1TkEWtBcGGo3iEryzHB7LG) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Captain Of None](https://open.spotify.com/album/2gnttPzhPGPnTxOtxhPITE) | 4:54 |
 | 534 | [Acender As Velas](https://open.spotify.com/track/51WPyWMsRCsQL1rLd0D6EO) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Opinião De Nara](https://open.spotify.com/album/1ux284zEB97Vdxzfg6WN7r) | 2:07 |
-| 535 | [Aloha! \(Main Title Theme\) \[from “The White Lotus: Season 1”\]](https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:19 |
+| 535 | [Aloha! \(Main Title Theme\) \- from “The White Lotus: Season 1”](https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:19 |
 | 536 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 537 | [You've Got the Floor](https://open.spotify.com/track/0yfgbWLgDbj2Ax2puQ5SgY) | [Arthur Adams](https://open.spotify.com/artist/0eXscio89WRQMjamjHyUKZ) | [You've Got the Floor \- Single](https://open.spotify.com/album/5ttjBpSkvIv1fF3OGTB9yV) | 5:57 |
 | 538 | [Mundo Deserto](https://open.spotify.com/track/2x6ztBh9TsTqAS5mX9ttEw) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Ela](https://open.spotify.com/album/00v6XMJH8URR26deMot450) | 2:36 |

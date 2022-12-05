@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,949 likes - 96 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,239 likes - 96 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 76 | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 |
 | 77 | [Long Walks](https://open.spotify.com/track/6zm5ll3wpuqlA262hmJc4T) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:49 |
 | 78 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 |
-| 79 | [i'm tired of feeling this way](https://open.spotify.com/track/2mMiPaGWOjFUc10hsPEzUc) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/6ZpXzyp96Gd9FD5yCCv6zK) | 2:28 |
+| 79 | [i'm tired of feeling this way](https://open.spotify.com/track/4mHrmcVE8XTWQS8J48HAfQ) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/3EeewDR7dV1MjiWf1kfX5R) | 2:28 |
 | 80 | [Maula Mere Maula \- LoFi](https://open.spotify.com/track/71bQbiRCT5Tvfbk1CWsmLq) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:40 |
 | 81 | [Fairy Fountain](https://open.spotify.com/track/7fD72waADOZymEpuQfbiDE) | [Mikel](https://open.spotify.com/artist/5MboRLcEpLbsshOx64OdA6), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Zelda & Chill](https://open.spotify.com/album/3oNO1P0Qlr4oSlMA2MIj67) | 2:44 |
 | 82 | [She Share Story](https://open.spotify.com/track/52R7RgCUe091WWS1RUaElC) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Tuuh](https://open.spotify.com/artist/65456d4iYC4Z1twwPkV9O5) | [She Share Story](https://open.spotify.com/album/3cj9NTbVSL9t8oaMazSFoE) | 1:20 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 95 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 96 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMGY5MTdiZTM5Yzc1ZDY4YjFlZDY2Mzc2YjYxYWI1YjFk`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDg3ODE2YjdmN2M0YTUxZjRhMjY0ZTE1NjMzZjFiYzIw`

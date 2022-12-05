@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,922 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,953 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 77 | [Waste My Revenge](https://open.spotify.com/track/3dUv1yfwnILmDct5WlQGiN) | [The Thing With Feathers](https://open.spotify.com/artist/3fJAImowfWb7c7e2Fy6hUF) | [Waste My Revenge \(Explicit\)](https://open.spotify.com/album/3P7gy8CWDSEJSNAs2KzSgc) | 3:42 |
 | 78 | [If he wanted to, he would.](https://open.spotify.com/track/7clzpKD9uuNYhGcj0vK4l5) | [In the Mourning](https://open.spotify.com/artist/1uzirhDmkUbDDaBGcwfd0h) | [If he wanted to, he would.](https://open.spotify.com/album/4WXWY8WlUKOFJjFer6naA6) | 2:42 |
 | 79 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 |
-| 80 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 |
+| 80 | [serotonin](https://open.spotify.com/track/3sQjpiC3fOS3oE9Rgg8DZI) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [am i making sense?](https://open.spotify.com/album/5685RucccRVkD9RamYqNRe) | 3:03 |
 | 81 | [Back to How It Was](https://open.spotify.com/track/15pc7waMypOcIQQMS2Cmlt) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Back to How It Was](https://open.spotify.com/album/7iEumxuoSBXqEjIimTPAsK) | 3:51 |
 | 82 | [ERUPT](https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe) | [Rain on Fridays](https://open.spotify.com/artist/1clbqsZIkv7ci3xQ9lmGPj) | [ERUPT](https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn) | 4:11 |
 | 83 | [I'll Be Okay](https://open.spotify.com/track/6E8IPptM3I5o1Ya9nIEGkq) | [Jmsey](https://open.spotify.com/artist/0P1f2YvmKlXYF7aZPKefuv), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [I'll Be Okay](https://open.spotify.com/album/0v3HeWMkmMgjy1bNU5tRs6) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [i got what i asked for](https://open.spotify.com/track/73zlBhD7TDSIFrmcdUYoH3) | [Wilby](https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT) | [i got what i asked for](https://open.spotify.com/album/7uHrq6RsMnfWJOkgwGoftj) | 3:11 |
 | 100 | [To Feel Young](https://open.spotify.com/track/2UVXTxWKffcUMcvSbGNua7) | [Tennis Courts](https://open.spotify.com/artist/1KiCYjJuX19VhFGFjztXn3) | [To Feel Young](https://open.spotify.com/album/5X5R6oiS8mBoOqSn44nf8W) | 4:27 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGNhNmNjZTE2NDY5YmYzODBmNTdjZmRjMzkwMjBkYzNk`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDJhODFjNWU4MTc2OTZmN2ViNjA4ZjFkYjEyNGRjY2Jh`

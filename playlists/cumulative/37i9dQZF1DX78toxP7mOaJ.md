@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from Fresh Finds Rock this year\. Cover: Gretyl Hänlyn \#SpotifyWrapped
 
-655 songs - 1 day 12 hr 6 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+656 songs - 1 day 12 hr 10 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,8 @@
 | [See](https://open.spotify.com/track/1QmAPsQAOwgnbMgadQHkwn) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [See](https://open.spotify.com/album/4VrHjYS30FygMu7azuzmKV) | 4:25 | 2022-06-08 | 2022-06-30 |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2022-01-19 |  |
 | [Seed](https://open.spotify.com/track/4vchQBjUyGzAA38N4WQLBm) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Seed](https://open.spotify.com/album/5tIAVEebX67yVlhYTHcdUb) | 4:48 | 2022-05-25 | 2022-06-16 |
-| [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 | 2022-06-15 |  |
+| [serotonin](https://open.spotify.com/track/3sQjpiC3fOS3oE9Rgg8DZI) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [am i making sense?](https://open.spotify.com/album/5685RucccRVkD9RamYqNRe) | 3:03 | 2022-11-30 |  |
+| [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 | 2022-06-15 | 2022-12-05 |
 | [Shadow](https://open.spotify.com/track/6py2BcgFyBBocwb5n1soLr) | [3lh](https://open.spotify.com/artist/3ZJ3kHmCqRUqK4fYltHc7f) | [Shadow](https://open.spotify.com/album/0P5f5jogXYq4nTgv1t6DgT) | 3:20 | 2022-04-06 | 2022-07-07 |
 | [Shame](https://open.spotify.com/track/2MVVtBE7WkhmbbSYaUwZaZ) | [Puppy](https://open.spotify.com/artist/1k7YEgitylDPEwY0oLo8lH) | [Shame](https://open.spotify.com/album/3uoU0mPGRYKKDhnJIRKmhM) | 3:11 | 2022-03-09 | 2022-05-05 |
 | [Shapes](https://open.spotify.com/track/1ca1NzHafMzPWubaf5zUtB) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [Shapes](https://open.spotify.com/album/3emjaatbNmhEIkvN3isPJl) | 3:10 | 2021-12-01 | 2022-01-20 |

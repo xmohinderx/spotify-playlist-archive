@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-421 songs - 1 day 5 hr 44 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+422 songs - 1 day 5 hr 48 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 | 2018-12-12 | 2022-11-13 |
 | [Being Boiled \- Fast Version / 2003 Digital Remaster](https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Reproduction](https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn) | 3:54 | 2018-12-12 | 2022-11-13 |
 | [Bela Lugosi's Dead](https://open.spotify.com/track/1cPf2khrcp6iRfTGFisSoS) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Bauhaus \- 1979\-1983 Volume One](https://open.spotify.com/album/1vMVPeFOzzvnwC8x6wAie6) | 9:37 | 2018-12-12 | 2022-07-27 |
-| [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2022-10-29 |  |
+| [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2022-10-28 |  |
 | [Big Decision](https://open.spotify.com/track/5Ndc52NE7qWLfd85HuC4lX) | [That Petrol Emotion](https://open.spotify.com/artist/532Srqaijer1gzRS85bD9y) | [Babble](https://open.spotify.com/album/1eXG8LKX0j5Kk4VukTG89T) | 2:42 | 2021-05-01 | 2022-07-07 |
 | [Big Sleep](https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 5:00 | 2019-08-01 | 2022-11-13 |
 | [Bigmouth Strikes Again \- 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:13 | 2020-03-19 |  |
@@ -271,7 +271,7 @@
 | [People Are People \- 2006 Remaster](https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 3:52 | 2018-12-12 |  |
 | [Perfect Skin](https://open.spotify.com/track/4YnHY5YzUWMBY8fRLTooKC) | [Lloyd Cole and the Commotions](https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp) | [Rattlesnakes](https://open.spotify.com/album/4OfGDQC3Z2CdHMknAQMdig) | 3:16 | 2021-04-13 | 2022-07-29 |
 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 | 2019-08-02 | 2022-07-29 |
-| [Play for Today \- 2006 Remaster](https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva) | 3:40 | 2019-08-02 |  |
+| [Play for Today \- 2006 Remaster](https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva) | 3:40 | 2019-08-02 | 2022-12-05 |
 | [Pocket Calculator \- 2009 Remaster](https://open.spotify.com/track/4xa1gzSKd6ihtVGd8dWs69) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Computer World \(2009 Remaster\)](https://open.spotify.com/album/42hCHiMtfs7mfBTVX3V6k7) | 4:56 | 2018-12-12 | 2022-07-26 |
 | [Pretty in Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 | 2018-12-12 |  |
 | [Private Revolution](https://open.spotify.com/track/5GD20Q0mvpsTCuNy9BHZbA) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE) | [Private Revolution](https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey) | 4:03 | 2020-01-26 | 2022-05-21 |
@@ -349,6 +349,7 @@
 | [The Lady Don't Mind \- 2005 Remaster](https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:58 | 2019-08-02 | 2022-07-29 |
 | [The Lebanon](https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Hysteria](https://open.spotify.com/album/0Jst3a86SKc0inDa2AKhXf) | 5:04 | 2018-12-12 | 2022-07-27 |
 | [The Look Of Love, Pt.1](https://open.spotify.com/track/0JdH2hTeU4zrC7zwiAJ6ck) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [20th Century Masters: The Millennium Collection: Best Of ABC](https://open.spotify.com/album/25wSOjnexSXVdtSmUyELkk) | 3:30 | 2019-08-01 | 2022-07-29 |
+| [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 | 2022-12-04 |  |
 | [The Magnificent Seven \- Remastered](https://open.spotify.com/track/1W8Jl9KaSSt23ihF1Mej17) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 5:32 | 2019-08-01 | 2022-11-13 |
 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 | 2018-12-12 |  |
 | [The More You Live, The More You Love](https://open.spotify.com/track/1BhXNODTubCtpeZQ1Dj5xh) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Radio 10 Gold Top 4000 \- box](https://open.spotify.com/album/4SspVa2UBJp5F4niRSRGuw) | 4:05 | 2019-08-02 | 2022-07-21 |

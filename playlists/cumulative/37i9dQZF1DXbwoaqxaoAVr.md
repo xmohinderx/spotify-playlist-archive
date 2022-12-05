@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-124 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+125 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Love Me Easy](https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Love Me Easy](https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj) | 2:50 | 2022-03-03 |  |
 | [Love Power](https://open.spotify.com/track/5lApWR48TCVMLNCFrSa09s) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [The Solar System](https://open.spotify.com/artist/6XuvHsn1lq9MB4Qt10S0Sn) | [Love Power](https://open.spotify.com/album/3oD1rx2uDhDJ97YqHnBkKc) | 5:31 | 2022-04-14 | 2022-08-27 |
 | [Lucky \(feat\. Emily King\)](https://open.spotify.com/track/10RokxYn1aqGPeKGT5Z1C3) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Lucky \(Deluxe\)](https://open.spotify.com/album/42ejzMaOuiyLrUzaGg433c) | 4:06 | 2021-11-25 |  |
-| [Mad World](https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/0OUG8M7SX8AXQCs9LfI3ke) | 2:30 | 2022-10-28 |  |
+| [Mad World](https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/0OUG8M7SX8AXQCs9LfI3ke) | 2:30 | 2022-10-28 | 2022-12-05 |
+| [Mad World](https://open.spotify.com/track/7CgedTnm0Ehh8O1Iaa8OwM) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/5EypOXAENUBdyfTAHbLTe9) | 2:30 | 2022-11-10 |  |
 | [Magic Potion](https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/1rtJZt0m57FZBKe3F9e6M4) | 4:12 | 2021-11-25 |  |
 | [Make Love](https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:35 | 2021-11-25 |  |
 | [Monde de fous](https://open.spotify.com/track/2c8SxnR1Y9m7v5WnpfaoZp) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Monde de fous](https://open.spotify.com/album/4FB0GAPMr9qkmJoSBuq4kW) | 3:54 | 2021-11-25 | 2022-04-29 |

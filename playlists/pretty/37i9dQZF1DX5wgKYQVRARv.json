@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Polyphia",
-  "num_followers": 478133,
+  "num_followers": 478256,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDViYWQ5ZTAzYTdmOTNiMjE4NWI0ZDJiYjgxYWE4NDhj",
+  "snapshot_id": "MTY2Njk0MDQwMCwwMDAwMDAwMDgzMmI2YTEwYzYxZTFhYmU5ZDMxMmNkYzgzM2RiMmMx",
   "tracks": [
     {
       "added_at": "2022-10-28 07:00:00",
@@ -2779,6 +2779,22 @@
     {
       "added_at": "2022-10-28 07:00:00",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5ikjZqItlAINSlmYpO7W2h"
+      },
+      "artists": [
+        {
+          "name": "The Butterfly Effect",
+          "url": "https://open.spotify.com/artist/0kns2X0IFTXafgOGd2IlKJ"
+        }
+      ],
+      "duration_ms": 316606,
+      "name": "So Tired",
+      "url": "https://open.spotify.com/track/6DWdJqLcDI3EobcGtZcNCX"
+    },
+    {
+      "added_at": "2022-10-28 07:00:00",
+      "album": {
         "name": "Para",
         "url": "https://open.spotify.com/album/5kaDYE7WiHuPcfnJLU1X7h"
       },
@@ -3283,22 +3299,6 @@
       "duration_ms": 228413,
       "name": "Titan",
       "url": "https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd"
-    },
-    {
-      "added_at": "2022-10-28 07:00:00",
-      "album": {
-        "name": "Sidewinder",
-        "url": "https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 257125,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy"
     }
   ],
   "unique_name": "Progressive Metal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,202 likes - 174 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,009 likes - 174 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 24 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
 | 25 | [Auld Lang Syne](https://open.spotify.com/track/5lCpu4mVtJtqTAvuyTCfvm) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Auld Lang Syne](https://open.spotify.com/album/0NtG3wF1OMkitdXQsJ3cgm) | 3:32 |
 | 26 | [Fairytale of New York](https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Fairytale of New York](https://open.spotify.com/album/3m34lxhVHHZmCFVa9zsulA) | 3:59 |
-| 27 | [Lonely on Christmas \(with Mike and the Moonpies\)](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas \(with Mike and the Moonpies\)](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |
+| 27 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |
 | 28 | [Winter Wonderland](https://open.spotify.com/track/6zC0LT2m43A8J23VN83TKv) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Winter Wonderland](https://open.spotify.com/album/0luikuvuNw0YQcgkKgyFx5) | 3:00 |
 | 29 | [Holly, Carol, Candy & Joy](https://open.spotify.com/track/18TLOVCvfFtATfullogZ3o) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/4UGQkij93Qsa1S70YgHlRS) | 3:24 |
 | 30 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 |

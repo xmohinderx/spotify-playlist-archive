@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.",
-  "num_followers": 103779,
+  "num_followers": 103846,
   "original_name": "Deep Dive: 00s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5OTkwNCwwMDAwMDAwMDQ4NDU4OTA0NTIxYTkzZDE0ZDIxMjQ2MTY1YmQzYzA0",
+  "snapshot_id": "MTY2ODY5OTkwNCwwMDAwMDAwMGM1MmQ0NTNmMjZjMTIyYTAzNzI0ZDMzYWNlOWU1OTg5",
   "tracks": [
     {
       "added_at": "2022-01-05 09:34:46",
@@ -39,22 +39,6 @@
       "duration_ms": 261959,
       "name": "Decode",
       "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
-    },
-    {
-      "added_at": "2022-01-05 09:34:46",
-      "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2022-01-05 09:34:46",
@@ -139,22 +123,6 @@
     {
       "added_at": "2022-01-05 09:34:46",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "The Ghost of You",
-      "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
-    },
-    {
-      "added_at": "2022-01-05 09:34:46",
-      "album": {
         "name": "Lateralus",
         "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
       },
@@ -167,6 +135,22 @@
       "duration_ms": 403533,
       "name": "Schism",
       "url": "https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc"
+    },
+    {
+      "added_at": "2022-01-05 09:34:46",
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Jigsaw Falling Into Place",
+      "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"
     },
     {
       "added_at": "2022-01-05 09:34:46",
@@ -219,6 +203,22 @@
     {
       "added_at": "2022-01-05 09:34:46",
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 194253,
+      "name": "The Ghost of You",
+      "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
+    },
+    {
+      "added_at": "2022-01-05 09:34:46",
+      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 221000,
       "name": "My Generation",
       "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
-    },
-    {
-      "added_at": "2022-01-05 09:34:46",
-      "album": {
-        "name": "In Rainbows",
-        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Jigsaw Falling Into Place",
-      "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"
     },
     {
       "added_at": "2022-01-05 09:34:46",
@@ -279,38 +263,6 @@
       "duration_ms": 186533,
       "name": "Hash Pipe",
       "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
-    },
-    {
-      "added_at": "2022-01-05 09:34:46",
-      "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "ATWA",
-      "url": "https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ"
-    },
-    {
-      "added_at": "2022-01-05 09:34:46",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Dead!",
-      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
     },
     {
       "added_at": "2022-01-05 09:34:46",
@@ -359,6 +311,38 @@
       "duration_ms": 204960,
       "name": "Crazy Bitch",
       "url": "https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H"
+    },
+    {
+      "added_at": "2022-01-05 09:34:46",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Dead!",
+      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
+    },
+    {
+      "added_at": "2022-01-05 09:34:46",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "ATWA",
+      "url": "https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ"
     },
     {
       "added_at": "2022-01-05 09:34:46",
@@ -603,6 +587,22 @@
     {
       "added_at": "2022-01-05 09:34:46",
       "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "added_at": "2022-01-05 09:34:46",
+      "album": {
         "name": "The Silence In Black And White (Re-Issue)",
         "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-01-05 09:34:46",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 297306,
-      "name": "God Put a Smile upon Your Face",
-      "url": "https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V"
-    },
-    {
-      "added_at": "2022-01-05 09:34:46",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "added_at": "2022-01-05 09:34:46",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 297306,
+      "name": "God Put a Smile upon Your Face",
+      "url": "https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V"
     },
     {
       "added_at": "2022-01-05 09:34:46",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-01-05 09:34:46",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc"
-    },
-    {
-      "added_at": "2022-01-05 09:34:46",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 188813,
       "name": "Have Faith In Me",
       "url": "https://open.spotify.com/track/4IX6QvjOI62tyHigVsTUlv"
+    },
+    {
+      "added_at": "2022-01-05 09:34:46",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc"
     },
     {
       "added_at": "2022-01-05 09:34:46",

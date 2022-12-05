@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 396397,
+  "num_followers": 396913,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMDQwMzdhNjg5YzIwNjk4MjMxYzM1YmZiOWI3NzM1ODg1",
+  "snapshot_id": "MTY2ODEwMzI0MiwwMDAwMDAwMGMxZDA2NGRmMDVkY2FmYzRlYzgwZjIzMGViNjIyNDM1",
   "tracks": [
     {
       "added_at": "2022-09-23 10:47:53",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Buzzkill Bummer",
-        "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
-      },
-      "artists": [
-        {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Buzzkill Bummer",
-      "url": "https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1339,6 +1323,26 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Body Jumper (Deluxe)",
+        "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Mystery Key - Eyedress Remix",
+      "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Forever at Last",
         "url": "https://open.spotify.com/album/2ytKiQourWaysAlwUlkrnO"
       },
@@ -1387,26 +1391,6 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Body Jumper (Deluxe)",
-        "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        },
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Mystery Key - Eyedress Remix",
-      "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1527,26 +1511,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Ways To Get Out",
-        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "BOYO",
-          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "wish i could see you again",
         "url": "https://open.spotify.com/album/6ub14KPnedemkpxkj0KNfB"
       },
@@ -1563,6 +1527,26 @@
       "duration_ms": 187988,
       "name": "wish i could see you again",
       "url": "https://open.spotify.com/track/1eFjWN9bIGAtF7bMEU4eUU"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Ways To Get Out",
+        "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "BOYO",
+          "url": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Double Superfine",
+        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Darcy",
+      "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
       },
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Double Superfine",
-        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
       "artists": [
         {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+          "name": "Em Glasser",
+          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
+        },
+        {
+          "name": "Maatz",
+          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
         }
       ],
-      "duration_ms": 204564,
-      "name": "Darcy",
-      "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
+      "duration_ms": 219205,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
     }
   ],
   "unique_name": "Lo-fi Indie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jass Manak
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,534 likes - 186 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,608 likes - 186 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

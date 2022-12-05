@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > The top tracks from Fresh Finds Folk this year\. Cover: Sadurn
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,277 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,368 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 59 | [Next Day](https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Next Day](https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU) | 4:02 |
 | 60 | [Keeping Score](https://open.spotify.com/track/4cKKXsPQDXpDbO27lJZQYl) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Keeping Score](https://open.spotify.com/album/4UriRN5PykzEXhfLOJbaQC) | 3:02 |
 | 61 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
-| 62 | [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 |
+| 62 | [Cold Water Swimming](https://open.spotify.com/track/49wSfSRPw3wdtu2Vqus9uU) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/08NjE6ObCCFjSLQIeCx88c) | 4:26 |
 | 63 | [Wheel of Love](https://open.spotify.com/track/34xFYpp9NKxufpkbttDjPT) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Born Losers](https://open.spotify.com/album/0tF53oYxCH13jauCtjJXE2) | 3:54 |
 | 64 | [I'm On Your Team](https://open.spotify.com/track/6CdtjsAgvjmt2vcnWmmUht) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Light Moving Time](https://open.spotify.com/album/7cxAj3AFBFrEGxXyPvn9ER) | 4:18 |
 | 65 | [Talamanca](https://open.spotify.com/track/1f2o76aJKHGCeMx5vH7iyP) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [Leaving Here Still](https://open.spotify.com/track/2xg67Ol355l9tdOuFBR9o2) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Leaving Here Still](https://open.spotify.com/album/33roqMYsJwxhI0U3qmVlgh) | 4:21 |
 | 75 | [Lavender](https://open.spotify.com/track/4de2JSToOh98pnNxgDier8) | [Gemma Laurence](https://open.spotify.com/artist/2sNPTD3BelCCJaH18PmeKm) | [Lavender](https://open.spotify.com/album/7bhq8QWXhDkmRnP0WX5LK0) | 3:36 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDEzYWYyNmFjNTVhMzFjMjdhZWZhOTdiMTkxMjViZGFi`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDgwOWY3NzJjNjk1NzE4ZTUzYjk3OWI2ZjRkNTYxYTY1`

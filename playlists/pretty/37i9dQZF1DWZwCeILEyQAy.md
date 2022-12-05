@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Omeretta The Great
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,777 likes - 65 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,878 likes - 65 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-324 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+325 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,8 +202,9 @@
 | [Morning Dew](https://open.spotify.com/track/1wgeSj5ZR7NE1h7pHPSGyB) | [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Morning Dew](https://open.spotify.com/album/3vKjGSYqC0mlq477LXrvK4) | 2:02 | 2022-05-13 | 2022-09-17 |
 | [Morning In The Forest](https://open.spotify.com/track/3fX2BwW4wtmvPOsy9nDmEj) | [Stainlexz](https://open.spotify.com/artist/1Qcw8vwRygx31ecdpJZsyT) | [Morning In The Forest](https://open.spotify.com/album/1mdPUcchdD1uXRAjPixTCD) | 2:12 | 2021-12-07 | 2022-11-26 |
 | [Morning Sun](https://open.spotify.com/track/54s96Z1GPxY0YjTkZPDbDq) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Morning Sun](https://open.spotify.com/album/1NV2iVj9ZMGOfIecW7R43n) | 2:20 | 2022-10-14 |  |
+| [moss](https://open.spotify.com/track/0O33Eb3LtTPdqwNOfJIyOR) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 | 2022-11-25 |  |
 | [moss](https://open.spotify.com/track/1NCtkoFxK4bsOOd3OIqDLF) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [moss](https://open.spotify.com/album/1c89nRHJ9Q9NEB0uEKwbxw) | 1:55 | 2022-09-30 | 2022-11-21 |
-| [moss](https://open.spotify.com/track/2AyT3ztpcyVVmY67OxUNAq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [moss](https://open.spotify.com/album/7uqTdJRerYBW0KBbi29mww) | 1:55 | 2022-11-11 |  |
+| [moss](https://open.spotify.com/track/2AyT3ztpcyVVmY67OxUNAq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [moss](https://open.spotify.com/album/7uqTdJRerYBW0KBbi29mww) | 1:55 | 2022-11-11 | 2022-12-05 |
 | [moss](https://open.spotify.com/track/4diIfT7DDHpTl7888rR4CN) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 1:55 | 2022-11-11 | 2022-11-24 |
 | [My Love](https://open.spotify.com/track/4wGrZiGaO4WVm6mNfaDjch) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:42 | 2021-12-07 | 2022-05-27 |
 | [Nameless and Forgotten](https://open.spotify.com/track/6QLNxoDZMlUm0aHwgmt6iw) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Nameless](https://open.spotify.com/album/183M1iml8n8Uoq1SLvkBRe) | 2:10 | 2022-09-02 |  |

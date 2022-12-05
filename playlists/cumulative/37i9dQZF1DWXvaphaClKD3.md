@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Los Dos Carnales en portada.
 
-832 songs - 1 day 20 hr 18 min - [published](https://open.spotify.com/playlist/6lzkBGs5tbsK4vIYinar7T)
+833 songs - 1 day 20 hr 21 min - [published](https://open.spotify.com/playlist/6lzkBGs5tbsK4vIYinar7T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,8 @@
 | [Que Vas a Hacer](https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Que Vas a Hacer](https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF) | 3:05 | 2022-10-21 | 2022-11-05 |
 | [Quien Pierde a Quien](https://open.spotify.com/track/7n9gubLALrLRNO1Xb8G4IJ) | [Rafael Kelly](https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY) | [Quien Pierde a Quien](https://open.spotify.com/album/5RMEo4xMT6LQ0VQDySolOf) | 3:50 | 2022-11-18 | 2022-12-03 |
 | [Quiero Cantarte A Ti](https://open.spotify.com/track/1pD5jgJo8F5CaJ1ONWsXeR) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Quiero Cantarte A Ti](https://open.spotify.com/album/1zHitGXXLsU1jeIo8rghpk) | 3:35 | 2022-07-22 | 2022-07-30 |
-| [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/6gSo55R1Kl9qN3JiD4YtzD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/album/2TVZbwxhpXOlmGm0nZQd6q) | 2:54 | 2022-12-02 |  |
+| [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/6gSo55R1Kl9qN3JiD4YtzD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/album/2TVZbwxhpXOlmGm0nZQd6q) | 2:54 | 2022-12-02 | 2022-12-05 |
+| [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/43Bq2xsSHNoatTpYVpPq9n) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 2:56 | 2022-12-02 |  |
 | [Quiero Un Amor](https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:13 | 2022-11-11 | 2022-11-19 |
 | [Quisiera Saber](https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Quisiera Saber](https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7) | 3:19 | 2022-11-18 | 2022-12-03 |
 | [Quién Como Ella](https://open.spotify.com/track/34IPKpDvkxraMK2roBo2O7) | [Elebier Lopez](https://open.spotify.com/artist/3ePsUyFbJdTgoiGV6iIn6r) | [Quién Como Ella](https://open.spotify.com/album/4dpn4WmpnHdo68TfbZaQsA) | 1:59 | 2022-09-30 | 2022-10-08 |

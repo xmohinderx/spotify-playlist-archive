@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 228625,
       "name": "Bilir O Beni",
       "url": "https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6"
@@ -2065,6 +2065,24 @@
       "duration_ms": 279215,
       "name": "Bla Bla Bla Bla",
       "url": "https://open.spotify.com/track/6fhcwrfGQCBT0VpbtjMRIm"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "album": {
@@ -2466,6 +2484,24 @@
     },
     {
       "album": {
+        "name": "Yineleme",
+        "url": "https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3"
+      },
+      "artists": [
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "Cesaretsizce Olmuyor",
+      "url": "https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw"
+    },
+    {
+      "album": {
         "name": "Cindy",
         "url": "https://open.spotify.com/album/5heDTlRs2OOzVf136RSW5e"
       },
@@ -2499,7 +2535,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 119206,
       "name": "CINDY",
       "url": "https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N"
@@ -2669,7 +2705,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 163404,
       "name": "De\u011filim Bi A\u015f\u0131k",
       "url": "https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp"
@@ -3111,7 +3147,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 160000,
       "name": "D\u00fc\u015fer Akl\u0131ma",
       "url": "https://open.spotify.com/track/5Qf8dlJ2zZTfztx7o7kbDN"
@@ -5547,7 +5583,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 127672,
       "name": "Kalbe Zarar",
       "url": "https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i"
@@ -10669,7 +10705,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 171641,
       "name": "ZOR",
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"

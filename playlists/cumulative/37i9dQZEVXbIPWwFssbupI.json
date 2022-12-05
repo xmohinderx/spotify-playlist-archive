@@ -839,7 +839,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -3725,7 +3725,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 188573,
       "name": "Cette ann\u00e9e-l\u00e0",
       "url": "https://open.spotify.com/track/41NJluEub1MMcwkUo411an"
@@ -6689,7 +6689,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 199973,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2zt0fhip78NtumaIoFGpB6"
@@ -8295,7 +8295,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 122466,
       "name": "Hier encore",
       "url": "https://open.spotify.com/track/14dTFTpVyhz1YU8J04Bs37"
@@ -8907,7 +8907,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -10264,6 +10264,28 @@
     },
     {
       "album": {
+        "name": "L\u00e9gende Vivante",
+        "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo",
+          "url": "https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy"
+        },
+        {
+          "name": "Tony Corrida",
+          "url": "https://open.spotify.com/artist/5lCpbjOjBZTwEIizNuhEhC"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139640,
+      "name": "La Kush",
+      "url": "https://open.spotify.com/track/3803TnTgCIn4rq6ZdEoPAl"
+    },
+    {
+      "album": {
         "name": "SZR 2001",
         "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"
       },
@@ -10409,6 +10431,28 @@
       "duration_ms": 244000,
       "name": "La Qu\u00eate",
       "url": "https://open.spotify.com/track/0w6lsLBvhtGcqMYA7MB7r6"
+    },
+    {
+      "album": {
+        "name": "La Roja",
+        "url": "https://open.spotify.com/album/72bvyFTC85GmO1nOiVuCOP"
+      },
+      "artists": [
+        {
+          "name": "AmineMaTue",
+          "url": "https://open.spotify.com/artist/6DF43wvqAP6MLKNSQ0RGOb"
+        },
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71250,
+      "name": "La Roja",
+      "url": "https://open.spotify.com/track/3ZdHjM78OVjE1NvglkKOPm"
     },
     {
       "album": {
@@ -10583,7 +10627,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -14223,7 +14267,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 201480,
       "name": "Nwar sur Nwar",
       "url": "https://open.spotify.com/track/4QVznVau5Vsj7pSUTwGXAi"
@@ -16209,7 +16253,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 137520,
       "name": "Ragnar",
       "url": "https://open.spotify.com/track/4MHaurDWomyTeQ1HuZh59W"
@@ -17751,7 +17795,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 217413,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw"
@@ -17917,7 +17961,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 188560,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/322j3fuSZOKXZ52CPADupe"

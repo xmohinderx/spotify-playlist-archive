@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-170 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
+171 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,8 +169,9 @@
 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 | 2021-06-15 |  |
 | [Weekend](https://open.spotify.com/track/15wmpzx6H7yBY3d75zwJKC) | [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Weekend](https://open.spotify.com/album/3iUBDUymZbm5YSVwRAcWCl) | 3:26 | 2021-06-15 | 2022-07-29 |
 | [Weekend](https://open.spotify.com/track/5XyQPpTMFzzxB7R0Rpz1u3) | [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Weekend](https://open.spotify.com/album/6oJyvqAMhh4PL3ahlAPQ9f) | 3:26 | 2021-06-15 |  |
+| [Winterman](https://open.spotify.com/track/1fKbcZD1kAoPt9cVtfAjbf) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/0pRSaNNSnqJoyDTw5BI1H7) | 4:16 | 2021-06-15 |  |
 | [Winterman](https://open.spotify.com/track/4yMDOaUXWTw5eoEzZYPpFR) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/6AVPCXaMjNul5KBLLS4ktr) | 4:16 | 2021-06-15 | 2022-07-29 |
-| [Winterman](https://open.spotify.com/track/71wISWLeVQBqgZwh8JSIuA) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/2B9gxZcpCkSpFFgdMX7ZbH) | 4:16 | 2021-06-15 |  |
+| [Winterman](https://open.spotify.com/track/71wISWLeVQBqgZwh8JSIuA) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/2B9gxZcpCkSpFFgdMX7ZbH) | 4:16 | 2021-06-15 | 2022-12-05 |
 | [Youth](https://open.spotify.com/track/6qLLFgywJ33KvxXAQIf6Xt) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [A Long Way Down \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2fpTGzqv5Cl2L590tw08zE) | 4:08 | 2021-06-15 | 2022-11-14 |
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2021-06-15 |  |
 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2021-06-15 | 2022-10-13 |

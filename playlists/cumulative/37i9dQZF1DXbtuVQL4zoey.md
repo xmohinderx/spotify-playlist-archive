@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-446 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+447 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,8 +293,9 @@
 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2022-05-20 | 2022-11-21 |
 | [Picnic With A Tape Recorder](https://open.spotify.com/track/3Ls2JfT2cWABG0uTCJKoqJ) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [Gera Dzhio](https://open.spotify.com/artist/5nAEC4dYPM5hpAbikljUel) | [Picnic With A Tape Recorder](https://open.spotify.com/album/6znRumGtrgq8rMAHTZF9sE) | 2:36 | 2022-08-05 |  |
 | [Pincushion Island](https://open.spotify.com/track/7ilqawEgDbx8zVanjTqpMQ) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Pincushion Island](https://open.spotify.com/album/2GiY1hP6d5nXqmkePHbF8q) | 2:19 | 2022-10-28 |  |
+| [pinecone](https://open.spotify.com/track/0Ef6Q0Cav49AL4xhPlXSZg) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 | 2022-11-25 |  |
 | [pinecone](https://open.spotify.com/track/4MDKMZCcCzBzR7oB3zfHAt) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/12QtvCPGdXpxJZmqTi1h6y) | 1:55 | 2022-05-20 | 2022-11-20 |
-| [pinecone](https://open.spotify.com/track/4e9YATF1SKYM2P5UH4JUgO) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/6yZMX1bXhFOWhqasEetSDu) | 1:55 | 2022-11-11 |  |
+| [pinecone](https://open.spotify.com/track/4e9YATF1SKYM2P5UH4JUgO) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/6yZMX1bXhFOWhqasEetSDu) | 1:55 | 2022-11-11 | 2022-12-05 |
 | [pinecone](https://open.spotify.com/track/5EHqiIdmLFPTBP2OvAqaGn) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 1:55 | 2022-11-11 | 2022-11-24 |
 | [Pink](https://open.spotify.com/track/5awtju4msMy7Cyovaoxo7j) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Pink](https://open.spotify.com/album/6iaKYDhkwhl7r0TPpZ1ePJ) | 2:14 | 2022-09-09 |  |
 | [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 |  |

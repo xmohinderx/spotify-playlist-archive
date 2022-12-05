@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,999 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,997 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 17 | [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 |
 | 18 | [Purgatory](https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f) | 2:49 |
 | 19 | [Dead To Me \- Original Mix](https://open.spotify.com/track/6yaihZ7YizWwJ61Cu6Kktl) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 3:50 |
-| 20 | [Hell on Earth](https://open.spotify.com/track/5rFtboDQj9ECmz4pAjDsta) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [Hell on Earth](https://open.spotify.com/album/7dnhkoLh6CayRg3B1HVEXe) | 3:05 |
+| 20 | [Hell on Earth](https://open.spotify.com/track/4NhfgWzbXBtGPCbyIOGk3q) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [Hell on Earth](https://open.spotify.com/album/2BRkDmh59BD4RJuoHopbuE) | 3:05 |
 | 21 | [SLASH](https://open.spotify.com/track/6fYk1h3xgXatisxwR5G77O) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH](https://open.spotify.com/album/5ml9nZdFPLJdUdWT8nf0Dx) | 4:11 |
 | 22 | [Hush](https://open.spotify.com/track/4F3v50jS42NKOuGppjwUHj) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Draicoh](https://open.spotify.com/artist/2lVVjks4oeVRm0yomWFpUC) | [Hush](https://open.spotify.com/album/5UMbBOHJG388cokgCTLlPV) | 2:51 |
 | 23 | [After Life \(feat\. Stacy Barthe\)](https://open.spotify.com/track/3dhPpCQvw3kn7so6mkTbJ3) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [After Life \(feat\. Stacy Barthe\)](https://open.spotify.com/album/7uZZFBdOR9qqmmV5WLUDNP) | 4:53 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 87 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 88 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDk0NDlmM2Y0MWQzNjM5NWNjMDA0MjgwZTE0MDgyNmZl`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDc1MzYwOTM2ZWJlMWZhODU1Nzg4MmY5YzgwZWZkZjE2`

@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-576 songs - 2 day 1 hr 55 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+577 songs - 2 day 2 hr 0 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Severance](https://open.spotify.com/track/3LeOJGqZ62QPSvWueSeL7Q) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [The Seed of Self\-Destruction](https://open.spotify.com/album/4fdgHlKuROosMCgMr1VbX0) | 4:03 | 2022-07-13 |  |
 | [Shapes](https://open.spotify.com/track/0twqNLMlaIECkRAK5leXQf) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Shapes](https://open.spotify.com/album/31s61x1TcS5JG7Jz80tMpa) | 2:58 | 2022-07-13 |  |
 | [Sickle and Peace](https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Sickle and Peace](https://open.spotify.com/album/2ppckPJjNgNhIjxJ2hIcrZ) | 6:17 | 2021-12-17 |  |
-| [Sidewinder](https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Sidewinder](https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4) | 4:17 | 2021-12-17 |  |
+| [Sidewinder](https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Sidewinder](https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4) | 4:17 | 2021-12-17 | 2022-12-05 |
 | [Siege](https://open.spotify.com/track/3EVEAywFGiKZj1D0XXD5HZ) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Siege](https://open.spotify.com/album/2nzEL85q7ROc466dEOrz5W) | 6:06 | 2021-12-17 | 2022-01-27 |
 | [Singularity](https://open.spotify.com/track/1D2fvbNf4LpOGPPkJ4uqyV) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Semaphore](https://open.spotify.com/album/0Wm6uBSaY1mRlXLammTLOs) | 2:52 | 2021-12-17 | 2022-09-03 |
 | [Skylights](https://open.spotify.com/track/71GzM7SRPM36zKoiRyW5vm) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Skylights](https://open.spotify.com/album/0dZAOahUNYJiUfX0uNqFGJ) | 3:57 | 2021-12-17 | 2022-05-11 |
@@ -421,6 +421,7 @@
 | [Slow Violence](https://open.spotify.com/track/0DXQlXTM5ffSKkF9k4rQXi) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Slow Violence](https://open.spotify.com/album/6b9jyZC2m8Lhf81bhDtVUw) | 4:30 | 2021-12-17 | 2022-07-29 |
 | [Slow Violence](https://open.spotify.com/track/5eHX9hNabRdBv7ZAXw0bQn) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Rise Radiant \(Bonus Tracks Version\)](https://open.spotify.com/album/1nIV5jr3c14glRyU3ax5PQ) | 4:30 | 2022-07-08 | 2022-09-03 |
 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 | 2022-07-13 |  |
+| [So Tired](https://open.spotify.com/track/6DWdJqLcDI3EobcGtZcNCX) | [The Butterfly Effect](https://open.spotify.com/artist/0kns2X0IFTXafgOGd2IlKJ) | [IV](https://open.spotify.com/album/5ikjZqItlAINSlmYpO7W2h) | 5:16 | 2022-10-28 |  |
 | [So Tired](https://open.spotify.com/track/7FfLD1acsXyBWVJ9PqN6Pp) | [The Butterfly Effect](https://open.spotify.com/artist/0kns2X0IFTXafgOGd2IlKJ) | [So Tired](https://open.spotify.com/album/0nSVBgtRjwpqNjmoB3Spul) | 5:16 | 2021-12-17 | 2022-07-01 |
 | [Solaris](https://open.spotify.com/track/0c4TxdhePg45Kg3Aot5FAH) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [Solaris](https://open.spotify.com/album/1MF8mCE2frqHL2RkN1bxBk) | 3:41 | 2021-12-17 | 2022-07-25 |
 | [Solaris](https://open.spotify.com/track/3cifGKLhVJhsOtov2za6Gu) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [A Valediction](https://open.spotify.com/album/0i7ZHuCCPBo6CfV54I7IxO) | 3:41 | 2022-07-08 |  |

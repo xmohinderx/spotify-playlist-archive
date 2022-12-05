@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Thaiane Seghetto, Isadora Pompeo
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Midian Lima
 
-94 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
+96 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 |  |
 | [Eu Cuido De Você](https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Eu Cuido De Você](https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL) | 5:01 | 2022-09-09 |  |
 | [Eu Disse](https://open.spotify.com/track/4H3FWYvpm1mCa0EySJaGti) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Eu Disse](https://open.spotify.com/album/3VfBCfcFcR03pnSdaoQgLX) | 4:37 | 2022-10-28 |  |
+| [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 | 2022-12-05 |  |
 | [Eu Vou Construir](https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu Vou Construir](https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH) | 6:49 | 2022-09-09 |  |
 | [Feliz de Vez \(Ao Vivo\)](https://open.spotify.com/track/2lh9k3zcXAGEc8JpmehU8J) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Em Casa \(Ao Vivo\)](https://open.spotify.com/album/2tNGhCv1PBLioKB13XgnhJ) | 4:39 | 2022-09-09 | 2022-10-01 |
 | [Fiel A Mim](https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:59 | 2022-09-09 |  |
 | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/track/0A60DIXd4RoIB6l25wFgo5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/album/7rnb8t7kPq1emPdrfxCInC) | 4:10 | 2022-09-09 |  |
 | [Incendeia \- Ao Vivo](https://open.spotify.com/track/5DDpnuUJLQbHyyzj4GYBFm) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Incendeia \(Ao Vivo\)](https://open.spotify.com/album/3154Eaq9ZmX4G3HdvPCp39) | 4:20 | 2022-09-30 | 2022-11-26 |
-| [Jerusalém \- Ao Vivo](https://open.spotify.com/track/0dQDXPuqDx5FYbwBcUBn8t) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Jerusalém \(Ao Vivo\)](https://open.spotify.com/album/1bFdePBZN9BfBmBi1TkVZa) | 6:06 | 2022-10-14 |  |
+| [Jerusalém \- Ao Vivo](https://open.spotify.com/track/0dQDXPuqDx5FYbwBcUBn8t) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Jerusalém \(Ao Vivo\)](https://open.spotify.com/album/1bFdePBZN9BfBmBi1TkVZa) | 6:06 | 2022-10-14 | 2022-12-05 |
 | [Me Deixe Aqui / Tudo Entregarei \- Ao Vivo](https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Me Deixe Aqui / Tudo Entregarei \(Ao Vivo\)](https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh) | 4:53 | 2022-09-09 |  |
 | [Me Refazer](https://open.spotify.com/track/0Y5lftJhV50jLIy3xc1alV) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Me Refazer](https://open.spotify.com/album/2V5WnvWEQnnIfCHV9nSwFx) | 3:14 | 2022-09-09 |  |
 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 | 2022-09-09 |  |
@@ -65,8 +66,9 @@
 | [Não Posso Desistir](https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Posso Desistir](https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3) | 3:36 | 2022-09-09 | 2022-10-01 |
 | [Não Vai Falhar](https://open.spotify.com/track/2H7XXJJKFMcCSerngduuly) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Não Vai Falhar](https://open.spotify.com/album/6B6lEq20X20JjzhJE7XwKS) | 4:45 | 2022-09-09 | 2022-10-15 |
 | [O Bom Pastor](https://open.spotify.com/track/7djOFQprGO89J8o6OTFEzf) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [O Bom Pastor](https://open.spotify.com/album/1c61juuE8iKDkl5XSlInd7) | 5:23 | 2022-09-09 |  |
+| [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 | 2022-12-05 |  |
 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 | 2022-11-25 |  |
-| [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 | 2022-09-09 |  |
+| [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 | 2022-09-09 | 2022-12-05 |
 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 | 2022-09-09 |  |
 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 | 2022-09-30 | 2022-11-26 |
 | [O Que Eu Sempre Procurei](https://open.spotify.com/track/52L6TEZc3G0T0abeXLqIVa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [O Que Eu Sempre Procurei](https://open.spotify.com/album/13hsKpvu4OHooyS8cxW1IZ) | 7:54 | 2022-09-30 | 2022-10-15 |

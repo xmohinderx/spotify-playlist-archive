@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,316 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,317 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 46 | [Kärleken](https://open.spotify.com/track/4goFyzPnvZl0u9pdJbXZ2v) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Kärleken](https://open.spotify.com/album/2c8FUMuFBFHLUJFYgfuMsP) | 4:07 |
 | 47 | [Tvivlar](https://open.spotify.com/track/2fAVaPKHBy0memUwP9GP9n) | [Donika Nimani](https://open.spotify.com/artist/4zUMIrBhG8wfW5g27vMlfC) | [We Were on a Break \(Precis som Ross & Rach\)](https://open.spotify.com/album/2FNcI42pduRrqraypdp937) | 3:08 |
 | 48 | [Shadows of Our Past](https://open.spotify.com/track/3F7YNZqMX5jfNaOxlHicFe) | [Firefox AK](https://open.spotify.com/artist/6E6yZfLJy9X62bwXFDlCcw) | [A New Shape](https://open.spotify.com/album/7kULTYllotBzdwvzdyTdyw) | 3:33 |
-| 49 | [Winterman](https://open.spotify.com/track/71wISWLeVQBqgZwh8JSIuA) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/2B9gxZcpCkSpFFgdMX7ZbH) | 4:16 |
+| 49 | [Winterman](https://open.spotify.com/track/1fKbcZD1kAoPt9cVtfAjbf) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/0pRSaNNSnqJoyDTw5BI1H7) | 4:16 |
 | 50 | [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 3:28 |
 | 51 | [Shut Up Kiss Me](https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm) | 3:22 |
 | 52 | [Mouth to Mouth](https://open.spotify.com/track/5KxKFdP10B76t6R2JGiLuG) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Mouth to Mouth](https://open.spotify.com/album/6M6ZXKXa6cbrdLJkgJudTY) | 3:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMDAyNTQ3NTg4YTc5M2RkZGRjMjRiOGUwNGFjODkwNDU5`
+Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGY2YmU2YzY1NGNlNjM2NGI5MTNjZWQxZmNhZmQ2ZGVj`

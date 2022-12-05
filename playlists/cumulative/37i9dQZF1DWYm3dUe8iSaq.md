@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-151 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+152 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Hope It Hurts You](https://open.spotify.com/track/7AA8ioyHWFGVuW1hcb900E) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/1dcCeMxT5OzEHTaor778jp) | 3:47 | 2022-04-08 | 2022-07-29 |
 | [Hope It Hurts You](https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/7jBtZEqyK3u48lhYTme83n) | 3:47 | 2022-07-01 | 2022-10-14 |
 | [How Long?](https://open.spotify.com/track/2qbfPXoNy8SKPtf8rgciXB) | [Will Killen](https://open.spotify.com/artist/53mpvc3wWbaO6a7LKWQ73N) | [How Long?](https://open.spotify.com/album/6DwbMXqXZDNdmtIhvfldHK) | 3:55 | 2022-07-01 |  |
-| [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2022-04-08 |  |
+| [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2022-04-08 | 2022-12-05 |
+| [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 | 2022-11-18 |  |
 | [I Don't Know Why](https://open.spotify.com/track/4QbhVyTI7X8tXUjt1De4fa) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [Lichtenberg Figures](https://open.spotify.com/album/0uR6QYGmCHT2l0osmTyLrS) | 3:24 | 2022-10-07 | 2022-11-13 |
 | [I Don't Know Why](https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9) | 3:24 | 2022-10-07 |  |
 | [I Don't Know Why](https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv) | 3:24 | 2022-04-08 | 2022-11-09 |

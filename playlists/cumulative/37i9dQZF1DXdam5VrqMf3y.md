@@ -4,7 +4,7 @@
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-103 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/6ra7ildIw0y4orWkx6YTYg)
+104 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/6ra7ildIw0y4orWkx6YTYg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7FWvBjQqt9DEDilkq18Mv9) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [All I want For Christmas Is Music](https://open.spotify.com/album/0luU2kkKLs5DNYMAy9YEJP) | 3:12 | 2022-11-08 | 2022-11-13 |
 | [It's the Most Wonderful Time of the Year \- Spotify Singles Holiday](https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [It's the Most Wonderful Time of the Year \(Spotify Singles Holiday\)](https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e) | 3:25 | 2021-12-15 |  |
 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 | 2021-12-15 |  |
-| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 | 2021-12-15 |  |
+| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Holiday](https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR) | 2:20 | 2022-11-08 |  |
+| [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 | 2021-12-15 | 2022-12-05 |
 | [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/2eifVaVxxzerYshms9gIf4) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/08iqqXwfQYhptJEo6Vxe7u) | 2:20 | 2021-12-15 | 2022-07-29 |
 | [Jingle Bells \- Spotify Singles – Holiday, Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gBzl7sX7yTjZIzvs9VFpN) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Walter Blanding](https://open.spotify.com/artist/2CSZMV16BjcsK0LttyHTky), [Adam Birnbaum](https://open.spotify.com/artist/6Si0CmXgqAj1HVQB8HE7XJ), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT), [Evan Sherman](https://open.spotify.com/artist/5aGlq3NRCllIcpHKNgBcwZ), [Oni Marsalis](https://open.spotify.com/artist/2d5thy7UtdxmWayRXsymyb) | [Jingle Bells](https://open.spotify.com/album/2s4H4dfNlGtl2NtHcY8fXq) | 2:35 | 2021-12-15 |  |
 | [Last Christmas \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/7vaojIyvb52pVcNAWf2sG5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Last Christmas \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/60HYitDBZuRnyquGeoaDtj) | 3:36 | 2021-12-15 |  |

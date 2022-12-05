@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140667,
+      "name": "Jingle Bells - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3"
       },
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 140667,
       "name": "Jingle Bells - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI"

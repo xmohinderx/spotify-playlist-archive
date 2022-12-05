@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Rymz
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,711 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,723 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Allumette](https://open.spotify.com/track/7BJ4JuN9t3TNfb43KFgC41) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Allumette](https://open.spotify.com/album/23b8mvJqyDE82TTWTa5dHA) | 4:39 |
 | 2 | [DEEP DAYS](https://open.spotify.com/track/6CuwozV7dcu1enmRuOIsTT) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:31 |
-| 3 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 |
+| 3 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:23 |
 | 4 | [Fruit défendu](https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Fruit défendu](https://open.spotify.com/album/46hTeni6rzDZApaurPprXj) | 3:22 |
-| 5 | [Bisou Létal](https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Bisou Létal](https://open.spotify.com/album/58RPzzvZJu8GS6FKyrkvNm) | 4:03 |
+| 5 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 |
 | 6 | [Allo c’est qui?](https://open.spotify.com/track/7JvS9AEXvNPsouhhVECNeZ) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Allo c’est qui?](https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz) | 2:49 |
-| 7 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:23 |
+| 7 | [Bisou Létal](https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Bisou Létal](https://open.spotify.com/album/58RPzzvZJu8GS6FKyrkvNm) | 4:03 |
 | 8 | [Parano](https://open.spotify.com/track/2AnTFTKE7QOUr2WjM3pTkv) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Parano](https://open.spotify.com/album/3qb6T7Z6ZaMnm8WLQw9viK) | 2:50 |
 | 9 | [Jamais jamais](https://open.spotify.com/track/1jWLU6SUdSUKZbpK0Zvdg3) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:06 |
 | 10 | [Efforts](https://open.spotify.com/track/3ySHy6KrvjBZ6W5IHervID) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Efforts](https://open.spotify.com/album/2325ZxMTjn2qOJjbXmkXjn) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Pétale](https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [Pétale](https://open.spotify.com/album/0qmrfShgngmmWA8cPcrXAA) | 3:09 |
 | 75 | [Lampadaire](https://open.spotify.com/track/7Fhd4Q0nYLhu7BGQCBXnZy) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Le gris, le beige](https://open.spotify.com/album/5O2dAEL3lOaioQYpGrIt9y) | 3:21 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDI0ZGMyYjVmMjQxYWU5MmJmZjU4M2U0M2UzM2VmODZl`
+Snapshot ID: `MTY3MDEyOTM2OSwwMDAwMDAwMGMyNjM5ZDkzMTNlNDBhMWJjMDBlNDFjNzAyZjc5NmJk`

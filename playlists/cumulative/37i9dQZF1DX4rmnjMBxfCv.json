@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Dance and electronic Arabic songs. Cover: Alok & Issam Alnajjar.",
+  "description": "Dance and electronic Arabic songs. Cover: Obeidmusic, Pamela Antoun.",
   "name": "mint \u0646\u0639\u0646\u0639",
   "published_playlist_ids": [
     "54atOgU6aSg6YDGd7DJtW1"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
     {
       "album": {
         "name": "7elm B3eed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Bonnie Kemplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,211 likes - 101 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,236 likes - 101 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-420 songs - 20 hr 26 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
+421 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-08 | 2022-08-20 |
 | [Baby Shark](https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Baby Shark](https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ) | 2:36 | 2022-09-30 | 2022-10-22 |
 | [Back 2 Basics](https://open.spotify.com/track/2a8W8GMf5AuMaAYpSB8f65) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [ALIVE \(Deluxe\)](https://open.spotify.com/album/1ThGGXmoSFxHIQLhE4vy7M) | 3:51 | 2022-01-14 | 2022-06-11 |
-| [Back End](https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89) | 2:45 | 2022-10-28 |  |
+| [Back End](https://open.spotify.com/track/1QrL8zd8MIrCiOPuj02dxC) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/40dnVvzZfYX0330N1VqN89) | 2:45 | 2022-10-28 | 2022-12-05 |
 | [Back End](https://open.spotify.com/track/1pBOkbXPSz6FdfE5545VoA) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Humble](https://open.spotify.com/album/1HQxQwZS6Le2ndJTl9UAsF) | 2:45 | 2022-11-11 | 2022-11-13 |
+| [Back End](https://open.spotify.com/track/40V9sT2iWVgRa6b6JVGEq1) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [90 Days](https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL) | 2:45 | 2022-12-02 |  |
 | [Back End](https://open.spotify.com/track/3eHOsD9gXqWYPxVr0JVVWv) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/77Hj5PiiIlIxI8l87wwVc1) | 2:45 | 2022-10-14 | 2022-10-29 |
 | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 | 2021-09-03 | 2022-02-05 |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-11 |  |

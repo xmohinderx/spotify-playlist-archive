@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Christian Kuria
 
-682 songs - 1 day 12 hr 52 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+683 songs - 1 day 12 hr 55 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 | 2022-09-23 |  |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2021-03-19 | 2022-07-15 |
 | [Pick Up Your Phone](https://open.spotify.com/track/5jDpJZ4AV0YVV8o9Ez2U9s) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Pick Up Your Phone](https://open.spotify.com/album/2ZrT2t1qTMcRD9Q1Uy9sx3) | 2:49 | 2022-04-01 | 2022-04-14 |
+| [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 | 2022-07-15 |  |
 | [Pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2021-11-19 | 2022-01-27 |
 | [pieces](https://open.spotify.com/track/5tnpSQClW40rHRfMvCqijS) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:44 | 2022-07-15 | 2022-10-14 |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-03-19 | 2022-04-25 |
@@ -572,7 +573,7 @@
 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2022-07-29 | 2022-10-01 |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2021-11-19 | 2022-08-09 |
 | [Summertime \(feat\. TOBi\)](https://open.spotify.com/track/0GIAPbemJxaFHt3qYdw4rX) | [Ellery Bonham](https://open.spotify.com/artist/0z0QtIZfyodv4ImXAxEXIH), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Summertime \(feat\. TOBi\)](https://open.spotify.com/album/2d52xhS0xCNiaAOKsEnQDD) | 4:11 | 2022-04-01 | 2022-06-11 |
-| [Sunbleach](https://open.spotify.com/track/4B0tSOfzgqOv75WhlvoZjk) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Sunbleach](https://open.spotify.com/album/1gwNe7KMj8LtVcFsiiq5Sp) | 3:57 | 2022-07-22 |  |
+| [Sunbleach](https://open.spotify.com/track/4B0tSOfzgqOv75WhlvoZjk) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Sunbleach](https://open.spotify.com/album/1gwNe7KMj8LtVcFsiiq5Sp) | 3:57 | 2022-07-22 | 2022-12-05 |
 | [Sundress](https://open.spotify.com/track/5lMa1A2fWhT9YLI2Qee8RV) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Sundress](https://open.spotify.com/album/1hJZPCJvV6wj34IlmFQa0u) | 3:19 | 2021-07-09 | 2022-01-27 |
 | [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 | 2022-02-25 | 2022-04-14 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-15 | 2022-07-25 |

@@ -1517,10 +1517,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 150320,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn"
+    },
+    {
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/5EypOXAENUBdyfTAHbLTe9"
+      },
+      "artists": [
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7CgedTnm0Ehh8O1Iaa8OwM"
     },
     {
       "album": {

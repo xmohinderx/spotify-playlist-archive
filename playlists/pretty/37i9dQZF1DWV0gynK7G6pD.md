@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Baltic Sea Philharmonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,874 likes - 53 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,001 likes - 53 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

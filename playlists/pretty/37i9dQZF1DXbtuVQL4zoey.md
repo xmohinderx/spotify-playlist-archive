@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,547 likes - 300 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,546 likes - 300 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 161 | [Rêverie](https://open.spotify.com/track/4aQ9wAM5HnKs3n5DtZQCpi) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Under The Stars](https://open.spotify.com/album/5SO2XvcXuAWClK2HFTc5XQ) | 2:45 |
 | 162 | [Low Key](https://open.spotify.com/track/7C1RaJ1b2WKJZq9Bvrgctj) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Koi Pond, Vol\. 2](https://open.spotify.com/album/4BhevKS4gtXsEUwoyB54ku) | 2:35 |
 | 163 | [Vacation](https://open.spotify.com/track/3SPpqRQdEQAywU8fRKrWqx) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk) | [Vacation](https://open.spotify.com/album/6vokRNRSXc9420XmveNnHP) | 2:57 |
-| 164 | [pinecone](https://open.spotify.com/track/4e9YATF1SKYM2P5UH4JUgO) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/6yZMX1bXhFOWhqasEetSDu) | 1:55 |
+| 164 | [pinecone](https://open.spotify.com/track/0Ef6Q0Cav49AL4xhPlXSZg) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 |
 | 165 | [Lifelike Figures](https://open.spotify.com/track/2NmdoCM6MIkKTKWYQaiZGc) | [Multicolor Vowels](https://open.spotify.com/artist/7Ll3x4zA90V5UkSUf3EtDX) | [Looking Up](https://open.spotify.com/album/0Ke4WK296drZDOwSZeBUA9) | 2:38 |
 | 166 | [A Few Days Ahead](https://open.spotify.com/track/29Piig79HQpigQuUtxshPv) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [A Few Days Ahead](https://open.spotify.com/album/5mtJbn2mK0qS0iInJ9tmIt) | 2:22 |
 | 167 | [The Little Things](https://open.spotify.com/track/7AoMssgMP6vK7QPrKg4wkf) | [Headie Nines](https://open.spotify.com/artist/2gGo4Y4A7rKSSIRAfXxYyu) | [The Little Things](https://open.spotify.com/album/3DvppFZflvsgmMH6RzkChO) | 2:29 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 | 300 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2OTM4MjAwMywwMDAwMDAwMDFlZTIwMWI1NjYyNDkyY2M5NmY3YzkzNzg0MDg3NWFl`
+Snapshot ID: `MTY2OTM4MjAwMywwMDAwMDAwMDI3YTk2ODczMjk4Y2FkNjA4NDk5YTUxNDZkNDZmZGZk`

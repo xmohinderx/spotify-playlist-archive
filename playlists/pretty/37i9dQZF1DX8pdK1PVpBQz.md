@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The top tracks from Fresh Finds AU & NZ this year\. Cover: RONA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,829 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 9 | [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 |
 | 10 | [Milkumana](https://open.spotify.com/track/7D370klApllXTrKYSDwLU7) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [King Stingray](https://open.spotify.com/album/1I0ZpUzinqCX3rSEgADGJX) | 3:07 |
 | 11 | [BREATHE](https://open.spotify.com/track/5EsObTqylW24tVeGCks4T6) | [YAAK](https://open.spotify.com/artist/0UDt4k4FaJ2NAyK7O1Pp1I), [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [BREATHE](https://open.spotify.com/album/7dhdVNSunwkavXbLCcVxXF) | 3:03 |
-| 12 | [HOUDINI](https://open.spotify.com/track/77qqkGyIATml8aUFgHSbBN) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/71S8wbGOnbvDHd10xyA7Mt) | 2:37 |
+| 12 | [HOUDINI](https://open.spotify.com/track/6ZEEp282K8eqwV7EG59mwD) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/0MCR2VzikC4fNV3VQFEKZl) | 2:37 |
 | 13 | [Haunted](https://open.spotify.com/track/5iazYkEr6zbeZYjoUGwEBn) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Haunted](https://open.spotify.com/album/1U7TrNXieHR1rMTjs7R2jj) | 3:23 |
 | 14 | [LOVE TOO SOON](https://open.spotify.com/track/1uATAeVLPq3XHp9UXuEkks) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [A Colour Undone](https://open.spotify.com/album/6Up1xFLEPV5iGtTkr4DFhV) | 3:22 |
 | 15 | [it's not that bad](https://open.spotify.com/track/6iUsnQ0gqehflExGxmICBG) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [It's Not That Bad](https://open.spotify.com/album/0aSAgvZV6LfEf9KVfcLXz8) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 |
 | 100 | [Holiday](https://open.spotify.com/track/5jXEDcyBNbRmeXDwTbxA5U) | [Sunbather](https://open.spotify.com/artist/0lSrXS3AviAI69PscG7BM8) | [Holiday](https://open.spotify.com/album/7L5MPYDSDMqjGxza5nA32r) | 3:38 |
 
-Snapshot ID: `MTY2OTk0MzM2OCwwMDAwMDAwMDljNDNiY2E4Yzc0YWRmNmY4NzdjMjE0ZjI3NWU3NGQ5`
+Snapshot ID: `MTY2OTk0MzM2OCwwMDAwMDAwMDcwMWQ4NTY3MjAwNzE2NGM4YzFiMDU2ZTVhNTAyY2Fh`

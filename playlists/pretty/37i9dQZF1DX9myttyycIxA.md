@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,118 likes - 158 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,250 likes - 158 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

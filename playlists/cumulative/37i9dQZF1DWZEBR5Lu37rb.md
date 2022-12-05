@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-114 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
+115 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/2NQLrFSoKR34tgxbFWZBgI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 | 2022-02-10 |  |
 | [If](https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:57 | 2022-02-10 |  |
 | [Joromi](https://open.spotify.com/track/2veqQDtwehytVhqYJbTHtW) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 3:55 | 2022-02-10 |  |
-| [Kahlet Laayoune](https://open.spotify.com/track/0zqQI8ysvCrDAJPmLuEDev) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/0tztx9JoOcjRnBZoWvojzF) | 4:02 | 2022-02-10 |  |
+| [Kahlet Laayoune](https://open.spotify.com/track/0zqQI8ysvCrDAJPmLuEDev) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/0tztx9JoOcjRnBZoWvojzF) | 4:02 | 2022-02-10 | 2022-12-05 |
+| [Kahlet Laayoune](https://open.spotify.com/track/5zeufqSf652FfeS69bX4BP) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/5jHqA34XycZvSzer0QhfNj) | 4:02 | 2022-02-10 |  |
 | [Kahlete Laayoune](https://open.spotify.com/track/0Vk0PhvVKhXbMj75eaLbu3) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 4:20 | 2022-02-10 |  |
 | [Katapot](https://open.spotify.com/track/4aKKaiFsEifwr2CCcWJBy4) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Katapot](https://open.spotify.com/album/4vnplVs4Cposx5AUQ10kQ8) | 4:02 | 2022-02-10 |  |
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 | 2022-02-10 |  |

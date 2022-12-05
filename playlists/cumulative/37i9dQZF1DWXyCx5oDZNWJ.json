@@ -717,10 +717,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 342960,
       "name": "Jamileh",
       "url": "https://open.spotify.com/track/0wegArF0QhIeFAq6RYCeEm"
+    },
+    {
+      "album": {
+        "name": "Miniature I",
+        "url": "https://open.spotify.com/album/5gKKf89Dem52fwvDdIiFPz"
+      },
+      "artists": [
+        {
+          "name": "Ko Shin Moon",
+          "url": "https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342960,
+      "name": "Jamileh",
+      "url": "https://open.spotify.com/track/2CZlZNEwLxDEAfqpZlfK2o"
     },
     {
       "album": {

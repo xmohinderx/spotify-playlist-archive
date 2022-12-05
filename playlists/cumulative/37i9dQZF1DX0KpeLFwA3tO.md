@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Against The Current
 
-768 songs - 1 day 14 hr 31 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+769 songs - 1 day 14 hr 34 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-10-06 | 2022-11-18 |
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 | 2022-03-11 |
 | [Love Needs an Encore](https://open.spotify.com/track/0lK2E4HR64nfoi3vOBXt03) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love Needs an Encore](https://open.spotify.com/album/6Hp1StiHyODpHgVPWeNUqB) | 3:33 | 2022-06-17 | 2022-08-05 |
-| [Love Rush](https://open.spotify.com/track/233q2ABSt2YHztsKiySPWa) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/0ih7kOl1YnsyzdWU7XFd6S) | 2:53 | 2022-10-27 |  |
+| [Love Rush](https://open.spotify.com/track/233q2ABSt2YHztsKiySPWa) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/0ih7kOl1YnsyzdWU7XFd6S) | 2:53 | 2022-10-27 | 2022-12-05 |
+| [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 | 2022-11-25 |  |
 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 | 2022-02-18 | 2022-03-25 |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-01-28 | 2022-04-01 |
 | [Low Budget Horror](https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Low Budget Horror](https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK) | 3:01 | 2022-01-21 | 2022-03-11 |

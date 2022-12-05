@@ -2,12 +2,13 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> Dance and electronic Arabic songs\. Cover: Alok & Issam Alnajjar.
+> Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-86 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+87 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 | 2022-12-04 |  |
 | [7elm B3eed](https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [7elm B3eed](https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH) | 5:16 | 2022-03-30 | 2022-11-26 |
 | [Ahla El Nas](https://open.spotify.com/track/0c2nyNf2jerD605LfOCqE6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:45 | 2022-03-30 | 2022-08-23 |
 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 | 2022-03-30 |  |

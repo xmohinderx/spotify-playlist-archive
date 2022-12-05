@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,806 likes - 71 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,980 likes - 71 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 18 | [Pressure Drop](https://open.spotify.com/track/7G66lsaWrdRqJ4Kt3aZ6as) | [Dukes Of Roots](https://open.spotify.com/artist/7I7JNmHKqu8TLYxfEwaBIA), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Pressure Drop](https://open.spotify.com/album/5LoZVNyZUOPKxDFQdsosb2) | 3:37 |
 | 19 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 |
 | 20 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
-| 21 | [Mad World](https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/0OUG8M7SX8AXQCs9LfI3ke) | 2:30 |
+| 21 | [Mad World](https://open.spotify.com/track/7CgedTnm0Ehh8O1Iaa8OwM) | [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Mad World](https://open.spotify.com/album/5EypOXAENUBdyfTAHbLTe9) | 2:30 |
 | 22 | [Soul of the World \(with Barrington Levy\)](https://open.spotify.com/track/7DpNYAQdvEg5vFD8U5UriV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Soul of the World \(with Barrington Levy\)](https://open.spotify.com/album/6hKPmRl1f24feTAsGt9Mai) | 3:29 |
 | 23 | [As You Are \- Shy FX Remix](https://open.spotify.com/track/5LBsjW8qNjTpHFPeBoVwca) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [As You Are \(Remixes\)](https://open.spotify.com/album/5jl3bZodIYwlQKAolggKyG) | 3:25 |
 | 24 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 70 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 |
 | 71 | [Beautiful Things \(Remix\)](https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [New Again](https://open.spotify.com/album/5RN7Lm1aUvOsr7viqOl4x4) | 4:05 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDFiODhkZTU0NDE5MGZjOGFmNWUxYzE2ZTNjMzU3MTgx`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDg1NzNhYTE5MmMyZTNmOWYwYTY4MTg5YTJkYzZhMDM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,118 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,265 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 68 | [Bowser's Castle](https://open.spotify.com/track/7KGCp5rReukE5rsPhoF8wJ) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Bowser's Castle](https://open.spotify.com/album/6HU1A82WqOKoc4f7Z5zLjG) | 2:57 |
 | 69 | [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 |
 | 70 | [I'm Close Behind](https://open.spotify.com/track/5Q3gEtiKbGA5ZxQMVcnE6O) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [I'm Close Behind](https://open.spotify.com/album/1bwTocuXbenK4kaIU2Zoii) | 2:36 |
-| 71 | [serotonin](https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/2VqHsEkb4nuOhtEdqUvYQa) | 3:03 |
-| 72 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 |
-| 73 | [Sunsign](https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Sunsign](https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf) | 3:47 |
-| 74 | [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 |
-| 75 | [Six Feet Under](https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg) | [Ty Arena$](https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Six Feet Under](https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo) | 2:13 |
-| 76 | [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 |
-| 77 | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 |
-| 78 | [DOUBTS \(feat\. Ryan Oakes\)](https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7) | [Fran Roz](https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY), [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DOUBTS](https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z) | 2:54 |
-| 79 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 |
-| 80 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 |
+| 71 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 |
+| 72 | [Sunsign](https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Sunsign](https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf) | 3:47 |
+| 73 | [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 |
+| 74 | [Six Feet Under](https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg) | [Ty Arena$](https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Six Feet Under](https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo) | 2:13 |
+| 75 | [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 |
+| 76 | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 |
+| 77 | [DOUBTS \(feat\. Ryan Oakes\)](https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7) | [Fran Roz](https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY), [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DOUBTS](https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z) | 2:54 |
+| 78 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 |
+| 79 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 |
+| 80 | [Levity](https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Levity](https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv) | 3:20 |
 
-Snapshot ID: `MTY2ODczNTkxOCwwMDAwMDAwMDgyMDQ1NDVhMDA5ODQ4ZDg5ZDZlYTU2MTU4ZjM3MzNj`
+Snapshot ID: `MTY2ODczNTkxOCwwMDAwMDAwMGQ2M2Y0NDUyNTE2ZTEwMDM1Zjc5ZjAzOWRiZDRlYmEz`

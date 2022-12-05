@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,699 likes - 150 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,003 likes - 150 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,11 +132,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 122 | [Waiting For A Train](https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM) | [Flash and the Pan](https://open.spotify.com/artist/573nSltoBinkbQXk5JSY9U) | [Collection](https://open.spotify.com/album/0P9q63bMtm9s8VDQp6cJSK) | 3:44 |
 | 123 | [Steppin' Out](https://open.spotify.com/track/1qaS4rwkm52lpkDZVmvF52) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS) | 4:19 |
 | 124 | [Head On](https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Automatic \(Expanded Version\)](https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm) | 4:11 |
-| 125 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 |
+| 125 | [The Lovecats](https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS) | 3:40 |
 | 126 | [This Is the Day](https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [London Town 1983\-1993](https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8) | 4:57 |
-| 127 | [Senses Working Overtime \- Remastered](https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [English Settlement](https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM) | 4:50 |
-| 128 | [Veronica](https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Spike](https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr) | 3:09 |
-| 129 | [Play for Today \- 2006 Remaster](https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva) | 3:40 |
+| 127 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 |
+| 128 | [Senses Working Overtime \- Remastered](https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [English Settlement](https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM) | 4:50 |
+| 129 | [Veronica](https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Spike](https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr) | 3:09 |
 | 130 | [Would I Lie to You? \- Remastered Version](https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 4:28 |
 | 131 | [Living On The Ceiling](https://open.spotify.com/track/7ygp7PFQu9oYlV72tSd2Wz) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG), [Dennis Weinrich with John O.Williams](https://open.spotify.com/artist/38DOQYh2wbuhXYM2MSDvBb) | [Happy Families](https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l) | 4:10 |
 | 132 | [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
 | 150 | [Psycho Killer \- Live](https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:24 |
 
-Snapshot ID: `MTY2Njk1MzYzOCwwMDAwMDAwMDViNDAzZDI0ODJiM2VkOTFkZGI2YTUxODE1NGQ1Y2Qx`
+Snapshot ID: `MTY3MDE1NzcwNSwwMDAwMDAwMGM4YzhkNDM2MjA2NDRkNjE5N2VkYzZlMTIxNzZlM2Zi`

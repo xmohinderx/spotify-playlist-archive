@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Against The Current
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,357 likes - 120 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,464 likes - 120 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 73 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 |
 | 74 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 |
 | 75 | [Save It For Myself](https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [You Over Me](https://open.spotify.com/artist/5se7CBddY96rvFP3oQ6Pim) | [Save It For Myself](https://open.spotify.com/album/5bzfUN9nM3mCr7goLdbrVF) | 3:19 |
-| 76 | [Love Rush](https://open.spotify.com/track/233q2ABSt2YHztsKiySPWa) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/0ih7kOl1YnsyzdWU7XFd6S) | 2:53 |
+| 76 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 |
 | 77 | [Tough Love](https://open.spotify.com/track/62O4kLoFoWtXDIQhdrxXk5) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Never Before Seen, Never Again Found](https://open.spotify.com/album/3myqn4myBolKFhGs0s7lM7) | 3:17 |
 | 78 | [Another Kill For The Highlight Reel \- Barber Shop Studios Session](https://open.spotify.com/track/7MQ3noQQEXxe8BzkvAwpeS) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel \(Deluxe Edition\)](https://open.spotify.com/album/5fKRf75u7BVXubw0bCSZvb) | 3:09 |
 | 79 | [Out in Bloom](https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Out in Bloom](https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH) | 4:50 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 119 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 |
 | 120 | [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDE0OTY5Nzk5MDMyYjE1OGZhNzI2YTQ0ODEyODZiOThl`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMGQyZDYwYzU4MmE5YmMxOWE0YTk2YmY2YmY1ZWExZGY0`

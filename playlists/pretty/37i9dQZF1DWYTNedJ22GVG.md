@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,797 likes - 109 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,647 likes - 109 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 87 | [Deck The Halls](https://open.spotify.com/track/3gDdxePgl7W8EbLLgaqrxe) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [The Greatest Bits: B\-Sides & Rarities](https://open.spotify.com/album/1zgFMroSTd9f0lr2qRxgqH) | 1:33 |
 | 88 | [Jingle Bells](https://open.spotify.com/track/39QghbsMOifzbwiPxSABXV) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [Tha Slay Gang](https://open.spotify.com/artist/34VL14T5ubMW3QNw32vIKe) | [All Tha Way Lit Up](https://open.spotify.com/album/5wRK5FoW9Q1LnGrGTplKhM) | 2:57 |
 | 89 | [I Want A Hippopotamus For Christmas \(Hippo The Hero\)](https://open.spotify.com/track/6qE5c4FQ8NVl6JcUgQhGbX) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 2:28 |
-| 90 | [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 |
+| 90 | [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Holiday](https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR) | 2:20 |
 | 91 | [Blue Christmas](https://open.spotify.com/track/5ZJ0rtmWHNhTNkwQHXWE1E) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Volume 2](https://open.spotify.com/album/36JazNEMaqw6INzRhyXZMz) | 3:49 |
 | 92 | [From All of Us to All of You \(Vocal\)](https://open.spotify.com/track/2BioJ9vMH7Q2zlHwhRxYv8) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Jiminy Cricket](https://open.spotify.com/artist/0L8jjZr2Ag97q3aA4oOWfV) | [Disney Karaoke Series: Christmas Favorites](https://open.spotify.com/album/7MSbUvIDohwn3rvOmpQ3dm) | 1:16 |
 | 93 | [Oh Santa!](https://open.spotify.com/track/016bn6MDd82OaNOH8bKcDc) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Tyler Perry’s A Madea Christmas Album \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VWuvATfuNuRu8o3lqmbpr) | 3:31 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 108 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 109 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 
-Snapshot ID: `MTY2OTk5NDYxNCwwMDAwMDAwMGFiNjlhYWFhOGUxN2JjNzY3NzBiMjgwZGY2OWIxNmJh`
+Snapshot ID: `MTY2OTk5NDYxNCwwMDAwMDAwMDc3MDQxNDZiMTkxMDk5ZTM4YzA2MmM5MjFhZTRjNmI2`

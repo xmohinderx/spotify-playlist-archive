@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-530 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
+531 songs - 1 day 3 hr 53 min - [published](https://open.spotify.com/playlist/5YNobSqpJ71QdqLAH2udAx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Hannah Montana VIP](https://open.spotify.com/track/1TLdCwhyeVjSXjn5OSvML8) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POPSTAR\*](https://open.spotify.com/album/1G83eVFNZ4uptZ72WJC69X) | 2:23 | 2022-06-09 | 2022-07-03 |
 | [haunt u](https://open.spotify.com/track/1tvXQQBb8jKewZXD0hG5e1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [haunt u](https://open.spotify.com/album/5jEfllvITPn9bdcv7DSwmI) | 1:58 | 2022-11-17 | 2022-11-24 |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-06-09 | 2022-06-11 |
+| [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-12-04 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-06-19 | 2022-07-20 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-27 |  |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-30 |  |
@@ -462,7 +463,7 @@
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-10-01 | 2022-10-26 |
 | [Tenger](https://open.spotify.com/track/1o1jU5NJW5lTAllW6udk6Y) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Osztálykép](https://open.spotify.com/album/3DqB5AWtqU8GE6xmwrrPv9) | 2:40 | 2022-10-12 |  |
 | [Terapeuta](https://open.spotify.com/track/6YW9qgEJrkr3eGXYcZ8uXC) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Mxrci](https://open.spotify.com/artist/0d76eNZLxcMQiFIhdNKFnA) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 3:36 | 2022-06-30 | 2022-07-24 |
-| [Testy](https://open.spotify.com/track/1xrxvP1Vq8xU7FffnIoHoD) | [Alan Murin](https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss), [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Trueself](https://open.spotify.com/album/6JmjGd10hhyEo4iMNDxCtd) | 3:58 | 2022-12-03 |  |
+| [Testy](https://open.spotify.com/track/1xrxvP1Vq8xU7FffnIoHoD) | [Alan Murin](https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss), [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Trueself](https://open.spotify.com/album/6JmjGd10hhyEo4iMNDxCtd) | 3:58 | 2022-12-03 | 2022-12-05 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-11-22 | 2022-11-29 |
 | [The Ballet Girl](https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I) | 3:21 | 2022-11-15 | 2022-12-03 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-11-01 | 2022-11-09 |

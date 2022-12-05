@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 308,312 likes - 47 songs - 3 hr 6 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 308,287 likes - 47 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 46 | [Hold Me Close](https://open.spotify.com/track/7u71gydKlcIvWpvmNsfRIP) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Hold Me Close](https://open.spotify.com/album/4z7scWiAsJN335Cttn2AaU) | 3:19 |
 | 47 | [Memories](https://open.spotify.com/track/2AYOfDkJ60TAgKlMibuqhX) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Memories](https://open.spotify.com/album/0SQWhlMwhYgpohlEJ93OU6) | 4:42 |
 
-Snapshot ID: `MTkwOCxmODZkMzU0MjE2ZDQ3NTliNzdiNjY5YTI4NjRjNTEzMGRlNDA5OTIx`
+Snapshot ID: `MTkwOSxiYTY4YjlmNmQ3NzcwYjMwZmFjMTA1YjMwMmViODQzY2ZjYzk2ZDU4`

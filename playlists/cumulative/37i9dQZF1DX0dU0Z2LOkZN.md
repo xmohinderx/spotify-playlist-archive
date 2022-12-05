@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-293 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+294 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,8 +227,9 @@
 | [Résidus De Vin Rouge](https://open.spotify.com/track/1AMPaKJUArIkQXcVTymrI6) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Résidus De Vin Rouge](https://open.spotify.com/album/4OTByvJuNcccaWqiqoJrYv) | 2:42 | 2022-11-25 |  |
 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 | 2021-11-11 |  |
 | [Sedate \- Boom Bap Instrumental](https://open.spotify.com/track/1XpZ171vlP0tPiFs2AUlOe) | [Bob Lee](https://open.spotify.com/artist/6OGBVZmZ9qKwv0T2CzlczF) | [Sedate \(Boom Bap Instrumental\)](https://open.spotify.com/album/4kJwBCZGus9fsFt4hU2nCl) | 3:47 | 2022-05-13 | 2022-05-20 |
-| [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 | 2022-11-11 |  |
+| [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 | 2022-11-11 | 2022-12-05 |
 | [seed](https://open.spotify.com/track/1nmqvyLwzIbdcmKKcUDKL5) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7) | 2:00 | 2022-05-20 | 2022-11-20 |
+| [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 | 2022-11-25 |  |
 | [seed](https://open.spotify.com/track/4P5vUfzQEQQGelK4czaXan) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 2:00 | 2022-11-11 | 2022-11-24 |
 | [shogun](https://open.spotify.com/track/1hccHdv4Vb713T0cRgVg5l) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [moisture](https://open.spotify.com/album/2QQD51qrAwUfSyiqhf2UM9) | 1:32 | 2021-11-11 |  |
 | [Skate Day](https://open.spotify.com/track/0dhBZOXyLXbDH6Xp3t3B4P) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Skate Day](https://open.spotify.com/album/5hg32AUaotI7xq5ZPBGUcu) | 2:34 | 2022-05-13 | 2022-05-20 |

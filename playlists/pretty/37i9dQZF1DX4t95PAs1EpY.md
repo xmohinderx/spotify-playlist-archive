@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,893 likes - 200 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,107 likes - 200 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 57 | [Exhibit A](https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN) | [Divine Stacks](https://open.spotify.com/artist/3gxhMzrCpxtLnUvLo1bEQC) | [Pellegrino](https://open.spotify.com/album/0UHLq4m23c1rspMr8rsqHe) | 2:09 |
 | 58 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 |
 | 59 | [Come The Money](https://open.spotify.com/track/5yO3E2n5bHBeRir4URHOtG) | [Chuck Morrison](https://open.spotify.com/artist/6m3viXMwlZLZFKL8EQsDnB) | [Come The Money](https://open.spotify.com/album/2BhirANPh4QcvnH0F98mPT) | 2:12 |
-| 60 | [moss](https://open.spotify.com/track/2AyT3ztpcyVVmY67OxUNAq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [moss](https://open.spotify.com/album/7uqTdJRerYBW0KBbi29mww) | 1:55 |
+| 60 | [moss](https://open.spotify.com/track/0O33Eb3LtTPdqwNOfJIyOR) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 |
 | 61 | [Hino](https://open.spotify.com/track/7i6USOLgnXguSyelAEkwVc) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Togushi Park](https://open.spotify.com/album/09MQCAAB6QDwKkCjyxLtQo) | 1:28 |
 | 62 | [Ghost Town](https://open.spotify.com/track/5mLCQ2ST4AhU7liOfLfTDQ) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Ghost Town](https://open.spotify.com/album/33dPDdYjoPtq07S8Skg6lE) | 2:15 |
 | 63 | [Cigar](https://open.spotify.com/track/7yD9xepeRrBa6bO3li14Gu) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Cigar](https://open.spotify.com/album/2BARicBFCobZspePy6WvhJ) | 2:31 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 199 | [Open Skies](https://open.spotify.com/track/5lP90jpZwrWDr9KoFmNQux) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [muun](https://open.spotify.com/artist/6R0LlvMD1ig3Hplf2IyhRf) | [Open Skies](https://open.spotify.com/album/7GzoQgQRZiLz14ByYZOIPN) | 2:06 |
 | 200 | [Adventure Time](https://open.spotify.com/track/49qgo51BRqysyr1FdfGCi7) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Lasting Memories](https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS) | 2:11 |
 
-Snapshot ID: `MTY2OTM4MDk2MCwwMDAwMDAwMDY1YTI3OGI1ZmY0YWRjNGY0Y2U0YjI1ZmU1MzMxOWEz`
+Snapshot ID: `MTY2OTM4MDk2MCwwMDAwMDAwMDFmOWJjY2RiOTE3NGZiZmQ1NjFlMjk0ZTg3YjhjZmQx`

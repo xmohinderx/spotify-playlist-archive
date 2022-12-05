@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-202 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+204 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [FOUR TEETH](https://open.spotify.com/track/0EKTuuDuN8bAIwqFB1bPYY) | [True Widow](https://open.spotify.com/artist/7fS59zKuYPKhYlTGdg2PyM) | [Circumambulation](https://open.spotify.com/album/5xkD0KbkpBYK3n8rDA0y6j) | 6:16 | 2022-10-23 | 2022-11-01 |
 | [Frankie Teardrop \- 2019 \- Remaster](https://open.spotify.com/track/2vQRkj2kMwoHKLzxXNsj2h) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 10:26 | 2022-10-23 | 2022-11-01 |
 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 | 2021-11-01 |  |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-05 |  |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2022-09-13 |  |
 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 | 2022-01-27 |  |
 | [haunt me \(x 3\)](https://open.spotify.com/track/4nsY0oW9IWBUqdoUXv1nUg) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/4YBOpXeNUJzCzLcsGucOMQ) | 2:45 | 2021-11-01 | 2022-07-29 |
@@ -209,6 +210,7 @@
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-11-01 | 2022-10-16 |
 | [XO](https://open.spotify.com/track/6DmUJDEOlwjehIaOawoTUf) | [Gartex](https://open.spotify.com/artist/2NRoExsFusov5R2frdt1TV) | [XO](https://open.spotify.com/album/2yivLArG7CWlqV3AgnjAet) | 4:40 | 2022-10-23 | 2022-11-01 |
 | [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 | 2022-10-23 | 2022-11-01 |
+| [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 | 2022-12-05 |  |
 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 | 2021-11-01 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

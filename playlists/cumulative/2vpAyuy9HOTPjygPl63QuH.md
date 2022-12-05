@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-635 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+636 songs - 1 day 12 hr 47 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Concentrate](https://open.spotify.com/track/3RGCgtTX3J8lnZGf97oVip) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Concentrate](https://open.spotify.com/album/2neWCkyM66Pf8sjRSRwmHh) | 3:23 | 2022-07-09 | 2022-07-16 |
 | [Conversation](https://open.spotify.com/track/2GJvfmOHNmhF5g4pf8eYXB) | [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Conversation](https://open.spotify.com/album/1uasdYV8h6Suy7Rly4Wu3m) | 3:50 | 2022-04-28 | 2022-05-14 |
 | [Core](https://open.spotify.com/track/1MixxR1r47McDJSccegs2Q) | [FOOLiE](https://open.spotify.com/artist/5X3h4PwWZi0RkCyFd6gs0P) | [Core](https://open.spotify.com/album/4C8VuicYQmsCMMpWzpdpZF) | 5:08 | 2022-05-29 | 2022-06-04 |
+| [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 | 2022-12-04 |  |
 | [Could U Be The One](https://open.spotify.com/track/3e2ZslkGBmzZoPeAHEwwDJ) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Could U Be The One](https://open.spotify.com/album/6CzDLt1OtaWHbgYt0isWti) | 2:56 | 2022-11-18 | 2022-11-29 |
 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-17 | 2022-09-24 |
 | [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 | 2022-07-29 | 2022-08-06 |

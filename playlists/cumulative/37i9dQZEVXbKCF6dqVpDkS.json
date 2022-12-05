@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5"
@@ -3244,6 +3244,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -3273,7 +3299,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -3321,6 +3347,28 @@
       "duration_ms": 98000,
       "name": "Daar Wordt Aan De Deur Geklopt",
       "url": "https://open.spotify.com/track/6FUio67dllSqSEYrGeLe2G"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40800,
+      "name": "Dag Sinterklaasje",
+      "url": "https://open.spotify.com/track/4YBEtbyOU356ZYQAvJjTsD"
     },
     {
       "album": {
@@ -4341,7 +4389,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -4631,7 +4679,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 160177,
       "name": "El Cl\u00e1sico",
       "url": "https://open.spotify.com/track/42Ty9E5G6rPpsfn45J6FSn"
@@ -6273,7 +6321,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 180773,
       "name": "Grijs",
       "url": "https://open.spotify.com/track/64hayhfzodjwBrQcZ69SVp"
@@ -6750,6 +6798,28 @@
     },
     {
       "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47320,
+      "name": "Hij Komt, Hij Komt",
+      "url": "https://open.spotify.com/track/0t0oGLmuoBd5xqTLNkLlkX"
+    },
+    {
+      "album": {
         "name": "Hockeymeisjes",
         "url": "https://open.spotify.com/album/5alNqB8FQjeKViSTJFa6V5"
       },
@@ -7027,10 +7097,32 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 212358,
       "name": "Hoofdpijn",
       "url": "https://open.spotify.com/track/66hfVsoqLdDIykC9FNwJPm"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91160,
+      "name": "Hoor De Wind Waait Door De Bomen",
+      "url": "https://open.spotify.com/track/55Fdq7Gz3uCCEP7xtyikiq"
     },
     {
       "album": {
@@ -7777,7 +7869,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 153454,
       "name": "In De Goot",
       "url": "https://open.spotify.com/track/0DSgGoqTqx6Wof5xDEAwST"
@@ -8205,7 +8297,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -8733,7 +8825,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 152500,
       "name": "Klop Klop",
       "url": "https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6"
@@ -9505,7 +9597,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 196520,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
@@ -10699,7 +10791,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -13275,7 +13367,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -14040,6 +14132,28 @@
     },
     {
       "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42093,
+      "name": "Sinterklaas Kapoentje",
+      "url": "https://open.spotify.com/track/3r0TH3SP5bIRMgGpo1ZEjR"
+    },
+    {
+      "album": {
         "name": "Oerhollandse Sinterklaasliedjes",
         "url": "https://open.spotify.com/album/7Is5aN4rrDSKimGlZWzAkv"
       },
@@ -14055,6 +14169,54 @@
       "duration_ms": 60360,
       "name": "Sinterklaas Kapoentje",
       "url": "https://open.spotify.com/track/35ZYlfxyQDvyazaj6LAEtx"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36173,
+      "name": "Sinterklaasje Bonne Bonne Bonne",
+      "url": "https://open.spotify.com/track/6dWXUUnFdxvvpfqUrf7Myt"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        },
+        {
+          "name": "Kinderliedjes Om Mee Te Zingen",
+          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93994,
+      "name": "Sinterklaasje kom maar binnen",
+      "url": "https://open.spotify.com/track/2va7hTvr8psGLxZoxkrTwd"
     },
     {
       "album": {
@@ -14969,7 +15131,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 254871,
       "name": "Systeem",
       "url": "https://open.spotify.com/track/5592N2JjqFLAwdxn8AuFHu"
@@ -16141,7 +16303,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 172931,
       "name": "Voor Het Kiezen",
       "url": "https://open.spotify.com/track/2VaDHtANHv7L2Z1ZWcKgU0"
@@ -16265,7 +16427,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 195562,
       "name": "Was Er Nooit",
       "url": "https://open.spotify.com/track/2GaqA7UxzHIAELXceyKduR"
@@ -16545,7 +16707,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 156332,
       "name": "Wees Man",
       "url": "https://open.spotify.com/track/0Kq56m0EoNbwgzin7Xo0Ey"
@@ -17081,6 +17243,28 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63626,
+      "name": "Zie Ginds Komt De Stoomboot",
+      "url": "https://open.spotify.com/track/7ftem6EQF6isH4imw6qK58"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Arcangel, Bad Bunny
 
-2,971 songs - 6 day 17 hr 36 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+2,972 songs - 6 day 17 hr 39 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2227,7 +2227,8 @@
 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 | 2022-05-20 | 2022-05-28 |
 | [Quiero Pelarme](https://open.spotify.com/track/5THQOgMI2EIIWiCiRu6Ltj) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Quiero Pelarme](https://open.spotify.com/album/0LyDaK9KIevDLBfXAvVdlU) | 2:26 | 2022-08-26 | 2022-09-03 |
 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2022-04-08 | 2022-04-16 |
-| [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/6gSo55R1Kl9qN3JiD4YtzD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/album/2TVZbwxhpXOlmGm0nZQd6q) | 2:54 | 2022-12-02 |  |
+| [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/6gSo55R1Kl9qN3JiD4YtzD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/album/2TVZbwxhpXOlmGm0nZQd6q) | 2:54 | 2022-12-02 | 2022-12-05 |
+| [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/43Bq2xsSHNoatTpYVpPq9n) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 2:56 | 2022-12-02 |  |
 | [Quillami](https://open.spotify.com/track/3u5Qk608vlaU3M3NH6YNtI) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Quillami](https://open.spotify.com/album/1uytP1JpsinoS7IWHMVivd) | 3:22 | 2022-02-11 | 2022-02-19 |
 | [Quintal](https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0) | 2:55 | 2022-11-18 | 2022-11-26 |
 | [Quisiera ser](https://open.spotify.com/track/6HTsYjhPvUruUHVtRpg0o3) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Historias desconocidas, Vol\. 2](https://open.spotify.com/album/45pf1r0BHWiB7XNu0C1fyG) | 2:29 | 2022-05-20 | 2022-05-28 |

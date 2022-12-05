@@ -4,7 +4,7 @@
 
 > Canciones para acompañar la garnacha que apapacha.
 
-102 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/0UNO0MRhCn4N0PEUhUSJPZ)
+103 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0UNO0MRhCn4N0PEUhUSJPZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [No Me Conoces Aún](https://open.spotify.com/track/3EDrB9gVZKLx7z7Pu32Kmz) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [GRUPERAS QUE TE ENAMORAN EL CORAZÓN](https://open.spotify.com/album/3W4VGBM6h6qDln3BbP0kFw) | 3:44 | 2021-09-09 | 2022-11-13 |
 | [Otra Noche](https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC) | 3:18 | 2022-03-07 | 2022-07-29 |
 | [Otra Noche](https://open.spotify.com/track/51anVGuo2xjvq6fl35s4mg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Radio Éxitos 2022 "El Disco Del Año"](https://open.spotify.com/album/3cHkgwGgymEZx7njNJraEg) | 3:19 | 2022-03-07 | 2022-11-14 |
-| [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2022-03-07 |  |
+| [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2022-03-07 | 2022-12-05 |
+| [Otra Noche](https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 3:19 | 2022-03-07 |  |
 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 | 2022-03-07 |  |
 | [Paz en Este Amor](https://open.spotify.com/track/16Im2QhKFPsK4mKOtcQ002) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Paz en Este Amor](https://open.spotify.com/album/4ink40ehZLl2rWbpy5V3FO) | 3:23 | 2021-09-09 |  |
 | [Por Mi No Te Detengas](https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:45 | 2021-09-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Los Dos Carnales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,309 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,488 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 9 | [El Cholo Iván](https://open.spotify.com/track/6oHt0BPaAep4m7AJtzxFHa) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [El Cholo Iván](https://open.spotify.com/album/6A6KHpAfTwBWr2CQbbVKVL) | 2:32 |
 | 10 | [Sombrero Achalinado](https://open.spotify.com/track/0Nvo5oAGeplQlgxXwuy5yP) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Sombrero Achalinado](https://open.spotify.com/album/4vHf2D9FxJGXWpmQvQcddk) | 3:32 |
 | 11 | [Traketeando \- En Vivo](https://open.spotify.com/track/6hKJLUCgTWYt989CLMbxOW) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [Traketeando \(En Vivo\)](https://open.spotify.com/album/2L0MqXft3PsJGmM8kuOrTL) | 3:02 |
-| 12 | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/6gSo55R1Kl9qN3JiD4YtzD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/album/2TVZbwxhpXOlmGm0nZQd6q) | 2:54 |
+| 12 | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/43Bq2xsSHNoatTpYVpPq9n) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 2:56 |
 | 13 | [Futa](https://open.spotify.com/track/3k8ZHRvvYdt43N3cow7by7) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Futa](https://open.spotify.com/album/1QGOI3dxR9K7kc5VacVVU8) | 3:47 |
 | 14 | [El Caballero](https://open.spotify.com/track/2Ws9ZYomTjge6TtdWfRMfL) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Caballero](https://open.spotify.com/album/2T6sp9qrFHGMD8h0fbUA8p) | 2:13 |
 | 15 | [Al Llegar La Navidad](https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Al Llegar La Navidad](https://open.spotify.com/album/584YXvUefVtSBELCB7pDML) | 2:19 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 48 | [70 Calaveras \- En Vivo](https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [70 Calaveras \(En Vivo\)](https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe) | 2:49 |
 | 49 | [Hágase Hombre](https://open.spotify.com/track/3g5i3yc1YBBlJRPUYzZ6Eu) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Hágase Hombre](https://open.spotify.com/album/7ilhopX9AwemPf6YNz4XiG) | 3:04 |
 
-Snapshot ID: `MTY2OTk2MDgwMCwwMDAwMDAwMDViNzdhOTM0NDRjNmE1NjZhNDNiMjMxZWIzMTBkZGMz`
+Snapshot ID: `MTY2OTk2MDgwMCwwMDAwMDAwMGY0ZjZkYjhlYjQ1NGUwNDBlNjA5OTEwODdhYWU1ZWM0`

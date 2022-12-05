@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ?si=nKrIAInNTeSpQZnRMZGaLw" > Naira Marley </a>  and <a href="https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL?si=QYs1j5iLSJaNsetulQjllA" > BackRoad Gee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,616 likes - 89 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,625 likes - 89 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

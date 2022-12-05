@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : KRK
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,697 likes - 81 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,837 likes - 81 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

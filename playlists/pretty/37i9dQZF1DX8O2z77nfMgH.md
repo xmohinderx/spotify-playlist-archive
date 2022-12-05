@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Arcangel, Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,243 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,332 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 19 | [Adentro](https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Adentro](https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU) | 2:12 |
 | 20 | [Corazón Sin Cara \- 2.0](https://open.spotify.com/track/2KYJkrhsEOmyUgeFPCHvkD) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Corazón Sin Cara \(2.0\)](https://open.spotify.com/album/5HDywuzxDTbHC3FyKsv4bK) | 3:30 |
 | 21 | [Cargando Piedras](https://open.spotify.com/track/2UjPnCrGVhtnLGVfZ27jgc) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Cargando Piedras](https://open.spotify.com/album/2Z7e1CJ88hnq2tu47vK207) | 2:55 |
-| 22 | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/6gSo55R1Kl9qN3JiD4YtzD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/album/2TVZbwxhpXOlmGm0nZQd6q) | 2:54 |
+| 22 | [Quiero Ser Yo \(Ese Hombre\)](https://open.spotify.com/track/43Bq2xsSHNoatTpYVpPq9n) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 2:56 |
 | 23 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/6OfrAyy51UhReRVKm4O4gO) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Se Me Ha Perdido un Corazón](https://open.spotify.com/album/3sHqU9KQzlVj6Mm00Irtah) | 3:21 |
 | 24 | [CUMBIA DE BARRIO](https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [CUMBIA DE BARRIO](https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ) | 3:01 |
 | 25 | [Nike Y Adidas](https://open.spotify.com/track/3WLWwlOx9pZiL07fhInkKA) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Nike Y Adidas](https://open.spotify.com/album/7geVwP9eXSmq1GDR5Nc5ZH) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Otro año +](https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Otro año +](https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob) | 1:40 |
 | 60 | [Hay Luz](https://open.spotify.com/track/1IPy4M3YhziYHf8dKyHROF) | [The Crab Apples](https://open.spotify.com/artist/6u98K0jUUoIvIG5mPXRIWZ), [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Hay Luz](https://open.spotify.com/album/2v74yMXQ1ToM48F6fMIHyt) | 3:40 |
 
-Snapshot ID: `MTY2OTk4NzIyNSwwMDAwMDAwMGRmOGNjN2JlMGRiMTYzM2YzZGNlZmJjM2YwNGJiOTkx`
+Snapshot ID: `MTY2OTk4NzIyNSwwMDAwMDAwMGI0NTYwYTI0ZjRiMWJkM2ViYmQ1NTBjNTgxZWFiMGU5`

@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds Folk this year\. Cover: Sadurn
 
-317 songs - 19 hr 16 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+318 songs - 19 hr 20 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Clockwork](https://open.spotify.com/track/3aSdRudIrqMCoa4teNQDRq) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/3czqc1XrxY4pT1kXzoRY4i) | 2:21 | 2022-07-20 | 2022-09-22 |
 | [Cocaine Angel](https://open.spotify.com/track/2y13K9uWsgfqOItXO1fHyQ) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN) | [Cocaine Angel](https://open.spotify.com/album/0dfViZEtz1FHxk9HgwtZwV) | 2:21 | 2022-07-20 | 2022-10-20 |
 | [Coffee or Tea](https://open.spotify.com/track/3hqxpoxcAMYLwCkwE1HTgK) | [Will Chant](https://open.spotify.com/artist/1B41QlcuROVRfuEmgXI0AG) | [Coffee or Tea](https://open.spotify.com/album/2dEhRlRF7WKhR5tOvNx9SJ) | 3:23 | 2022-11-09 | 2022-12-01 |
-| [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 | 2022-11-30 |  |
+| [Cold Water Swimming](https://open.spotify.com/track/49wSfSRPw3wdtu2Vqus9uU) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/08NjE6ObCCFjSLQIeCx88c) | 4:26 | 2022-11-30 |  |
+| [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 | 2022-11-30 | 2022-12-05 |
 | [Collateral](https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Collateral](https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF) | 2:59 | 2022-11-30 |  |
 | [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 | 2022-11-30 |  |
 | [Coming Clean](https://open.spotify.com/track/7G7czV2zDj9A5wDnNa0uYU) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 6:18 | 2022-10-05 | 2022-12-01 |

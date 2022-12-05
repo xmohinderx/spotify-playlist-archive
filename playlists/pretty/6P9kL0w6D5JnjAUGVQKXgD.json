@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jonasu, Karen Harding, Biscits, Kriss Reeve",
-  "num_followers": 48390,
+  "num_followers": 48389,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTU3MSxlYjk5NWRlMTBmM2RiZTYyYzk5MGNjMzA3MDM4MzYyM2EzYzgyZjU4",
+  "snapshot_id": "MTU3MixmMzI5OTZlNjU5ODNmZWZlM2MyNTZkMjNjMTgwMTE4MjY5YzgxYjA3",
   "tracks": [
     {
       "added_at": "2022-09-23 15:41:02",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/0nBcvOFBCRH80PebNeQzgR"
     },
     {
+      "added_at": "2022-07-09 15:41:01",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
       "added_at": "2022-06-18 15:42:02",
       "album": {
         "name": "Dichotomy",
@@ -753,38 +769,6 @@
       "url": "https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw"
     },
     {
-      "added_at": "2022-07-09 15:41:01",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2022-10-07 15:41:02",
-      "album": {
-        "name": "When the Lights Go",
-        "url": "https://open.spotify.com/album/0BszLvBfiCUPWnjYFvD4GQ"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 247327,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0pOrJCW9sy6NiHRD9TDIvT"
-    },
-    {
       "added_at": "2022-05-10 15:41:03",
       "album": {
         "name": "Good Luck (D.O.D Remix)",
@@ -811,6 +795,22 @@
       "duration_ms": 172413,
       "name": "Good Luck - D.O.D Remix",
       "url": "https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd"
+    },
+    {
+      "added_at": "2022-10-07 15:41:02",
+      "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/0BszLvBfiCUPWnjYFvD4GQ"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 247327,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0pOrJCW9sy6NiHRD9TDIvT"
     },
     {
       "added_at": "2022-09-18 15:41:02",
@@ -1109,26 +1109,6 @@
       "url": "https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo"
     },
     {
-      "added_at": "2022-07-19 15:41:02",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
       "added_at": "2022-08-03 15:41:02",
       "album": {
         "name": "Colors (with Eyelar)",
@@ -1151,6 +1131,26 @@
       "duration_ms": 231832,
       "name": "Colors (with Eyelar)",
       "url": "https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr"
+    },
+    {
+      "added_at": "2022-07-19 15:41:02",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2022-08-30 15:41:02",
@@ -1285,30 +1285,6 @@
       "url": "https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP"
     },
     {
-      "added_at": "2022-10-25 15:41:02",
-      "album": {
-        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 234411,
-      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
-    },
-    {
       "added_at": "2022-05-13 15:44:02",
       "album": {
         "name": "Se\u00f1orita",
@@ -1351,6 +1327,30 @@
       "duration_ms": 153387,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/4iyD0sQ92t79PBejgfCgaj"
+    },
+    {
+      "added_at": "2022-10-25 15:41:02",
+      "album": {
+        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 234411,
+      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
       "added_at": "2021-10-01 15:41:05",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
-      "added_at": "2022-10-12 15:44:02",
-      "album": {
-        "name": "Crank",
-        "url": "https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Crank",
-      "url": "https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv"
-    },
-    {
       "added_at": "2022-09-03 15:41:03",
       "album": {
         "name": "Faded (Remixes)",
@@ -1583,6 +1567,22 @@
       "duration_ms": 250226,
       "name": "Faded - Tiesto's Northern Lights Remix",
       "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
+    },
+    {
+      "added_at": "2022-10-12 15:44:02",
+      "album": {
+        "name": "Crank",
+        "url": "https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Crank",
+      "url": "https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv"
     },
     {
       "added_at": "2022-05-10 15:41:03",
@@ -1693,6 +1693,22 @@
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
+      "added_at": "2022-07-06 15:46:04",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
       "added_at": "2022-07-31 15:41:02",
       "album": {
         "name": "Savage",
@@ -1711,22 +1727,6 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
-    },
-    {
-      "added_at": "2022-07-06 15:46:04",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2021-05-13 23:01:06",
@@ -1869,28 +1869,24 @@
       "url": "https://open.spotify.com/track/0V9XYO0pDS94UFuseqabzL"
     },
     {
-      "added_at": "2022-12-03 15:41:02",
+      "added_at": "2022-12-04 15:42:02",
       "album": {
-        "name": "Don\u2019t Forget My Love (John Summit Remix)",
-        "url": "https://open.spotify.com/album/3RcvNQx32vL4sYrA04bj1S"
+        "name": "Project T",
+        "url": "https://open.spotify.com/album/6iUTtZLadvBzp3SfkXVzQF"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Don\u2019t Forget My Love - John Summit Remix",
-      "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
+      "duration_ms": 308642,
+      "name": "Project T - Original Mix",
+      "url": "https://open.spotify.com/track/4NRyVCNxLelhs9ZqRzbjjp"
     },
     {
       "added_at": "2021-05-20 23:01:05",
@@ -1915,22 +1911,6 @@
       "duration_ms": 156647,
       "name": "Music Is My Suicide",
       "url": "https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF"
-    },
-    {
-      "added_at": "2022-12-03 15:41:02",
-      "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/1jU1B7ey3euWphMnVg7CgK"
-      },
-      "artists": [
-        {
-          "name": "Envyro",
-          "url": "https://open.spotify.com/artist/5lxDBvdzaRQ5I3P2fKzxRy"
-        }
-      ],
-      "duration_ms": 168433,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/3zSFOiuHSMqfbzxu7NHRcz"
     },
     {
       "added_at": "2022-12-03 15:41:02",
@@ -1977,28 +1957,28 @@
       "url": "https://open.spotify.com/track/7A64XAqzghyeZuN6AEqoiC"
     },
     {
-      "added_at": "2022-12-03 15:41:02",
+      "added_at": "2022-12-04 15:42:02",
       "album": {
-        "name": "Rhythm Is A Dancer",
-        "url": "https://open.spotify.com/album/2NkTxW1qE64y6Z52cshnoD"
+        "name": "Call You Mine (Remixes)",
+        "url": "https://open.spotify.com/album/1nqYsOef1yKKuGOVchbsk6"
       },
       "artists": [
         {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Dropgun",
-          "url": "https://open.spotify.com/artist/3nAdmhth5AczU6YwCJOlYh"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         },
         {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Rhythm Is A Dancer",
-      "url": "https://open.spotify.com/track/3hY80yJLjl2VgYLjn1aLVp"
+      "duration_ms": 169093,
+      "name": "Call You Mine (feat. Bebe Rexha) - Keanu Silva Remix",
+      "url": "https://open.spotify.com/track/75FpbthrwQmzHlBJLuGdC7"
     },
     {
       "added_at": "2022-12-03 15:41:02",
@@ -2025,20 +2005,48 @@
       "url": "https://open.spotify.com/track/0RRA5oMkDbzlEBaUXzjAo4"
     },
     {
-      "added_at": "2022-12-03 15:41:02",
+      "added_at": "2022-12-04 15:42:02",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/0Ug3i1Um00xfpuGjGBJtxw"
+        "name": "Hands in the Fire",
+        "url": "https://open.spotify.com/album/6YdKQ0eOvhYNHZElEnxSjy"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
         }
       ],
-      "duration_ms": 261639,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/5xMMxb79haEK4MxUzyOr4E"
+      "duration_ms": 176842,
+      "name": "Hands in the Fire",
+      "url": "https://open.spotify.com/track/400HuEeBDaTZSotSb1WJeI"
+    },
+    {
+      "added_at": "2022-12-04 15:42:02",
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN"
     }
   ],
   "unique_name": "EDM Top 100",

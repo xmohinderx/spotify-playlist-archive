@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 206400,
       "name": "Inky Pinky Ponky",
       "url": "https://open.spotify.com/track/6o7G7zxI9TkcXVk6fi1yOm"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 166523,
       "name": "Kaduna Thrillu Thanada (From \"Bhediya - Tamil\")",
       "url": "https://open.spotify.com/track/2uJSz1wsssI2ehg69qNZ9F"
@@ -1571,6 +1571,24 @@
       "duration_ms": 258909,
       "name": "Thaai Kelavi (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f"
+    },
+    {
+      "album": {
+        "name": "Thee Thalapathy (From \"Varisu\")",
+        "url": "https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL"
+      },
+      "artists": [
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Thee Thalapathy (From \"Varisu\")",
+      "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"
     },
     {
       "album": {

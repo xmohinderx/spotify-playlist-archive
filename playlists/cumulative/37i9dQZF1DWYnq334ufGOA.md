@@ -4,7 +4,7 @@
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-53 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0mF58AHVsyEjYfbQsQ6nFT)
+54 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/0mF58AHVsyEjYfbQsQ6nFT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Rocky Mountains](https://open.spotify.com/track/46onaZFYtcf0JDnLggx7yT) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 2:53 | 2021-08-20 |  |
 | [Safed \- 1967; Institute of Sonology](https://open.spotify.com/track/7hhhFEsPz9InY63Hlv57M6) | [Tera de Marez Oyens](https://open.spotify.com/artist/5fhR1ilYTVgR1EjqTgvLHm) | [Anthology of Dutch Electronic Tape Music Vol\. 2 \- 1966\-1977](https://open.spotify.com/album/4Lv3H6ySEVvu8e9pC0jZXw) | 7:39 | 2021-08-20 |  |
 | [Scared Trip](https://open.spotify.com/track/5jpaEx8IAmMjxKBLkkbiSz) | [Doris Hays](https://open.spotify.com/artist/30aJbd0SvZblg2ndyT5aty) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 2:14 | 2021-08-20 |  |
-| [Schlum Rooli](https://open.spotify.com/track/1WQxnpFzE59xjsfwh3Kket) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/0akNc1a1mIGFiT9p7tnY1Y) | 1:57 | 2021-08-20 |  |
+| [Schlum Rooli](https://open.spotify.com/track/1WQxnpFzE59xjsfwh3Kket) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/0akNc1a1mIGFiT9p7tnY1Y) | 1:57 | 2021-08-20 | 2022-12-05 |
 | [Schlum Rooli](https://open.spotify.com/track/5vTUz0aKadxG9yqnie0H1b) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/2rT5TTG2aomPh1tzk1XAWi) | 1:57 | 2021-08-20 | 2022-07-29 |
+| [Schlum Rooli](https://open.spotify.com/track/61R4Io1rQNmjt8ADYgPy80) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/5aFoHXeyer4v4XXGlOnTf6) | 1:57 | 2021-08-20 |  |
 | [Souffle d'un petit Dieu distrait](https://open.spotify.com/track/5sA8u6ktVldrgmgnikx4zj) | [Beatriz Ferreyra](https://open.spotify.com/artist/0OPtaxS6whUvvhElm7AMLL) | [Sonic Circuits V](https://open.spotify.com/album/6LFMcZAHDGQqyRHRp0j6BO) | 13:23 | 2021-08-20 |  |
 | [Study for Voice and Tape](https://open.spotify.com/track/7vrvKZU7gsRgh3yMBr07OY) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 5:17 | 2021-08-20 |  |
 | [Syrinx](https://open.spotify.com/track/06eSnB7R0JhrwYB4T6Yh9p) | [Ann McMillan](https://open.spotify.com/artist/3nkJlJgyyAaAt65HiVd5sn) | [Gateway Summer Sound: Abstracted Animal and Other Sounds](https://open.spotify.com/album/03fcPtUqa1l0m93RRt6kt4) | 4:37 | 2021-08-20 |  |

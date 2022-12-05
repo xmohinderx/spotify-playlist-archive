@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-114 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+115 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2022-09-09 |  |
 | [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2022-11-11 | 2022-11-25 |
 | [i'm tired of feeling this way](https://open.spotify.com/track/0A6dTlWYD2magT5bqUyZLM) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/2H51wbj4LoKu3MS1enfhFd) | 2:28 | 2022-09-09 | 2022-11-19 |
-| [i'm tired of feeling this way](https://open.spotify.com/track/2mMiPaGWOjFUc10hsPEzUc) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/6ZpXzyp96Gd9FD5yCCv6zK) | 2:28 | 2022-11-11 |  |
+| [i'm tired of feeling this way](https://open.spotify.com/track/4mHrmcVE8XTWQS8J48HAfQ) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/3EeewDR7dV1MjiWf1kfX5R) | 2:28 | 2022-11-11 |  |
+| [i'm tired of feeling this way](https://open.spotify.com/track/2mMiPaGWOjFUc10hsPEzUc) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/6ZpXzyp96Gd9FD5yCCv6zK) | 2:28 | 2022-11-11 | 2022-12-05 |
 | [Iktara \- Lofi Flip](https://open.spotify.com/track/7JOFplrLQfYkuEcWCASZDo) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Iktara \(Lofi Flip\)](https://open.spotify.com/album/21bNH0z2JgCevs7f6gNRgJ) | 2:53 | 2022-09-09 |  |
 | [Imagination](https://open.spotify.com/track/5bttUhX2smfy7urwlidPfG) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Patient Zero](https://open.spotify.com/artist/7z6qM92XcUIwugTRs2PcmZ) | [Imagination](https://open.spotify.com/album/4Mm3zqe5BaCECuV8spp9ZG) | 1:44 | 2022-09-09 |  |
 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 | 2022-09-16 |  |

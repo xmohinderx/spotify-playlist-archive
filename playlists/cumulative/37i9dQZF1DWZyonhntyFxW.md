@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎<br/>! غلاف: ابو الانوار
 
-118 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+119 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [كابتن \(feat\. Rafiek\)](https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن \(feat\. Rafiek\)](https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G) | 2:58 | 2022-11-28 |  |
 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 | 2022-05-10 | 2022-12-04 |
 | [متجلونش \(feat\. EL Waili\)](https://open.spotify.com/track/3BryCsgMtODlRpRIzsa4wF) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [متجلونش \(feat\. EL Waili\)](https://open.spotify.com/album/26ZLUpGMZDZUEet4BTeE9U) | 3:09 | 2022-11-28 |  |
-| [مش شايفك](https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg) | 3:01 | 2022-07-28 |  |
+| [مش شايفك](https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg) | 3:01 | 2022-07-28 | 2022-12-05 |
+| [مش شايفك \(feat\. Rafiek\)](https://open.spotify.com/track/6sauc8XwEVUeYCa9IQIPgq) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك \(feat\. Rafiek\)](https://open.spotify.com/album/7Hr0AmspLfPsPCsXlKyNjl) | 3:01 | 2022-11-28 |  |
 | [مين يتحدى](https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Tasneem El Aidy](https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx), [Dafencii](https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC) | [مين يتحدى](https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm) | 2:08 | 2022-06-28 | 2022-11-04 |
 | [نرجسه](https://open.spotify.com/track/0RpasZfuIcTzJURLIoQr8u) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [آمل](https://open.spotify.com/album/2kjRdr3nzgOGPPWQctC91A) | 2:33 | 2022-07-28 | 2022-10-13 |
 | [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-20 | 2022-07-21 |

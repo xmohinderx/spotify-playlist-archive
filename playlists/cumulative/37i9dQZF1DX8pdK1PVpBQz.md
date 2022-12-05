@@ -4,7 +4,7 @@
 
 > The top tracks from Fresh Finds AU & NZ this year\. Cover: RONA.
 
-1,493 songs - 3 day 10 hr 52 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
+1,494 songs - 3 day 10 hr 54 min - [published](https://open.spotify.com/playlist/6SzaS17cgVZQMPJsRPmBsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,8 @@
 | [Hopeless](https://open.spotify.com/track/47YwOuDwrk0VL0NbCXqHhL) | [Flowertruck](https://open.spotify.com/artist/4T6E4qe9F934xkyQrV4KOe) | [Hopeless](https://open.spotify.com/album/3eXCN0choCwFpHG1rn0Hme) | 3:57 | 2022-08-24 | 2022-09-06 |
 | [Hospital](https://open.spotify.com/track/7eXB4FoqJySCjJyaOtZjR6) | [Lévyne](https://open.spotify.com/artist/2Eh0Mfa8jiw9540B3o5P0N) | [Hospital](https://open.spotify.com/album/69OwaB5tAs3w5YZm85nLiA) | 3:55 | 2022-11-16 | 2022-12-01 |
 | [HOT COFFEE](https://open.spotify.com/track/5SzO1JqUUQ5gfIOGEdPyiP) | [BANTA.](https://open.spotify.com/artist/67cC7FAq0g7QBM0AtxLrxl), [Snory](https://open.spotify.com/artist/0dqFBXDxYVSrc3UfXzAYaT) | [HOT COFFEE](https://open.spotify.com/album/7c214bkLaFeeF2d8TfFFjn) | 1:48 | 2022-08-03 | 2022-09-01 |
-| [HOUDINI](https://open.spotify.com/track/77qqkGyIATml8aUFgHSbBN) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/71S8wbGOnbvDHd10xyA7Mt) | 2:37 | 2022-10-26 |  |
+| [HOUDINI](https://open.spotify.com/track/6ZEEp282K8eqwV7EG59mwD) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/0MCR2VzikC4fNV3VQFEKZl) | 2:37 | 2022-12-02 |  |
+| [HOUDINI](https://open.spotify.com/track/77qqkGyIATml8aUFgHSbBN) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [HOUDINI](https://open.spotify.com/album/71S8wbGOnbvDHd10xyA7Mt) | 2:37 | 2022-10-26 | 2022-12-05 |
 | [How Do You Know?](https://open.spotify.com/track/1qrQrm2CgPjT6VDDFGA39B) | [Daffodils](https://open.spotify.com/artist/7rd77Dy0EZx6577VFjK13T) | [How Do You Know?](https://open.spotify.com/album/3yxhZNc0JHuZeIkzvn3hVf) | 4:20 | 2022-04-20 | 2022-05-12 |
 | [Human Zoo](https://open.spotify.com/track/0wdkTpvUs6rPRwgHYtQnlL) | [Greatest Hits](https://open.spotify.com/artist/096xZXholjETCjDpZ2wcah) | [Human Zoo](https://open.spotify.com/album/6c3jms2yJdwk8HpOanwctE) | 3:44 | 2022-08-10 | 2022-09-15 |
 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2022-11-23 | 2022-12-01 |

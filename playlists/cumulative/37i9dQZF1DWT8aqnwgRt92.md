@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-367 songs - 23 hr 35 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+368 songs - 23 hr 39 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 | 2022-09-07 |
 | [BRAND NEW OLD](https://open.spotify.com/track/6tAnM7cQ8VLtf2IeTLMM6S) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [BRAND NEW OLD](https://open.spotify.com/album/3wxxn744YNZpYA6C54B7A8) | 3:33 | 2022-09-27 | 2022-11-03 |
 | [Break it down](https://open.spotify.com/track/02nlVJ1d4g2owvbYcQJxU8) | [花村想太 & Lil' Fang](https://open.spotify.com/artist/11HEi67ZGn2FtoXXzF2x85) | [Break it down](https://open.spotify.com/album/2S7iwXjsGnVZeSL49UJLta) | 3:47 | 2022-07-12 | 2022-08-17 |
-| [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/5FTyvoW0szvB83VY5lQPgP) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/3HoxvfHDsMRrRNMcx8rljY) | 3:24 | 2022-11-13 |  |
+| [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/5FTyvoW0szvB83VY5lQPgP) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/3HoxvfHDsMRrRNMcx8rljY) | 3:24 | 2022-11-13 | 2022-12-05 |
 | [Bring Back](https://open.spotify.com/track/3lodN8CY4ZQIIvlQDEB0Lu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Bring Back / RISE / FAITH](https://open.spotify.com/album/1wJGXZKiWW2wZ9VQ3mkgB1) | 3:29 | 2022-05-28 | 2022-07-08 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-05-28 | 2022-07-06 |
 | [Car♡Wash♡Girl](https://open.spotify.com/track/2ijNxRyvM9bEqNZPo1ievQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 3:37 | 2022-10-25 |  |
@@ -119,6 +119,7 @@
 | [Ladder](https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [Ladder](https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa) | 3:40 | 2022-11-02 |  |
 | [LEATHER COVER](https://open.spotify.com/track/33AG9O2QUCfYup79rfz7qi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [ENGING THEME SONG FROM TV SERIES ”PRINCESS OF THE BIBLIOPHILE”](https://open.spotify.com/album/720ybDM2QcbIIgt5DyVJVg) | 4:23 | 2022-11-02 | 2022-11-25 |
 | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/track/003IincqbYZ9SZEpllxioR) | [アオペラ \-aoppella!?\-](https://open.spotify.com/artist/7d0VsdNnoJIRVnkiVzNjXz), [FYA'M'](https://open.spotify.com/artist/5NPcDFXZyCEtB0JLztECWs) | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/album/6ifpkHqvOBWrRzTke7mNAZ) | 3:25 | 2022-05-28 | 2022-07-06 |
+| [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 | 2022-12-04 |  |
 | [Love\-Evidence](https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Love\-Evidence](https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG) | 3:25 | 2022-05-28 | 2022-06-24 |
 | [Magic×Color \- TV ver.](https://open.spotify.com/track/3mUkn8ac2JP1DUYELsdNgS) | [鈴木杏奈](https://open.spotify.com/artist/1rurXiTSARlQc9Q3ybRuwX) | [Magic×Color \(TV ver.\)](https://open.spotify.com/album/5aevfaKvoBEKM1qhkFMekE) | 1:44 | 2022-07-28 | 2022-08-17 |
 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 | 2022-11-24 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-75 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
+76 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/6CSS7RARjkDOfGavjcxjur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2022-07-22 |  |
 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 | 2022-08-19 |  |
 | [Runnin' \- Instrumental](https://open.spotify.com/track/2HlDkSeQVfB6Q7QTo8TnY5) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 5:02 | 2022-07-22 |  |
-| [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 | 2022-10-14 |  |
+| [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 | 2022-10-14 | 2022-12-05 |
 | [seed](https://open.spotify.com/track/1nmqvyLwzIbdcmKKcUDKL5) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7) | 2:00 | 2022-07-22 | 2022-11-20 |
+| [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 | 2022-10-14 |  |
 | [seed](https://open.spotify.com/track/4P5vUfzQEQQGelK4czaXan) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 2:00 | 2022-10-14 | 2022-11-24 |
 | [Shadowboxin' \- Instrumental](https://open.spotify.com/track/7rb4JTVMMK4bjDablnn9nb) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Liquid Swords \(Expanded Edition\)](https://open.spotify.com/album/1i4Ju3OL0Tq6QaAO2OUVdE) | 3:29 | 2022-07-22 |  |
 | [Skywalker OG](https://open.spotify.com/track/0nsy6CzRDmy51hOtNyri3F) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/2I2DTmcpsCJbC0cValamUf) | 1:54 | 2022-09-23 | 2022-11-20 |

@@ -2931,6 +2931,24 @@
     {
       "album": {
         "name": "Necessary, Pt. II",
+        "url": "https://open.spotify.com/album/0pRSaNNSnqJoyDTw5BI1H7"
+      },
+      "artists": [
+        {
+          "name": "Vaz",
+          "url": "https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256213,
+      "name": "Winterman",
+      "url": "https://open.spotify.com/track/1fKbcZD1kAoPt9cVtfAjbf"
+    },
+    {
+      "album": {
+        "name": "Necessary, Pt. II",
         "url": "https://open.spotify.com/album/6AVPCXaMjNul5KBLLS4ktr"
       },
       "artists": [
@@ -2959,7 +2977,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 256213,
       "name": "Winterman",
       "url": "https://open.spotify.com/track/71wISWLeVQBqgZwh8JSIuA"

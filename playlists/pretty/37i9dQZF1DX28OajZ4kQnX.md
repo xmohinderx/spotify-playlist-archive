@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 533 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 46 | [Can You Imagine](https://open.spotify.com/track/2RFWIe4Kyuydzgo7kBJQ8E) | [Rey Macc](https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv), [Isaiah Misanvu](https://open.spotify.com/artist/5mR64cshBueO6oPDga4cgh) | [Can You Imagine](https://open.spotify.com/album/26ZsfOw4zyS5q3QUh0mZdk) | 3:17 |
 | 47 | [Ndolelele](https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH), [Sharon Sento](https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy) | [NDURA EP](https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG) | 3:23 |
 | 48 | [Been Bout My Thang](https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K) | [Lyrical G](https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ), [GNL Zamba](https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK) | [Geezy](https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd) | 3:04 |
-| 49 | [Kaazi](https://open.spotify.com/track/0lDoCgY33JV4rEllLJ8ubM) | [Papa T](https://open.spotify.com/artist/2peeEhDPkww9q5KWsbvcaC), [Rie](https://open.spotify.com/artist/67qQPzQB13ihMnIwS27kbr) | [Kaazi](https://open.spotify.com/album/57Ad8YNHXuOYMzpVVbvC9L) | 4:09 |
+| 49 | [Kaazi](https://open.spotify.com/track/0lDoCgY33JV4rEllLJ8ubM) | [Paapa T](https://open.spotify.com/artist/7Ii9A3fiHC0LWGzgjekkba), [Rie](https://open.spotify.com/artist/67qQPzQB13ihMnIwS27kbr) | [Kaazi](https://open.spotify.com/album/57Ad8YNHXuOYMzpVVbvC9L) | 4:09 |
 | 50 | [Nobody](https://open.spotify.com/track/6krUogRWd9GJTqmLX4qiGH) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp), [J\-Wats](https://open.spotify.com/artist/5SICeSfCoS3DTaNhNnZj94) | [Nobody](https://open.spotify.com/album/6jLFWGaIVgdgKXBIJZKkNn) | 3:43 |
 
 Snapshot ID: `MTY2OTk1NzU0MywwMDAwMDAwMDVmN2I2NDQzNjY1ZjQ0MDIwNWM2YTU5NjI4MTA1Y2U3`

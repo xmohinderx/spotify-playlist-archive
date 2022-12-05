@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > i only speak pru pru pru pru pru my friend🇧🇷🇧🇷🇧🇷🇧🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,305 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,106 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

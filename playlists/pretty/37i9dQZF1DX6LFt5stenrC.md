@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896 likes - 50 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 897 likes - 50 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 13 | [We Are The Crystal Gems \(feat\. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Tom Scharpling\) \- Full Theme Song](https://open.spotify.com/track/0xmniyyldEt2E0T0sPvpOq) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Deedee Magno Hall](https://open.spotify.com/artist/5QGswxSXQUHzQoc2r9hVPI), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Michaela Dietz](https://open.spotify.com/artist/3MBBCjjwCjbeikYXPswyZc), [Tom Scharpling](https://open.spotify.com/artist/7mC1wcdVz5yzAWC9wjrigv), [Zach Callison](https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 2:26 |
 | 14 | [Add a Little Fancy \(Fancy Nancy Main Title\)](https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:53 |
 | 15 | [Everything Is Not As It Seems \- Series Theme Song](https://open.spotify.com/track/5U4wYRHrCRxRP6iQfM824C) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Wizards of Waverly Place](https://open.spotify.com/album/2aXmfPpn8Hq7B5gxOTxxi4) | 0:50 |
-| 16 | [Muppet Babies Theme 2018](https://open.spotify.com/track/4LZXzrdzNjNNhXj6rW3XTO) | [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:01 |
-| 17 | [PAW Patrol Opening Theme](https://open.spotify.com/track/1yWYXhJCbiWHH9bLcG1ptK) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 0:40 |
+| 16 | [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 |
+| 17 | [Muppet Babies Theme 2018](https://open.spotify.com/track/4LZXzrdzNjNNhXj6rW3XTO) | [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:01 |
 | 18 | [Bringing This Baby Home](https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:49 |
 | 19 | [Power Rangers Dino Charge Theme Song \- Extended Full Version](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [Noam Kaniel](https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI) | [Power Rangers Dino Charge Theme Song](https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0) | 1:55 |
 | 20 | [Call Me, Beep Me! \(The Kim Possible Song\)](https://open.spotify.com/track/47HmhXbYlMIxpN2ChwNMh9) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Songs from Kim Possible \(Original Soundtrack\)](https://open.spotify.com/album/611TrABNivsGExe1eqIRur) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 49 | [Alexa & Katie Main Title Theme \- A Netflix Original Series](https://open.spotify.com/track/5iLwDu3hzut3oj4MIfFL6j) | [Paris Berelc](https://open.spotify.com/artist/6O4Tnp9X3FIOor5qZrBT2Q) | [Alexa & Katie Main Title Theme \(A Netflix Original Series\)](https://open.spotify.com/album/5gkrODtW8NqeCa9fZiGe0x) | 0:31 |
 | 50 | [The Bha Bha Song \- We Baby Bears Theme](https://open.spotify.com/track/4V8udbNRFRxdMOpAt9XhY8) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [The Bha Bha Song \(We Baby Bears Theme\)](https://open.spotify.com/album/6lzpOh8pKR7SQ9Vq5NHzUV) | 2:45 |
 
-Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMGRjOTIzNmYwMWFjOWU1ZDNhODM0YjgyMDY2ZjQ5OTVk`
+Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDljMDRlN2U4MTM5OGI5M2EzZWIwYzdkYzVlZDExODM1`

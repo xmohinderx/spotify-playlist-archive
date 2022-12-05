@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/2qdl1OzkEdMIjDdU6N0mTK)
+71 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/2qdl1OzkEdMIjDdU6N0mTK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Cry Baby](https://open.spotify.com/track/3QQKbpLfV89Jcl33vWrIWI) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/6IqhUb6X6WWRm2hde1MiyT) | 2:54 | 2022-09-08 |  |
 | [Deeper](https://open.spotify.com/track/27oOAuxSK69G8PN3UrkeoA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 2:36 | 2022-09-08 |  |
 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 | 2022-09-08 |  |
-| [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 | 2022-09-08 |  |
+| [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 | 2022-09-08 | 2022-12-05 |
+| [Dizzy](https://open.spotify.com/track/6RQzfmZSfGZ0jgvG2DJp0d) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/1nojYUUt3enwz0qoR4pPJ9) | 3:36 | 2022-12-04 |  |
 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 | 2022-09-08 |  |
 | [Down with Ya \(feat\. Madcon\)](https://open.spotify.com/track/6t43w43IpQxBt5IrEUqgdy) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Head for the stars](https://open.spotify.com/album/2pvzF6KG5eCbmSTgmTTiHe) | 3:44 | 2022-09-08 |  |
 | [Dreams](https://open.spotify.com/track/6VMqlhUv1V98yKas8xMefk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:40 | 2022-09-08 |  |

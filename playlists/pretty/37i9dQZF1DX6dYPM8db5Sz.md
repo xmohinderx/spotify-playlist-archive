@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest South African indie music\. Cover: <a href="https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=aCjbTw\-CQk6Ogh9Mj5Fu\_A">Kloudink</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,136 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,143 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

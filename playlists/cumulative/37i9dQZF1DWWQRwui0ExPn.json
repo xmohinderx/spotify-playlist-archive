@@ -2510,6 +2510,24 @@
     },
     {
       "album": {
+        "name": "Hi-Hat Club Vol. 3 - The Jazz Files",
+        "url": "https://open.spotify.com/album/3pKNUnzgcCSqZTK8vxJFuo"
+      },
+      "artists": [
+        {
+          "name": "Dexter",
+          "url": "https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110236,
+      "name": "Again Again",
+      "url": "https://open.spotify.com/track/6XsKK4AAhAscBjzwas0D9g"
+    },
+    {
+      "album": {
         "name": "Again Again",
         "url": "https://open.spotify.com/album/0jnZnhLKRTFTikhd2Oy4VU"
       },
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 110236,
       "name": "Again Again",
       "url": "https://open.spotify.com/track/77omfn3pGoGathPSMxmYjy"

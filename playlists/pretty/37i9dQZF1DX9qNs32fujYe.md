@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,963 likes - 200 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,527 likes - 200 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

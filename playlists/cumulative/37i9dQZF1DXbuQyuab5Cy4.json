@@ -765,6 +765,28 @@
     {
       "album": {
         "name": "Hell on Earth",
+        "url": "https://open.spotify.com/album/2BRkDmh59BD4RJuoHopbuE"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Hell on Earth",
+      "url": "https://open.spotify.com/track/4NhfgWzbXBtGPCbyIOGk3q"
+    },
+    {
+      "album": {
+        "name": "Hell on Earth",
         "url": "https://open.spotify.com/album/7dnhkoLh6CayRg3B1HVEXe"
       },
       "artists": [
@@ -779,7 +801,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 185333,
       "name": "Hell on Earth",
       "url": "https://open.spotify.com/track/5rFtboDQj9ECmz4pAjDsta"

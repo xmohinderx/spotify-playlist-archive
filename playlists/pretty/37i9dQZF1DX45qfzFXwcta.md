@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,262 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,280 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 49 | [Cruise](https://open.spotify.com/track/2SHOKzFqELTLPVnmVAUH2u) | [Trap McGrady](https://open.spotify.com/artist/48NVhVESjFx8fte6W9Bwte) | [Love Trap](https://open.spotify.com/album/6D6WhJox7MrEtsxJwO0Xfb) | 3:23 |
 | 50 | [Beach Cruizer](https://open.spotify.com/track/7oXoDdKmi5HInxlcAkBHGr) | [Derivata](https://open.spotify.com/artist/2AiZiIawzbASzaIiG3M1bJ) | [Fatbike Ride](https://open.spotify.com/album/5R5IB0LdQ6XnXymZpoB2y3) | 2:08 |
 | 51 | [The World Is Yours](https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV) | [Will Sessions](https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB) | [The Elmatic Instrumentals](https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo) | 4:55 |
-| 52 | [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 |
+| 52 | [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 |
 | 53 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
 | 54 | [Feel Me Flow \- Original Instrumental](https://open.spotify.com/track/5JXds2GdDVL603R6yqGmD9) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Feel Me Flow/Hang Out and Hustle](https://open.spotify.com/album/4zPfTvVB9wEfNlPITAsI8d) | 3:35 |
 | 55 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 64 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
 | 65 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 
-Snapshot ID: `MTY2OTM5Mzc1MCwwMDAwMDAwMGMxZDBmMDM5Y2JlOTNmZDZhNTUzNDJkMjI2ODdlZDA0`
+Snapshot ID: `MTY2OTM5Mzc1MCwwMDAwMDAwMDM3NTYxNzI0OGRjNTFiNTI5NjY2NGEzMDk3MDNmODUz`

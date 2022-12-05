@@ -937,24 +937,6 @@
     {
       "album": {
         "name": "Stompin' Ground",
-        "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "date_added": "2020-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239666,
-      "name": "Soul Shake",
-      "url": "https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01"
-    },
-    {
-      "album": {
-        "name": "Stompin' Ground",
         "url": "https://open.spotify.com/album/4PCrKaiJuhJronKWpqVlYC"
       },
       "artists": [
@@ -969,6 +951,28 @@
       "duration_ms": 239666,
       "name": "Soul Shake",
       "url": "https://open.spotify.com/track/4NngKojec1NwiBObo7MDQo"
+    },
+    {
+      "album": {
+        "name": "Stompin' Ground",
+        "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        },
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Soul Shake",
+      "url": "https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01"
     },
     {
       "album": {

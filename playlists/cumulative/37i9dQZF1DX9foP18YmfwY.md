@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Thiago Brado
+> Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-75 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/1J3fnV789dttTCU7WX2Grj)
+77 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/1J3fnV789dttTCU7WX2Grj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,11 @@
 | [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 |  |
 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 | 2022-09-02 |  |
 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 | 2022-09-02 |  |
+| [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Resiliência \(Ao Vivo\)](https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q) | 9:29 | 2022-12-04 |  |
 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 | 2022-09-02 |  |
 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 | 2022-09-02 |  |
 | [Enlace de Amor](https://open.spotify.com/track/6b8ZRMXDEQHDSAYLJ6oF8o) | [Ilmar Quintanilha](https://open.spotify.com/artist/1lymQbTdFZx62U5HMc0mIH), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Enlace de Amor](https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp) | 4:46 | 2022-09-02 |  |
-| [Este Sou Eu](https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Este Sou Eu](https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2) | 3:39 | 2022-09-02 |  |
+| [Este Sou Eu](https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Este Sou Eu](https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2) | 3:39 | 2022-09-02 | 2022-12-05 |
 | [Estou Orando por Você](https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Estou Orando por Você](https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa) | 5:37 | 2022-09-02 |  |
 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 | 2022-09-02 |  |
 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 | 2022-09-02 |  |
@@ -81,7 +82,8 @@
 | [Todo Amor do Mundo](https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Kyrios \(Shalom Brasília 20 Anos\)](https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU) | 4:50 | 2022-09-02 |  |
 | [Tua Morada](https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Tua Morada](https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt) | 5:24 | 2022-09-02 |  |
 | [Tudo É do Pai](https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Tudo É do Pai](https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X) | 6:36 | 2022-09-02 |  |
-| [Vou Voltar](https://open.spotify.com/track/0V2B11QP6C8n2hGpJENE3N) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Magda Maria](https://open.spotify.com/artist/24Tq5n6z5eRzl3CvbMv8tl) | [Vou Voltar](https://open.spotify.com/album/3seDo2P6uXORZfBjokp0dd) | 4:09 | 2022-09-02 |  |
+| [Vale a Pena Viver \- Ao Vivo](https://open.spotify.com/track/0h268ATtcBdaQsJYN0WBJk) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Vale a Pena Viver](https://open.spotify.com/album/3MkWIEBXP5Xd0yt99tBruB) | 4:00 | 2022-12-04 |  |
+| [Vou Voltar](https://open.spotify.com/track/0V2B11QP6C8n2hGpJENE3N) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Magda Maria](https://open.spotify.com/artist/24Tq5n6z5eRzl3CvbMv8tl) | [Vou Voltar](https://open.spotify.com/album/3seDo2P6uXORZfBjokp0dd) | 4:09 | 2022-09-02 | 2022-12-05 |
 | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j) | 4:47 | 2022-09-02 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.
