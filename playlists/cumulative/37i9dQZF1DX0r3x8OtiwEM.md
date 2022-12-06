@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-559 songs - 2 day 8 hr 45 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
+560 songs - 2 day 8 hr 50 min - [published](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Eagles](https://open.spotify.com/track/3q4gmVrPTMPL8tDrNFFLmu) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Eagles](https://open.spotify.com/album/687LI57BvGEzBP2lvCmk0D) | 5:07 | 2019-08-06\* | 2020-10-21 |
 | [Easy](https://open.spotify.com/track/2LfI8RId2sMaeyrNt53JHo) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Easy](https://open.spotify.com/album/4KUqdjf1llJwcAm0j9V0uL) | 6:49 | 2021-12-18 | 2022-04-21 |
 | [EASY PREY](https://open.spotify.com/track/0QoraTPAYxv8PGvRp0ayro) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [EASY PREY](https://open.spotify.com/album/72pjKvJUd3uCgzkzNkMfzt) | 4:26 | 2022-04-15 | 2022-04-19 |
+| [EASY PREY](https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:26 | 2022-11-14 |  |
 | [Eko Plate](https://open.spotify.com/track/4LJ0JnNo6qaU3ZSQkHzlr5) | [Abe](https://open.spotify.com/artist/4DuSBVCmI9rMlrIHlS7buZ) | [Eko Plate](https://open.spotify.com/album/10kBatupJFTUuhHDUT3VT5) | 6:59 | 2019-10-19 | 2020-03-30 |
 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 | 2020-09-19 | 2022-04-21 |
 | [Elements of Trust \- Sanchez & Pietkun Remix](https://open.spotify.com/track/0TT6SbrHgkhmWx01S03jah) | [Gabriel Filip](https://open.spotify.com/artist/0RTHaVU7mWqrznMzZ9PwTP), [Pietkun](https://open.spotify.com/artist/2TAEAlmHigdK9FoOiSiruu), [Ignacio Sanchez](https://open.spotify.com/artist/61EaMjDo9dzzoU2FJVwWew) | [Elements of Trust](https://open.spotify.com/album/7aIdMrakwT0uSvy4CTsMjp) | 7:01 | 2019-08-06\* | 2019-09-13 |
@@ -379,7 +380,7 @@
 | [Prism feat\. Alissa Brianna \- Lauren Flax Remix](https://open.spotify.com/track/7LijLY7MOTsEYX6NEqKcvj) | [The Carry Nation](https://open.spotify.com/artist/0PDEs0724hDGxKb5vD5hj1), [Alissa Brianna](https://open.spotify.com/artist/5vdWcFb8KRasq8jiyCRsbJ), [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Prism feat\. Alissa Brianna \(Remixes\)](https://open.spotify.com/album/07s2tKuj0clpbNxBagMKVI) | 6:48 | 2019-08-06\* | 2019-09-19 |
 | [Prisma \- Klanglos Remix \- Radio Edit](https://open.spotify.com/track/512m11L55vWoUbqrkObdCz) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Prisma \(Klanglos Remix\)](https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h) | 3:28 | 2022-04-04 |  |
 | [Protection](https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Protection](https://open.spotify.com/album/6OKyLjichDzXZrbQF5TyTc) | 4:17 | 2021-08-05 | 2022-07-28 |
-| [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-10-28 |  |
+| [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-10-28 | 2022-12-06 |
 | [Pulsing](https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Pulsing](https://open.spotify.com/album/4WI3S9WHdO0wPocxqSXh4E) | 3:57 | 2022-07-08 | 2022-11-28 |
 | [Pure](https://open.spotify.com/track/3yICreqWo6oaNU136hP3u2) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Pure](https://open.spotify.com/album/78y3GpzYgLJWmZsbpaDqP1) | 6:05 | 2020-09-26 | 2022-10-31 |
 | [Pythia](https://open.spotify.com/track/5yxmvgjZR4hmlC1nryQaQp) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Pythia](https://open.spotify.com/album/6N1z29blqEy549cmtpV8JW) | 7:46 | 2020-07-31 | 2020-09-26 |

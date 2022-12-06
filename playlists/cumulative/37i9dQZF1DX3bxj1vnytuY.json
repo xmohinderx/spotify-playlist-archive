@@ -2834,6 +2834,28 @@
     },
     {
       "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "album": {
         "name": "XP",
         "url": "https://open.spotify.com/album/5tQTtuAYhnDoBNfcuf1Lcd"
       },
@@ -2967,6 +2989,28 @@
       "duration_ms": 423658,
       "name": "Yakar",
       "url": "https://open.spotify.com/track/2QgkP1kZPhav58whMHBOIr"
+    },
+    {
+      "album": {
+        "name": "Yekokwam",
+        "url": "https://open.spotify.com/album/2TnHnAtW5A2mpjRNHeECaK"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360991,
+      "name": "Yekokwam",
+      "url": "https://open.spotify.com/track/3Sco2ZlbYuSdLIvj85JT6v"
     },
     {
       "album": {

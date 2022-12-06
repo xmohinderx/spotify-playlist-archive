@@ -4,7 +4,7 @@
 
 > cuzcuzcuzcuz
 
-717 songs - 1 day 7 hr 50 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+721 songs - 1 day 8 hr 0 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [KLAR](https://open.spotify.com/track/10FK9EUknv3vnbEodHPPbA) | [ABDIFATAH](https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [KLAR](https://open.spotify.com/album/2fNDH0gjpEaTJJ6140y03X) | 2:37 | 2022-11-10 |  |
 | [Know Me](https://open.spotify.com/track/1SctcNUVZfMMJZrs6TvnpN) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:25 | 2022-09-08 | 2022-09-15 |
 | [Know Me](https://open.spotify.com/track/1wFFnhwaHAYSMM2JPsaYIF) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN) | 2:25 | 2022-09-12 | 2022-10-14 |
+| [Kodat](https://open.spotify.com/track/25Oronh27zORZHjhdyBgWb) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Papper&Bläck](https://open.spotify.com/album/7ntGrCVuwFDxiSr5BVh0B4) | 2:36 | 2022-12-05 |  |
 | [Kolla mig i ögonen](https://open.spotify.com/track/2nad3qYiFkWR6CEYbz3VUH) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:15 | 2022-06-07 | 2022-06-10 |
 | [Kolla på mig nu](https://open.spotify.com/track/5wGxkWz2qIJVnDdtocTtOI) | [Yousef](https://open.spotify.com/artist/6QqjrHPQjqUa9TJLJpihly) | [Kolla på mig nu](https://open.spotify.com/album/6YtP6YoL5XrHoGdnxuFjc7) | 2:17 | 2022-06-30 | 2022-07-15 |
 | [Kombo](https://open.spotify.com/track/1d3rQzgOHhmf4z7tQ12odl) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Kombo](https://open.spotify.com/album/2L0hVBAJUf7CUc6s1t3cUr) | 2:45 | 2022-11-10 |  |
@@ -445,6 +446,7 @@
 | [Millionz](https://open.spotify.com/track/05ho5WftsjIeuvCTYvepiU) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Millionz](https://open.spotify.com/album/616Iu6HKMWYke4PqqwKnCW) | 2:11 | 2022-02-15 | 2022-03-09 |
 | [MILLY](https://open.spotify.com/track/06HHolCxacIrz0nsK4APTv) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [MILLY](https://open.spotify.com/album/5RYmLEiBxdw2VP8s9Ebd3L) | 2:11 | 2022-10-13 | 2022-10-29 |
 | [Milly](https://open.spotify.com/track/3UjxSOYjAHZVYu7bfebKJ9) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Milly](https://open.spotify.com/album/5t0JJOfYML4rJrTuyvLSZB) | 2:11 | 2022-10-27 | 2022-11-18 |
+| [Min Nivå](https://open.spotify.com/track/0Tcu3pNKaqTg5NkJVzqt5V) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Papper&Bläck](https://open.spotify.com/album/7ntGrCVuwFDxiSr5BVh0B4) | 2:34 | 2022-12-05 |  |
 | [Min sida](https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Min sida](https://open.spotify.com/album/4gckrKgW6eka6u8q9LA2DC) | 2:27 | 2022-10-27 |  |
 | [MIN STAD](https://open.spotify.com/track/3tSeUbkWsjR3UefmwDc046) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [MIN STAD](https://open.spotify.com/album/4ez2xrSeVr87MLvQu9Rncq) | 3:11 | 2022-03-03 | 2022-05-27 |
 | [Min Tid](https://open.spotify.com/track/6RAKfOFmUcFJP96OkmYiPL) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 2:21 | 2022-02-25 | 2022-03-25 |
@@ -506,6 +508,7 @@
 | [Paljetter](https://open.spotify.com/track/1mhKQx5uP7LIzJC6kx5AEj) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2), [Nader](https://open.spotify.com/artist/7l1XppnaWcSLWRWPCJosTh) | [Paljetter](https://open.spotify.com/album/1zYzcpxhsnQM7GujflCr7v) | 3:03 | 2022-05-26 | 2022-06-10 |
 | [Paparazzi](https://open.spotify.com/track/5HfICLgQFsCltw5f9nWFtd) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Paparazzi](https://open.spotify.com/album/4gGBV89v9lf8UxOkhqr6Ea) | 2:11 | 2021-12-16 | 2022-02-11 |
 | [Papi](https://open.spotify.com/track/7Ey5RUzLbRqndxNFZGxBSQ) | [Elvis](https://open.spotify.com/artist/3A0bILim1KH4gOhxr7O51k) | [Papi](https://open.spotify.com/album/5c694uCD3COYuOqwM0rGAb) | 2:37 | 2022-02-28 | 2022-03-11 |
+| [Papper&Bläck](https://open.spotify.com/track/76h25GVqMKQvRI3hR4BRxg) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Papper&Bläck](https://open.spotify.com/album/7ntGrCVuwFDxiSr5BVh0B4) | 2:07 | 2022-12-05 |  |
 | [PARA KOMMER PARA GÅR](https://open.spotify.com/track/7HdL9sS0cLVdUZIbPaWFgX) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [PARA KOMMER PARA GÅR](https://open.spotify.com/album/5bF9HRZrgZjM0hD3JYGXPB) | 2:36 | 2022-06-09 | 2022-06-17 |
 | [Paradis](https://open.spotify.com/track/4MsSHqcST3hs4bZiSYHAZt) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Paradis](https://open.spotify.com/album/6ZbYcqBcScLskrMC6T8McA) | 3:26 | 2022-05-05 | 2022-07-29 |
 | [Paradise Lost](https://open.spotify.com/track/52fb3usXUKzxPy7unqwfLs) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 3:47 | 2022-04-11 | 2022-04-29 |
@@ -625,6 +628,7 @@
 | [TBX](https://open.spotify.com/track/56pC18AuAtMsZ9v9Zvlawk) | [B.M.A](https://open.spotify.com/artist/7u4EK4hD90g4KfyVWzU6R3) | [TBX](https://open.spotify.com/album/5He2p8riLLP9baO38RqzFB) | 2:15 | 2022-03-10 | 2022-03-25 |
 | [Team 2 much](https://open.spotify.com/track/7bSN1NwVdOTVNUKuwzj6ev) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Team 2 much](https://open.spotify.com/album/6QSDohjNFcchOA3sIZcJFY) | 2:43 | 2022-06-02 | 2022-07-01 |
 | [Tempo](https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Tempo](https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT) | 2:31 | 2022-07-29 | 2022-10-14 |
+| [TEQUILA](https://open.spotify.com/track/02zULMt0W0QUBbNANEiOHt) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [RVN1](https://open.spotify.com/artist/3kNiOipuz26xsMq19AcKxy) | [RVN X JB TEQUILA](https://open.spotify.com/album/3FR8uBALdiYGs0dBPFcKQk) | 2:35 | 2022-12-05 |  |
 | [The Town](https://open.spotify.com/track/0iHQD3mRm4QZMfLSZUQcwl) | [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [The Town](https://open.spotify.com/album/0IVxLy1T3bsxSPDu9HAeuY) | 2:43 | 2022-01-25 | 2022-03-05 |
 | [THIS IS SWEDEN](https://open.spotify.com/track/3V3JLjSoFwiFpMLR4i2WoZ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [THIS IS SWEDEN](https://open.spotify.com/album/2QMWHihNqo4gLIQQJc4YMF) | 2:36 | 2022-02-03 | 2022-03-21 |
 | [Thug Part 2](https://open.spotify.com/track/06kMUDNk8XfiTdc5GVqsER) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Thug Part 2](https://open.spotify.com/album/1L5PlhGUyk4ANyM3TmnYE5) | 3:08 | 2022-03-17 | 2022-06-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53152,
+  "num_followers": 53151,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDIyMDk0ZTAyNzcxNDQzZGJiZjM2MzBmZTE2ZDE3M2Vm",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDU2NTQyNDUzMzQ2YjE3MjEwZGQxOGM4ZWQ0NjgwMGI1",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -411,6 +411,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 378239,
+      "name": "Shakespeare",
+      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Street Spirit (Fade Out)",
         "url": "https://open.spotify.com/album/23wLaTvnMb3pSb3uxnQE3E"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Richard Cory",
-      "url": "https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Kerplunk!",
         "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
       },
@@ -475,18 +475,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
       "artists": [
         {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 378239,
-      "name": "Shakespeare",
-      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
+      "duration_ms": 175666,
+      "name": "Richard Cory",
+      "url": "https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Kning Disk 2005-2012 Box Set",
-        "url": "https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r"
-      },
-      "artists": [
-        {
-          "name": "Erik Enocksson",
-          "url": "https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex"
-        }
-      ],
-      "duration_ms": 244312,
-      "name": "The Joy of D.H. Lawrence",
-      "url": "https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Com Lag: 2+2=5",
         "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 238280,
       "name": "Paperbag Writer",
       "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Kning Disk 2005-2012 Box Set",
+        "url": "https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r"
+      },
+      "artists": [
+        {
+          "name": "Erik Enocksson",
+          "url": "https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex"
+        }
+      ],
+      "duration_ms": 244312,
+      "name": "The Joy of D.H. Lawrence",
+      "url": "https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Literature Lovers",
-        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
-      },
-      "artists": [
-        {
-          "name": "Jose Vanders",
-          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Literature Lovers",
-      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Winter Wheat",
         "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 203091,
       "name": "Postdoc Blues",
       "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Literature Lovers",
+        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
+      },
+      "artists": [
+        {
+          "name": "Jose Vanders",
+          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Literature Lovers",
+      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -795,18 +795,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "And Don't The Kids Just Love It",
-        "url": "https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT"
+        "name": "First Songs",
+        "url": "https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ"
       },
       "artists": [
         {
-          "name": "Television Personalities",
-          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
+          "name": "Michael Hurley",
+          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
         }
       ],
-      "duration_ms": 131720,
-      "name": "A Picture Of Dorian Gray",
-      "url": "https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB"
+      "duration_ms": 448013,
+      "name": "The Tea Song",
+      "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
     }
   ],
   "unique_name": "The Writer's Playlist",

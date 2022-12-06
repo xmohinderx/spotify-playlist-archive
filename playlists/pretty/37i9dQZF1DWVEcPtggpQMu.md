@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5?si=xsgxChjCRya87hLza\_FLvw">DJ Sliqe</a> , <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=ww0kbUyXSG2YbDOi3Wx4MA">Maglera Doe Boy</a> and <a href="https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=\-w0WXrX3Tli0DjW4yhGlkg">25K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,773 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,782 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

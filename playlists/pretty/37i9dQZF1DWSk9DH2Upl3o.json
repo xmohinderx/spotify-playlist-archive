@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 10617,
+  "num_followers": 10668,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDc1Mjg0MjMwMWJhYTJmNzVjOWI4YTJmM2IyZWY4NjUz",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGZiNWZiNDE5MGQ2M2NlYjA5ZmU1NjI4YThmNzViMDJh",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
-      },
-      "artists": [
-        {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
-        }
-      ],
-      "duration_ms": 306840,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Interludes For The Dead (feat. Neal Casal)",
         "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 565240,
       "name": "Saturday's Children (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
+      },
+      "artists": [
+        {
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
+        }
+      ],
+      "duration_ms": 306840,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf"
-      },
-      "artists": [
-        {
-          "name": "Umphrey's McGee",
-          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
-        }
-      ],
-      "duration_ms": 186763,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Megagem",
@@ -299,6 +283,22 @@
       "duration_ms": 393360,
       "name": "Mucho",
       "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf"
+      },
+      "artists": [
+        {
+          "name": "Umphrey's McGee",
+          "url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o"
+        }
+      ],
+      "duration_ms": 186763,
+      "name": "Hiccup",
+      "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "The Arcade",
-        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "I Am The Moon: III. The Fall",
@@ -381,6 +365,22 @@
       "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
     },
     {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "The Arcade",
+        "url": "https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
+    },
+    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Microdosio",
@@ -395,6 +395,22 @@
       "duration_ms": 331570,
       "name": "Cubensis",
       "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 451253,
+      "name": "How Long...",
+      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -427,22 +443,6 @@
       "duration_ms": 263198,
       "name": "Electric Taco Stand",
       "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 451253,
-      "name": "How Long...",
-      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 339120,
+      "name": "Opelika Yella",
+      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Casino Cabaret",
-        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 448385,
-      "name": "Mr. Scientist",
-      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Night Lights",
         "url": "https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Casino Cabaret",
+        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
+      },
+      "artists": [
+        {
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+        }
+      ],
+      "duration_ms": 448385,
+      "name": "Mr. Scientist",
+      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 339120,
-      "name": "Opelika Yella",
-      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Collisions",
         "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 327541,
       "name": "Mokuba",
       "url": "https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Tracking Buffalo Through the Bathtub",
+        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
+      },
+      "artists": [
+        {
+          "name": "The Big Wu",
+          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
+        }
+      ],
+      "duration_ms": 532666,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -627,38 +643,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Tracking Buffalo Through the Bathtub",
-        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
-      },
-      "artists": [
-        {
-          "name": "The Big Wu",
-          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
-        }
-      ],
-      "duration_ms": 532666,
-      "name": "Red Sky",
-      "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Trouble Overnight",
-        "url": "https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle"
-      },
-      "artists": [
-        {
-          "name": "Zach Nugent",
-          "url": "https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn"
-        }
-      ],
-      "duration_ms": 408773,
-      "name": "Trouble Overnight",
-      "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 412707,
       "name": "Galactic Passport",
       "url": "https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+        "name": "Trouble Overnight",
+        "url": "https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle"
       },
       "artists": [
         {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+          "name": "Zach Nugent",
+          "url": "https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn"
         }
       ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
+      "duration_ms": 408773,
+      "name": "Trouble Overnight",
+      "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -801,24 +801,20 @@
       "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Adult Entertainment",
-        "url": "https://open.spotify.com/album/4XBDWweRR7036JySp1V0rV"
+        "name": "Best in Show",
+        "url": "https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC"
       },
       "artists": [
         {
-          "name": "WOLF!",
-          "url": "https://open.spotify.com/artist/4Xp09N3LwGCuUqyXNRHaVR"
-        },
-        {
-          "name": "Scott Metzger",
-          "url": "https://open.spotify.com/artist/0ZILxKPM8Y2vYZ1UToHidc"
+          "name": "Aqueous",
+          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
         }
       ],
-      "duration_ms": 207150,
-      "name": "Cottonmouth",
-      "url": "https://open.spotify.com/track/05ai1Lup5CO5qLFuytjHVX"
+      "duration_ms": 485880,
+      "name": "Random Company",
+      "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
     }
   ],
   "unique_name": "Modern Jam Band",

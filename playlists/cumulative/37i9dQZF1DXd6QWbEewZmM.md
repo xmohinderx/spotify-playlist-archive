@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-278 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
+279 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Recuerdos](https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Recuerdos](https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws) | 3:11 | 2022-01-01 |  |
 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 | 2022-01-01 |  |
 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 | 2022-01-01 |  |
-| [Sabes](https://open.spotify.com/track/5t611UH604oEYrYUm6SVd1) | [Uliseesssss](https://open.spotify.com/artist/6IuHLYVEFYdAyXJ95RU66t) | [Sabes](https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl) | 3:38 | 2022-01-01 |  |
+| [Sabes](https://open.spotify.com/track/5t611UH604oEYrYUm6SVd1) | [Uliseesssss](https://open.spotify.com/artist/6IuHLYVEFYdAyXJ95RU66t) | [Sabes](https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl) | 3:38 | 2022-01-01 | 2022-12-06 |
 | [Sad Cuh Hours](https://open.spotify.com/track/363nkaf21Rl0I9co1ITG1D) | [Victor Leon](https://open.spotify.com/artist/6QbfPR16VF9Vic43Y0xWUo) | [Sad Cuh Hours](https://open.spotify.com/album/142n89R5IgEyDpO8Z8sHb5) | 3:50 | 2022-07-22 | 2022-09-24 |
 | [San Valentin](https://open.spotify.com/track/7vCzhTTYStL1bfYz6W90lD) | [Israel De San Antonio](https://open.spotify.com/artist/2tF8wx2Z2J6ce9ckc2PD3i) | [San Valentin](https://open.spotify.com/album/3uuuiDgAexECO1z7pzxp5V) | 4:01 | 2022-02-04 | 2022-07-15 |
 | [Sentimental](https://open.spotify.com/track/5UC3eepiSagX0bjGMOzEwa) | [Edgar Baldovino](https://open.spotify.com/artist/4bvkbZuxxVl8pvbMjzAjog) | [Sentimental](https://open.spotify.com/album/5jP6KNobUTPPnjWge0FJUC) | 3:21 | 2022-02-25 | 2022-07-05 |
@@ -280,6 +280,7 @@
 | [Ya No Puedo](https://open.spotify.com/track/4d9aNnhP67nti6DyOOjRP0) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Miguelito](https://open.spotify.com/artist/2ZGU4pX3bRp1JPLi2m2Noq) | [Escribiéndote Letras](https://open.spotify.com/album/4rHTnLVRylw6Vgt7SlEDv0) | 6:07 | 2022-01-01 | 2022-07-29 |
 | [Ya No Quiero](https://open.spotify.com/track/6ftypMzhY6uRLp7Fk4IoXv) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Ya No Quiero](https://open.spotify.com/album/0gvd3EdcW8t9gZsVFlEe8Q) | 3:25 | 2022-01-01 |  |
 | [Ya No Siente](https://open.spotify.com/track/5PEwheX3zEOf9ilNSL9sPi) | [Los Domingos](https://open.spotify.com/artist/2WyOQ7q6QdUdjS4QfBvuaj), [Grupo Nueva Sensacion](https://open.spotify.com/artist/2Xvs8ooYYMhXM6I549gExb) | [Ya No Siente](https://open.spotify.com/album/3LFC1lAETp09ncxTyFS5iH) | 3:39 | 2022-01-01 | 2022-07-21 |
+| [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 | 2022-12-05 |  |
 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0rH8r9ozxgEJVftuPOmAqg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/5pxMVrnTi6k2YhvuMpb23W) | 2:27 | 2022-01-01 | 2022-03-07 |
 | [Ya Te Superé \- En Vivo](https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Ya Te Superé \(En Vivo\)](https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt) | 3:05 | 2022-01-01 |  |
 | [Yo Voy A Amarte](https://open.spotify.com/track/2DQWbH7mMQYRuftnYPlfqQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:46 | 2022-02-25 |  |

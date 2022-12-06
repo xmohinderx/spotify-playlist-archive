@@ -4,7 +4,7 @@
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-1,970 songs - 6 day 17 hr 25 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
+1,971 songs - 6 day 17 hr 33 min - [published](https://open.spotify.com/playlist/0siys22nGZQAi8UglzoSEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1715,7 +1715,8 @@
 | [The Rings Of Saturn](https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow \(Deluxe\)](https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz) | 3:23 | 2022-07-22 | 2022-07-30 |
 | [The Road](https://open.spotify.com/track/0esuoRN38UkoNGTvEelywu) | [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Brice Soniano](https://open.spotify.com/artist/2KUigtosd6IpUDi1I1iD9c), [Toma Gouband](https://open.spotify.com/artist/2fIgCJGj48VNtC7YdHzT6h) | [The Road](https://open.spotify.com/album/7kYzDkPb9SnDgesRsTfNtd) | 5:00 | 2022-02-04 | 2022-02-19 |
 | [The Scout](https://open.spotify.com/track/3mKHDZazl2fuugMyTRE39e) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Jeppe Gram](https://open.spotify.com/artist/6HwPDkSUPabzWB8PyTPXdo), [Jonas Westergaard](https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P) | [The Scout](https://open.spotify.com/album/7pDX6sN6XxwKsuA5d17msl) | 4:24 | 2022-04-15 | 2022-04-23 |
-| [The Sensitive Ear](https://open.spotify.com/track/1FC1GiHKFKFTBfKK4Yl9I3) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Sensitive Ear](https://open.spotify.com/album/52fu0rsBfFqOLSB2e9Xxe9) | 7:38 | 2022-11-18 |  |
+| [The Sensitive Ear](https://open.spotify.com/track/1FC1GiHKFKFTBfKK4Yl9I3) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Sensitive Ear](https://open.spotify.com/album/52fu0rsBfFqOLSB2e9Xxe9) | 7:38 | 2022-11-18 | 2022-12-06 |
+| [The Sensitive Ear](https://open.spotify.com/track/6aW1AEpeLpjkLKpsiLV6rn) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Sensitive Ear](https://open.spotify.com/album/6b9uFZis5tNlLgd30RxZAJ) | 7:38 | 2022-11-18 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/0RuBT9MxTsDBpi3cEah6Dl) | [Sam Levine](https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [The Shadow of Your Smile](https://open.spotify.com/album/2QGmClb3g6YwQU1CA2aQZK) | 3:55 | 2022-09-09 | 2022-09-17 |
 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 | 2022-05-20 | 2022-05-28 |
 | [The Squad](https://open.spotify.com/track/5pDE6ZFxPrfPTNpYMMEZRD) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alberto Droguett](https://open.spotify.com/artist/4T90xdfrulR6Kr4dm4XnrC), [Kydual](https://open.spotify.com/artist/08HyLTxC7A2TTg8u52KNBK), [Matias Eliel](https://open.spotify.com/artist/2hm9Do6e3qvhE5fe9ci3qh) | [The Squad](https://open.spotify.com/album/091jVN0JJTyvg2AtHdh1xE) | 2:07 | 2022-09-02 | 2022-09-10 |

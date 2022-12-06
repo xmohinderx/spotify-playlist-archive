@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 43459,
+  "num_followers": 43490,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDk1YjVjZDhiNTkxN2Q5Yjk4Yjg2YjJlMTNjNjkyYjI2",
+  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMGViNmY4ZTliN2ZlMDllNmI2ZDkxNTVmYzE4YmZkNzgw",
   "tracks": [
     {
       "added_at": "2022-10-14 05:59:38",
@@ -131,6 +131,38 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Sou Livre",
+        "url": "https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Poror\u00f3",
+      "url": "https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "O Amor do Nosso Deus",
+      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
         "url": "https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W"
       },
@@ -163,22 +195,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Sou Livre",
-        "url": "https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Nemer",
-          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Poror\u00f3",
-      "url": "https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Aline Barros e Cia 2",
         "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
       },
@@ -191,38 +207,6 @@
       "duration_ms": 189939,
       "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
       "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Crian\u00e7as Diante do Trono",
-        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
-      },
-      "artists": [
-        {
-          "name": "Crian\u00e7as Diante do Trono",
-          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "O Amor do Nosso Deus",
-      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Minha Pequena Luz",
-        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 122626,
-      "name": "Minha Pequena Luz",
-      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -275,22 +259,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Eu Canto pra Jesus",
-        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
-      },
-      "artists": [
-        {
-          "name": "Rayne Almeida",
-          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
-        }
-      ],
-      "duration_ms": 181458,
-      "name": "Eu Canto pra Jesus",
-      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Caminho no Deserto (Vers\u00e3o Kids)",
         "url": "https://open.spotify.com/album/34EQIvp5R1X7n4chgsK1PR"
       },
@@ -311,6 +279,22 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Eu Canto pra Jesus",
+        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "duration_ms": 181458,
+      "name": "Eu Canto pra Jesus",
+      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -327,22 +311,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Caminhando Vou Para Cana\u00e3",
-        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Caminhando Vou Para Cana\u00e3",
-      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Mara Lima e Seus Amiguinhos, Vol. 5",
         "url": "https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR"
       },
@@ -355,6 +323,22 @@
       "duration_ms": 197893,
       "name": "Erguei as M\u00e3os",
       "url": "https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Minha Pequena Luz",
+        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 122626,
+      "name": "Minha Pequena Luz",
+      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -475,8 +459,8 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4"
+        "name": "Caminhando Vou Para Cana\u00e3",
+        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
       },
       "artists": [
         {
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
         }
       ],
-      "duration_ms": 137826,
-      "name": "Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG"
+      "duration_ms": 137320,
+      "name": "Caminhando Vou Para Cana\u00e3",
+      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 186967,
+      "name": "Sapo Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -507,22 +507,6 @@
       "duration_ms": 252493,
       "name": "Medley das Crian\u00e7as",
       "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 186967,
-      "name": "Sapo Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -571,22 +555,18 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Chevere (feat. Lito Atalaia)",
-        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
+        "name": "Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
         }
       ],
-      "duration_ms": 213422,
-      "name": "Chevere (feat. Lito Atalaia)",
-      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
+      "duration_ms": 137826,
+      "name": "Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -611,6 +591,26 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Chevere (feat. Lito Atalaia)",
+        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 213422,
+      "name": "Chevere (feat. Lito Atalaia)",
+      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Jesus Me Ama Tanto",
         "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 236683,
       "name": "Jesus Me Ama Tanto",
       "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Deus Grand\u00e3o",
-        "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Deus Grand\u00e3o",
-      "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -695,22 +679,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Comigo Sonhou",
-        "url": "https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV"
-      },
-      "artists": [
-        {
-          "name": "Louvor Videira Kids",
-          "url": "https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Obra do Criador - Ao Vivo",
-      "url": "https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Com Jesus",
         "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 178301,
       "name": "Com Jesus",
       "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Deus Grand\u00e3o",
+        "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Deus Grand\u00e3o",
+      "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Comigo Sonhou",
+        "url": "https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV"
+      },
+      "artists": [
+        {
+          "name": "Louvor Videira Kids",
+          "url": "https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Obra do Criador - Ao Vivo",
+      "url": "https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Festa das Cores",
-        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 206767,
-      "name": "Festa das Cores",
-      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Ao Orarmos",
         "url": "https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 189386,
       "name": "Ao Orarmos",
       "url": "https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Festa das Cores",
+        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 206767,
+      "name": "Festa das Cores",
+      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
     },
     {
       "added_at": "2022-10-14 05:59:38",

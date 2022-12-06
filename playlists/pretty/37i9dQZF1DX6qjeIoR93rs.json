@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 39715,
+  "num_followers": 39735,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDIxNjVmZTMyODAyMDJlNzY4YWVlNGE1NjJlM2Q1MGRi",
+  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMGQzYjc1ZDJhNmExMGE1ZmQ5ZGY4MTI2ZjRkMzM4ZjFm",
   "tracks": [
     {
       "added_at": "2022-09-09 12:20:11",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
+        "name": "\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la"
+      },
+      "artists": [
+        {
+          "name": "Toni Qattan",
+          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+        }
+      ],
+      "duration_ms": 196008,
+      "name": "\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
         "name": "Weino",
         "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
       },
@@ -183,18 +199,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la"
+        "name": "Ghareeb Alay",
+        "url": "https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl"
       },
       "artists": [
         {
-          "name": "Toni Qattan",
-          "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
         }
       ],
-      "duration_ms": 196008,
-      "name": "\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw"
+      "duration_ms": 175506,
+      "name": "Ghareeb Alay",
+      "url": "https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -239,42 +259,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Nirvana in Gaza",
-        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Nirvana in Gaza",
-      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
-        "name": "Ghareeb Alay",
-        "url": "https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "Balti",
-          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "Ghareeb Alay",
-      "url": "https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Dalaa Dalouna",
         "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 199334,
       "name": "Dalaa Dalouna",
       "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Nirvana in Gaza",
+        "url": "https://open.spotify.com/album/21GUygV8B9lQPtJiM0FP8k"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Nirvana in Gaza",
+      "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
       },
       "artists": [
         {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
         }
       ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -367,6 +367,22 @@
       "duration_ms": 175626,
       "name": "Kounili El Musica",
       "url": "https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -403,18 +419,18 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -439,18 +455,18 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+        "name": "Shamstep",
+        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
       },
       "artists": [
         {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
         }
       ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
+      "duration_ms": 263933,
+      "name": "Don't Care Where You From",
+      "url": "https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -475,22 +491,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Shamstep",
-        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Don't Care Where You From",
-      "url": "https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Tol Alena Ya Ghali",
         "url": "https://open.spotify.com/album/1XuiuBXF2vjJycFz4SfGJH"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 182857,
       "name": "Tol Alena Ya Ghali",
       "url": "https://open.spotify.com/track/766qbzDoCwddrG7rCqeqgD"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Ishraq Reminiscence",
+        "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
+      },
+      "artists": [
+        {
+          "name": "Sanaa Moussa",
+          "url": "https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Nijmet El-Subeh",
+      "url": "https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -531,18 +547,18 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Ishraq Reminiscence",
-        "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
-          "name": "Sanaa Moussa",
-          "url": "https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 285533,
-      "name": "Nijmet El-Subeh",
-      "url": "https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr"
+      "duration_ms": 267098,
+      "name": "Ansaki",
+      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -575,22 +591,6 @@
       "duration_ms": 274333,
       "name": "Supply Me with an Excess of Love",
       "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 267098,
-      "name": "Ansaki",
-      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
+        "name": "JABiD atini ala tawahini \u062c\u0628\u062f \u0623\u0639\u0637\u064a\u0646\u064a \u0639\u0644\u0649 \u0637\u0648\u0627\u062d\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD"
+      },
+      "artists": [
+        {
+          "name": "JABiD",
+          "url": "https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9"
+        }
+      ],
+      "duration_ms": 223361,
+      "name": "Nasheed al Alam al Falastini \u0646\u0634\u064a\u062f \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
         "name": "A3MEL ESH",
         "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "JABiD atini ala tawahini \u062c\u0628\u062f \u0623\u0639\u0637\u064a\u0646\u064a \u0639\u0644\u0649 \u0637\u0648\u0627\u062d\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD"
-      },
-      "artists": [
-        {
-          "name": "JABiD",
-          "url": "https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9"
-        }
-      ],
-      "duration_ms": 223361,
-      "name": "Nasheed al Alam al Falastini \u0646\u0634\u064a\u062f \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
         "url": "https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Mariam",
-        "url": "https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI"
-      },
-      "artists": [
-        {
-          "name": "ELCONTAINER",
-          "url": "https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Mariam",
-      "url": "https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Maskhara",
         "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 186411,
       "name": "Maskhara",
       "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Mariam",
+        "url": "https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI"
+      },
+      "artists": [
+        {
+          "name": "ELCONTAINER",
+          "url": "https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Mariam",
+      "url": "https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Today Is the day",
-        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
-      },
-      "artists": [
-        {
-          "name": "Hazy Noir",
-          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Today is the day",
-      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Laween",
         "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 208237,
       "name": "Laween",
       "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Today Is the day",
+        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
+      },
+      "artists": [
+        {
+          "name": "Hazy Noir",
+          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Today is the day",
+      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "From Here",
-        "url": "https://open.spotify.com/album/0qKoWbZXIpjgHiq0VrDuA8"
-      },
-      "artists": [
-        {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "From Here",
-      "url": "https://open.spotify.com/track/7Aa9F0saCHys1n1D71AJM3"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Na'na' Ya Na'na'",
         "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
       },
@@ -1095,6 +1079,38 @@
       "duration_ms": 255066,
       "name": "Al Rozana",
       "url": "https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Badi Ellak",
+        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Badi Ellak",
+      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/0qKoWbZXIpjgHiq0VrDuA8"
+      },
+      "artists": [
+        {
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/7Aa9F0saCHys1n1D71AJM3"
     },
     {
       "added_at": "2022-09-09 12:20:11",
@@ -1131,26 +1147,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Raka W Raka",
-        "url": "https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph"
-      },
-      "artists": [
-        {
-          "name": "Elsayed Agamy",
-          "url": "https://open.spotify.com/artist/0yp1fxlkZqiO7XZFVv81Mh"
-        },
-        {
-          "name": "Yousr Hamed",
-          "url": "https://open.spotify.com/artist/0SCPYFmL7fPMV2u7r1TcKW"
-        }
-      ],
-      "duration_ms": 191018,
-      "name": "Raka W Raka",
-      "url": "https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "Mo Light",
         "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
       },
@@ -1167,22 +1163,6 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
         "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
         "url": "https://open.spotify.com/album/5W6qkrXenVMs0caeUqL8Z2"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 185375,
       "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
       "url": "https://open.spotify.com/track/3OcsroxTDUzBDTo3xOQQqp"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
+        "name": "Raka W Raka",
+        "url": "https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph"
+      },
+      "artists": [
+        {
+          "name": "Elsayed Agamy",
+          "url": "https://open.spotify.com/artist/0yp1fxlkZqiO7XZFVv81Mh"
+        },
+        {
+          "name": "Yousr Hamed",
+          "url": "https://open.spotify.com/artist/0SCPYFmL7fPMV2u7r1TcKW"
+        }
+      ],
+      "duration_ms": 191018,
+      "name": "Raka W Raka",
+      "url": "https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT"
     },
     {
       "added_at": "2022-09-09 12:20:11",

@@ -4,7 +4,7 @@
 
 > The top 50 tracks from Fresh Finds Singapore & Malaysia in 2022\. Cover: shazza
 
-323 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+324 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Prettier](https://open.spotify.com/track/27gVlPJFyjmKpRHBrli4Dk) | [KYLA T](https://open.spotify.com/artist/6LJX1RFjWh0XsgLocxEepg) | [Prettier](https://open.spotify.com/album/3ae2FsGtb6qum3hF6LCHVh) | 3:01 | 2022-08-25 | 2022-09-23 |
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 | 2022-01-20 | 2022-07-29 |
-| [Push & Pull](https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg) | 2:32 | 2022-07-28 |  |
+| [Push & Pull](https://open.spotify.com/track/2fcBA4HrmCmgFqxg47rjOe) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/2tdcA7vZMSJXb4EVh7p3TV) | 2:32 | 2022-11-30 |  |
+| [Push & Pull](https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg) | 2:32 | 2022-07-28 | 2022-12-06 |
 | [Ready to Breathe](https://open.spotify.com/track/6aafpnwXqPrl7tLyu1d9jG) | [Rahul Advani](https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb) | [Ready to Breathe](https://open.spotify.com/album/2yWlVmAyQ6E57G1mRArgKC) | 4:03 | 2022-09-09 | 2022-09-23 |
 | [Reckless](https://open.spotify.com/track/60l7qW1hphyq0Aj7yvNpOl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Eternal Atrophy](https://open.spotify.com/album/4QI8dPnl9s6jj0hr3jqA0n) | 3:37 | 2022-06-30 | 2022-09-23 |
 | [Remember Me](https://open.spotify.com/track/0Hb5wXGFUp7UDXb0LW6mmE) | [Celeste Syn](https://open.spotify.com/artist/5iDUKJ7OHv9qOmvxAbLnHK) | [I Long To See Your Face](https://open.spotify.com/album/7rb3G65p2QMTNnGQlKzXVO) | 2:29 | 2022-09-09 | 2022-12-01 |

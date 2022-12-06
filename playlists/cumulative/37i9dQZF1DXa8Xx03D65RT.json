@@ -5065,7 +5065,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "Moment of Silence",
       "url": "https://open.spotify.com/track/6iJNQx3fdBJYnlzukRoTZU"
@@ -5667,6 +5667,24 @@
       "duration_ms": 287014,
       "name": "Oh Endless Day",
       "url": "https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr"
+    },
+    {
+      "album": {
+        "name": "Old Flame",
+        "url": "https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO"
+      },
+      "artists": [
+        {
+          "name": "Eddie Jenkins",
+          "url": "https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128146,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz"
     },
     {
       "album": {
@@ -7229,7 +7247,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 126857,
       "name": "Sioux",
       "url": "https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor"
@@ -8759,7 +8777,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 194948,
       "name": "Velez-Malaga",
       "url": "https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq"

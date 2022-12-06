@@ -1,95 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 80491,
+  "num_followers": 80525,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIzNDk3Mzc4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIzNTU2NzgwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "IPIZME",
-        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "ERIMO",
-      "url": "https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Tn",
-        "url": "https://open.spotify.com/album/4WNZOYgf1RiVPPiGTK4eln"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        }
-      ],
-      "duration_ms": 148677,
-      "name": "Tn",
-      "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "IPIZME",
-        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "PSEMA",
-      "url": "https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Gagarin",
-        "url": "https://open.spotify.com/album/7oc13DbROFU3t7TS7TjVhS"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Alitiz",
-          "url": "https://open.spotify.com/artist/27GVB6iRSOAcSejSw3BaPM"
-        }
-      ],
-      "duration_ms": 262909,
-      "name": "Gagarin",
-      "url": "https://open.spotify.com/track/3qFj5MapvQvQH4u1PIVX9n"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
@@ -113,7 +33,87 @@
       "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "IPIZME",
+        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "ERIMO",
+      "url": "https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Gagarin",
+        "url": "https://open.spotify.com/album/7oc13DbROFU3t7TS7TjVhS"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Alitiz",
+          "url": "https://open.spotify.com/artist/27GVB6iRSOAcSejSw3BaPM"
+        }
+      ],
+      "duration_ms": 262909,
+      "name": "Gagarin",
+      "url": "https://open.spotify.com/track/3qFj5MapvQvQH4u1PIVX9n"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "IPIZME",
+        "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "PSEMA",
+      "url": "https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Tn",
+        "url": "https://open.spotify.com/album/4WNZOYgf1RiVPPiGTK4eln"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "duration_ms": 148677,
+      "name": "Tn",
+      "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "UNIQUE",
         "url": "https://open.spotify.com/album/6DeYijcJrAh9jtJubejjIv"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/5Tbuk8Mr01Y53EWmrM7D4r"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/2czUL73B83n4VfVeBEfXCs"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Mystiko",
         "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "ADRENALINA",
         "url": "https://open.spotify.com/album/5llOuE82CLyPvoW9wzM1pb"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Forema",
         "url": "https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc"
@@ -229,27 +229,27 @@
       "url": "https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
-        "name": "Touch the Sky",
-        "url": "https://open.spotify.com/album/41iTWV7tuODsPdgQQzZH2c"
+        "name": "CC COMMANDOZ",
+        "url": "https://open.spotify.com/album/7rCAtdZaRBIxTyNf7Ovlwu"
       },
       "artists": [
         {
-          "name": "Solven",
-          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+          "name": "City Center",
+          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
         },
         {
-          "name": "RVPTR",
-          "url": "https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4"
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
         }
       ],
-      "duration_ms": 196849,
-      "name": "Touch the Sky",
-      "url": "https://open.spotify.com/track/6luCl1H4xq2OnLQtB7fb4z"
+      "duration_ms": 236470,
+      "name": "EMMONH",
+      "url": "https://open.spotify.com/track/2Vm1AL0pK6UIvNEiIBxsj0"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -273,27 +273,7 @@
       "url": "https://open.spotify.com/track/0OyiXp4CdjqOYDSpzgfEx7"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "CC COMMANDOZ",
-        "url": "https://open.spotify.com/album/7rCAtdZaRBIxTyNf7Ovlwu"
-      },
-      "artists": [
-        {
-          "name": "City Center",
-          "url": "https://open.spotify.com/artist/0V0TEffOhc8TSKqNyC0sjr"
-        },
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        }
-      ],
-      "duration_ms": 236470,
-      "name": "EMMONH",
-      "url": "https://open.spotify.com/track/2Vm1AL0pK6UIvNEiIBxsj0"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -313,7 +293,55 @@
       "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "duration_ms": 172121,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Melisses",
+          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
+        },
+        {
+          "name": "Skive",
+          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
+        }
+      ],
+      "duration_ms": 223076,
+      "name": "Epiloges",
+      "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "El Telephone (Remix)",
         "url": "https://open.spotify.com/album/5OYlXWtC3fZjrfW8pV41ME"
@@ -349,55 +377,7 @@
       "url": "https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Melisses",
-          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
-        },
-        {
-          "name": "Skive",
-          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
-        }
-      ],
-      "duration_ms": 223076,
-      "name": "Epiloges",
-      "url": "https://open.spotify.com/track/5btENPtD4TAjRGkC4IXafe"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
-      },
-      "artists": [
-        {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "MENJU",
-          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
-        },
-        {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        }
-      ],
-      "duration_ms": 172121,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -421,43 +401,7 @@
       "url": "https://open.spotify.com/track/0C11SdO6nuqHDx230fZ2Gh"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 175472,
-      "name": "24hrs",
-      "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Erotas",
-        "url": "https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu"
-      },
-      "artists": [
-        {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        }
-      ],
-      "duration_ms": 144386,
-      "name": "Erotas",
-      "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K"
@@ -477,71 +421,63 @@
       "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5wnROpYlI0LDF5ctSr7Lpj"
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU"
       },
       "artists": [
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         },
         {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         }
       ],
-      "duration_ms": 169351,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
+      "duration_ms": 175472,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/2QDibAx72jveQXPBXOKjx2"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY"
+        "name": "Touch the Sky",
+        "url": "https://open.spotify.com/album/41iTWV7tuODsPdgQQzZH2c"
       },
       "artists": [
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
         },
         {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+          "name": "RVPTR",
+          "url": "https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4"
         }
       ],
-      "duration_ms": 158999,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
+      "duration_ms": 196849,
+      "name": "Touch the Sky",
+      "url": "https://open.spotify.com/track/6luCl1H4xq2OnLQtB7fb4z"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
-        "name": "Apothimeno",
-        "url": "https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS"
+        "name": "Erotas",
+        "url": "https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu"
       },
       "artists": [
         {
-          "name": "Mente Fuerte",
-          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        },
-        {
-          "name": "Issy Beats",
-          "url": "https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6"
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
         }
       ],
-      "duration_ms": 182727,
-      "name": "Apothimeno",
-      "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
+      "duration_ms": 144386,
+      "name": "Erotas",
+      "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "IPIZME",
         "url": "https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR"
@@ -561,7 +497,7 @@
       "url": "https://open.spotify.com/track/1QphVfogCxCARRZLergCjS"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
@@ -585,7 +521,71 @@
       "url": "https://open.spotify.com/track/5XJWEh8huqG0l9RgRyArtv"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5wnROpYlI0LDF5ctSr7Lpj"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 158999,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Apothimeno",
+        "url": "https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Issy Beats",
+          "url": "https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Apothimeno",
+      "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Crayon",
         "url": "https://open.spotify.com/album/4nPRQeETNSzXAq0Q97hpla"
@@ -601,67 +601,7 @@
       "url": "https://open.spotify.com/track/3Ih2cQKuXvsKOFlhZAnBDW"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "To Kserw",
-        "url": "https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "To Kserw",
-      "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Money and Drugs Can't Live In Poverty",
-        "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
-      },
-      "artists": [
-        {
-          "name": "Mad Clip",
-          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Skive",
-          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
-        }
-      ],
-      "duration_ms": 230103,
-      "name": "Nani",
-      "url": "https://open.spotify.com/track/61BaxNqs8df4B4Vtndb9DE"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Egw & Esy",
-        "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 186885,
-      "name": "Egw & Esy",
-      "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/2pSvQv3awiXJjw1IvSVSTY"
@@ -677,27 +617,7 @@
       "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "G Walk",
-        "url": "https://open.spotify.com/album/7GVxDeeFP1rDvu47uaYeIb"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
-        }
-      ],
-      "duration_ms": 174705,
-      "name": "G Walk",
-      "url": "https://open.spotify.com/track/0cOGWQcGaMe5HsGO9AEw25"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
@@ -721,31 +641,87 @@
       "url": "https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
+        "name": "Egw & Esy",
+        "url": "https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH"
       },
       "artists": [
         {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         },
         {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
         }
       ],
-      "duration_ms": 190942,
-      "name": "Palmous",
-      "url": "https://open.spotify.com/track/0PUzUn6NlCsVeomsUg9SKx"
+      "duration_ms": 186885,
+      "name": "Egw & Esy",
+      "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "To Kserw",
+        "url": "https://open.spotify.com/album/18NI1OeqC1x8W3qaOPGXhu"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "To Kserw",
+      "url": "https://open.spotify.com/track/3vxOiWJAjI6ZS7zVlL6uT7"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Money and Drugs Can't Live In Poverty",
+        "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Skive",
+          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
+        }
+      ],
+      "duration_ms": 230103,
+      "name": "Nani",
+      "url": "https://open.spotify.com/track/61BaxNqs8df4B4Vtndb9DE"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "G Walk",
+        "url": "https://open.spotify.com/album/7GVxDeeFP1rDvu47uaYeIb"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "G Walk",
+      "url": "https://open.spotify.com/track/0cOGWQcGaMe5HsGO9AEw25"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
@@ -769,7 +745,31 @@
       "url": "https://open.spotify.com/track/4DGrMHTVjxecZbYStawUK1"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Palmous",
+      "url": "https://open.spotify.com/track/0PUzUn6NlCsVeomsUg9SKx"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Kales Douleies",
         "url": "https://open.spotify.com/album/5QK1QDrX6wirdg6zJP8buo"
@@ -793,27 +793,7 @@
       "url": "https://open.spotify.com/track/718XWLo3fyDFH5RWp5Q5nN"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "LIBERTA",
-        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
-      },
-      "artists": [
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 147288,
-      "name": "CELINE",
-      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/3GUaXfPTFlQnur4oWrRoXh"
@@ -837,7 +817,7 @@
       "url": "https://open.spotify.com/track/3jP6Yx6d8608AU4aIRJsE2"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -857,7 +837,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
@@ -881,7 +861,7 @@
       "url": "https://open.spotify.com/track/27GSRTfL7fEnLAEr3fB5YX"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Den Exw Sima",
         "url": "https://open.spotify.com/album/0ZAB0aiipoAR13uMikO0Si"
@@ -905,7 +885,27 @@
       "url": "https://open.spotify.com/track/0VfJj7Z3IQjF6lh5DhQYTs"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Raindrops (Insane) [with Travis Scott]",
+      "url": "https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Bossidonas",
         "url": "https://open.spotify.com/album/6BTux1NBoVY2xl7QGwkOMt"
@@ -929,7 +929,47 @@
       "url": "https://open.spotify.com/track/5tbMaO9qbA9dMQnoOtRAUR"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Lene Pos",
+        "url": "https://open.spotify.com/album/52FlpaUZIVkqlEpPCIXW8O"
+      },
+      "artists": [
+        {
+          "name": "Raw",
+          "url": "https://open.spotify.com/artist/76K7CMtjKF2lH8UNXjYkN8"
+        },
+        {
+          "name": "HARITO",
+          "url": "https://open.spotify.com/artist/0bWhuDt6ValKqoKaSbUa9D"
+        }
+      ],
+      "duration_ms": 167727,
+      "name": "Lene Pos",
+      "url": "https://open.spotify.com/track/446RztQBcLvP4UoVWmhA30"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "RACKATTACK 2",
         "url": "https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8"
@@ -953,7 +993,43 @@
       "url": "https://open.spotify.com/track/7I6fZpYaW9BjlXJEKFL1Su"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "LIBERTA",
+        "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "duration_ms": 147288,
+      "name": "CELINE",
+      "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "Lamogia (Remix)",
         "url": "https://open.spotify.com/album/6Y6eo3iutcunqsAZExd1Hr"
@@ -989,67 +1065,7 @@
       "url": "https://open.spotify.com/track/49aqCqLiSWpG8Rgk0iHYeu"
     },
     {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Raindrops (Insane) [with Travis Scott]",
-      "url": "https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Lene Pos",
-        "url": "https://open.spotify.com/album/52FlpaUZIVkqlEpPCIXW8O"
-      },
-      "artists": [
-        {
-          "name": "Raw",
-          "url": "https://open.spotify.com/artist/76K7CMtjKF2lH8UNXjYkN8"
-        },
-        {
-          "name": "HARITO",
-          "url": "https://open.spotify.com/artist/0bWhuDt6ValKqoKaSbUa9D"
-        }
-      ],
-      "duration_ms": 167727,
-      "name": "Lene Pos",
-      "url": "https://open.spotify.com/track/446RztQBcLvP4UoVWmhA30"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
+      "added_at": "2022-12-05 11:59:40",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
@@ -1071,26 +1087,6 @@
       "duration_ms": 222000,
       "name": "Umbrella (with 21 Savage & Young Nudy)",
       "url": "https://open.spotify.com/track/31De8hk4QgDsbS26w06h21"
-    },
-    {
-      "added_at": "2022-12-04 19:29:38",
-      "album": {
-        "name": "Psixi (Deluxe)",
-        "url": "https://open.spotify.com/album/2IQQfdka6t3aoAkU5LOI3I"
-      },
-      "artists": [
-        {
-          "name": "Dirty Harry",
-          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Ambert Alert",
-      "url": "https://open.spotify.com/track/0LGz6P39aRElZatVYDwMPw"
     }
   ],
   "unique_name": "Top 50 - Greece",

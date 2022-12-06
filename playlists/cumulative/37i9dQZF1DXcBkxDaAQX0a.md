@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-260 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+261 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Last To Know \- From Exile](https://open.spotify.com/track/3iAD6IOJ4F2A0zBMwLH7sE) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Last To Know \(From Exile\)](https://open.spotify.com/album/7hAjKbEPKBnH3PY18qwVPz) | 3:59 | 2021-02-08 | 2022-06-18 |
 | [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 | 2022-04-04 |  |
 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/021zb89IodxPOcPZheUwVl) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 2:59 | 2021-02-08 | 2022-10-17 |
+| [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 | 2022-04-04 |  |
 | [Light On](https://open.spotify.com/track/4QeuXQ7LKdRXo5o7C6al6S) | [Last Night Saved My Life](https://open.spotify.com/artist/0AcQzV75nMVCmChGNyGzPH) | [Light On](https://open.spotify.com/album/0shoi18L4d6jBsFyTs29d2) | 3:45 | 2021-02-08 | 2022-07-17 |
 | [Lights Out](https://open.spotify.com/track/0BoNR72JDBcH7b9v1WpD3D) | [Mike Herrera](https://open.spotify.com/artist/6CoS5eAPJErSSTyEsWcJOp) | [Lights Out](https://open.spotify.com/album/1iu23Ehsxrift5PGUtrPt8) | 3:16 | 2022-04-04 | 2022-04-19 |
 | [Limits \- Unplugged](https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5) | 3:16 | 2021-02-08 | 2022-11-05 |
@@ -154,7 +155,7 @@
 | [Long Night](https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/73yzCXeZAtNFC7YoIroAPD) | 3:33 | 2021-02-08 | 2022-07-28 |
 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 | 2022-04-04 |  |
 | [Long Walk Home](https://open.spotify.com/track/4nsjnJ1DJGKoJqqaDdDL3y) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Long Walk Home](https://open.spotify.com/album/62RRePwFEu3nfzLEObpmbb) | 2:34 | 2022-04-04 | 2022-04-18 |
-| [Losing Sleep](https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf) | [Hazel](https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX) | [Losing Sleep](https://open.spotify.com/album/3haT6irm5636PSIscDmtWp) | 3:57 | 2022-04-04 |  |
+| [Losing Sleep](https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf) | [Hazel](https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX) | [Losing Sleep](https://open.spotify.com/album/3haT6irm5636PSIscDmtWp) | 3:57 | 2022-04-04 | 2022-12-06 |
 | [Losing Sleep](https://open.spotify.com/track/5lJmNEGml8HW0GkMBnfikG) | [The Wildhood](https://open.spotify.com/artist/1JxQny2i4UQUtXgw2FvU64) | [Losing Sleep](https://open.spotify.com/album/6iJV9nZYet3F5SqOMQJgH9) | 3:57 | 2021-02-08 | 2022-07-24 |
 | [Low](https://open.spotify.com/track/7MkoMkBOeoAIXdRyIWzl9s) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Low](https://open.spotify.com/album/2HnqoZFxTxcDwaPW31rjQ2) | 3:25 | 2021-02-08 | 2022-07-28 |
 | [Lucky People](https://open.spotify.com/track/3zbsdtgvFPOE4xPcvMlrtZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Lucky People](https://open.spotify.com/album/2c3rMmFWn7WlsWBV7pXwfg) | 2:55 | 2021-02-08 | 2022-07-29 |

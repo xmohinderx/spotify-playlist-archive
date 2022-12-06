@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Kailee Morgue
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,565 likes - 124 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,736 likes - 124 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

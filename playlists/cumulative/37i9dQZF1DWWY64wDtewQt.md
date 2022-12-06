@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-369 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+370 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,8 @@
 | [WORLD DOMINATION](https://open.spotify.com/track/52qc54pAnhzEEoha8RziQ8) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [WORLD DOMINATION](https://open.spotify.com/album/0EwZh84BsSaWxG8H4alInK) | 1:37 | 2022-06-10 | 2022-07-16 |
 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-28 |  |
 | [WORTH NOTHING \- Instrumental](https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING \(Instrumental\)](https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D) | 2:44 | 2022-10-14 | 2022-11-04 |
-| [WRAITH KING](https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys) | 2:03 | 2022-10-21 |  |
+| [WRAITH KING](https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys) | 2:03 | 2022-10-21 | 2022-12-06 |
+| [WRAITH KING](https://open.spotify.com/track/4bLMjT1Lv6OQPb3NXrCmL5) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/74VLq3GKaVXRH3uItAFqBT) | 2:03 | 2022-10-21 |  |
 | [Wtf U Mean](https://open.spotify.com/track/3PHt7AdVhjIMS5Yw5RIZKU) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wtf U Mean](https://open.spotify.com/album/4uVFNuPonAm2Y6NxvvLuNs) | 1:58 | 2021-05-12 | 2022-04-14 |
 | [XEBU, PT\. 2](https://open.spotify.com/track/5P0OhLUoR6YiY4shxqEj4E) | [Cree+](https://open.spotify.com/artist/5zyatk5rWWeCj7Lcn5RV3u) | [XEBU, PT\. 2](https://open.spotify.com/album/3x8eiVRvamtYsnjfOcL3LN) | 2:42 | 2022-02-18 | 2022-04-05 |
 | [YOUR SMILE](https://open.spotify.com/track/1TDCt6qpnBhxGctJsgB1yg) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC), [SOLIZY](https://open.spotify.com/artist/3lgdHA23PP0zMKYkHvb87j) | [YOUR SMILE](https://open.spotify.com/album/05T8uOreFGlvKXpZ6GNday) | 2:26 | 2022-02-04 | 2022-06-11 |

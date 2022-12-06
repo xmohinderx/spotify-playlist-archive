@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-198 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/2HGElLQ4Q40P5HXdU6etvf)
+199 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/2HGElLQ4Q40P5HXdU6etvf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Que Es Lo Que Es](https://open.spotify.com/track/7lPeeFLulvNGZyjihExunS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que No Me Quiten La Fe](https://open.spotify.com/album/2sEl8IoAugga3uLHqitoW2) | 5:25 | 2020-08-25 | 2022-06-29 |
 | [Que No Me Quiten La Fe](https://open.spotify.com/track/692akfJCLjmSLza9Rhgud4) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que No Me Quiten La Fe](https://open.spotify.com/album/2sEl8IoAugga3uLHqitoW2) | 5:03 | 2020-08-25 | 2022-06-30 |
 | [Que Pasa Loco ?](https://open.spotify.com/track/3oauXpkAKyzYWkAiZAkVUH) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Que Pasa Loco?](https://open.spotify.com/album/6tEW80OuY2USui8d8WXdYS) | 6:18 | 2020-08-25 | 2022-07-25 |
+| [Que te pasa loco](https://open.spotify.com/track/73lAijiZS9B4Ai8rIJWCbG) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Con ganas](https://open.spotify.com/album/1mDDRmhPedob95tNBsfVVq) | 6:18 | 2020-08-25 |  |
 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 | 2020-08-25 | 2022-07-21 |
 | [Quiero Verte Otra Vez](https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx) | [Havana D'primera](https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO) | [Quiero Verte Otra Vez](https://open.spotify.com/album/4862dwA64dtiFt42ezMima) | 4:48 | 2020-08-25 | 2022-07-29 |
 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 | 2020-08-25 | 2022-04-29 |
@@ -155,7 +156,7 @@
 | [Recíbeme \- Remasterizado](https://open.spotify.com/track/4C45aXbMc6BSDuPALVI85q) | [Juan Formell](https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Maquinaria \(Remasterizado\)](https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R) | 6:09 | 2020-08-25 | 2022-06-17 |
 | [Regalito de Dios](https://open.spotify.com/track/5nH7F3gTB1gy1wFAXMtbOw) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:46 | 2020-08-25 | 2022-07-28 |
 | [Represent](https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m) | 3:46 | 2020-08-25 | 2022-07-29 |
-| [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 | 2020-08-25 |  |
+| [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 | 2020-08-25 | 2022-12-06 |
 | [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 | 2020-08-25 | 2022-07-16 |
 | [Se Acabaron los Guapos en la Habana](https://open.spotify.com/track/5txaxw6xYhvpz5IAVHGMDi) | [Lazarito Valdés](https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s), [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Caramelo Con Picante](https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1) | 5:05 | 2020-08-25 | 2022-06-10 |
 | [Si Te Descuidas](https://open.spotify.com/track/4DWVZPTIoJ4unA04fqxm28) | [Giraldo Piloto y Klímax](https://open.spotify.com/artist/33WgNRXej4nmjEnbGw9deR) | [I Dance Cuban Salsa 2014 \(Salsa y Timba Hits\)](https://open.spotify.com/album/5XqLtc36FdyDQWzjSzV45b) | 5:33 | 2020-08-25 | 2022-05-30 |

@@ -1,28 +1,36 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485989,
+  "num_followers": 1485955,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMDVlNGEwMzBlOWMyMWQ2MzkyNDlhMzNkNTVmOWIwNTY2",
+  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMGRjMGUzNzQ4NzEzNzNmMjY3NjExMTk2Y2E4NDc0NjJk",
   "tracks": [
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Flickshots & Quickscopes",
-        "url": "https://open.spotify.com/album/2TR1uEsxzXktTAltkGhBFH"
+        "name": "Lofi Minnie: Focus",
+        "url": "https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN"
       },
       "artists": [
         {
-          "name": "baaskaT",
-          "url": "https://open.spotify.com/artist/0mvxieGhMmy9gnbYGYtnI6"
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Disney Lofi",
+          "url": "https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v"
         }
       ],
-      "duration_ms": 86000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4KFcmYICCe24YbAxAWEQAW"
+      "duration_ms": 168746,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -207,26 +215,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Lofi Minnie: Focus",
-        "url": "https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN"
+        "name": "Flickshots & Quickscopes",
+        "url": "https://open.spotify.com/album/2TR1uEsxzXktTAltkGhBFH"
       },
       "artists": [
         {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Disney Lofi",
-          "url": "https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v"
+          "name": "baaskaT",
+          "url": "https://open.spotify.com/artist/0mvxieGhMmy9gnbYGYtnI6"
         }
       ],
-      "duration_ms": 168746,
-      "name": "Hakuna Matata",
-      "url": "https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ"
+      "duration_ms": 86000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4KFcmYICCe24YbAxAWEQAW"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 166448,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
         "name": "Napping",
         "url": "https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 115465,
       "name": "Napping",
       "url": "https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 166448,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "Black Tea",
         "url": "https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 159026,
       "name": "Black Tea",
       "url": "https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "Rubberband",
+        "url": "https://open.spotify.com/album/0i7o6n9c8pGHgfmqlMD9uz"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 111490,
+      "name": "Rubberband",
+      "url": "https://open.spotify.com/track/1kSWi8ycKlP4WSkuXOl9Rv"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
@@ -675,26 +691,6 @@
       "duration_ms": 166588,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Do the Right Thing",
-        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
-      },
-      "artists": [
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        },
-        {
-          "name": "Hannah V",
-          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
-        }
-      ],
-      "duration_ms": 121320,
-      "name": "Do the Right Thing",
-      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -735,34 +731,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+        "name": "Do the Right Thing",
+        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
       "artists": [
         {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Rubberband",
-        "url": "https://open.spotify.com/album/0i7o6n9c8pGHgfmqlMD9uz"
-      },
-      "artists": [
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
         {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+          "name": "Hannah V",
+          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
         }
       ],
-      "duration_ms": 111490,
-      "name": "Rubberband",
-      "url": "https://open.spotify.com/track/1kSWi8ycKlP4WSkuXOl9Rv"
+      "duration_ms": 121320,
+      "name": "Do the Right Thing",
+      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -787,6 +771,38 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "Daybreaks",
+        "url": "https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd"
+      },
+      "artists": [
+        {
+          "name": "Ol' Burger Beats",
+          "url": "https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "So They Say",
+      "url": "https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "Cadillac Mountain",
         "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "ode to N",
-        "url": "https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 134789,
-      "name": "ode to N",
-      "url": "https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
         "name": "Paddling pool",
         "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 167874,
       "name": "Paddling pool",
       "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "ode to N",
+        "url": "https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 134789,
+      "name": "ode to N",
+      "url": "https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -899,22 +915,6 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Daybreaks",
-        "url": "https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd"
-      },
-      "artists": [
-        {
-          "name": "Ol' Burger Beats",
-          "url": "https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "So They Say",
-      "url": "https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
         "name": "Silently Beats",
         "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
       },
@@ -947,26 +947,6 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Baby, It's Over",
-        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
-      },
-      "artists": [
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "Baby, It's Over",
-      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "Baby, It's Over",
+        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
+      },
+      "artists": [
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        }
+      ],
+      "duration_ms": 148561,
+      "name": "Baby, It's Over",
+      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
+        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Sometimes - Remix Instrumental",
+      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "Whatsreal",
         "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
       },
@@ -1039,18 +1055,34 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
-        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
+        "name": "For Her",
+        "url": "https://open.spotify.com/album/3sRbCMv1Rj5vRbnQT3npdu"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "w\u00fcsh",
+          "url": "https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK"
         }
       ],
-      "duration_ms": 243693,
-      "name": "Sometimes - Remix Instrumental",
-      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+      "duration_ms": 95349,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1u0Xo3j20ST5IOZIffErzh"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077"
+      },
+      "artists": [
+        {
+          "name": "Stan Forebee",
+          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Cargo Rhodes",
+      "url": "https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1091,22 +1123,6 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Tiny Grains of Guilt",
-        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
-      },
-      "artists": [
-        {
-          "name": "Handbook",
-          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
-        }
-      ],
-      "duration_ms": 124044,
-      "name": "Tiny Grains of Guilt",
-      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
         "name": "Elevator (Remastered)",
         "url": "https://open.spotify.com/album/2fMwOV34VCtm8LGAWUp9SF"
       },
@@ -1139,6 +1155,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "Tiny Grains of Guilt",
+        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        }
+      ],
+      "duration_ms": 124044,
+      "name": "Tiny Grains of Guilt",
+      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -1151,22 +1183,6 @@
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/4VoDJObA9HYgoPHkfX9Nmr"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 149621,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/6h2oA9xLnB4EdUeXCB9oIL"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1207,6 +1223,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
+      },
+      "artists": [
+        {
+          "name": "Epifania",
+          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -1223,18 +1255,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/4VoDJObA9HYgoPHkfX9Nmr"
       },
       "artists": [
         {
-          "name": "Epifania",
-          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 88000,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
+      "duration_ms": 149621,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/6h2oA9xLnB4EdUeXCB9oIL"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1263,34 +1295,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+        "name": "Nomadic tribe (DJ Mitsu The Beats Remix)",
+        "url": "https://open.spotify.com/album/78jQAlIKlWgR14QM3arefx"
       },
       "artists": [
         {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "For Her",
-        "url": "https://open.spotify.com/album/3sRbCMv1Rj5vRbnQT3npdu"
-      },
-      "artists": [
+          "name": "Otoji + Ray",
+          "url": "https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA"
+        },
         {
-          "name": "w\u00fcsh",
-          "url": "https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 95349,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/1u0Xo3j20ST5IOZIffErzh"
+      "duration_ms": 245625,
+      "name": "Nomadic tribe - DJ Mitsu The Beats Remix",
+      "url": "https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1311,6 +1331,22 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
         "name": "Late Trains",
         "url": "https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ"
       },
@@ -1327,22 +1363,34 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "Nomadic tribe (DJ Mitsu The Beats Remix)",
-        "url": "https://open.spotify.com/album/78jQAlIKlWgR14QM3arefx"
+        "name": "181's penny candy store #7",
+        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
       },
       "artists": [
         {
-          "name": "Otoji + Ray",
-          "url": "https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA"
-        },
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
         }
       ],
-      "duration_ms": 245625,
-      "name": "Nomadic tribe - DJ Mitsu The Beats Remix",
-      "url": "https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr"
+      "duration_ms": 186000,
+      "name": "Win the Lottery",
+      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
+    },
+    {
+      "added_at": "2022-11-17 15:00:00",
+      "album": {
+        "name": "Thoughts of Clouds",
+        "url": "https://open.spotify.com/album/0tMN2shHPg7egNha9COkPC"
+      },
+      "artists": [
+        {
+          "name": "SicknessMP",
+          "url": "https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U"
+        }
+      ],
+      "duration_ms": 169408,
+      "name": "Thoughts of Clouds",
+      "url": "https://open.spotify.com/track/01VeL36vmXP8bPI4DGiXsN"
     },
     {
       "added_at": "2022-11-17 15:00:00",
@@ -1367,66 +1415,18 @@
     {
       "added_at": "2022-11-17 15:00:00",
       "album": {
-        "name": "181's penny candy store #7",
-        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
+        "name": "Hot Water",
+        "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
       },
       "artists": [
         {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Win the Lottery",
-      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077"
-      },
-      "artists": [
-        {
-          "name": "Stan Forebee",
-          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Cargo Rhodes",
-      "url": "https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Thoughts of Clouds",
-        "url": "https://open.spotify.com/album/0tMN2shHPg7egNha9COkPC"
-      },
-      "artists": [
-        {
-          "name": "SicknessMP",
-          "url": "https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U"
-        }
-      ],
-      "duration_ms": 169408,
-      "name": "Thoughts of Clouds",
-      "url": "https://open.spotify.com/track/01VeL36vmXP8bPI4DGiXsN"
-    },
-    {
-      "added_at": "2022-11-17 15:00:00",
-      "album": {
-        "name": "Camberwell",
-        "url": "https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y"
-      },
-      "artists": [
-        {
-          "name": "Khutko",
-          "url": "https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Camberwell",
-      "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
+      "duration_ms": 142417,
+      "name": "Carpet",
+      "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
     }
   ],
   "unique_name": "Mellow Beats",

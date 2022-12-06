@@ -2389,6 +2389,24 @@
     {
       "album": {
         "name": "Magoa",
+        "url": "https://open.spotify.com/album/78KW4z2m4s0XAiVcOPb6Xl"
+      },
+      "artists": [
+        {
+          "name": "Baptista",
+          "url": "https://open.spotify.com/artist/6s8rD4rVedAQIeh9mlthFH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226932,
+      "name": "Magoa",
+      "url": "https://open.spotify.com/track/5qzXBPjUgx48dWoQcRgoC0"
+    },
+    {
+      "album": {
+        "name": "Magoa",
         "url": "https://open.spotify.com/album/3oI3PqbVuLR8Qe9Et9k3FW"
       },
       "artists": [
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 227044,
       "name": "Magoa",
       "url": "https://open.spotify.com/track/0OcZyaVvuwmy5ViC3K8Xz3"

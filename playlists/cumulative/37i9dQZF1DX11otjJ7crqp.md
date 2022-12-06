@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Lewis Capaldi
 
-2,093 songs - 4 day 8 hr 29 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+2,094 songs - 4 day 8 hr 31 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,7 +1009,7 @@
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-04-29 | 2022-05-20 |
 | [It Only Takes Two](https://open.spotify.com/track/7L92GcnLG3bAi7veJRXIe7) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/05ABj8AloK0QlVarxcu4XJ) | 2:38 | 2022-08-26 | 2022-09-10 |
 | [It Still Rains in Paradise](https://open.spotify.com/track/7nSRwnGtocax7zFgNnR70D) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [It Still Rains in Paradise](https://open.spotify.com/album/1RzEZUdiyyMFnbpXK5kcyj) | 2:42 | 2022-05-27 | 2022-06-11 |
-| [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-11-18 |  |
+| [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-11-18 | 2022-12-06 |
 | [It's Not Serious](https://open.spotify.com/track/4j9zbf27AK8J9DMzbd7Mm8) | [Mike Kota](https://open.spotify.com/artist/4XQTByA2uvyebfXRZFseV6) | [It's Not Serious](https://open.spotify.com/album/1tTDfLIF4Z7vqoyiwuC2VR) | 2:09 | 2022-11-11 | 2022-11-26 |
 | [it's ok!](https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [it’s ok!](https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX) | 3:05 | 2022-07-22 | 2022-08-13 |
 | [It's Only Love, Nobody Dies](https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 3:04 | 2022-03-25 | 2022-04-16 |
@@ -1348,6 +1348,7 @@
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-09-02 | 2022-09-17 |
 | [NO HOTEL](https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [NO HOTEL](https://open.spotify.com/album/0iP3oGotyq8PNwVHm9o2fJ) | 2:26 | 2022-03-25 | 2022-04-02 |
 | [No Landing](https://open.spotify.com/track/2t3veELmDdZgvxELQCswIA) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [No Landing](https://open.spotify.com/album/0oe8JrtJZBzTvucgrSXpnE) | 3:10 | 2022-08-12 | 2022-08-20 |
+| [No Longer Lovers](https://open.spotify.com/track/6DykI3K2Ib9BC1E9JgaSoE) | [Coobie](https://open.spotify.com/artist/2AeSbZ0zUL5615vJFXtHsH) | [No Longer Lovers](https://open.spotify.com/album/3Ygl1aeSmUHSDaxH8KLYLK) | 2:19 | 2022-12-05 |  |
 | [No More Drama](https://open.spotify.com/track/2MRfEJTfX12xPY0vx4STNe) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:20 | 2022-10-07 | 2022-10-22 |
 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2022-12-02 |  |
 | [No One But Me](https://open.spotify.com/track/4T1eDQsyzqpQAH2g8IZedB) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [No One But Me](https://open.spotify.com/album/6T94I3OsRBXcdn4vZLJSID) | 2:38 | 2022-10-14 | 2022-10-29 |

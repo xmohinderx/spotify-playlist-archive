@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Michael Sparks",
-  "num_followers": 192921,
+  "num_followers": 192973,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGQxZTNhYWQxOGM2MTJjM2ZmMTIxNWY0OTg5NGVlODMz",
+  "snapshot_id": "MTY3MDI1NzkxNSwwMDAwMDAwMDIxNjEyNDM3NDM5ODhlNDFhZjA3MDk2ODMwNmNmY2Mw",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -59,6 +59,26 @@
       "duration_ms": 178908,
       "name": "Chill Like That",
       "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
+    },
+    {
+      "added_at": "2022-12-05 16:31:55",
+      "album": {
+        "name": "HYPNOSIS",
+        "url": "https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 158583,
+      "name": "HYPNOSIS",
+      "url": "https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1371,22 +1391,6 @@
       "duration_ms": 126336,
       "name": "Shibuya Babe",
       "url": "https://open.spotify.com/track/4DdaZxgGx8AsPq2f299gcB"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3"
     },
     {
       "added_at": "2022-10-28 04:00:00",

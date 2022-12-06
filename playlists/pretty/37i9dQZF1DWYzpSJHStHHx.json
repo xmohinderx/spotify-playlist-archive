@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 475815,
+  "num_followers": 475898,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDc4ZDJmOTVkMTVkNjU4ZjhkMGE1YmE0Nzc3YWZmZjQ2",
+  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDE4NzgxZDg5NGZiM2U2NWM1ZDBjMDI1OGMyODAzZGQx",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
-      },
-      "artists": [
-        {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-        }
-      ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 246230,
       "name": "Dorothy",
       "url": "https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Raspberry Jam",
-        "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
       "artists": [
         {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 228306,
-      "name": "Raspberry Jam",
-      "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -519,22 +519,6 @@
       "duration_ms": 152684,
       "name": "What a Pleasure",
       "url": "https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -567,6 +551,22 @@
       "duration_ms": 326807,
       "name": "French Press",
       "url": "https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Raspberry Jam",
+        "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 228306,
+      "name": "Raspberry Jam",
+      "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Tomorrow Is Alright",
-        "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
-      },
-      "artists": [
-        {
-          "name": "Sonny & The Sunsets",
-          "url": "https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Too Young to Burn",
-      "url": "https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Favorite Holiday, Vol. 1",
         "url": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "Tomorrow Is Alright",
+        "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
+      },
+      "artists": [
+        {
+          "name": "Sonny & The Sunsets",
+          "url": "https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Too Young to Burn",
+      "url": "https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Beach Comber",
-      "url": "https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -807,6 +791,22 @@
       "duration_ms": 260782,
       "name": "Broken Finger Blues",
       "url": "https://open.spotify.com/track/71FYSkmSyrEncuZDqBnPiS"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Was Dead",
+        "url": "https://open.spotify.com/album/2RD12eprsENYogP3H1Tp1c"
+      },
+      "artists": [
+        {
+          "name": "King Tuff",
+          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+        }
+      ],
+      "duration_ms": 150713,
+      "name": "Sun Medallion",
+      "url": "https://open.spotify.com/track/0sSVTKSPiim06zGApr2NC1"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

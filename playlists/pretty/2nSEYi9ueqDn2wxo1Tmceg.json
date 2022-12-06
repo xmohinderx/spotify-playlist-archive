@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78674,
+  "num_followers": 78673,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzYwMCwwZDdhZTc5YWJlZjIyOGM5MjMyNWRmMTZlNTRmZDYzOGY3Y2ViNmQ3",
+  "snapshot_id": "MzYwMSxjYWRjMzY0ZjIzNTY5ZWJjNjY5NDIxODcxYzkzYjA2NDUxZmQ4N2Rj",
   "tracks": [
+    {
+      "added_at": "2022-12-05 10:27:47",
+      "album": {
+        "name": "Woofin' and Meowin'",
+        "url": "https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 167951,
+      "name": "Woofin' and Meowin'",
+      "url": "https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2"
+    },
     {
       "added_at": "2022-12-02 11:27:26",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4901,
+  "num_followers": 4905,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGQ4NmI2NjdkNDRmNmJiMjBlNTAwNWI2MTZiNzgzNmVm",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGQ0Yjk2NThhOGQwOWI4N2M0NDExNDdkOTJiOTM4YzE2",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "No More Drama",
         "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 220223,
       "name": "GOOD PUSS",
       "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Vroom Vroom EP",
-        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 193270,
-      "name": "Vroom Vroom",
-      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Good PusS (feat. cupcakKe) [Remix]",
+        "url": "https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 219951,
+      "name": "Good PusS (feat. cupcakKe) - Remix",
+      "url": "https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 162781,
       "name": "Cum (feat. Iggy Azalea)",
       "url": "https://open.spotify.com/track/2Mf7bd1QURmFyQCZTsMPjI"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Good PusS (feat. cupcakKe) [Remix]",
-        "url": "https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        },
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 219951,
-      "name": "Good PusS (feat. cupcakKe) - Remix",
-      "url": "https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Leo Mas Presents Mediterraneo",
-        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
-      },
-      "artists": [
-        {
-          "name": "La Bellini",
-          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
-        }
-      ],
-      "duration_ms": 217584,
-      "name": "Satan in Love",
-      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "ON (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
       },
@@ -731,22 +715,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Perch\u00e9 piangi Palermo",
         "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 349133,
       "name": "Perch\u00e9 piangi Palermo",
       "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Leo Mas Presents Mediterraneo",
+        "url": "https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp"
+      },
+      "artists": [
+        {
+          "name": "La Bellini",
+          "url": "https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB"
+        }
+      ],
+      "duration_ms": 217584,
+      "name": "Satan in Love",
+      "url": "https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Story Untold",
+        "url": "https://open.spotify.com/album/5u2KQUMuGzBp9xxaUEe3H8"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "duration_ms": 192806,
+      "name": "Story Untold",
+      "url": "https://open.spotify.com/track/0GYzG6CKoOE76b08v1vAxs"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Pourquoi pourquoi (Version italienne)",
         "url": "https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 254786,
       "name": "You Keep Me Hangin' On",
       "url": "https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Story Untold",
-        "url": "https://open.spotify.com/album/5u2KQUMuGzBp9xxaUEe3H8"
-      },
-      "artists": [
-        {
-          "name": "Novaa",
-          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
-        },
-        {
-          "name": "LIE NING",
-          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
-        }
-      ],
-      "duration_ms": 192806,
-      "name": "Story Untold",
-      "url": "https://open.spotify.com/track/0GYzG6CKoOE76b08v1vAxs"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "6 un caxxo di rave",
-        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
-      },
-      "artists": [
-        {
-          "name": "Troyamaki",
-          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
-        },
-        {
-          "name": "christiannife",
-          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "6 un caxxo di rave",
-      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "See The Light",
         "url": "https://open.spotify.com/album/5luHZqbMOLFMaN8SsZs2z9"
       },
@@ -1087,6 +1067,26 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "6 un caxxo di rave",
+        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
+      },
+      "artists": [
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "6 un caxxo di rave",
+      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Sumikko Gurashi 2.0",
         "url": "https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 91966,
       "name": "Sumikko Gurashi 2.0",
       "url": "https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Secret Weapons Part 12",
-        "url": "https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD"
-      },
-      "artists": [
-        {
-          "name": "Underspreche",
-          "url": "https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Acid Gentle Moves",
-      "url": "https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 155400,
       "name": "XTC (feat. LA NI\u00d1A & BigMama)",
       "url": "https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Secret Weapons Part 12",
+        "url": "https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD"
+      },
+      "artists": [
+        {
+          "name": "Underspreche",
+          "url": "https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Acid Gentle Moves",
+      "url": "https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1179,6 +1179,46 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Superomantico",
+        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
+      },
+      "artists": [
+        {
+          "name": "Vergo",
+          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
+        }
+      ],
+      "duration_ms": 161302,
+      "name": "Superomantico",
+      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Kiddy Smile",
+          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
+      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "BatBox",
         "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
       },
@@ -1207,22 +1247,6 @@
       "duration_ms": 261795,
       "name": "Comet",
       "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Superomantico",
-        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
-      },
-      "artists": [
-        {
-          "name": "Vergo",
-          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
-        }
-      ],
-      "duration_ms": 161302,
-      "name": "Superomantico",
-      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1259,30 +1283,6 @@
       "duration_ms": 245000,
       "name": "Tell Me What You See",
       "url": "https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
-        "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
-      },
-      "artists": [
-        {
-          "name": "boyrebecca",
-          "url": "https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo"
-        },
-        {
-          "name": "ilromantico",
-          "url": "https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh"
-        },
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        }
-      ],
-      "duration_ms": 186234,
-      "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
-      "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
     }
   ],
   "unique_name": "Pride Italia",

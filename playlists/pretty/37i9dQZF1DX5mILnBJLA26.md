@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH?si=hCefZN53S1K6CryNueC4\-g">Vigro Deep</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,622 likes - 55 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,166 likes - 55 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

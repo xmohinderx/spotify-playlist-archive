@@ -1,12 +1,12 @@
 {
   "description": "Chilled R&B jams for your most relaxed moods. Cover: Nakkia Gold",
-  "num_followers": 2287600,
+  "num_followers": 2287950,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk3NTYxOCwwMDAwMDAwMDQ0MWIzYWVkYTA4MGRiMjYxN2M5YmM3NzQ5YjZiNGIy",
+  "snapshot_id": "MTY3MDI1NTA5NSwwMDAwMDAwMGNkMWYwNTg4YmMzYjg3YzkyNzAxNjUxNmZkMGQ3MDk0",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 234144,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
+    },
+    {
+      "added_at": "2022-12-05 15:44:55",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
     },
     {
       "added_at": "2022-11-18 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Singapore & Malaysia in 2022\. Cover: shazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,726 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,731 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 26 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 |
 | 27 | [Hold Me](https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Hold Me](https://open.spotify.com/album/2F3wq0941ab4XPnfNapWTH) | 2:34 |
 | 28 | [Cherry Wine](https://open.spotify.com/track/7pCoMYTUu4RhyhheULLdr5) | [The Lounette](https://open.spotify.com/artist/638WE7BEtItPvh25YbeMGM) | [Cherry Wine](https://open.spotify.com/album/1I2JWR6cDtINzyusW8n4kK) | 4:34 |
-| 29 | [Push & Pull](https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg) | 2:32 |
+| 29 | [Push & Pull](https://open.spotify.com/track/2fcBA4HrmCmgFqxg47rjOe) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/2tdcA7vZMSJXb4EVh7p3TV) | 2:32 |
 | 30 | [hands to yourself](https://open.spotify.com/track/7DXEAhWuCuWo3ya6FBI5Jg) | [Jazzy](https://open.spotify.com/artist/2GycKV84bgjhaEtyRtqwJZ), [Alex Yen](https://open.spotify.com/artist/35gMLw7WSqX6NiBv6Rz5KN) | [hands to yourself](https://open.spotify.com/album/5TdnYH9K0ZyQUD4CagIVKb) | 3:11 |
 | 31 | [Kiss Me In The Rain](https://open.spotify.com/track/54G8T1sofBKaxNDTvbmNFY) | [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD) | [Kiss Me In The Rain](https://open.spotify.com/album/0Yi9xC5oEUCnM5hDSvGYxE) | 3:24 |
 | 32 | [party](https://open.spotify.com/track/3lg8fTLCOWxgaudZXCyG3P) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [GUARDIAN](https://open.spotify.com/album/6x7r7EgOxslreS1bEa8aPF) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 49 | [Till the end of time](https://open.spotify.com/track/7l5cj7g9WjFhgV68FtR5hG) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Till the end of time](https://open.spotify.com/album/5ap5JUJsoseHLa3QYnNuW6) | 4:00 |
 | 50 | [if you'd have me](https://open.spotify.com/track/0YRm5Kbyhg0u9O38pBhC8X) | [whirring](https://open.spotify.com/artist/6tVhJDK05xM7fBVa6Jx2cU) | [if you'd have me](https://open.spotify.com/album/6AVG11CgJQl58BK2Kug9BC) | 2:55 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDJhMTZmOTNiMWNhNDBkNTRiMWYxNTc4MjBjYTczNmEw`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGU2MGMzNmNiMDk0NDNmMTNlMzBkMjJiZmFjYjg3ZGRk`

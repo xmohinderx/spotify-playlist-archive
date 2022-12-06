@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25126,
+  "num_followers": 25131,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDk4NDlhYzQ0OGJkNjBkYTg4YmYxMDg3MzAyZmNlMDA0",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDdmY2QzMDQ2YzRmYTE2YWRkNWJmOGFjZTY1NTE2N2E3",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "[en] catimini",
         "url": "https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
         }
       ],
-      "duration_ms": 256226,
-      "name": "Tout",
-      "url": "https://open.spotify.com/track/59qPfUOkd0sboUlhQfR5Rd"
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -283,6 +267,22 @@
       "duration_ms": 246400,
       "name": "Tu ne sauras jamais",
       "url": "https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Tout",
+      "url": "https://open.spotify.com/track/59qPfUOkd0sboUlhQfR5Rd"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Lapointe 1994-2006 N'importe qui",
-        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
-      },
-      "artists": [
-        {
-          "name": "\u00c9ric Lapointe",
-          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "La bartendresse",
-      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Rendez-vous doux",
         "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+        "name": "Lapointe 1994-2006 N'importe qui",
+        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
       },
       "artists": [
         {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+          "name": "\u00c9ric Lapointe",
+          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
         }
       ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
+      "duration_ms": 246333,
+      "name": "La bartendresse",
+      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -403,18 +387,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
         }
       ],
-      "duration_ms": 247893,
-      "name": "On ne change pas",
-      "url": "https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H"
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -435,6 +419,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "On ne change pas",
+      "url": "https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Celle qui va",
         "url": "https://open.spotify.com/album/5A8miUxbmrkHnXpbCkWKr2"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 268440,
       "name": "Chats sauvages",
       "url": "https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+      },
+      "artists": [
+        {
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Un beau grand bateau",
+      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -483,38 +499,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
-      },
-      "artists": [
-        {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Un beau grand bateau",
-      "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "1\u00e8re p\u00e9riode",
         "url": "https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 273973,
       "name": "Qui a le droit... - Live \"Si ce soir\"",
       "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Je l'ai jamais dit \u00e0 personne",
-        "url": "https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Drapeau",
-          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
-        }
-      ],
-      "duration_ms": 202848,
-      "name": "Je l'ai jamais dit \u00e0 personne",
-      "url": "https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Ce soir l'amour est dans tes yeux",
         "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
       },
@@ -611,18 +595,34 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
+        "name": "Je l'ai jamais dit \u00e0 personne",
+        "url": "https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni"
       },
       "artists": [
         {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+          "name": "\u00c9tienne Drapeau",
+          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Casser la voix",
-      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
+      "duration_ms": 202848,
+      "name": "Je l'ai jamais dit \u00e0 personne",
+      "url": "https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Snob",
+        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
+      },
+      "artists": [
+        {
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Seul au combat",
+      "url": "https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -643,18 +643,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Snob",
-        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
       },
       "artists": [
         {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
         }
       ],
-      "duration_ms": 328706,
-      "name": "Seul au combat",
-      "url": "https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83"
+      "duration_ms": 263866,
+      "name": "Casser la voix",
+      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
-        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les introuvables",
         "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 318053,
       "name": "Tous les cris, les S.O.S.",
       "url": "https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
+        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Volume un",
-        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Je reviendrai \u00e0 montr\u00e9al",
-      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Incognito",
         "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 279333,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Volume un",
+        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Je reviendrai \u00e0 montr\u00e9al",
+      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "Lavez, lavez",
-      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Premi\u00e8res nuits",
         "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 255666,
       "name": "Les bras de satan",
       "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "Lavez, lavez",
+      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Marie-\u00c9laine Thibert",
-        "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
-      },
-      "artists": [
-        {
-          "name": "Marie-\u00c9laine Thibert",
-          "url": "https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Dans chacun de mes silences",
-      "url": "https://open.spotify.com/track/3gGaqfP07cG0uDqxKQl2UF"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "La Collection",
         "url": "https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 201333,
       "name": "Repartir \u00e0 z\u00e9ro",
       "url": "https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Marie-\u00c9laine Thibert",
+        "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
+      },
+      "artists": [
+        {
+          "name": "Marie-\u00c9laine Thibert",
+          "url": "https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Dans chacun de mes silences",
+      "url": "https://open.spotify.com/track/3gGaqfP07cG0uDqxKQl2UF"
     }
   ],
   "unique_name": "Fromage",

@@ -4,7 +4,7 @@
 
 > best desi lofi tracks of 2022
 
-134 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/2qnwnlVqwDzQeyJdfRGrMN)
+135 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2qnwnlVqwDzQeyJdfRGrMN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Mehrama \- Lofi Flip](https://open.spotify.com/track/79UQjoU5Yfe4AsVlbVOvPz) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Silent Ocean](https://open.spotify.com/artist/1rpoUNG0STk0Vw4BNVaP17) | [Mehrama \(Lofi Flip\)](https://open.spotify.com/album/4G6gQfGYLZyn30QMUy6q3X) | 3:36 | 2022-05-27 |  |
 | [Melancholic](https://open.spotify.com/track/2J6ehazUCGusP0YqK31fjL) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Melancholic](https://open.spotify.com/album/3v76zS849Cf1r2M1j9vuPX) | 3:42 | 2022-05-27 | 2022-07-19 |
 | [Mera Dil Bhi Kitna Pagal Hai \- Lo Fi Remix](https://open.spotify.com/track/7anyFVcwbFbAqdcHKLQZkv) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Mera Dil Bhi Kitna Pagal Hai \(Lo Fi Remix\)](https://open.spotify.com/album/14FuvTE7PJmpwzyHUMmtDX) | 2:25 | 2022-07-18 |  |
+| [Mera Dil Ye Pukare \- Tu Aaja \- Heartlock Mix](https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Heartlock](https://open.spotify.com/artist/0XqW9UITIzCIQ4CurIcgwz) | [Mera Dil Ye Pukare \- Tu Aaja \(Heartlock Mix\)](https://open.spotify.com/album/313XQLTvs8g357smdl4S0j) | 2:02 | 2022-12-05 |  |
 | [Mere Bina \- Lofi Flip](https://open.spotify.com/track/5f4CDQSxZJ8GuYdwMdz37V) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Mere Bina \(Lofi Flip\)](https://open.spotify.com/album/26rVmBZboEcYit9RfGAWBr) | 2:42 | 2022-05-27 |  |
 | [Mere Yaaraa & Tu Jo Mila \(From "Love In Lo\-Fi Volume 1"\)](https://open.spotify.com/track/5zAtCVBAkr5G2UvBG08SeF) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [Mere Yaaraa & Tu Jo Mila \(From "Love In Lo\-Fi Volume 1"\)](https://open.spotify.com/album/5x0EQx9mJTKLExayFrztkC) | 3:30 | 2022-07-18 |  |
 | [Mitwa \- Lofi Flip](https://open.spotify.com/track/0Myo6gFupsra0lFwJKDqsw) | [Silent Ocean](https://open.spotify.com/artist/1rpoUNG0STk0Vw4BNVaP17), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Mitwa \(Lofi Flip\)](https://open.spotify.com/album/1gZeAOjmw1oHmYouovfvmG) | 3:46 | 2022-05-27 |  |

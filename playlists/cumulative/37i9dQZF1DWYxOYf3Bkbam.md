@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-151 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/2GjcMWtH64TAHAcgFS6gKj)
+152 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2GjcMWtH64TAHAcgFS6gKj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Noche de Tormenta](https://open.spotify.com/track/0VKDr2ahMc4vYKw8tzFudQ) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/2yh0lii3e569wf1VjKM3s5) | 4:16 | 2021-11-19 | 2022-07-15 |
 | [Nostalgias Camperas](https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Dúo Ubeda / Chavez](https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:34 | 2021-11-19 | 2022-11-09 |
 | [Oración del Remanso](https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Oración del Remanso](https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr) | 5:11 | 2022-03-18 |  |
-| [Pajaro Chogüi](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez Y Raul Barboza](https://open.spotify.com/artist/7D3iUpUwF4lOsFPJIazFXS) | [Pajaro Chogüi](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 | 2021-11-19 |  |
+| [Pajaro Chogüi](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez Y Raul Barboza](https://open.spotify.com/artist/7D3iUpUwF4lOsFPJIazFXS) | [Pajaro Chogüi](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 | 2021-11-19 | 2022-12-06 |
 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 | 2021-11-19 |  |
 | [Para Nini](https://open.spotify.com/track/4viehCpYj32rBEg1nZYt9S) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Che Rembiapo Kue\. 12 Obras Inéditas](https://open.spotify.com/album/28DbkqoXjPLQDpQ8HOeCyH) | 2:53 | 2021-11-19 | 2022-07-29 |
 | [Para Volver a Soñar](https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa) | [Herencia Chamamecera](https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym), [Ricardo Gómez](https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb) | [Segundo Contacto](https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H) | 3:14 | 2021-11-19 |  |
@@ -144,6 +144,7 @@
 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 | 2021-11-19 | 2022-10-21 |
 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 | 2021-11-19 |  |
 | [Siete Higueras](https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Tarrago Ros](https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:27 | 2021-11-19 |  |
+| [Sobredosis de Chamamé](https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [Sobredosis De Chamamé](https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi) | 2:40 | 2022-09-22 |  |
 | [Soy Correntino y Doy Fe](https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z) | [Salvador Miqueri](https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU) | [Mburucuyá poty](https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO) | 2:14 | 2021-11-19 |  |
 | [Soy Lo Que Canto](https://open.spotify.com/track/0JBMLCpKihqJejxN8OjMz4) | [Lázaro Caballero](https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc) | [Soy Lo Que Canto](https://open.spotify.com/album/2KyOhfgwU6yc2qJXNWuAFV) | 2:27 | 2021-11-19 | 2022-07-29 |
 | [Soy lo Que Canto](https://open.spotify.com/track/1egiP2FrBoDdX5dhahAbaT) | [Lázaro Caballero](https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc) | [Soy lo Que Canto](https://open.spotify.com/album/3qxE3A06Gx78kuQOGrxoMt) | 2:32 | 2022-07-05 |  |

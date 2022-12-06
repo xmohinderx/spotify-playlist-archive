@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-175 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+176 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [On a Slow Boat to China](https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [On a Slow Boat to China](https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws) | 3:50 | 2022-05-19 |  |
 | [On Green Dolphin Street](https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [In Person](https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07) | 5:53 | 2022-02-23 | 2022-09-15 |
 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 | 2022-02-23 |  |
-| [On the Sunny Side of the Street \- 2003 Remastered Version](https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 3:28 | 2022-02-23 |  |
+| [On the Sunny Side of the Street \- 2003 Remastered Version](https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 3:28 | 2022-02-23 | 2022-12-06 |
 | [Peace](https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Blowin' The Blues Away](https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc) | 6:02 | 2022-02-23 |  |
 | [Pepper Steak](https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 3:49 | 2022-02-23 |  |
 | [Peri's Scope](https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 3:15 | 2022-04-08 |  |
@@ -174,6 +174,7 @@
 | [Wanderlust](https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:00 | 2022-02-23 |  |
 | [West Coast Blues](https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 7:22 | 2022-06-22 |  |
 | [West Coast Blues](https://open.spotify.com/track/5vooXq1F3SrYJl8TGtMsHA) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 7:22 | 2022-02-23 | 2022-07-29 |
+| [What Is This Thing Called Love? \- Instrumental](https://open.spotify.com/track/1A2ioCDTc0lDVuCUpBwh3v) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [A Garland Of Red](https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs) | 4:50 | 2022-12-02 |  |
 | [Whisper Not \- Live](https://open.spotify.com/track/6KBNObIQGq722j8hchNcmf) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The Trio Live From Chicago \(Expanded Edition\)](https://open.spotify.com/album/6aVAGkx39QecHlSjGt63sh) | 5:46 | 2022-02-23 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 | 2022-02-23 | 2022-10-07 |
 | [Without a Song \- Remastered](https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:26 | 2022-09-15 |  |

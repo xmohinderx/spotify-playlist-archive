@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-282 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+284 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Good Life](https://open.spotify.com/track/7IdZPp5Zn6y0lXCvXA7CFN) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/2BQlDB6YRNp88euumKdHG2) | 3:35 | 2022-04-13 | 2022-05-20 |
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-02-10 | 2022-10-15 |
 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 | 2022-04-08 |  |
+| [Got Me In My Feelings](https://open.spotify.com/track/3J62l6kQIcKCVgZ7Srntlq) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Jay Strong](https://open.spotify.com/artist/3HFmzNiYGElros3wWNO7bO), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 3:54 | 2022-12-05 |  |
 | [Got Me Like](https://open.spotify.com/track/5ATYlGicuZ72ZO0tZC6Dfe) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Got Me Like](https://open.spotify.com/album/575QSGuN3CVFiknwHdkWav) | 3:07 | 2021-12-16 | 2022-10-15 |
 | [Got My Back](https://open.spotify.com/track/5x3v1Td2EkrUJfscZdb6zJ) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [I Shine, U Shine](https://open.spotify.com/album/0d7p7ZqUrprI71laQ7Dvlr) | 3:24 | 2021-12-16 | 2022-02-11 |
 | [Green Tea Ice Cream](https://open.spotify.com/track/7wkYFmBhGwnB5XODsHJO02) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3) | [Green Tea Ice Cream](https://open.spotify.com/album/1mq3FB2BtW1rVJkvu5NSNO) | 3:51 | 2021-12-16 | 2022-03-11 |
@@ -191,6 +192,7 @@
 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-06-16 |  |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-22 |  |
 | [Rare](https://open.spotify.com/track/1rzoDdjdZw1vAemS0KOvPS) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [Rare](https://open.spotify.com/album/4U4m7pO3EBcUqmeNWthFii) | 2:57 | 2021-12-16 | 2022-01-26 |
+| [Real Good](https://open.spotify.com/track/4ScOLLhNjhOJWobYBgkQqv) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:27 | 2022-12-05 |  |
 | [Reassemble](https://open.spotify.com/track/1hUh5SnrnZv1ROMyroR8R6) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [Reassemble](https://open.spotify.com/album/2BUrigAvDUtMMsQTrWW45Z) | 3:18 | 2021-12-16 | 2022-01-14 |
 | [Red Dots](https://open.spotify.com/track/7EvkF7IdoNl7beJ4EFZX5R) | [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY) | [Half as Much](https://open.spotify.com/album/55nHhOheffHnpq8BY3O1xu) | 2:45 | 2021-12-16 | 2022-04-29 |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2021-12-16 | 2022-02-25 |

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's dance hits. Cover: Loud Luxury, Hook N Sling",
-  "num_followers": 304007,
+  "num_followers": 304010,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDQ0OTE2MDhlOWFhMzFhYjJmNGEwZGU0YWYwNTNmOTYz",
+  "snapshot_id": "MTY3MDI1ODE1MSwwMDAwMDAwMDdhMmRmZjQ2N2RjNjdiNDQyYmUwNzFiZTcwNGY3NmMz",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -707,6 +707,26 @@
       "duration_ms": 150967,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6ffAjqj8GGhvCx9flPcARn"
+    },
+    {
+      "added_at": "2022-12-05 16:35:51",
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/3sxBOOe2fiEpHSwNXIXF1Q"
+      },
+      "artists": [
+        {
+          "name": "Mount Pleasant",
+          "url": "https://open.spotify.com/artist/1kzPmFEEz0wTgXoCzJTwBz"
+        },
+        {
+          "name": "PHVIL",
+          "url": "https://open.spotify.com/artist/4tzFEx9RwJL8EyHn60oaVb"
+        }
+      ],
+      "duration_ms": 288387,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/7r0KXPaaqyV0QbY01xY5tP"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1563,22 +1583,6 @@
       "duration_ms": 147604,
       "name": "All I Want To Do",
       "url": "https://open.spotify.com/track/6VeJvewq2YkBDUXEL6afbC"
-    },
-    {
-      "added_at": "2022-09-16 14:29:16",
-      "album": {
-        "name": "Black Mascara.",
-        "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 241264,
-      "name": "Black Mascara.",
-      "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
     },
     {
       "added_at": "2022-11-04 04:00:00",

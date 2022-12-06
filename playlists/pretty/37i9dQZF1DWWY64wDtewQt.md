@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,406,226 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,420,938 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 59 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 |
 | 60 | [ESCORT](https://open.spotify.com/track/52oUDxzoJlMcSx2mIQ7JnJ) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl), [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [LXVE SXMPLES](https://open.spotify.com/album/5WGLpfFp5AaADZXblBKGRL) | 2:10 |
 | 61 | [Fear](https://open.spotify.com/track/0MTBiPyJ4u3XoS1JKBktdb) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Fear](https://open.spotify.com/album/1vmjfk4HCzEsqqgq7vwl03) | 2:11 |
-| 62 | [WRAITH KING](https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys) | 2:03 |
+| 62 | [WRAITH KING](https://open.spotify.com/track/4bLMjT1Lv6OQPb3NXrCmL5) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/74VLq3GKaVXRH3uItAFqBT) | 2:03 |
 | 63 | [WITCHERY](https://open.spotify.com/track/70rhPVjVpHbmwGZcBFYs9L) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [FLAYA PLAYA](https://open.spotify.com/artist/2rrl5KoXZgF1QJOnQPdgao) | [WITCHERY](https://open.spotify.com/album/43iCZfmP442QlnmwqWDG7L) | 1:53 |
 | 64 | [unamerican beauty \- HXVRMXN Remix](https://open.spotify.com/track/0zwKGn5APj7kgZOpZB1djC) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW), [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [unamerican beauty \(HXVRMXN Remix\)](https://open.spotify.com/album/21MZtSoSSkYj8e8hhmR4wZ) | 2:57 |
 | 65 | [God's Revenge](https://open.spotify.com/track/7x3SAQDjvfr7is2O4xZZ4u) | [Feerix](https://open.spotify.com/artist/3pCsoptVyteSgucFwAXpUM) | [God's Revenge](https://open.spotify.com/album/66yvaJzhUa8Jrzg0TSUkuL) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY2OTk2ODMxMywwMDAwMDAwMDEwNjFmZjgxNjNiMzVlYzk1YThhNjFmNTY4ZDQ3MjAw`
+Snapshot ID: `MTY2OTk2ODMxMywwMDAwMDAwMDhjNjYwMmJhODE1YmU0OTcwMmE5ZWFkOTJjNjQ1NTZi`

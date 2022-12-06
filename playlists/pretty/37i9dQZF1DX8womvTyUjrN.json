@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Polim\u00e1 Westcoast, Quevedo & Mora",
-  "num_followers": 264810,
+  "num_followers": 264858,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2Mjc0OCwwMDAwMDAwMDEyZDc2NjlmNDJkNjAwNWFhNzNhZDhjNWUyMjIxMGFj",
+  "snapshot_id": "MTY2OTk2Mjc0OCwwMDAwMDAwMDRmYTM2NmJkYmQ2MjBmOTRmMTEzNWRmYmIwZmJjMDEz",
   "tracks": [
     {
       "added_at": "2022-12-02 06:32:28",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-12-02 06:32:28",
       "album": {
+        "name": "Corriendo Con Tijeras",
+        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Corriendo Con Tijeras",
+      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
+    },
+    {
+      "added_at": "2022-12-02 06:32:28",
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 171400,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
-    },
-    {
-      "added_at": "2022-12-02 06:32:28",
-      "album": {
-        "name": "Corriendo Con Tijeras",
-        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Corriendo Con Tijeras",
-      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
     },
     {
       "added_at": "2022-12-02 06:32:28",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-12-02 06:32:28",
       "album": {
-        "name": "\u00d3rbita (Feat. Polim\u00e1 Westcoast)",
-        "url": "https://open.spotify.com/album/2E5OyVnkgKG3lmHOFH6Zap"
-      },
-      "artists": [
-        {
-          "name": "Sticky M.A.",
-          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 194792,
-      "name": "\u00d3rbita (Feat. Polim\u00e1 Westcoast)",
-      "url": "https://open.spotify.com/track/3JfDVjrRznqU9GV5fsP9HD"
-    },
-    {
-      "added_at": "2022-12-02 06:32:28",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/3ySFOPY56x68lcMXvpMNAX"
       },
@@ -703,6 +683,42 @@
     {
       "added_at": "2022-12-02 06:32:28",
       "album": {
+        "name": "\u00d3rbita (Feat. Polim\u00e1 Westcoast)",
+        "url": "https://open.spotify.com/album/2E5OyVnkgKG3lmHOFH6Zap"
+      },
+      "artists": [
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 194792,
+      "name": "\u00d3rbita (Feat. Polim\u00e1 Westcoast)",
+      "url": "https://open.spotify.com/track/3JfDVjrRznqU9GV5fsP9HD"
+    },
+    {
+      "added_at": "2022-12-02 06:32:28",
+      "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2022-12-02 06:32:28",
+      "album": {
         "name": "BRUTAL - Spotify Singles",
         "url": "https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 198294,
       "name": "La Equivocada",
       "url": "https://open.spotify.com/track/2VeyK1f5HRgNGNhn8MUvdf"
-    },
-    {
-      "added_at": "2022-12-02 06:32:28",
-      "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2022-12-02 06:32:28",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-12-02 06:32:28",
       "album": {
-        "name": "Live Sessions",
-        "url": "https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 174955,
-      "name": "737 - Live",
-      "url": "https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU"
-    },
-    {
-      "added_at": "2022-12-02 06:32:28",
-      "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
@@ -987,22 +971,6 @@
     {
       "added_at": "2022-12-02 06:32:28",
       "album": {
-        "name": "Un D\u00eda a la Vez",
-        "url": "https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        }
-      ],
-      "duration_ms": 161478,
-      "name": "Un Dia a la Vez",
-      "url": "https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp"
-    },
-    {
-      "added_at": "2022-12-02 06:32:28",
-      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 179949,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt"
+    },
+    {
+      "added_at": "2022-12-02 06:32:28",
+      "album": {
+        "name": "Live Sessions",
+        "url": "https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 174955,
+      "name": "737 - Live",
+      "url": "https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU"
+    },
+    {
+      "added_at": "2022-12-02 06:32:28",
+      "album": {
+        "name": "Un D\u00eda a la Vez",
+        "url": "https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "duration_ms": 161478,
+      "name": "Un Dia a la Vez",
+      "url": "https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp"
     },
     {
       "added_at": "2022-12-02 06:32:28",

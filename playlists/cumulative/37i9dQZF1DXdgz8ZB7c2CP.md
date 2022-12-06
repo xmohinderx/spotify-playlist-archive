@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-294 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+295 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [KARMA](https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [KARMA](https://open.spotify.com/album/4Jr5o5eaXLhVSucvED6QA4) | 2:29 | 2021-08-06 | 2022-07-21 |
 | [Keep You](https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF), [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [Keep You](https://open.spotify.com/album/50ivZBGeYJPiAnvrpElesT) | 3:37 | 2021-08-06 |  |
 | [Kids](https://open.spotify.com/track/21xQCaFIcz9lZNf9u5ySev) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [dawsonLIED](https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM) | [Kids](https://open.spotify.com/album/2nUyuLjvJR5TWoiT0yZZf5) | 3:33 | 2021-08-06 | 2022-11-23 |
+| [Kids \(feat\. dawsonLIED\)](https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [dawsonLIED](https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM) | [Kids \(feat\. dawsonLIED\)](https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV) | 3:33 | 2021-08-06 |  |
 | [Knock the Wind Out](https://open.spotify.com/track/2z6rarDaYU9H2z1IY1QLqv) | [Von Storm](https://open.spotify.com/artist/5acEBp4nbqoEjROkF8nLj4) | [Knock the Wind Out](https://open.spotify.com/album/0cgdngdkYBSeSkoQ07SnLZ) | 3:04 | 2021-08-06 |  |
 | [Know](https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [Know](https://open.spotify.com/album/1nxBOq1s4IrC4W0eqiwrpV) | 4:11 | 2021-10-08 |  |
 | [kora](https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [kora](https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc) | 4:42 | 2021-08-06 |  |
@@ -212,7 +213,7 @@
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-08-06 |  |
 | [Run In A Dream \(Tails Remix\)](https://open.spotify.com/track/4Y6UXcqLYfYkt6Zk82XZFy) | [Katy Rose](https://open.spotify.com/artist/7fFDeuI6844uubidbokLE7), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [Run In A Dream \(Tails Remix\)](https://open.spotify.com/album/2iKPnx5cTUUczYDE2ZnKuV) | 3:35 | 2021-09-10 | 2022-06-22 |
 | [Rushing Back](https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back](https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj) | 3:51 | 2021-08-06 |  |
-| [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2021-08-06 |  |
+| [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2021-08-06 | 2022-12-06 |
 | [Sakura VIP](https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6) | [NUU$HI](https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh) | [Sakura VIP](https://open.spotify.com/album/3K8aKx7HyQOHrpeMU4pMOZ) | 2:30 | 2021-08-06 |  |
 | [Salt](https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Light Garden](https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe) | 3:43 | 2022-05-06 |  |
 | [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-22 |  |

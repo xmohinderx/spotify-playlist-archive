@@ -4,7 +4,7 @@
 
 > Drill scenes connect\. Cover: Central Cee
 
-401 songs - 18 hr 29 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
+402 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [2020K](https://open.spotify.com/track/10iZ6s2RgDGs6BOijgEE4E) | [Qrunitup](https://open.spotify.com/artist/3NPT1Lma5oOwAocqpDDcr9) | [2020K](https://open.spotify.com/album/0V8dzpVoyN215gUPntoEh6) | 2:13 | 2021-10-05 | 2022-07-15 |
 | [22 Carats](https://open.spotify.com/track/1fmVM7nzDB3pUPhPQgzYoT) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [22 Carats](https://open.spotify.com/album/5Zk8JVmGOQCIfyulE39JCd) | 3:26 | 2022-05-20 | 2022-09-06 |
 | [3 Peat](https://open.spotify.com/track/4It7Y6JI7aaAHxpAlPnxVW) | [Edot Babyy](https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [E With The Dot](https://open.spotify.com/album/2f7okUxOlyIcZVrV2gZLYt) | 2:11 | 2022-06-10 | 2022-06-25 |
-| [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 | 2021-10-05 |  |
+| [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 | 2021-10-05 | 2022-12-06 |
 | [3Hunna](https://open.spotify.com/track/1ebzEASO01sMUoht95hwFz) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Finally Rich \(Deluxe\)](https://open.spotify.com/album/6VML3yX1WR5pXtg6fmwdzZ) | 3:28 | 2022-04-08 | 2022-07-12 |
 | [4 for 4](https://open.spotify.com/track/3t28WEPeQzR5YXC82nFf46) | [Leeky G Bando](https://open.spotify.com/artist/2DDdkJNNuomH4Px5AJ8p2d), [Lee Drilly](https://open.spotify.com/artist/7Ekzj53ylRKr7eHj9D5M20), [bando ptz](https://open.spotify.com/artist/0mEtWbLIHLrxQvlcxy5cE7), [Kay Hound](https://open.spotify.com/artist/6btJLAaP4xWzCKch3qV5L6) | [4 for 4](https://open.spotify.com/album/5EPp9Ura1mSysjtw4VJdNP) | 3:40 | 2022-06-10 | 2022-06-25 |
 | [4 Your Love](https://open.spotify.com/track/2pQZAMVUsV7PAHkQEDPzt2) | [Ciggy Blacc](https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ) | [4 Your Love](https://open.spotify.com/album/4TKjxKB3XYUWZp4zPVy4Xn) | 2:19 | 2022-06-10 | 2022-06-18 |
@@ -245,6 +245,7 @@
 | [No Power](https://open.spotify.com/track/6Kl7TpNLXs0rlvYLaNZlR0) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Wikipedia \(Deluxe\)](https://open.spotify.com/album/53u1FqUmCWhx128l8mHRsX) | 1:56 | 2022-06-10 | 2022-06-25 |
 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 | 2022-07-15 |  |
 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 | 2022-08-19 | 2022-12-02 |
+| [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/5jBQATS4iLhsYP7pGhdAcp) | 2:40 | 2022-10-23 |  |
 | [No Speaking](https://open.spotify.com/track/3p9Cswrn2zFBTe0iUqcwcw) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [No Speaking](https://open.spotify.com/album/2bQblaJC8OtJGFPXSR0lHc) | 3:18 | 2022-04-08 | 2022-04-20 |
 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 | 2021-10-05 |  |
 | [No Treason](https://open.spotify.com/track/5xWSAw47L9WSoOVoqqddfi) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [No Treason](https://open.spotify.com/album/53X8UCaiOwGAyyHTkQnWkl) | 2:41 | 2021-10-05 | 2022-07-08 |

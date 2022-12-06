@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba
 
-511 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+512 songs - 1 day 0 hr 46 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Genug von dir](https://open.spotify.com/track/1MLurEsyykUHYr2BUheeaz) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/4ljegebVR6pKgfE2OgULdk) | 2:29 | 2022-07-21 | 2022-10-09 |
 | [Genug von dir](https://open.spotify.com/track/7EMAXqufsn0uZIS91TuEDM) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/5MKU4q5E3TwE4H80qmktii) | 2:29 | 2022-10-07 |  |
 | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3) | 3:35 | 2022-12-01 |  |
+| [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 | 2022-12-05 |  |
 | [Giftig](https://open.spotify.com/track/69hi7EaJMbzSnEFoWrzrKy) | [Tommyn](https://open.spotify.com/artist/4bKMWpArwutcuzKitMc4ug) | [Giftig](https://open.spotify.com/album/2oUgnNxtcPynysaTQKPkZw) | 2:32 | 2022-07-04 | 2022-08-05 |
 | [Gilded Lily](https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q) | 3:32 | 2022-10-27 | 2022-11-03 |
 | [Gilded Lily](https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:32 | 2022-11-01 | 2022-11-22 |
@@ -429,7 +430,7 @@
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-20 | 2022-07-26 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-06-09 | 2022-09-02 |
 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 | 2022-09-09 | 2022-10-11 |
-| [Tables Turn \(Rheingold Soundtrack\)](https://open.spotify.com/track/2ngVtnpI2U6Cdu9CLzqb0U) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Tables Turn \(Rheingold Soundtrack\)](https://open.spotify.com/album/1CyDUESGZaBMByPxZqxL9p) | 2:59 | 2022-11-10 |  |
+| [Tables Turn \(Rheingold Soundtrack\)](https://open.spotify.com/track/2ngVtnpI2U6Cdu9CLzqb0U) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Tables Turn \(Rheingold Soundtrack\)](https://open.spotify.com/album/1CyDUESGZaBMByPxZqxL9p) | 2:59 | 2022-11-10 | 2022-12-06 |
 | [take a moment to breathe.](https://open.spotify.com/track/4oXmzcn9ritfb7n9rvZWf6) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [take a moment to breathe.](https://open.spotify.com/album/0toJrr2xW06CSwEut3bbK9) | 3:38 | 2022-06-09 | 2022-07-05 |
 | [Tattoos](https://open.spotify.com/track/6oGnFxltTet4MD3yuT5WvX) | [SAIM x CAN](https://open.spotify.com/artist/4YUesmru7Xm84LGTBKVBSc) | [Tattoos](https://open.spotify.com/album/3O9eISvQyM8vRnczqNghk7) | 2:05 | 2022-08-18 | 2022-10-07 |
 | [Taurus \(feat\. Naomi Wild\) \- From The Motion Picture Taurus](https://open.spotify.com/track/6J3Yay84inLJ6b37lpaHFi) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [Taurus \(feat\. Naomi Wild\) \[From The Motion Picture Taurus\]](https://open.spotify.com/album/5g4O8fSfK5bfRiDRV0mYhd) | 3:00 | 2022-11-24 |  |

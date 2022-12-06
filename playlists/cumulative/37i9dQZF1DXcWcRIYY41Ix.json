@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 270049,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
@@ -3403,6 +3403,28 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7"
+    },
+    {
+      "album": {
+        "name": "Mesa para dos",
+        "url": "https://open.spotify.com/album/40NPpKJy5gaL9j9mKk1Lhn"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        },
+        {
+          "name": "Fredi Leis",
+          "url": "https://open.spotify.com/artist/74JhFJgvnRd6yB9uVbtvLW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147302,
+      "name": "Mesa Para Dos",
+      "url": "https://open.spotify.com/track/2KFvKwbWqJKtjHq3Cblrtf"
     },
     {
       "album": {

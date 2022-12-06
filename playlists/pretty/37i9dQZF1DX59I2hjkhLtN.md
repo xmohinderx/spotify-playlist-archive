@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Puro L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,526 likes - 97 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,533 likes - 97 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 9 | [Ninguém Faz Ideia](https://open.spotify.com/track/6ZaVCWZIb8wiGrwFjcFadH) | [cravas](https://open.spotify.com/artist/3LuKat45xwOKJVMIxh7Bta) | [Ninguém Faz Ideia](https://open.spotify.com/album/0Qxl6uv7r0Bay9WQaGTJxY) | 2:49 |
 | 10 | [Genuíno](https://open.spotify.com/track/37EuzIEKHvMjBFwh2mQ3H0) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN), [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [IN.TEMP.](https://open.spotify.com/album/4NNnzLC4OAWwlOe0tHeVFl) | 3:05 |
 | 11 | [Yeye](https://open.spotify.com/track/1xzkQc0ul2PAPvCrBmlWsb) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Yeye](https://open.spotify.com/album/00pJrdgOVZDGudXcBy6qOZ) | 3:16 |
-| 12 | [Magoa](https://open.spotify.com/track/0OcZyaVvuwmy5ViC3K8Xz3) | [Jay Arghh](https://open.spotify.com/artist/7o2higvi9ddnRkkeexfCw5) | [Magoa](https://open.spotify.com/album/3oI3PqbVuLR8Qe9Et9k3FW) | 3:47 |
+| 12 | [Magoa](https://open.spotify.com/track/5qzXBPjUgx48dWoQcRgoC0) | [Baptista](https://open.spotify.com/artist/6s8rD4rVedAQIeh9mlthFH) | [Magoa](https://open.spotify.com/album/78KW4z2m4s0XAiVcOPb6Xl) | 3:46 |
 | 13 | [Sweet Spot](https://open.spotify.com/track/34OKMgqA9PgFjyCIRaW2zr) | [D3GV$](https://open.spotify.com/artist/7MIDIkZtju1sqG2WbbzxNS) | [Sweet Spot](https://open.spotify.com/album/5FoYHD1LpSPVPGGfd26D6p) | 3:06 |
 | 14 | [Tailândia](https://open.spotify.com/track/5RlCQwAzjQdSonvhgwptVy) | [Dário Pi](https://open.spotify.com/artist/0j1ImOmgUbSuACXrdHBgb8) | [Tailândia](https://open.spotify.com/album/0R7PzdagmL0l1ghXHrltLD) | 3:12 |
 | 15 | [Sunny Days](https://open.spotify.com/track/1SzOE79Umy051n5W8AurA4) | [GoblinKN](https://open.spotify.com/artist/0OJs0er3DOXBhjT6xZhNHA) | [Sunny Days](https://open.spotify.com/album/4OjoMiWyIYQkN5oshMfD1c) | 3:11 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 96 | [\#\#Stu](https://open.spotify.com/track/6NaNEwnwIa9dqKcwLS7mil) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf), [7](https://open.spotify.com/artist/6hoWo77VBtztMZ5tg5Mioo) | [\#\#Stu](https://open.spotify.com/album/63oJ3UVRUxKZAAkyi3dNnV) | 2:15 |
 | 97 | [Passepartout](https://open.spotify.com/track/7FxwVjDWhKhRGQCBvWtAwA) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2.1](https://open.spotify.com/album/2cZYFROLCjFILt3fB3HnUm) | 2:37 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMGFhMjgyMmM4MTRjNjhkYWY0ZmU3ZGMyMGE5ODgxODFk`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDExNWFkZDQzMzgyN2QxYmYwODZmZjI3MWEyMGE3YWQ3`

@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 341419,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
@@ -2681,7 +2681,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 556908,
       "name": "I Feel Love - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/37nppJzOgypngu1szTRD06"
@@ -4137,6 +4137,28 @@
       "duration_ms": 363094,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/4eP7VbswtkGd5Hlyj4E7Qx"
+    },
+    {
+      "album": {
+        "name": "Never Alone (Patrice B\u00e4umel Remix)",
+        "url": "https://open.spotify.com/album/188eX1q8qweT4oRiFBZqSd"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536266,
+      "name": "Never Alone - Patrice B\u00e4umel Remix",
+      "url": "https://open.spotify.com/track/5ZgaPxJRrPyIhbpeytTFYO"
     },
     {
       "album": {
@@ -6223,7 +6245,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 460165,
       "name": "Trilobit",
       "url": "https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov"

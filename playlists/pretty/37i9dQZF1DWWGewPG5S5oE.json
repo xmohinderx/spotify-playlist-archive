@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u548c\u4e45\u4e95\u6c99\u826f",
-  "num_followers": 20478,
+  "num_followers": 20522,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMDFjZTBhNDgwN2E1MTNjM2MyNTJmNmEyYzU3ZTQyYWY4",
+  "snapshot_id": "MTY2OTczNDAwMCwwMDAwMDAwMGUzNGY0Zjk4NTJhY2E0ZDhkYmE0NTU4MmExOTJiMDk3",
   "tracks": [
     {
       "added_at": "2022-11-22 15:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
+        "name": "ROUTE 20 HIT THE ROAD",
+        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
+      },
+      "artists": [
+        {
+          "name": "EGO-WRAPPIN\u2019",
+          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
+        }
+      ],
+      "duration_ms": 333843,
+      "name": "\u8272\u5f69\u306e\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 240933,
       "name": "\u3084\u308f\u3089\u304b\u306a\u591c",
       "url": "https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
-        "name": "ROUTE 20 HIT THE ROAD",
-        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
-      },
-      "artists": [
-        {
-          "name": "EGO-WRAPPIN\u2019",
-          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
-        }
-      ],
-      "duration_ms": 333843,
-      "name": "\u8272\u5f69\u306e\u30d6\u30eb\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "UNITY",
-        "url": "https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV"
-      },
-      "artists": [
-        {
-          "name": "Kyoto Jazz Sextet",
-          "url": "https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Extra Freedom",
-      "url": "https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 321346,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "UNITY",
+        "url": "https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV"
+      },
+      "artists": [
+        {
+          "name": "Kyoto Jazz Sextet",
+          "url": "https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Extra Freedom",
+      "url": "https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -603,22 +603,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "City Creatures",
-        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
       },
       "artists": [
         {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
         }
       ],
-      "duration_ms": 184670,
-      "name": "City Creatures",
-      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
+      "duration_ms": 300560,
+      "name": "Red Ocean",
+      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -643,34 +639,22 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "\u30dc\u30c3\u30b5\u30fb\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
-        "url": "https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg"
+        "name": "City Creatures",
+        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
       },
       "artists": [
         {
-          "name": "Yoshiko Kishino",
-          "url": "https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0"
-        }
-      ],
-      "duration_ms": 287880,
-      "name": "\u30dc\u30c3\u30b5\u30fb\u30ea\u30fc\u30d6\u30e9",
-      "url": "https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
-      },
-      "artists": [
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
         {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Red Ocean",
-      "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
+      "duration_ms": 184670,
+      "name": "City Creatures",
+      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -691,18 +675,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "EVENING!",
-        "url": "https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf"
+        "name": "\u30dc\u30c3\u30b5\u30fb\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
+        "url": "https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg"
       },
       "artists": [
         {
-          "name": "Anime That Jazz",
-          "url": "https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw"
+          "name": "Yoshiko Kishino",
+          "url": "https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0"
         }
       ],
-      "duration_ms": 263986,
-      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
-      "url": "https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2"
+      "duration_ms": 287880,
+      "name": "\u30dc\u30c3\u30b5\u30fb\u30ea\u30fc\u30d6\u30e9",
+      "url": "https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 294400,
       "name": "\u6700\u5f8c\u306e\u591c\u6c7d\u8eca",
       "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "EVENING!",
+        "url": "https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf"
+      },
+      "artists": [
+        {
+          "name": "Anime That Jazz",
+          "url": "https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
+      "url": "https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "NEW",
-        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
-      },
-      "artists": [
-        {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
-        }
-      ],
-      "duration_ms": 293920,
-      "name": "MotherLake",
-      "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
         "name": "Midnight Crisp",
         "url": "https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 326552,
       "name": "Midnight Crisp",
       "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
-        "name": "Squall",
-        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
-      },
-      "artists": [
-        {
-          "name": "INO hidefumi",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 236907,
-      "name": "Squall",
-      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -811,6 +779,38 @@
       "duration_ms": 132853,
       "name": "The Great U's Train",
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 293920,
+      "name": "MotherLake",
+      "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "Squall",
+        "url": "https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj"
+      },
+      "artists": [
+        {
+          "name": "INO hidefumi",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 236907,
+      "name": "Squall",
+      "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
     },
     {
       "added_at": "2022-11-22 15:00:00",

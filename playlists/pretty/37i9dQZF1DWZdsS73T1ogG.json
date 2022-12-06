@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chris Palace",
-  "num_followers": 509163,
+  "num_followers": 509173,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMDBhMGU0NjQ3MTk3ZjYwY2FkZjBiZGM3MDEzNjA4MDVl",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGNlNWFhMjJkNTg2ZDM4ZWQ3ZGY0NmRlYTdmODk3ZjUw",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -299,6 +299,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Fiera",
+        "url": "https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 175788,
+      "name": "Fiera",
+      "url": "https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 272463,
       "name": "Na Na Na - Remix",
       "url": "https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Fiera",
-        "url": "https://open.spotify.com/album/5wElk4V6mpataJOwrjLsj1"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 175788,
-      "name": "Fiera",
-      "url": "https://open.spotify.com/track/5cDyidxA6n2xI4iFsqzt6D"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -567,6 +567,42 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Que Duro",
+      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
         "url": "https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE"
       },
@@ -603,42 +639,6 @@
       "duration_ms": 368982,
       "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
       "url": "https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 132080,
-      "name": "Adentro",
-      "url": "https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Siempre Blessd",
-        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Que Duro",
-      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -711,30 +711,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Instagram (Remix)",
-        "url": "https://open.spotify.com/album/2VJLr9Szd9xv7Dcrey5oOd"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 243622,
-      "name": "Instagram - Remix",
-      "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Ya Casi Vienen",
         "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 198247,
       "name": "KAWAII",
       "url": "https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Instagram (Remix)",
+        "url": "https://open.spotify.com/album/2VJLr9Szd9xv7Dcrey5oOd"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 243622,
+      "name": "Instagram - Remix",
+      "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Fumando",
-        "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Fumando",
-      "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Toro",
         "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 186601,
       "name": "Doxxis",
       "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Fumando",
+        "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Fumando",
+      "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Fundota",
+        "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "Fundota",
+      "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Diablo BB",
         "url": "https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6"
       },
@@ -1027,42 +1043,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Fundota",
-        "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Fundota",
-      "url": "https://open.spotify.com/track/5MZIwnOllAg7HCrWpjSIXu"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "La Bruja",
-        "url": "https://open.spotify.com/album/3wYjwsYatnNrbwTOSAt5AL"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/1jYmFEVdOkPfhxuYF5fE7S"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Haci\u00e9ndolo",
         "url": "https://open.spotify.com/album/7ESIsApWZrcBu8ZWF1bYIy"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 207906,
       "name": "Haci\u00e9ndolo",
       "url": "https://open.spotify.com/track/68uBj4QKLHQJwlANkytJxO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "La Bruja",
+        "url": "https://open.spotify.com/album/3wYjwsYatnNrbwTOSAt5AL"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/1jYmFEVdOkPfhxuYF5fE7S"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 184072,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Tusi",
         "url": "https://open.spotify.com/album/1BEDxGAOBRrYFqEGZP9IY8"
       },
@@ -1163,18 +1179,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
+        "name": "Sigo Feliz",
+        "url": "https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ"
       },
       "artists": [
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 184072,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI"
+      "duration_ms": 220418,
+      "name": "Sigo Feliz",
+      "url": "https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1203,26 +1223,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Sigo Feliz",
-        "url": "https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 220418,
-      "name": "Sigo Feliz",
-      "url": "https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
       },
@@ -1239,26 +1239,6 @@
       "duration_ms": 210500,
       "name": "SALVAJE",
       "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Hit$ Mu$ic (VOL. 1)",
-        "url": "https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "HIT$ MUSIC",
-          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "EN LA LENTA",
-      "url": "https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1295,6 +1275,26 @@
       "duration_ms": 323720,
       "name": "Dame Lu - Remix",
       "url": "https://open.spotify.com/track/3lyi8wF8mZ3rET1MCXgEQj"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Hit$ Mu$ic (VOL. 1)",
+        "url": "https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "EN LA LENTA",
+      "url": "https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Suge Knight",
+        "url": "https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 498346,
+      "name": "Suge Knight",
+      "url": "https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Pi\u00f1a",
         "url": "https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 144691,
       "name": "Pi\u00f1a",
       "url": "https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Suge Knight",
-        "url": "https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 498346,
-      "name": "Suge Knight",
-      "url": "https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Pituquita",
-        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
+        "name": "Adelantah",
+        "url": "https://open.spotify.com/album/763mXMD81HRsSDBXwGQm4P"
       },
       "artists": [
         {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
-        },
-        {
-          "name": "Nero Lvigi",
-          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
         }
       ],
-      "duration_ms": 183813,
-      "name": "Pituquita",
-      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/27u1JKx7rpApMvFiXrU2gn"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1511,6 +1507,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Pituquita",
+        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
+      },
+      "artists": [
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
+        },
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Pituquita",
+      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Solteras y Bandidos",
         "url": "https://open.spotify.com/album/1P2x98BuSrjoTCrDw18JsQ"
       },
@@ -1523,30 +1539,6 @@
       "duration_ms": 157021,
       "name": "Solteras y Bandidos",
       "url": "https://open.spotify.com/track/53WPpMiDP3MTyINUMxigga"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Prendete",
-        "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
-      },
-      "artists": [
-        {
-          "name": "Ery",
-          "url": "https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nesi",
-          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
-        }
-      ],
-      "duration_ms": 213837,
-      "name": "Prendete",
-      "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1579,18 +1571,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Adelantah",
-        "url": "https://open.spotify.com/album/763mXMD81HRsSDBXwGQm4P"
+        "name": "Prendete",
+        "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
       },
       "artists": [
         {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+          "name": "Ery",
+          "url": "https://open.spotify.com/artist/233EuLolQJNuWaoQf617jD"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
         }
       ],
-      "duration_ms": 204296,
-      "name": "Adelantah",
-      "url": "https://open.spotify.com/track/27u1JKx7rpApMvFiXrU2gn"
+      "duration_ms": 213837,
+      "name": "Prendete",
+      "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Contesto O Ignoro",
+        "url": "https://open.spotify.com/album/3pDm0pLIA6s7HkaPn2Hzgx"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Contesto O Ignoro",
+      "url": "https://open.spotify.com/track/5Yv8IUIyZweYCJXYEYnV9W"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/0G3vkCth2P8SOIytPw1e5P"
       },
@@ -1727,26 +1747,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Contesto O Ignoro",
-        "url": "https://open.spotify.com/album/3pDm0pLIA6s7HkaPn2Hzgx"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "Contesto O Ignoro",
-      "url": "https://open.spotify.com/track/5Yv8IUIyZweYCJXYEYnV9W"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB"
       },
@@ -1771,22 +1771,6 @@
       "duration_ms": 204827,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Sin Amar",
-        "url": "https://open.spotify.com/album/0EmVeO1h0aQkHQfE1ycCIr"
-      },
-      "artists": [
-        {
-          "name": "Cauty",
-          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Sin Amar",
-      "url": "https://open.spotify.com/track/1nh7ZqNRfxO3yJXEGtYLxR"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Sin Amar",
+        "url": "https://open.spotify.com/album/0EmVeO1h0aQkHQfE1ycCIr"
+      },
+      "artists": [
+        {
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Sin Amar",
+      "url": "https://open.spotify.com/track/1nh7ZqNRfxO3yJXEGtYLxR"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Panas",
         "url": "https://open.spotify.com/album/2ErDXZjybH2hnAwNe6PWzf"
       },
@@ -1839,46 +1839,6 @@
       "duration_ms": 217674,
       "name": "Panas",
       "url": "https://open.spotify.com/track/0pw3Dd2IECWlyljlK94yYc"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/4ONgWtVITzY9HjFGWk8OyK"
-      },
-      "artists": [
-        {
-          "name": "Gotay \"El Autentiko\"",
-          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
-        }
-      ],
-      "duration_ms": 149932,
-      "name": "Inalcanzable",
-      "url": "https://open.spotify.com/track/1YscXjm7Is99GXDkxVDCkn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Se Vive",
-        "url": "https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC"
-      },
-      "artists": [
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        },
-        {
-          "name": "Ch12",
-          "url": "https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj"
-        },
-        {
-          "name": "Dayme y El High",
-          "url": "https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "Se Vive",
-      "url": "https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1907,6 +1867,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/4ONgWtVITzY9HjFGWk8OyK"
+      },
+      "artists": [
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        }
+      ],
+      "duration_ms": 149932,
+      "name": "Inalcanzable",
+      "url": "https://open.spotify.com/track/1YscXjm7Is99GXDkxVDCkn"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Obvio",
         "url": "https://open.spotify.com/album/4JWCU9l3VqFMwi08IfjMjB"
       },
@@ -1919,6 +1895,30 @@
       "duration_ms": 214906,
       "name": "Obvio",
       "url": "https://open.spotify.com/track/6uzFCFLkAw2liJlaW6SSdI"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Se Vive",
+        "url": "https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC"
+      },
+      "artists": [
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Ch12",
+          "url": "https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj"
+        },
+        {
+          "name": "Dayme y El High",
+          "url": "https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Se Vive",
+      "url": "https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c"
     },
     {
       "added_at": "2022-12-02 05:00:00",

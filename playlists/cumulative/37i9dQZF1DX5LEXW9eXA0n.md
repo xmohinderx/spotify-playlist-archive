@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Lim Young Woong\(임영웅\)\) \(당신의 감성에 발라드, 려요\)
 
-602 songs - 1 day 15 hr 4 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
+605 songs - 1 day 15 hr 17 min - [published](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 | 2022-07-07 | 2022-08-02 |
 | [Close to You \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/6JWBfjrCBDXKtFM1ViEAYU) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Love in Contract, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7ySPnI7trS0YQkVN0B3yMk) | 3:48 | 2022-11-16 |  |
 | [COLD LOVE](https://open.spotify.com/track/4lyJXFhjQ6D0XMMAddhzZP) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [COLD LOVE](https://open.spotify.com/album/3aOrMwQ4CXnSROnZlIZqbB) | 3:35 | 2021-12-23 | 2022-07-07 |
+| [Come back](https://open.spotify.com/track/3zerSNZzG5MqbyQK6mYH1d) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [Come back](https://open.spotify.com/album/12D3oDk7gbnBLhjXhzNkQl) | 4:11 | 2022-12-05 |  |
 | [Come to me](https://open.spotify.com/track/15B4c0s5pFerL39gsAI5Wt) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3U0ByqNYH9fMoRr8Wo6qgc) | 3:30 | 2022-09-21 |  |
 | [Come To Me](https://open.spotify.com/track/05pbVnnOT6C2ZLgpYQQyoL) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Come To Me](https://open.spotify.com/album/2PVTXDLjxC8C4FoBC5DRY8) | 3:56 | 2022-10-12 |  |
 | [Common Regret](https://open.spotify.com/track/56guunK8Kb6rtwTiYZAxwJ) | [Jero](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Monthly magazine home \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/6botCjfBk16Z9AjJL1jv9U) | 4:17 | 2022-01-17 | 2022-01-26 |
@@ -119,6 +120,7 @@
 | [Dear H \(feat\. Lee Tae Kwon\)](https://open.spotify.com/track/4CwAfMWDfwe3MrhyHg4EAS) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Lee Tae Kwon](https://open.spotify.com/artist/0HYkV9ugwyR5INWE6BiCB3) | [The Legacy 08](https://open.spotify.com/album/0J9BcfUwJc47iNde0dCIBN) | 4:19 | 2022-07-07 | 2022-08-20 |
 | [Dear My Love](https://open.spotify.com/track/6QdzLFR1l1GP4OoiJAZNtF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [When the Weather is fine OST Part.4](https://open.spotify.com/album/2OMholRSxY7jILMGLWXuJD) | 4:45 | 2022-03-24 | 2022-04-17 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-08-12 |  |
+| [December\. 24](https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [December\. 24](https://open.spotify.com/album/4DHi2uDjBt98cQzfSD7Fut) | 3:30 | 2022-12-05 |  |
 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 | 2022-06-20 | 2022-06-28 |
 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 | 2022-11-23 |
 | [Delusion](https://open.spotify.com/track/4wPkbwbfLXp5bxcXIChEwZ) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [Delusion](https://open.spotify.com/album/3Gwv2xWkC0H7EXBTDVwVNE) | 3:24 | 2022-11-09 |  |
@@ -152,6 +154,7 @@
 | [Endlessly \(Prod\. SonIsaac\)](https://open.spotify.com/track/3CveBxz6yDXJAqQpeBjJDT) | [Choi Hyun Joon](https://open.spotify.com/artist/51Ch5o1UA1jHPQhzapDemW) | [DUSK, Diary Project Part\. 1](https://open.spotify.com/album/0jFl084uXUYSYsy9EQTuvl) | 4:03 | 2022-07-07 | 2022-10-15 |
 | [Eternal](https://open.spotify.com/track/5Cv0Y5xWlEUCZKzzmq44eP) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:53 | 2022-02-10 | 2022-02-17 |
 | [Eternal Sunshine](https://open.spotify.com/track/2iEykY8EqjYrG3Gz7GdpMu) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Eternal Sunshine 1/2](https://open.spotify.com/album/0VDhjoUAHsS4Go5f6JMGrO) | 3:10 | 2021-12-20 | 2022-07-08 |
+| [Eternity](https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Eternity](https://open.spotify.com/album/7ouOKBMuNwrBddH82YWTmO) | 5:37 | 2022-12-05 |  |
 | [Even if fate separates us](https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t) | [Song Ha Yea](https://open.spotify.com/artist/28swpgrq4Fmfayz13dWrJi) | [Even if fate separates us](https://open.spotify.com/album/1aM0VqxuVamCdVAhbfiMVq) | 3:49 | 2022-06-18 | 2022-09-06 |
 | [Even if nobody cares for you](https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Nobody Knows \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/7pVx21fpVF6hh4mG8cbANz) | 3:20 | 2022-01-27 | 2022-06-24 |
 | [Even Then, I](https://open.spotify.com/track/3aATak00Bg68cyJwMyIgrS) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [Even Then, I](https://open.spotify.com/album/3PXL79oceHp1bAMpGVknD4) | 4:31 | 2022-05-03 | 2022-05-12 |

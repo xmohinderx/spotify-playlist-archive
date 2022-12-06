@@ -978,6 +978,28 @@
     },
     {
       "album": {
+        "name": "Descalzo",
+        "url": "https://open.spotify.com/album/0i1fEBRGPphcPQTCzD3EHb"
+      },
+      "artists": [
+        {
+          "name": "Derun",
+          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
+        },
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447680,
+      "name": "Descalzo",
+      "url": "https://open.spotify.com/track/2jcW2YUOaih8Gywf4hgL4b"
+    },
+    {
+      "album": {
         "name": "Desert Rose",
         "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
       },
@@ -3513,7 +3535,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 378000,
       "name": "Qalbi",
       "url": "https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX"
@@ -4147,7 +4169,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 274889,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
@@ -4363,6 +4385,28 @@
       "duration_ms": 182505,
       "name": "Whenever You Go (La La La)",
       "url": "https://open.spotify.com/track/3YVnOK6dOqXFXbbPKOmmBB"
+    },
+    {
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Metro Boomin ft\. The Weeknd & 21 Savage, A$AP Rocky, Nas, Latto is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,950 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,959 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

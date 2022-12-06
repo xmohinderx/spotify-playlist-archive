@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-276 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+277 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [White Science](https://open.spotify.com/track/20uWNggVIdMpdFNVXZi9iR) | [John FM](https://open.spotify.com/artist/0vscEUhV9isTMclPcVz7zr), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [White Science](https://open.spotify.com/album/7hZUXZMBt4I2mHzWXubUt9) | 4:13 | 2022-09-14 | 2022-10-13 |
 | [Will Get Fooled Again \- Katie Dey Cover](https://open.spotify.com/track/30KHZE5UtVAFZKLCLVXydi) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc) | [Will Get Fooled Again \(Katie Dey Cover\)](https://open.spotify.com/album/0MNe5TZRA9xKuyoQ9aITYJ) | 3:17 | 2022-07-21 | 2022-09-15 |
 | [Wood](https://open.spotify.com/track/3EyxbmvNxqvFLmqRMc5Caw) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Meeting with a Judas Tree](https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg) | 3:32 | 2022-11-23 |  |
+| [Woofin' and Meowin'](https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Woofin' and Meowin'](https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ) | 2:47 | 2022-12-05 |  |
 | [You Got The Silver](https://open.spotify.com/track/3VPE7mBeUwK0id0xjvLRmV) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Got The Silver](https://open.spotify.com/album/3RERBCKuUVn5bjO9L4lqmd) | 2:58 | 2022-06-08 | 2022-07-14 |
 | [You Know I Know](https://open.spotify.com/track/6qHE3sYl2EEf48iTy1rdWG) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/6UY5t9DTGGXtaGzEKlB59A) | 3:00 | 2022-11-09 |  |
 | [Zum Herz](https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO), [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Zum Herz](https://open.spotify.com/album/0miVSp8X4tYSuxINhZRyO8) | 4:18 | 2022-08-03 | 2022-09-15 |

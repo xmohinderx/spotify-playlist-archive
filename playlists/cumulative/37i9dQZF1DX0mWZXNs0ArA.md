@@ -4,7 +4,7 @@
 
 > 150%
 
-110 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+111 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 | 2022-06-09 |  |
 | [Alternative Girl \(Sped Up + Reverb\)](https://open.spotify.com/track/1smghCB7wGjb4Spg0IocM1) | [Mix The Take](https://open.spotify.com/artist/6vrA33ZpKXZ0xXng1H0Frg) | [Alternative Girl \(Slowed/Sped Up + Reverb\)](https://open.spotify.com/album/07Q2bdlMtshCPpC1gG5YGv) | 2:06 | 2022-06-09 | 2022-07-23 |
 | [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 | 2022-08-12 |  |
+| [AVA \(Sped Up\)](https://open.spotify.com/track/3Jb00jDoYOA7xHq4L2mWpZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA \(Sped Up\)](https://open.spotify.com/album/0jTLi50ltr0l8mIBS5XM9e) | 2:17 | 2022-12-05 |  |
 | [AYANO \- Speed Up](https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [AYANO \(Speed Up\)](https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1) | 1:48 | 2022-09-09 | 2022-09-23 |
 | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/track/4PwGpbqCyhmRdF8PjD4w79) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\) \[feat\. Eliza Rose & Interplanetary Criminal\] \[Sped Up Version\]](https://open.spotify.com/album/2I2owsGfmBSq0bZPxD6dN9) | 3:09 | 2022-11-22 |  |
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-06-22 |  |

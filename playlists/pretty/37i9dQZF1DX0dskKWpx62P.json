@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 24436,
+  "num_followers": 24467,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDBhZWE4YzRkNjBlODgyYmMwNzg1MDIzMjlkYTVlYmQy",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDQ2NjliZGM4MzIzYmIzNGNkMDExZmYyNWQyMWRkNmFm",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Un Sentimiento de Amor",
+        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edces D'Jauja",
+          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
+        }
+      ],
+      "duration_ms": 277603,
+      "name": "Amor Ajeno",
+      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
       },
@@ -347,6 +363,22 @@
       "duration_ms": 281730,
       "name": "Ay Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
+      },
+      "artists": [
+        {
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Chuquibambinita",
+      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -383,22 +415,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
-      },
-      "artists": [
-        {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Chuquibambinita",
-      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Amor, amor",
         "url": "https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 197866,
       "name": "Otra vez me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/6WATTVi4gRkxzavGw2YZtq"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Un Sentimiento de Amor",
-        "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00edces D'Jauja",
-          "url": "https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D"
-        }
-      ],
-      "duration_ms": 277603,
-      "name": "Amor Ajeno",
-      "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La princesa del Folklore",
-        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Delgado",
-          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "D\u00f3nde Est\u00e1 tu Dinero",
-      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Caminando Y Cantando",
         "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Los Pacharacos",
-        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
+        "name": "La princesa del Folklore",
+        "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
       "artists": [
         {
-          "name": "Los Pacharacos",
-          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
+          "name": "Alicia Delgado",
+          "url": "https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW"
         }
       ],
-      "duration_ms": 177133,
-      "name": "R\u00edo Mantaro",
-      "url": "https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj"
+      "duration_ms": 270000,
+      "name": "D\u00f3nde Est\u00e1 tu Dinero",
+      "url": "https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -635,6 +619,22 @@
       "duration_ms": 188786,
       "name": "A los Filos de un Cuchillo",
       "url": "https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Pacharacos",
+        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Pacharacos",
+          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "R\u00edo Mantaro",
+      "url": "https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La Reina de las Parranditas",
         "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 220708,
       "name": "Cuanto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huaylash Pio Pio",
         "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Yo Soy el Amor, Vol. 15",
-        "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
         }
       ],
-      "duration_ms": 340653,
-      "name": "Yo Soy el Amor",
-      "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -835,6 +819,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Yo Soy el Amor, Vol. 15",
+        "url": "https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+        }
+      ],
+      "duration_ms": 340653,
+      "name": "Yo Soy el Amor",
+      "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Ayacucho En El Corazon De Todos Vol.2",
         "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+        "name": "Calaveras Serranas",
+        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
       },
       "artists": [
         {
-          "name": "El Comunero de Los Andes",
-          "url": "https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR"
+          "name": "Luis Mendoza",
+          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
         }
       ],
-      "duration_ms": 159453,
-      "name": "Triste Enamorado",
-      "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
+      "duration_ms": 171415,
+      "name": "Dejame Asi",
+      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -879,22 +879,6 @@
       "duration_ms": 173066,
       "name": "Serenata Condemayta",
       "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
-      },
-      "artists": [
-        {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Tomando Cerveza",
-      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -919,18 +903,34 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Calaveras Serranas",
-        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
       "artists": [
         {
-          "name": "Luis Mendoza",
-          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
         }
       ],
-      "duration_ms": 171415,
-      "name": "Dejame Asi",
-      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
+      "duration_ms": 180853,
+      "name": "Tomando Cerveza",
+      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "El Comunero de Los Andes",
+          "url": "https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Triste Enamorado",
+      "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Sobreviviendo",
-        "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
-      },
-      "artists": [
-        {
-          "name": "Antologia",
-          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
-        }
-      ],
-      "duration_ms": 377280,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huayno Music of Peru, Vol. 1",
         "url": "https://open.spotify.com/album/6BmF9UOYhJPnn4QqWscWfs"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 153240,
       "name": "Quisiera Olvidarte",
       "url": "https://open.spotify.com/track/6fjbD1QYBlkSTQrwbIMvFE"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Sobreviviendo",
+        "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
+      },
+      "artists": [
+        {
+          "name": "Antologia",
+          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
+        }
+      ],
+      "duration_ms": 377280,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

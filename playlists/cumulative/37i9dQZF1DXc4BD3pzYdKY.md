@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Aaron Cole
 
-726 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+727 songs - 1 day 12 hr 38 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [Run](https://open.spotify.com/track/4qzirIMTlJblsRSkVByPHX) | [Lyne Nsongo](https://open.spotify.com/artist/5jSmCziGF235deMJthrIMA), [David Okit](https://open.spotify.com/artist/2TNEke8iPCbFBj8Tp9KlnJ) | [Run](https://open.spotify.com/album/2gsAFy50lZsU5vrzFin6sd) | 2:54 | 2022-10-07 | 2022-10-09 |
 | [Run A Bag](https://open.spotify.com/track/3TIGNuFMoOD6B3VP6mHVO3) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Run A Bag](https://open.spotify.com/album/2jT7lbecAOaO708xio98qC) | 3:05 | 2022-07-17 | 2022-09-12 |
 | [RUSH](https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61) | [Kaboose](https://open.spotify.com/artist/2zD5NNTrgXT3o2RVrRBvv1), [Joe Bills](https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4) | [RUSH](https://open.spotify.com/album/065QDCv1XieAGlpweuCSEP) | 2:49 | 2022-04-29 | 2022-08-07 |
-| [Safe](https://open.spotify.com/track/4UbnBTANJcMsvAq8cc3hQe) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Safe](https://open.spotify.com/album/4iwaGwvXlj1kwJFQZvKNWT) | 2:21 | 2022-09-11 |  |
+| [Safe](https://open.spotify.com/track/4UbnBTANJcMsvAq8cc3hQe) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Safe](https://open.spotify.com/album/4iwaGwvXlj1kwJFQZvKNWT) | 2:21 | 2022-09-11 | 2022-12-06 |
 | [Safe Place](https://open.spotify.com/track/1R4kuiADwioE3Qlh80nmaO) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [everywhere + nowhere](https://open.spotify.com/album/7gUHT1RKm9105NtC9tDuJe) | 5:02 | 2021-12-11 | 2022-01-23 |
 | [Salvation](https://open.spotify.com/track/6psPHYuC6pYJY3lNrO09lS) | [Leon Anderson](https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV) | [NOAH](https://open.spotify.com/album/2wwFwZTOECs3iibPMeAvNX) | 1:42 | 2022-02-04 | 2022-04-28 |
 | [Save Me](https://open.spotify.com/track/6C38lHxz5JPknq7A1xyNIg) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Save Me](https://open.spotify.com/album/6y4waxxiME727LlEzkoItv) | 3:13 | 2022-02-27 | 2022-04-24 |
@@ -593,6 +593,7 @@
 | [Still 40 Deep](https://open.spotify.com/track/5yqhWeJnZWf8lYY8OTBAMP) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Still 40 Deep](https://open.spotify.com/album/55WJJhhkdRw4V3JKCPfz5b) | 2:05 | 2021-12-11 | 2022-01-31 |
 | [Still Alive \(feat\. Thi'sl, Scootie Wop & BigBreeze\)](https://open.spotify.com/track/4lWXnCZ4YTWNFCYt0Ebnjb) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Still Alive \(feat\. Thi'sl, Scootie Wop & BigBreeze\)](https://open.spotify.com/album/6CxM2HSq87GwexXotCJ022) | 3:26 | 2022-03-05 | 2022-04-26 |
 | [STILL GOING](https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [STILL GOING](https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ) | 1:28 | 2022-04-29 | 2022-08-07 |
+| [Still Hungry](https://open.spotify.com/track/5Pfd2yyAFif05Ie3oorPoB) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [ZOU](https://open.spotify.com/artist/0p8iLYWR8cuT4AovbkPIxu), [Scootie Wop](https://open.spotify.com/artist/4AERNlPWo2z86KfUCfu2LU), [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w) | [Still Hungry](https://open.spotify.com/album/5Aalwoihbm3hpdDQaGpXp2) | 3:24 | 2022-11-25 |  |
 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 | 2022-11-04 |  |
 | [STIX](https://open.spotify.com/track/1EgBhj7zEO8c1IozLh0lN7) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [LOWERCASE TAPE.](https://open.spotify.com/album/4r8c1dnHiTKnZSgzx9ae9L) | 1:59 | 2021-12-11 | 2021-12-25 |
 | [Stone](https://open.spotify.com/track/1Ugp9UQyfz25y1JPA2z0pu) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Stone](https://open.spotify.com/album/580JJVevsUusyRA0qKo2MM) | 4:07 | 2022-02-27 | 2022-08-07 |

@@ -1,15 +1,15 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Shiva",
-  "num_followers": 761180,
+  "num_followers": 761586,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzNTY2MCwwMDAwMDAwMGM0NDlkMjdhYTNhYTJkYzU4MzMzODcxMWFiMTA0ZGQ4",
+  "snapshot_id": "MTY3MDI4NDg2MCwwMDAwMDAwMDJmMjcyY2FjZjlmZmQ2YmUyYTY5OTY2ZmFkNjBmMzE3",
   "tracks": [
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Take 4",
         "url": "https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
+      "album": {
+        "name": "Lo-fi For U",
+        "url": "https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 203489,
+      "name": "Lo-fi For U",
+      "url": "https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9"
+    },
+    {
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/1mq3yDFC1hBukqGvrmOW2q"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "PENSAVA",
         "url": "https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
         "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Plaquette",
         "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Sottozero",
         "url": "https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "CASA",
         "url": "https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Michelle Pfeiffer (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "AUTOSTOP",
         "url": "https://open.spotify.com/album/08axqrdrj5kYIBJt3nLQ3Y"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/5VHCKZj4U8B2uxgV1ep0pI"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Tchikita",
         "url": "https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/3ztWRav85xIq8FUmBDr3cu"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "X2 DELUXE",
         "url": "https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Senza Emotions (feat. ANNA)",
         "url": "https://open.spotify.com/album/0FNNeKxLa3jbl3Fl4JzRch"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/71LQrUFG59w2vjhYe8Epue"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
@@ -477,7 +497,35 @@
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
+      "album": {
+        "name": "PLC tape 1",
+        "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
+      "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
+    },
+    {
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "MUJER",
         "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Sharm El Sheikh",
         "url": "https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Ferrari (Remix)",
         "url": "https://open.spotify.com/album/0zWMvd5j2ozFDLycUIVzbt"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/3XucsgiwXb8KPn9Csf9Zmu"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/6Y2Z4GgQaDD31T9HLBtpD2"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Perdonami (feat. Neima Ezza)",
         "url": "https://open.spotify.com/album/5B7jCb6zxCfUco2RlSOqTq"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/5FDcvMV87UABSO1cgwT3e7"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "X2 DELUXE",
         "url": "https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/0TmwCu4nH8jntqXnDlH0qr"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
@@ -649,23 +697,7 @@
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "IO NON HO PAURA",
-        "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 205659,
-      "name": "BU!",
-      "url": "https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
@@ -689,7 +721,43 @@
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
+      "album": {
+        "name": "Shawty (feat. ANNA)",
+        "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 184931,
+      "name": "Shawty (feat. ANNA)",
+      "url": "https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G"
+    },
+    {
+      "added_at": "2022-12-06 00:01:00",
+      "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 205659,
+      "name": "BU!",
+      "url": "https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd"
+    },
+    {
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Quanto Manca",
         "url": "https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK"
@@ -713,31 +781,7 @@
       "url": "https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Paura e Soldi",
-        "url": "https://open.spotify.com/album/2N1YCJzFbBJ3MnWIx4PATm"
-      },
-      "artists": [
-        {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        },
-        {
-          "name": "Timongothekeys",
-          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
-        }
-      ],
-      "duration_ms": 166069,
-      "name": "Paura e Soldi",
-      "url": "https://open.spotify.com/track/1Gjw5Gy6FIRp1B4tixbt99"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -761,27 +805,7 @@
       "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Latitanza (feat. Izi)",
-        "url": "https://open.spotify.com/album/1ZwH6KjOpnhP5w0NbGHY1m"
-      },
-      "artists": [
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 186472,
-      "name": "Latitanza (feat. Izi)",
-      "url": "https://open.spotify.com/track/5Ck1c9wpvyFv03QcmJhdk9"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
@@ -797,7 +821,31 @@
       "url": "https://open.spotify.com/track/3W2tsZcoDxmNQaw61Kz1rb"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
+      "album": {
+        "name": "Paura e Soldi",
+        "url": "https://open.spotify.com/album/2N1YCJzFbBJ3MnWIx4PATm"
+      },
+      "artists": [
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "duration_ms": 166069,
+      "name": "Paura e Soldi",
+      "url": "https://open.spotify.com/track/1Gjw5Gy6FIRp1B4tixbt99"
+    },
+    {
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Caos",
         "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
@@ -821,7 +869,23 @@
       "url": "https://open.spotify.com/track/5ychvxJuts6RyjQz2aoXqY"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
+      "album": {
+        "name": "Trafficante",
+        "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Trafficante",
+      "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
+    },
+    {
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Bottiglie rotte (feat. Emis Killa & Gemitaiz)",
         "url": "https://open.spotify.com/album/5lsHnWwEEp1sBenmYDYNid"
@@ -845,23 +909,7 @@
       "url": "https://open.spotify.com/track/16Mq5VdmOEtKg3kYSp0Dpp"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Trafficante",
-        "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Trafficante",
-      "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
@@ -877,7 +925,27 @@
       "url": "https://open.spotify.com/track/1rXqb6AK9Sd0ZG1nPOAbrW"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
+      "album": {
+        "name": "Latitanza (feat. Izi)",
+        "url": "https://open.spotify.com/album/1ZwH6KjOpnhP5w0NbGHY1m"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "duration_ms": 186472,
+      "name": "Latitanza (feat. Izi)",
+      "url": "https://open.spotify.com/track/5Ck1c9wpvyFv03QcmJhdk9"
+    },
+    {
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -893,27 +961,7 @@
       "url": "https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Shawty (feat. ANNA)",
-        "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
-      },
-      "artists": [
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 184931,
-      "name": "Shawty (feat. ANNA)",
-      "url": "https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
@@ -941,7 +989,7 @@
       "url": "https://open.spotify.com/track/52o5vmiZYvQinAT8QqZ7Rw"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -957,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
@@ -977,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
     },
     {
-      "added_at": "2022-12-01 23:01:00",
+      "added_at": "2022-12-06 00:01:00",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -995,54 +1043,6 @@
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "4 MANI",
-        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
-      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
-    },
-    {
-      "added_at": "2022-12-01 23:01:00",
-      "album": {
-        "name": "Settembre",
-        "url": "https://open.spotify.com/album/1W06j6H9EF3HEMxX6yEr3J"
-      },
-      "artists": [
-        {
-          "name": "Diss Gacha",
-          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
-        },
-        {
-          "name": "Sala",
-          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/4hUS2xbkB22ErKwVi8PyCg"
     }
   ],
   "unique_name": "Plus Ultra",

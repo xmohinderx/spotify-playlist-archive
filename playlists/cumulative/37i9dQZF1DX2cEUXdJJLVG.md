@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-203 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
+206 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [I Got Your Back](https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Got Your Back](https://open.spotify.com/album/6CC5BUqncXiqJOSKi1ZCu1) | 3:05 | 2022-09-09 | 2022-11-27 |
 | [I Want](https://open.spotify.com/track/2k9E1OlHPxIKT6y46726Mv) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [I Want](https://open.spotify.com/album/0IQNUnAmWi9KSZEOLjsPHe) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [I Want You \- Underboss Remix](https://open.spotify.com/track/5XglCdjCtfFJpKlIOf1y4I) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [I Want You \(Underboss Remix\)](https://open.spotify.com/album/1d5Aaipwunfid3kaIchL0E) | 5:23 | 2022-09-09 | 2022-10-15 |
+| [I'm A Blessed Man](https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Mister Vi](https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 9:56 | 2022-12-05 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-09-09 |  |
 | [In Touch \(feat\. Daul\)](https://open.spotify.com/track/6XPY03nLWtiZOIkTs2IBjN) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [In Touch \(feat\. Daul\)](https://open.spotify.com/album/5ewjsi9Fd4yMPsdaUus5VY) | 3:41 | 2022-09-09 | 2022-09-16 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-09-09 |  |
@@ -174,6 +175,7 @@
 | [So I Lie](https://open.spotify.com/track/1erZEUKhZ03cHHD0vOr8aQ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Art Dealer Chic 4](https://open.spotify.com/album/0HjWJuW1StzouaOWndsxt9) | 3:57 | 2022-09-09 |  |
 | [Softly \- Cuppy Remix](https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Softly \(Cuppy Remix\)](https://open.spotify.com/album/4QJjnkrmYwQ3YypwLENCUQ) | 2:31 | 2022-09-09 |  |
 | [Someone Special](https://open.spotify.com/track/4idEjqHVBPG2y2nTukwUys) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Someone Special](https://open.spotify.com/album/4u3seoESGmhG7etMrgrdaL) | 3:18 | 2022-09-22 |  |
+| [Soul Caliber \(Remix\)](https://open.spotify.com/track/455v0kWFW362VlD22VJFvz) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [h0wdy](https://open.spotify.com/artist/2Cub16XBwQ5vWVzVveNLH1), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [Soul Caliber \(Remix\)](https://open.spotify.com/album/6hEiPo9qf1SegYq6l6f3tF) | 3:44 | 2022-12-05 |  |
 | [Soul Liberator \- Kerem Akdağ Remix](https://open.spotify.com/track/3T0wb0HTqKGhEMdTCn3gUt) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Sanguita Akkrum](https://open.spotify.com/artist/2InEuUF9oBtn5E8IstCrIs), [Kerem Akdağ](https://open.spotify.com/artist/5DxrSUpHixL1t8os9E7xOz) | [Pleasure Centre Remixed](https://open.spotify.com/album/5ica5FqEeFkG3vOmhj8Ey7) | 3:08 | 2022-09-09 | 2022-09-16 |
 | [Spare Me](https://open.spotify.com/track/2cH0clQUvBwo77M8W2YQ3D) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Spare Me](https://open.spotify.com/album/0MQaaH4YZEapRhhaJOVDG9) | 3:20 | 2022-09-09 | 2022-10-15 |
 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2022-09-09 |  |
@@ -210,6 +212,7 @@
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 | 2022-09-09 | 2022-09-22 |
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/7rxDQ5tgnJ4T6gJL1HyoZ1) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:45 | 2022-09-15 | 2022-10-13 |
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2022-09-09 |  |
+| [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 |  |
 | [ZBRA](https://open.spotify.com/track/3qdXAF9oso5YlFm1imEGV6) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Débuts](https://open.spotify.com/album/05tLWcrTEgOThINtKQAMhi) | 4:34 | 2022-09-09 | 2022-10-15 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

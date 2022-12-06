@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-197 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
+198 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Say What's on Your Mind](https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [The Journey](https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89) | 4:17 | 2022-04-11 | 2022-04-19 |
 | [See the Light](https://open.spotify.com/track/3m5irvcA3IP1wn8twZnmee) | [Lowell Hopper](https://open.spotify.com/artist/6v7OnaHSEAOtY1Ib16Chdk) | [No Turning Back](https://open.spotify.com/album/1xoFifChEKnySmiYpqNXxy) | 4:13 | 2022-02-21 | 2022-04-27 |
 | [Seventh Heaven \(feat\. Jeff Golub\)](https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7) | [Avenue Blue \(Featuring Jeff Golub\)](https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9) | [Nightlife](https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke) | 5:10 | 2021-12-27 |  |
+| [Shanghai Nights](https://open.spotify.com/track/3z7mgnFZSAZ7njMmbrxQsX) | [Yen\-J](https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi) | [Shanghai Nights](https://open.spotify.com/album/3rr05tslEzlSQsguPzgHTu) | 4:21 | 2022-12-05 |  |
 | [Shine](https://open.spotify.com/track/50yHsbUVQzuEy22CxpFutn) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [J Funk City](https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy) | 4:08 | 2021-12-27 | 2022-06-12 |
 | [SHINE!](https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL) | 4:21 | 2022-05-23 |  |
 | [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 | 2021-12-27 | 2022-10-04 |
@@ -174,7 +175,7 @@
 | [Steppin' Out](https://open.spotify.com/track/2vw0o63DPh9SEAtWN3kRgM) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/13krE6l2QQwdBpjbPA5FwE) | 4:05 | 2022-07-18 |  |
 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 | 2022-04-11 | 2022-04-20 |
 | [Stockholm Summer](https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A) | 4:55 | 2021-12-27 | 2022-07-29 |
-| [Stockholm Summer](https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:55 | 2022-07-18 |  |
+| [Stockholm Summer](https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:55 | 2022-07-18 | 2022-12-06 |
 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/24Wg5AQK6AaNyZBTpL1unQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 4:56 | 2022-01-03 |  |
 | [Stronger Now](https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Stronger Now](https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC) | 3:43 | 2021-12-27 |  |
 | [Stylin'](https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY) | [Stylin'](https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c) | 4:07 | 2022-04-11 | 2022-11-14 |

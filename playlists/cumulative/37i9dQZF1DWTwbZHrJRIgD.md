@@ -4,7 +4,7 @@
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-64 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
+65 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Sau Aasmaan](https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ASFrellizlx98SmsItOEm) | 3:54 | 2022-03-09 |  |
 | [Slow Motion Angreza](https://open.spotify.com/track/0JX7Es2j556FwtR6YqMKzP) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 4:20 | 2022-03-09 |  |
 | [Sooraj Ki Baahon Mein](https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R) | [Dominique Cerejo](https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 3:22 | 2022-03-09 |  |
+| [Sun Maahi](https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi](https://open.spotify.com/album/4EoDmQSqtj9lJKUu8vjKbR) | 2:49 | 2022-12-05 |  |
 | [Taake Jhanke](https://open.spotify.com/track/6bjYZmUWCJB16wNEeuZ3Tl) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Queen](https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU) | 4:49 | 2022-03-09 |  |
 | [Thandi Hawa](https://open.spotify.com/track/47a8ZHfi1MYmiSVVdS7gId) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Thandi Hawa](https://open.spotify.com/album/3p8eF3bcvZP61JuVNKloJC) | 3:23 | 2022-03-09 | 2022-09-04 |
 | [Thandi Hawa](https://open.spotify.com/track/5tyReDTH3MpN7J5pk2LuGx) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:23 | 2022-08-08 |  |

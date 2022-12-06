@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187253,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
+    },
+    {
+      "album": {
         "name": "William Wild",
         "url": "https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE"
       },
@@ -1327,6 +1345,32 @@
       "duration_ms": 250693,
       "name": "I'd Die Without You",
       "url": "https://open.spotify.com/track/5MAWGXxVxFNig7swSJUTP5"
+    },
+    {
+      "album": {
+        "name": "All of My Love",
+        "url": "https://open.spotify.com/album/09GlWNlMfUNVedsw9So3JR"
+      },
+      "artists": [
+        {
+          "name": "Senora May",
+          "url": "https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD"
+        },
+        {
+          "name": "Chloe Edmonstone",
+          "url": "https://open.spotify.com/artist/6kgVWfXC4jGyad7xT5EKp3"
+        },
+        {
+          "name": "Seth Avett",
+          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240170,
+      "name": "Intertwine",
+      "url": "https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD"
     },
     {
       "album": {

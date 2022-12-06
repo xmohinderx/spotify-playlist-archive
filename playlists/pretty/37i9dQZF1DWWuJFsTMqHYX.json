@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 207123,
+  "num_followers": 207390,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY5MTg2OCwwMDAwMDAwMDEyYjY0ODA2YTIwYzVmMzlhODRhYWE5YTNlZjY3N2Jh",
+  "snapshot_id": "MTY2NjY5MTg2OCwwMDAwMDAwMGM4MTM0YWY2YzExMzJmNDkzZDhiYzE3NDA3ODljN2Jl",
   "tracks": [
     {
       "added_at": "2022-10-25 09:57:48",
@@ -131,58 +131,6 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
-        "name": "Ali & Toumani",
-        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
-        }
-      ],
-      "duration_ms": 355840,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
-        "name": "Rainy Season Blues",
-        "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
-      },
-      "artists": [
-        {
-          "name": "Lobi Traor\u00e9",
-          "url": "https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "A Lam\u00e8n",
-      "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
-        "name": "El Aaiun Egdat",
-        "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 266123,
-      "name": "Arrabi al Arabe",
-      "url": "https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
         "name": "Degg Gui (feat. Flavia Coelho & Fixi) - Single",
         "url": "https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx"
       },
@@ -207,6 +155,38 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
+        "name": "El Aaiun Egdat",
+        "url": "https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "duration_ms": 266123,
+      "name": "Arrabi al Arabe",
+      "url": "https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
+        "name": "Rainy Season Blues",
+        "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
+      },
+      "artists": [
+        {
+          "name": "Lobi Traor\u00e9",
+          "url": "https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp"
+        }
+      ],
+      "duration_ms": 141360,
+      "name": "A Lam\u00e8n",
+      "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
         "name": "St Germain",
         "url": "https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT"
       },
@@ -223,18 +203,22 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
       },
       "artists": [
         {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 186346,
-      "name": "Tarha Tadagh",
-      "url": "https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2"
+      "duration_ms": 355840,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -255,6 +239,22 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Tarha Tadagh",
+      "url": "https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
         "name": "Tin Hinane",
         "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
       },
@@ -267,62 +267,6 @@
       "duration_ms": 304080,
       "name": "Akaline",
       "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
-        "name": "Talking Timbuktu (with Ry Cooder)",
-        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 324920,
-      "name": "Bonde (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
-        "name": "Kel Tamasheq (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
-      },
-      "artists": [
-        {
-          "name": "Liya Ag Ablil",
-          "url": "https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5"
-        },
-        {
-          "name": "Nadia Nid El Mourid",
-          "url": "https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb"
-        },
-        {
-          "name": "Abdallah Ag Ahmed",
-          "url": "https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS"
-        },
-        {
-          "name": "Mathias Vaguenez",
-          "url": "https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d"
-        },
-        {
-          "name": "Sanou Ag Ahmed",
-          "url": "https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY"
-        },
-        {
-          "name": "Yamina Nid El Mourid",
-          "url": "https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Awa adounia",
-      "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -387,18 +331,58 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
       },
       "artists": [
         {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Tahabort",
-      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
+      "duration_ms": 324920,
+      "name": "Bonde (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
+        "name": "Kel Tamasheq (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
+      },
+      "artists": [
+        {
+          "name": "Liya Ag Ablil",
+          "url": "https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5"
+        },
+        {
+          "name": "Nadia Nid El Mourid",
+          "url": "https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb"
+        },
+        {
+          "name": "Abdallah Ag Ahmed",
+          "url": "https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS"
+        },
+        {
+          "name": "Mathias Vaguenez",
+          "url": "https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d"
+        },
+        {
+          "name": "Sanou Ag Ahmed",
+          "url": "https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY"
+        },
+        {
+          "name": "Yamina Nid El Mourid",
+          "url": "https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Awa adounia",
+      "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -419,6 +403,22 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
         "name": "Zerzura (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 263524,
       "name": "Zerzura Theme II",
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -467,6 +451,22 @@
       "duration_ms": 273949,
       "name": "Rachid Ouiguini",
       "url": "https://open.spotify.com/track/6py8BqF0Lk1P8YoXXTRw5P"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
-        "name": "Shouka",
-        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Haiyu",
-      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
         "name": "Aman Iman: Water Is Life",
         "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
-        "name": "Achinkad",
-        "url": "https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr"
+        "name": "Shouka",
+        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
       },
       "artists": [
         {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
         }
       ],
-      "duration_ms": 256320,
-      "name": "Achinkad",
-      "url": "https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl"
+      "duration_ms": 202253,
+      "name": "Haiyu",
+      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -567,6 +551,22 @@
       "duration_ms": 257972,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
+        "name": "Achinkad",
+        "url": "https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
-        "name": "Nour",
-        "url": "https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3"
-      },
-      "artists": [
-        {
-          "name": "Malouma",
-          "url": "https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5"
-        }
-      ],
-      "duration_ms": 305320,
-      "name": "Yarab",
-      "url": "https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
+        "name": "Nour",
+        "url": "https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3"
+      },
+      "artists": [
+        {
+          "name": "Malouma",
+          "url": "https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5"
+        }
+      ],
+      "duration_ms": 305320,
+      "name": "Yarab",
+      "url": "https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
         "name": "Alkibar",
         "url": "https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 311253,
       "name": "Be Ki Don",
       "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "Toumast anlet",
-      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -791,6 +775,22 @@
       "duration_ms": 338292,
       "name": "Bonheur",
       "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 313480,
+      "name": "Toumast anlet",
+      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
+        "name": "Arghane Manine",
+        "url": "https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Arghane Manine",
+      "url": "https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc"
+    },
+    {
+      "added_at": "2022-10-25 09:57:48",
+      "album": {
         "name": "Mariama",
         "url": "https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 338933,
       "name": "Mariama Kaba",
       "url": "https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ"
-    },
-    {
-      "added_at": "2022-10-25 09:57:48",
-      "album": {
-        "name": "Abbar el Hamada",
-        "url": "https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3"
-      },
-      "artists": [
-        {
-          "name": "Aziza Brahim",
-          "url": "https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Intifada",
-      "url": "https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx"
     },
     {
       "added_at": "2022-10-25 09:57:48",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-10-25 09:57:48",
       "album": {
-        "name": "Arghane Manine",
-        "url": "https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP"
+        "name": "Abbar el Hamada",
+        "url": "https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+          "name": "Aziza Brahim",
+          "url": "https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS"
         }
       ],
-      "duration_ms": 300186,
-      "name": "Arghane Manine",
-      "url": "https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc"
+      "duration_ms": 175066,
+      "name": "Intifada",
+      "url": "https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx"
     }
   ],
   "unique_name": "Sahara",

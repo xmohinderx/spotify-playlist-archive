@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > The return of Kratos and Atreus has arrived! Listen to their playlist while playing God of War Ragnarök \(rated "M" for "mature".\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,334 likes - 72 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,458 likes - 72 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

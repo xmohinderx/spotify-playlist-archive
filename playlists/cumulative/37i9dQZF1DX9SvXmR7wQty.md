@@ -4,7 +4,7 @@
 
 > Les nouveautés francophones de la semaine\. Photo: Fredz
 
-1,384 songs - 3 day 2 hr 33 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
+1,385 songs - 3 day 2 hr 37 min - [published](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Apparaît](https://open.spotify.com/track/3GS2743jHrfQlA37gOVsmd) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [JPS](https://open.spotify.com/artist/0tziQnn4fmfk5ReISVIJEN) | [Apparaît](https://open.spotify.com/album/6WrLK9v2g0Ggzqy5h00vpe) | 4:11 | 2022-09-23 | 2022-10-01 |
 | [Appels manqués](https://open.spotify.com/track/7rW4dUZDIWat7hGmW4JjNK) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Reine de papier](https://open.spotify.com/album/7tXOmWg1UOXPcYXzmPhTB4) | 2:43 | 2022-04-22 | 2022-05-07 |
 | [Apprendre encore](https://open.spotify.com/track/726IohC36wEmCqnU3LPtQB) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:38 | 2022-02-11 | 2022-02-26 |
-| [APRÈS\-VOUS MADAME](https://open.spotify.com/track/6sRuRl9gBvEhCifRp8UWJG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [APRÈS\-VOUS MADAME](https://open.spotify.com/album/4O4djMvOLwNIANYoZ1LPl3) | 3:37 | 2022-11-25 |  |
+| [APRÈS\-VOUS MADAME](https://open.spotify.com/track/3s7x3OMiEI7cmE8KBxIwCy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:37 | 2022-12-02 |  |
+| [APRÈS\-VOUS MADAME](https://open.spotify.com/track/6sRuRl9gBvEhCifRp8UWJG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [APRÈS\-VOUS MADAME](https://open.spotify.com/album/4O4djMvOLwNIANYoZ1LPl3) | 3:37 | 2022-11-25 | 2022-12-06 |
 | [AQUA](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 | 2022-07-08 | 2022-07-23 |
 | [Architecte de son destin](https://open.spotify.com/track/01snO4evb8fsrXuY3ZUAIm) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Architecte de son destin](https://open.spotify.com/album/7JBEP1fdQHKRW3ALCgDw7G) | 3:24 | 2021-12-31 | 2022-01-15 |
 | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/139nCjBRQCLgnWNRxBKAC7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Arhbo \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/6rjTLZmOHDByOn63ZZomyY) | 3:39 | 2022-08-26 | 2022-09-10 |

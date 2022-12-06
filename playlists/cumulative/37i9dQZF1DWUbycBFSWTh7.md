@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-132 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+134 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,12 @@
 | [Closer](https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 7:04 | 2022-09-15 |  |
 | [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2022-11-10 |  |
 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 | 2022-11-28 |  |
+| [Dem Good Ol' Days \- extended mix](https://open.spotify.com/track/5jXdOuboeHKtWYNBmJIkxy) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 6:47 | 2022-12-05 |  |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-09-15 |  |
 | [Desire](https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Desire](https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o) | 5:52 | 2022-10-13 |  |
 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 | 2022-09-15 |  |
 | [Do Ya Thing](https://open.spotify.com/track/6p8KTDXZpsdaj8HaLvAoRJ) | [Oby Nine](https://open.spotify.com/artist/5ZILxFOm3W0ElCBd6XNpAt) | [Do Ya Thing](https://open.spotify.com/album/66ZRe9Jv7bXVMl5okoncwO) | 3:18 | 2022-09-15 |  |
+| [Do You Remember](https://open.spotify.com/track/5pBhzfZr8BbdqEYonJqWvL) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [MC Roga](https://open.spotify.com/artist/1PyqNjeHsegT2hgQyX9kid) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 7:35 | 2022-12-05 |  |
 | [Don't Want It \- Fouk Remix](https://open.spotify.com/track/15uutBzggXQsR19xARHl3f) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Don't Want It \(Fouk Remix\)](https://open.spotify.com/album/4n4sqDenZwDpJq9skJVTVJ) | 5:51 | 2022-09-15 |  |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-09-15 |  |
 | [Emancipação \- Ron Trent Remix](https://open.spotify.com/track/66XwUl6vlH5XqGwjHI93OD) | [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Emancipação \(Ron Trent Remix\)](https://open.spotify.com/album/2px1kDZ3heXoSR6AFB8DGS) | 9:11 | 2022-09-15 |  |

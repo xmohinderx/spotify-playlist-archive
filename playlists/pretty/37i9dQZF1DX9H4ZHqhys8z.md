@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain](/playlists/plain/37i9dQZF1DX9H4ZHqhys8z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9H4ZHqhys8z)
 
-### [EQUAL Greece](https://open.spotify.com/playlist/37i9dQZF1DX9H4ZHqhys8z)
+### [Best of EQUAL Greece 2022](https://open.spotify.com/playlist/37i9dQZF1DX9H4ZHqhys8z)
 
 > Άκου την καλύτερη μουσική από Ελληνίδες καλλιτέχνιδες, που κυκλοφόρησε το 2022\. Εξώφυλλο: Stefania
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,102 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,140 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Mythistorima](https://open.spotify.com/track/5QU87cnpIJZy9MIrPpKR9z) | [Myrto Vasiliou](https://open.spotify.com/artist/33cGsymGVdgZ5Qr5ppW8fg) | [Mythistorima](https://open.spotify.com/album/3dqx8Sbu9PpcSn4diL9QPr) | 3:12 |
 | 50 | [Let Me In Your Heart](https://open.spotify.com/track/69SP3yM5zbCCBhw4YFfxOC) | [Souled Out](https://open.spotify.com/artist/5aqOq1ieNC0t7bbZ31iV8W), [Alexandra Sieti](https://open.spotify.com/artist/5BEgerUS0n7NHBcoP7VUmX) | [Sunny Side Up](https://open.spotify.com/album/1mMDVe0zMBCsFkU8yUFFoE) | 5:03 |
 
-Snapshot ID: `MTY2OTgxMjMwMSwwMDAwMDAwMDZlMDVlYjRlYWE5MzFlN2E1NzFlYjViMmViMWYyMWU5`
+Snapshot ID: `MTY3MDI1Mjk1OCwwMDAwMDAwMGU4Y2MzOTRlNDE2YWJhMDAzZDgxOTk4NDI5M2UyYTk5`

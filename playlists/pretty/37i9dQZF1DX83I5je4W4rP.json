@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1030845,
+  "num_followers": 1030837,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxNTAxOSwwMDAwMDAwMDIzYjQ5MGYyMDJkMjkyMzc1ZTY4M2VhOGRmODg0OGQy",
+  "snapshot_id": "MTY2ODcxNTAxOSwwMDAwMDAwMGM5MjYwNDM3NTI2Y2I2Mzk0OWM5MTQzMmU5ZmEwMGNi",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -167,18 +167,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Closer to the Sun",
+        "url": "https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+      "duration_ms": 145560,
+      "name": "Closer to the Sun",
+      "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -335,34 +351,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Honey Bones",
+        "url": "https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Closer to the Sun",
-        "url": "https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW"
-      },
-      "artists": [
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Closer to the Sun",
-      "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
+      "duration_ms": 237961,
+      "name": "Marinade",
+      "url": "https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Honey Bones",
-        "url": "https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
         {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 237961,
-      "name": "Marinade",
-      "url": "https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl"
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Everything You Need",
+        "url": "https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 133080,
+      "name": "Collie Man",
+      "url": "https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Jah Won't Pay The Bills",
         "url": "https://open.spotify.com/album/02VqlfUtNMogzTh1lckGOF"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Everything You Need",
-        "url": "https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6"
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 133080,
-      "name": "Collie Man",
-      "url": "https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf"
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -495,6 +511,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Fight For Your Mind",
+        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Burn One Down",
+      "url": "https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Any Port in a Storm (Special Edition)",
         "url": "https://open.spotify.com/album/5EOxxqbniQ3CMCCoDfezWh"
       },
@@ -515,22 +547,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Fight For Your Mind",
-        "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Burn One Down",
-      "url": "https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 267746,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -611,8 +611,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg"
+        "name": "Bright Side of Life",
+        "url": "https://open.spotify.com/album/6ry84mOthM6loLKbhuiovs"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
         }
       ],
-      "duration_ms": 209253,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft"
+      "duration_ms": 210346,
+      "name": "Lazy Afternoon",
+      "url": "https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -639,22 +639,6 @@
       "duration_ms": 269500,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dirty Heads",
-        "url": "https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -711,54 +695,34 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 236092,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Vacation (feat. Train)",
-        "url": "https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0"
+        "name": "Dirty Heads",
+        "url": "https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd"
       },
       "artists": [
         {
           "name": "Dirty Heads",
           "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        },
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 212937,
-      "name": "Vacation (feat. Train)",
-      "url": "https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3"
+      "duration_ms": 225394,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp"
     },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb"
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
         }
       ],
-      "duration_ms": 216476,
-      "name": "Set Sail",
-      "url": "https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha"
+      "duration_ms": 209253,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -779,50 +743,34 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Bright Side of Life",
-        "url": "https://open.spotify.com/album/6ry84mOthM6loLKbhuiovs"
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY"
       },
       "artists": [
         {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
         }
       ],
-      "duration_ms": 210346,
-      "name": "Lazy Afternoon",
-      "url": "https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf"
+      "duration_ms": 236092,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3"
     },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "The Clarence Greenwood Recordings",
-        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb"
       },
       "artists": [
         {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Bullet and a Target",
-      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Tribal Seeds",
-        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Dawn of Time",
-      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
+      "duration_ms": 216476,
+      "name": "Set Sail",
+      "url": "https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -847,18 +795,34 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "A Seafarer and the Infinite Dream",
-        "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg"
       },
       "artists": [
         {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
         }
       ],
-      "duration_ms": 196973,
-      "name": "We'll Be Alright",
-      "url": "https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r"
+      "duration_ms": 189613,
+      "name": "Count Me In",
+      "url": "https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "The Clarence Greenwood Recordings",
+        "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Bullet and a Target",
+      "url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -879,6 +843,78 @@
       "duration_ms": 288863,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/7JXVnZsBrFLRwVk9ZqRciI"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Tribal Seeds",
+        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Dawn of Time",
+      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Vacation (feat. Train)",
+        "url": "https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 212937,
+      "name": "Vacation (feat. Train)",
+      "url": "https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "A Seafarer and the Infinite Dream",
+        "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Peace of Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        },
+        {
+          "name": "Lutan Fyah",
+          "url": "https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Good Vibes (feat. Lutan Fyah)",
+      "url": "https://open.spotify.com/track/0kNSPASJw7VASyGPbOdkn8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -947,22 +983,6 @@
       "duration_ms": 239853,
       "name": "Where's The Love",
       "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg"
-      },
-      "artists": [
-        {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Count Me In",
-      "url": "https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1043,22 +1063,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Peace of Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
       },
       "artists": [
         {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        },
-        {
-          "name": "Lutan Fyah",
-          "url": "https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 211880,
-      "name": "Good Vibes (feat. Lutan Fyah)",
-      "url": "https://open.spotify.com/track/0kNSPASJw7VASyGPbOdkn8"
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 212986,
       "name": "Bring Me Along",
       "url": "https://open.spotify.com/track/12hIOqdMjKmYatc3fwywL7"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
-      },
-      "artists": [
-        {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Too Late (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+        "name": "Always With Me",
+        "url": "https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y"
       },
       "artists": [
         {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+      "duration_ms": 263986,
+      "name": "Always With Me",
+      "url": "https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1403,22 +1403,6 @@
       "duration_ms": 193361,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Always With Me",
-        "url": "https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Always With Me",
-      "url": "https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1447,6 +1431,38 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Showdown (with Collie Buddz)",
         "url": "https://open.spotify.com/album/3dDZbo4w9CxQ5OVwqJrXdO"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+          "name": "Kolohe Kai",
+          "url": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
+      "duration_ms": 196160,
+      "name": "Catching Lightning",
+      "url": "https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1501,56 +1517,24 @@
       "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-12-06 01:30:26",
       "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
+        "name": "Mood Swing",
+        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
       "artists": [
         {
-          "name": "Kolohe Kai",
-          "url": "https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Catching Lightning",
-      "url": "https://open.spotify.com/track/5BMlzRHulVFs4r9wUv1mJB"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Catch My Wave",
-        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
         },
         {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
         }
       ],
-      "duration_ms": 194386,
-      "name": "Catch My Wave",
-      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
-      },
-      "artists": [
-        {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
-        }
-      ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
+      "duration_ms": 206829,
+      "name": "Blacklist (with Matisyahu)",
+      "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
+      },
+      "artists": [
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Mind The Moon",
         "url": "https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2"
       },
@@ -1585,24 +1585,24 @@
       "url": "https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje"
     },
     {
-      "added_at": "2022-12-05 01:30:19",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Mood Swing",
-        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
       },
       "artists": [
         {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
         },
         {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
         }
       ],
-      "duration_ms": 206829,
-      "name": "Blacklist (with Matisyahu)",
-      "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 143856,
+      "name": "I Like the Way You Roll (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 304322,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 143856,
-      "name": "I Like the Way You Roll (feat. Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf"
     },
     {
       "added_at": "2022-09-30 04:01:00",

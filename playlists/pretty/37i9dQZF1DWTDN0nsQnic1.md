@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,356 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,376 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saffron Sunset](https://open.spotify.com/track/5mpTv6Y3IDGKcGHZaXv2VI) | [Regressor](https://open.spotify.com/artist/0ZRNaeQ1zN4iJBqubIVA96) | [Crescent Spoon](https://open.spotify.com/album/2YFHOiLVwsKRRqck9EXA30) | 5:13 |
+| 1 | [Saffron Sunset](https://open.spotify.com/track/5mpTv6Y3IDGKcGHZaXv2VI) | [Regressor](https://open.spotify.com/artist/0z8ShnIyctKoYwU68qKzRT) | [Crescent Spoon](https://open.spotify.com/album/2YFHOiLVwsKRRqck9EXA30) | 5:13 |
 | 2 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 |
 | 3 | [When She's Mine](https://open.spotify.com/track/1sU9AsKJehVcsHdE4pDKh8) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:11 |
 | 4 | [Daygrooves](https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Equilibrium](https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt) | 1:59 |

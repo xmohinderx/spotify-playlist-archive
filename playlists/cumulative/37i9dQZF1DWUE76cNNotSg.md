@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-320 songs - 21 hr 8 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+321 songs - 21 hr 12 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Light That Shines Through](https://open.spotify.com/track/4YzP1J64MRM6AWsCUNQPIL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Light That Shines Through](https://open.spotify.com/album/5Yy56M831VMgPdbHAB8rRF) | 3:40 | 2021-04-02 | 2022-07-29 |
 | [Line Of Sight \(feat\. WYNNE & Mansionair\)](https://open.spotify.com/track/2IUHcSxFPDKLRVgjXxvKjl) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Line Of Sight](https://open.spotify.com/album/1WKg1QuiOzh0HpzgzmfsOn) | 3:57 | 2020-12-22 | 2022-04-12 |
 | [littlebitwild](https://open.spotify.com/track/7maYVnkJyhgI3ObNeEyT3C) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [littlebitwild](https://open.spotify.com/album/4wkd3dJFopVf2GBPRfMsd4) | 3:05 | 2020-12-22 | 2022-07-29 |
-| [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 | 2022-08-12 |  |
+| [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 | 2022-08-12 | 2022-12-06 |
 | [Lobster Claw](https://open.spotify.com/track/6DYll13PHEqMDnLtrDDUmD) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Lobster Claw](https://open.spotify.com/album/4VLqray3a2RolDlRcaLEzs) | 2:27 | 2020-12-22 | 2022-07-28 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-12-22 | 2022-11-13 |
 | [Lossless](https://open.spotify.com/track/6aAFA2UDnscyZmhSc7LCxS) | [Tabrill](https://open.spotify.com/artist/6UNNfj6x9ahHqatWsMC6mo), [Emily](https://open.spotify.com/artist/154XTBCLuA25Cfvlfdpp4d) | [Lossless](https://open.spotify.com/album/24CP5wrqo8PJhKqOZECbhH) | 3:24 | 2020-12-22 | 2022-04-20 |
@@ -167,6 +167,7 @@
 | [Luv Is Not Enough](https://open.spotify.com/track/7x0KPn2pVa9P2hOLnVWRjN) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/2IOSkubVgMOzpcJ8TyNUo6) | 3:17 | 2020-12-22 | 2022-05-11 |
 | [Magic](https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 6:48 | 2022-05-13 | 2022-06-04 |
 | [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-22 | 2022-07-24 |
+| [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-06-03 |  |
 | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(feat\. Alex Maher\)](https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S) | 4:00 | 2022-05-13 | 2022-12-01 |
 | [Maybes \- Edit](https://open.spotify.com/track/7Fg0NsDZWTnQBVE9OYph1S) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Maybes](https://open.spotify.com/album/5aUZlLCDlVFmIiMIYfILbN) | 3:48 | 2020-12-22 | 2022-04-21 |
 | [Me and Michael \- OMMA Remix](https://open.spotify.com/track/1QfYAtf7D9W4ssgcyTXfb5) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [OMMA](https://open.spotify.com/artist/3RzOXdGDUkVd6brfAVKFDp) | [Me and Michael \(OMMA Remix\)](https://open.spotify.com/album/1Jl15UxIs9r2aPEezCLH3e) | 5:03 | 2020-12-22 | 2022-04-20 |

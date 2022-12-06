@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-180 songs - 11 hr 20 min - not published yet
+182 songs - 11 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 | 2019-06-27 |  |
 | [Drunken Poet's Dream](https://open.spotify.com/track/2fS7XWfRXnje2uUSYCl8us) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Trouble In Mind](https://open.spotify.com/album/0c2k2ldJq0CNU1QpMFtufi) | 3:28 | 2020-07-20 |  |
 | [Evening Blues](https://open.spotify.com/track/69MTcCogxksQ8WdtnejFaX) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [William Wild](https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE) | 3:59 | 2019-08-08 |  |
+| [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 | 2022-12-06 |  |
 | [Fast Stack](https://open.spotify.com/track/5AVmuEaNjeIQvrnvd8ZWzl) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [William Wild](https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE) | 5:22 | 2019-08-23 |  |
 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 | 2019-07-11 |  |
 | [Fire in the Ocean](https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Fire in the Ocean](https://open.spotify.com/album/7oxHI9icBzcPOsAYA0a7g4) | 3:58 | 2022-11-14 |  |
@@ -80,6 +81,7 @@
 | [I Hurt Too](https://open.spotify.com/track/6I12kd6HCDGwi9VnoPBfc2) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Apple Tree](https://open.spotify.com/album/1xrzzbxD5m2VAcYu70hszz) | 4:28 | 2019-08-08 |  |
 | [I Wish I Was](https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 4:00 | 2019-06-27 |  |
 | [I'd Die Without You](https://open.spotify.com/track/5MAWGXxVxFNig7swSJUTP5) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/2092uBCLDw7Off2zl7Es2j) | 4:10 | 2019-06-27 |  |
+| [Intertwine](https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD) | [Senora May](https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD), [Chloe Edmonstone](https://open.spotify.com/artist/6kgVWfXC4jGyad7xT5EKp3), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [All of My Love](https://open.spotify.com/album/09GlWNlMfUNVedsw9So3JR) | 4:00 | 2022-12-06 |  |
 | [Johnny Cash \(Man in Black\)](https://open.spotify.com/track/1S6e1wopG0zxudJsLBbKH0) | [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Johnny Cash \(Man in Black\)](https://open.spotify.com/album/53mfSk3431jYfvIq20NBnB) | 3:49 | 2019-07-18 |  |
 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 | 2019-06-27 |  |
 | [Keep The Wolves Away](https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj) | 4:35 | 2019-06-27 |  |

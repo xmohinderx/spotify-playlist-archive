@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU?si=gfm00MdpTL63d2aPVJdtZg">Can't Swim</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,719 likes - 71 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906 likes - 71 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

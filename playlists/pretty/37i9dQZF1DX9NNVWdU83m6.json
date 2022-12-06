@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 31920,
+  "num_followers": 31957,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGE5MjYxNjAwM2QzOTExZGViMTc4MDg2NTQwYzVlOTI5",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM4ZWQxZTk3YWY3N2U1NzQwYjcyZDMzMGI0Y2NiMmI4",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -133,6 +133,30 @@
       "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT"
+      },
+      "artists": [
+        {
+          "name": "Greg Howe",
+          "url": "https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV"
+        },
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        },
+        {
+          "name": "Dennis Chambers",
+          "url": "https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn"
+        }
+      ],
+      "duration_ms": 373813,
+      "name": "Extraction",
+      "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Flight of the Murder Hornet",
@@ -159,26 +183,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT"
+        "name": "Apostrophe(')",
+        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
       },
       "artists": [
         {
-          "name": "Greg Howe",
-          "url": "https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV"
-        },
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        },
-        {
-          "name": "Dennis Chambers",
-          "url": "https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn"
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
         }
       ],
-      "duration_ms": 373813,
-      "name": "Extraction",
-      "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
+      "duration_ms": 349786,
+      "name": "Apostrophe'",
+      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -195,22 +211,6 @@
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Apostrophe(')",
-        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 349786,
-      "name": "Apostrophe'",
-      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "In These Times",
@@ -359,6 +343,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Krokofant III",
         "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 404960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-04-16 05:00:00",
@@ -413,20 +397,20 @@
       "url": "https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ"
     },
     {
-      "added_at": "2021-03-26 04:01:00",
+      "added_at": "2021-10-01 04:02:00",
       "album": {
-        "name": "Planet",
-        "url": "https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL"
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
       },
       "artists": [
         {
-          "name": "Isfar Sarabski",
-          "url": "https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 332000,
-      "name": "Novruz",
-      "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -443,6 +427,22 @@
       "duration_ms": 320386,
       "name": "Inner Babylon",
       "url": "https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC"
+    },
+    {
+      "added_at": "2021-03-26 04:01:00",
+      "album": {
+        "name": "Planet",
+        "url": "https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL"
+      },
+      "artists": [
+        {
+          "name": "Isfar Sarabski",
+          "url": "https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Novruz",
+      "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -463,6 +463,26 @@
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "move",
+        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        },
+        {
+          "name": "yucca",
+          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
+        }
+      ],
+      "duration_ms": 268675,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -491,26 +511,6 @@
       "duration_ms": 193813,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
-    },
-    {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "move",
-        "url": "https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        },
-        {
-          "name": "yucca",
-          "url": "https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp"
-        }
-      ],
-      "duration_ms": 268675,
-      "name": "silhouette",
-      "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Two Drink Minimum",
+        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
+      },
+      "artists": [
+        {
+          "name": "Wayne Krantz",
+          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "Whippersnapper",
+      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
+    },
+    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Chaos Companion",
@@ -703,22 +719,6 @@
       "duration_ms": 300739,
       "name": "Dormammu (Featuring the Shady Horns)",
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Two Drink Minimum",
-        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
-      },
-      "artists": [
-        {
-          "name": "Wayne Krantz",
-          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Whippersnapper",
-      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -785,6 +785,38 @@
       "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Little Big",
+        "url": "https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Lingua Franca",
+        "url": "https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK"
+      },
+      "artists": [
+        {
+          "name": "T.R.A.M",
+          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
+        }
+      ],
+      "duration_ms": 284186,
+      "name": "Consider Yourself Judged",
+      "url": "https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV"
+    },
+    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Fear Not",
@@ -827,34 +859,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Lingua Franca",
-        "url": "https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK"
+        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
       },
       "artists": [
         {
-          "name": "T.R.A.M",
-          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
+          "name": "Donny McCaslin",
+          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
         }
       ],
-      "duration_ms": 284186,
-      "name": "Consider Yourself Judged",
-      "url": "https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Little Big",
-        "url": "https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf"
+      "duration_ms": 437607,
+      "name": "Stadium Jazz",
+      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -871,22 +887,6 @@
       "duration_ms": 305858,
       "name": "Truck Fump",
       "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
-        "url": "https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki"
-      },
-      "artists": [
-        {
-          "name": "Donny McCaslin",
-          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
-        }
-      ],
-      "duration_ms": 437607,
-      "name": "Stadium Jazz",
-      "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
     },
     {
       "added_at": "2021-01-27 19:39:49",

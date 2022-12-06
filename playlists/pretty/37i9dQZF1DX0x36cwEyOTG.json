@@ -1,12 +1,12 @@
 {
   "description": "Relax with this Peaceful Indie Ambient mix.",
-  "num_followers": 404044,
+  "num_followers": 404125,
   "original_name": "Peaceful Indie Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMjc5Mzk0MiwwMDAwMDAwMDZmOWY0OTQ4YWNlMWNiZTU4Nzc4ZmVhYTQxYmE4NzYy",
+  "snapshot_id": "MTYwMjc5Mzk0MiwwMDAwMDAwMGUyODcxOGJhNDdkZjZkZWQxMTUxMjhkM2NhMGE0ZmZl",
   "tracks": [
     {
       "added_at": "2018-11-26 22:12:01",
@@ -95,22 +95,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 214680,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
       "artists": [
         {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+      "duration_ms": 214680,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
-      },
-      "artists": [
-        {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
-        }
-      ],
-      "duration_ms": 217782,
-      "name": "Wrapped In Piano Strings",
-      "url": "https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Something To Remember",
-        "url": "https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
         }
       ],
-      "duration_ms": 149573,
-      "name": "Arrows",
-      "url": "https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH"
+      "duration_ms": 217782,
+      "name": "Wrapped In Piano Strings",
+      "url": "https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod"
     },
     {
       "added_at": "2020-10-15 20:31:18",
@@ -467,6 +451,22 @@
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Something To Remember",
+        "url": "https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH"
     },
     {
       "added_at": "2019-11-08 08:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Caves",
-      "url": "https://open.spotify.com/track/6WPtRyhuxR2g4q6fMZi6Xx"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "Colt",
         "url": "https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/6WPtRyhuxR2g4q6fMZi6Xx"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
         "name": "0",
         "url": "https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 454773,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA"
-    },
-    {
-      "added_at": "2020-10-15 20:31:18",
-      "album": {
-        "name": "All Fall Down",
-        "url": "https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "All Fall Down",
-      "url": "https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -659,6 +643,22 @@
       "duration_ms": 354120,
       "name": "Dungtitled (In a Major)",
       "url": "https://open.spotify.com/track/3OgkfYg13Jj96E982moWje"
+    },
+    {
+      "added_at": "2020-10-15 20:31:18",
+      "album": {
+        "name": "All Fall Down",
+        "url": "https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "All Fall Down",
+      "url": "https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -707,22 +707,6 @@
       "duration_ms": 277185,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Low Roar",
-        "url": "https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC"
-      },
-      "artists": [
-        {
-          "name": "Low Roar",
-          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Friends Make Garbage (Good Friends Take It Out)",
-      "url": "https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -791,6 +775,22 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "Low Roar",
+        "url": "https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC"
+      },
+      "artists": [
+        {
+          "name": "Low Roar",
+          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Friends Make Garbage (Good Friends Take It Out)",
+      "url": "https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
         "name": "The Horizon Just Laughed",
         "url": "https://open.spotify.com/album/7eyOb4RuYPBZZ4l3nCbraJ"
       },
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "When We Fall",
-      "url": "https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR"
-    },
-    {
       "added_at": "2020-10-15 20:31:18",
       "album": {
         "name": "I Fell In Love",
@@ -857,6 +841,22 @@
       "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
     },
     {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "When We Fall",
+      "url": "https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR"
+    },
+    {
       "added_at": "2020-10-15 20:32:13",
       "album": {
         "name": "Zombies",
@@ -871,38 +871,6 @@
       "duration_ms": 192114,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC"
-    },
-    {
-      "added_at": "2020-10-15 20:31:18",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
-    },
-    {
-      "added_at": "2019-11-08 08:01:00",
-      "album": {
-        "name": "Clarence Difference",
-        "url": "https://open.spotify.com/album/4e5asp6c0avCzVAg4vkEFI"
-      },
-      "artists": [
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Clarence Difference",
-      "url": "https://open.spotify.com/track/2LncPy3DNKutXIuRByB1ZL"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -933,6 +901,54 @@
       "url": "https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf"
     },
     {
+      "added_at": "2019-11-08 08:01:00",
+      "album": {
+        "name": "Clarence Difference",
+        "url": "https://open.spotify.com/album/4e5asp6c0avCzVAg4vkEFI"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 237913,
+      "name": "Clarence Difference",
+      "url": "https://open.spotify.com/track/2LncPy3DNKutXIuRByB1ZL"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Half the World Away",
+      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+    },
+    {
+      "added_at": "2020-10-15 20:31:18",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+    },
+    {
       "added_at": "2018-11-26 22:12:01",
       "album": {
         "name": "Stories We Tell Ourselves EP",
@@ -947,22 +963,6 @@
       "duration_ms": 216391,
       "name": "Obrecht",
       "url": "https://open.spotify.com/track/2fgEVpafPGM0IDRRf3Q32K"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Bird",
-        "url": "https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -983,6 +983,22 @@
       "duration_ms": 327787,
       "name": "To Believe",
       "url": "https://open.spotify.com/track/487wXZ3WOARGcLBJpvdmtg"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Bird",
+        "url": "https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1083,6 +1099,22 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "Breakers",
+        "url": "https://open.spotify.com/album/4Rb53KVHjGTSFsy9DcBaff"
+      },
+      "artists": [
+        {
+          "name": "Gem Club",
+          "url": "https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/3VtmlgRTwp39t1MsL3NrF5"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
         "name": "Riceboy Sleeps",
         "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
       },
@@ -1121,70 +1153,6 @@
       "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Range of Light",
-        "url": "https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 275053,
-      "name": "Fire-scene",
-      "url": "https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Half the World Away",
-      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Breakers",
-        "url": "https://open.spotify.com/album/4Rb53KVHjGTSFsy9DcBaff"
-      },
-      "artists": [
-        {
-          "name": "Gem Club",
-          "url": "https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/3VtmlgRTwp39t1MsL3NrF5"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Lean Year",
-        "url": "https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo"
-      },
-      "artists": [
-        {
-          "name": "Lean Year",
-          "url": "https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Come and See",
-      "url": "https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc"
-    },
-    {
       "added_at": "2020-04-03 17:54:15",
       "album": {
         "name": "Our Two Skins",
@@ -1203,8 +1171,24 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "All We Grow",
-        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
+        "name": "Lean Year",
+        "url": "https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo"
+      },
+      "artists": [
+        {
+          "name": "Lean Year",
+          "url": "https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Come and See",
+      "url": "https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Range of Light",
+        "url": "https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H"
       },
       "artists": [
         {
@@ -1212,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 310733,
-      "name": "In the Stream",
-      "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
+      "duration_ms": 275053,
+      "name": "Fire-scene",
+      "url": "https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1239,22 +1223,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Low Roar",
-        "url": "https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC"
-      },
-      "artists": [
-        {
-          "name": "Low Roar",
-          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
-        }
-      ],
-      "duration_ms": 135453,
-      "name": "Low Roar",
-      "url": "https://open.spotify.com/track/1PmzEt6a77dRdFtjLD2ZrW"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "In Roses",
         "url": "https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG"
       },
@@ -1267,6 +1235,22 @@
       "duration_ms": 141524,
       "name": "Michael",
       "url": "https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Low Roar",
+        "url": "https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC"
+      },
+      "artists": [
+        {
+          "name": "Low Roar",
+          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "Low Roar",
+      "url": "https://open.spotify.com/track/1PmzEt6a77dRdFtjLD2ZrW"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1303,22 +1287,6 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Strange Darling - EP",
-        "url": "https://open.spotify.com/album/1olv4rODurd0yqk8qMh091"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Strange Darling",
-      "url": "https://open.spotify.com/track/6wzbsVJ4qH3pdzYqm8hVXk"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
         "name": "We Will Run",
         "url": "https://open.spotify.com/album/5Zw4c2g8fmJipfghOr9tBU"
       },
@@ -1331,6 +1299,22 @@
       "duration_ms": 223166,
       "name": "We Will Run",
       "url": "https://open.spotify.com/track/2HbgS9zVXD1Aix8MYVNqix"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Strange Darling - EP",
+        "url": "https://open.spotify.com/album/1olv4rODurd0yqk8qMh091"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Strange Darling",
+      "url": "https://open.spotify.com/track/6wzbsVJ4qH3pdzYqm8hVXk"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "All We Grow",
+        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "In the Stream",
+      "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA"
       },
@@ -1365,20 +1365,20 @@
       "url": "https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5"
     },
     {
-      "added_at": "2018-11-26 22:12:01",
+      "added_at": "2019-11-08 08:01:00",
       "album": {
-        "name": "Apeiron",
-        "url": "https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6"
+        "name": "Dark Clouds",
+        "url": "https://open.spotify.com/album/42WblGGFxS4DtbpJLl8Ih8"
       },
       "artists": [
         {
-          "name": "Sad Souls",
-          "url": "https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte"
+          "name": "The Dawdler",
+          "url": "https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx"
         }
       ],
-      "duration_ms": 185480,
-      "name": "Cloud Speed",
-      "url": "https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S"
+      "duration_ms": 210000,
+      "name": "Dark Clouds",
+      "url": "https://open.spotify.com/track/0cVVoj6Iik6TTogJgcWJnJ"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1397,20 +1397,20 @@
       "url": "https://open.spotify.com/track/5wJVRxZ0PozaBePGEEYylP"
     },
     {
-      "added_at": "2019-11-08 08:01:00",
+      "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Dark Clouds",
-        "url": "https://open.spotify.com/album/42WblGGFxS4DtbpJLl8Ih8"
+        "name": "Apeiron",
+        "url": "https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6"
       },
       "artists": [
         {
-          "name": "The Dawdler",
-          "url": "https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx"
+          "name": "Sad Souls",
+          "url": "https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Dark Clouds",
-      "url": "https://open.spotify.com/track/0cVVoj6Iik6TTogJgcWJnJ"
+      "duration_ms": 185480,
+      "name": "Cloud Speed",
+      "url": "https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
-        "name": "Savage Hills Ballroom",
-        "url": "https://open.spotify.com/album/2REi0vGs8rCaFms8lVwZzk"
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
       },
       "artists": [
         {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 162688,
-      "name": "X-Ray",
-      "url": "https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu"
+      "duration_ms": 221053,
+      "name": "One Half",
+      "url": "https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1643,6 +1643,22 @@
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
+        "name": "Savage Hills Ballroom",
+        "url": "https://open.spotify.com/album/2REi0vGs8rCaFms8lVwZzk"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 162688,
+      "name": "X-Ray",
+      "url": "https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu"
     },
     {
       "added_at": "2018-11-26 22:12:01",
@@ -1679,6 +1695,22 @@
     {
       "added_at": "2018-11-26 22:12:01",
       "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/5xVsJu0AcLyBxsGRg0EUbV"
+      },
+      "artists": [
+        {
+          "name": "JFDR",
+          "url": "https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ"
+        }
+      ],
+      "duration_ms": 268097,
+      "name": "White Sun",
+      "url": "https://open.spotify.com/track/5ROW9ymB6dGoQzDRNxaJC6"
+    },
+    {
+      "added_at": "2018-11-26 22:12:01",
+      "album": {
         "name": "Glen Rose Formation",
         "url": "https://open.spotify.com/album/2d2xXCrfPXaZcl5lxnGv9d"
       },
@@ -1695,38 +1727,6 @@
       "duration_ms": 241175,
       "name": "Formation 1, Revisited - Dntel Remix",
       "url": "https://open.spotify.com/track/0HsWlDCHz8UPj3Ksyw3gn8"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "One Half",
-      "url": "https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD"
-    },
-    {
-      "added_at": "2018-11-26 22:12:01",
-      "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/5xVsJu0AcLyBxsGRg0EUbV"
-      },
-      "artists": [
-        {
-          "name": "JFDR",
-          "url": "https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ"
-        }
-      ],
-      "duration_ms": 268097,
-      "name": "White Sun",
-      "url": "https://open.spotify.com/track/5ROW9ymB6dGoQzDRNxaJC6"
     },
     {
       "added_at": "2019-11-08 08:01:00",

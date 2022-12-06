@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 325133,
       "name": "Leeh Ma Teji",
       "url": "https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI"
@@ -2065,7 +2065,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 292021,
       "name": "Sameet Ashyaa",
       "url": "https://open.spotify.com/track/7eGawwsI0Q5h6OKuU73Ozq"
@@ -2606,6 +2606,24 @@
     },
     {
       "album": {
+        "name": "Yeheb Al Bard",
+        "url": "https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233169,
+      "name": "Yeheb Al Bard",
+      "url": "https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo"
+    },
+    {
+      "album": {
         "name": "Yemkn Kheera",
         "url": "https://open.spotify.com/album/4T0PhQBdKUjd5hnWFR2gki"
       },
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 275306,
       "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
       "url": "https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK"

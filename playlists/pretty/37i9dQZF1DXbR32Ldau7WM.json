@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: Keisuke Kuwata(\u6851\u7530\u4f73\u7950)",
-  "num_followers": 241911,
+  "num_followers": 241973,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMGE0YmRjMTA2YTVjOGU0YzU0Zjg4YmUyYWVmNzlkMTRk",
+  "snapshot_id": "MTY2OTkwNjgwMCwwMDAwMDAwMDZkNjU2NzAzYjYxYWViMGE3ZTdjNTUyYjUwMTQ0NzFl",
   "tracks": [
     {
       "added_at": "2022-12-01 15:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
+        "name": "Bloody Power Fame",
+        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 246518,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+      "duration_ms": 238498,
+      "name": "Bloody Power Fame",
+      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Bloody Power Fame",
-        "url": "https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI"
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 238498,
-      "name": "Bloody Power Fame",
-      "url": "https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6"
+      "duration_ms": 246518,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
+        "name": "Keisuke Kuwata",
+        "url": "https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Kuwata",
+          "url": "https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v"
+        }
+      ],
+      "duration_ms": 320166,
+      "name": "\u3044\u3064\u304b\u4f55\u51e6\u304b\u3066\u3099(I FEEL THE ECHO)",
+      "url": "https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr"
+    },
+    {
+      "added_at": "2022-12-01 15:00:00",
+      "album": {
         "name": "\u306a\u306a\u3044\u308d",
         "url": "https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e"
       },
@@ -747,18 +763,22 @@
     {
       "added_at": "2022-12-01 15:00:00",
       "album": {
-        "name": "Keisuke Kuwata",
-        "url": "https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c"
+        "name": "egomaniac feedback",
+        "url": "https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF"
       },
       "artists": [
         {
-          "name": "Keisuke Kuwata",
-          "url": "https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v"
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        },
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 320166,
-      "name": "\u3044\u3064\u304b\u4f55\u51e6\u304b\u3066\u3099(I FEEL THE ECHO)",
-      "url": "https://open.spotify.com/track/68RX2vrRi2cEFd6rThCtWr"
+      "duration_ms": 232106,
+      "name": "Future Tone Bender",
+      "url": "https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz"
     },
     {
       "added_at": "2022-12-01 15:00:00",
@@ -791,26 +811,6 @@
       "duration_ms": 220001,
       "name": "Secret Ceremony",
       "url": "https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV"
-    },
-    {
-      "added_at": "2022-12-01 15:00:00",
-      "album": {
-        "name": "egomaniac feedback",
-        "url": "https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF"
-      },
-      "artists": [
-        {
-          "name": "TK from Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
-        },
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Future Tone Bender",
-      "url": "https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz"
     },
     {
       "added_at": "2022-12-01 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,034 likes - 52 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,074 likes - 52 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 42 | [Fight Back](https://open.spotify.com/track/0wzcUa1qdSNX6U5rovQSeR) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [M1](https://open.spotify.com/artist/1KqjO5UJvhSyBu2D91BBOQ), [Bonnot](https://open.spotify.com/artist/1o9wwykqREid81XQEElOJ1), [Mirko Signorile](https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq), [ALESSANDRO MONTEDURO](https://open.spotify.com/artist/10KotdBBPwNBbdAyQNGe8c), [Marco D'Orlando](https://open.spotify.com/artist/6lx8bRPo7DLXG4t7QM5dIG) | [Fight Back](https://open.spotify.com/album/7Ivhbc9SvFfJJ6rQfQ7akx) | 3:48 |
 | 43 | [feather in your cap](https://open.spotify.com/track/4qLEYDLDfpMs6oamchkUlt) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [feather in your cap](https://open.spotify.com/album/7oTMJQD4M0kSVpVtbglMI5) | 4:21 |
 | 44 | [Magic Shop](https://open.spotify.com/track/7ljKBQPWcds0VXdaWgyEDP) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Magic Shop](https://open.spotify.com/album/2ttPPKupvKMLn1HRF1O7yh) | 6:26 |
-| 45 | [The Sensitive Ear](https://open.spotify.com/track/1FC1GiHKFKFTBfKK4Yl9I3) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Sensitive Ear](https://open.spotify.com/album/52fu0rsBfFqOLSB2e9Xxe9) | 7:38 |
+| 45 | [The Sensitive Ear](https://open.spotify.com/track/6aW1AEpeLpjkLKpsiLV6rn) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Sensitive Ear](https://open.spotify.com/album/6b9uFZis5tNlLgd30RxZAJ) | 7:38 |
 | 46 | [Glass Moon](https://open.spotify.com/track/1MUGRzYFUpQ5vclnDzjAKs) | [Leland Whitty](https://open.spotify.com/artist/2QobOeybSvyibNUGIobnlP) | [Glass Moon](https://open.spotify.com/album/2e63mVSLrs5l94f0TVURTz) | 3:49 |
 | 47 | [Snowed In](https://open.spotify.com/track/62j2khB0glOo7LrHEi6rmi) | [Little Animal!](https://open.spotify.com/artist/23gLK2H4lsLTxG5T7Qesww) | [Little Animal!](https://open.spotify.com/album/6s5lyoK49dFTrcFf8YNUlh) | 8:49 |
 | 48 | [Choices](https://open.spotify.com/track/6fXkdE1c09mpfSVFVxFUAR) | [Stephanie Lottermoser](https://open.spotify.com/artist/3xDDKiRbTKcwev9pdkUdLN) | [In\-Dependence](https://open.spotify.com/album/4ogQnEm03YGnK6hd5qFEl6) | 2:44 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 51 | [Moon Of Jupiter](https://open.spotify.com/track/0i29tZsf4LM2q9r6oVXz1X) | [Selen Gülün](https://open.spotify.com/artist/4HlDQ8vm3OLtReb4UgN5mO), [Serhan Erkol](https://open.spotify.com/artist/6qliCB7jNpZcsqYc3GnjWa), [Engin Recepoğulları](https://open.spotify.com/artist/4KXlkx7J3ZIzpGWozLZIVA), [Barış Ertürk](https://open.spotify.com/artist/0vakstoWiu2K5UqgBmTvRb), [Halil İbrahim Işık](https://open.spotify.com/artist/4DuJDvN6cJ8r0zKnCqaYlj), [Bulut Gülen](https://open.spotify.com/artist/5JyBBYYX9dTs6rC4cut6aC), [Ozan Musluoğlu](https://open.spotify.com/artist/7lZ9lK65nq3qXjWXGUY2S5), [Berke Özgümüş](https://open.spotify.com/artist/3c5c66eaAuGfUNRL6nFJgD) | [Blue Band](https://open.spotify.com/album/5939KCMmCK8EOZFRm0ZYsq) | 5:19 |
 | 52 | [Ganesh](https://open.spotify.com/track/0fzWIwccx9sTChLTMXt2mG) | [Karl Berger](https://open.spotify.com/artist/52moXqtWO6xU1tPREt3fvn), [Kirk Knuffke](https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Matt Wilson](https://open.spotify.com/artist/1IwEgeKYEzh9CBKd6SUH0m) | [Heart is a Melody](https://open.spotify.com/album/0zOM1VW2XpFRr2Xy3qO2uS) | 8:18 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDA2ODNlOTE3ZWU3YzY4ODEzYTA2OTIzMzlkNmU4ZDUw`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDMxZjRmNDA1M2YyNDgzY2UyNmRkMDk0YzA4ZWI2NWMz`

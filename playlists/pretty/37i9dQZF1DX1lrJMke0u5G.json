@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vuelve el Cosqu\u00edn Rock! 12 y 13 de Febrero, Aer\u00f3dromo Santa Mar\u00eda de Punilla, C\u00f3rdoba.",
-  "num_followers": 24219,
+  "num_followers": 24233,
   "original_name": "Cosqu\u00edn Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMDBmODg1MDg5ODE5MGFkYTNmNzllMWU0Njc4N2E3NGVj",
+  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMDlmZDhjODE4MmY4ZjNmNzAwZDY4M2M5ZTg4NTExZGIz",
   "tracks": [
     {
       "added_at": "2022-02-07 20:34:45",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 289654,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 289654,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/4it6vaFbkGRUaQlwWUMg3v"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 209920,
       "name": "Pijamas",
       "url": "https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/4it6vaFbkGRUaQlwWUMg3v"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "El Disco de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
       },
@@ -307,18 +323,34 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+      "duration_ms": 155920,
+      "name": "Carism\u00e1tico",
+      "url": "https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 155867,
+      "name": "LUZ DELITO",
+      "url": "https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -359,50 +391,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
+        "name": "POST MORTEM",
+        "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
         }
       ],
-      "duration_ms": 155920,
-      "name": "Carism\u00e1tico",
-      "url": "https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 155867,
-      "name": "LUZ DELITO",
-      "url": "https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+      "duration_ms": 185905,
+      "name": "PELOTUDA",
+      "url": "https://open.spotify.com/track/65zh1W9YBpgGlS4G98mI0v"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -423,18 +423,50 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "POST MORTEM",
-        "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
       "artists": [
         {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 185905,
-      "name": "PELOTUDA",
-      "url": "https://open.spotify.com/track/65zh1W9YBpgGlS4G98mI0v"
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "CANGURO",
+        "url": "https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 196745,
+      "name": "CANGURO",
+      "url": "https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -467,38 +499,6 @@
       "duration_ms": 187132,
       "name": "Risa",
       "url": "https://open.spotify.com/track/3L55aSsDkT5ojgy3WXjh7s"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "CANGURO",
-        "url": "https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 196745,
-      "name": "CANGURO",
-      "url": "https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "TOLKIN YIT",
+        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 141407,
+      "name": "TOLKIN YIT",
+      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -615,38 +631,6 @@
       "duration_ms": 176773,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "TOLKIN YIT",
-        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 141407,
-      "name": "TOLKIN YIT",
-      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 167638,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -703,6 +687,22 @@
       "duration_ms": 254224,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167638,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/2ttUrgPFiyWOHxbauXSVRo"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 172251,
-      "name": "Ser\u00e1 - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 177818,
       "name": "Lindos Problemas",
       "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 172251,
+      "name": "Ser\u00e1 - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "Tr\u00e1fico por Katmand\u00fa",
+      "url": "https://open.spotify.com/track/4CP1f7aNCp3cJ3CKAl3XY0"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "El Marginal",
         "url": "https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 202826,
       "name": "Aves Migratorias",
       "url": "https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "Tr\u00e1fico por Katmand\u00fa",
-      "url": "https://open.spotify.com/track/4CP1f7aNCp3cJ3CKAl3XY0"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Talism\u00e1n",
-        "url": "https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO"
-      },
-      "artists": [
-        {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "El Golem de Paternal",
-      "url": "https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 211493,
       "name": "Partenaire",
       "url": "https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Talism\u00e1n",
+        "url": "https://open.spotify.com/album/0x0SVERapfyHHdWgoboteO"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "El Golem de Paternal",
+      "url": "https://open.spotify.com/track/1i663MaTN7dcRxv2UPKOlu"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Sinfon\u00edas Libertarias",
-        "url": "https://open.spotify.com/album/19zeVAtY5p7o5n7xLOkKya"
-      },
-      "artists": [
-        {
-          "name": "La Chancha Muda",
-          "url": "https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Policarbonatos de Plutonio",
-      "url": "https://open.spotify.com/track/1H3GvWazWl7oGBJfpT8Onz"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Tipos Serios",
         "url": "https://open.spotify.com/album/3zNyBEZmtuO1FKmuGWV5Vh"
       },
@@ -1615,22 +1599,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Serie Oro",
-        "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "Paisano De Hurlingham",
-      "url": "https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Fijate",
         "url": "https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8"
       },
@@ -1643,6 +1611,22 @@
       "duration_ms": 234947,
       "name": "Fijate",
       "url": "https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Sinfon\u00edas Libertarias",
+        "url": "https://open.spotify.com/album/19zeVAtY5p7o5n7xLOkKya"
+      },
+      "artists": [
+        {
+          "name": "La Chancha Muda",
+          "url": "https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Policarbonatos de Plutonio",
+      "url": "https://open.spotify.com/track/1H3GvWazWl7oGBJfpT8Onz"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1675,6 +1659,22 @@
       "duration_ms": 191078,
       "name": "14:14",
       "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Serie Oro",
+        "url": "https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "Paisano De Hurlingham",
+      "url": "https://open.spotify.com/track/76Ljrd2GAJsHi7CHvZQS26"
     },
     {
       "added_at": "2022-02-07 20:34:45",

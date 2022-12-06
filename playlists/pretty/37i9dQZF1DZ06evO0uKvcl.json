@@ -1,15 +1,31 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 18183,
+  "num_followers": 18202,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MzY0NjMsMDAwMDAwMDA4ZjAwYzc0ZDZlMmZjZTM2NTE3MjA1ODQyZmFhMjcyNQ==",
+  "snapshot_id": "Mjc4Mzc2NDcsMDAwMDAwMDAzZWY2MDY0ZWIxMTkyZjkwYWI0ZjRkM2VhMGFiNDk0YQ==",
   "tracks": [
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
@@ -41,10 +57,10 @@
       "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
       "artists": [
         {
@@ -52,28 +68,12 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 163026,
-      "name": "How Many More Years",
-      "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
+      "duration_ms": 146173,
+      "name": "Who's Been Talking?",
+      "url": "https://open.spotify.com/track/7aHS9MdIBgmkedKRFhjFEK"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Three Hundred Pounds Of Joy",
-      "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -97,7 +97,23 @@
       "url": "https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Three Hundred Pounds Of Joy",
+      "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
@@ -144,28 +160,12 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 149400,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/22o1qy3iZ7CyXUdK6BIf2n"
+      "duration_ms": 147400,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -189,7 +189,23 @@
       "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
@@ -225,10 +241,10 @@
       "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
@@ -236,28 +252,12 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 147400,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
+      "duration_ms": 176573,
+      "name": "Moanin' At Midnight",
+      "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -281,7 +281,23 @@
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
@@ -328,12 +344,12 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 176573,
-      "name": "Moanin' At Midnight",
-      "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "From New Orleans",
         "url": "https://open.spotify.com/album/7ssfX6zrPwogKVu611m935"
@@ -349,31 +365,23 @@
       "url": "https://open.spotify.com/track/6kmrgoMMBUpTiqlkTcVkX8"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
-        "name": "The Super, Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
       "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 394173,
-      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
-      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
@@ -409,23 +417,31 @@
       "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
       "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+      "duration_ms": 394173,
+      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
+      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
@@ -457,7 +473,23 @@
       "url": "https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Howlin' For My Darlin'",
+      "url": "https://open.spotify.com/track/4LYZ56NfIsuIizQewrfEr9"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -481,23 +513,7 @@
       "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forty Four",
-      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
@@ -529,7 +545,27 @@
       "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "Electro Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/3Wbut1IQZPJgdLCwuhhAUx"
+      },
+      "artists": [
+        {
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Cryin' at Daybreak",
+      "url": "https://open.spotify.com/track/02phrvEdq2xWe3EPvFU6At"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -553,43 +589,7 @@
       "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Tail Dragger",
-      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "Electro Blues, Vol. 1",
-        "url": "https://open.spotify.com/album/3Wbut1IQZPJgdLCwuhhAUx"
-      },
-      "artists": [
-        {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Cryin' at Daybreak",
-      "url": "https://open.spotify.com/track/02phrvEdq2xWe3EPvFU6At"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
@@ -621,7 +621,23 @@
       "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "I Asked For Water",
+      "url": "https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
         "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/1S2J8MwIU6O45DK6gFNuuX"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
@@ -653,23 +669,7 @@
       "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "The Genuine Article",
-        "url": "https://open.spotify.com/album/6fyaWAxcs1FAvF8PzQBnLC"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "I've Been Abused",
-      "url": "https://open.spotify.com/track/6apZLoGfbuo6XSzy6zlIoS"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
@@ -685,7 +685,23 @@
       "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "The Genuine Article",
+        "url": "https://open.spotify.com/album/6fyaWAxcs1FAvF8PzQBnLC"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "I've Been Abused",
+      "url": "https://open.spotify.com/track/6apZLoGfbuo6XSzy6zlIoS"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
         "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/0ZoaeW985qD2aJoiwUbh3Q"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/4HnoJ54rGCjE8j5qkzDZS4"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
         "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/4vYEG8wSAsl5y5kLSuPuR5"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
         "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/2KNgKt4lgPch30xqrJBXSf"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Legendary Howlin' Wolf",
         "url": "https://open.spotify.com/album/3XoYEUKwyJNMGS4Yw1jRYK"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/4wyCeE7tQTQ3p2zhYIvWDc"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Memphis Sessions",
         "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/3rWhFabcpnpCF9iSWAZqKo"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
         "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/1p69YUlzXrwWjxPu5nNQab"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Legendary Howlin' Wolf",
         "url": "https://open.spotify.com/album/3XoYEUKwyJNMGS4Yw1jRYK"
@@ -861,23 +877,7 @@
       "url": "https://open.spotify.com/track/2gpHx8H04p8Va4ar8VJojx"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/26y1snNNNSWwGHEL5VwGz3"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Message To The Young",
         "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/3rzzi3cE3f0dPS99foCiSV"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
@@ -909,7 +909,23 @@
       "url": "https://open.spotify.com/track/4bay5Gdr7Km8dzpchkUCWo"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Howlin' Wolf Boogie - Single Version",
+      "url": "https://open.spotify.com/track/2tQIv1nBXJChbiyA95NShQ"
+    },
+    {
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/3jo7vTw7utjbSkSKVMBhpn"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Memphis Sessions",
         "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
@@ -941,23 +957,7 @@
       "url": "https://open.spotify.com/track/5dlV27sZIok7UTNOwixsrc"
     },
     {
-      "added_at": "2022-12-04 21:03:53",
-      "album": {
-        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
-        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 192543,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/6fu6cJJJinhLCb8PLFrCzY"
-    },
-    {
-      "added_at": "2022-12-04 21:03:53",
+      "added_at": "2022-12-05 16:47:31",
       "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"

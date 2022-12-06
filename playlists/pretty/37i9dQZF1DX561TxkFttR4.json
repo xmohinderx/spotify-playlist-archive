@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 320751,
+  "num_followers": 320821,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDIyOWE0ZDFiMzNmYThiYjExZGIwOGRkM2ViNmQzNDEw",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDgyNDAzZjg1NWJkNTQ5MjcxYzU3ZDg1N2FiOTRlNGI5",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Night Solace",
-        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 161469,
-      "name": "Night Solace",
-      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Quietly Quietly",
         "url": "https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 202500,
       "name": "Quietly Quietly",
       "url": "https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Night Solace",
+        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 161469,
+      "name": "Night Solace",
+      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Num\u00e9ro 1",
-        "url": "https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8sefine",
-          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
-        }
-      ],
-      "duration_ms": 154625,
-      "name": "Num\u00e9ro 1",
-      "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Felt Improv No. 31",
         "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 144042,
       "name": "Felt Improv No. 31",
       "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Num\u00e9ro 1",
+        "url": "https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8sefine",
+          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
+        }
+      ],
+      "duration_ms": 154625,
+      "name": "Num\u00e9ro 1",
+      "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -483,38 +483,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Beneath the Crystal Veil",
-        "url": "https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB"
-      },
-      "artists": [
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Beneath the Crystal Veil",
-      "url": "https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Beyond Dreams",
-        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Beyond Dreams",
-      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Prehension",
         "url": "https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK"
       },
@@ -531,6 +499,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Beneath the Crystal Veil",
+        "url": "https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Beneath the Crystal Veil",
+      "url": "https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Beyond Dreams",
+        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Beyond Dreams",
+      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn"
-      },
-      "artists": [
-        {
-          "name": "Wilson Trouv\u00e9",
-          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Correlations (on 11 pianos)",
         "url": "https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Tristes",
-        "url": "https://open.spotify.com/album/4vdP6Kso8xJEAhmoPwtu3N"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn"
       },
       "artists": [
         {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+          "name": "Wilson Trouv\u00e9",
+          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Tristes",
-      "url": "https://open.spotify.com/track/1dfXJRmlzO392SXEaVfsNv"
+      "duration_ms": 157000,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -675,6 +659,22 @@
       "duration_ms": 201901,
       "name": "Bells",
       "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Tristes",
+        "url": "https://open.spotify.com/album/4vdP6Kso8xJEAhmoPwtu3N"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Tristes",
+      "url": "https://open.spotify.com/track/1dfXJRmlzO392SXEaVfsNv"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dagdraumur",
-      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Pioneers",
         "url": "https://open.spotify.com/album/4tU8qKdQPlGm4OIqHddiw2"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 199255,
       "name": "Pioneers",
       "url": "https://open.spotify.com/track/74TWhwYF9jxmeMgQUVbu7S"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dagdraumur",
+      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
-      },
-      "artists": [
-        {
-          "name": "Ky\u016bka",
-          "url": "https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7"
-        }
-      ],
-      "duration_ms": 110466,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "In Breath",
         "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 174000,
       "name": "Ephemera",
       "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS"
+      },
+      "artists": [
+        {
+          "name": "Ky\u016bka",
+          "url": "https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7"
+        }
+      ],
+      "duration_ms": 110466,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -983,38 +983,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Life in Process",
-        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
-      },
-      "artists": [
-        {
-          "name": "Masaki Kawasaki",
-          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Song For Katie",
-        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jacqu\u00e9s",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Song For Katie",
-      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "orange sky",
         "url": "https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb"
       },
@@ -1027,6 +995,22 @@
       "duration_ms": 190670,
       "name": "orange sky",
       "url": "https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Life in Process",
+        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
+      },
+      "artists": [
+        {
+          "name": "Masaki Kawasaki",
+          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sand and Stars",
-        "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie J Perry",
-          "url": "https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2"
-        }
-      ],
-      "duration_ms": 269904,
-      "name": "Sand and Stars",
-      "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP"
       },
@@ -1095,22 +1063,34 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "145",
-        "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
       },
       "artists": [
         {
-          "name": "Patrik Berg Almkvisth",
-          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
-        },
-        {
-          "name": "LUCHS",
-          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
         }
       ],
-      "duration_ms": 141602,
-      "name": "145 - Revisited",
-      "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Sand and Stars",
+        "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie J Perry",
+          "url": "https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2"
+        }
+      ],
+      "duration_ms": 269904,
+      "name": "Sand and Stars",
+      "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1135,6 +1115,26 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "145",
+        "url": "https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "duration_ms": 141602,
+      "name": "145 - Revisited",
+      "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 262464,
       "name": "your sonnet",
       "url": "https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Some Other Place",
+        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
+      },
+      "artists": [
+        {
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
+        }
+      ],
+      "duration_ms": 253169,
+      "name": "Some Other Place",
+      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Some Other Place",
-        "url": "https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E"
-      },
-      "artists": [
-        {
-          "name": "Meredi",
-          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
-        }
-      ],
-      "duration_ms": 253169,
-      "name": "Some Other Place",
-      "url": "https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Stay Longer",
         "url": "https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "A Cloud Passed",
         "url": "https://open.spotify.com/album/7gYv4XTS4bIBw6c9z91v07"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 136078,
       "name": "A Cloud Passed",
       "url": "https://open.spotify.com/track/6l6cLvP0ACfjEzu343bWfa"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+        "name": "Across Borders",
+        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
       },
       "artists": [
         {
-          "name": "The Masked Pianoman",
-          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
         }
       ],
-      "duration_ms": 129209,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
+      "duration_ms": 156000,
+      "name": "Across Borders",
+      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
     }
   ],
   "unique_name": "Soft Piano",

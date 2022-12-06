@@ -1,12 +1,12 @@
 {
   "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: <a href=\"https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=Hlh4jrktTjungHWulQoTZA\"> Kelvyn Boy </a>",
-  "num_followers": 10253,
+  "num_followers": 10265,
   "original_name": "Ghana Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMGIxOGFkMmVlNDhhNDk4ZThkZjlkYmNjMjUxZTYyZTc1",
+  "snapshot_id": "MTY3MDIyMTgyNywwMDAwMDAwMDFmM2M0M2MyMWFlNjU3MDRkN2Y5OTQxOWRlMGViOTQx",
   "tracks": [
     {
       "added_at": "2022-11-15 09:40:15",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI"
     },
     {
+      "added_at": "2022-12-05 06:30:27",
+      "album": {
+        "name": "JJC",
+        "url": "https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 297168,
+      "name": "JJC",
+      "url": "https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0"
+    },
+    {
       "added_at": "2022-11-25 07:51:05",
       "album": {
         "name": "Enjoyment",
@@ -751,26 +767,6 @@
       "duration_ms": 192960,
       "name": "Yaa Asantewaa (feat. Frenna)",
       "url": "https://open.spotify.com/track/6NGXW92wizzbj2aHI2ZpPT"
-    },
-    {
-      "added_at": "2022-11-25 07:51:05",
-      "album": {
-        "name": "Y'eni Agye",
-        "url": "https://open.spotify.com/album/37PbkW9YttVRT2sh46MT47"
-      },
-      "artists": [
-        {
-          "name": "Donzy",
-          "url": "https://open.spotify.com/artist/273zZHWXvj4VlC6Il00yjz"
-        },
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        }
-      ],
-      "duration_ms": 213078,
-      "name": "Y'eni Agye",
-      "url": "https://open.spotify.com/track/6hA1SKBbQ6F7PfG2URI7jl"
     },
     {
       "added_at": "2022-11-04 06:32:33",

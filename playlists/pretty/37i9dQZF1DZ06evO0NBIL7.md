@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 22 | [Better To Forget](https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:52 |
 | 23 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 
-Snapshot ID: `Mjc4MzY0NjQsMDAwMDAwMDBkZGEzMjU3M2Q0NzBlZWQ4YTJiOTlhMGUxNGRmYjFlNA==`
+Snapshot ID: `Mjc4Mzc2NDcsMDAwMDAwMDA5Y2UyNzBhYWU0MTk3Y2ZmNmY5NmUyM2ZhZTUyYThmZQ==`

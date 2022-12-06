@@ -1,13 +1,29 @@
 {
-  "description": "hemlocke springs tops our list of artists to watch.",
-  "num_followers": 350756,
+  "description": "Villano Antillano is our newest RADAR artist.",
+  "num_followers": 350794,
   "original_name": "RADAR US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ0Nzk3NCwwMDAwMDAwMDVmOTVkZGU0NDIyNGIxMjY2M2U3YTVmMGYwNmE4NDhi",
+  "snapshot_id": "MTY3MDI1NTA0MCwwMDAwMDAwMGExZDY5Y2Q0MzI5ODhjOGIwOGMzMjdlODVlZTZjODIx",
   "tracks": [
+    {
+      "added_at": "2022-12-05 15:44:00",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "Kaleidosc\u00f3pica",
+      "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
     {
       "added_at": "2022-11-14 17:45:52",
       "album": {

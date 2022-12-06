@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-645 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+649 songs - 1 day 11 hr 13 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Battiyan](https://open.spotify.com/track/4DHK5LbsQErwvi2Rtj288z) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK) | [Battiyan](https://open.spotify.com/album/5aqKAXAol6AQyV00T33dh5) | 3:12 | 2022-06-16 | 2022-07-06 |
 | [Be Mine](https://open.spotify.com/track/0GgN5LyCwRG3jlUIk19IOs) | [Sippy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY) | [Anything For You](https://open.spotify.com/album/1NLXWJAvPEi3Lz1AJ61EXO) | 2:18 | 2022-08-11 | 2022-09-23 |
 | [Beach Side](https://open.spotify.com/track/71Z54iTChBafBtFqzfdlao) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Beach Side](https://open.spotify.com/album/6Bcs0rdNppNnlt30wuS1wE) | 3:08 | 2022-08-05 | 2022-08-18 |
+| [Bebe Di Pasand](https://open.spotify.com/track/4OSXEqZGJFz493HGodyMtD) | [Anmol Dhandra](https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE) | [Bebe Di Pasand](https://open.spotify.com/album/5ajiQZlIDFxbU8nnr0PGQe) | 3:28 | 2022-12-05 |  |
 | [Befikra](https://open.spotify.com/track/32Tfuu9E7wDqSCkUaXpdeg) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV) | [Befikra](https://open.spotify.com/album/1IqfKGDaEnFn5zv6xFzJcW) | 3:26 | 2022-02-24 | 2022-04-06 |
 | [Belief](https://open.spotify.com/track/4fwgyNZyF5IzMOpHdAPsnF) | [Roop Jai Singh](https://open.spotify.com/artist/1cdUwU6zZAyCnMtAeORa3Z), [Enthamoment](https://open.spotify.com/artist/021ngzZoRi1o21azkbM1n3) | [Belief](https://open.spotify.com/album/2xK6wpJ14JVOuVx0R8vLhv) | 3:42 | 2022-07-29 | 2022-08-18 |
 | [Beliya](https://open.spotify.com/track/58C05jp9At1nyCSK3D1hBv) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Beliya](https://open.spotify.com/album/7evrCbGsmhF9PmzY8aa63L) | 2:55 | 2022-07-13 | 2022-08-18 |
@@ -550,6 +551,8 @@
 | [Suita To Payara](https://open.spotify.com/track/2sh6Ny6YTf6Ku0ShOmbCmW) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 2:40 | 2022-02-03 | 2022-02-12 |
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |
+| [Supna](https://open.spotify.com/track/1vjjDb1oFf67W9zOVh8a6d) | [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Supna](https://open.spotify.com/album/5jI9MZUKKKj6WvnfyRn4Xm) | 4:08 | 2022-12-05 |  |
+| [Surma](https://open.spotify.com/track/2DBaGfuoLB7GJpTKJpLO5P) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu), [Arsh Sarpal](https://open.spotify.com/artist/3CCMpMo6uEI0RiHOlcosz3) | [First Draft](https://open.spotify.com/album/6rPNjEczANskt3rINL8Ijl) | 2:04 | 2022-12-05 |  |
 | [Surma](https://open.spotify.com/track/0J987rfHrlc6HOq3Y4nbrS) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq) | [Surma](https://open.spotify.com/album/4lH2JUQPh7oOhypdKijwBp) | 2:45 | 2022-12-01 |  |
 | [Surma](https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Rafal](https://open.spotify.com/artist/03QZhdzly7IjQzjucvOW7l) | [Surma](https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1) | 2:23 | 2022-11-09 |  |
 | [Surma](https://open.spotify.com/track/3ijLrhb7Rq9E75B94KJ90s) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Surma](https://open.spotify.com/album/7wiyKmbGYMkikS5DSWTcJC) | 2:45 | 2022-07-22 | 2022-08-18 |
@@ -581,6 +584,7 @@
 | [Tere Supne](https://open.spotify.com/track/6ey1jPdZnZ44rAvDlxCbyI) | [Nobby Singh](https://open.spotify.com/artist/6uwgbF1ioLsU15PZCDZCeP) | [Tere Supne](https://open.spotify.com/album/2pAstXpLBnLSGQnhPAQ7VH) | 3:06 | 2022-07-29 | 2022-08-18 |
 | [Teri Bewafai](https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Teri Bewafai](https://open.spotify.com/album/32GB0B0w1MC5qOfU9jwzBi) | 3:41 | 2022-11-07 |  |
 | [Teri Khair Mangaan](https://open.spotify.com/track/1d5WDpIIi6lxYdKlh2GolI) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deeba Kiran](https://open.spotify.com/artist/3JQr8bw6qBKg1snoIe6cZv) | [Teri Khair Mangaan](https://open.spotify.com/album/6XPN1xzy7xQYYRtRAkkdfO) | 4:10 | 2022-02-11 | 2022-02-19 |
+| [Teri Meri Gal](https://open.spotify.com/track/5xDHYn57Qo3DQL0kWYguil) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Teri Meri Gal](https://open.spotify.com/album/7cS93JAZcki9VeUz4udf1u) | 2:53 | 2022-12-05 |  |
 | [Teri Meri Kahani](https://open.spotify.com/track/5ftyuvT3jQotZvo6sJnyce) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Teri Meri Kahani](https://open.spotify.com/album/1xIyxjMzRm9npN8olJlz67) | 2:35 | 2022-07-29 | 2022-08-18 |
 | [Teri Sardarni](https://open.spotify.com/track/3W4dGZMlTGDAfB3WoSI3qA) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n) | [Teri Sardarni](https://open.spotify.com/album/3ruy1JXCCcVL4mfQlkjiuG) | 3:47 | 2021-12-02 | 2022-02-01 |
 | [The Punjaabban Song \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/1XSSm7oKOzNE8oUapjIRWV) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [The Punjaabban Song \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/6mIfxHJVpWhYXKPjHgn80M) | 3:19 | 2022-05-28 | 2022-07-06 |

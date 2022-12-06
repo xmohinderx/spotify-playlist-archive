@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-496 songs - 1 day 6 hr 34 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+497 songs - 1 day 6 hr 37 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Odyssey to the Netherworld](https://open.spotify.com/track/17WOCrqWH5HKgz0sAn7My6) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Dakota](https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG) | [Odyssey to the Netherworld](https://open.spotify.com/album/4kWcg5IBuq23EKMPraOzKG) | 15:13 | 2022-06-10 |  |
 | [Offshore](https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6) | 3:19 | 2022-05-13 |  |
 | [Offshore \- Evolution Mix](https://open.spotify.com/track/2O0HETfHUQNumACQ7Yg6sm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowds \(Evolution Mixes\)](https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn) | 3:46 | 2022-07-08 | 2022-10-08 |
-| [On My Mind](https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Cristina Soto](https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj) | [On My Mind](https://open.spotify.com/album/0Q111xnolEwzNORK2QWy6w) | 4:58 | 2022-05-06 |  |
+| [On My Mind](https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Cristina Soto](https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj) | [On My Mind](https://open.spotify.com/album/0Q111xnolEwzNORK2QWy6w) | 4:58 | 2022-05-06 | 2022-12-06 |
 | [One Last Dance \- Farius Remix](https://open.spotify.com/track/4RvECaSz84jyRFhOfXuahJ) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [One Last Dance \(Farius Remix\)](https://open.spotify.com/album/4MTSJjAoJdaaPFUjtm6n9g) | 4:09 | 2022-03-11 |  |
 | [Open Your Eyes](https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf) | [Suanda Music Radio Top 20 \(May 2022\)](https://open.spotify.com/album/2qRknvwmzLJAl0TF18dTMv) | 3:23 | 2022-05-20 | 2022-07-29 |
 | [Orbit 37](https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Orbit 37](https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM) | 2:54 | 2022-05-27 |  |
@@ -351,6 +351,7 @@
 | [Poison](https://open.spotify.com/track/7hgErdFGOvCeZBjrKyrPpu) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Poison](https://open.spotify.com/album/2SNwGMNUdsFXoCBOAzAijm) | 4:27 | 2021-12-17 | 2022-01-15 |
 | [Polarity](https://open.spotify.com/track/4RdSfPV8r8ENATeTplWLmB) | [Corti Organ](https://open.spotify.com/artist/0v0dCyLQpm5BcEL90AcnBK) | [Polarity](https://open.spotify.com/album/0R2woxQiu1NERaArCQBgC6) | 2:20 | 2022-05-20 |  |
 | [Projection](https://open.spotify.com/track/1DTLuAyZhiqLbxpZM3QoaY) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Anjunabeats Volume 16](https://open.spotify.com/album/5U5RVS6wdPaleEFqBzzpDm) | 3:50 | 2022-08-05 |  |
+| [Protect Your Mind \(braveheart\)](https://open.spotify.com/track/4c6E9EwMfjwkO0s6c8WCFt) | [DJ Sakin](https://open.spotify.com/artist/65uIFYle2lbINwH5llwFM4), [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2rBqSVxocN92JcOvmdxxdq) | 3:21 | 2022-12-02 |  |
 | [Purpose](https://open.spotify.com/track/4H1ua1D82da8b2WGa8mi9i) | [BiXX](https://open.spotify.com/artist/4RiwBL7Ca5pV4qR7gRmEOh), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Purpose](https://open.spotify.com/album/0VDMjTE6JnnAN7k8OAMuRl) | 3:56 | 2022-02-18 |  |
 | [Quantum Eraser](https://open.spotify.com/track/4iBtkALF5a2yMOUOb0EhSi) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Paul Denton](https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2) | [Quantum Eraser](https://open.spotify.com/album/6rCa1P1U4IdObZrigvZ4SH) | 4:23 | 2022-05-06 | 2022-11-14 |
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-12-17 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-195 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+196 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cook \(Feat\. JONGHAN\)](https://open.spotify.com/track/2vBQWz8LbeSvVqwfVWPHUc) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:18 | 2022-05-11 | 2022-07-28 |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-12 |  |
 | [daisy.](https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou) | 3:38 | 2022-05-11 | 2022-12-03 |
+| [daisy.](https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS) | 3:38 | 2022-10-13 |  |
 | [DANCE](https://open.spotify.com/track/0DUTC8bzJvSXudIv5IQqVY) | [Z.flat](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq) | [DANCE](https://open.spotify.com/album/51ON5n5bYm9kycCGUbvJ0Q) | 3:00 | 2022-06-18 | 2022-07-24 |
 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 | 2022-05-11 | 2022-07-27 |
 | [Dear\. My Side](https://open.spotify.com/track/2F9SwgEESnCPpTug9icsHH) | [Park Do Ha](https://open.spotify.com/artist/6Mv1YjL5xpxbMLTgIqdgul) | [Dear\. My Side](https://open.spotify.com/album/5298Ty693jV61VMRPalvsZ) | 3:39 | 2022-05-11 | 2022-07-24 |
@@ -54,7 +55,7 @@
 | [Emotional Waste \(feat\. D2ear\)](https://open.spotify.com/track/7CdFsJYpskjCcIWjpwdycZ) | [Easel](https://open.spotify.com/artist/5X2vKSDTK9wh43FhK3EPhA), [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [Emotional Waste](https://open.spotify.com/album/06ZTKEzb98CneOXLiUIwiC) | 3:04 | 2022-05-11 | 2022-07-11 |
 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 | 2022-05-11 |  |
 | [ESP](https://open.spotify.com/track/4aL6dCIUfLf5obWVGm0LYr) | [General SSO](https://open.spotify.com/artist/55V6c51gbCNG3tsVr7DzcU) | [General SSO](https://open.spotify.com/album/6EDMgxDwx87C55pD9Otre5) | 3:20 | 2022-05-11 | 2022-07-22 |
-| [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 | 2022-08-08 |  |
+| [Eunha Store \(feat\. KIM YUNA\)](https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Kim Yuna](https://open.spotify.com/artist/7jZIyFyyKxgPjelZN2nepI) | [New Edition 42](https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM) | 2:44 | 2022-08-08 | 2022-12-06 |
 | [excuses](https://open.spotify.com/track/24ZZsTtsIqEYxhVXL8k75e) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [excuses](https://open.spotify.com/album/7vrkB5apr0lk3SAihR9xxA) | 2:51 | 2022-05-11 | 2022-07-28 |
 | [FALL](https://open.spotify.com/track/6vUrSRRrSAcTUZMbGyds1C) | [DWIGON](https://open.spotify.com/artist/43IGet85Estmbg7gKpsOJa) | [All the Month I spent with you : OCTOBER](https://open.spotify.com/album/4DoGu8sHkPjfynT0GSA1wc) | 4:01 | 2022-05-11 | 2022-07-23 |
 | [FALLIN](https://open.spotify.com/track/15q20kLS04KZRAldpmRfHJ) | [ARCX](https://open.spotify.com/artist/7qXcUdvYuSPsnFj6iZO2jm), [Haki](https://open.spotify.com/artist/2Iqe9ySptj3e4bIEsJEC9b) | [FALLIN](https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf) | 3:31 | 2022-07-08 | 2022-08-09 |

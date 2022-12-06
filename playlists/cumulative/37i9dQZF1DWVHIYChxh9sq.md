@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-215 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
+216 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/4oXHgWduTWFlo14M6NXNSL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [El Pocho \- En Vivo](https://open.spotify.com/track/3Zy62kewDGfhIIK5w6QQ5R) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/3BGT6CvbtGCR0l0FBbGaKP) | 2:48 | 2022-05-12 |  |
 | [El Ranchero](https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Ranchero](https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q) | 2:39 | 2022-05-12 |  |
 | [El Rey De La Naturaleza](https://open.spotify.com/track/1Fch7o7EXJjWdW10GYv4Zd) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Rey De La Naturaleza](https://open.spotify.com/album/4chAvCtT6xcWPBed4QVsMq) | 3:42 | 2022-05-12 | 2022-07-29 |
-| [El Rey De La Naturaleza \- Live](https://open.spotify.com/track/0hkGUqpTLieipMpRztlhjz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 3:42 | 2022-05-12 |  |
+| [El Rey De La Naturaleza \- Live](https://open.spotify.com/track/0hkGUqpTLieipMpRztlhjz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 3:42 | 2022-05-12 | 2022-12-06 |
 | [El Rey De Mil Coronas \(En Vivo\)](https://open.spotify.com/track/0YO0eVBZsdEgFdUgY59O6g) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Rey De Mil Coronas \(En Vivo\)](https://open.spotify.com/album/4CK2UFpYOeRduNaxEaWLwx) | 2:34 | 2022-05-12 |  |
 | [El Roto \- En Vivo](https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Roto \(En Vivo\)](https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb) | 3:13 | 2022-05-12 |  |
 | [El Taquicardio \- En Vivo](https://open.spotify.com/track/2iEPF5e1qtrKUlxIKJDU6q) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo a Caballo Desde Jalisco, Vol\. 3](https://open.spotify.com/album/0uQR7BaLZQTfkeDhZKlyRS) | 3:24 | 2022-05-12 |  |
@@ -172,6 +172,7 @@
 | [Ni Parientes Somos \- En Vivo](https://open.spotify.com/track/69shFbqWcNTkQEwv2ZVDtS) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo](https://open.spotify.com/album/5UHBIZedfJZpnsJ2PaMyWI) | 2:57 | 2022-05-12 | 2022-11-23 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-05-12 |  |
 | [No Pasa De Moda](https://open.spotify.com/track/1pyxTCljRaXLEbClpbjb8f) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Pasa De Moda](https://open.spotify.com/album/1qS2UjDR1h36oHpVuNAKLa) | 3:41 | 2022-05-12 | 2022-11-30 |
+| [No Pasa De Moda \- Live](https://open.spotify.com/track/6zTndnBWe5PZ9OZoAw5f2A) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:41 | 2022-05-12 |  |
 | [Ojitos De Golondrina \- En Vivo](https://open.spotify.com/track/3YZeu8Z7Ss85OYR2LjbmRX) | [José Manuel Figueroa](https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF) | [Ojitos De Golondrina \(En Vivo\)](https://open.spotify.com/album/1GsRibnQPEYKcnJDOM3fbd) | 3:30 | 2022-05-12 |  |
 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy) | 3:26 | 2022-05-12 |  |
 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/5bT2t8Ai6Lb4SSPe21R0De) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/7yIVIsW94NoNt8g7dxl7u4) | 3:26 | 2022-05-12 | 2022-07-29 |

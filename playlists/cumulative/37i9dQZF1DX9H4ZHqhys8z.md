@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9H4ZHqhys8z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9H4ZHqhys8z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9H4ZHqhys8z)
 
-### [EQUAL Greece](https://open.spotify.com/playlist/37i9dQZF1DX9H4ZHqhys8z)
+### [Best of EQUAL Greece 2022](https://open.spotify.com/playlist/37i9dQZF1DX9H4ZHqhys8z)
 
 > Άκου την καλύτερη μουσική από Ελληνίδες καλλιτέχνιδες, που κυκλοφόρησε το 2022\. Εξώφυλλο: Stefania
 

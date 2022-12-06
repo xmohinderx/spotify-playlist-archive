@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-217 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+218 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bédi Beat](https://open.spotify.com/track/4u1GfVTNwHmHx6DAD50ZL1) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/1gU6xYQZFJH4ClJcpS1W4w) | 3:20 | 2022-04-01 | 2022-04-20 |
 | [Bédi Beat](https://open.spotify.com/track/7qaYhfTkekBcIm8q9Mewjd) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:20 | 2022-07-22 |  |
 | [Cafuné](https://open.spotify.com/track/2nWJnSQDPD3ZnzgZ7rdQM4) | [Igor Liberato](https://open.spotify.com/artist/55HEu5rWRxthkFWt05pi2d) | [Gato](https://open.spotify.com/album/6MPbNNSaRG040qbYEXxIGC) | 3:23 | 2022-02-04 | 2022-07-29 |
+| [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 | 2022-11-25 |  |
 | [Café Com Leite](https://open.spotify.com/track/1OriutnwFLClBgWMYJIKEg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Café Com Leite](https://open.spotify.com/album/5EGAwvjPxPFutIi3R5c88v) | 4:22 | 2022-03-22 | 2022-04-15 |
 | [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 | 2022-02-04 | 2022-09-13 |
 | [Calafrio](https://open.spotify.com/track/33sjMToZ0G476SJIixKWG5) | [Califrê](https://open.spotify.com/artist/515mPwX4bpcVcTEZYKGVkg) | [Calafrio](https://open.spotify.com/album/3XXSRPhUUZrzuMddjWVCYF) | 3:47 | 2022-04-01 | 2022-07-09 |
@@ -106,7 +107,7 @@
 | [Fullgás](https://open.spotify.com/track/1f9HisfpJAutD6WgOY1sPP) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Qinho Canta Marina](https://open.spotify.com/album/0Dlkq4Ecn8e0UOUhDm9RFm) | 4:27 | 2022-02-04 | 2022-07-26 |
 | [Gamela](https://open.spotify.com/track/3Dj1bQdB6swcsWkQRtnevp) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK) | [Gamela](https://open.spotify.com/album/4dIM1zU22GCBCH6bzPwV6Q) | 3:42 | 2022-03-22 | 2022-04-13 |
 | [Gentilmente](https://open.spotify.com/track/3u9LN72UqsGVYgEJVrtVah) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Gentilmente](https://open.spotify.com/album/0XbYJg3dz9T5z1qdOmIg6d) | 4:12 | 2022-02-04 | 2022-07-29 |
-| [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 | 2022-02-04 |  |
+| [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 | 2022-02-04 | 2022-12-06 |
 | [Gostosin](https://open.spotify.com/track/2O9Vl5peatdy7ihvizo67c) | [Gamboa](https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL) | [Gostosin](https://open.spotify.com/album/3KpryyF0B32pXpVr1gNk69) | 3:11 | 2022-02-04 | 2022-07-29 |
 | [Hater](https://open.spotify.com/track/5RtvR2qQBgKB3qefpQudYQ) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Hater](https://open.spotify.com/album/7MWlF20kJgny6XblMRwOAh) | 4:47 | 2022-04-01 | 2022-05-12 |
 | [Ideias E Ideais](https://open.spotify.com/track/5KnxRBU9N6KikeAtSukIqX) | [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Arteiro](https://open.spotify.com/album/4Jj3aHQ745B9x1XwhbUmFM) | 3:08 | 2022-02-04 | 2022-07-27 |

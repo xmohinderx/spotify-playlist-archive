@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-226 songs - 20 hr 25 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+227 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 | 2022-11-12 |  |
 | [I'll Never Stop Loving You](https://open.spotify.com/track/19eGuwgMWn7huIkQ5qqfcs) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [I'll Never Stop Loving You](https://open.spotify.com/album/2CfvJoDEni8SoCkzdXsV8i) | 2:53 | 2022-02-18 | 2022-07-29 |
 | [I'm Old Fashioned](https://open.spotify.com/track/3VudDVni3lGTV0XiR9cm8f) | [Charles Cook Jr.](https://open.spotify.com/artist/6OuL9oPiYuoXRwsOVI4m0Y) | [I'm Old Fashioned](https://open.spotify.com/album/5pbOE0G65X50rK2J1gjKg3) | 4:21 | 2022-11-12 |  |
+| [I've Got The World On A String](https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [I've Got The World On A String](https://open.spotify.com/album/2d3RRqSl4gfGbqJ93hdAwI) | 4:17 | 2022-12-01 |  |
 | [If You Want To](https://open.spotify.com/track/0eN3rOpAbesvVrti6C9dFj) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [If You Want To](https://open.spotify.com/album/3PMjBQoX0kmaHpPPLFP2c6) | 2:46 | 2022-11-12 |  |
 | [Ill Wind](https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 5:35 | 2022-09-16 |  |
 | [In a Mellow Tone](https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1) | [Axel Schlosser Quartet](https://open.spotify.com/artist/1gyU95deycuGxh38euzxip) | [To Satch and Duke](https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B) | 5:17 | 2022-02-18 | 2022-11-12 |
@@ -106,7 +107,7 @@
 | [It's Always You](https://open.spotify.com/track/2i7sJAA8we9WPS4TzDazRQ) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [It's Always You](https://open.spotify.com/album/5nHIEvhqTrblgGXsrDPiQJ) | 3:39 | 2022-11-12 |  |
 | [Jackie In The Rain](https://open.spotify.com/track/6FPEC5iUtgi0GzYhRnE1FU) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 5:04 | 2020-03-31 | 2022-11-25 |
 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 | 2022-04-28 |  |
-| [Just a Memory](https://open.spotify.com/track/2SiBmTUp1CHjkhtJDJzOTR) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy), [Riley Mulherkar](https://open.spotify.com/artist/6IbzJR3PPXN7Lbq8DmAscD), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 5:15 | 2022-10-20 |  |
+| [Just a Memory](https://open.spotify.com/track/2SiBmTUp1CHjkhtJDJzOTR) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy), [Riley Mulherkar](https://open.spotify.com/artist/6IbzJR3PPXN7Lbq8DmAscD), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 5:15 | 2022-10-20 | 2022-12-06 |
 | [L'appuntamento](https://open.spotify.com/track/6abl6iqjPN4SGjD74AUnPy) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr), [Giampaolo Casati](https://open.spotify.com/artist/46i1fJpLVO8VrBDG54kfPc) | [50 Trumpet \(Smooth Jazz\)](https://open.spotify.com/album/7jJThjXtuAbCd4h638VrtS) | 3:18 | 2020-03-31 | 2022-02-23 |
 | [L.A\. 58](https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:06 | 2020-03-31 |  |
 | [Left Alone](https://open.spotify.com/track/5niuB6LyaMlfOizwxsLAlZ) | [Pekka Pylkkanen](https://open.spotify.com/artist/3FhDOgA2Mmistm9ml8kMur), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx) | [Left Alone](https://open.spotify.com/album/0AwwQi9FYLGVav6LSZxzJV) | 10:30 | 2022-05-05 |  |

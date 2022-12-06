@@ -4,14 +4,15 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-127 songs - 7 hr 26 min - not published yet
+128 songs - 7 hr 29 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Days Of Christmas](https://open.spotify.com/track/7mOnZagYtB3zKcLqgWq2X8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:04 | 2021-12-24 |  |
+| [A Special Christmas \(feat\. Scootie Wop\) \- Remix](https://open.spotify.com/track/28xEWnnfyn7cA99h6VI822) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Lucky Luciano](https://open.spotify.com/artist/2v4JjFwbhEkHnXQdMPpyon), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [A Special Christmas \(feat\. Scootie Wop\) \[Remix\]](https://open.spotify.com/album/61U19oGqLkTKAJj6KUgw7A) | 2:03 | 2022-11-26 |  |
 | [All I Need For Christmas](https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [All I Need For Christmas](https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU) | 3:01 | 2021-12-24 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/1xixLkAu4Q7fo7MGlxOp8B) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [All I Want for Christmas Is You](https://open.spotify.com/album/3uO3DabVkqTyf5fwlKobt1) | 3:11 | 2021-12-24 | 2022-11-27 |
-| [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 | 2021-12-24 |  |
+| [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 | 2021-12-24 | 2022-12-06 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 | 2021-12-24 |  |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 | 2021-12-24 |  |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |

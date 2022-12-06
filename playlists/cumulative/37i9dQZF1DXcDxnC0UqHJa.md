@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-225 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+226 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dark Eyes](https://open.spotify.com/track/0oI6AXLJZ3tJWaruhcsZVb) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [A Tribute to Bob Dylan in the 80s: Volume One \(Deluxe Edition\)](https://open.spotify.com/album/6AlOSC6P1Izwmsmym1Izes) | 4:42 | 2021-12-13 | 2022-07-27 |
 | [Dark Turn of Mind](https://open.spotify.com/track/3T3igklQOpW3MFqnaLqNqL) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq), [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Dark Turn of Mind](https://open.spotify.com/album/3E8jCs6wHUCvEGt2G5PtIr) | 3:43 | 2022-06-03 | 2022-06-12 |
 | [Dearly Departed](https://open.spotify.com/track/7ciFh1cZjyZE2gVhjvhsmD) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Dearly Departed](https://open.spotify.com/album/1T2kgbzp4R7p4Gm06jjfFh) | 5:11 | 2021-12-13 |  |
+| [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 | 2022-12-06 |  |
 | [Don't Start Now](https://open.spotify.com/track/5Q6ESvYWYJ1wDKAvNnCVqU) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Interpretations](https://open.spotify.com/album/5thz6N5JQn2qhU5fQPtKfa) | 3:26 | 2021-12-13 | 2022-06-30 |
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/01J26T3XB19o21N7XV4npl) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [5 Covers & A Song](https://open.spotify.com/album/2V8YaOsCv3YQd01aVnVa1I) | 4:54 | 2021-12-13 | 2022-07-29 |
 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 | 2021-12-13 |  |
@@ -207,7 +208,7 @@
 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 | 2022-06-03 |  |
 | [Thirteen](https://open.spotify.com/track/0su1fc4MK1YIqkL4Ai170k) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Thirteen](https://open.spotify.com/album/2ZC6djUXUVRBSPCsuZB4I4) | 3:04 | 2021-12-13 | 2022-07-29 |
 | [This Boy](https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Minnesota Beatle Project, Vol\. 5](https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC) | 2:25 | 2021-12-13 | 2022-07-29 |
-| [This Land Is Your Land](https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9) | 3:40 | 2022-06-03 |  |
+| [This Land Is Your Land](https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9) | 3:40 | 2022-06-03 | 2022-12-06 |
 | [This Land Is Your Land](https://open.spotify.com/track/5VYafNKWKEbNr2BsYoABDo) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/5gDWqAaDpMooblBYFpUq5l) | 3:40 | 2021-12-13 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-12-13 |  |
 | [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2022-06-03 | 2022-11-13 |

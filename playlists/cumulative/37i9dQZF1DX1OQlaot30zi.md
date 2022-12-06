@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sick Luke, Anna, Rhove, Boro Boro, Paky e tanti altri.
 
-1,020 songs - 1 day 22 hr 54 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+1,021 songs - 1 day 22 hr 58 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [lipgloss](https://open.spotify.com/track/43J1dnrDwNWDGfXBZhnfYb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [lipgloss](https://open.spotify.com/album/04bo4aK6Isi0l0RfG4TqaG) | 2:12 | 2022-07-14 | 2022-08-26 |
 | [LISBONA 1755 \- La terra \(feat\. Jleeno\)](https://open.spotify.com/track/6uBOK7TWGT4nKIP5AzHHox) | [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu), [Fra Bacci](https://open.spotify.com/artist/0MKjQHGhnW0QrlWMJthrKx), [Zazza](https://open.spotify.com/artist/7KOeygqDI7Fjo4DrgJtvLf), [Jleeno](https://open.spotify.com/artist/2gBIDq9nVf8nfsqMHW63vv) | [LISBONA 1755 \- La terra \(feat\. Jleeno\)](https://open.spotify.com/album/23JH6mnsl8Upi9yLYRb3Ku) | 2:22 | 2022-11-24 | 2022-12-02 |
 | [Lit](https://open.spotify.com/track/1p3rGzmahJE7aA32Eyvfw8) | [Lil Manzi](https://open.spotify.com/artist/0c3nNEzSsJIRjBsLhujxaH) | [Lit](https://open.spotify.com/album/3TAg7d1RuFSqeWwKQt3dL8) | 1:52 | 2022-10-13 | 2022-10-21 |
+| [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-06 |  |
 | [LOCO](https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:17 | 2022-05-31 | 2022-06-21 |
 | [LOGIN \(feat\. GIUMO\)](https://open.spotify.com/track/64noussSHW45rXKGSyGT5e) | [leim](https://open.spotify.com/artist/7u30etyKSZYjudAyKaNb9N), [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90) | [LOGIN \(feat\. GIUMO\)](https://open.spotify.com/album/7eg0a57Isqoz1ULERZndMP) | 3:24 | 2022-07-29 | 2022-08-13 |
 | [Lontani Da Casa](https://open.spotify.com/track/1ecHuHtxAB94K9R9DOnElp) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo), [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [Lontani Da Casa](https://open.spotify.com/album/2P6beUc3tIHzHN7MEnfQqy) | 3:44 | 2022-06-16 | 2022-06-24 |
