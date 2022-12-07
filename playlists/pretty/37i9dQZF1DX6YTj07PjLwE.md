@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6YTj07PjLwE.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,615 likes - 200 songs - 14 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,697 likes - 200 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

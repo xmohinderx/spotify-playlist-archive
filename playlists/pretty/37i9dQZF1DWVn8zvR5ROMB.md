@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Morgan Wallen, Parker McCollum, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,986 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,223 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 23 | [No Present Like the Time](https://open.spotify.com/track/4nhgMCXO9BNk2ZlugDtS9H) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [No Present Like the Time](https://open.spotify.com/album/3cZc4SU0qGo8aRcLMPmkal) | 2:35 |
 | 24 | [A New Set of Reasons](https://open.spotify.com/track/3IEOMpH46AzVNloo0CP1i7) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [A New Set of Reasons](https://open.spotify.com/album/0kqku8xYoYGxO2wH2JizM5) | 3:58 |
 | 25 | [Buried In A Bottle](https://open.spotify.com/track/54Qb1jX7VVeuPyvAAZAVJY) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Buried In A Bottle](https://open.spotify.com/album/3EVWC5P87IEJ4VKQ9tkmVu) | 3:18 |
-| 26 | [Ain't As Cold In Colorado](https://open.spotify.com/track/294YcLaSUYYgZzkJ5TU03k) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [Ain't As Cold In California](https://open.spotify.com/album/11VdOYb5hlC7CEairmdn4p) | 3:09 |
+| 26 | [Ain't As Cold In Colorado](https://open.spotify.com/track/294YcLaSUYYgZzkJ5TU03k) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [Ain't As Cold In Colorado](https://open.spotify.com/album/11VdOYb5hlC7CEairmdn4p) | 3:09 |
 | 27 | [Ego](https://open.spotify.com/track/7d6oPyilR69cTpLgh1m0cC) | [Lance and Lea](https://open.spotify.com/artist/1UpiFVAkmJzipkPs8OOKHw) | [Ego](https://open.spotify.com/album/12FT5T8YZBZpU69V5c0yVZ) | 3:05 |
 | 28 | [If You Don't Love Her](https://open.spotify.com/track/0mSCNDAJr6KvYYbU0hHUR4) | [Teddy LaMaster](https://open.spotify.com/artist/6tpV3zqEugQbclCmFPBQk3) | [If You Don't Love Her](https://open.spotify.com/album/6KNSQMHLqV1WbMI6ukd4xU) | 2:49 |
 | 29 | [Stronger](https://open.spotify.com/track/5NQjObgrGiCP7754PYYycP) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4), [Anna Friel](https://open.spotify.com/artist/2bvP5hwtCpaprxhmjt5CfZ) | [Monarch \(Original Soundtrack\) \[Season 1, Episode 11\]](https://open.spotify.com/album/7hJizrNnl3ZE0LzCUxK8ml) | 3:40 |

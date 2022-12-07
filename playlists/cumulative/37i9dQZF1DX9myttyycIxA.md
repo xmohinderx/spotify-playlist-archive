@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teenage Priest
 
-734 songs - 1 day 18 hr 3 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+735 songs - 1 day 18 hr 6 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 | 2022-11-17 |  |
 | [Far From A Mind](https://open.spotify.com/track/4A52zMKelEdFiL1AEie9Wn) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Far From A Mind](https://open.spotify.com/album/2wCyqRZuAlkGqK4GJgzTsc) | 3:13 | 2022-04-15 | 2022-05-15 |
 | [Fast Car](https://open.spotify.com/track/7yznPSbSDeADWUIwaPfeUl) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [Fast Car](https://open.spotify.com/album/0TCWxTvZ7ByrG4qNHTzB9s) | 2:09 | 2022-08-26 | 2022-12-03 |
+| [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2022-12-07 |  |
 | [Fear](https://open.spotify.com/track/1JZw3uFeMJoY4dJ1dAmV0K) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Fear](https://open.spotify.com/album/2MF5k89uxvzaEGxxLBzPLA) | 4:17 | 2022-04-29 | 2022-06-19 |
 | [Feel the Pain](https://open.spotify.com/track/5r2qy6NxfsLJukqllGueTa) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Feel the Pain](https://open.spotify.com/album/0oz8H2iVsyZhfIKz0aXQwO) | 4:24 | 2021-06-02 | 2022-04-27 |
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-05-20 | 2022-07-29 |

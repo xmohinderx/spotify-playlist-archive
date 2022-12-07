@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,015 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,221 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 74 | [Komadori](https://open.spotify.com/track/2k2znhiwRTrTN9eP1SzNom) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica \| Aves](https://open.spotify.com/album/73sWcZGKahZ7CD8N4uWovl) | 3:30 |
 | 75 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 |
 | 76 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
-| 77 | [roots](https://open.spotify.com/track/1kWPFMJFJiaL0CqUIV3LPs) | [Drwn.](https://open.spotify.com/artist/6kb4CAkaM1MhjPiS3TTbM4) | [plantboy](https://open.spotify.com/album/00wqWw2stnu3GT99Hzujzy) | 1:29 |
+| 77 | [roots](https://open.spotify.com/track/1kWPFMJFJiaL0CqUIV3LPs) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [plantboy](https://open.spotify.com/album/00wqWw2stnu3GT99Hzujzy) | 1:29 |
 | 78 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 |
 | 79 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 |
 | 80 | [Gorge](https://open.spotify.com/track/21NWvfC00qCfHdaMIb7Cqq) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Gorge](https://open.spotify.com/album/2HkEQUkxDl5AkzG4RPJ6wr) | 3:01 |

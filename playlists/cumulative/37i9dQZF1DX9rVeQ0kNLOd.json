@@ -202,6 +202,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/508jv0GzDC62i4oe20jEbZ"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u85ea\u826f\u591a",
+          "url": "https://open.spotify.com/artist/5HibPVXd5GueEj3Mj6Gcju"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183538,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0YFaFjVx8K3aawRCe5CbeB"
+    },
+    {
+      "album": {
         "name": "fantasy",
         "url": "https://open.spotify.com/album/3U4MMe9HUEe25g3XLqvlAH"
       },
@@ -213,7 +231,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 158785,
       "name": "fantasy",
       "url": "https://open.spotify.com/track/2xVfFL5ZUCmTskkFh8k8Ui"
@@ -522,6 +540,24 @@
     },
     {
       "album": {
+        "name": "Like no one's done",
+        "url": "https://open.spotify.com/album/5JysaNdHLF3SuPrpLfrcyE"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Like no one's done",
+      "url": "https://open.spotify.com/track/1G8jWpWgCtTEuy4Zz3Ihfe"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1"
       },
@@ -801,7 +837,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 201683,
       "name": "S.S.S.",
       "url": "https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN"
@@ -841,6 +877,24 @@
       "duration_ms": 185378,
       "name": "snow jam",
       "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
+    },
+    {
+      "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/2ctyx8VCJH5qJOACnsr9fl"
+      },
+      "artists": [
+        {
+          "name": "Aco Kawai",
+          "url": "https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242966,
+      "name": "something",
+      "url": "https://open.spotify.com/track/0rL3ksbcpreSl6lMDPMqZ3"
     },
     {
       "album": {
@@ -921,7 +975,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 230319,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"

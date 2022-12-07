@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Yot Club.
 
-752 songs - 1 day 16 hr 48 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+753 songs - 1 day 16 hr 50 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-10-21 | 2022-11-19 |
 | [PEOPLE FUEL](https://open.spotify.com/track/4mos7PoOTESMcxKZqudrRe) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [PEOPLE FUEL](https://open.spotify.com/album/1DnDtCSI0lfURV2P3cpcKQ) | 2:53 | 2022-06-25 | 2022-10-22 |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2021-10-23 | 2022-06-10 |
-| [Permanent State](https://open.spotify.com/track/6YzDFJrAelOpKFbXoc5NQ1) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [When I'm Alone](https://open.spotify.com/album/5ZPH3wJ0PInJmNUZPGhyRq) | 4:33 | 2022-10-28 |  |
+| [Permanent State](https://open.spotify.com/track/6YzDFJrAelOpKFbXoc5NQ1) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [When I'm Alone](https://open.spotify.com/album/5ZPH3wJ0PInJmNUZPGhyRq) | 4:33 | 2022-10-28 | 2022-12-07 |
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-06-10 | 2022-07-02 |
 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 | 2022-07-06 | 2022-08-13 |
 | [Pieces Of Summer](https://open.spotify.com/track/39VzfaJVzLp915bgsU19BI) | [Amor Amor](https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm) | [Pieces Of Summer](https://open.spotify.com/album/1chYejenL4Xqy7YS29JwVq) | 2:52 | 2021-06-14 | 2022-01-04 |
@@ -553,7 +553,7 @@
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2021-06-07 | 2022-04-15 |
 | [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-23 | 2022-11-19 |
 | [Right Ones \(Cecily Takes an Awkward View\)](https://open.spotify.com/track/3SOBxGdnsGLRtFSAg5kbYa) | [FRogers](https://open.spotify.com/artist/7EdXsk95xxUzYbed3oC2b8) | [Right Ones \(Cecily Takes an Awkward View\)](https://open.spotify.com/album/2q73TKq2sU5pjyavXJGpu7) | 3:01 | 2021-06-07 | 2022-04-08 |
-| [Roadkill](https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Roadkill](https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv) | 2:04 | 2022-11-04 |  |
+| [Roadkill](https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Roadkill](https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv) | 2:04 | 2022-11-04 | 2022-12-07 |
 | [rom com 2004](https://open.spotify.com/track/3q49241UYPoz4kfG2czJno) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [rom com 2004](https://open.spotify.com/album/3q1oMpbkdldxAeiuNc74lq) | 2:53 | 2021-07-19 | 2022-04-10 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-06-07 | 2022-06-11 |
@@ -708,6 +708,7 @@
 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 | 2021-09-17 | 2022-04-08 |
 | [Vault of Heaven](https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Vault of Heaven](https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe) | 3:59 | 2022-08-12 | 2022-10-08 |
 | [Venus Hour](https://open.spotify.com/track/0RLjxcIFYyEIU1T6AaxSfH) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Venus Hour](https://open.spotify.com/album/5AotoPzXlXyGqUa3RqZSmj) | 2:50 | 2022-04-08 | 2022-07-02 |
+| [Veronica Mars](https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Veronica Mars](https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB) | 1:57 | 2022-12-06 |  |
 | [Vices](https://open.spotify.com/track/3WeoM8LvxOeabU83YK5WAL) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [Vices](https://open.spotify.com/album/4IGwRw7IL1bTJEspJSzMeo) | 4:35 | 2021-09-03 | 2022-04-29 |
 | [Vickie](https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Vickie](https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml) | 3:43 | 2022-02-11 | 2022-06-11 |
 | [VIII\. Handle It](https://open.spotify.com/track/6WAhvWSHtQAliBtLMKzJGx) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Tickle Pink Hotel](https://open.spotify.com/album/1TimP0CFInR1WdasPUEhf5) | 2:32 | 2022-09-02 | 2022-10-08 |

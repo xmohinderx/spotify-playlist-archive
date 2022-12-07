@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-272 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+273 songs - 17 hr 59 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [I'm In Love](https://open.spotify.com/track/1vpJNsdn5EpK7w3WmzydHD) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Mary \(Limited Edition Bonus Pack\)](https://open.spotify.com/album/39EkrZ4JRTaYSXq9p3ibya) | 4:50 | 2021-11-10 | 2022-07-29 |
 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 | 2021-11-10 |  |
 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 | 2021-11-10 |  |
-| [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2022-12-03 |  |
+| [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2022-12-02 |  |
 | [Is This Love](https://open.spotify.com/track/58qEQujDJy5ma0cWRnB6dh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/5d2JEbUZV4hd5GiQrfbSa5) | 3:51 | 2022-01-20 | 2022-05-12 |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2022-06-03 |  |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2021-11-10 | 2022-11-17 |
@@ -243,6 +243,7 @@
 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 | 2022-06-03 |  |
 | [Turnin' Me Up](https://open.spotify.com/track/0FZTAm6OyJoAzAtLAsH0f9) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/70fkHUXk9O9pl3XsDr046i) | 4:29 | 2021-11-10 | 2022-07-29 |
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2022-06-03 |  |
+| [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 | 2022-12-06 |  |
 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 | 2021-11-10 |  |
 | [Unbreakable](https://open.spotify.com/track/2FiMHRobeBYZkMesVF71Xm) | [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Unbreakable](https://open.spotify.com/album/1ey4awX9jr9HY1la00fAv9) | 4:13 | 2022-06-03 | 2022-07-29 |
 | [Used to Love U](https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:30 | 2022-06-03 |  |
@@ -271,7 +272,7 @@
 | [Work To Do](https://open.spotify.com/track/6CZd52tAm2Cms0px3idmoc) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 3:10 | 2021-11-10 | 2022-11-13 |
 | [You Ain't The Problem](https://open.spotify.com/track/0QDe6nlExlt3AM1NHTh4nn) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [You Ain't The Problem](https://open.spotify.com/album/6J37CAUxNhrqlX9iuSzVVR) | 4:09 | 2021-11-10 |  |
 | [You Belong To Me](https://open.spotify.com/track/2M4MVkftJ5A07aHpDmdQ9w) | [Phil Perry](https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL) | [Say Yes](https://open.spotify.com/album/6P9lS3NhG1QweA6PW5dcst) | 4:03 | 2021-11-10 | 2022-07-29 |
-| [You Belong To Me](https://open.spotify.com/track/2cCwacOhxyfbk7sHKC5yLF) | [Phil Perry](https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL) | [Say Yes](https://open.spotify.com/album/3jxR2bYhFJ20oyolM7ran4) | 4:03 | 2022-06-03 |  |
+| [You Belong To Me](https://open.spotify.com/track/2cCwacOhxyfbk7sHKC5yLF) | [Phil Perry](https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL) | [Say Yes](https://open.spotify.com/album/3jxR2bYhFJ20oyolM7ran4) | 4:03 | 2022-06-03 | 2022-12-07 |
 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 | 2021-11-10 |  |
 | [You Might Need Somebody](https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Much Love](https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz) | 4:51 | 2022-06-03 |  |
 | [You Might Need Somebody](https://open.spotify.com/track/0Lg3a3vRRkBqDm3s0qhF27) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [R&B Love](https://open.spotify.com/album/7Jr3KEHFbFohRtt7uByQm7) | 4:52 | 2021-11-10 | 2022-07-29 |

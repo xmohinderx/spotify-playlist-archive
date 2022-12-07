@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=6TZcDobZT6KDVIsCO\-akFA">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,452 likes - 55 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,489 likes - 55 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ngizimisele](https://open.spotify.com/track/40HxAjzO8wpe578MCVBMcy) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [x Wise](https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG) | [Ngizimisele](https://open.spotify.com/album/0J5lDjlxCM515GQeS1JO8h) | 6:34 |
+| 1 | [Ngizimisele](https://open.spotify.com/track/40HxAjzO8wpe578MCVBMcy) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn) | [Ngizimisele](https://open.spotify.com/album/0J5lDjlxCM515GQeS1JO8h) | 6:34 |
 | 2 | [Crazy Vibez](https://open.spotify.com/track/2nwXM9eHzj8eQBsuK9osbL) | [Luxury SA](https://open.spotify.com/artist/1KuiSB2g4gYQoyjmUy4cea) | [Crazy Vibez](https://open.spotify.com/album/5x20kr3HFbo8n8OT4LULjI) | 5:59 |
 | 3 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 |
 | 4 | [Asanda](https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Asanda](https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn) | 5:22 |

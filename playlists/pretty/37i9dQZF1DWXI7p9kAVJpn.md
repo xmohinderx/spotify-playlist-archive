@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXI7p9kAVJpn.md) - [plain]
 
 > Déjate seducir por la elegancia musical de esta selección.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,761 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,787 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

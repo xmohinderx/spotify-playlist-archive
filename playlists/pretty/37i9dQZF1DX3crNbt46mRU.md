@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,999 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,013 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 5 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 |
 | 6 | [TE AMO](https://open.spotify.com/track/1aFQ1KEjMNBb1N0BGmnTUT) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:17 |
 | 7 | [BIELEFELD](https://open.spotify.com/track/1ukq3qBP7zOokVa3nEc9bR) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [BIELEFELD](https://open.spotify.com/album/6ysRaaGCT2wG16jga7XjyT) | 2:15 |
-| 8 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 |
+| 8 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 9 | [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 |
 | 10 | [Wishlist](https://open.spotify.com/track/4WCOxwqS5NqmcGCO0FngNb) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Wishlist](https://open.spotify.com/album/4bJoRazDOrMpA58mF7n5HT) | 2:22 |
 | 11 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 48 | [Last](https://open.spotify.com/track/2eiuhi07vFDRKvh07G70zn) | [Mondetto](https://open.spotify.com/artist/4uZjiCgLj2mow6evui8ybw), [Eliel](https://open.spotify.com/artist/6C9i3RVSphPtysb5zQjBvG), [Chekaa](https://open.spotify.com/artist/1FEmiTv5KsgccqJVpC1bvR) | [Last](https://open.spotify.com/album/3TBIU9thd3narJDtHzMDGC) | 2:28 |
 | 49 | [One of a Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One of a Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
 | 50 | [Medicine](https://open.spotify.com/track/6ysuFPxBH5oDDxcrueMNBo) | [Sergio Trillini](https://open.spotify.com/artist/632XNUTWRkhxOkb7y4698e), [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Medicine](https://open.spotify.com/album/6FVg0BrA81D006Cry0OJZH) | 2:06 |
-| 51 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
+| 51 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
 | 52 | [GET THE FUCK OUT](https://open.spotify.com/track/7LF1STq2OSdN7M8WHsqghe) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [OZ](https://open.spotify.com/artist/6yfgM1rkLSenhFIW3iV9hm), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [GET THE FUCK OUT](https://open.spotify.com/album/4e2c8rGBQM9IiaQco9wFG1) | 1:49 |
 | 53 | [Why Don't We](https://open.spotify.com/track/2BxMgPd9z3hz6MlSmtXz8w) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Why Don't We](https://open.spotify.com/album/3qc0CVxQH5uz2wa8Lvmjr5) | 2:26 |
 | 54 | [Habesha](https://open.spotify.com/track/1RNAc86AuOhpRHWSfC8JCx) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [Habesha](https://open.spotify.com/album/7jgrnJzqKewhIuBArghuzO) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Vibe](https://open.spotify.com/track/4UVSKQUuexHtZtzKFf1QI9) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Vibe](https://open.spotify.com/album/1Iq611YQaT1CtRQRXop1LA) | 2:25 |
 | 100 | [Honeys im Club](https://open.spotify.com/track/2kSNYLAjezh52RLW0OjeBC) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Honeys im Club](https://open.spotify.com/album/6CGcnvanF4z02rgHW8R8Ou) | 1:57 |
 
-Snapshot ID: `MTY2OTk4MDE0MSwwMDAwMDAwMDM3MDA4NTEwMDJmZjExYmUyZmM1ZjVlMDE4MzBlMDE3`
+Snapshot ID: `MTY2OTk4MDE0MSwwMDAwMDAwMDkwOGE1NWJhOTNiOWZlMWZjMzAwNTUzMDE5NWQ3MTYz`

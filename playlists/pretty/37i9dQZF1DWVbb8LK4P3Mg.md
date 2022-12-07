@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: IVE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,196 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,923 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 |
 | 100 | [You Are My Christmas](https://open.spotify.com/track/4YcDY2jcAbfW647AJEcskA) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [You Are My Christmas](https://open.spotify.com/album/1H2KIeUtIl00tQVemrGaHM) | 3:50 |
 
-Snapshot ID: `MTY2OTgyOTUyMywwMDAwMDAwMDNiNTgxYjU5MDlhMmNhMTFiMzE0ODM0NzBiZmE4ZTU5`
+Snapshot ID: `MTY3MDI5NDk4MSwwMDAwMDAwMDMwMDYzOGRhMWY4NzQxZTE4ZmRkZDY2ZmVhMzMxYmM3`

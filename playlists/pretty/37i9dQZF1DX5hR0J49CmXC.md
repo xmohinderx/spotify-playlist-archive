@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 
 > That real hip\-hop\. Cover: 38 Spesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,962 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,924 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hR0J49CmXC.md) - [plain]
 | 7 | [Get Light](https://open.spotify.com/track/3iuBfAec9qN2UylQv9NcKR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:52 |
 | 8 | [Back to Shore \(feat\. ElCamino\)](https://open.spotify.com/track/6tyChhfP6Zz6PhCh5FdvRh) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg) | [Beyond Belief](https://open.spotify.com/album/4sUrlfdr2MBqd2RU9hWEBS) | 2:33 |
 | 9 | [Vibrations](https://open.spotify.com/track/3KyCfeOOVemk6c1vF8Qjo7) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT), [Janelle Mack](https://open.spotify.com/artist/2mCwOD5MZz4P7nOuYiVmEQ) | [Vibrations](https://open.spotify.com/album/7mn48TUp1KTgkLvmikp4gG) | 3:05 |
-| 10 | [God Flows](https://open.spotify.com/track/14wrStF74l3HwpvgIMyCPU) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Justin Credible](https://open.spotify.com/artist/1YY4eLmCC90sflG3VHn7Qy), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [God Flows](https://open.spotify.com/album/7ERW7lfTmuvNvgCLOqjZpY) | 3:39 |
+| 10 | [God Flows \(feat\. Justin Credible\)](https://open.spotify.com/track/14wrStF74l3HwpvgIMyCPU) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Justin Credible](https://open.spotify.com/artist/1YY4eLmCC90sflG3VHn7Qy) | [God Flows \(feat\. Justin Credible\)](https://open.spotify.com/album/7ERW7lfTmuvNvgCLOqjZpY) | 3:39 |
 | 11 | [Born Hustler](https://open.spotify.com/track/0Riib1E5Ru66C0RnJSFLcK) | [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [Born Hustler](https://open.spotify.com/album/0czvcUdIkXYGeoyETuGeOC) | 3:49 |
 | 12 | [Peppas \(feat\. Black Star\)](https://open.spotify.com/track/0bKg2V6xY47U5UCU7QuoAX) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 4:04 |
 | 13 | [Kool Aid \(with Dave B.\)](https://open.spotify.com/track/1spizWhedqBEs55T7UQghA) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [Kool Aid \(with Dave B.\)](https://open.spotify.com/album/0X9qmf9HWtI4PRMNYGByjR) | 2:33 |

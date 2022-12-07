@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > The chillest beats to help you relax, study, code, and focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,824,509 likes - 1,000 songs - 1 day 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,825,994 likes - 1,000 songs - 1 day 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 34 | [Winter in Italy](https://open.spotify.com/track/2dCvEfVQJ7vYfASelYbvMH) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Winter in Italy](https://open.spotify.com/album/7ofNUVPaNEe7j8XebvB9GJ) | 2:52 |
 | 35 | [Toady Encore](https://open.spotify.com/track/2gko20FmesKImBqwvVdgh1) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Toady Encore](https://open.spotify.com/album/724z4tSlQug9WKkVxQkLAw) | 1:59 |
 | 36 | [Susurros en el viento](https://open.spotify.com/track/5i5FWHk2qnkmfjCKG4MVyy) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Susurros en el viento](https://open.spotify.com/album/4MR5K6OzdZSUzoaqgrhMLg) | 3:06 |
-| 37 | [Finally](https://open.spotify.com/track/6nb3svsIKht6kN2TzncDrS) | [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Hi\-Hat Club Vol\. 3 \- The Jazz Files](https://open.spotify.com/album/3pKNUnzgcCSqZTK8vxJFuo) | 2:15 |
+| 37 | [Finally](https://open.spotify.com/track/6nb3svsIKht6kN2TzncDrS) | [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Hi\-Hat Club Vol\. 3 \- The Jazz Files \(Reissue\)](https://open.spotify.com/album/3pKNUnzgcCSqZTK8vxJFuo) | 2:15 |
 | 38 | [Reflections](https://open.spotify.com/track/59dOe8AZTFrSvvG8dRLpTc) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Reflections](https://open.spotify.com/album/7kXJ1Qkhfk8zB3Dg7aobko) | 2:00 |
 | 39 | [Eventide](https://open.spotify.com/track/1TDiPIEZL2naLCrbXkXIbp) | [Gustav Gustav](https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8), [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Kydual](https://open.spotify.com/artist/08HyLTxC7A2TTg8u52KNBK) | [Eventide](https://open.spotify.com/album/74SzFXHAfTAjEJ2gCdQtTX) | 2:30 |
 | 40 | [Lance](https://open.spotify.com/track/0fBThonKxYp4ThGqlWS3qe) | [Sepia Tapes](https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT) | [Lance](https://open.spotify.com/album/4CCuAK4ymIg21ejB0JtEU5) | 2:06 |
@@ -1002,7 +1002,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 992 | [Snap Out Of It](https://open.spotify.com/track/6lCw89tyHYJVJV6EA5idaG) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Snap Out Of It](https://open.spotify.com/album/4Glu21FbhT9GpnTbr8CPD9) | 2:37 |
 | 993 | [Gloom](https://open.spotify.com/track/38ycERajOuBUKVzbNNQQXh) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Gloom](https://open.spotify.com/album/4hBqefads8me2d6lky5o0M) | 2:17 |
 | 994 | [Sonny](https://open.spotify.com/track/0bErpNKfLwEKgbo8XHOKlF) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Sonny](https://open.spotify.com/album/3B1lr0LncXumrICzbf0S4Y) | 1:58 |
-| 995 | [Again Again](https://open.spotify.com/track/6XsKK4AAhAscBjzwas0D9g) | [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Hi\-Hat Club Vol\. 3 \- The Jazz Files](https://open.spotify.com/album/3pKNUnzgcCSqZTK8vxJFuo) | 1:50 |
+| 995 | [Again Again](https://open.spotify.com/track/6XsKK4AAhAscBjzwas0D9g) | [Dexter](https://open.spotify.com/artist/4dfYua3wPCN3mq8EStDZkZ) | [Hi\-Hat Club Vol\. 3 \- The Jazz Files \(Reissue\)](https://open.spotify.com/album/3pKNUnzgcCSqZTK8vxJFuo) | 1:50 |
 | 996 | [Fernweh](https://open.spotify.com/track/1mLbLiRNfJQ9aobpmvdz7M) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Fernweh](https://open.spotify.com/album/28OzksloyxkWFu27dgNmH9) | 1:31 |
 | 997 | [Ordinario](https://open.spotify.com/track/79RW5AY0pG2zIAH1f5NE7N) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Ordinario](https://open.spotify.com/album/2r3MEPV6muoDcNgPNLRJiI) | 2:00 |
 | 998 | [Talk To Me](https://open.spotify.com/track/0bFmm3vm5YbTP9gT3N60qI) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Roelo](https://open.spotify.com/artist/427NoskGkRLFdKbxUEsEPr) | [Talk To Me](https://open.spotify.com/album/3OaEAj6eqStA3UWNzitSNd) | 2:02 |

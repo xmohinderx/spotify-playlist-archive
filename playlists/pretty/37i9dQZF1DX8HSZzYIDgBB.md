@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,360 likes - 99 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,386 likes - 99 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

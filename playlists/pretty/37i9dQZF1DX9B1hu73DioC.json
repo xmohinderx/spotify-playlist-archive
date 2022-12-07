@@ -1,12 +1,12 @@
 {
   "description": "Chill. The best indie tracks for just hanging out.",
-  "num_followers": 750834,
+  "num_followers": 750996,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc4NzIwMCwwMDAwMDAwMGJhZmExN2VlZjMxZTA0MWE1ZTczZjIzZDllNDNjYzVi",
+  "snapshot_id": "MTY3MDM1MDI5NSwwMDAwMDAwMDViZDA2YjUwYTFlYTVkZDM1ZTE4MWI2OGJlNzZmODQ3",
   "tracks": [
     {
       "added_at": "2022-11-10 16:04:30",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
     },
     {
+      "added_at": "2022-12-06 18:11:35",
+      "album": {
+        "name": "DEPRESSED BUT MAKE IT COOL",
+        "url": "https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0"
+      },
+      "artists": [
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "ANECDOTE",
+      "url": "https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr"
+    },
+    {
       "added_at": "2022-11-10 16:04:30",
       "album": {
         "name": "life's a beach",
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
     },
     {
-      "added_at": "2022-12-06 01:31:47",
+      "added_at": "2022-11-18 16:00:00",
       "album": {
         "name": "One Night with The Valet",
         "url": "https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
     },
     {
-      "added_at": "2022-12-06 01:31:47",
+      "added_at": "2022-11-18 16:00:00",
       "album": {
         "name": "endlessly",
         "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
@@ -1627,22 +1643,6 @@
       "duration_ms": 207109,
       "name": "Out For The Weekend",
       "url": "https://open.spotify.com/track/6DFxVrPvZGn0hdEwLPPapb"
-    },
-    {
-      "added_at": "2022-11-10 16:04:30",
-      "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L"
-      },
-      "artists": [
-        {
-          "name": "Mr Little Jeans",
-          "url": "https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf"
-        }
-      ],
-      "duration_ms": 307066,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"
     },
     {
       "added_at": "2022-11-10 16:04:30",

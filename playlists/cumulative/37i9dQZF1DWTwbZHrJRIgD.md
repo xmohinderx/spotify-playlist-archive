@@ -4,7 +4,7 @@
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-65 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
+66 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Nachdi Phira](https://open.spotify.com/track/5DJHFCqWn9hrirPvWRvLU4) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq) | [Secret Superstar](https://open.spotify.com/album/09x7TmgTujwGzuZBcl1ryA) | 4:15 | 2022-03-09 |  |
 | [Nadaaniyaan](https://open.spotify.com/track/2aUZaQ3ZFxh63KpSBfHNnZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [The Sky Is Pink](https://open.spotify.com/album/5nrC9FfKeVlrDZsK5F0wq3) | 4:18 | 2022-03-09 |  |
 | [Nah Woh Main](https://open.spotify.com/track/6ibFjwPeSfMdZGYv8lMuHD) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Nah Woh Main](https://open.spotify.com/album/0YYefayFD1GPuLpRKd3nFs) | 3:43 | 2022-03-09 |  |
+| [P PAA K](https://open.spotify.com/track/4FaLSd64sSJ41WE6WhnUCw) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Siddhant Kaushal](https://open.spotify.com/artist/2qpgJ59UEgeQI5KexOcENV) | [P PAA K](https://open.spotify.com/album/1Kcckfo4mH7wwa6bEqdyZF) | 3:13 | 2022-12-06 |  |
 | [Phir Se Ud Chala](https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 4:28 | 2022-03-09 |  |
 | [Phisal Jaa Tu](https://open.spotify.com/track/7ltVdvJOYUMhasCmdVcU3Y) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Haseen Dillruba](https://open.spotify.com/album/73mS0flubEOCa6KXDknjeb) | 4:01 | 2022-03-09 |  |
 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 | 2022-03-09 |  |

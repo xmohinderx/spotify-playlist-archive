@@ -800,7 +800,7 @@
       "artists": [
         {
           "name": "1010benja",
-          "url": "https://open.spotify.com/artist/2fCAUhX6Hkzo3LxD9NwOPa"
+          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
         }
       ],
       "date_added": "2022-06-03",
@@ -2078,6 +2078,28 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174708,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L"
       },
@@ -2493,6 +2515,24 @@
       "duration_ms": 217043,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/11iSuemcTw1gnhyr7e2KXx"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl Era",
+        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era",
+      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
     },
     {
       "album": {

@@ -934,6 +934,32 @@
     },
     {
       "album": {
+        "name": "P PAA K",
+        "url": "https://open.spotify.com/album/1Kcckfo4mH7wwa6bEqdyZF"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/2qpgJ59UEgeQI5KexOcENV"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193490,
+      "name": "P PAA K",
+      "url": "https://open.spotify.com/track/4FaLSd64sSJ41WE6WhnUCw"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
       },

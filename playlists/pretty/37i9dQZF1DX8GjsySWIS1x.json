@@ -1,13 +1,29 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 992489,
+  "num_followers": 992591,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTczNDYzMiwwMDAwMDAwMGExZTYxYWZkNjk3YjNiNjFlMDVlNGUwYTUzMTYyYTg3",
+  "snapshot_id": "MTY3MDM0MTI4NCwwMDAwMDAwMDA2NmNhMGQxNmUwOTg0ZWFjMzAxNTEyOTljNDE2OWU0",
   "tracks": [
+    {
+      "added_at": "2022-12-06 15:41:24",
+      "album": {
+        "name": "Shittin' Me",
+        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 144729,
+      "name": "Shittin' Me",
+      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
+    },
     {
       "added_at": "2022-11-18 16:18:56",
       "album": {

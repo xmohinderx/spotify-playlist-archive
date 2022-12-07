@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,878 likes - 63 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,423 likes - 63 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Highlights of 2022, listen to women at full volume! Cover: <a href="spotify:artist:5Oc4knEQaid8K7AFqO5lHu">Selah Sue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,314 likes - 58 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,319 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,30 +41,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 31 | [Sunrise](https://open.spotify.com/track/3hS2ngCEIdclQLO8NOzFiP) | [Coline Blf](https://open.spotify.com/artist/1XDyP487Btx5DKzhE2jNjT) | [Blue Nostalgia](https://open.spotify.com/album/5TeavidOdkHjDuOBiq5bwn) | 2:48 |
 | 32 | [It Wasn't You](https://open.spotify.com/track/0JXHYz6XBO7E4PepXY67xP) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [Reveal](https://open.spotify.com/album/3vdtu2yxqGsLElDSmwxsmf) | 3:28 |
 | 33 | [Nuit Noire](https://open.spotify.com/track/4w6X673O3mrD1E5pOsDVrb) | [ML](https://open.spotify.com/artist/2zYOYW80qD91lBNQ0i1bH8) | [Nuit Noire](https://open.spotify.com/album/3mRrWcAhFJqqBFhCJqzoa0) | 3:41 |
-| 34 | [Bring the Fire](https://open.spotify.com/track/2Sjxmbe9I2drhMG5sB1jmu) | [AMARI](https://open.spotify.com/artist/2UJ9tfT0cOFGo1FljX1vwM) | [Bring the Fire](https://open.spotify.com/album/7sD3ubWs1fHDN8yzgJzHgO) | 3:23 |
-| 35 | [cruel](https://open.spotify.com/track/1TBBIjxfN2jJ40ozWsMq7I) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [cruel](https://open.spotify.com/album/1L62r7h2gFUQPhLpVqI7vN) | 3:10 |
-| 36 | [Tête brûlée](https://open.spotify.com/track/2WbO03LqBgClR6Cba85lJb) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 4:45 |
-| 37 | [illusion](https://open.spotify.com/track/0p5wnvG3ofWkm5MDraDX6h) | [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [illusion](https://open.spotify.com/album/6vF1DfRn78Kt7kzUELpxJH) | 3:20 |
-| 38 | [Insomnia](https://open.spotify.com/track/3U4Iw0HIxAU1dnQovOAFbJ) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [Insomnia](https://open.spotify.com/album/2O7c8e5lIKeLvXZCWSGHcN) | 3:23 |
-| 39 | [Fou](https://open.spotify.com/track/1JnJ956dicaUtYGTsCAlC9) | [Saskia](https://open.spotify.com/artist/6bFOdKxgiohdOqsE1CXtMn) | [Quand je vois l'humain](https://open.spotify.com/album/3jGM6aQBau9OAfLcdbbT5h) | 3:25 |
-| 40 | [Only Shadows Remain](https://open.spotify.com/track/1S3wVO6ylPVKoQOMeTGIKe) | [Wanthanee](https://open.spotify.com/artist/71dnG6HM2q8lwXFkyX9lj0) | [Wanthanee](https://open.spotify.com/album/1REKdH9kgiPHZDZ14FBSwH) | 4:01 |
-| 41 | [On Me](https://open.spotify.com/track/3yhdntSydzVb4x3bCXfP0t) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Way Too Nice](https://open.spotify.com/album/5h1TQEOyPTUYKstrMoPMjW) | 3:05 |
-| 42 | [1 + 1 = 3](https://open.spotify.com/track/4abozQTIJhFq3q6NFRBT0h) | [Sabien Tiels](https://open.spotify.com/artist/7p0vcwWuuNIgMQvaYkgiRG) | [Adelaar](https://open.spotify.com/album/3Mfr4k3sOubXTivrWbvUgf) | 3:26 |
-| 43 | [Forget U](https://open.spotify.com/track/4Z8KaWhkLADieRBTDLJxkD) | [Tessa Dixson](https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh) | [Forget U](https://open.spotify.com/album/5awV1vnYjDbzXAvyhpXmXL) | 3:18 |
-| 44 | [Flying Leaves](https://open.spotify.com/track/3ubMPPsS9YSPDnWNhtQdHF) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Could You Lend Me Your Eyes](https://open.spotify.com/album/7cdmDIUZa6TNcSveRsxJvL) | 4:45 |
-| 45 | [Leven In Een Droom](https://open.spotify.com/track/2aIvZ1vnZlWoAMYkCxFseI) | [Anouk Leander](https://open.spotify.com/artist/1LMmNDtd8SjhXqpvMccXXr) | [Leven In Een Droom](https://open.spotify.com/album/2rppoPBYuTd5sqOCuJcGDC) | 2:54 |
-| 46 | [Unforgettable Nights](https://open.spotify.com/track/2JhW85osTaJfFyUiyUU6Qc) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Unforgettable Nights](https://open.spotify.com/album/3CFSxBdH5PlORkYgQEt4uG) | 3:01 |
-| 47 | [La salle aux lumières](https://open.spotify.com/track/0DUmMoQoEkzzRXXREtHCpk) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [La salle aux lumières](https://open.spotify.com/album/6ox8JaWAVn0v9u4NKhojYY) | 3:04 |
-| 48 | [Perfect timing](https://open.spotify.com/track/2DY5R8QvoWhJ6YtJvSdKvd) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Perfect timing](https://open.spotify.com/album/2XuXb5n66tNpFONPqC8xSM) | 3:02 |
-| 49 | [Lady Liberty](https://open.spotify.com/track/3VGXIrarVcvNoC9NqRArlq) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3) | [Lady Liberty EP](https://open.spotify.com/album/2sPwvqiFcEcZKDT64MkbR3) | 2:36 |
-| 50 | [Hellballad](https://open.spotify.com/track/1JOmr9WQ81YcXBhWotjhhM) | [Tristan](https://open.spotify.com/artist/2Mv66D4QHzg4knZjy1wbHW) | [Wellif](https://open.spotify.com/album/5YRqVtHH8m3PY04UBz39Do) | 3:37 |
-| 51 | [Black Mirror](https://open.spotify.com/track/6ZlKRS9DzYSAzcz9a2E528) | [LANI](https://open.spotify.com/artist/3C0EAgBRXUuNECI6jj7h3R) | [Black Mirror](https://open.spotify.com/album/396mMwSI3zcs5Udp2nUP84) | 3:08 |
-| 52 | [All Time High](https://open.spotify.com/track/7dEQn9hrxmLvY7D4kcijQZ) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [All Time High](https://open.spotify.com/album/6pZMADh2UaqkfiIsxogPSm) | 3:02 |
-| 53 | [Come Out and Play](https://open.spotify.com/track/5e9r8pHTXNbyONNZtH3Cjr) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Sea of Trees](https://open.spotify.com/album/2BDlqHuKAUPhcEprAqBQMJ) | 3:36 |
-| 54 | [DA](https://open.spotify.com/track/4it7rHwhAl1vtenUyHdPTX) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [DA](https://open.spotify.com/album/5LJwoFcYD2DaMuy6T9KqzN) | 2:26 |
-| 55 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 |
-| 56 | [Tokyo](https://open.spotify.com/track/6S5tWblsffT7l9heLSEeLv) | [Elia Rose](https://open.spotify.com/artist/52kduoIpBi1P8wXMDODubv) | [Tokyo](https://open.spotify.com/album/2eBnkNiGd6dUMA8MdlJ85N) | 3:13 |
-| 57 | [Non Stop](https://open.spotify.com/track/67blacGLsVDkAkiR1DAIBb) | [Ella Kasumovic](https://open.spotify.com/artist/7IkMx09LG9xJ4BbB3KSZmg) | [Non Stop](https://open.spotify.com/album/1z80gpGSwHGNA7HdHYp8js) | 2:29 |
-| 58 | [Ronquières](https://open.spotify.com/track/5xEZmYsLt2UWVth2O0aPFd) | [Madou](https://open.spotify.com/artist/5LHkXGZndRebUjbJqvMQyN) | [Is er iets?](https://open.spotify.com/album/3CNXgUf786KbgCqq42BIXT) | 4:42 |
+| 34 | [cruel](https://open.spotify.com/track/1TBBIjxfN2jJ40ozWsMq7I) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [cruel](https://open.spotify.com/album/1L62r7h2gFUQPhLpVqI7vN) | 3:10 |
+| 35 | [Tête brûlée](https://open.spotify.com/track/2WbO03LqBgClR6Cba85lJb) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 4:45 |
+| 36 | [illusion](https://open.spotify.com/track/0p5wnvG3ofWkm5MDraDX6h) | [Lunace](https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx) | [illusion](https://open.spotify.com/album/6vF1DfRn78Kt7kzUELpxJH) | 3:20 |
+| 37 | [Insomnia](https://open.spotify.com/track/3U4Iw0HIxAU1dnQovOAFbJ) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [Insomnia](https://open.spotify.com/album/2O7c8e5lIKeLvXZCWSGHcN) | 3:23 |
+| 38 | [Fou](https://open.spotify.com/track/1JnJ956dicaUtYGTsCAlC9) | [Saskia](https://open.spotify.com/artist/6bFOdKxgiohdOqsE1CXtMn) | [Quand je vois l'humain](https://open.spotify.com/album/3jGM6aQBau9OAfLcdbbT5h) | 3:25 |
+| 39 | [Only Shadows Remain](https://open.spotify.com/track/1S3wVO6ylPVKoQOMeTGIKe) | [Wanthanee](https://open.spotify.com/artist/71dnG6HM2q8lwXFkyX9lj0) | [Wanthanee](https://open.spotify.com/album/1REKdH9kgiPHZDZ14FBSwH) | 4:01 |
+| 40 | [On Me](https://open.spotify.com/track/3yhdntSydzVb4x3bCXfP0t) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Way Too Nice](https://open.spotify.com/album/5h1TQEOyPTUYKstrMoPMjW) | 3:05 |
+| 41 | [1 + 1 = 3](https://open.spotify.com/track/4abozQTIJhFq3q6NFRBT0h) | [Sabien Tiels](https://open.spotify.com/artist/7p0vcwWuuNIgMQvaYkgiRG) | [Adelaar](https://open.spotify.com/album/3Mfr4k3sOubXTivrWbvUgf) | 3:26 |
+| 42 | [Forget U](https://open.spotify.com/track/4Z8KaWhkLADieRBTDLJxkD) | [Tessa Dixson](https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh) | [Forget U](https://open.spotify.com/album/5awV1vnYjDbzXAvyhpXmXL) | 3:18 |
+| 43 | [Flying Leaves](https://open.spotify.com/track/3ubMPPsS9YSPDnWNhtQdHF) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Could You Lend Me Your Eyes](https://open.spotify.com/album/7cdmDIUZa6TNcSveRsxJvL) | 4:45 |
+| 44 | [Leven In Een Droom](https://open.spotify.com/track/2aIvZ1vnZlWoAMYkCxFseI) | [Anouk Leander](https://open.spotify.com/artist/1LMmNDtd8SjhXqpvMccXXr) | [Leven In Een Droom](https://open.spotify.com/album/2rppoPBYuTd5sqOCuJcGDC) | 2:54 |
+| 45 | [Unforgettable Nights](https://open.spotify.com/track/2JhW85osTaJfFyUiyUU6Qc) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Unforgettable Nights](https://open.spotify.com/album/3CFSxBdH5PlORkYgQEt4uG) | 3:01 |
+| 46 | [La salle aux lumières](https://open.spotify.com/track/0DUmMoQoEkzzRXXREtHCpk) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [La salle aux lumières](https://open.spotify.com/album/6ox8JaWAVn0v9u4NKhojYY) | 3:04 |
+| 47 | [Perfect timing](https://open.spotify.com/track/2DY5R8QvoWhJ6YtJvSdKvd) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Perfect timing](https://open.spotify.com/album/2XuXb5n66tNpFONPqC8xSM) | 3:02 |
+| 48 | [Lady Liberty](https://open.spotify.com/track/3VGXIrarVcvNoC9NqRArlq) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3) | [Lady Liberty EP](https://open.spotify.com/album/2sPwvqiFcEcZKDT64MkbR3) | 2:36 |
+| 49 | [Hellballad](https://open.spotify.com/track/1JOmr9WQ81YcXBhWotjhhM) | [Tristan](https://open.spotify.com/artist/2Mv66D4QHzg4knZjy1wbHW) | [Wellif](https://open.spotify.com/album/5YRqVtHH8m3PY04UBz39Do) | 3:37 |
+| 50 | [Black Mirror](https://open.spotify.com/track/6ZlKRS9DzYSAzcz9a2E528) | [LANI](https://open.spotify.com/artist/3C0EAgBRXUuNECI6jj7h3R) | [Black Mirror](https://open.spotify.com/album/396mMwSI3zcs5Udp2nUP84) | 3:08 |
+| 51 | [All Time High](https://open.spotify.com/track/7dEQn9hrxmLvY7D4kcijQZ) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [All Time High](https://open.spotify.com/album/6pZMADh2UaqkfiIsxogPSm) | 3:02 |
+| 52 | [Come Out and Play](https://open.spotify.com/track/5e9r8pHTXNbyONNZtH3Cjr) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Sea of Trees](https://open.spotify.com/album/2BDlqHuKAUPhcEprAqBQMJ) | 3:36 |
+| 53 | [DA](https://open.spotify.com/track/4it7rHwhAl1vtenUyHdPTX) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [DA](https://open.spotify.com/album/5LJwoFcYD2DaMuy6T9KqzN) | 2:26 |
+| 54 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 |
+| 55 | [Tokyo](https://open.spotify.com/track/6S5tWblsffT7l9heLSEeLv) | [Elia Rose](https://open.spotify.com/artist/52kduoIpBi1P8wXMDODubv) | [Tokyo](https://open.spotify.com/album/2eBnkNiGd6dUMA8MdlJ85N) | 3:13 |
+| 56 | [Non Stop](https://open.spotify.com/track/67blacGLsVDkAkiR1DAIBb) | [Ella Kasumovic](https://open.spotify.com/artist/7IkMx09LG9xJ4BbB3KSZmg) | [Non Stop](https://open.spotify.com/album/1z80gpGSwHGNA7HdHYp8js) | 2:29 |
+| 57 | [Ronquières](https://open.spotify.com/track/5xEZmYsLt2UWVth2O0aPFd) | [Madou](https://open.spotify.com/artist/5LHkXGZndRebUjbJqvMQyN) | [Is er iets?](https://open.spotify.com/album/3CNXgUf786KbgCqq42BIXT) | 4:42 |
 
-Snapshot ID: `MTY2OTc2MjgwMCwwMDAwMDAwMDQ1MjMwZTJlZTAwN2Y0ZjhmMTFiZmQ1OWJhNmI0MzMx`
+Snapshot ID: `MTY3MDMzOTAwMywwMDAwMDAwMDE0NzY5ZjYzNzkzNDg2OGQ5OGU5NDJmYTJjYjk4ZDA3`

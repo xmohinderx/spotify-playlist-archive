@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: OVAN\(오반\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Han Yo Han x Kim Seungmin\(한요한 x 김승민\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-544 songs - 1 day 5 hr 47 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
+545 songs - 1 day 5 hr 50 min - [published](https://open.spotify.com/playlist/6YybdrER9IpLcTWs3zQt76)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Call Me Up \(Feat\. Claire Hau\)](https://open.spotify.com/track/7kbNPLs7bvIkywVodFz3g5) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:22 | 2022-07-14 | 2022-07-19 |
 | [CANTSAY](https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [VELVETMOTH](https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx) | 3:16 | 2022-05-05 | 2022-05-12 |
 | [Celebrate](https://open.spotify.com/track/1d219co69sYkVNGY07WoA9) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Star](https://open.spotify.com/album/3JOPFaUPMNSZigHMxXDpOI) | 3:17 | 2022-11-22 | 2022-11-24 |
-| [Celebrate](https://open.spotify.com/track/668qGPFc6wHY9RBP5gwGUy) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Star](https://open.spotify.com/album/1brcpHqPe9vSLjy4mpl7zh) | 3:17 | 2022-11-22 |  |
+| [Celebrate](https://open.spotify.com/track/668qGPFc6wHY9RBP5gwGUy) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Star](https://open.spotify.com/album/1brcpHqPe9vSLjy4mpl7zh) | 3:17 | 2022-11-22 | 2022-12-07 |
 | [Ceremony](https://open.spotify.com/track/4yMeebFYtbx7BP4GOiBfTK) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Ceremony](https://open.spotify.com/album/7Ejo0LEshrxBDqd3T2xfTA) | 3:02 | 2022-04-21 | 2022-07-29 |
 | [CHAMELEON \(Feat\. SUMIN, Dbo\) \(Prod\. SUMIN\)](https://open.spotify.com/track/7CP1u7vb5Yyj9qz2e6Ulnk) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:57 | 2022-04-01 | 2022-04-23 |
 | [Cheetos](https://open.spotify.com/track/2LbNAKighVWykuwfVHaAqe) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 3:38 | 2022-11-01 | 2022-11-23 |
@@ -370,6 +370,7 @@
 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARKHYUNJIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 | 2022-04-01 |  |
 | [Paranoid](https://open.spotify.com/track/4f3E2bdBCYDvC0otoYcdXg) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ASH](https://open.spotify.com/album/0rI1BGsvXnc4IYyBqCJ6sI) | 3:03 | 2022-07-24 |  |
 | [Paranoid](https://open.spotify.com/track/7ezN0T8iMavMXk8nZQRNlL) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Ash](https://open.spotify.com/album/2l9JhAQ9FTBu3h6SNuMAjp) | 3:03 | 2022-04-21 | 2022-05-04 |
+| [Part Of Her](https://open.spotify.com/track/4tEbrFRsptk67AYGcukhfV) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Part Of Her](https://open.spotify.com/album/7vB2MHaKcd4DNW6BgwDDAr) | 3:01 | 2022-12-06 |  |
 | [Party \(Feat\. Skinny Brown\)](https://open.spotify.com/track/7ztQVBCyaQiZktf8tTZpPl) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/67tBDqUFKtbehv1dRLyQJy) | [UP](https://open.spotify.com/album/3BKgpuuOu0PIb2aYfk2p1O) | 2:39 | 2022-04-01 | 2022-07-26 |
 | [party \(SHUT DOWN\)](https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:36 | 2022-04-01 |  |
 | [Party For The Night \(Feat\. Loco & LeeHi\)](https://open.spotify.com/track/2UsZC5QgWeHj8jlhEoXplf) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:52 | 2022-04-21 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Thomas Rhett & Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,273 likes - 148 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,867 likes - 148 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

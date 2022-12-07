@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <br/> Generación 12
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,791 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,964 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 29 | [Haz Fluir](https://open.spotify.com/track/0BrTHwpH62e5sxP24u82ur) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [FLUIR 1](https://open.spotify.com/album/39Jr00xTIQJnvvaUNdNYKz) | 7:38 |
 | 30 | [Contracorriente](https://open.spotify.com/track/60YS7XYRdzEyCXsVpqYf2W) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Chary Goodman](https://open.spotify.com/artist/5H9IgoOhJu6nQPmZOPhb6F) | [Contracorriente](https://open.spotify.com/album/24w1NsYr1HPGiSLzccvV2A) | 3:04 |
 | 31 | [Barca ft\. Pauneto](https://open.spotify.com/track/52tCAOA00qEvkcsfLSHqX0) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt), [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [Barca ft\. Pauneto](https://open.spotify.com/album/4rIVr3t0Pf8NFHulomo0hm) | 4:05 |
-| 32 | [Adán y Eva](https://open.spotify.com/track/3mB5zDZiCOexbIJ2USyNtI) | [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu), [Moi](https://open.spotify.com/artist/7q1rPOD4uhpfuOThtTTJtm) | [Adán y Eva](https://open.spotify.com/album/15WV6ls3yG94AQiaJvKDQt) | 3:30 |
+| 32 | [Adán y Eva](https://open.spotify.com/track/0Itg2NzalHAN7lkTGroxQN) | [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu), [Moi](https://open.spotify.com/artist/7q1rPOD4uhpfuOThtTTJtm) | [Adán y Eva](https://open.spotify.com/album/2HEGQqPuhEjKpLiFCIaYkD) | 3:30 |
 | 33 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 |
 | 34 | [Cuánto Te Amo](https://open.spotify.com/track/2gQg3VWnidqgzPkJdKX6xC) | [Armando Sánchez](https://open.spotify.com/artist/0u5GpuQQC8Vr2l648shvcC), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Cuánto Te Amo](https://open.spotify.com/album/5d0sMnrH3htZ0VbppRhrJ6) | 4:58 |
 | 35 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Flavor](https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 2:59 |
 | 100 | [Mil Preguntas](https://open.spotify.com/track/5hO2AIo9UgfWsBM2YjT6TW) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Mil Preguntas](https://open.spotify.com/album/5RZ1ZkrtlEuKpMgEdm0bvG) | 3:28 |
 
-Snapshot ID: `MTY2OTk4NTM3MiwwMDAwMDAwMDVlZDU1NTliOWYyODcyZTk3OTYzYzhkMTFmYmRhZDZj`
+Snapshot ID: `MTY2OTk4NTM3MiwwMDAwMDAwMDQxOWRiNzNmMzVlNzEyZmU5ZTExYWExZTdmNzQ0Zjhh`

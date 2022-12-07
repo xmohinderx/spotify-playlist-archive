@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lewis Capaldi \(pictured\), PinkPantheress, James Arthur and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,274 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,343 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 19 | [Voices](https://open.spotify.com/track/7il6Ut55DBqI7XMeKvQ31C) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Voices](https://open.spotify.com/album/0c2h6ryqCHV2P5ivM7pBjN) | 2:30 |
 | 20 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 |
 | 21 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 |
-| 22 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 |
+| 22 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 23 | [My Head Feels Strange](https://open.spotify.com/track/4Fbxzm1PgrYcfsnKF8EPZr) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [My Head Feels Strange](https://open.spotify.com/album/766CEuUWAk1EdnKtP9V2Zm) | 3:19 |
 | 24 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 25 | [Reebok Classic \(feat\. Salo\)](https://open.spotify.com/track/3Of4NVE43PjfzyhSWFl8QD) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Reebok Classic / Scorpion](https://open.spotify.com/album/0peI4VwZltckzMiF2J60Oy) | 3:02 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 65 | [When Christmas Comes Again](https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When Christmas Comes Again](https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD) | 3:17 |
 | 66 | [Bring Me Back To Life](https://open.spotify.com/track/6G4neHCNakelNYNvkEuDo0) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Bring Me Back To Life](https://open.spotify.com/album/0vwcpeVSPFlrpYF3cY3QER) | 3:41 |
 | 67 | [Long Live The Strange](https://open.spotify.com/track/12RkXOFLV813gXKv6HNrhJ) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [Long Live The Strange](https://open.spotify.com/album/6607rFpxl6jck1sW7GaYPF) | 4:23 |
-| 68 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
+| 68 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
 | 69 | [Mariblue ft\. lau.ra](https://open.spotify.com/track/5zNJkX9hfz4LEIblVR3NXs) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Mariblue ft\. lau.ra](https://open.spotify.com/album/59W6KlVTww5iebMd8x1tZD) | 4:00 |
 | 70 | [Autumn Song](https://open.spotify.com/track/0ZfA5mDADY5z0jlrozOeAa) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [For Seasons](https://open.spotify.com/album/4vE6jYwljcClktaIj0mBAV) | 2:59 |
 | 71 | [2 2's Ain't Always 4](https://open.spotify.com/track/3wVjo9jofYa7BVVLntnh1y) | [Natty Wylah](https://open.spotify.com/artist/2BUKwf8XQN2KTzdp8hyqlK) | [2 2's ain't always 4](https://open.spotify.com/album/1AkNVx5EnI6ocr0xs3w6ku) | 3:02 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 121 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 |
 | 122 | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/track/0AIlOIOaMDbOc38YaAfp1Q) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Side by Side \(from 'The Amazing Maurice'\)](https://open.spotify.com/album/7rKwtSZtahZjbVlIphiGpD) | 2:47 |
 
-Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMDIyZGFhMzVlNDg2YjZlMGU2NGE0YzI2OGM2YzljOTY5`
+Snapshot ID: `MTY2OTkzOTIwMCwwMDAwMDAwMGI1YzZlODU0NDQwNDYwNzdlZWIzZjgyZjQzOTkzYjI1`

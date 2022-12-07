@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 212237,
       "name": "Gulabi 2.0",
       "url": "https://open.spotify.com/track/1yGCVeGnN9HoZfPNfuD4Vq"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 146063,
       "name": "Hindustani (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5NOA6Cl1w8cMvKvp9hg9hI"
@@ -1123,6 +1123,32 @@
       "duration_ms": 335272,
       "name": "Kya Yehi Pyaar Hai",
       "url": "https://open.spotify.com/track/76oTKi1zvsDawQWmzT5inJ"
+    },
+    {
+      "album": {
+        "name": "Kyaa Baat Haii 2.0 (From \"Govinda Naam Mera\")",
+        "url": "https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Kyaa Baat Haii 2.0",
+      "url": "https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs"
     },
     {
       "album": {

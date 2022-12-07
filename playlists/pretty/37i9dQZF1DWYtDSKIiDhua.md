@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: RINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,927 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,052 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 2 | [hate me](https://open.spotify.com/track/1Trna2zgrXLnIMGoZepn3X) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [hate me](https://open.spotify.com/album/4BgqPDBaoMCyzIreCad3ep) | 2:37 |
 | 3 | [Goodbye 2022 \(feat\. J.O.Y\)](https://open.spotify.com/track/3xmGR655IjSCH5oFcMmdBS) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Goodbye 2022](https://open.spotify.com/album/5kTSDjeJ7RErbxbA3rLfn8) | 3:02 |
 | 4 | [A Friend](https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [A Friend](https://open.spotify.com/album/6vJJQBcmrKG3hX5iU8Idaq) | 3:20 |
-| 5 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 |
+| 5 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 6 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
 | 7 | [i can't](https://open.spotify.com/track/2Bb24adoGNek1rlRSe7HDQ) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [IDFK](https://open.spotify.com/album/4dKJaXsb06kSSo1WUAALD6) | 2:31 |
 | 8 | [I.L.S.M](https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [I.L.S.M \(I Love Sadness More\)](https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f) | 3:05 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 89 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 90 | [See You Tonight](https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [See You Tonight](https://open.spotify.com/album/1PGucCJAPXx8aOVX6OW3JM) | 3:05 |
 
-Snapshot ID: `MTY2OTk3NDkzMywwMDAwMDAwMGJhNTRiMDM0ZDMwZGQ2NjFjM2VhMjE3MTQwNmMzNmU5`
+Snapshot ID: `MTY2OTk3NDkzMywwMDAwMDAwMGFhYzllM2ZhZjVkMWJhYzExZTQxM2E4ZTQ2YmVkMDQ0`

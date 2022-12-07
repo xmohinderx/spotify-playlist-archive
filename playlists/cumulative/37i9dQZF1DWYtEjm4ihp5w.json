@@ -970,6 +970,24 @@
     },
     {
       "album": {
+        "name": "SOY MAROCCINO",
+        "url": "https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138039,
+      "name": "SOY MAROCCINO",
+      "url": "https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy"
+    },
+    {
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
       },

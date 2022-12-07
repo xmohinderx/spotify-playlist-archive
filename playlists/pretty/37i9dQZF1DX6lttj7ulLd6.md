@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,424 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,731 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Free Time](https://open.spotify.com/track/6FBzUSZPGrCfto3xKHXsGg) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Groove On!](https://open.spotify.com/album/5vYhpagdFervgTth43gDBp) | 5:04 |
 | 100 | [Together At Last](https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 5:05 |
 
-Snapshot ID: `MTY2OTczMTc3MiwwMDAwMDAwMGRjZjljYWIyZDgwMjcwNjhmODU4NTYzNTA0YzA1NTAy`
+Snapshot ID: `MTY3MDMzMzg0MywwMDAwMDAwMDU1N2ExOGU5OTQzNzVjNGRkYjE3ZmJiNWQwMGI2ZjAw`

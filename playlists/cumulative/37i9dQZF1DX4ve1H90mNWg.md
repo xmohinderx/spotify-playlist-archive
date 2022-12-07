@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Kaash Paige
 
-345 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+346 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne) | 2:51 | 2022-12-02 |  |
 | [Any Attack](https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Any Attack](https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg) | 1:53 | 2022-07-22 | 2022-08-13 |
 | [Are U Ready ?](https://open.spotify.com/track/6w9O8wwV8lbCKO9ZWX1qfH) | [Marqus Clae](https://open.spotify.com/artist/6CMbYeF5Lb3RZjnig0rSBT) | [Are U Ready ?](https://open.spotify.com/album/5Vf5OO5iMrNB8uSvys8s54) | 2:30 | 2022-08-19 | 2022-09-03 |
-| [Around Me \(feat\. Don Toliver\)](https://open.spotify.com/track/1SN3Ts25sR0tLwcDGLJdNh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:11 | 2022-12-02 |  |
+| [Around Me \(feat\. Don Toliver\)](https://open.spotify.com/track/1SN3Ts25sR0tLwcDGLJdNh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:11 | 2022-12-02 | 2022-12-07 |
+| [Around Me \(feat\. Don Toliver\)](https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:11 | 2022-12-02 |  |
 | [ARP](https://open.spotify.com/track/7D2008TPKN4gJGGYfmvTut) | [TrapboyDre10k](https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [ARP](https://open.spotify.com/album/7pzvutWtGnyQFEXHM1xfSi) | 2:58 | 2022-09-09 | 2022-12-03 |
 | [AWESOME](https://open.spotify.com/track/5O6XUXibuVgl0folQt5e4p) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 2:44 | 2022-12-02 |  |
 | [Awready](https://open.spotify.com/track/29Bpg0Agd8i1R9lBoZ9Zbi) | [TEXAS BOYZ](https://open.spotify.com/artist/40qj4OBMZQvOZfqhoSE758), [Tay Muletti](https://open.spotify.com/artist/1VfrgiZIcpiZ1Gyt33B4K4), [Nick Gee](https://open.spotify.com/artist/7D2Vq4xIfvAtBPKGeWlrw2) | [Awready](https://open.spotify.com/album/3QfIpWyod9hiAsYFYXA9qt) | 2:21 | 2022-06-07 | 2022-09-10 |

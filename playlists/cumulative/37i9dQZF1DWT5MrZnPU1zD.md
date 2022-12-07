@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-581 songs - 1 day 4 hr 8 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
+582 songs - 1 day 4 hr 11 min - [published](https://open.spotify.com/playlist/7cwYx6eKsM8gRAepNRauuk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,7 +495,8 @@
 | [Summer](https://open.spotify.com/track/39jo333JejX9EZ3zwwcdmS) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Summer](https://open.spotify.com/album/0lLBjcVpeLXF4ZKpCxe1zt) | 2:15 | 2022-03-11 | 2022-04-20 |
 | [Super Deep Brother](https://open.spotify.com/track/4rpF2SBmTOw8zGCHAhkByI) | [Uno Hype](https://open.spotify.com/artist/68jFd8fas1U1U51bGQZXbr) | [SOL GLO](https://open.spotify.com/album/7FIrLuO2imjSJG36wL3hPH) | 3:06 | 2021-09-03 | 2022-04-29 |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2021-11-30 |  |
-| [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-02 |  |
+| [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2022-12-02 |  |
+| [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-02 | 2022-12-07 |
 | [SUPERSTAR](https://open.spotify.com/track/2iJjs5CPZCgsAY368q23OA) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [F\*CK YOUR FEELINGS](https://open.spotify.com/album/1A5FrlktD43P50z8quqGPS) | 1:42 | 2021-09-03 | 2022-03-17 |
 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 | 2021-09-03 | 2022-06-11 |
 | [Swag Walk](https://open.spotify.com/track/1NQv0miSa0yR3KjkOzZ7Nn) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Big Draco 3](https://open.spotify.com/album/5OWvRkTgx6UZxzpDRPRzZr) | 2:19 | 2022-03-18 | 2022-04-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover:\bRed Velvet(\ub808\ub4dc\ubca8\ubcb3)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: THE BOYZ(\ub354 \ubcf4\uc774\uc988)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "published_playlist_ids": [
     "69AzhPM798n6fuDC8uUxaB"
@@ -1031,12 +1031,12 @@
           "url": "https://open.spotify.com/artist/6CC0Rj30WieBrLs5fmlSrK"
         },
         {
-          "name": "NOWIMYOUNG",
-          "url": "https://open.spotify.com/artist/6ONItf4jPSCOVeB05Snq4P"
+          "name": "nowimyoung",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
         },
         {
           "name": "SUDO",
-          "url": "https://open.spotify.com/artist/4bcymNfS8BzQ8XiwkdqCDb"
+          "url": "https://open.spotify.com/artist/0KLEGOxFdkllQF972DAiPU"
         }
       ],
       "date_added": "2022-12-05",
@@ -2554,6 +2554,24 @@
     },
     {
       "album": {
+        "name": "THE BOYZ Special Single [All About You]",
+        "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
+    },
+    {
+      "album": {
         "name": "All at Sea",
         "url": "https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe"
       },
@@ -3881,6 +3899,24 @@
       "duration_ms": 188000,
       "name": "Asphyxia",
       "url": "https://open.spotify.com/track/3MG7a1dLqkw8yZjpOVjk67"
+    },
+    {
+      "album": {
+        "name": "Neap Paradise",
+        "url": "https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N"
+      },
+      "artists": [
+        {
+          "name": "Shin Hae Gyeong",
+          "url": "https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251693,
+      "name": "Aspirin Overdose",
+      "url": "https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA"
     },
     {
       "album": {
@@ -6002,20 +6038,24 @@
     },
     {
       "album": {
-        "name": "bickering WAR",
+        "name": "bickering WAR (Feat. OLNL)",
         "url": "https://open.spotify.com/album/1smH5LgFRSelWbQ3KP3LZM"
       },
       "artists": [
         {
           "name": "DNEIRF",
           "url": "https://open.spotify.com/artist/1CBYQ83BQqDEIL3JGrdo9N"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
         }
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178174,
-      "name": "bickering WAR",
+      "name": "bickering WAR (Feat. OLNL)",
       "url": "https://open.spotify.com/track/52PZssB7lxkP7JbCfCs6TZ"
     },
     {
@@ -7759,8 +7799,8 @@
       },
       "artists": [
         {
-          "name": "YEIN",
-          "url": "https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY"
+          "name": "Yein",
+          "url": "https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ"
         }
       ],
       "date_added": "2022-12-02",
@@ -9381,6 +9421,24 @@
       "duration_ms": 190066,
       "name": "Charming (With Woo Ye Rin)",
       "url": "https://open.spotify.com/track/2jthZEeTXBV6YIpLeXG88F"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "album": {
@@ -17014,6 +17072,24 @@
     },
     {
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218144,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi"
+    },
+    {
+      "album": {
         "name": "FALLIN",
         "url": "https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf"
       },
@@ -18048,6 +18124,24 @@
     },
     {
       "album": {
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA WDJ",
+          "url": "https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4"
+    },
+    {
+      "album": {
         "name": "FLAVONO",
         "url": "https://open.spotify.com/album/0YLOzSD8x1vqN3UahvhJRn"
       },
@@ -18620,6 +18714,24 @@
     },
     {
       "album": {
+        "name": "Some time s",
+        "url": "https://open.spotify.com/album/6SC77MCVpBj6E0DrB4zB3c"
+      },
+      "artists": [
+        {
+          "name": "Hangsung",
+          "url": "https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201009,
+      "name": "For rest",
+      "url": "https://open.spotify.com/track/2Ahg9jTFSDt8k00wdaMxVK"
+    },
+    {
+      "album": {
         "name": "For The Culture",
         "url": "https://open.spotify.com/album/66xARzG23x9AI1sfzErvUi"
       },
@@ -18879,8 +18991,8 @@
           "url": "https://open.spotify.com/artist/4AY12WVwnTpIobXjwJkYDQ"
         },
         {
-          "name": "LEE JIN SOL",
-          "url": "https://open.spotify.com/artist/6EaJczqucQOMLQu1p8ze0E"
+          "name": "JINSOL",
+          "url": "https://open.spotify.com/artist/3g0GCvyJM0GmjBlLV8NIAV"
         }
       ],
       "date_added": "2022-11-30",
@@ -20551,6 +20663,28 @@
       "duration_ms": 218360,
       "name": "Golden Hours",
       "url": "https://open.spotify.com/track/1h2aGCKoYDFwo68G1wxHvs"
+    },
+    {
+      "album": {
+        "name": "Goldfish (Feat. Blueny of OuiOui)",
+        "url": "https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY"
+      },
+      "artists": [
+        {
+          "name": "yiyona",
+          "url": "https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv"
+        },
+        {
+          "name": "Blueny",
+          "url": "https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196844,
+      "name": "Goldfish (Feat. Blueny of OuiOui)",
+      "url": "https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM"
     },
     {
       "album": {
@@ -32056,6 +32190,24 @@
     },
     {
       "album": {
+        "name": "Love is (CURTAIN CALL OST Part.8)",
+        "url": "https://open.spotify.com/album/0pqnP0umCdXV393jE15ymW"
+      },
+      "artists": [
+        {
+          "name": "nautilus",
+          "url": "https://open.spotify.com/artist/19ddo3hi6DZb6iZqWuvziQ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/3LCzKYk2HMznKEaUYjB6CC"
+    },
+    {
+      "album": {
         "name": "Love is",
         "url": "https://open.spotify.com/album/5CHRLHgFFmKgG1VeMcPDHh"
       },
@@ -38674,7 +38826,7 @@
       "artists": [
         {
           "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+          "url": "https://open.spotify.com/artist/3yvPo4xr8jSJYsLRcNS8EL"
         },
         {
           "name": "sodong",
@@ -43710,7 +43862,7 @@
       "artists": [
         {
           "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A"
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
         }
       ],
       "date_added": "2022-12-02",
@@ -47100,6 +47252,24 @@
     },
     {
       "album": {
+        "name": "PLAYLIST SEASON2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Slainte!",
+      "url": "https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8"
+    },
+    {
+      "album": {
         "name": "SLASH",
         "url": "https://open.spotify.com/album/0o7XE2WOd8Y6Z57ndgkl2B"
       },
@@ -47419,6 +47589,24 @@
       "duration_ms": 179453,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+    },
+    {
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273146,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/3xHG58rE77ObOXEWKwrDan"
     },
     {
       "album": {
@@ -52356,6 +52544,24 @@
     },
     {
       "album": {
+        "name": "CLEF X CREW, 4th Story",
+        "url": "https://open.spotify.com/album/6MWt8VIhK51fMXT0CQPeq4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210537,
+      "name": "The lighthouse [CLEF X Kevin Oh]",
+      "url": "https://open.spotify.com/track/7qZkN1CO3IolRcFHJojs8z"
+    },
+    {
+      "album": {
         "name": "NEW FESTA EPISODE.5",
         "url": "https://open.spotify.com/album/0juPm2L9EaeacvcDmc4Kqc"
       },
@@ -54185,6 +54391,28 @@
       "duration_ms": 167861,
       "name": "To you (Feat. Hash Swan)",
       "url": "https://open.spotify.com/track/73nHbiqRikVIta8TFtRBPi"
+    },
+    {
+      "album": {
+        "name": "The Legacy 09",
+        "url": "https://open.spotify.com/album/7LrvAcXFwGcdMthKQBWzgx"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Lee Tae Kwon",
+          "url": "https://open.spotify.com/artist/0HYkV9ugwyR5INWE6BiCB3"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260634,
+      "name": "To You Listening To My Song Somewhere (feat. Lee Tae Kwon)",
+      "url": "https://open.spotify.com/track/6chNwYiHbE57hSQ6xGEROO"
     },
     {
       "album": {
@@ -57391,20 +57619,16 @@
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
           "name": "GroovyRoom",
           "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "Blase",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "Chillin Homie",
-          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
         },
         {
           "name": "Roh Yun Ha",
@@ -57413,6 +57637,10 @@
         {
           "name": "Polodared",
           "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+        },
+        {
+          "name": "Chillin Homie",
+          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
         },
         {
           "name": "Fleeky Bang",
@@ -57519,6 +57747,28 @@
       "duration_ms": 206970,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6jQLbSf1TkrPpA5kNuTWbj"
+      },
+      "artists": [
+        {
+          "name": "Tearliner",
+          "url": "https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si"
+        },
+        {
+          "name": "Bang Jae Min",
+          "url": "https://open.spotify.com/artist/0HzOCIGHmazaITu8kLibAp"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "We Swim in Dreams (Feat. Bang JaeMin)",
+      "url": "https://open.spotify.com/track/1eUsM8Wd2IGi0J6NeUoC7c"
     },
     {
       "album": {
@@ -59141,10 +59391,6 @@
         {
           "name": "RM",
           "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        },
-        {
-          "name": "\uc870\uc720\uc9c4",
-          "url": "https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW"
         }
       ],
       "date_added": "2022-12-02",
@@ -60057,6 +60303,28 @@
       "duration_ms": 209226,
       "name": "XNFP (feat.JUNE)",
       "url": "https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep"
+    },
+    {
+      "album": {
+        "name": "SHOWER",
+        "url": "https://open.spotify.com/album/7logqYXPokIQOBrmNXdrQW"
+      },
+      "artists": [
+        {
+          "name": "LONELEE",
+          "url": "https://open.spotify.com/artist/3SX3uZa37fVUE6P3qq6y3X"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280080,
+      "name": "Y (feat. Trade L)",
+      "url": "https://open.spotify.com/track/3X75yUy7C49NiFR936iml2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,869 likes - 200 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,184 likes - 200 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

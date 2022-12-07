@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,623 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,794 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,16 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 42 | [Cherry Clan](https://open.spotify.com/track/5fsi4dT2XHrXcjVhtCbXa9) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp) | [Cherry Clan](https://open.spotify.com/album/0TMVQn0rfA3oc5xwBrpSCr) | 2:26 |
 | 43 | [24/7 \(Veinticuatro Siete\)](https://open.spotify.com/track/2Qn2wHU8bcXuxAMfbhl4QG) | [EMIL](https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a), [BO](https://open.spotify.com/artist/5ypVMdb4muzn345Pq36FfJ), [Kenedi](https://open.spotify.com/artist/1Xu6ojku8vwB3wSpkADisk) | [24/7 \(Veinticuatro Siete\)](https://open.spotify.com/album/3SXrdl36hqmYhR1GUTWDry) | 2:34 |
 | 44 | [Uber](https://open.spotify.com/track/44ZdEjoT6XMlqVT5bGuCsc) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY) | [Uber](https://open.spotify.com/album/4NMVnR8X6trdUdmh2INuVh) | 3:02 |
-| 45 | [Pequeña](https://open.spotify.com/track/4WQGtUBSyiVbyXUqM3Ieyi) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Paco Álvarez](https://open.spotify.com/artist/00rNOPrK0Fy2kufnnlISzZ) | [Pequeña](https://open.spotify.com/album/4WCpVimSy7VYUObiZ6pOUH) | 5:05 |
-| 46 | [El Andariego](https://open.spotify.com/track/7wHbXIqqJuQpYSp0d8TRw6) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [El Andariego](https://open.spotify.com/album/5wWLO2m9ivtQ3uS2Cs1xnu) | 3:17 |
-| 47 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 |
-| 48 | [NO LE VAMO A BAJAR](https://open.spotify.com/track/6dklNMmKRB4IFv5jPGzrqW) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [No Le Vamo a Bajar](https://open.spotify.com/album/4dkyo9x7dsY99DitBxbpMK) | 2:24 |
-| 49 | [CHIT CHAT](https://open.spotify.com/track/5yGHTDCbNqANSwERsksbzH) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [CHIT CHAT](https://open.spotify.com/album/5uAKKOqPlUGj3VdaxQG02d) | 2:39 |
-| 50 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 |
-| 51 | [Hasta Mañana](https://open.spotify.com/track/6EXT5R2CmA4KbXVEbw24og) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [todo va a estar bien :\)](https://open.spotify.com/album/28vgZhRk1d58NrJXERHMQz) | 3:49 |
-| 52 | [Siempre Contigo](https://open.spotify.com/track/5kzPDr6rlrmRXBV6T1EuDR) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Siempre Contigo](https://open.spotify.com/album/7uF3cxAT070epqu5YEfMQk) | 2:25 |
-| 53 | [Me Gustas Tu](https://open.spotify.com/track/6HBw5orW060UCd6QqlEjZm) | [Boy Floow](https://open.spotify.com/artist/7BpVajf4u0UppSryddYBPN), [Dollar Baby](https://open.spotify.com/artist/4GYf5z6XmcUYvuX61r2SlI), [The WizzaRD](https://open.spotify.com/artist/3U7aFzWrDdJFzDgxmQkuXB) | [Me Gustas Tu](https://open.spotify.com/album/6PzdymA9hSOQh9G8Z8eRpA) | 3:07 |
-| 54 | [Pay Me](https://open.spotify.com/track/24ajCRB8V5vXf2sd07TVc9) | [Jahzel Dotel](https://open.spotify.com/artist/6hlXL8UbjhyrvkEudpcCKT) | [Pay Me](https://open.spotify.com/album/2FXg7qINOiLSk9LDvVAFIR) | 2:34 |
-| 55 | [Bailalo](https://open.spotify.com/track/7nBmmDG3zXvgipHTXUs0yL) | [Nigel](https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf) | [Bailalo](https://open.spotify.com/album/2ncWaC8K6argIroAcZCxoa) | 2:18 |
+| 45 | [El Andariego](https://open.spotify.com/track/7wHbXIqqJuQpYSp0d8TRw6) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [El Andariego](https://open.spotify.com/album/5wWLO2m9ivtQ3uS2Cs1xnu) | 3:17 |
+| 46 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 |
+| 47 | [NO LE VAMO A BAJAR](https://open.spotify.com/track/6dklNMmKRB4IFv5jPGzrqW) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [No Le Vamo a Bajar](https://open.spotify.com/album/4dkyo9x7dsY99DitBxbpMK) | 2:24 |
+| 48 | [CHIT CHAT](https://open.spotify.com/track/5yGHTDCbNqANSwERsksbzH) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [CHIT CHAT](https://open.spotify.com/album/5uAKKOqPlUGj3VdaxQG02d) | 2:39 |
+| 49 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 |
+| 50 | [Hasta Mañana](https://open.spotify.com/track/6EXT5R2CmA4KbXVEbw24og) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [todo va a estar bien :\)](https://open.spotify.com/album/28vgZhRk1d58NrJXERHMQz) | 3:49 |
+| 51 | [Siempre Contigo](https://open.spotify.com/track/5kzPDr6rlrmRXBV6T1EuDR) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Siempre Contigo](https://open.spotify.com/album/7uF3cxAT070epqu5YEfMQk) | 2:25 |
+| 52 | [Me Gustas Tu](https://open.spotify.com/track/6HBw5orW060UCd6QqlEjZm) | [Boy Floow](https://open.spotify.com/artist/7BpVajf4u0UppSryddYBPN), [Dollar Baby](https://open.spotify.com/artist/4GYf5z6XmcUYvuX61r2SlI), [The WizzaRD](https://open.spotify.com/artist/3U7aFzWrDdJFzDgxmQkuXB) | [Me Gustas Tu](https://open.spotify.com/album/6PzdymA9hSOQh9G8Z8eRpA) | 3:07 |
+| 53 | [Pay Me](https://open.spotify.com/track/24ajCRB8V5vXf2sd07TVc9) | [Jahzel Dotel](https://open.spotify.com/artist/6hlXL8UbjhyrvkEudpcCKT) | [Pay Me](https://open.spotify.com/album/2FXg7qINOiLSk9LDvVAFIR) | 2:34 |
+| 54 | [Bailalo](https://open.spotify.com/track/7nBmmDG3zXvgipHTXUs0yL) | [Nigel](https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf) | [Bailalo](https://open.spotify.com/album/2ncWaC8K6argIroAcZCxoa) | 2:18 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDY1ZDI4NDJlODMyNDUyNDk2ZDZlMzI1MGNiM2ZmYmFl`
+Snapshot ID: `MTY3MDM0MjAxMywwMDAwMDAwMDc3OGY1YzUyYjMwMTBkMjM1OGFlNzBmMjBkNGFkZTJm`

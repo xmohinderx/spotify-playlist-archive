@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,842 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,858 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Seu Fim em Mim](https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Seu Fim em Mim](https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC) | 3:38 |
 | 60 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 |
 
-Snapshot ID: `MTY2OTM0NTIwMCwwMDAwMDAwMDM5MWQ3NGIwNTJkYjlkZjcwNjhiZmQ0OTFlMjVjZTIx`
+Snapshot ID: `MTY3MDMzNDY3NCwwMDAwMDAwMGNhNWY1ODYzYjkzMzE0NTM0Y2IwYzFiMDM2MmFmNTA0`

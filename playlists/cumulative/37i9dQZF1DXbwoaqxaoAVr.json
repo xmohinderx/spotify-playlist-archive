@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 242692,
       "name": "Living is the Lesson (with Iration)",
       "url": "https://open.spotify.com/track/70k3t3MCp0OotE7GiXXXJR"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 279741,
       "name": "My World Is Empty Without You",
       "url": "https://open.spotify.com/track/2f5l3dzeD2KMTZJDxo3wZP"
@@ -1993,6 +1993,28 @@
       "duration_ms": 248470,
       "name": "Queen Majesty",
       "url": "https://open.spotify.com/track/2Rn5NVoQqXO6RAzs9ukquC"
+    },
+    {
+      "album": {
+        "name": "Raving",
+        "url": "https://open.spotify.com/album/4QNuinT68UmNlB9ocO9vgY"
+      },
+      "artists": [
+        {
+          "name": "Tony Curtis",
+          "url": "https://open.spotify.com/artist/67lbnNvIaK3h8L0sFxoXvJ"
+        },
+        {
+          "name": "Derrick Sound",
+          "url": "https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242437,
+      "name": "Raving",
+      "url": "https://open.spotify.com/track/71Yau1SPr0ErD5spLwGwT8"
     },
     {
       "album": {
@@ -2517,7 +2539,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 206879,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt"
@@ -2535,7 +2557,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 168949,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/1Al62CTbZeI6uLLvam4sFN"
@@ -2675,6 +2697,50 @@
       "duration_ms": 158201,
       "name": "Wrong Decision",
       "url": "https://open.spotify.com/track/4DkypNYUkFpVGti3L7wUC3"
+    },
+    {
+      "album": {
+        "name": "Yearn to Burn",
+        "url": "https://open.spotify.com/album/5PtN6aW3lzkZ1lgLaP5i34"
+      },
+      "artists": [
+        {
+          "name": "Geoff Weers",
+          "url": "https://open.spotify.com/artist/52zqbHNNh8iRMYAXQHM5r9"
+        },
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        },
+        {
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Yearn to Burn",
+      "url": "https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587"
+    },
+    {
+      "album": {
+        "name": "You Can't Hurry Love",
+        "url": "https://open.spotify.com/album/3yBpB9HYVUEiLSLoHI1Chc"
+      },
+      "artists": [
+        {
+          "name": "Pinky Dread",
+          "url": "https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154859,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/7zVz2u9UQJl6lJxaQuqQoJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbwoaqxaoAVr"

@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <br/> Generación 12
 
-325 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/46xuGYmp3nbMhyLwZ3Xj5y)
+326 songs - 1 day 0 hr 58 min - [published](https://open.spotify.com/playlist/46xuGYmp3nbMhyLwZ3Xj5y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Acepta \(Live\)](https://open.spotify.com/track/41AA0qum08M6IFG1GcoHNz) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder \(Live\)](https://open.spotify.com/album/745LEHgUFX9cFvF68KVgBx) | 7:53 | 2022-10-28 |  |
 | [Acercame \(feat\. Johnny Peña & Laila Olivera\)](https://open.spotify.com/track/4kEF0MXh1BWR0c48T7a9RS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Como En El Cielo](https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD) | 7:54 | 2022-02-25 | 2022-03-26 |
 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 | 2022-11-04 |  |
-| [Adán y Eva](https://open.spotify.com/track/3mB5zDZiCOexbIJ2USyNtI) | [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu), [Moi](https://open.spotify.com/artist/7q1rPOD4uhpfuOThtTTJtm) | [Adán y Eva](https://open.spotify.com/album/15WV6ls3yG94AQiaJvKDQt) | 3:30 | 2022-08-12 |  |
+| [Adán y Eva](https://open.spotify.com/track/0Itg2NzalHAN7lkTGroxQN) | [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu), [Moi](https://open.spotify.com/artist/7q1rPOD4uhpfuOThtTTJtm) | [Adán y Eva](https://open.spotify.com/album/2HEGQqPuhEjKpLiFCIaYkD) | 3:30 | 2022-12-02 |  |
+| [Adán y Eva](https://open.spotify.com/track/3mB5zDZiCOexbIJ2USyNtI) | [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu), [Moi](https://open.spotify.com/artist/7q1rPOD4uhpfuOThtTTJtm) | [Adán y Eva](https://open.spotify.com/album/15WV6ls3yG94AQiaJvKDQt) | 3:30 | 2022-08-12 | 2022-12-07 |
 | [Agua](https://open.spotify.com/track/4JwH8xZVljW6kBaCdjP7Bz) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Agua](https://open.spotify.com/album/51MyU1VF24TUlxfyFBGxqF) | 3:27 | 2022-05-13 | 2022-07-16 |
 | [Ahora Respiraré](https://open.spotify.com/track/6C8cDCc7ZeBMsLXx7anbXI) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Ahora Respiraré](https://open.spotify.com/album/0I3j6vTm6UHPI3L7XiDhWh) | 7:11 | 2022-02-25 | 2022-10-01 |
 | [Al Estar Aquí](https://open.spotify.com/track/36IK0Hvtgilu4HewsuXYPH) | [Adoración](https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Al Estar Aquí](https://open.spotify.com/album/4x5IRsgF4QmJ6bAKTCS2gt) | 4:52 | 2022-08-05 | 2022-09-03 |

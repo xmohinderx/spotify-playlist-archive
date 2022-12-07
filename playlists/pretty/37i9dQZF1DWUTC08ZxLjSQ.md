@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: NOON, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,533 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 8 | [Ouda](https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ouda](https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ) | 5:08 |
 | 9 | [Strange Goodbyes](https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB) | [Anou](https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc) | [Strange Goodbyes](https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq) | 4:32 |
 | 10 | [Summer Falls](https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Summer Falls](https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0) | 2:48 |
-| 11 | [i love you](https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq) | [LOSTBOY](https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV), [Offkaktus](https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh) | [Lost Garden](https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1) | 3:24 |
+| 11 | [i love you](https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq) | [LOSTBOY](https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV) | [Lost Garden](https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1) | 3:24 |
 | 12 | [Khayal](https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Khayal](https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO) | 5:13 |
 | 13 | [Sparsed Stars](https://open.spotify.com/track/7d0jZWy6GBohytx96WgQB6) | [Julien Vertigo](https://open.spotify.com/artist/4srhk1sob6zPaBltwpDicF), [Delrady](https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP) | [Sparsed Stars](https://open.spotify.com/album/6Uph9BQBTY0Cgdq4c2HuMU) | 6:31 |
 | 14 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 |

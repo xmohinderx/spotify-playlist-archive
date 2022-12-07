@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Baltic Sea Philharmonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,149 likes - 53 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,325 likes - 53 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 10 | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/track/3KLV7a9veM0D6Gp4tfjgCL) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Christmas with Chloe Flower](https://open.spotify.com/album/6Iv1FqBBAnyZ9WYZRpOvs3) | 3:49 |
 | 11 | [Interlude](https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Interlude](https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN) | 3:38 |
 | 12 | [Chopin Fantasy](https://open.spotify.com/track/1UL9N8wtgGHpObKhiuCbsC) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [Transcription](https://open.spotify.com/album/0QrWidFtuVUPvxl2Mq8tqu) | 7:51 |
-| 13 | [Erbarm’ dich mein, o Herre Gott, BWV 721](https://open.spotify.com/track/5TuI6XNJLHlwZu3RbfuDg6) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM), [Kat Tinker](https://open.spotify.com/artist/42roGJC1xejIW81ng4usOn) | [Erbarm’ dich mein, o Herre Gott, BWV 721](https://open.spotify.com/album/12NGGSuiK5SoIMmsUJvztu) | 3:51 |
+| 13 | [Erbarm’ dich mein, o Herre Gott, BWV 721](https://open.spotify.com/track/5TuI6XNJLHlwZu3RbfuDg6) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM), [Katherine Tinker](https://open.spotify.com/artist/0v0NRSJfDN0i80FpR4EZ73) | [Erbarm’ dich mein, o Herre Gott, BWV 721](https://open.spotify.com/album/12NGGSuiK5SoIMmsUJvztu) | 3:51 |
 | 14 | [10 Preludes, Op\. 23: No\. 10 in G\-Flat Major, Largo](https://open.spotify.com/track/6uXJlpzyKYTvPaN8WLMWvY) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Winter Morning](https://open.spotify.com/album/1kU9yb4xgByqXlg7i8LPdy) | 3:43 |
 | 15 | [Musikalisches Opfer, BWV 1079: Ricercar a 3](https://open.spotify.com/track/1lozqPPBpygp6CH3JsggEf) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) | [J.S\. Bach: Musikalisches Opfer, BWV 1079: Ricercar a 3](https://open.spotify.com/album/1yI9FpkvR7mWfiscB5pEUY) | 5:50 |
 | 16 | [Talestri: Da me ti dividi \(Arr\. for Cello & Orchestra by Julian Riem\)](https://open.spotify.com/track/14dNhZYnudbBfkMWOezHYN) | [Maria Antonia Walpurgis of Bavaria](https://open.spotify.com/artist/0YRJXaDYLaxUWhtf7i9ZBD), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Lucerne Festival Strings](https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc), [Daniel Dodds](https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY) | [Talestri: Da me ti dividi \(Arr\. for Cello & Orchestra by Julian Riem\)](https://open.spotify.com/album/4UXHXqeKvcM2WWaCXPcKpG) | 4:04 |

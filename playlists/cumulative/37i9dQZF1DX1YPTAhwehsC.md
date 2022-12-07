@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: DD Osama
 
-455 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
+456 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 | 2022-08-19 | 2022-11-19 |
 | [Fast Life](https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Fast Life](https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on) | 1:57 | 2022-10-07 |  |
 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 | 2022-08-05 | 2022-11-05 |
-| [Feel The Fiyaaaah \(with A$AP Rocky & feat\. Takeoff\)](https://open.spotify.com/track/27RDADqLHPALTugdGEyGtG) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:09 | 2022-12-02 |  |
+| [Feel The Fiyaaaah \(with A$AP Rocky & feat\. Takeoff\)](https://open.spotify.com/track/27RDADqLHPALTugdGEyGtG) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:09 | 2022-12-02 | 2022-12-07 |
+| [Feel The Fiyaaaah \(with A$AP Rocky & feat\. Takeoff\)](https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:09 | 2022-12-02 |  |
 | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7) | 2:23 | 2021-12-17 | 2022-02-19 |
 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 | 2022-10-21 |  |
 | [Finish \(feat\. PGF Nuk\)](https://open.spotify.com/track/5h2Zeh9a3iTVOJt66ymosq) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [FLYEST OOTA](https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X) | 2:53 | 2022-07-22 | 2022-11-05 |

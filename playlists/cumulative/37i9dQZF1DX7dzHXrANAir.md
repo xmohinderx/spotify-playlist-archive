@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-224 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+224 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,6 @@
 | [Erase \(An Apparition\)](https://open.spotify.com/track/3YubJlJNgsLhggBLTUdtZx) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Apparitions](https://open.spotify.com/album/1mcEBBcWomsTWDQYWOaH8D) | 4:18 | 2022-03-25 | 2022-04-02 |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/6MpiBJNEoqRTLVapGwvgSc) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/69jp6YlrX8mxw26mbOuOpu) | 4:27 | 2021-12-10 | 2022-04-02 |
 | [Etne](https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ) | [RØRE](https://open.spotify.com/artist/6xd40M7muKpl2NKROnmT65), [Avery Bright](https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr) | [Owen](https://open.spotify.com/album/4C1sWRPHj8QVZqnUA7vDzv) | 3:35 | 2022-01-07 |  |
-| [Etude No.12 \(Xa4 Remix\)](https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [XA4](https://open.spotify.com/artist/5epNEZk4o1xmCKCH7WhmiC) | [Glass Gateway](https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl) | 5:52 | 2022-12-06 |  |
 | [Everything in Life is Vibration](https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr) | [Rooydad](https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF) | [Entanglement](https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q) | 1:45 | 2021-12-10 | 2022-10-04 |
 | [Falling Colour](https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Falling Colour](https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd) | 3:35 | 2021-12-10 |  |
 | [False Sunset \- Todd & Klein Rework](https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Todd & Klein](https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz) | [False Sunset \(Todd & Klein Rework\)](https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU) | 3:07 | 2022-01-21 |  |
@@ -175,6 +174,7 @@
 | [Phosphenes](https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4) | [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV) | [As Now the Light Retreats](https://open.spotify.com/album/0xbyQ12QWk7PFgiXjOfVD7) | 4:09 | 2021-12-10 | 2022-07-29 |
 | [Pièces froides: II\. Danses de travers, 2\. Passer \- TWO LANES Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Pièces froides: II\. Danses de travers, 2\. Passer \[TWO LANES Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh) | 5:35 | 2021-12-10 |  |
 | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/track/2AuxT9fsyDo1LtUPFiFNY1) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/album/5Mb60mwLpAHBFqoDWfLpgS) | 5:52 | 2021-12-10 | 2022-07-22 |
+| [Pro Gre Tra Gre](https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [XA4](https://open.spotify.com/artist/5epNEZk4o1xmCKCH7WhmiC) | [Glass Gateway](https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl) | 5:15 | 2022-12-06 |  |
 | [Rameau, etc](https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ) | [PAVANE](https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB) | [Rameau, etc](https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1) | 4:05 | 2022-03-25 | 2022-06-17 |
 | [Rembihnútur \- Liminal re\-work by Paul Corley](https://open.spotify.com/track/5jPcyrg8ixRFxWcybzoQGt) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 7:24 | 2022-03-25 | 2022-04-01 |
 | [Retour](https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl), [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Retour](https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8) | 7:05 | 2021-12-10 |  |

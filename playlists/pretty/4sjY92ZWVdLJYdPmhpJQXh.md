@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,857 likes - 102 songs - 4 hr 44 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,858 likes - 102 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
 | 2 | [Overdose](https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Overdose](https://open.spotify.com/album/1HOEz50Or66Kp1W4CE9c3C) | 2:08 |
 | 3 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 |
-| 4 | [Lionheart \(Acoustic\)](https://open.spotify.com/track/3jY5rJm6xeBgnTca9LDr21) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Acoustic\)](https://open.spotify.com/album/5KqjXO5SQk6POwCsd4xxCH) | 2:05 |
-| 5 | [Vibe Til I Die](https://open.spotify.com/track/4RW1zkqDWOccg0VMOdHcgJ) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Limbo](https://open.spotify.com/artist/1C3nItWVXMk1wG4eV8Wn1d) | [Vibe Til I Die](https://open.spotify.com/album/4izcg62Cikup02cE4wvsj0) | 3:16 |
+| 4 | [Lionheart \(Acoustic\)](https://open.spotify.com/track/3jY5rJm6xeBgnTca9LDr21) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Acoustic\)](https://open.spotify.com/album/5KqjXO5SQk6POwCsd4xxCH) | 2:24 |
+| 5 | [Vibe Til I Die](https://open.spotify.com/track/4RW1zkqDWOccg0VMOdHcgJ) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [NITESHIFT](https://open.spotify.com/artist/31aY8MVhn7ZKrobYTLssax), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Vibe Til I Die](https://open.spotify.com/album/4izcg62Cikup02cE4wvsj0) | 3:16 |
 | 6 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
 | 7 | [Tomorrows \- Kyle Watson Remix](https://open.spotify.com/track/5p9yBGSaYVnJnb6zI9kNEv) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Tomorrows \(Kyle Watson Remix\)](https://open.spotify.com/album/6JhA3zD1fN9PwskPcsOJBm) | 3:39 |
 | 8 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |

@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Dag Na Naamdag",
+        "url": "https://open.spotify.com/album/7fsFzSqZ6awZxuoWgS8Byw"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285722,
+      "name": "Dag Na Naamdag",
+      "url": "https://open.spotify.com/track/5HGH0McByz0hX2JCnY70iu"
+    },
+    {
+      "album": {
         "name": "Dance Around Bullets",
         "url": "https://open.spotify.com/album/3ygEejH0fJ962lx8mVtpOy"
       },
@@ -978,6 +996,24 @@
     },
     {
       "album": {
+        "name": "WITVROUW",
+        "url": "https://open.spotify.com/album/6oupqzhjk5i8ZZR7ISlgvd"
+      },
+      "artists": [
+        {
+          "name": "WITVROUW",
+          "url": "https://open.spotify.com/artist/2VkgYHdG7g57sHOZpEAy8x"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450320,
+      "name": "How We'll Meet Tonight ?",
+      "url": "https://open.spotify.com/track/3ao50dH6fEGQXKgZBlpQL1"
+    },
+    {
+      "album": {
         "name": "Hubert",
         "url": "https://open.spotify.com/album/54DTXl96X0LpnR7uqtemIG"
       },
@@ -1007,7 +1043,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 153066,
       "name": "Jazzclub",
       "url": "https://open.spotify.com/track/0KdVwhhbLhvnxjfjjNbqR7"
@@ -1061,7 +1097,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 418586,
       "name": "Kervan",
       "url": "https://open.spotify.com/track/4Fwoj8XDiS2itAJ8DMzVLC"
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 264146,
       "name": "Opening 1.1.1",
       "url": "https://open.spotify.com/track/18nEqw47WXcG05rKgWnXzy"
@@ -1723,6 +1759,28 @@
       "duration_ms": 213253,
       "name": "Photonic",
       "url": "https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP"
+    },
+    {
+      "album": {
+        "name": "PAPARA",
+        "url": "https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        },
+        {
+          "name": "Mixmaster Menno",
+          "url": "https://open.spotify.com/artist/11sBV4HVBIdqHEV8oMOQIS"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303333,
+      "name": "Pickles",
+      "url": "https://open.spotify.com/track/4Lu7Igq9s2nQ0af1RGqNfo"
     },
     {
       "album": {
@@ -2179,7 +2237,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 266300,
       "name": "TinniT - Edit",
       "url": "https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q"
@@ -2345,7 +2403,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 93466,
       "name": "Verloren Buffels",
       "url": "https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M"

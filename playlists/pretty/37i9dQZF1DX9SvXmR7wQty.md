@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,632 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,628 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paradis City \- Spotify Singles](https://open.spotify.com/track/5mYuMW990U9kGRaCEpk0nI) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:37 |
 | 2 | [MAMA](https://open.spotify.com/track/4P79OOQkEYekflp46u6GKM) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 2:41 |
-| 3 | [Drug Dealin](https://open.spotify.com/track/3cwQfiYlCCsA4TcsbMxYv2) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Mélody\-Jade](https://open.spotify.com/artist/1K0t91k7RBKFtdktc50FSU) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 3:12 |
+| 3 | [Drug Dealin](https://open.spotify.com/track/3cwQfiYlCCsA4TcsbMxYv2) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 3:12 |
 | 4 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 |
 | 5 | [Rosie](https://open.spotify.com/track/0IdEk5hsxS3EuAYxaC1po9) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Rosie](https://open.spotify.com/album/4yC75iKVbC9rn6ukGIRDFR) | 2:10 |
 | 6 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:23 |

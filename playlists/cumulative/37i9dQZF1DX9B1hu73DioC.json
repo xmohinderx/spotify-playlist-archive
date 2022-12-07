@@ -604,6 +604,24 @@
     },
     {
       "album": {
+        "name": "DEPRESSED BUT MAKE IT COOL",
+        "url": "https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0"
+      },
+      "artists": [
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "ANECDOTE",
+      "url": "https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr"
+    },
+    {
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/3gJQkqLEaJshEGIm3VK3Ea"
       },
@@ -3069,7 +3087,7 @@
           "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 125793,
@@ -6975,7 +6993,7 @@
           "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
         }
       ],
-      "date_added": "2022-11-21",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 113400,
@@ -8969,7 +8987,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 307066,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"

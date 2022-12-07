@@ -1346,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Lig Die Dak",
+        "url": "https://open.spotify.com/album/5YRe8s8smoWsA1eNPtB82k"
+      },
+      "artists": [
+        {
+          "name": "Skemer",
+          "url": "https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211209,
+      "name": "Lig Die Dak",
+      "url": "https://open.spotify.com/track/0QulNWI4OfeRIxSBURJxgr"
+    },
+    {
+      "album": {
         "name": "Jona",
         "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
       },

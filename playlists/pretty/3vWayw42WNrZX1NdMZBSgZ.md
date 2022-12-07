@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Pedro Capo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,669 likes - 362 songs - 19 hr 46 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,667 likes - 362 songs - 19 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

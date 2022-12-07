@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbObFQZ3JLcXt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,880 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,128 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

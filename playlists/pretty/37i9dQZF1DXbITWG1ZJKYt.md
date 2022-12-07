@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,766,574 likes - 200 songs - 16 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,767,649 likes - 200 songs - 16 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

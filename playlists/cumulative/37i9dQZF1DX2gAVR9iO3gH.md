@@ -2,7 +2,7 @@
 
 ### [Rompiendo: Miami](https://open.spotify.com/playlist/37i9dQZF1DX2gAVR9iO3gH)
 
-> Miami me lo confirmó featuring Natti Natasha & Wisin.
+> Miami me lo confirmó featuring Romeo Santos & Chris Lebron
 
 188 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/1sF7ewVc3Qi7Dnv8YQqZkP)
 

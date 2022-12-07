@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > cuzcuzcuzcuz
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,845 likes - 80 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,908 likes - 80 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

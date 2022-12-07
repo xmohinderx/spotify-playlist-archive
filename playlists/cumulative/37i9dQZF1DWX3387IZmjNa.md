@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Drake
 
-232 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
+233 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Confujawn \(feat\. Nija\)](https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Confujawn \(feat\. Nija\)](https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA) | 2:55 | 2022-03-18 | 2022-06-04 |
 | [Consistency \(feat\. Jhene Aiko\)](https://open.spotify.com/track/0pA1KdUSZEDAL0swN18Mh8) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:40 | 2022-08-12 | 2022-10-15 |
 | [Counter](https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Counter](https://open.spotify.com/album/35MFJBhiYKKm3Vsybpsk29) | 2:26 | 2021-11-19 | 2022-04-30 |
-| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-02 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
 | [CRY FOR ME \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/3PkNJQCiVqaf1j1uDoSvXX) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OH REALLY](https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W) | 3:20 | 2022-01-28 | 2022-07-16 |
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-06 | 2022-07-23 |
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-14 | 2022-05-07 |

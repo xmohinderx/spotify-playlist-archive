@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-277 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+279 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [It's Art](https://open.spotify.com/track/1gAYnbHNrMS5ngedqDMn5r) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [It's Art](https://open.spotify.com/album/0TXieMHWSUKWzlnOuBDGtA) | 1:49 | 2022-07-27 | 2022-09-15 |
 | [It's in Your Heart Now](https://open.spotify.com/track/5X1yiohWRv7RfGzjKz8XyN) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 6:55 | 2022-06-29 | 2022-08-11 |
 | [Ivory](https://open.spotify.com/track/01lA7LzLNOtMugU03L6yiS) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Ivory](https://open.spotify.com/album/1v30M9fQVZntSi3Gz0eSUs) | 3:51 | 2022-06-08 | 2022-06-23 |
+| [I’m Not My Season](https://open.spotify.com/track/2U48shTX8FoiDa3tNMRlKt) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Time in a Bottle / I’m Not My Season](https://open.spotify.com/album/1jD8MNqELrC0uNWhNLhF9E) | 3:15 | 2022-12-06 |  |
 | [Karaoke](https://open.spotify.com/track/4WCPrvhloByVBtR0A9hqoo) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Karaoke](https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ) | 3:41 | 2022-07-27 | 2022-09-15 |
 | [Key To The City](https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Key To The City](https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L) | 3:40 | 2022-09-06 | 2022-10-21 |
 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-12 | 2022-10-21 |
@@ -256,6 +257,7 @@
 | [Think Twice](https://open.spotify.com/track/1X21vF21PocqNBsQN6NeB6) | [Tom Emlyn](https://open.spotify.com/artist/4SUeh0VD2ptXpef6PhQoJG) | [News from Nowhere](https://open.spotify.com/album/1Q7rdBFyMCK3YJxJ50uMyz) | 3:49 | 2022-06-08 | 2022-07-14 |
 | [This Is A Song About My Ex \- 2018](https://open.spotify.com/track/33662tWpqmbP4DkaGjYJVa) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Rough Trade Super\-Disc](https://open.spotify.com/album/40oTuUuDxcivKZ1AbL3wME) | 1:20 | 2022-11-23 |  |
 | [Three](https://open.spotify.com/track/68NykMHjSarYgyeITh8ndv) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Three](https://open.spotify.com/album/6FtL6SZ6iYFoqkEb7AwEiO) | 6:12 | 2022-08-24 | 2022-09-29 |
+| [Time in a Bottle](https://open.spotify.com/track/5rhbgHAhy60heWfXCrUmHP) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Time in a Bottle / I’m Not My Season](https://open.spotify.com/album/1jD8MNqELrC0uNWhNLhF9E) | 2:56 | 2022-12-06 |  |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-10-06 | 2022-11-10 |
 | [To Repel Ghosts](https://open.spotify.com/track/2mkZJYJmjrLYFEWn7q5kLx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [To Repel Ghosts](https://open.spotify.com/album/06B3ihAJGFAeMbpAOJWtQn) | 3:26 | 2022-11-02 |  |
 | [to you tonight](https://open.spotify.com/track/1P04sIZeFEFMCmxobEZJTj) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [to you tonight](https://open.spotify.com/album/07K6wKRrrRZIQMnElIeBi0) | 3:30 | 2022-11-16 |  |

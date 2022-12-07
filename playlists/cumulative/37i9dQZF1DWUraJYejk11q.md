@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-197 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+198 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 | 2022-07-15 |  |
 | [El Cielo No Es De Nadie \- Nicola Cruz Remix](https://open.spotify.com/track/1AYNybF4aDP5GqR2ipgduu) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [HeForShe x femme culture Vol\. 4.4](https://open.spotify.com/album/4TShguBGbouja17wVW7POA) | 4:59 | 2022-04-23 | 2022-06-08 |
 | [Elephant Kiosk](https://open.spotify.com/track/59KTmXF4YBZnwLOJ1iFZ2u) | [Icarus](https://open.spotify.com/artist/0PDSR92MSuuyre6j9ngj7z) | [Misfits](https://open.spotify.com/album/0Nb2RaaxjnCY3uDViyaIky) | 6:10 | 2021-10-15 | 2022-01-20 |
-| [Endless Love](https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [Endless Love](https://open.spotify.com/album/3kVn6aEV0Rmz5nUg4Ws1vw) | 2:59 | 2022-09-21 |  |
+| [Endless Love](https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [Endless Love](https://open.spotify.com/album/3kVn6aEV0Rmz5nUg4Ws1vw) | 2:59 | 2022-09-21 | 2022-12-07 |
 | [Endongo](https://open.spotify.com/track/4HJZxDr6ZL2qtYtrTD6V0M) | [Nihiloxica](https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL) | [Nihiloxica](https://open.spotify.com/album/5bJXJrJ6lJcdhXrdphNYhe) | 6:25 | 2022-01-18 | 2022-04-07 |
 | [Escape Pod](https://open.spotify.com/track/2u5SDqMeGdaij0DT5nGrz5) | [тпсб](https://open.spotify.com/artist/3Az7iIfwbhNRg8nB6cep4k) | [Laika's Revenge](https://open.spotify.com/album/5C1ZuUWPiIohp86npG2tMD) | 9:11 | 2021-10-15 | 2022-02-10 |
 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 | 2021-10-15 | 2022-01-20 |
@@ -183,6 +183,7 @@
 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 | 2022-03-18 |  |
 | [uja end](https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [lexicon](https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9) | 4:53 | 2022-07-28 |  |
 | [Understanding the Possibility](https://open.spotify.com/track/6IjuLWPRLmCYsfZIajtALJ) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Understanding the Possibility](https://open.spotify.com/album/7qJjc1XYydl2r6I6RogrB9) | 4:33 | 2021-10-15 | 2022-01-12 |
+| [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 | 2022-12-07 |  |
 | [Untamed](https://open.spotify.com/track/0nXmuvxU73PMUPkTw0k9ot) | [Kasztan](https://open.spotify.com/artist/3BEaofPMIG8RjlhTXbYlmE) | [Rare\-Earth Elements](https://open.spotify.com/album/0dkgFnFbidtXVdpPIKGjfY) | 5:01 | 2021-10-15 | 2022-01-12 |
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 |  |
 | [Vibrations on a String](https://open.spotify.com/track/6UdhadB8RTc9cVGIljWdqv) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 6:09 | 2021-10-15 | 2022-01-20 |

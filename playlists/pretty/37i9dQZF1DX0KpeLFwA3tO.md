@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Against The Current
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,523 likes - 120 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,592 likes - 120 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 9 | [In The Flesh](https://open.spotify.com/track/7h3XDCvLUgYt2t4DEf96Ro) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [In The Flesh](https://open.spotify.com/album/4COHHNiG8j5AoJ0a8fVpl6) | 2:00 |
 | 10 | [Careful What You Wish For](https://open.spotify.com/track/24GmNDtSfBxsgZIRDw1dEF) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv) | [Careful What You Wish For](https://open.spotify.com/album/47vIr5tIpN1x7cTguVIr2v) | 1:10 |
 | 11 | [Paranoia](https://open.spotify.com/track/4CBwPd42MO6cwnvTeqpjcb) | [Errorr](https://open.spotify.com/artist/1wVtzjX6YlqkRrdTEDyaRr) | [Paranoia](https://open.spotify.com/album/57OMKvNXgawAHDb011oLTs) | 3:03 |
-| 12 | [Late Bloom \- Bonus track](https://open.spotify.com/track/4dEjfHLUW3ZbiXmNFQiVUv) | [Sudden Waves](https://open.spotify.com/artist/3fA5EcbKHHdkbXE9VEHAsY) | [COURTSIDE // SHOWDOWN](https://open.spotify.com/album/4Bpx3LoeF1XyZlypMS3q8o) | 3:18 |
+| 12 | [Late Bloom \(bonus track\)](https://open.spotify.com/track/4dEjfHLUW3ZbiXmNFQiVUv) | [Sudden Waves](https://open.spotify.com/artist/3fA5EcbKHHdkbXE9VEHAsY) | [COURTSIDE // SHOWDOWN](https://open.spotify.com/album/4Bpx3LoeF1XyZlypMS3q8o) | 3:18 |
 | 13 | [Fingers Crossed](https://open.spotify.com/track/6uMBHrI30mRTEyoQUdCQC8) | [Wasei](https://open.spotify.com/artist/2W5sjekTGhfXtkcADiqq48) | [Fingers Crossed](https://open.spotify.com/album/0MsHJuzx2fbtxr3vb0as43) | 1:31 |
 | 14 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 |
 | 15 | [Take the Ride](https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Take the Ride](https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX) | 2:58 |

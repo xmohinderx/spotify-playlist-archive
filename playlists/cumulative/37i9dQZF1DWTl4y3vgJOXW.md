@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-363 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
+364 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/4ErUvcpZdUGk4GTDxGrgwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 | 2022-06-24 |  |
 | [March Madness](https://open.spotify.com/track/6hVGw7yVUd2bpdHMPCWrtN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [March Madness](https://open.spotify.com/album/17jrvK2s43hnAYpays9tyb) | 4:04 | 2021-09-02 | 2022-07-29 |
 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 | 2021-09-02 |  |
-| [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/03hyZKbj9GWZXD8jALwJA3) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 2:54 | 2022-12-02 |  |
+| [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/03hyZKbj9GWZXD8jALwJA3) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 2:54 | 2022-12-02 | 2022-12-07 |
+| [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:54 | 2022-12-02 |  |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2021-09-02 |  |
 | [Middle of It \(feat\. Vory\)](https://open.spotify.com/track/7pAx4fG3EJzPyZkqPVvy4n) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [QUARANTINE PACK](https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2) | 3:26 | 2021-09-02 | 2022-06-25 |
 | [Millidelphia \(feat\. Swizz Beatz\)](https://open.spotify.com/track/1dQ84P0W0lOckT02lPEhhP) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:35 | 2021-09-02 | 2022-06-25 |

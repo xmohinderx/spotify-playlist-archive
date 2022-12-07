@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Hx1xrkC8KHm5UrNq9oCWi">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 59 | [13 Months of Sunshine](https://open.spotify.com/track/16ISIfafspiGHjPH7EZmJe) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:27 |
 | 60 | [Wasting Time](https://open.spotify.com/track/5bKVgdkF1rcrHlWnlphL3P) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 1:44 |
 | 61 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 |
-| 62 | [Fuck It Tho](https://open.spotify.com/track/3P1LCtIyz5HH8ZmIv80qe3) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/7vjgXhtKKst7WM0YAvkll5) | 3:14 |
-| 63 | [Whatta Night](https://open.spotify.com/track/5s9Mej8j5JhpoD6IAWDM9e) | [Ricky J](https://open.spotify.com/artist/4p1VIazDqCs6DKQndCEg1A) | [Whatta Night](https://open.spotify.com/album/2iYs3FFkrQrVjw4tSfFKlg) | 3:41 |
+| 62 | [Whatta Night](https://open.spotify.com/track/5s9Mej8j5JhpoD6IAWDM9e) | [Ricky J](https://open.spotify.com/artist/4p1VIazDqCs6DKQndCEg1A) | [Whatta Night](https://open.spotify.com/album/2iYs3FFkrQrVjw4tSfFKlg) | 3:41 |
+| 63 | [Fuck It Tho](https://open.spotify.com/track/3P1LCtIyz5HH8ZmIv80qe3) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/7vjgXhtKKst7WM0YAvkll5) | 3:14 |
 | 64 | [Act Right](https://open.spotify.com/track/4o6IOdfo5PGPwvjmkHQkfd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:46 |
 | 65 | [Cheap Liquor](https://open.spotify.com/track/42oi5SgSne2Wvt3dkiX4pu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 1:59 |
 | 66 | [Nonchalant](https://open.spotify.com/track/1bFkegc1VrmfYl26qeTWAl) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 1:27 |
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 70 | [Karma](https://open.spotify.com/track/3oLlAxTV7jqyAJXkJQY0BH) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Turbulence](https://open.spotify.com/album/7wXpocSgedCQoIqSGHLBF5) | 3:22 |
 | 71 | [Goodbye \(Don't Let It Be\)](https://open.spotify.com/track/3yE43kf47CzwMuzac6T1Ph) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Like the Ocean](https://open.spotify.com/album/2VWhW9hgxBZFzNcZPGBHYz) | 3:54 |
 | 72 | [Like the Ocean](https://open.spotify.com/track/7GbG4mglvSKF4x2nvu0x3d) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Like the Ocean \(Bonus Track Version\)](https://open.spotify.com/album/2NGuIhojAw7wvjuhJKGCWi) | 3:24 |
-| 73 | [Baby Ya Right](https://open.spotify.com/track/4E3V9P9zAQreNDcVy7SI65) | [Lukay](https://open.spotify.com/artist/7McTi9RqgxownB25kiyNPt) | [Melting Pot](https://open.spotify.com/album/7xPnEfJEGoFMwshyGbqi54) | 3:55 |
-| 74 | [Tell The World](https://open.spotify.com/track/4T5ZHiswsAfcnISctw4uTW) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [Two](https://open.spotify.com/album/0d4qbYdDgwYRrFlSeOFLXR) | 3:22 |
+| 73 | [Tell The World](https://open.spotify.com/track/4T5ZHiswsAfcnISctw4uTW) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [Two](https://open.spotify.com/album/0d4qbYdDgwYRrFlSeOFLXR) | 3:22 |
+| 74 | [Baby Ya Right](https://open.spotify.com/track/4E3V9P9zAQreNDcVy7SI65) | [Lukay](https://open.spotify.com/artist/7McTi9RqgxownB25kiyNPt) | [Melting Pot](https://open.spotify.com/album/7xPnEfJEGoFMwshyGbqi54) | 3:55 |
 | 75 | [Connected](https://open.spotify.com/track/3AHaT1WvmVdTyy9imtkW6o) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Finally Free](https://open.spotify.com/album/0PimgHIJe4nDDS8CBmPGzC) | 3:17 |
 | 76 | [Numb](https://open.spotify.com/track/5gLBiHrm9NnOYUJQPf7alm) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Nightlife](https://open.spotify.com/album/7gs3rS7OKAyqWia7njEy1K) | 4:03 |
 | 77 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 78 | [Like the Ocean](https://open.spotify.com/track/60QQcUiVLsyYEHqNnDyZdX) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Manhattan Records Presents "The Hits" \[Vol.2 \(mixed by DJ TAKU\)\]](https://open.spotify.com/album/00oKx39MIe4ioCBDFur4aD) | 2:12 |
 
-Snapshot ID: `Mjc4MzgxNDcsMDAwMDAwMDAyNThhNGMxYmE5NTcwNzY5OTFmODRlY2RkYmY0YTE3MQ==`
+Snapshot ID: `Mjc4Mzk1ODcsMDAwMDAwMDBmYTJkMDVjMzZkMWFhYWI2ZWUxMTY5ZjdmNjA2Y2E4Yg==`

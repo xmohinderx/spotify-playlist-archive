@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。©︎THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 75 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,562 likes - 75 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 22 | [Not Alone](https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5) | [C.FIRST](https://open.spotify.com/artist/601o8klLY0Bsm1YIbVggfL) | [THE IDOLM@STER SideM GROWING SIGN@L 02 C.FIRST](https://open.spotify.com/album/5OvSepSC3wL0Ok1sBzPNHt) | 4:07 |
 | 23 | [STARLIGHT CELEBRATE!](https://open.spotify.com/track/6BcEDkvnAuVpfZGGnaNlTu) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM ST@RTING LINE\-02 DRAMATIC STARS](https://open.spotify.com/album/0dUz5C62qxJ4wy9Ua0IWSE) | 4:52 |
 | 24 | [TOMORROW DIAMOND](https://open.spotify.com/track/7aindbhwthgO902KSrneGw) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9) | [THE IDOLM@STER SideM ANIMATION PROJECT 02 TOMORROW DIAMOND](https://open.spotify.com/album/1Z04uyUlHNIhMyDveIRpO8) | 4:47 |
-| 25 | [From Teacher To Future!](https://open.spotify.com/track/27IGmZd8J6xtVV1EQPXYnY) | [S.E.M](https://open.spotify.com/artist/16f65kX5QJikhy2xfRMHq1) | [THE IDOLM@STER SideM ANIMATION PROJECT 03 From Teacher To Future!](https://open.spotify.com/album/5FzHaof7dUEZamIot9wQGu) | 4:34 |
+| 25 | [From Teacher To Future!](https://open.spotify.com/track/27IGmZd8J6xtVV1EQPXYnY) | [S.E.M](https://open.spotify.com/artist/2rRW55iTrkvKneHg2zMmbc) | [THE IDOLM@STER SideM ANIMATION PROJECT 03 From Teacher To Future!](https://open.spotify.com/album/5FzHaof7dUEZamIot9wQGu) | 4:34 |
 | 26 | [AFTER THE RAIN](https://open.spotify.com/track/2OMrofW5BOLUkOZEldpwtw) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM ANIMATION PROJECT 04 AFTER THE RAIN](https://open.spotify.com/album/2fdK6oeaJbSew1PUJkIe4u) | 4:48 |
 | 27 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/3WUFcsxh7BnxTMu4n7Qbay) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
 | 28 | [流星PARADE](https://open.spotify.com/track/7tbKELqHnlPuUYwTZvFZ3o) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43), [S.E.M](https://open.spotify.com/artist/16f65kX5QJikhy2xfRMHq1), [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!](https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG) | 4:33 |

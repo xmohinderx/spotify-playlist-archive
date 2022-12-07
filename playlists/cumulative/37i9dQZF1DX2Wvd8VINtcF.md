@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-199 songs - 11 hr 11 min - not published yet
+200 songs - 11 hr 14 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [CIA](https://open.spotify.com/track/2BW0B7PbTW0tXGYFCRnOJU) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:56 | 2022-10-28 | 2022-11-11 |
 | [Cloudberries](https://open.spotify.com/track/7orvwHvLtMwbNoIkUImAlv) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Cloudberries](https://open.spotify.com/album/6oT4sWuRG9UHDHA9zNWjKb) | 2:52 | 2022-11-24 | 2022-12-02 |
 | [cool \- Gökhan Sivri​ Remix](https://open.spotify.com/track/5xbgT1sqx35SryjuTx64sS) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Gökhan Sivri](https://open.spotify.com/artist/1oHy1Xu1zmxsNf4mPkYXAb) | [cool \(Remix Edition\)](https://open.spotify.com/album/1w4ePmEnMSHnktzcwBhqaR) | 3:14 | 2022-11-10 |  |
-| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-01 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-01 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-01 | 2022-12-07 |
 | [cursive](https://open.spotify.com/track/6pckcHCsndTKLy8Y1TPuq8) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:13 | 2022-11-03 | 2022-11-18 |
 | [Dancing On My Grave](https://open.spotify.com/track/5X0z2b3zrMJ6m7KT87Oyze) | [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [Dancing On My Grave](https://open.spotify.com/album/2fLaEX7vBURZSWHghHdpJb) | 3:19 | 2022-10-28 |  |
 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 | 2022-10-28 |  |

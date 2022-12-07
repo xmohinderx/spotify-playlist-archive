@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: November Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,811 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,352 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [When She's Gone](https://open.spotify.com/track/4vJfsc95OA87AhNghRsVHo) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [When She's Gone](https://open.spotify.com/album/76qqQq9zbjxdCDWfKMps1D) | 3:29 |
 | 50 | [La vieille maison](https://open.spotify.com/track/2VeWiX4VpEh5FlSqAI8ZxH) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [La vieille maison](https://open.spotify.com/album/7zROrFoCzMu9OVTEEFVAia) | 3:07 |
 
-Snapshot ID: `MTY2OTkzNTY2MCwwMDAwMDAwMGQ1NTRiZjcxOGFjMjNkYjZjZTZjMmQ1NGE5ODU3MmRh`
+Snapshot ID: `MTY3MDM0MDg0OCwwMDAwMDAwMDBlMjdhNjgwY2Q5ZWFlNTFhZTNhOTRkYzZlMGVjN2Zi`

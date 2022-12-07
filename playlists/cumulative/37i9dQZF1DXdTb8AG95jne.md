@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: it's\(이츠\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-518 songs - 1 day 7 hr 42 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+520 songs - 1 day 7 hr 50 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [One Another](https://open.spotify.com/track/189vi3KtFMw8bH2dKiXtD1) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [One Another](https://open.spotify.com/album/1NsVlv4D9l1GHn6nXOzAiz) | 4:16 | 2021-12-21 | 2022-07-28 |
 | [One another \- 2020](https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [One another \(2020\)](https://open.spotify.com/album/2bxPT0H1Dxyp0TIvjV5aP7) | 3:26 | 2021-12-12 | 2022-07-16 |
 | [Only Ones Left in this World](https://open.spotify.com/track/0fhHQODEITI549NaUWqJDx) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Only Ones Left in this World](https://open.spotify.com/album/11TsV6N3xprEZVKo4haCMX) | 3:21 | 2022-09-05 | 2022-09-21 |
-| [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 | 2021-12-12 |  |
+| [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 | 2021-12-12 | 2022-12-07 |
 | [Ore Ore](https://open.spotify.com/track/117iiDCER0g58tWunlfR57) | [Se.A](https://open.spotify.com/artist/68Jz1SO82dTTPJyfdg6MBp) | [Ore Ore](https://open.spotify.com/album/3ylsJVPXRGtb5PQhSyjjGo) | 2:44 | 2022-03-31 | 2022-07-07 |
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-21 |
 | [Over and Over](https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [Over and Over](https://open.spotify.com/album/3NkbXALAlXHCwTZhx35wVm) | 3:23 | 2021-12-21 | 2022-07-10 |
@@ -367,6 +367,7 @@
 | [Rather Go Blind](https://open.spotify.com/track/7rBO40xtZaRkpxXKnEQa26) | [ZAYSTIN](https://open.spotify.com/artist/7BQgVJEUzCUX8Q2KZDgrH8) | [Rather Go Blind](https://open.spotify.com/album/6XAmqfdbVy1lpNqMppNg7m) | 3:58 | 2022-03-31 | 2022-04-08 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-12-21 |  |
 | [Red Lines](https://open.spotify.com/track/1YJ5G3mdv6Bps9XhbIv89E) | [Pony](https://open.spotify.com/artist/4Lxb5bo6TR7l8QL8UxDdd6), [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [The Pacific Ocean 태평양](https://open.spotify.com/album/21CrO1TGS7e9tTuRzaOiqX) | 2:41 | 2022-03-31 | 2022-04-19 |
+| [red moon](https://open.spotify.com/track/7000j12fd01Z1ITmTZLqPZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [red moon](https://open.spotify.com/album/7APF2jKLoT8nUp8hUnq1eq) | 4:18 | 2022-12-06 |  |
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2021-12-12 | 2022-05-16 |
 | [reminiscence](https://open.spotify.com/track/2KAtg9W0pKiJh94jaQ5jDT) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [reminiscence](https://open.spotify.com/album/472g6HVeObaEweJ5RyNRtX) | 4:52 | 2021-12-21 | 2022-05-19 |
 | [Reminisces of A 10\-year\-old Journal](https://open.spotify.com/track/5uXV40HNeBMOvz7v3g6I5w) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Eco Bridge](https://open.spotify.com/artist/7yBoreZbMa2ljEwG76ZmNp) | [The Way You Keep Friendship \- SSaW Tribute Vol.5](https://open.spotify.com/album/10chjryncMprk7PAjttH67) | 4:36 | 2022-03-31 | 2022-04-19 |
@@ -474,7 +475,7 @@
 | [warm enough](https://open.spotify.com/track/1AWvxjDVBvkhpaiO1UAKoT) | [xxiuk](https://open.spotify.com/artist/3bUokI8BPDRTAMg4YNRuLT) | [warm enough](https://open.spotify.com/album/1XHKm77AfJKs7h4jXR9Enr) | 3:36 | 2022-03-31 | 2022-04-17 |
 | [WATER](https://open.spotify.com/track/6EIShxhgO0xfGx4wQ0zzPL) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [PRISM](https://open.spotify.com/album/4ob0pdaU2exF0jD5QST4oU) | 4:46 | 2022-03-31 | 2022-06-06 |
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-31 | 2022-04-03 |
-| [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 |  |
+| [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 | 2022-12-07 |
 | [Wedding diary 신혼일기](https://open.spotify.com/track/0mT5mNsNgqlOovlJRE4I4F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Wedding diary 신혼일기](https://open.spotify.com/album/54g9wr8FNNiOCSgtQMqwnZ) | 3:23 | 2022-03-31 | 2022-04-18 |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-03-18 | 2022-04-16 |
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-04-12 | 2022-04-20 |
@@ -526,5 +527,6 @@
 | [오키나와 Okinawa](https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [오키나와 Okinawa](https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M) | 5:48 | 2021-12-12 | 2022-07-29 |
 | [잊고 살았던 것들](https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [잊고 살았던 것들](https://open.spotify.com/album/3ntu3EDxTwnlUKnglHiUlh) | 3:06 | 2022-03-03 | 2022-06-10 |
 | [포말 Acid Rain](https://open.spotify.com/track/1Ch8Wjmw92ijwDidEO28Mz) | [SHIRTS BOY FRANK](https://open.spotify.com/artist/1v9klSxIYqwmZIHnQ6a1Wk) | [아무도 모르게 피어난 Blooms](https://open.spotify.com/album/1MvUUp1QPeATh9UUUZNVvF) | 2:59 | 2022-03-31 | 2022-04-16 |
+| [황홀한 실종 The Marvelous Absence](https://open.spotify.com/track/1OZkopZBHTl2a68prXyEmJ) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [황홀한 실종 The Marvelous Absence](https://open.spotify.com/album/0En1BFq5Q0eFCw1W3zfluw) | 3:02 | 2022-12-06 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

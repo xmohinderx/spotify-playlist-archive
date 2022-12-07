@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 202506,
       "name": "Borderland",
       "url": "https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen"
@@ -255,10 +255,28 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 220466,
       "name": "Close to you",
       "url": "https://open.spotify.com/track/02QcM5pBEymkl6gXb4RHex"
+    },
+    {
+      "album": {
+        "name": "Corners",
+        "url": "https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb"
     },
     {
       "album": {
@@ -450,6 +468,24 @@
     },
     {
       "album": {
+        "name": "grace",
+        "url": "https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3"
+      },
+      "artists": [
+        {
+          "name": "Nezumi Coo",
+          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "grace",
+      "url": "https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ"
+    },
+    {
+      "album": {
         "name": "from here to there",
         "url": "https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU"
       },
@@ -577,7 +613,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 170880,
       "name": "Hi Lo",
       "url": "https://open.spotify.com/track/2PsZC2AKstvrAVa3VMWzWX"
@@ -599,6 +635,24 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "album": {
+        "name": "I Built A Friend (2020)",
+        "url": "https://open.spotify.com/album/31s5CRYvua6xU9c2n7H8PJ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176693,
+      "name": "I Built A Friend (2020)",
+      "url": "https://open.spotify.com/track/68XhCrBajUR64h6wv4eYYW"
     },
     {
       "album": {
@@ -657,6 +711,24 @@
       "duration_ms": 223026,
       "name": "I Miss My Friends (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
+    },
+    {
+      "album": {
+        "name": "I'm Not In Love (Edit)",
+        "url": "https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz"
+      },
+      "artists": [
+        {
+          "name": "Monique Klemann",
+          "url": "https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205095,
+      "name": "I'm Not In Love - Edit",
+      "url": "https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3"
     },
     {
       "album": {
@@ -830,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Know.",
+        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245186,
+      "name": "Let's See What The Night Can Do",
+      "url": "https://open.spotify.com/track/3dglCYsVMjPbDlU2CC9Vq7"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
       },
@@ -859,7 +949,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 223846,
       "name": "Lights Down Low",
       "url": "https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f"
@@ -1025,10 +1115,28 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 367773,
       "name": "Old Note",
       "url": "https://open.spotify.com/track/0K3HWnhWB2EWCy2rPeCPFW"
+    },
+    {
+      "album": {
+        "name": "Old School (Acoustic)",
+        "url": "https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5"
+      },
+      "artists": [
+        {
+          "name": "Josie Dunne",
+          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216007,
+      "name": "Old School - Acoustic",
+      "url": "https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh"
     },
     {
       "album": {
@@ -1101,7 +1209,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 184660,
       "name": "Problems of Us",
       "url": "https://open.spotify.com/track/34nEMJEtyAwbrbD9RHtL0f"
@@ -1137,7 +1245,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 410761,
       "name": "Quai",
       "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
@@ -1180,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Pink Balloon / Sea Lions",
+        "url": "https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319480,
+      "name": "Sea Lions",
+      "url": "https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj"
+    },
+    {
+      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -1213,6 +1339,24 @@
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "album": {
+        "name": "Chase After",
+        "url": "https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213426,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/2O2bw4CwYnvPuOAH5RVlDF"
     },
     {
       "album": {
@@ -1324,6 +1468,28 @@
     },
     {
       "album": {
+        "name": "You're The Man",
+        "url": "https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "Symphony - SalaAM ReMi LP Mix",
+      "url": "https://open.spotify.com/track/5Wgoa3syX7zZvFoIIhR1US"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/6miL71NzGTRCH5BOW4SO3R"
       },
@@ -1335,7 +1501,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 278290,
       "name": "Talk",
       "url": "https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99"
@@ -1353,7 +1519,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 303545,
       "name": "Temple Fair",
       "url": "https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG"
@@ -1441,7 +1607,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 242212,
       "name": "The Keeper [Feat. Alain Johannes]",
       "url": "https://open.spotify.com/track/5wvC1JgIX0xdDG7CB95VMh"
@@ -1513,7 +1679,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 80245,
       "name": "This Is A Song About My Ex - 2018",
       "url": "https://open.spotify.com/track/33662tWpqmbP4DkaGjYJVa"
@@ -1571,6 +1737,24 @@
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+    },
+    {
+      "album": {
+        "name": "Vincent",
+        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223560,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
     },
     {
       "album": {
@@ -1694,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Therfu",
+        "url": "https://open.spotify.com/album/1ruMmXTfZ5PZjZdDy6GeUc"
+      },
+      "artists": [
+        {
+          "name": "Turley Richards",
+          "url": "https://open.spotify.com/artist/7p1G13q6CeIPXLf7yhPN9e"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/0ojCFgI78aJ33qskR7WpYx"
+    },
+    {
+      "album": {
         "name": "You Might Not Like Her",
         "url": "https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF"
       },
@@ -1705,10 +1907,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 202693,
       "name": "You Might Not Like Her",
       "url": "https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB"
+    },
+    {
+      "album": {
+        "name": "Love Will Find A Way",
+        "url": "https://open.spotify.com/album/58ZQBOe0sMe9ZpPKgjDR9p"
+      },
+      "artists": [
+        {
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290133,
+      "name": "You're Everything",
+      "url": "https://open.spotify.com/track/676yPpKx9leVQWf5vFSvS7"
     },
     {
       "album": {
@@ -1723,7 +1943,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 249103,
       "name": "\u3055\u3044\u3054\u306f\u982c\u5f35\u308d\u3046",
       "url": "https://open.spotify.com/track/0kr9VZT0MtuIfa38PF35ph"
@@ -1781,7 +2001,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 183386,
       "name": "\u5098",
       "url": "https://open.spotify.com/track/20vsE9x63o1JUlMbU2qZ3O"

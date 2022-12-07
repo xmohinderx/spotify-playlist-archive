@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-560 songs - 1 day 10 hr 14 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+561 songs - 1 day 10 hr 16 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 | 2020-10-05\* | 2022-04-19 |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2020-10-16 | 2022-04-17 |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-03-07 | 2022-04-19 |
+| [ANECDOTE](https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8) | [DEPRESSED BUT MAKE IT COOL](https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0) | 2:01 | 2022-12-06 |  |
 | [Angelina](https://open.spotify.com/track/5ZSSP4DA2iRTmKUQr7qicB) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Angelina](https://open.spotify.com/album/3gJQkqLEaJshEGIm3VK3Ea) | 3:24 | 2021-07-19 | 2022-07-29 |
 | [Another Lover](https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 4:26 | 2022-06-01 |  |
 | [Anymore](https://open.spotify.com/track/2MRPzUotcGDw5FN8MpTLTM) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Rhymes & Rhythms](https://open.spotify.com/album/5f5QEuCZYoDLIZTL03qk4m) | 4:07 | 2021-08-27 | 2022-05-26 |
@@ -172,7 +173,7 @@
 | [Eastside](https://open.spotify.com/track/7MTmPkKezlfu5imj1irLpH) | [DAISY](https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq) | [Eastside](https://open.spotify.com/album/3hHlsvOtGLxPdL0XJDQ1dM) | 5:34 | 2021-10-08 | 2022-05-12 |
 | [ELECTRICITY](https://open.spotify.com/track/45evb9qLvaZipMbpwIz9eN) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [ELECTRICITY](https://open.spotify.com/album/335otQsODkCfcukSFGUYoG) | 3:30 | 2021-07-19 | 2022-04-09 |
 | [End Summer](https://open.spotify.com/track/1OQEF0LsL7KMQmBZSiUcdE) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Mt\. Bachelor](https://open.spotify.com/album/5bFaZT8zirGQc0VmiL3uty) | 4:30 | 2020-10-05\* | 2022-05-24 |
-| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-19 |  |
+| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 |  |
 | [Estrangers](https://open.spotify.com/track/1yZxKqkxctrFSkCXb8BLKV) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Estrangers](https://open.spotify.com/album/1rAPIqo0fRO0QiBiBLpmvS) | 3:19 | 2020-10-05\* |  |
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2022-06-01 |  |
 | [Eventually](https://open.spotify.com/track/4IwbqQGvPYSJBSK5HhuPnF) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Eventually](https://open.spotify.com/album/6sVYppY4S9GYbjqU45jgsZ) | 2:41 | 2021-06-04 | 2022-04-03 |
@@ -381,7 +382,7 @@
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |
 | [On Ice](https://open.spotify.com/track/4GgIUzrjuTFQ00C2jGKIRr) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [On Ice](https://open.spotify.com/album/24TVy5RXnynUdVAhiCA2VS) | 2:47 | 2020-10-20 | 2022-06-01 |
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2021-09-10 | 2022-04-21 |
-| [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-21 |  |
+| [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-18 |  |
 | [One Trick Ponies](https://open.spotify.com/track/3NARYtRUkQEU6KCd9OgEfq) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 5:21 | 2020-10-06 | 2022-04-20 |
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2020-10-21 | 2022-04-12 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-03-07 | 2022-07-27 |
@@ -489,7 +490,7 @@
 | [The Night](https://open.spotify.com/track/3DDweM5gUHTpgAnWtWV9cJ) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [All in the Value](https://open.spotify.com/album/0oSo6YkoV8uhWzya7MLXis) | 5:01 | 2020-10-16 | 2022-04-21 |
 | [The One to Wait](https://open.spotify.com/track/3MPFzBWdqwaAeCSQpA7Ift) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/14h7FxQqVYilWuR8adP09G) | 6:33 | 2020-10-05\* | 2021-05-24 |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-25 | 2022-11-19 |
-| [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 | 2020-10-16 |  |
+| [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 | 2020-10-16 | 2022-12-07 |
 | [The Way Things Change](https://open.spotify.com/track/1kLXQonNqsJxCPFkUet3pV) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [The Way Things Change](https://open.spotify.com/album/3SaySnFE2GUU02BsUcfTIx) | 4:08 | 2021-03-14 | 2022-11-13 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2020-10-16 | 2022-11-09 |
 | [There Must Be a Song Like You](https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [There Must Be a Song Like You](https://open.spotify.com/album/2ewZt2tyRkCtIU3vczO5ST) | 4:50 | 2021-11-19 | 2022-07-27 |

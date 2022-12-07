@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: OVAN\(오반\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Han Yo Han x Kim Seungmin\(한요한 x 김승민\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,380 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,543 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Celebrate](https://open.spotify.com/track/668qGPFc6wHY9RBP5gwGUy) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Star](https://open.spotify.com/album/1brcpHqPe9vSLjy4mpl7zh) | 3:17 |
+| 1 | [Part Of Her](https://open.spotify.com/track/4tEbrFRsptk67AYGcukhfV) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Part Of Her](https://open.spotify.com/album/7vB2MHaKcd4DNW6BgwDDAr) | 3:01 |
 | 2 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 |
 | 3 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:04 |
 | 4 | [Bucket List \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0ZUa8tF0zbGNvnST6xKHUg) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Time Machine](https://open.spotify.com/album/5zKdvQXlzgQfpHtfinxUgZ) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [Fragile \(Prod\. Dayrick\)](https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:44 |
 | 100 | [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 |
 
-Snapshot ID: `MTY2OTEwNzk1MCwwMDAwMDAwMGEyOTE4NmMyM2Q5MzZhNGQ5MzE3ZDY4MzUyZDIwZDM0`
+Snapshot ID: `MTY3MDMxNDU1NCwwMDAwMDAwMDA3M2FhMmMzNGY3Mzk5NjJmZjM0MTlkNDY1Zjg5M2Zk`

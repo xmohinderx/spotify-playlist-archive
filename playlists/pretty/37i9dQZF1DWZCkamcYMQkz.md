@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,306 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,437 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [You Make Me Feel so Young](https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor](https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD) | 2:51 |
 | 100 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 
-Snapshot ID: `MTY2OTE4OTgyMywwMDAwMDAwMGE2ZTA5YWY2ZTViZDYxZjk1N2FlOWM0NzkwMzJlNDBi`
+Snapshot ID: `MTY3MDMzNTkxMSwwMDAwMDAwMGNjOTI1N2FhMWU2OWM2OWVmOTRhOGRhOGJjMWQ0OTNm`

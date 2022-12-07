@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Nakkia Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,950 likes - 122 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,288,358 likes - 122 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 29 | [Flowers](https://open.spotify.com/track/0moOYkWq8za1xk0abOjReo) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [The Right Side Of Wrong](https://open.spotify.com/album/3lFc4rFgFOJfSg2YfePfId) | 2:46 |
 | 30 | [Santorini](https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 2:28 |
 | 31 | [P.B.J.](https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [P.B.J.](https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I) | 4:08 |
-| 32 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
+| 32 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/2uD2svsrGQsyfgGIYDld6U) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
 | 33 | [Go](https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Go b/w Fight Club](https://open.spotify.com/album/2ZK0zIydKOHRev4XInpo8r) | 3:26 |
 | 34 | [You Got This](https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF) | [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [enLIGHTened](https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh) | 3:44 |
 | 35 | [Getting Late](https://open.spotify.com/track/4bYTTDFnNbakdU9NX8uMKj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Getting Late](https://open.spotify.com/album/3giodvWWNQIgilwpC9Fxfa) | 2:52 |

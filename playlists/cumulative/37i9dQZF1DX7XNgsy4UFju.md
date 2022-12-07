@@ -2,9 +2,9 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> Home to all the latest indie jams\. Cover: The 1975
+> Home to all the latest indie jams\. Cover: Caroline Polachek
 
-816 songs - 2 day 0 hr 17 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+817 songs - 2 day 0 hr 21 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-01-28 | 2022-02-26 |
 | [Pretenders](https://open.spotify.com/track/3ju40mNCppD9IIBA6Whw61) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Pretenders / Snowy Owl](https://open.spotify.com/album/7pm8B4hEadVF4jkzTRsxum) | 3:01 | 2022-02-18 | 2022-03-26 |
 | [Prism Through Which I Perceive](https://open.spotify.com/track/6gSfTwZnDAXeugVRTjslry) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Prism Through Which I Perceive](https://open.spotify.com/album/2zeDQYKROc3OnqwtdKA04J) | 1:00 | 2022-02-11 | 2022-03-12 |
-| [Problem Child](https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Problem Child](https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC) | 3:42 | 2022-12-02 |  |
+| [Problem Child](https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Problem Child](https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC) | 3:42 | 2022-12-02 | 2022-12-07 |
 | [Pull](https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Pull](https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv) | 3:16 | 2022-10-14 |  |
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-07 | 2022-07-16 |
 | [Puzzled Thought](https://open.spotify.com/track/3oH3wjuNC6VCS9rj50vO81) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [You're The Boss](https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e) | 4:16 | 2022-07-29 | 2022-10-29 |
@@ -785,6 +785,7 @@
 | [Weeds](https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Weeds](https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y) | 3:22 | 2022-07-22 | 2022-07-29 |
 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 | 2022-07-22 | 2022-08-27 |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-08-27 | 2022-12-03 |
+| [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:53 | 2022-12-06 |  |
 | [Wet Cement](https://open.spotify.com/track/5RQcH5zJ6moLeBX3ZA2A0W) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Wet Cement](https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG) | 4:33 | 2022-10-28 |  |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-06-10 | 2022-09-10 |
 | [What About The Kids](https://open.spotify.com/track/156PSLfyznq2AW5wYXJ08v) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [What About The Kids](https://open.spotify.com/album/2DMYA2EswtcSmoXQgHeODP) | 3:37 | 2022-06-10 | 2022-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984,855 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,985,047 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Swept Away](https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Swept Away](https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj) | 6:18 |
 | 100 | [Starlight](https://open.spotify.com/track/4iwNcUIjJQGJSKH2qoez4o) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Starlight](https://open.spotify.com/album/5s5JmTs3Cxg8OkhLxALM0k) | 6:42 |
 
-Snapshot ID: `MTY2OTczMTYxMywwMDAwMDAwMGJlYTZmNjA0M2UzN2RmODU4YjU5YzY4MzFmYjI5MTQ5`
+Snapshot ID: `MTY3MDMzMTY1NywwMDAwMDAwMDBkYzM5ZWVjOTQ1MjEyNDAyNTIyODE0ZTcwNmU2ZTQz`

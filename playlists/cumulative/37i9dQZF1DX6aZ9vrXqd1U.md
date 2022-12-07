@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-204 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
+205 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [THE BEYOND](https://open.spotify.com/track/6dl8M66EcAPoZQATKRi2yp) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:33 | 2022-07-27 |  |
 | [THE BEYOND](https://open.spotify.com/track/40YK0ihNtoog79d9Y9LJf9) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 5:35 | 2022-07-27 | 2022-07-29 |
 | [THE WINNER](https://open.spotify.com/track/2dQh3viWNC3BQnGkuYRton) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/4xQBkieKQeYJxSb0jSnqtc) | 4:09 | 2022-07-27 |  |
+| [The Witch From Mercury](https://open.spotify.com/track/5n3KK6qpusKWwFfLa9G2Vt) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam The Witch From Mercury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7azHYLVupUGLCBcMPCjziy) | 5:00 | 2022-12-06 |  |
 | [Timeless Universe \(feat\. ShishiGami\)](https://open.spotify.com/track/2JmBFM0U6nuW8EQm2lWgaT) | [Powerless](https://open.spotify.com/artist/5utxGGhcP0Xs2NMvLOvXqh), [ShishiGami](https://open.spotify.com/artist/4zOJPXnfVmMPSgBUJHkFwe) | ["SD GUNDAM BATTLE ALLIANCE" Theme Songs](https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv) | 4:29 | 2022-08-25 |  |
 | [TRACER](https://open.spotify.com/track/4bhPNXJUMNKHzvZlPVYYf6) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:22 | 2022-07-27 | 2022-07-29 |
 | [TRACER](https://open.spotify.com/track/5pZNL0ZqBQ9Z8hKPGLtVrl) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack](https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5) | 3:22 | 2022-07-27 |  |

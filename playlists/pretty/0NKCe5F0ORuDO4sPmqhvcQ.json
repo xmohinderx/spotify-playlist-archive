@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21180,
+  "num_followers": 21179,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAxMDIsYWY2ZTNhMzU5NTkzODNhYWMyMDI4ZDZhMTU2YTA5MDA3MTM2NDVhOA==",
+  "snapshot_id": "MTAxMDQsNjNhMDQ0MWMzN2EyNGNhOThlNmI4OWJjMTIwOTQ5OWVhMzI1M2EyYw==",
   "tracks": [
     {
       "added_at": "2022-12-02 16:45:58",
@@ -47,6 +47,22 @@
       "duration_ms": 136933,
       "name": "Amsterdam (Deep Inside)",
       "url": "https://open.spotify.com/track/1vigRz7ggzSPlx3oHZHtSD"
+    },
+    {
+      "added_at": "2022-12-06 22:06:14",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
     },
     {
       "added_at": "2022-11-11 18:17:26",

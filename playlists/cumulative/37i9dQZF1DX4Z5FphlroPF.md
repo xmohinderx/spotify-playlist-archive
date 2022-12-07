@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-32 songs - 1 hr 54 min - not published yet
+33 songs - 1 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [RINGING](https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn) | [Mi Joo Lee](https://open.spotify.com/artist/0aATviqzHMSQHDengVEH74) | [Cheer Up \(Original Soundtrack Part.3\)](https://open.spotify.com/album/5ycHYSK1rnY4YDCPGczxYH) | 3:31 | 2022-10-18 |  |
 | [Runaway Baby](https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 2:28 | 2022-10-04 |  |
 | [Shine](https://open.spotify.com/track/0Rbu97T9gnZiPDJEECkRdK) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.1\)](https://open.spotify.com/album/5g2wV4temcDlhLi9lx0tSm) | 2:17 | 2022-10-04 |  |
+| [STEP](https://open.spotify.com/track/20kZESl2411eCyQ7Sf5Sgi) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.9\)](https://open.spotify.com/album/3tY2H0EStVSnrB9lK8xk1b) | 3:35 | 2022-12-06 |  |
 | [Summer In Love](https://open.spotify.com/track/2GWN9DZzufK8Yo1ahtqZIm) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Summer In Love](https://open.spotify.com/album/6TcySjFEFk3pilszcwNwBA) | 3:55 | 2022-10-04 |  |
 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 | 2022-10-28 |  |
 | [Way to Go](https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:03 | 2022-10-04 |  |

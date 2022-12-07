@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba
 
-512 songs - 1 day 0 hr 46 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+513 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Crazy Phonk \- Remix](https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Phonk MixTape \(Remix\)](https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u) | 1:57 | 2022-10-10 | 2022-11-04 |
 | [Crazy Phonk \- Remix](https://open.spotify.com/track/6LuUTRudM2Q4dgk71PF8Ou) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 1:57 | 2022-11-10 |  |
 | [Crazy Phonk \- Remix \- Slowed](https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 2:10 | 2022-11-03 | 2022-11-13 |
-| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-05 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
 | [cro hat mir gesagt es wird easy](https://open.spotify.com/track/4wEMYoQ284TCWOEeEeL3TD) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [cro hat mir gesagt es wird easy](https://open.spotify.com/album/6hl9RsxvCWtNxnZeGqk0tH) | 3:01 | 2022-07-07 | 2022-09-16 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-10-21 |
 | [Darling](https://open.spotify.com/track/2kQ9udZ0v3H8PFSVmbY1Kq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [PTSD](https://open.spotify.com/album/4dnKBBeSoiEc39sCqItmWk) | 2:23 | 2022-12-01 |  |

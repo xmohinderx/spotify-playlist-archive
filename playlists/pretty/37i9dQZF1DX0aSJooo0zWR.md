@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea & Nino Josele
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,626 likes - 80 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,755 likes - 80 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spain](https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Light As A Feather](https://open.spotify.com/album/2b53ZhXIiCGr3rPTYkpVeF) | 9:50 |
-| 2 | [Galaxias \(Radio Edit\)](https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Galaxias](https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP) | 3:56 |
+| 2 | [Galaxias \(Radio Edit\)](https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Galaxias](https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP) | 3:56 |
 | 3 | [Chicken](https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX), [Peter Lübke](https://open.spotify.com/artist/0YktrlH17JaZBzywJCcNma), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Broadway Blues](https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7) | 5:51 |
 | 4 | [Mirage](https://open.spotify.com/track/4PJOwnZaZec8a7bvt98lvL) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Enigmatic Ocean](https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB) | 4:54 |
 | 5 | [Midnight Rendezvous](https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:38 |

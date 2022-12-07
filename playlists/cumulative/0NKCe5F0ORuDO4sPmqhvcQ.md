@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-359 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+360 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-16 |  |
 | [Lest I Forget](https://open.spotify.com/track/36TSK3QjHHJOcjMEFdtTqw) | [Simon Cress](https://open.spotify.com/artist/1bI3fRB0jBmdtVI5yxUqW1) | [Bloom](https://open.spotify.com/album/6mclW6BfNuFLYWsPceVL3t) | 4:32 | 2021-08-27 | 2022-01-08 |
 | [Let Go](https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Let Go](https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG) | 2:06 | 2022-11-03 |  |
+| [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-06 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Let's Go Dancing](https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR) | 2:54 | 2022-06-24 | 2022-09-19 |
 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 | 2022-01-21 | 2022-02-16 |
 | [Lights Out](https://open.spotify.com/track/6rwhrp7xkm8xTSZOBwIyyv) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF) | [Lights Out](https://open.spotify.com/album/0duIqbe3fyPBpDFDMr2zMv) | 2:06 | 2022-06-24 |  |

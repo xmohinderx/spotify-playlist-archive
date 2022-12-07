@@ -4,7 +4,7 @@
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J?si=hbBoGXfESFOyc9K\_4lq97g">Snotkop</a>
 
-135 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
+136 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/0RKP7WChEoliblztnGqALh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-08-11 | 2022-10-07 |
 | [Liefde Sonder 'n Maar](https://open.spotify.com/track/18fpCH8zf6gnReXzX2A0ST) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [Liefde Sonder 'n Maar](https://open.spotify.com/album/4QFkbKMKOmOwLtqt4FTLUh) | 3:44 | 2022-11-24 |  |
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-11 | 2022-10-07 |
+| [Lig Die Dak](https://open.spotify.com/track/0QulNWI4OfeRIxSBURJxgr) | [Skemer](https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW) | [Lig Die Dak](https://open.spotify.com/album/5YRe8s8smoWsA1eNPtB82k) | 3:31 | 2022-12-01 |  |
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 |  |
 | [Meisie Van Fraserburg](https://open.spotify.com/track/2TwzvxiOUxwC1FGrrzAamc) | [Francois Boyce](https://open.spotify.com/artist/0Hyqs3YkRrCLahzGsb8qk3) | [Meisie van Fraserburg](https://open.spotify.com/album/73e09G7FUYUGzXlktr5I5g) | 3:04 | 2022-09-22 | 2022-10-07 |
 | [Mermaid](https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Mermaid](https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY) | 3:13 | 2022-10-27 | 2022-11-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,453 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,709 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 99 | [I Wish You Love](https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [I Wish You Love](https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY) | 3:05 |
 | 100 | [Behind Me](https://open.spotify.com/track/1iEYkH6B6KKkeElA98faHh) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 6:20 |
 
-Snapshot ID: `MTY2OTc5MjczNiwwMDAwMDAwMDM2OGVmNjFiYTc3MzcyZjhiMmJmMzE5NjY3MDdkYzdm`
+Snapshot ID: `MTY3MDMzNTAzNSwwMDAwMDAwMDllODUwYjZkY2VkYWM4NjcyMDkwOWJmNWQ0NGZiMzE0`

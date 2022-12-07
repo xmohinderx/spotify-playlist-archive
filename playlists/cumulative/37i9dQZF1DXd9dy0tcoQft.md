@@ -4,13 +4,14 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-136 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+137 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/4jeUxze0mlpF0DzpyW8bCp) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [23](https://open.spotify.com/album/6dCV8A0XbZ0gcK6L27Se0o) | 2:58 | 2021-12-16 | 2022-07-18 |
 | [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-12-16 | 2022-08-13 |
 | [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 | 2022-05-20 |  |
+| [ADULTHOOD](https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:43 | 2022-12-06 |  |
 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 | 2022-11-18 |  |
 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/5hKq2P5ZXxwqvQF2oZI07Z) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Ain't Gonna Let You Drown](https://open.spotify.com/album/7IqLkJNfLjylpNdzKNlq3l) | 4:17 | 2022-05-20 | 2022-10-14 |
 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/04Kzi0STDwBvJm58evTrHa) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Ain't Gonna Let You Drown](https://open.spotify.com/album/5r7wkL2bFu44UQYzWCeoND) | 4:17 | 2021-12-16 | 2022-07-28 |
@@ -94,7 +95,7 @@
 | [Right Here Right Now](https://open.spotify.com/track/3nM9q8RTwhKzKbirbnvCG1) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Right Here Right Now](https://open.spotify.com/album/6NmgErgAAHB1IwHfJomNTK) | 3:30 | 2021-12-16 | 2022-07-29 |
 | [Same Girl](https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU) | 3:02 | 2022-05-20 |  |
 | [Same Girl](https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr) | 3:02 | 2021-12-16 | 2022-10-23 |
-| [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 | 2022-11-18 |  |
+| [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 | 2022-11-18 | 2022-12-07 |
 | [Sanctuary](https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Sanctuary](https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E) | 3:04 | 2021-12-16 | 2022-11-23 |
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2021-12-16 |  |
 | [Seven Days of Rain](https://open.spotify.com/track/5P5r3OPbXUMZDMhHuOunv3) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [In Gold EP](https://open.spotify.com/album/49FBsPdTnhNXCeDnetUdmx) | 3:54 | 2021-12-16 | 2022-07-28 |

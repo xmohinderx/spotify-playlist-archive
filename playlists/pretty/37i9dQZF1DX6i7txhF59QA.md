@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Jung Dong Won\(정동원\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,839 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,857 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 71 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 |
 | 72 | [The Farewell Bus Stop](https://open.spotify.com/track/4gJEy8qaW50XFWxW7NLgz4) | [YOOSANSEUL](https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y), [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [The Farewell Bus Stop](https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l) | 3:36 |
 | 73 | [바보 같은 사람](https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [바보 같은 사람](https://open.spotify.com/album/3XrJa2kkNDvkD0LMz7ECve) | 3:48 |
-| 74 | [My Favorite](https://open.spotify.com/track/232we5jmBvvqHDoCEiJEsK) | [Jeong Dong Won](https://open.spotify.com/artist/0CShDS3nUANZCrvx6BoGKe) | [My Favorite](https://open.spotify.com/album/4mVevEL7z6Ecq0RiHyzGBS) | 3:53 |
+| 74 | [My Favorite](https://open.spotify.com/track/232we5jmBvvqHDoCEiJEsK) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [My Favorite](https://open.spotify.com/album/4mVevEL7z6Ecq0RiHyzGBS) | 3:53 |
 | 75 | [For Your Soul](https://open.spotify.com/track/35t583wCAY9JBgjIHpcjJx) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:24 |
 | 76 | [Andenayon \(Feat\. Wheesung\(Realslow\)\)](https://open.spotify.com/track/6G3F8kZZn6nz8bRcPF1Qhs) | [Kim YoungChul](https://open.spotify.com/artist/6PpuhpJOZ598rVzlvSj2Ea), [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Andenayon...\(Subtitle: no?\)](https://open.spotify.com/album/46zG4HcbAYXvgpxtrnc8N9) | 3:11 |
 | 77 | [addiction](https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9) | 3:30 |

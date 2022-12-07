@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,746 likes - 126 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,802 likes - 126 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 22 | [Kudikaran Flex](https://open.spotify.com/track/1lMe6NHUMJGl2z6B09UFiv) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f), [Fault Kai](https://open.spotify.com/artist/3EiihLQLBqq5bnNmOb3cwk) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:41 |
 | 23 | [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 |
 | 24 | [Ikkiren](https://open.spotify.com/track/2Iz1hlf6vhOIWsqCMwLQ2N) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Ikkiren](https://open.spotify.com/album/0QIdn4yd0WU3uy3gtU3O4F) | 4:21 |
-| 25 | [Oonjalaadlaam](https://open.spotify.com/track/1HW3v6rirexgnuXI768tot) | [Surya Srini](https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ), [Swathi Ramachandran](https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8) | [Oonjalaadlaam](https://open.spotify.com/album/30IUpqDvKfHUZIBSmnuQhg) | 2:59 |
+| 25 | [Oonjalaadalaam](https://open.spotify.com/track/1HW3v6rirexgnuXI768tot) | [Surya Srini](https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ), [Swathi Ramachandran](https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8) | [Oonjalaadalaam](https://open.spotify.com/album/30IUpqDvKfHUZIBSmnuQhg) | 2:59 |
 | 26 | [MINNUVADHELLAM PONNALLA](https://open.spotify.com/track/0j3seTIk2fkqGkZ3oY5S83) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2) | [MINNUVADHELLAM PONNALLA](https://open.spotify.com/album/7vgoHyJRRlTQD8qLCsA7X3) | 1:21 |
 | 27 | [ORU NAAL](https://open.spotify.com/track/7vHs7fyXJSNLa7eigSNb47) | [Majoe](https://open.spotify.com/artist/1a71mkqZC54WhePSbnq7RK) | [ORU NAAL](https://open.spotify.com/album/6DxZMICoGTnwFofYPBBMwP) | 3:05 |
 | 28 | [Enakkena Oru Ulagam](https://open.spotify.com/track/35KMrmy4HrK5I0rmWFs3Z4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 2:00 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 81 | [Veeran \- From "Think Originals"](https://open.spotify.com/track/1fC8EY8jDB1cZHkhFhPLFF) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Veeran \(From "Think Originals"\)](https://open.spotify.com/album/2rf47Fe6cNoGWYrTc5SqSv) | 2:57 |
 | 82 | [Vena Vena Poo \- From "Valigal"](https://open.spotify.com/track/500jwNLc6tCyJiHvUeIhGG) | [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Gunaji](https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo) | [Vena Vena Poo \(From "Valigal"\)](https://open.spotify.com/album/1jtMDDSWyUI87iyCmLol3S) | 4:22 |
 | 83 | [Naan Kudikka Poren](https://open.spotify.com/track/7dz92P4LmPOl81fNcHjEUV) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Naan Kudikka Poren](https://open.spotify.com/album/2CXDwEEnfbSuMEQXTejOkw) | 4:17 |
-| 84 | [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 |
+| 84 | [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir Sulthan](https://open.spotify.com/artist/7twI3eNZIvvyJ4INbuKp7b) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 |
 | 85 | [Natpin Isai \- From "Little Hearts"](https://open.spotify.com/track/0fAojxSG8hxnCuXymFSfo5) | [Jerome J Mathew](https://open.spotify.com/artist/7eUPwX3WsPTEJFM02h2wO4), [Mark Lloyd](https://open.spotify.com/artist/3wLpdkhH3j4bLLmtUcxICR) | [Natpin Isai \(From "Little Hearts"\)](https://open.spotify.com/album/113qUh3AA4t0GYvMh2CktQ) | 3:41 |
 | 86 | [Yen Pulla](https://open.spotify.com/track/1KRSXgSrxbkbi1bOYRk0iP) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2) | [Yen Pulla](https://open.spotify.com/album/03ZbwAbnw2SuKzkmDE2e2Z) | 3:26 |
 | 87 | [Manadhin Oru Paadhi](https://open.spotify.com/track/6hSH5IxsxMEJXCI7TrBx1g) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manadhin Oru Paadhi](https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb) | 3:08 |

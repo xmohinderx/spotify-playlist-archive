@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,917 likes - 30 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,017 likes - 30 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 8 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
 | 9 | [i am a strange loop](https://open.spotify.com/track/30UMPVKK8ZgXWnze3eqcFv) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [Album Bonus Tracks, 2006\-2021](https://open.spotify.com/album/2OsZWSfKT22QGMmWn8JTxj) | 4:37 |
 | 10 | [Unbraid \- Spotify Singles](https://open.spotify.com/track/1C97lxx3UJQev7Wl5KOeDr) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Spotify Singles](https://open.spotify.com/album/7zjgCJFnTh4wYx0BHhV7uh) | 4:24 |
-| 11 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 |
-| 12 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 |
+| 11 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
+| 12 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 |
 | 13 | [Garden](https://open.spotify.com/track/4ITPubj0RkBFfsAA1WGCUl) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [The Sun is Parallel](https://open.spotify.com/album/3WEskLTX6RJBwSl9e8HTjZ) | 4:25 |
 | 14 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 15 | [Resta Qui](https://open.spotify.com/track/3RbYNnTGydL55K42h9bvoq) | [Arieti Rilassati](https://open.spotify.com/artist/6TWgi8oIy1OFh9P7EglVUt), [Elia Pastori](https://open.spotify.com/artist/7EdRkmvwTPmduzrNEhkyZI) | [Radio Relax](https://open.spotify.com/album/4G7BAssCjaENDRbzTFy1Uk) | 6:53 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 29 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 |
 | 30 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
 
-Snapshot ID: `MTY2OTM0NTgwMCwwMDAwMDAwMGFmNjJmZDlmZDVlMWNlYTk1YWMzNzA1MjhmMzY4MjRm`
+Snapshot ID: `MTY3MDM3Mzc0MSwwMDAwMDAwMDg1NmQyZWM2MjM5ZjEwZGRhYmRjOGUwYjQ0YzJlOTE3`

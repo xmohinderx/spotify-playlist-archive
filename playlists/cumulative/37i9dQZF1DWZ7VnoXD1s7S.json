@@ -1204,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "slow motion",
+        "url": "https://open.spotify.com/album/0aVyHAajV6nmFMgCirST5g"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327428,
+      "name": "slow motion",
+      "url": "https://open.spotify.com/track/7tcf3SrKUt9S9jxBgvEsMd"
+    },
+    {
+      "album": {
         "name": "Street Smarts",
         "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
       },

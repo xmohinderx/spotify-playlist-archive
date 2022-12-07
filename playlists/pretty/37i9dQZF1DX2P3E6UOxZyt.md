@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 張若凡 \(RuoFan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,144 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,148 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 54 | [對的自己](https://open.spotify.com/track/6MCQf5MTTr5iOnWFO3LoA0) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:56 |
 | 55 | [時尚!](https://open.spotify.com/track/5UoX8DMcIrr95JN0jFDaag) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [時尚!](https://open.spotify.com/album/6RmFMOPZw4rS5v045VP6kN) | 2:40 |
 | 56 | [Αφροδίτη](https://open.spotify.com/track/58s2FsMYLHbm2gnIqDqsH8) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK), [林奕碩](https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3) | [Αφροδίτη](https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW) | 3:53 |
-| 57 | [單身也可以](https://open.spotify.com/track/7CG7wRsJPHpquZXTOJWyr7) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [蔡恩雨](https://open.spotify.com/artist/2hDFbMgbnF3jmNWMgJlkE1) | [單身也可以](https://open.spotify.com/album/10UwR0fP6y6kZ0O5CNOM0Q) | 3:28 |
+| 57 | [單身也可以](https://open.spotify.com/track/7CG7wRsJPHpquZXTOJWyr7) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [單身也可以](https://open.spotify.com/album/10UwR0fP6y6kZ0O5CNOM0Q) | 3:28 |
 | 58 | [你為了我撐把傘](https://open.spotify.com/track/4EaJwA6CPIV30CX6mpHwbP) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [你為了我撐把傘](https://open.spotify.com/album/1QArFdN4JJzfqEAlxovWGg) | 4:13 |
 | 59 | [Sky](https://open.spotify.com/track/7gviLGYxPwuAQqkvQKFOmX) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Sky](https://open.spotify.com/album/3b2Q5PiQpzTaRpIfJFiGBd) | 3:01 |
 | 60 | [都關掉 Feat\. BG8Locc](https://open.spotify.com/track/67w7TklrKioxX1FyUE7dgs) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [蛋頭 BG8Locc](https://open.spotify.com/artist/00u0vG7qiNDOJbMOedSg2J) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:53 |

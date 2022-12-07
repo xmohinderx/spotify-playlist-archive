@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,821 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,966 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 |
 | 100 | [A New Path](https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI), [Inge Petersson\-Lindbäck](https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2), [Bergdalakvartetten](https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C) | [A New Path](https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q) | 5:48 |
 
-Snapshot ID: `MTY2OTc5NzcyMywwMDAwMDAwMDI1ZmYxZjQyZjcwYTY5YmEzMTVjNGZmYjQ2OTc0OTA3`
+Snapshot ID: `MTY3MDMzNTQ5MSwwMDAwMDAwMDY1ZDJmNDlmMTg5YWY2NmVhZTE2ZWRjOWU2YmY0ZmFh`

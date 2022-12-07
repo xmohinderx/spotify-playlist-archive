@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Aleman y Nicki Nicole en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,397 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,573 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 16 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 |
 | 17 | [GO](https://open.spotify.com/track/4AuPpQnGyE61BDNHcfpFxJ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [SnipeZ](https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN) | 2:13 |
 | 18 | [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 |
-| 19 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
+| 19 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillzbeatz](https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
 | 20 | [Pensando en Verte](https://open.spotify.com/track/0Kros3xlCtmyHTarar1SZ3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Pensando en Verte](https://open.spotify.com/album/40yd4gGPM83Kwde7EO79aW) | 3:02 |
 | 21 | [Lejos de Ti](https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Lejos de Ti](https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi) | 3:40 |
 | 22 | [mood especial](https://open.spotify.com/track/101a47oXsySPetHvoBx4Ef) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [mood especial](https://open.spotify.com/album/6M3q85jzwNUQXhAJUAWLBz) | 2:29 |

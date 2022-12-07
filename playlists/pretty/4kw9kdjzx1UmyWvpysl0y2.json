@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127137,
+  "num_followers": 127141,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg1OCwwOGEyODI0ZGNmMTc5MDlmMDMwM2NjMWMyYzYwOTJkMTY3OWFkYTFi",
+  "snapshot_id": "Mzg2MixjODVjODdkYTNkOGU2NmY2OGEyZjhjNGRiYzVlZTExZjJlOWI4YWFk",
   "tracks": [
+    {
+      "added_at": "2022-12-06 12:27:02",
+      "album": {
+        "name": "2hard2letgo (Acoustic)",
+        "url": "https://open.spotify.com/album/65jfBY2rxFAiB26CmNGiMA"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 276923,
+      "name": "2hard2letgo - Acoustic",
+      "url": "https://open.spotify.com/track/6b7AC4lKNIuCMSVzDHOS18"
+    },
     {
       "added_at": "2022-12-05 14:05:34",
       "album": {
@@ -1083,26 +1099,6 @@
       "duration_ms": 231062,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6D94kYTNC5WWi218Xi6K6Q"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "The Dead March",
-        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 162356,
-      "name": "The Dead March",
-      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

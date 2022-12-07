@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,388 likes - 76 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,385 likes - 76 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW) | 6:03 |
+| 1 | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Flamenco Sketches \(feat\. Niño Josele\)](https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW) | 6:03 |
 | 2 | [Apenas Floto](https://open.spotify.com/track/3kopEPvNa2EONY8vxVsrJ7) | [Spinetta, García, Ferrón](https://open.spotify.com/artist/2AtL7G1Q3o9KVYM3nRFYTq) | [Spinetta Los Amigo](https://open.spotify.com/album/4LyoNCALRl9a4zaQz8av9E) | 3:26 |
 | 3 | [Bésame Mucho](https://open.spotify.com/track/5mP6m2m775f2VYYLddc6qa) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [GRABACIONES RECUPERADAS](https://open.spotify.com/album/3u0TegUGeLCo0VtxNBUeJ4) | 2:12 |
 | 4 | [Fly Me to the Moon](https://open.spotify.com/track/7a2N6gnNqKvfN5rz3kHCTV) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:09 |

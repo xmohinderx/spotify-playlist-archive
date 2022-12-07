@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 
 > The soundtrack to your festive get\-together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,618 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,922 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 46 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 |
 | 47 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 |
 | 48 | [Ain't No Chimneys in the Projects](https://open.spotify.com/track/0z8XkugfsVI0HtXJDph8RA) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc) | 2:22 |
-| 49 | [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 |
-| 50 | [12 Days of Christmas](https://open.spotify.com/track/6E4NFTOYOUPKnTCYXsLWWT) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Tanglewood Festival Chorus](https://open.spotify.com/artist/4iVuajOueZR7rvn5PbkZM0), [Keith Lockhart](https://open.spotify.com/artist/3xXehPffJ4rtaaCbqDwVJ3) | [12 Days of Christmas](https://open.spotify.com/album/1RQHki0FSyJHcBCj22z0Hw) | 9:16 |
+| 49 | [Ring Out The Bells](https://open.spotify.com/track/2ykBpMiRAKvii89MMclhp9) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:59 |
+| 50 | [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 |
 
-Snapshot ID: `MTY2Njk2NzE1MiwwMDAwMDAwMGM3MzFiMmE0NWRiNjhhYzRhYzIyMDQ3NjQ3NjFhMDll`
+Snapshot ID: `MTY3MDMxODc0OCwwMDAwMDAwMDk4ODkzNDVmY2E5YTMxYjQ3Y2M1ZTlhMzAxMTcyZDY0`

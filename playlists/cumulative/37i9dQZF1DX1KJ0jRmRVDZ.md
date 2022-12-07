@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-554 songs - 1 day 7 hr 49 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+555 songs - 1 day 7 hr 53 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-06-21 |  |
 | [re:GENERATE](https://open.spotify.com/track/2XpeTIdekDLKmj5Ewmr1h0) | [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [re:GENERATE](https://open.spotify.com/album/2bNyilnde8t7oCDLVXFW28) | 2:45 | 2022-07-12 | 2022-07-15 |
 | [Re:銃の部品](https://open.spotify.com/track/4blZivIkAuztRriZxwdwN8) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Re:銃の部品](https://open.spotify.com/album/12CSRFbZYvZ7bYckJNlzLN) | 2:41 | 2022-06-30 | 2022-07-03 |
-| [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-06 |  |
+| [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-06 | 2022-12-07 |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-17 |  |
 | [RestartSmile](https://open.spotify.com/track/7nn2z9nlUVacYiDDNbkrsi) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [RestartSmile](https://open.spotify.com/album/4Ne4UIGziyFGdReco9fNSi) | 3:28 | 2022-06-16 | 2022-07-12 |
 | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/track/1kCn0Vx5jh6WNy7S7cCvab) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [natsumi](https://open.spotify.com/artist/0j5uL1aGwr2KzirkKWF2YD) | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/album/4EhAU964ARXJZKR8oegtPk) | 4:08 | 2022-07-24 | 2022-07-26 |
@@ -553,6 +553,7 @@
 | [雨模様](https://open.spotify.com/track/6QXXNAsEEMHodRbWURBZ2C) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [雨模様](https://open.spotify.com/album/1HiYotEPD69v7gjl73sY73) | 2:42 | 2022-09-27 | 2022-09-29 |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-06-09 | 2022-07-09 |
 | [雲を恋う](https://open.spotify.com/track/28mPWAyHiXIBnovrBeWwot) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [雲を恋う/落花流水](https://open.spotify.com/album/3HCB9aNa4oUuAm0pvmZdUK) | 3:33 | 2022-10-06 | 2022-10-28 |
+| [青く青く光る feat\. ACAね\(ずっと真夜中でいいのに。\), ぬゆり](https://open.spotify.com/track/7tIogxMoaDHGfLKIlkUlqk) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ULTRAPANIC](https://open.spotify.com/album/2Yu0lYaUxSHBLppeJACXb2) | 3:47 | 2022-12-06 |  |
 | [青春切符](https://open.spotify.com/track/5lZbYGHSJPnnvMDjyqLnms) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [青春切符](https://open.spotify.com/album/6JjbcI0T2ATnzl0sLF6I6C) | 4:04 | 2022-10-25 | 2022-10-27 |
 | [非可逆転PLAN](https://open.spotify.com/track/7fhn1t3Q8fkCncsY7aSNiT) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [非可逆転PLAN](https://open.spotify.com/album/1JVhSWUqZGPfHkTEIayeRP) | 2:17 | 2022-06-16 | 2022-06-23 |
 | [頭を撃つ](https://open.spotify.com/track/6UqgG3oq14F9qnMVpeysOS) | [WATER KIN](https://open.spotify.com/artist/0hbPjU0grzdufGU0VDy0Ev) | [頭を撃つ](https://open.spotify.com/album/1QrnAdOaQtW4LhJH9BrxxR) | 3:38 | 2022-06-16 | 2022-06-22 |

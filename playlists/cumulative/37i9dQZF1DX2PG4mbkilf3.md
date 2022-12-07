@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with Jessie Reyez.
 
-465 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+466 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Convince Me](https://open.spotify.com/track/0zujGHmFkevTMEwDbgtvRe) | [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Convince Me](https://open.spotify.com/album/4NQZi4XsULycm4thQi4bHe) | 2:45 | 2022-06-17 | 2022-07-23 |
 | [Cool](https://open.spotify.com/track/3BAgUIBHbUheqsunVZ4UDc) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Cool](https://open.spotify.com/album/24TKXTHxvIxij7pyn2ml6q) | 2:49 | 2022-11-11 |  |
 | [Cotton Candy](https://open.spotify.com/track/7kFEzXF6szueVB1IeWMRT8) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Cotton Candy](https://open.spotify.com/album/67GE1vcqCV73yBvtDfYO27) | 2:33 | 2022-11-11 |  |
-| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-05 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-05 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-05 | 2022-12-07 |
 | [Cry 4 U](https://open.spotify.com/track/7pKwUPlNzY9HDN7lGL4KjR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [513](https://open.spotify.com/album/6NDmSdY3c1glA8GPk3jYrn) | 2:35 | 2022-05-13 | 2022-06-18 |
 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-21 |  |
 | [DANCING ELEPHANTS](https://open.spotify.com/track/7iMvfX5hAfh2ZeYshXyzaJ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 5:18 | 2022-02-18 | 2022-04-02 |

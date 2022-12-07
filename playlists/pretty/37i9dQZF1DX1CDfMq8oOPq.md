@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Tássia Reis
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,097 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,153 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 45 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
 | 46 | [A Cara do Enquadro](https://open.spotify.com/track/1m519cv6g3gPO5JYuYV3al) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [A Cara do Enquadro](https://open.spotify.com/album/6NlI7bsdFuGsVVYmmWwoCk) | 2:46 |
 | 47 | [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 |
-| 48 | [Não Para](https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS) | [Não Para](https://open.spotify.com/album/04AxxMqe87R652pCosDblm) | 2:45 |
+| 48 | [Não Para](https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [Não Para](https://open.spotify.com/album/04AxxMqe87R652pCosDblm) | 2:45 |
 | 49 | [Carne Preta](https://open.spotify.com/track/3kfsx9AdfRxcAlQJijGCoU) | [Uni\-Ka](https://open.spotify.com/artist/05xZZ8fnfUsUFBod0qYurw), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [Carne Preta](https://open.spotify.com/album/0dsLTQo9sGk6pxwCDS0w0b) | 3:54 |
 | 50 | [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 |
 

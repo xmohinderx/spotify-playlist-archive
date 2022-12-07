@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLZ52XmnySJg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,351 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,822 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Quinn <br/>XCII, Chelsea Cutler
 
-1,083 songs - 2 day 8 hr 58 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+1,084 songs - 2 day 9 hr 1 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [Moon](https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Moon](https://open.spotify.com/album/1igApJ0OiVBemqXhWKUE9w) | 3:40 | 2021-06-26 | 2022-06-11 |
 | [More of You](https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [More of You](https://open.spotify.com/album/6otrwuXbuZ1ntS6AHWX0AT) | 2:34 | 2021-06-05 | 2021-09-04 |
 | [More Than Friends \(with HONNE\)](https://open.spotify.com/track/6Bxon4eYGOOwxXtSX9lhQo) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [More Than Friends \(with HONNE\)](https://open.spotify.com/album/6wfpyPte01RTckVpV3W1eq) | 4:09 | 2020-11-20 | 2021-01-27 |
+| [More to Give](https://open.spotify.com/track/0PfOhudjkIlTpw5xUU4Qak) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [More to Give](https://open.spotify.com/album/3rH6eaW5ZahFIMfJcHQL5P) | 2:26 | 2022-12-06 |  |
 | [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2022-09-23 | 2022-11-26 |
 | [Mountain Peaks](https://open.spotify.com/track/3eNSC9m8CukWPWdef8znPg) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:28 | 2022-08-19 | 2022-12-03 |
 | [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 | 2021-09-11 | 2021-10-23 |

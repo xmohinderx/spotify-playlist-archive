@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-166 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+167 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 |  |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |
+| [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 | 2022-12-06 |  |
 | [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 | 2022-03-25 | 2022-12-03 |
 | [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 | 2022-03-25 | 2022-10-13 |
 | [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 | 2022-03-25 |  |

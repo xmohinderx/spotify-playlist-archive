@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,307 likes - 146 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,325 likes - 146 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 128 | [Clipper](https://open.spotify.com/track/7ipysHNC8Fd5IFFjX25jgF) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [Fuori di me](https://open.spotify.com/album/2yTYKDFYax66zYRfspKJUP) | 2:46 |
 | 129 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 |
 | 130 | [Futuro](https://open.spotify.com/track/73dvpFQXtONS3r2YjvRYxM) | [GiovaneRoyce](https://open.spotify.com/artist/2pLKg64jV4OpTtx95KhMDL) | [Futuro](https://open.spotify.com/album/5yZc4Yg7MEWRyLrXm2CUoW) | 2:17 |
-| 131 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [Outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 |
+| 131 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 |
 | 132 | [vivere solo](https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm) | [Thom.](https://open.spotify.com/artist/4e5mUDLdGeosdE593StPBi), [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [vivere solo](https://open.spotify.com/album/1aAoHLxQpTSLNILQTqPqic) | 2:30 |
 | 133 | [HAPPILY EVER AFTER](https://open.spotify.com/track/3A6wzTVEokDiEgDmAtd2gm) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [fil ricchiardi](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [HAPPILY EVER AFTER](https://open.spotify.com/album/1G9ntbAXm8uYI1KRPRfNUg) | 3:05 |
 | 134 | [DIQQUA \(feat\. Zyrtck\)](https://open.spotify.com/track/2FUql0ZFEn0BGnlfr9nJcw) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [DIQQUA \(feat\. Zyrtck\)](https://open.spotify.com/album/6hmbU0Ohx9kjzBE2soOViQ) | 2:36 |

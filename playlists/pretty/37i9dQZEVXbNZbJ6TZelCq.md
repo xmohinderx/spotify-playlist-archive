@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,944 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,949 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 43 | [Promite\-mi](https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ) | [Nonchalant](https://open.spotify.com/album/6OvwfLlUMNYhJovlmnu2Km) | 3:36 |
 | 44 | [Timeout](https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Slayer](https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui) | 1:16 |
 | 45 | [Balenciaga](https://open.spotify.com/track/0DC15gtBUKpv4hh1kScGIY) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Centaur](https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb) | 2:32 |
-| 46 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
+| 46 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 |
 | 47 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 48 | [Niciun Glonț Nu Doare Cât Dragostea](https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [2089](https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk) | 2:28 |
 | 49 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |

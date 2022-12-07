@@ -4,12 +4,13 @@
 
 > Brand new music from Monstercat, all in one place.
 
-363 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+364 songs - 21 hr 12 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1975](https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Paranoid Optimist](https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl) | 2:11 | 2022-05-06 | 2022-07-19 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-07 | 2022-08-20 |
+| [2hard2letgo \- Acoustic](https://open.spotify.com/track/6b7AC4lKNIuCMSVzDHOS18) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo \(Acoustic\)](https://open.spotify.com/album/65jfBY2rxFAiB26CmNGiMA) | 4:36 | 2022-12-06 |  |
 | [2Nite](https://open.spotify.com/track/0VeY3NqMDTymaHmFoQWAZq) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:47 | 2022-11-19 | 2022-11-22 |
 | [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-24 | 2022-11-20 |
 | [505](https://open.spotify.com/track/3KHdPiJC74XETgP6lCce3S) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Guilt Chip](https://open.spotify.com/artist/1PWCOmvvW8kVMRvPDyLC2P) | [505](https://open.spotify.com/album/7o2wHfozPCR2KuIWE6q4at) | 3:00 | 2022-05-30 | 2022-08-11 |
@@ -314,7 +315,7 @@
 | [Talk To Me](https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Talk To Me](https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM) | 4:07 | 2022-09-21 | 2022-11-23 |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |
-| [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-10-06 |  |
+| [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-10-06 | 2022-12-07 |
 | [The Intimate Space](https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9) | [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [The Intimate Space](https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv) | 5:01 | 2022-04-29 | 2022-07-09 |
 | [The Light \- Flexible Fire Remix](https://open.spotify.com/track/4KMniGiobJ09rCP1rJhyB1) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [The Light \(The Remixes\)](https://open.spotify.com/album/3LJ9fh5loPde5YZJ6J48Sv) | 3:20 | 2022-05-27 | 2022-08-06 |
 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 | 2022-10-12 |  |

@@ -3168,6 +3168,28 @@
     },
     {
       "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294200,
+      "name": "Won't Be Fooled Again",
+      "url": "https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J"
       },

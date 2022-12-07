@@ -12352,6 +12352,24 @@
     },
     {
       "album": {
+        "name": "More to Give",
+        "url": "https://open.spotify.com/album/3rH6eaW5ZahFIMfJcHQL5P"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146752,
+      "name": "More to Give",
+      "url": "https://open.spotify.com/track/0PfOhudjkIlTpw5xUU4Qak"
+    },
+    {
+      "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/0pro3pYtDog6bp669jZywP"
       },

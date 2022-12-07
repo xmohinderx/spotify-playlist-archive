@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-116 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+117 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Colors](https://open.spotify.com/track/6O8f0nQc4KniCyqoUFcwJz) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Colors](https://open.spotify.com/album/5WBfkg6Xg5MmTu8al5YPym) | 2:49 | 2022-05-06 | 2022-08-27 |
 | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63) | 2:59 | 2022-05-06 | 2022-11-12 |
 | [CREW](https://open.spotify.com/track/4jP8t7NUr3ESUZ3b5Zmp6M) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [CREW](https://open.spotify.com/album/7251NIf38i495LPXBgj6UY) | 3:05 | 2022-10-17 |  |
+| [D House](https://open.spotify.com/track/6TKtoZBT8PGOgIP3e30hDN) | [DISTO](https://open.spotify.com/artist/1uodYnEBYYgZsExzoMeiGl) | [D House](https://open.spotify.com/album/7nIEkc3bIt0DIzUqQB3koJ) | 3:16 | 2022-12-06 |  |
 | [Da Homies](https://open.spotify.com/track/47xNlfeg2FAIENeBC79kye) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Da Homies](https://open.spotify.com/album/3NJWsGiRPEyCOLKq1jB5Ac) | 3:35 | 2022-05-06 |  |
 | [Dale Loca](https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Anna Marchesini](https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD) | [Dale Loca](https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW) | 2:18 | 2022-10-28 |  |
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 |  |
@@ -100,7 +101,7 @@
 | [Stop The World](https://open.spotify.com/track/0exb2sKaTVyq2AmTKJmdwo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/5tjyquuAUCmHet1Fn1kLUW) | 2:59 | 2022-05-06 |  |
 | [Straight To Ya Face](https://open.spotify.com/track/25ozzkQ8NRRVqmv3UCjpae) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Straight To Ya Face](https://open.spotify.com/album/49gdPCPeNhnoFSDEYvyaAl) | 2:36 | 2022-05-06 | 2022-07-02 |
 | [Such A Fool](https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Such A Fool](https://open.spotify.com/album/6hx1sl6hIlnIpRizDhTId2) | 3:02 | 2022-05-06 |  |
-| [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 |  |
+| [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 | 2022-12-07 |
 | [Summertime in New York](https://open.spotify.com/track/6kBvishfePtr8auksmpGUn) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Summertime in New York](https://open.spotify.com/album/4heCdWP7dkEcGtHWQUfXMF) | 3:19 | 2022-05-06 | 2022-07-28 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-05-06 |  |
 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 | 2022-08-26 |  |

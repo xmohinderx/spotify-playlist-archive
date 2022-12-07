@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,654 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,999 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Baby, What Else Can I Do?](https://open.spotify.com/track/0W74XoidEMmssr9r7QwE44) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [100 Super Best](https://open.spotify.com/album/3xMtRya9z707O4oypvzHTl) | 2:57 |
 | 100 | [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 |
 
-Snapshot ID: `MTY2OTc5OTAyOCwwMDAwMDAwMGE0ZjFmZWIyODIzYmU5NzNjY2Q5YWNmMWRkMGY5Njkz`
+Snapshot ID: `MTY3MDMzNjI0MSwwMDAwMDAwMGU1NDQ0MmQ3OWRiM2Y0ZTQxM2E0YTU2NjIwOWY3MzAy`

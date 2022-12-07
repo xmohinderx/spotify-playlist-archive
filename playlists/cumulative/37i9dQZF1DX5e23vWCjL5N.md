@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-80 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
+81 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [LEWANDOWSKI VIII \(64 Bars\)](https://open.spotify.com/track/4A7tYODnFfrS0mymGZOEMJ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV) | 2:50 | 2022-07-15 |  |
 | [LEWANDOWSKI VIII \(64 Bars\)](https://open.spotify.com/track/5kH2a9KFmkkDme5LPRgjOz) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po) | 2:50 | 2022-04-15 | 2022-07-29 |
 | [Lifestyle](https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:09 | 2022-04-15 |  |
+| [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-06 |  |
 | [LORO](https://open.spotify.com/track/0A85tPJ5uRYudixySOsfIV) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:18 | 2022-04-15 | 2022-07-29 |
 | [LORO](https://open.spotify.com/track/7xMMN5LyDOjGry2NfTfUEA) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:18 | 2022-07-15 |  |
 | [MI SENTO BENE](https://open.spotify.com/track/2v4kWcQ7LWML8TEQmLDAEO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:03 | 2022-04-15 |  |

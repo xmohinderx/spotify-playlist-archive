@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65mTEy33PMBRsfVtpwexlc.md) - [plain]
 
 > Best of 90s alternative rock music including iconic throwback alt rock songs from Blur, Depeche Mode, The Goo Goo Dolls, and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 62,708 likes - 83 songs - 5 hr 44 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 62,707 likes - 83 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

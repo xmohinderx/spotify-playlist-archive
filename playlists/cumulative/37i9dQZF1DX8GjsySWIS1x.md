@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-762 songs - 1 day 18 hr 23 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+763 songs - 1 day 18 hr 25 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Shiawase \- VIP](https://open.spotify.com/track/4mTLnLuHoGhA2xd595OMg1) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase \(VIP\)](https://open.spotify.com/album/3kjZtcljgpKUuSpTPpNYoZ) | 3:01 | 2021-03-14 | 2022-02-24 |
 | [Shine A Light](https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Shine A Light](https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG) | 3:45 | 2021-05-22 | 2021-12-11 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 | 2022-04-28 |
+| [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 | 2022-12-06 |  |
 | [Show Stop](https://open.spotify.com/track/779bZ6dEbYnVU7gMmEtgFP) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Show Stop](https://open.spotify.com/album/1XcjUvabEhf1xDvgs1mUgR) | 3:01 | 2021-03-27 | 2021-09-30 |
 | [Silence](https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silence](https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh) | 3:00 | 2021-03-14 | 2021-08-27 |
 | [Silhouette](https://open.spotify.com/track/2s85wLUTPgqepCrooMhK7o) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Rocket League x Monstercat Vol\. 3](https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj) | 4:24 | 2021-03-14 | 2021-10-22 |

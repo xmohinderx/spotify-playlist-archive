@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Thiruchitrambalam
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,240 likes - 56 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,505 likes - 56 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |
 | 2 | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 |
 | 3 | [Bimbilikki Pilapi](https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Prince \(Tamil\)](https://open.spotify.com/album/6lxJ6xdX66dSk6qunfYNkA) | 4:07 |
-| 4 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
+| 4 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
 | 5 | [Pacha Elai \(From "Love Today"\)](https://open.spotify.com/track/4JO0JV8cZ4JnB777tmNKh9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Pacha Elai \(From "Love Today"\)](https://open.spotify.com/album/5b57LEW0l5UPYSzgIyAnTT) | 3:30 |
 | 6 | [Venaam Thalaiva Adviceu](https://open.spotify.com/track/5oSFIFYf3vdzi2pkAIgk7I) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [DSP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UgjttUimzckiOaK6CdlN8) | 4:19 |
 | 7 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 |

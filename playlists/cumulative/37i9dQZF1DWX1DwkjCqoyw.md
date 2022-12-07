@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 | 2022-08-18 |  |
+| [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 | 2022-08-18 |  |
 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2021-12-20 | 2022-08-19 |
 | [Ambition](https://open.spotify.com/track/1oopyRuSfoSG3ijwHRVFW1) | [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Ambition](https://open.spotify.com/album/68DmzoZlEVeCN5kyhbIXxh) | 3:41 | 2021-12-20 | 2022-08-19 |
 | [Basic](https://open.spotify.com/track/2gwn11k39NLZUCwVbcTrjq) | [Jah Vinci](https://open.spotify.com/artist/0mkixmQkcUeE6egKHW4ojh) | [I Am the World Singer](https://open.spotify.com/album/5wYDLzTry6j0sAPjZ96p6G) | 3:12 | 2022-08-18 |  |

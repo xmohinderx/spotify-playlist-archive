@@ -9271,7 +9271,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 273320,
       "name": "Permanent State",
       "url": "https://open.spotify.com/track/6YzDFJrAelOpKFbXoc5NQ1"
@@ -9941,7 +9941,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 124000,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM"
@@ -12789,6 +12789,24 @@
       "duration_ms": 170899,
       "name": "Venus Hour",
       "url": "https://open.spotify.com/track/0RLjxcIFYyEIU1T6AaxSfH"
+    },
+    {
+      "album": {
+        "name": "Veronica Mars",
+        "url": "https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117850,
+      "name": "Veronica Mars",
+      "url": "https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM"
     },
     {
       "album": {

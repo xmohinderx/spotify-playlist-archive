@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-649 songs - 1 day 11 hr 13 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+651 songs - 1 day 11 hr 20 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Kaala Tikka](https://open.spotify.com/track/4IEH4STQJzQXEoX76f7qfb) | [Avkash Mann](https://open.spotify.com/artist/7Gvwmp8f0VsfhEVArspJGU) | [Kaala Tikka](https://open.spotify.com/album/24ql9YFNMekb8C7uJOOtod) | 2:45 | 2022-08-12 | 2022-08-18 |
 | [Kaali Car](https://open.spotify.com/track/035ipVjyiZw5fRqgKdIQBc) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kaali Car](https://open.spotify.com/album/6IVKOvb3rpY4V79W6GKqni) | 3:01 | 2022-05-23 | 2022-07-06 |
 | [Kaali Shirt Waleyaa](https://open.spotify.com/track/0Obgbyn28ZQ81tr8STLl3U) | [Simran Raj](https://open.spotify.com/artist/0Kq6kRoZ7plicvFNdCjc3P) | [Kaali Shirt Waleyaa](https://open.spotify.com/album/23RHXIGwU5ZhJghyN0p4Te) | 3:29 | 2022-02-09 | 2022-02-12 |
+| [Kaashni](https://open.spotify.com/track/1f0ILCXONMVgnG3iVG9ICg) | [Ashish Chhabra](https://open.spotify.com/artist/0HspbiJ2U2W5FayVLnuW1R) | [Kaashni](https://open.spotify.com/album/38GYgF8Qp8OlAAo4J4SDbX) | 4:12 | 2022-12-06 |  |
 | [Kabil](https://open.spotify.com/track/5EXPsVOIeXqd3v1O2m8jp1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Kabil](https://open.spotify.com/album/0kgUMhb4BIxxhxDSJtqxtA) | 3:50 | 2022-07-28 |  |
 | [Kabootariyan](https://open.spotify.com/track/1izc57djCd4AEgnrh01MO4) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Kabootariyan](https://open.spotify.com/album/4JL1V4aTlYLtV0ONOtFsYY) | 3:34 | 2022-02-07 | 2022-04-06 |
 | [Kachi Umar \(feat\. Aman Aujla,Simran Dhiman\)](https://open.spotify.com/track/12HPzRdSPwOd4AD1nUiwZw) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Aman Aujla](https://open.spotify.com/artist/2ZDVI9q5zWuIC0WGBMUOJy), [Simran Dhiman](https://open.spotify.com/artist/6iJ8WCYRWsIlIw0cbVy00O) | [Kachi Umar](https://open.spotify.com/album/19RO9vz5tKBnXPO9wFSdOt) | 3:04 | 2022-02-16 | 2022-03-11 |
@@ -321,6 +322,7 @@
 | [Lifeline](https://open.spotify.com/track/0oKRRJUcHFBHay9B8851FB) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj) | [Lifeline](https://open.spotify.com/album/46QP5a4l9n4LREswMLJN9a) | 3:29 | 2022-05-20 | 2022-07-06 |
 | [Like Karda](https://open.spotify.com/track/1JuSXMxHuRiVaHFN3z380v) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:26 | 2022-08-04 | 2022-08-18 |
 | [Like Moon](https://open.spotify.com/track/7H0F4B8lh7pG2A1U2H6m2O) | [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3) | [Like Moon](https://open.spotify.com/album/1QKhydtnWNeOD2G3DyP0NJ) | 3:31 | 2022-03-16 | 2022-04-06 |
+| [London Bridge](https://open.spotify.com/track/7iSITFbbFsBP5vfZH2BSdY) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ) | [London Bridge](https://open.spotify.com/album/28356uvnBo5DfxR8u1hPhc) | 2:30 | 2022-12-06 |  |
 | [London Da Lakk](https://open.spotify.com/track/6KFjOVXJR7WC8egwepPJTw) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Meet Sehra](https://open.spotify.com/artist/3yHKjwbYaj7IvSX7qjSI1l) | [London Da Lakk](https://open.spotify.com/album/1HOy4MTSYqJjqyjWdc925z) | 2:53 | 2022-05-06 | 2022-05-20 |
 | [Look](https://open.spotify.com/track/3l7apbfGrFfWqykALnVK2i) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1), [Harman Bal](https://open.spotify.com/artist/3PeTCbGBt4nFsUJZDzLQYk) | [Relatable](https://open.spotify.com/album/1E99WsFwg8Hl7gmYvH3rLr) | 3:45 | 2022-01-27 | 2022-02-01 |
 | [Lost Love](https://open.spotify.com/track/2L1cfBLg1wNI5ZIpAAv6Wc) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Lost Love](https://open.spotify.com/album/1ZNMYg10x172dC5eYfMlEF) | 3:46 | 2021-12-02 | 2022-11-27 |
@@ -554,7 +556,7 @@
 | [Supna](https://open.spotify.com/track/1vjjDb1oFf67W9zOVh8a6d) | [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Supna](https://open.spotify.com/album/5jI9MZUKKKj6WvnfyRn4Xm) | 4:08 | 2022-12-05 |  |
 | [Surma](https://open.spotify.com/track/2DBaGfuoLB7GJpTKJpLO5P) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu), [Arsh Sarpal](https://open.spotify.com/artist/3CCMpMo6uEI0RiHOlcosz3) | [First Draft](https://open.spotify.com/album/6rPNjEczANskt3rINL8Ijl) | 2:04 | 2022-12-05 |  |
 | [Surma](https://open.spotify.com/track/0J987rfHrlc6HOq3Y4nbrS) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq) | [Surma](https://open.spotify.com/album/4lH2JUQPh7oOhypdKijwBp) | 2:45 | 2022-12-01 |  |
-| [Surma](https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Rafal](https://open.spotify.com/artist/03QZhdzly7IjQzjucvOW7l) | [Surma](https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1) | 2:23 | 2022-11-09 |  |
+| [Surma](https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Surma](https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1) | 2:23 | 2022-11-09 |  |
 | [Surma](https://open.spotify.com/track/3ijLrhb7Rq9E75B94KJ90s) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Surma](https://open.spotify.com/album/7wiyKmbGYMkikS5DSWTcJC) | 2:45 | 2022-07-22 | 2022-08-18 |
 | [SURREY AALE](https://open.spotify.com/track/37lPezjU5ZTTh0H06HEFKb) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [Karan Bhargava](https://open.spotify.com/artist/1YQWIIZgIWVP83VtNCAQRJ), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [SURREY AALE](https://open.spotify.com/album/1uoe77MG97LmOgFlNwM5Uf) | 2:22 | 2022-01-10 | 2022-02-01 |
 | [Sweet Teri Smile](https://open.spotify.com/track/0FzcmRE2A4IHVxxZl2zYZr) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Sweet Teri Smile](https://open.spotify.com/album/79Jh4jb1oHDu0xfhOHnby8) | 2:29 | 2022-04-25 | 2022-05-11 |

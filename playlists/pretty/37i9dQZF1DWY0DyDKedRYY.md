@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Villano Antillano is our newest RADAR artist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,794 likes - 53 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,962 likes - 53 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

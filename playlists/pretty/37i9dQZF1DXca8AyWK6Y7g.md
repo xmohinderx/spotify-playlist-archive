@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,232 likes - 150 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,476 likes - 150 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

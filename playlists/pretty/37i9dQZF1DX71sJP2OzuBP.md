@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,328 likes - 102 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,341 likes - 102 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [等待被理解的人](https://open.spotify.com/track/3rjE1K6ASuHzYC1ETM4UFa) | [張若凡RuoFan](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [等待被理解的人](https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF) | 3:26 |
 | 2 | [Maybe Someday](https://open.spotify.com/track/5owdgqZ1tg8zj8MRLDSRer) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [Maybe Someday](https://open.spotify.com/album/1HKgU4noBniz460SpFo8dR) | 3:32 |
-| 3 | [單身也可以](https://open.spotify.com/track/7CG7wRsJPHpquZXTOJWyr7) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [蔡恩雨](https://open.spotify.com/artist/2hDFbMgbnF3jmNWMgJlkE1) | [單身也可以](https://open.spotify.com/album/10UwR0fP6y6kZ0O5CNOM0Q) | 3:28 |
+| 3 | [單身也可以](https://open.spotify.com/track/7CG7wRsJPHpquZXTOJWyr7) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [單身也可以](https://open.spotify.com/album/10UwR0fP6y6kZ0O5CNOM0Q) | 3:28 |
 | 4 | [沒有關係](https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [沒有關係](https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt) | 2:40 |
 | 5 | [结果](https://open.spotify.com/track/4xFdOisZ5VoovS3LVWCDW6) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [結果](https://open.spotify.com/album/75DBof4pWO5wJgyJAy8J1J) | 2:46 |
 | 6 | [the one](https://open.spotify.com/track/5QasaUBTehScqAR7zHfFEq) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [IDFK](https://open.spotify.com/album/4dKJaXsb06kSSo1WUAALD6) | 3:18 |

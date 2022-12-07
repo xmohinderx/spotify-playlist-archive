@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > Music to get fly to\. Cover: Okoye and Shuri from Black Panther: Wakanda Forever
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,303 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,299 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 108 | [More Than Friends](https://open.spotify.com/track/0NF8WXHL65nMVslHdZ1AgU) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [More Than Friends](https://open.spotify.com/album/7EiK3aqMyyjhldF3Kih152) | 3:03 |
 | 109 | [Resist The Temptation](https://open.spotify.com/track/2MYy0p8fjsfwmlIe3EafUj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 5:44 |
 | 110 | [Favorite \(feat\. Duckwrth\)](https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Ru AREYOU](https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB) | [Favorite \(feat\. Duckwrth\)](https://open.spotify.com/album/1hXhxCdpwgqCr7sUu26cS8) | 2:19 |
-| 111 | [stay away \- xs edition](https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8) | [stay away](https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA) | 3:49 |
+| 111 | [stay away \- xs edition](https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [stay away](https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA) | 3:49 |
 | 112 | [Wrote a Lil Song](https://open.spotify.com/track/2n2P1kKC478cwWnEULeXn1) | [Chong the Nomad](https://open.spotify.com/artist/586OHhbBhXRpOY8LezbUcK), [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Wrote a Lil Song](https://open.spotify.com/album/1MkF1udZZGjXUiowE99wNx) | 2:34 |
 | 113 | [Jam](https://open.spotify.com/track/1GOEgRr0Mm0mDjGisgnC6y) | [JNTHN STEIN](https://open.spotify.com/artist/2tW7TitNzNibILuWCEhBLS) | [Jam](https://open.spotify.com/album/3ohDyQ11gPOSIbpXFgJ4Ks) | 3:41 |
 | 114 | [RAGGA](https://open.spotify.com/track/6JyoDS6xeqsNkNdeVm9uLF) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RAGGA](https://open.spotify.com/album/5lXdX09pPgVwMpDjbyJDld) | 2:42 |

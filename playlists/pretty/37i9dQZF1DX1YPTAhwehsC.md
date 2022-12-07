@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: DD Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,082 likes - 101 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,243 likes - 101 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 3 | [Shittin' Me](https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Shittin' Me](https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6) | 2:24 |
 | 4 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [BILLY B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 |
 | 5 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 |
-| 6 | [Feel The Fiyaaaah \(with A$AP Rocky & feat\. Takeoff\)](https://open.spotify.com/track/27RDADqLHPALTugdGEyGtG) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:09 |
+| 6 | [Feel The Fiyaaaah \(with A$AP Rocky & feat\. Takeoff\)](https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:09 |
 | 7 | [40s N 9s](https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [40s N 9s](https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j) | 2:25 |
 | 8 | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ) | 1:36 |
 | 9 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 100 | [Foreign Shit](https://open.spotify.com/track/6ARRF0o0moDLS7coAp2xDS) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Foreign Shit](https://open.spotify.com/album/77vm6TZpmXelO2C5IvQiYl) | 1:50 |
 | 101 | [What You Do](https://open.spotify.com/track/0mn3Xrxr3GuRf3Pq1AlsKK) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Damon Dash](https://open.spotify.com/artist/4ZkdpElKTmTEs9F5BuKTOe) | [U Wasn't There](https://open.spotify.com/album/0wFHZCTh0GBBxa1RzvfL6b) | 2:39 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGQzMzFjOTdjZjRhMDJiMjRmZDcwN2M1Zjg1YTVhN2Uz`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGM1ZjQ5NzBhZWQ3YmUzNmQ5ZjI4OWM0MzViZWRlMjVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,023 likes - 27 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024 likes - 27 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,6 +34,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 24 | [Further From The Few](https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:31 |
 | 25 | [Nothing In The Sun](https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Brown Acid \- The Fifth Trip](https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K) | 4:10 |
 | 26 | [Spanish Fly \- Bonus Track](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 |
-| 27 | [Paradoxical Moods \- live 1975](https://open.spotify.com/track/6mgB7miIa3f7Ftat2Tb73b) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Galleons of Passion 2 \(expanded & remastered\)](https://open.spotify.com/album/5LLhZh5gz8fPq1cBhm98Eu) | 11:02 |
+| 27 | [Paradoxical Moods \- live 1975](https://open.spotify.com/track/6mgB7miIa3f7Ftat2Tb73b) | [Finch](https://open.spotify.com/artist/5FkqKnWT3Uf7lhShflsViO) | [Galleons of Passion 2 \(expanded & remastered\)](https://open.spotify.com/album/5LLhZh5gz8fPq1cBhm98Eu) | 11:02 |
 
 Snapshot ID: `Mjc4Mzc2NDcsMDAwMDAwMDAxNzdkN2FhYTg2ZWNhMTI1NzM4MjgxYzJhMWE3OTEyNg==`

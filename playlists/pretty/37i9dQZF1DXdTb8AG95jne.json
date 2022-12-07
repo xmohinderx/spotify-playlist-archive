@@ -1,15 +1,31 @@
 {
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \bHeo Hoy Kyung(\ud5c8\ud68c\uacbd)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 411672,
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: it's(\uc774\uce20)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 412013,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0MTk5NSwwMDAwMDAwMGY3ZTU1NzgzYzU2ZjI1MWMzOTg1YzI3MDExYjRiYWJh",
+  "snapshot_id": "MTY3MDI5Nzg5MCwwMDAwMDAwMDZiNjk4YjYyNTgxNDM5OGFhNjRkZTM5NzQ3YTZkMzA2",
   "tracks": [
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
+      "album": {
+        "name": "red moon",
+        "url": "https://open.spotify.com/album/7APF2jKLoT8nUp8hUnq1eq"
+      },
+      "artists": [
+        {
+          "name": "IT\u2019S",
+          "url": "https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA"
+        }
+      ],
+      "duration_ms": 258806,
+      "name": "red moon",
+      "url": "https://open.spotify.com/track/7000j12fd01Z1ITmTZLqPZ"
+    },
+    {
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Memoirs",
         "url": "https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
+      "album": {
+        "name": "\ud669\ud640\ud55c \uc2e4\uc885 The Marvelous Absence",
+        "url": "https://open.spotify.com/album/0En1BFq5Q0eFCw1W3zfluw"
+      },
+      "artists": [
+        {
+          "name": "cacophony",
+          "url": "https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9"
+        }
+      ],
+      "duration_ms": 182499,
+      "name": "\ud669\ud640\ud55c \uc2e4\uc885 The Marvelous Absence",
+      "url": "https://open.spotify.com/track/1OZkopZBHTl2a68prXyEmJ"
+    },
+    {
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Lovers In The Night",
         "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Okinawa",
         "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Dawn Defibrillation, Vol.1",
         "url": "https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7"
@@ -113,7 +145,7 @@
       "url": "https://open.spotify.com/track/7tr6WuxHOWyWQl0W8YfBtq"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Baby I Need You",
         "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "GAUSSIAN",
         "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "FROM : X",
         "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Nonadaptation \ube44\uc801\uc751",
         "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -309,27 +341,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
-      "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
-    },
-    {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
@@ -349,7 +361,7 @@
       "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
@@ -369,7 +381,27 @@
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
+      "album": {
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+    },
+    {
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "friend to lover",
         "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Rawww",
         "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
@@ -417,7 +449,7 @@
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "3108",
         "url": "https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "The night we parted",
         "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Koh",
         "url": "https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "A Long Dream",
         "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Answer",
         "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Closely Far Away",
         "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "RECONNECT",
         "url": "https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Stroll",
         "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Esprit",
         "url": "https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Don't be sad",
         "url": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "naps!",
         "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "YOUTH",
         "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Do You Think Of Me? (4.4)",
         "url": "https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
@@ -769,23 +801,7 @@
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
-      "album": {
-        "name": "Calibrate",
-        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyunsang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
-    },
-    {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "The Land of Fantasy",
         "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
@@ -801,7 +817,23 @@
       "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
+      "album": {
+        "name": "Calibrate",
+        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyunsang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
     },
     {
-      "added_at": "2022-11-25 02:06:35",
+      "added_at": "2022-12-06 03:24:56",
       "album": {
         "name": "Again, Spring Days",
         "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
@@ -831,38 +863,6 @@
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
-    },
-    {
-      "added_at": "2022-11-25 02:06:35",
-      "album": {
-        "name": "My Liberation Notes OST Part 6",
-        "url": "https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8"
-      },
-      "artists": [
-        {
-          "name": "SWAY",
-          "url": "https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale"
-        }
-      ],
-      "duration_ms": 206970,
-      "name": "We Sink",
-      "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
-    },
-    {
-      "added_at": "2022-11-25 02:06:35",
-      "album": {
-        "name": "I LOVE YOU",
-        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 177831,
-      "name": "ONLY YOU",
-      "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
     }
   ],
   "unique_name": "In The K-Indie",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0CM2xT3aAkN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0CM2xT3aAkN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0CM2xT3aAkN)
 
-### [Relaxing Renaissance](https://open.spotify.com/playlist/37i9dQZF1DX0CM2xT3aAkN)
+### [Renaissance Classics](https://open.spotify.com/playlist/37i9dQZF1DX0CM2xT3aAkN)
 
-> Relax to the sound of choral and instrumental classical music from the Renaissance era.
+> Choral and instrumental classical music from the Renaissance era.
 
 73 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/39g0MNn34FnvzkGxfEXy8E)
 

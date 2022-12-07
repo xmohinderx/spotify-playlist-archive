@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ALALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,567 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,641 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 |
 | 2 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 |
-| 3 | [ที่ไม่รัก](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
+| 3 | [ที่ไม่รัก \- Unnoticed](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
 | 4 | [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 |
 | 5 | [เจ็บนะ \(Hurt me\)](https://open.spotify.com/track/0K5jkka7iP8dlFi0as6Jh8) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [เจ็บนะ \(Hurt me\)](https://open.spotify.com/album/2a5dt0twdrfVYEdJAff5Ay) | 4:00 |
 | 6 | [งอนละ \- Boo](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 |

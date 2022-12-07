@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: \u548c\u4e45\u4e95\u6c99\u826f",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002cover: H ZETTRIO",
   "name": "Modern Jazz Japan",
   "published_playlist_ids": [
     "7J6KTI9ttmEPnJtwsQFdN5"
@@ -172,6 +172,32 @@
     },
     {
       "album": {
+        "name": "Calming Influence",
+        "url": "https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "Pecori",
+          "url": "https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t"
+        },
+        {
+          "name": "ODD Foot Works",
+          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288092,
+      "name": "Calming Influence",
+      "url": "https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N"
+    },
+    {
+      "album": {
         "name": "UNITY",
         "url": "https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV"
       },
@@ -285,7 +311,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 138412,
       "name": "Death by Glamour (with Jacob Koller)",
       "url": "https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw"
@@ -877,7 +903,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
@@ -1246,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "Tales Of the Desert",
+        "url": "https://open.spotify.com/album/3JN76A0m4MiRxZexsmUDbQ"
+      },
+      "artists": [
+        {
+          "name": "Morphine Desert -trio acoustic-",
+          "url": "https://open.spotify.com/artist/4qNCHyjKwuZwKJucdokJ33"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345774,
+      "name": "Wander from place to place",
+      "url": "https://open.spotify.com/track/23XzSHqcxpAjh0VFQ4Dmea"
+    },
+    {
+      "album": {
         "name": "water melon",
         "url": "https://open.spotify.com/album/17xOXntWM5dpQPmNCl5y9A"
       },
@@ -1409,7 +1453,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 260560,
       "name": "\u30b9\u30d1\u30eb\u30bf\u30ab\u30b9~\u611b\u306e\u30c6\u30fc\u30de",
       "url": "https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc"
@@ -1547,6 +1591,24 @@
       "duration_ms": 300924,
       "name": "\u5177\u7e04",
       "url": "https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP"
+    },
+    {
+      "album": {
+        "name": "\u591c\u7a7a\u304b\u3089\u306e\u6765\u8a2a\u8005",
+        "url": "https://open.spotify.com/album/2AzD81GRzNTh234cFXEwgm"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "\u591c\u7a7a\u304b\u3089\u306e\u6765\u8a2a\u8005",
+      "url": "https://open.spotify.com/track/5tPF81ERdwsYA7VhV3lJT7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: LEGADO 7 & Juan De Ron
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,595 likes - 200 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,657 likes - 200 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

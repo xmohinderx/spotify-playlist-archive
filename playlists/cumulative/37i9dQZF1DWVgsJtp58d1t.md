@@ -4,7 +4,7 @@
 
 > New music from Metro Boomin, Babyface Ray, Pheelz, Lion Babe, Latto, Zulu, and more
 
-1,385 songs - 2 day 20 hr 39 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+1,386 songs - 2 day 20 hr 43 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [Crazy For Me](https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u) | 2:14 | 2022-11-04 | 2022-11-13 |
 | [Crazy For Me](https://open.spotify.com/track/4OqgkBBSULrKnIeQQAxU9i) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:14 | 2022-11-04 | 2022-11-26 |
 | [Cream Soda](https://open.spotify.com/track/4mVkJEBoEpI3fQ4QOyIjwO) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Cream Soda](https://open.spotify.com/album/0mPMMU9rPpd6u9yeAu9jer) | 3:36 | 2022-10-28 | 2022-11-19 |
-| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-02 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
 | [Creme Brulee](https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Creme Brulee](https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG) | 1:52 | 2022-11-11 | 2022-12-03 |
 | [Crooks & Castles](https://open.spotify.com/track/6FPR87S0g92cCImxUrGvYP) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Crooks & Castles](https://open.spotify.com/album/7hxBFX5tUuwYNmxbQPhyoJ) | 2:04 | 2022-02-25 | 2022-03-26 |
 | [Cruise Control](https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:26 | 2022-07-22 | 2022-08-13 |
@@ -1157,7 +1158,7 @@
 | [Still countin](https://open.spotify.com/track/7ASlpfqBORcItmtn0cNDtI) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Still countin](https://open.spotify.com/album/0dpdGARiCe10Wz4Fo67lmr) | 2:50 | 2022-02-11 | 2022-03-05 |
 | [Still Got 4ever](https://open.spotify.com/track/0lT3BPJaW1LFCUjpxNHIaq) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Still Got 4ever](https://open.spotify.com/album/3G3kujnBjUxC2etYtHDto6) | 2:17 | 2022-09-23 | 2022-10-08 |
 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 | 2022-11-04 | 2022-11-26 |
-| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 |  |
+| [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 |  |
 | [Still Like Drugs](https://open.spotify.com/track/7KyNKtcXTZgY1WWIyzGRX6) | [Lightshow](https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4), [Zubin](https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9) | [Still Like Drugs](https://open.spotify.com/album/6Ldm82syrNUjdsSo6im7nP) | 2:33 | 2022-06-07 | 2022-06-18 |
 | [Stone Cold](https://open.spotify.com/track/3Z2ASDuTah7auTOSVmDMo5) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/0l7iZ6objNnhQYiAFzMWOM) | 2:30 | 2022-10-14 | 2022-10-29 |
 | [Stone Rolling](https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Stone Rolling](https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF) | 3:00 | 2022-07-29 | 2022-08-27 |
