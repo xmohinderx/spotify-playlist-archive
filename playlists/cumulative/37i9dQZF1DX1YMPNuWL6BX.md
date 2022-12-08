@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1YMPNuWL6BX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1YMPNuWL6BX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1YMPNuWL6BX)
 
-### [New Years 2022](https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX)
+### [New Years 2023](https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX)
 
-> Ring in 2022 with your favorite party tracks!
+> Ring in 2023 with your favorite party tracks!
 
 131 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/0FOSlqCnfdALNwKFgfiVNU)
 

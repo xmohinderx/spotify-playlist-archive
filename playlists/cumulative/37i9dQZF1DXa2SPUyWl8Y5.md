@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-328 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+330 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Fade](https://open.spotify.com/track/5kcXp7FsyD3E5CXW33T30m) | [Sandeep Pai](https://open.spotify.com/artist/0new7vSddy67H3hfSG4o9U) | [Fade](https://open.spotify.com/album/60iicfhmRuMN1We8hRwVYX) | 4:11 | 2020-12-12 | 2022-07-02 |
 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 | 2019-05-28 | 2019-11-28 |
 | [Fader](https://open.spotify.com/track/0nXB7YWrra82OKeTa6PVWq) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Fader](https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU) | 6:13 | 2020-07-25 | 2022-11-20 |
+| [Fader](https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Fader](https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh) | 6:13 | 2022-09-30 |  |
 | [Faith](https://open.spotify.com/track/4ycnTMhYe99RPxKgFDPw5p) | [Clawz SG](https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb) | [Faith](https://open.spotify.com/album/5KsK6bcTOtDlGqFUT2DBsH) | 8:04 | 2019-06-13 | 2022-04-21 |
 | [Fatima](https://open.spotify.com/track/4WGxYlJ6dggfVAmFutLLNx) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Fatima](https://open.spotify.com/album/6Gcz4LtoSEUbtm4CffQxI9) | 6:35 | 2019-06-24 | 2019-11-09 |
 | [Filling The Blanks](https://open.spotify.com/track/2USZvCIHYAIiMMU41l7E1D) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [Zein](https://open.spotify.com/artist/3tR9zWv9ObaQyNjcv1F7Pj) | [Filling The Blanks](https://open.spotify.com/album/6LFN1VLFtZp5JHMrJPhVWA) | 7:46 | 2019-05-26\* | 2021-05-28 |
@@ -188,7 +189,7 @@
 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 | 2021-12-04 |  |
 | [Miracle](https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz) | [Another Mind](https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4) | [Miracles](https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR) | 7:56 | 2020-11-14 | 2022-07-28 |
 | [Mistral](https://open.spotify.com/track/4qV0Lu1zn2xc50B9RurHKS) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/2V0fmkRovQ5SpKMUIms8V7) | 7:02 | 2022-06-17 | 2022-07-28 |
-| [Mistral](https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/4O9MXpdCBXrKms0EXgEPSj) | 7:02 | 2022-09-30 |  |
+| [Mistral](https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/4O9MXpdCBXrKms0EXgEPSj) | 7:02 | 2022-09-30 | 2022-12-08 |
 | [Monkey Mind](https://open.spotify.com/track/1MxeXqqsCYq6wnWHEriBGn) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [Monkey Mind](https://open.spotify.com/album/62vuQpJiSTQWRyyYqSaQVY) | 5:54 | 2019-05-26\* | 2021-01-16 |
 | [Moon River](https://open.spotify.com/track/03bYLN5H3OjZ6CIpBcd4W3) | [Anturage](https://open.spotify.com/artist/60hGAZqZ60I2EhUi0f4j2N), [Saccao](https://open.spotify.com/artist/5zCGgAGz4jIAqCDJ4xDZpT) | [Crop Circles EP](https://open.spotify.com/album/69nm4GujvroTuC1SN1UE1T) | 6:51 | 2019-06-22 | 2019-11-09 |
 | [Moonface](https://open.spotify.com/track/3oWez555ACR3IptrEFYjmz) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Moonface/Zukunft](https://open.spotify.com/album/5Gelq7kJWuYIr0ATVgRbAU) | 7:47 | 2019-05-26\* | 2019-06-21 |
@@ -273,6 +274,7 @@
 | [Sidewinder](https://open.spotify.com/track/0hcKU2s5pItCZ3DY0glVQe) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Move to the Vibe](https://open.spotify.com/album/30kMjKQ6Eerumx6xvWUa09) | 7:10 | 2019-12-09 | 2021-04-13 |
 | [Sleepless \- Stephan Bodzin Remix](https://open.spotify.com/track/50MkrUXSXsS1Q1bn95XQcm) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [The Other Remixes](https://open.spotify.com/album/1ESSPoCmi5sY43k4kBHXRJ) | 9:00 | 2019-06-21 | 2019-11-09 |
 | [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 | 2021-07-04 | 2022-11-16 |
+| [Slowly](https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX) | 6:54 | 2022-09-30 |  |
 | [Solid Maybe](https://open.spotify.com/track/1whJKLkSxF0q4glZhCFtpJ) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J) | [Solid Maybe](https://open.spotify.com/album/10ft9WCfq6YnUV2AQaCN13) | 8:26 | 2019-05-26\* | 2021-05-28 |
 | [Solitary Daze](https://open.spotify.com/track/5nbttXsM0PYqyASw0IQ1ux) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/6hNSBxIuFK9LB0rdXAln6s) | 7:43 | 2019-06-22 | 2019-06-28 |
 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 | 2020-06-29 | 2022-10-18 |
@@ -310,7 +312,7 @@
 | [The Lights](https://open.spotify.com/track/2tJhsBdtaaD8SJF6m6xBvX) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Lights](https://open.spotify.com/album/1LhlKOpYfhEicL7eG35IvX) | 6:39 | 2019-05-26\* | 2020-10-21 |
 | [The Meaning Of Memory](https://open.spotify.com/track/4kA4ThwfmSGjZAdX5CXGRI) | [Steffi](https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG) | [World Of The Waking State](https://open.spotify.com/album/6acbQRBZ27j4sPxdoF9Jz2) | 6:32 | 2019-05-26\* | 2020-06-05 |
 | [The Mist](https://open.spotify.com/track/3hshYLufstw5SvhHNFovCE) | [Fur Coat](https://open.spotify.com/artist/26J5ZprV3p7jv4fHTmpXsB) | [The Storm EP](https://open.spotify.com/album/0DsVepssXB0EQlW2mJYLJg) | 7:48 | 2021-05-13 | 2021-11-06 |
-| [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 | 2021-07-25 |  |
+| [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 | 2021-07-25 | 2022-12-08 |
 | [Thursday Jam](https://open.spotify.com/track/50x3a5yKJ3I86SqAzdWQia) | [Siege](https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd) | [Thursday Jam](https://open.spotify.com/album/0iVD9x0fcjp8TmIJlNqptt) | 3:21 | 2019-07-07 | 2019-12-07 |
 | [Time](https://open.spotify.com/track/2u2qjcSLId85rqwSgZLU1p) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Life on Mars / Time](https://open.spotify.com/album/5kGeRgJ3lpJhchgvAQQsZ9) | 8:48 | 2019-05-26\* | 2022-04-21 |
 | [Time \- Alan Walker Remix \- Extended Version](https://open.spotify.com/track/6SDQETfHW9JT9p99S3nB44) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 3:35 | 2020-05-28 | 2021-10-02 |

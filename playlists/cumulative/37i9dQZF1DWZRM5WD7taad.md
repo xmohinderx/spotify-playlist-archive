@@ -2,7 +2,7 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Mare Advertencia Lirika en portada.
+> Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY en portada.
 
 126 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 

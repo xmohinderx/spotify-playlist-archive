@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Mikush
 
-176 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+177 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Blitz! \(feat\. Geolier\)](https://open.spotify.com/track/00gEB0MSDWojSbzIt1TrFT) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:00 | 2022-05-11 | 2022-05-20 |
 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 | 2022-10-27 | 2022-11-11 |
 | [Braquages](https://open.spotify.com/track/2PBzppfFYOLhyNcuosCLF9) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Braquages](https://open.spotify.com/album/4V30NxcCKiJ18l4n9mwieP) | 2:24 | 2022-05-11 | 2022-05-31 |
-| [BU!](https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:25 | 2022-11-24 |  |
+| [BU!](https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:25 | 2022-11-24 | 2022-12-08 |
+| [BU!](https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:25 | 2022-12-06 |  |
 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 | 2022-09-29 |  |
 | [C'est la rue](https://open.spotify.com/track/4uAbCVyHM56DlMM7qYj1AY) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [C'est la rue](https://open.spotify.com/album/7eWZqUMC43TaQgu4TW2KAN) | 2:17 | 2022-05-11 | 2022-06-24 |
 | [C'EST PAS FACIL](https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:21 | 2022-06-30 |  |

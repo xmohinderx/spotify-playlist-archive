@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Kaash Paige
 
-346 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+347 songs - 16 hr 51 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [Purple Potion](https://open.spotify.com/track/6vrU6AzhdPxhQGDCX9YNTF) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Purple Potion](https://open.spotify.com/album/43OOwLWqf674oWgCA4LObL) | 2:03 | 2022-12-02 |  |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-11 |  |
 | [Pystall Poppin](https://open.spotify.com/track/6PExpTEtS1doWjrsDVZ2vD) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [DJ Horse](https://open.spotify.com/artist/4hCK913HvW0zFRKEKrgukR), [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Flavors](https://open.spotify.com/album/576p9th3PrurpjwAuwnjlW) | 2:01 | 2022-07-01 | 2022-09-25 |
-| [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:08 | 2022-12-02 |  |
+| [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 | 2022-12-02 |  |
+| [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:08 | 2022-12-02 | 2022-12-08 |
 | [Rare](https://open.spotify.com/track/42QLhW71J48BraP88ko51d) | [Sunnitharapper](https://open.spotify.com/artist/2KpLGbnpFTj3QUUSlB2mQO) | [Rare](https://open.spotify.com/album/6tPnIgr0GrmGCzjIHmgS9E) | 2:58 | 2022-07-22 | 2022-09-10 |
 | [Ratchet](https://open.spotify.com/track/014PLUZunFPW1EtbcXJLnu) | [Juan Mone](https://open.spotify.com/artist/4et46DfYJMlkRmpGMewaRG) | [SRT](https://open.spotify.com/album/5ZSibtsVrMCp5hvu1rbEM7) | 2:36 | 2022-04-15 | 2022-11-12 |
 | [Ratchet \- Remix](https://open.spotify.com/track/3Q4VK9uJpNyCtqlLE7I5zp) | [Juan Mone](https://open.spotify.com/artist/4et46DfYJMlkRmpGMewaRG), [BeatKing](https://open.spotify.com/artist/6nn0ZWbGzwA7Q6GlIbcmHF) | [Juanito II](https://open.spotify.com/album/6LeUbyR1XC995jzLo1zIlO) | 2:36 | 2022-12-02 |  |

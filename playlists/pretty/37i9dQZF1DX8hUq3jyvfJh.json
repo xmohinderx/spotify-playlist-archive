@@ -1,12 +1,12 @@
 {
   "description": "Gal Costa e destaques de 2022, por mais mulheres sendo ouvidas no m\u00e1ximo volume.",
-  "num_followers": 130069,
+  "num_followers": 130085,
   "original_name": "O Melhor de EQUAL Brasil 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMGYzYjFiYWRlMzhhZDAzNzExYjc2MTA5M2QwMWU1Yzhj",
+  "snapshot_id": "MTY2OTgxNTkwMCwwMDAwMDAwMDM3Njg5ZDU4MDY3MDg0YzZjNmVmYjA5OTcxNjUxNTM2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Li\u00e7\u00e3o de Vida",
-        "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Dar Uma Deitchada",
         "url": "https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 192614,
       "name": "Dar Uma Deitchada",
       "url": "https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Li\u00e7\u00e3o de Vida",
+        "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Eclipse do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D"
-      },
-      "artists": [
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 208737,
-      "name": "Eclipse do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 139644,
       "name": "Festa do Pijama",
       "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Eclipse do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D"
+      },
+      "artists": [
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 208737,
+      "name": "Eclipse do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb"
     },
     {
       "added_at": "2022-11-30 13:45:00",

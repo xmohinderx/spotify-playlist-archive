@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127141,
+  "num_followers": 127136,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzg2MixjODVjODdkYTNkOGU2NmY2OGEyZjhjNGRiYzVlZTExZjJlOWI4YWFk",
+  "snapshot_id": "Mzg2NCw4ODBkM2RiMjliZDk2ZDkzYWY2ZmJjZjk3ODJhMjhmZDQ1NzYyMTk4",
   "tracks": [
+    {
+      "added_at": "2022-12-08 00:07:43",
+      "album": {
+        "name": "Other Side (Factor B's In Loving Memory Remix)",
+        "url": "https://open.spotify.com/album/3ABRbWCzvO0vaHLWflNJpE"
+      },
+      "artists": [
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        },
+        {
+          "name": "Arielle Maren",
+          "url": "https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV"
+        },
+        {
+          "name": "Factor B",
+          "url": "https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g"
+        }
+      ],
+      "duration_ms": 476659,
+      "name": "Other Side - Factor B's In Loving Memory Remix",
+      "url": "https://open.spotify.com/track/3QzeTO4Ylxcl8mAqjyUyHq"
+    },
     {
       "added_at": "2022-12-06 12:27:02",
       "album": {
@@ -1079,26 +1103,6 @@
       "duration_ms": 249532,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/4Y4QTmcND8jyE7zCKuRL7b"
-      },
-      "artists": [
-        {
-          "name": "Banaati",
-          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
-        },
-        {
-          "name": "Brandon Mignacca",
-          "url": "https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj"
-        }
-      ],
-      "duration_ms": 231062,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6D94kYTNC5WWi218Xi6K6Q"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

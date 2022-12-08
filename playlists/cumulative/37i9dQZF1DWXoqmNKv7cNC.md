@@ -4,7 +4,7 @@
 
 > Lo mejor de las mujeres a todo volumen con Julieta Venegas en portada.
 
-452 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+453 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Mi Amor Soy Yo](https://open.spotify.com/track/4V3QJUJ1DhSoTCrho7aruK) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI) | [Lo Que Me Haces Sentir](https://open.spotify.com/album/7KhylKVPFvw83sag5eROHg) | 2:51 | 2022-04-06 |  |
 | [Mi Caprichito \(feat\. María León\)](https://open.spotify.com/track/1HGmUV6Oq9cLbaSoVyZQVg) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:14 | 2022-07-06 | 2022-08-04 |
 | [Mi Cumbia](https://open.spotify.com/track/6opYzmDIzG3uGln1BM2MtT) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Cumbia](https://open.spotify.com/album/2Mjka8OhoXINOkGI6zglhU) | 3:27 | 2022-10-05 | 2022-11-03 |
-| [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 | 2022-09-07 |  |
+| [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 | 2022-09-07 | 2022-12-08 |
+| [Mi Habitación](https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 2:35 | 2022-11-30 |  |
 | [Mi País Es una Idea](https://open.spotify.com/track/25HJCFUKKP6plZ0t3eGKwk) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Mi País Es una Idea](https://open.spotify.com/album/4HqhK9n6LnGOViKdVOsWrZ) | 3:59 | 2022-03-03 | 2022-04-07 |
 | [Mi Salida Contigo](https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 2:55 | 2022-09-07 | 2022-10-06 |
 | [Miedo](https://open.spotify.com/track/7btzzrPbkP9hoxa3cUPhSd) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 4:08 | 2022-07-06 | 2022-08-04 |

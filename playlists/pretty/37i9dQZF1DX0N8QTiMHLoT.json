@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 117166,
+  "num_followers": 117234,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGVmNTAxNzI1ZDJkYWEwYTY1MWNkMWQzM2RkZDM1ZDM5",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGIwYjZhNDNlMDczMmYzZWNlZmI2MjRlZGJjOGRlZjBj",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Not of This World",
-        "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
-      },
-      "artists": [
-        {
-          "name": "Adam Nitti",
-          "url": "https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR"
-        }
-      ],
-      "duration_ms": 397640,
-      "name": "Cosmic Underground",
-      "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 268280,
       "name": "World Go Round",
       "url": "https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Not of This World",
+        "url": "https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY"
+      },
+      "artists": [
+        {
+          "name": "Adam Nitti",
+          "url": "https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR"
+        }
+      ],
+      "duration_ms": 397640,
+      "name": "Cosmic Underground",
+      "url": "https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -783,18 +783,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Ray of Hope",
-        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
+        "name": "Cerulean Blue",
+        "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
       },
       "artists": [
         {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        },
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
         }
       ],
-      "duration_ms": 279480,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
+      "duration_ms": 246692,
+      "name": "Sun Chaser",
+      "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -815,22 +819,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Cerulean Blue",
-        "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
+        "name": "A Ray of Hope",
+        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
       },
       "artists": [
         {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        },
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
         }
       ],
-      "duration_ms": 246692,
-      "name": "Sun Chaser",
-      "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
+      "duration_ms": 279480,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
     },
     {
       "added_at": "2021-05-06 21:09:12",

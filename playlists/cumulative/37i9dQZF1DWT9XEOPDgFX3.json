@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 355366,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT"
@@ -1459,6 +1459,24 @@
       "duration_ms": 246355,
       "name": "Forever You & I",
       "url": "https://open.spotify.com/track/6XBUQjHdbHeLvc45We8UZM"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
     },
     {
       "album": {

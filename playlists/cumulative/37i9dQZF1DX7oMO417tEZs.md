@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: RAYE
 
-599 songs - 1 day 9 hr 11 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+600 songs - 1 day 9 hr 14 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-02-18 | 2022-04-02 |
 | [CARNAGE](https://open.spotify.com/track/0FE3XDuJH4tnf1MCgsg3Ju) | [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [CARNAGE](https://open.spotify.com/album/2LkrL0QDmh272zbVFCvHNh) | 2:36 | 2022-11-11 |  |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-10 | 2022-07-16 |
-| [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 | 2022-12-02 |  |
+| [Cassette](https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0) | 3:22 | 2022-12-02 |  |
+| [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 | 2022-12-02 | 2022-12-08 |
 | [CATCH 22](https://open.spotify.com/track/61eEF4qIHhrJsE8CF1R5kX) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [CATCH 22](https://open.spotify.com/album/4XeMqeZz3kJPowaqMMB1uo) | 1:35 | 2022-04-15 | 2022-04-29 |
 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 | 2022-08-05 | 2022-11-19 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-27 | 2022-07-02 |

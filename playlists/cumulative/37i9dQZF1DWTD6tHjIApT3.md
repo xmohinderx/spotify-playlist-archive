@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Aimer
 
-935 songs - 2 day 13 hr 34 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+937 songs - 2 day 13 hr 42 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Life Road](https://open.spotify.com/track/6B0h9SeRiGdT5dDgSwJXbT) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Life Road](https://open.spotify.com/album/4F5sszXsMnqUUYGwpfcOj9) | 3:32 | 2022-05-29 | 2022-10-22 |
 | [Light](https://open.spotify.com/track/3383Mps5G2KHcSqjZGp91W) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Light](https://open.spotify.com/album/40Ntfv5riu8CD8KFZEMYIz) | 4:14 | 2022-06-07 | 2022-07-21 |
 | [Like a Wolf](https://open.spotify.com/track/18vMmp2zT6R2LvdljlwM0x) | [Marina Kodama](https://open.spotify.com/artist/4f365HxBFYsr86eiSpjdKJ) | [Like a Wolf](https://open.spotify.com/album/1rAAvFC3XX1doi3KRAVKQ3) | 3:32 | 2022-05-29 | 2022-06-01 |
-| [Like no one's done](https://open.spotify.com/track/1G8jWpWgCtTEuy4Zz3Ihfe) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like no one's done](https://open.spotify.com/album/5JysaNdHLF3SuPrpLfrcyE) | 3:55 | 2022-12-06 |  |
+| [Like no one's done](https://open.spotify.com/track/1G8jWpWgCtTEuy4Zz3Ihfe) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like no one's done](https://open.spotify.com/album/5JysaNdHLF3SuPrpLfrcyE) | 3:55 | 2022-12-06 | 2022-12-08 |
+| [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2022-12-06 |  |
 | [Lilt](https://open.spotify.com/track/0oG01y2pbxdX8KHS5wsKBd) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Lilt](https://open.spotify.com/album/2LiURHIClvEBdDNzazsEj2) | 3:06 | 2022-09-13 | 2022-09-28 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-31 | 2022-07-19 |
 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 | 2022-05-29 | 2022-11-03 |
@@ -364,7 +365,8 @@
 | [Sailing](https://open.spotify.com/track/5bkb0z3NyoyOokKRrsIsua) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Sailing](https://open.spotify.com/album/1aiaI6bjMi0gOEBPzS9yCl) | 5:49 | 2022-06-02 | 2022-07-27 |
 | [Satsuki](https://open.spotify.com/track/2tiex0oWYiAR9UWZ9SlFW3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [My First Love is Crying](https://open.spotify.com/album/5ojxoUisAMA5Mon0amRHCE) | 4:30 | 2022-07-14 | 2022-07-20 |
 | [Secret lover \- Vocal Version](https://open.spotify.com/track/0PV7OWnQMfhPzUqGWWVdb2) | [T\-GROOVE & GEORGE KANO EXPERIENCE with YUKO IMAI](https://open.spotify.com/artist/5ABNPaFlw9tEBLt7Cf4QRf), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [George Kano Experience](https://open.spotify.com/artist/2LOaFRYsMKI9JAOs5izXJz), [Yuko Imai](https://open.spotify.com/artist/4YMuXk2Q6sKh3ZBorVDwA6) | [Secret lover \(Vocal Version\)](https://open.spotify.com/album/20Mfk4Ctd7olJeSexfGxqO) | 4:56 | 2022-08-02 | 2022-08-10 |
-| [Seed](https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/3zAxTb1VGHR5c6O6T6Jtvi) | 4:08 | 2022-12-06 |  |
+| [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2022-12-06 |  |
+| [Seed](https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/3zAxTb1VGHR5c6O6T6Jtvi) | 4:08 | 2022-12-06 | 2022-12-08 |
 | [Sentimental \- Neon Mix](https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7) | [Sentimental \(Neon Mix\)](https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr) | 3:23 | 2022-08-02 | 2022-08-18 |
 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 | 2022-09-29 | 2022-10-05 |
 | [SEVENTH HEAVEN](https://open.spotify.com/track/6YK1jSYfYeUZybhXRnPKna) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 3:57 | 2022-05-29 | 2022-08-18 |

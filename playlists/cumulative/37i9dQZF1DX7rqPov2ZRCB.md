@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-243 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
+244 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 | 2019-09-09 |  |
 | [El Diente de Oro](https://open.spotify.com/track/7fSnl9iRCYNX6N4SPPxzf3) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 4:37 | 2019-09-09 | 2022-07-29 |
 | [El diente de oro](https://open.spotify.com/track/36s4W1NUg0amqDSNRK8Lo4) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [14 Super Éxitos](https://open.spotify.com/album/1fFdyPrPN9fF264jXDO0w4) | 4:47 | 2019-09-09 |  |
-| [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 | 2019-09-09 |  |
+| [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 | 2019-09-09 | 2022-12-08 |
 | [El Doctorado](https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:16 | 2019-09-09 | 2022-07-21 |
 | [El Eco de Tú Adiós](https://open.spotify.com/track/1KqdemH92Zr552nuav2mxb) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 3:37 | 2019-09-09 | 2022-07-21 |
 | [El Farolito](https://open.spotify.com/track/0DaW7ZaE60zOu5lhCcOykg) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Two Strong Live \(Summer Latino, Vol.1\)](https://open.spotify.com/album/2UIVGKP8e8Vo47plkno426) | 3:59 | 2019-09-09 | 2022-07-28 |
@@ -154,6 +154,7 @@
 | [La Pava](https://open.spotify.com/track/6EYmqkj3o78oX29YF5FOyl) | [Tatico](https://open.spotify.com/artist/06szOvix5Fvf3lGkERzGI4) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 2:51 | 2019-09-09 | 2022-07-12 |
 | [La Pava](https://open.spotify.com/track/7dwqCe1TRY8pUG3HIgjzdm) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Consagración de Cariño](https://open.spotify.com/album/4eUT2dtQUXBoBF0GxhTxFE) | 2:51 | 2019-09-09 | 2022-11-25 |
 | [La Pava](https://open.spotify.com/track/5MFurpjWaE0RP7O5fpxkNz) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Lo Mejor](https://open.spotify.com/album/023zve01lZHkCgbqesOjSg) | 2:53 | 2019-09-09 | 2022-07-16 |
+| [La Pava](https://open.spotify.com/track/5Tw1y1ChGIp8lzJdJXuYrW) | [Tatico Henríquez](https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM) | [A Llorar Mis Penas](https://open.spotify.com/album/09Q6xLmKJy7UKFi4U3LF6R) | 2:52 | 2019-09-09 |  |
 | [La Pava](https://open.spotify.com/track/2PaI6XS5ytj6fVMx3VCsH7) | [Wilman Peña](https://open.spotify.com/artist/4ZCt8TwKamzijlmkvHxuKH), [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Qué Linda](https://open.spotify.com/album/6fCoSrjnnmEpkej8iiyiox) | 6:09 | 2019-09-09 | 2022-07-27 |
 | [La Pimienta es la Que Pica](https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Cantando He De Morir](https://open.spotify.com/album/1WLMlfIxmGS78b2oQXKNHW) | 4:44 | 2019-09-09 |  |
 | [La Pobre Adela](https://open.spotify.com/track/5wsOSUobdcnDwWlxjG0nIH) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 4:25 | 2019-09-09 | 2022-07-28 |

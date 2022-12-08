@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 253589,
+  "num_followers": 253643,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDZkMjIwYWE1MGQzY2YxZjA2NWViMzMyNWUzNThlNzRm",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDU4MDNlNWUyNzNiNDI4OTc3OWJiY2JkYTIwZTRhOWI3",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -915,22 +915,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
-        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+        "name": "No Lo Van a Impedir",
+        "url": "https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh"
       },
       "artists": [
         {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Amaury P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm"
         }
       ],
-      "duration_ms": 219818,
-      "name": "El primer amor (feat. Francisco Cespedes)",
-      "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
+      "duration_ms": 208466,
+      "name": "Hacerte venir",
+      "url": "https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -951,18 +947,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "No Lo Van a Impedir",
-        "url": "https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh"
+        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
       "artists": [
         {
-          "name": "Amaury P\u00e9rez",
-          "url": "https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm"
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 208466,
-      "name": "Hacerte venir",
-      "url": "https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF"
+      "duration_ms": 219818,
+      "name": "El primer amor (feat. Francisco Cespedes)",
+      "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Extremistas Nobles",
-        "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
-      },
-      "artists": [
-        {
-          "name": "Buena Fe",
-          "url": "https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm"
-        },
-        {
-          "name": "Frank Delgado",
-          "url": "https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Loco por Ti",
-      "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Quiero Cantar",
         "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 234040,
       "name": "Tan Distintos (feat. Edgar Oceransky)",
       "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Extremistas Nobles",
+        "url": "https://open.spotify.com/album/5AB2RcRU1wt8mnwAOfhXDe"
+      },
+      "artists": [
+        {
+          "name": "Buena Fe",
+          "url": "https://open.spotify.com/artist/0vq2EzqxetHZj0NtymUtXm"
+        },
+        {
+          "name": "Frank Delgado",
+          "url": "https://open.spotify.com/artist/7bvO23YLnJxN5KcU5r6EhR"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Loco por Ti",
+      "url": "https://open.spotify.com/track/4c2ZX1OHkLS0XEaxTShO8S"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Quiz\u00e1s una Flor",
+      "url": "https://open.spotify.com/track/7H1ED0sczqO7nfmy9sGHEe"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
         "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Quiz\u00e1s una Flor",
-      "url": "https://open.spotify.com/track/7H1ED0sczqO7nfmy9sGHEe"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "La Flor Y El Abejorro",
+        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 249740,
+      "name": "La Flor Y El Abejorro",
+      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Como la Nube Se Impone al Sol",
         "url": "https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Flor Y El Abejorro",
-        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "H\u00e9ctor Filio",
+          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
         }
       ],
-      "duration_ms": 249740,
-      "name": "La Flor Y El Abejorro",
-      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
+      "duration_ms": 280000,
+      "name": "Norte",
+      "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1527,22 +1543,6 @@
       "duration_ms": 259066,
       "name": "Espectro",
       "url": "https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Filio",
-          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Norte",
-      "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
     },
     {
       "added_at": "2021-07-29 16:46:05",

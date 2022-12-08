@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18408,
+  "num_followers": 18407,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMDQ2OWUwYzNiMzBhN2FmYWE3Y2VmY2I1NTc4ZjRjMTky",
+  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMGMwNDRiODExYWM2Zjg4OTI0YWI0YWQyODU1NDliZjYw",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Oceanic Feeling",
-        "url": "https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH"
-      },
-      "artists": [
-        {
-          "name": "Molly Lewis",
-          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
-        }
-      ],
-      "duration_ms": 143973,
-      "name": "Oceanic Feeling",
-      "url": "https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "For Those Of You Who Have Never (And Also Those Who Have)",
         "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 437906,
       "name": "A Sea Of Love",
       "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Oceanic Feeling",
+        "url": "https://open.spotify.com/album/3XNiuRi67PCCF4SradXcqH"
+      },
+      "artists": [
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        }
+      ],
+      "duration_ms": 143973,
+      "name": "Oceanic Feeling",
+      "url": "https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci"
     },
     {
       "added_at": "2021-09-10 04:35:25",

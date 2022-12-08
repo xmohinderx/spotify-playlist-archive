@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-93 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
+94 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aftenstemning \(Evening Mood\), FS 48](https://open.spotify.com/track/1l1WJKJh4Rc8JcRbnIvEqD) | [Carl Nielsen](https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz), [Orphei Drängar](https://open.spotify.com/artist/3Lc34BF8LDk8Ae0T81du3S), [Robert Sund](https://open.spotify.com/artist/1mk1T3aM1xxxPAPPyWxW9l) | [Traditional Swedish Songs of Spring & Summer](https://open.spotify.com/album/1osojsmR81Rtf2HpHo2G2z) | 2:34 | 2022-01-27 |  |
 | [Allá se me ponga el sol à 4](https://open.spotify.com/track/7A14bdlIw9CU10VMdXe8Rg) | [Juan Ponce](https://open.spotify.com/artist/6VmMKWrL3Ppmv49NFd0QH5), [Huelgas Ensemble](https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM), [Paul Van Nevel](https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1) | [Allá se me ponga el sol à 4](https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4) | 2:55 | 2021-07-21 |  |
 | [And So It Goes \- Arr\. Bob Chilcott](https://open.spotify.com/track/0vbku2VnIsrhFIfyUvekaK) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Gold](https://open.spotify.com/album/3OF5H5176VONmVik8EvJC6) | 3:45 | 2021-07-21 |  |
+| [And the Swallow](https://open.spotify.com/track/076qGSNmPfnkk3PspPAKIp) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [All Things Are Quite Silent](https://open.spotify.com/album/5o7ch3Qq2YFfZsJ36S0dKi) | 4:01 | 2022-12-07 |  |
 | [Ave Maris Stella](https://open.spotify.com/track/3L483AZ71PY5bBYKdivmky) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gabrieli](https://open.spotify.com/artist/3DhMjqRNtH4A1Ap3dIosgS), [Paul McCreesh](https://open.spotify.com/artist/27suxyOypRvjbQgoRw1oF7) | [A Spotless Rose](https://open.spotify.com/album/7HM8wgdIMZn2YDw1ZNgFpG) | 3:22 | 2022-07-22 | 2022-10-03 |
 | [Ave Maris Stella](https://open.spotify.com/track/4cnBFmvqgEy1EwRs070FJO) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gabrieli](https://open.spotify.com/artist/3DhMjqRNtH4A1Ap3dIosgS), [Paul McCreesh](https://open.spotify.com/artist/27suxyOypRvjbQgoRw1oF7) | [A Spotless Rose](https://open.spotify.com/album/0H2VJ1C6nu2zSMmNThPtS0) | 3:22 | 2022-01-25 | 2022-07-29 |
 | [Ave Maris Stella](https://open.spotify.com/track/5B6QVDIxqMSXqYqGY6ZWRJ) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gabrieli](https://open.spotify.com/artist/3DhMjqRNtH4A1Ap3dIosgS), [Paul McCreesh](https://open.spotify.com/artist/27suxyOypRvjbQgoRw1oF7) | [An Evening of Classical: Grieg](https://open.spotify.com/album/6frAJCnH1IN7WIw8qvyfyX) | 3:22 | 2022-09-30 |  |

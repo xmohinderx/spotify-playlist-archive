@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-314 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+315 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/track/4rEmPwDqff0iLL0cEXD1GU) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/album/5ReyWZwqRMiEc21kMeoW7w) | 3:11 | 2021-12-17 |  |
 | [Je ne veux que toi](https://open.spotify.com/track/4sfH4oxRuHyW872VznZOsz) | [Kingdom Street](https://open.spotify.com/artist/1lnUL64UOur97nIDHKEbNI) | [Je ne veux que toi](https://open.spotify.com/album/7fXUaEzf9dfiUtJyYMBTFP) | 3:13 | 2021-12-17 | 2022-07-25 |
 | [Je t'offre mon cœur](https://open.spotify.com/track/68CPOCS5H1BJc4DTiwuOGY) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Le Rythme de Noël](https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT) | 3:16 | 2021-12-17 | 2022-07-26 |
-| [Je t'offre mon cœur](https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:16 | 2022-11-04 |  |
+| [Je t'offre mon cœur](https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:16 | 2022-11-04 | 2022-12-08 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-17 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/2wCPMWR3y4xclijuCcLJv7) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Four Christmases](https://open.spotify.com/album/7mBYONx7aIDvzevYOfsXJT) | 2:11 | 2021-12-17 | 2022-07-28 |
 | [Jingle Bell Rock \- Single Version](https://open.spotify.com/track/0t97lL3ZMyuxbABB0dgYhf) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Natale 2020](https://open.spotify.com/album/000t7Ge3vazfHDgDwYV8dZ) | 2:10 | 2022-11-12 | 2022-11-14 |
@@ -168,6 +168,7 @@
 | [Marie Noël](https://open.spotify.com/track/18vx1pPR2feRipPoSHun5x) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [Luc Herrmann](https://open.spotify.com/artist/4i3qssq6fRxUKFn7YY5StG) | [The Christmas EP](https://open.spotify.com/album/7ppzsFvle5bABSbBlsBfas) | 2:14 | 2021-12-17 | 2022-07-27 |
 | [Marie\-Noël](https://open.spotify.com/track/5QJzkt7Jfbl1qVfzcnEDhy) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Marie\-Noël](https://open.spotify.com/album/40oQgOEfD4ZnMsyulpTTlO) | 2:06 | 2021-12-17 | 2022-07-27 |
 | [Marie\-Noël](https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Robert Charlebois](https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct) | 2:29 | 2021-12-17 |  |
+| [Merry Christmas](https://open.spotify.com/track/1c8okwl6G1OUhgU2BJekIx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5W2wJUsVxy9l9jONK5LvGB) | 3:28 | 2022-12-02 |  |
 | [Merry Christmas](https://open.spotify.com/track/2LQNGs6tdjJJS7fxopcaFW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lockdown Sessions](https://open.spotify.com/album/0HadKSH32oHv4BJjNZ30FG) | 3:28 | 2021-12-17 | 2022-07-29 |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2021-12-17 | 2022-12-05 |
 | [Merry Christmas](https://open.spotify.com/track/5SFvJnEwfkm6a96A73XTa6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Family Christmas](https://open.spotify.com/album/6Qqq1nymtanZY6ILleDZpO) | 3:28 | 2022-11-12 | 2022-11-13 |

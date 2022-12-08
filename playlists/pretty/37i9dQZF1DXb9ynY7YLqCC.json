@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 132224,
+  "num_followers": 132276,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMDkzODM0MzU0MThiNmQ2Y2NiM2M1MzRlMTQwOGE4MzBl",
+  "snapshot_id": "MTY2NzgzNjkyNiwwMDAwMDAwMDliMDljMWJhZjM1MjliZWZlMDliYWRlZWVjMDZhMGYz",
   "tracks": [
     {
       "added_at": "2022-11-07 16:02:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "El Impulso",
         "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 245986,
       "name": "Para No Verme M\u00e1s",
       "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Alma en Pe\u00f1a",
-        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
-      },
-      "artists": [
-        {
-          "name": "Salamandra",
-          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Solito",
-      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Gladiadores del rock",
         "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Mundo Perfecto",
-        "url": "https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC"
+        "name": "Alma en Pe\u00f1a",
+        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Salamandra",
+          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
         }
       ],
-      "duration_ms": 228786,
-      "name": "Hasta La Victoria",
-      "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
+      "duration_ms": 236605,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
+        "name": "Mundo Perfecto",
+        "url": "https://open.spotify.com/album/27O4kXJTulUG1vNDXkPTBC"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Hasta La Victoria",
+      "url": "https://open.spotify.com/track/4k4INIaQC2qRGV3iHTlXfH"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 188586,
       "name": "Down",
       "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
-        "name": "Aunque Cueste Ver El Sol",
-        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 244093,
-      "name": "Cielo De Un Solo Color",
-      "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
+        "name": "Aunque Cueste Ver El Sol",
+        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Cielo De Un Solo Color",
+      "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
         "name": "Las Pastillas del Abuelo",
         "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Asi Es el Rock And Roll",
-        "url": "https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 271571,
-      "name": "Chico Com\u00fan",
-      "url": "https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t"
-    },
-    {
-      "added_at": "2022-11-07 16:02:06",
-      "album": {
         "name": "Fiesta Sudaka (Parte 1)",
         "url": "https://open.spotify.com/album/3NdCd4eZrJxEtqdOO7uXIu"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 335560,
       "name": "Amando A Mi Guitarra",
       "url": "https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo"
+    },
+    {
+      "added_at": "2022-11-07 16:02:06",
+      "album": {
+        "name": "Asi Es el Rock And Roll",
+        "url": "https://open.spotify.com/album/1xWKoqL5voetMxj2ddxI7F"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 271571,
+      "name": "Chico Com\u00fan",
+      "url": "https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t"
     },
     {
       "added_at": "2022-11-07 16:02:06",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2022-11-07 16:02:06",
       "album": {
-        "name": "Solo Canciones",
-        "url": "https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY"
+        "name": "A Cielo Abierto - El a\u00f1o del tigre",
+        "url": "https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
+      "duration_ms": 194597,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK"
     }
   ],
   "unique_name": "Rock Barrial",

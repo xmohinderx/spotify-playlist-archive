@@ -2,9 +2,9 @@
 
 ### [Cumbia y Romance](https://open.spotify.com/playlist/37i9dQZF1DX9o4SIlW5lWs)
 
-> Al corazón! Foto: Rei.
+> Al corazón! Foto: Karina.
 
-268 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
+270 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 | 2022-12-07 |
 | [Adiós](https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [Adiós](https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb) | 2:35 | 2022-06-17 |  |
 | [Adiós Amor](https://open.spotify.com/track/0tC1zHCNIMpzv9Q44rTdmf) | [Juan José Piedrabuena](https://open.spotify.com/artist/4p0y36j62bcbAG6Hl0DjUe) | [Adiós Amor](https://open.spotify.com/album/2yIoKg3iN3oXgG8L4zx2fE) | 4:38 | 2022-04-01 | 2022-06-03 |
-| [Agüita](https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:34 | 2022-01-14 |  |
+| [Agüita](https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:34 | 2022-01-14 | 2022-12-08 |
 | [Ahora Que Te Vas](https://open.spotify.com/track/5rsFQUSjouRx188w4O0xMm) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Ahora Que Te Vas](https://open.spotify.com/album/40XAu7HbtYFVUxTP32UyFj) | 2:45 | 2022-07-15 | 2022-07-23 |
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2022-01-14 | 2022-07-28 |
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 |  |
@@ -30,7 +30,7 @@
 | [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 | 2022-03-08 |  |
 | [Bonita y Mentirosa](https://open.spotify.com/track/5nek9u170O2y9lGK9a7uRJ) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Bonita y Mentirosa](https://open.spotify.com/album/0xdNqIKfuVie2xOX827Tmn) | 1:17 | 2022-01-21 | 2022-07-13 |
 | [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 | 2022-01-21 | 2022-11-20 |
-| [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 | 2022-01-21 |  |
+| [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 | 2022-01-21 | 2022-12-08 |
 | [Caballitos de Mar](https://open.spotify.com/track/0aaDDIeUNnSH7hRDa4tOd8) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [Mika](https://open.spotify.com/artist/5JWQJWjXkGBCVNpomR4HSx) | [Caballitos de Mar](https://open.spotify.com/album/6h5O4VNQjWP1MyPlj57Bug) | 3:19 | 2022-04-29 | 2022-05-25 |
 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 | 2022-01-21 |  |
 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 | 2022-01-14 |  |
@@ -70,6 +70,7 @@
 | [Donde Estas](https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Donde Estas](https://open.spotify.com/album/2josnzGzDa3cSeWJndXVEj) | 2:55 | 2022-01-21 | 2022-06-17 |
 | [Dueles](https://open.spotify.com/track/3j4K4BR0vC1nUq2WgukHJv) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Dueles](https://open.spotify.com/album/02FXUJdRn38OuHguwpSAkM) | 3:20 | 2022-01-21 | 2022-07-17 |
 | [Dueles](https://open.spotify.com/track/1QuGDS0fic3lyKzJhIMX99) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Dueles](https://open.spotify.com/album/4L1MCvgaAeK5Ot0bRjCj4P) | 4:24 | 2022-01-21 | 2022-06-29 |
+| [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-12-07 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [El Amor de Mi Vida](https://open.spotify.com/album/58gUcwnLfDnm24H7jXBliQ) | 4:03 | 2022-01-21 | 2022-07-06 |
 | [El Embrujo](https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Sin Fronteras](https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB) | 3:56 | 2022-01-14 |  |
 | [El Gil de Tu Ex](https://open.spotify.com/track/3BoHuCCm0Dr8TGtKV9kl4g) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [El Gil de Tu Ex](https://open.spotify.com/album/79Q8ojORhTTSYAh51k6rtf) | 2:47 | 2022-02-25 | 2022-07-16 |
@@ -238,6 +239,7 @@
 | [Tres Noches / El Mas Popular](https://open.spotify.com/track/5EvyQ6jIefgG4CFstkQbLE) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Tres Noches / El Mas Popular](https://open.spotify.com/album/43HXzHhR0f7lGc6yc0QybI) | 3:11 | 2022-01-21 | 2022-07-05 |
 | [Tributo A Grupo Trinidad Bonus Track / Zorros Amantes / Quién Te Quiere / Es Una Noche Para Amar / Conversemos \- Bonus Track](https://open.spotify.com/track/6q5U7c1J8Ec53YGQh0l2Bm) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tributo A Grupo Trinidad / Zorros Amantes / Quién Te Quiere / Es Una Noche Para Amar / Conversemos \(Bonus Track\)](https://open.spotify.com/album/39UKGVl0lnLSGKTQW1zrH4) | 5:50 | 2022-01-14 | 2022-07-12 |
 | [Tu \- Live Session](https://open.spotify.com/track/748ZjU8OoEfawysf7HFPph) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Tu \(Session Live\)](https://open.spotify.com/album/1te9iJDm1eG6a6WopX4VK5) | 2:48 | 2022-01-21 | 2022-07-17 |
+| [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2022-12-07 |  |
 | [Tu Cariño](https://open.spotify.com/track/3lqmMrBhWLqw14dSGKZpl7) | [La Kosmica](https://open.spotify.com/artist/2rRqBAduZDY1nyge8evc19) | [Tu Cariño](https://open.spotify.com/album/5R0P9uEX1XIOo9Mb55Zj6Z) | 3:09 | 2022-04-01 | 2022-05-28 |
 | [Tu Me Obligaste](https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Enamorada y Loca](https://open.spotify.com/album/07UKRZ4qhxWZlichi47U2R) | 3:19 | 2022-01-21 | 2022-07-28 |
 | [Un Soñador Eterno](https://open.spotify.com/track/50pB6rEpZ1aDV2clo97wvf) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Un Soñador Eterno](https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo) | 3:25 | 2022-01-14 | 2022-07-28 |

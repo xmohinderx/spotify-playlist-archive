@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 357227,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 357305,
       "name": "In Trance",
       "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 420923,
       "name": "Mental Cinema - Dual DeStress Remix",
       "url": "https://open.spotify.com/track/11j9tefGImXpCegNSekVb9"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 382045,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
@@ -1513,6 +1513,24 @@
       "duration_ms": 196140,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/53UOfHeavMcTrt9ZaUadwY"
+    },
+    {
+      "album": {
+        "name": "Platia",
+        "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Platia",
+      "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
     },
     {
       "album": {
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 347386,
       "name": "Something Unreal",
       "url": "https://open.spotify.com/track/2zOK67xUs91ZyhRutVpkWc"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 208622,
       "name": "With You - Edit",
       "url": "https://open.spotify.com/track/0TJ2TCxM2bZSvorERc211K"

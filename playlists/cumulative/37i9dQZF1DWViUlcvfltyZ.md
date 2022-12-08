@@ -4,7 +4,7 @@
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Folks, stay home
 
-239 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+240 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [AIP](https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [AIP](https://open.spotify.com/album/0SLgtOJQyz2PiqMYGqPONw) | 2:57 | 2022-05-09 | 2022-06-03 |
 | [Alme](https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Alme](https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h) | 3:16 | 2022-10-06 | 2022-11-11 |
 | [Always Before \(The Fire\)](https://open.spotify.com/track/1Zxk5vYIHVeHiFKRmEfx3y) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Always Before \(The Fire\)](https://open.spotify.com/album/4G1FKZqj3dzWVLKfnzDybm) | 4:10 | 2022-05-09 | 2022-06-24 |
-| [Anche questa è insicurezza](https://open.spotify.com/track/7Jv6EL3KvtPEdK67S66fVE) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Anche questa è insicurezza](https://open.spotify.com/album/0FR945zs1rjI0asExLmnM0) | 3:39 | 2022-05-09 |  |
+| [Anche questa è insicurezza](https://open.spotify.com/track/13OQSXkZmFmqjPmQZIRM5e) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Canzoni da odiare](https://open.spotify.com/album/4i3LslAd4jo5F3tFCQ7CYd) | 3:39 | 2022-12-01 |  |
+| [Anche questa è insicurezza](https://open.spotify.com/track/7Jv6EL3KvtPEdK67S66fVE) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Anche questa è insicurezza](https://open.spotify.com/album/0FR945zs1rjI0asExLmnM0) | 3:39 | 2022-05-09 | 2022-12-08 |
 | [Ansia Capitale](https://open.spotify.com/track/3aJ8dxraLU7aqEm1FKwhX7) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/2uGVlSPYAyexEmyNJQa15H) | 4:02 | 2022-05-09 | 2022-05-27 |
 | [around my neck](https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo) | [Eugenia Post Meridiem](https://open.spotify.com/artist/47wCQih5a5wC9l3LqDRySE) | [around my neck](https://open.spotify.com/album/433w6aPK6Ht3Cif62mo5WJ) | 4:09 | 2022-10-06 | 2022-10-21 |
 | [Artistico serale](https://open.spotify.com/track/5EBpMh8KabaQxYITlPd5nc) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Falli a pezzi!](https://open.spotify.com/album/6Y5QkxB88qzpT3njgKH2LF) | 3:43 | 2022-06-30 | 2022-12-02 |

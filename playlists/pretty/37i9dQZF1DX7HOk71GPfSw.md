@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,942 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,248 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 6 | [FruitNinja.ipa](https://open.spotify.com/track/0Ukv1JUvVApUcleaxS8xvb) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj) | [FruitNinja.ipa](https://open.spotify.com/album/6htGzYtQjYzAIie2qQhWTt) | 2:10 |
 | 7 | [Motorola](https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Motorola](https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx) | 2:13 |
 | 8 | [sex symbol](https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [sex symbol](https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V) | 2:58 |
-| 9 | [paper plane](https://open.spotify.com/track/5Nuq71qQlePrI8GErxJsFw) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Protector](https://open.spotify.com/album/2U1iBOYHrh9hkwPSa2zMlv) | 2:48 |
+| 9 | [paper plane](https://open.spotify.com/track/5Nuq71qQlePrI8GErxJsFw) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [protector](https://open.spotify.com/album/2U1iBOYHrh9hkwPSa2zMlv) | 2:48 |
 | 10 | [Runaway](https://open.spotify.com/track/5OvFZ5TPlYAZmH6mpj88N7) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 2:28 |
 | 11 | [punch back](https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H) | [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [punch back](https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv) | 2:13 |
 | 12 | [bugging!](https://open.spotify.com/track/6OckTB2amWc3Jfa47Zg01U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [bugging!](https://open.spotify.com/album/4T2jVpTQ1a0sX09kQmMfOM) | 3:16 |

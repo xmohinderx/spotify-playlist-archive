@@ -2588,6 +2588,28 @@
     },
     {
       "album": {
+        "name": "NOUR EL AIN (feat. Nej)",
+        "url": "https://open.spotify.com/album/5y8GoB5nJ0LHWyKSANR2DY"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146726,
+      "name": "NOUR EL AIN (feat. Nej)",
+      "url": "https://open.spotify.com/track/3bQlbwBTqukkRto2zDfJuQ"
+    },
+    {
+      "album": {
         "name": "Nsiti",
         "url": "https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu"
       },
@@ -3000,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "SOY MAROCCINO",
+        "url": "https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138039,
+      "name": "SOY MAROCCINO",
+      "url": "https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy"
+    },
+    {
+      "album": {
         "name": "Stylo warqa",
         "url": "https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc"
       },
@@ -3173,7 +3213,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 259506,
       "name": "Wayli",
       "url": "https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc"
@@ -3297,7 +3337,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 252639,
       "name": "Ya Lalali",
       "url": "https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv"

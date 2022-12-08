@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 19134,
+  "num_followers": 19156,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMGQ5OWM5YTQ3NTk0MjQwY2MxNDQ3ZWE4YWE0ZjQyYzZk",
+  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMGU3MmRlM2YzZDE3NTlkYTE1ZGQ4MDZlYzgyOWQ2Zjli",
   "tracks": [
     {
       "added_at": "2022-12-05 10:46:12",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Nos El Bahr",
-        "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
+        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
       },
       "artists": [
         {
-          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
-          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+          "name": "Laith Abu Joda",
+          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
         }
       ],
-      "duration_ms": 238213,
-      "name": "Nos El Bahr",
-      "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
+      "duration_ms": 178912,
+      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
+        "name": "Nos El Bahr",
+        "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
+      },
+      "artists": [
+        {
+          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
+          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Nos El Bahr",
+      "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
         "name": "Albom Jezrawy Daym Fi baly",
         "url": "https://open.spotify.com/album/749B7VOpLUxHSzHHOCfET0"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 242453,
       "name": "Kas El Arak",
       "url": "https://open.spotify.com/track/6HJruYrCGRQ6NVLZtFnXAq"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
-        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
-      },
-      "artists": [
-        {
-          "name": "Laith Abu Joda",
-          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
-        }
-      ],
-      "duration_ms": 178912,
-      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Khalliha Ala Allah",
-        "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
-      },
-      "artists": [
-        {
-          "name": "Diana Karazon",
-          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
-        }
-      ],
-      "duration_ms": 252295,
-      "name": "Khalliha Ala Allah",
-      "url": "https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "Mn Gheirik Enti",
         "url": "https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 181347,
       "name": "Mn Gheirik Enti",
       "url": "https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "Khalliha Ala Allah",
+        "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
+      },
+      "artists": [
+        {
+          "name": "Diana Karazon",
+          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
+        }
+      ],
+      "duration_ms": 252295,
+      "name": "Khalliha Ala Allah",
+      "url": "https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ"
     },
     {
       "added_at": "2022-12-05 10:46:12",

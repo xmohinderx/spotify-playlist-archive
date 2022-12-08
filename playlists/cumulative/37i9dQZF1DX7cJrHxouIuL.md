@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-175 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
+176 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/2fSDwPEhE0n4j5X4Sjm87h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Superhero](https://open.spotify.com/track/5GddeUNptX80eEcXlWoSPj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Superhero](https://open.spotify.com/album/7FKsCQprYp5p6veybFbXr4) | 2:58 | 2022-04-15 |  |
 | [Sweet Bangs](https://open.spotify.com/track/3c2fVoASh1jcWZxP3KhLHf) | [Todd McHatton](https://open.spotify.com/artist/4kMNiHS0aefkX3RiLoonkn) | [Super Audio Sunshine](https://open.spotify.com/album/4loCVktR23Wp5u59lyYyyD) | 2:22 | 2022-04-15 |  |
 | [The Brightest Beef](https://open.spotify.com/track/1SSf6QvPrdoy43IFdKzOa0) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Dark Pie Concerns](https://open.spotify.com/album/5n088VCE7YKDxIZ684RAa6) | 3:15 | 2022-04-15 | 2022-07-29 |
-| [The Brightest Beef](https://open.spotify.com/track/4ZjPju4lSM8cU9CQdMESoU) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Dark Pie Concerns](https://open.spotify.com/album/6iwJmW6R5kX1u4duYTfe6Y) | 3:15 | 2022-04-15 |  |
+| [The Brightest Beef](https://open.spotify.com/track/4ZjPju4lSM8cU9CQdMESoU) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Dark Pie Concerns](https://open.spotify.com/album/6iwJmW6R5kX1u4duYTfe6Y) | 3:15 | 2022-04-15 | 2022-12-08 |
+| [The Brightest Beef](https://open.spotify.com/track/0RtOYgM3PhGatulSpaLo7V) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Dark Pie Concerns](https://open.spotify.com/album/4O17SOY62suR3SoovBSK3p) | 3:15 | 2022-10-11 |  |
 | [The Circle Game](https://open.spotify.com/track/1ph8BY4ymNFX2qL9Uqgozf) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Zee Avi's Nightlight](https://open.spotify.com/album/2R8cMVzWRFq0Rsc2WZi97U) | 4:23 | 2022-04-15 |  |
 | [The Friendship Song](https://open.spotify.com/track/37bxDWwkiAXj5mnXCsxojH) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5), [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [My Daughter's an Astronaut](https://open.spotify.com/album/26KXBb4WivIY5GA4HRIkj9) | 2:16 | 2022-04-15 |  |
 | [The Great Outdoors](https://open.spotify.com/track/0w1mltpIxNkRMYtZFyEbRQ) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [All Around Ralph's World](https://open.spotify.com/album/163vdLByNBuV2Vgh0kisu3) | 2:40 | 2022-04-15 |  |

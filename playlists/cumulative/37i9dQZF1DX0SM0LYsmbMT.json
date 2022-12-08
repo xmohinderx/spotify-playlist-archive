@@ -5897,7 +5897,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 144000,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Rcj4TlzlxJllSm1GZkef4"
@@ -38983,7 +38983,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "Nina",
       "url": "https://open.spotify.com/track/5MKqAfnnp1lKUwUK65lnf6"
@@ -50679,7 +50679,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 143402,
       "name": "Some kind of green",
       "url": "https://open.spotify.com/track/5bJwIC3hWM6j8JYAUGZ4AV"
@@ -52971,7 +52971,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Submerged",
       "url": "https://open.spotify.com/track/4MJ84OQBFamI9IPzArsKQU"
@@ -58089,7 +58089,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 121481,
       "name": "Top Of The World",
       "url": "https://open.spotify.com/track/23f7knsxaG3hydPGazsA0W"
@@ -62579,6 +62579,28 @@
       "duration_ms": 181379,
       "name": "what (it's precious)",
       "url": "https://open.spotify.com/track/7Gj3Z2Z6AyzgAAPw3wsGrR"
+    },
+    {
+      "album": {
+        "name": "Eunoia",
+        "url": "https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "YAN NAY",
+          "url": "https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "What About Spring",
+      "url": "https://open.spotify.com/track/1xb1ELvhWhuJgnoDP37DJD"
     },
     {
       "album": {

@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-07",
+      "date_removed": null,
       "duration_ms": 207006,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 227215,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/2EiA587apVmlS9wbch4vti"
@@ -3507,7 +3507,7 @@
     {
       "album": {
         "name": "Bloom",
-        "url": "https://open.spotify.com/album/3zAxTb1VGHR5c6O6T6Jtvi"
+        "url": "https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi"
       },
       "artists": [
         {
@@ -3522,6 +3522,28 @@
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3zAxTb1VGHR5c6O6T6Jtvi"
+      },
+      "artists": [
+        {
+          "name": "Mime",
+          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
       "duration_ms": 248000,
       "name": "Seed",
       "url": "https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm"
@@ -3967,10 +3989,28 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 243936,
       "name": "SUI SUI",
       "url": "https://open.spotify.com/track/2UDq4JJZQ0ErYi32l1agQz"
+    },
+    {
+      "album": {
+        "name": "SUI SUI",
+        "url": "https://open.spotify.com/album/4kuK0MfxpC0pTzg6y1GpOv"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243936,
+      "name": "SUI SUI",
+      "url": "https://open.spotify.com/track/2b9AKUBu5twWV3Uf82zHhU"
     },
     {
       "album": {

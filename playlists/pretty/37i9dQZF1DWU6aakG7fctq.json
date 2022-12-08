@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Yorghaki",
-  "num_followers": 504351,
+  "num_followers": 504381,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMGZmNzI0NWY0NTkzMWMxNTRkMThlM2NmMzlkMGQzODRm",
+  "snapshot_id": "MTY2OTkzOTIwMCwwMDAwMDAwMDVlOWU2YzlkYmY3OThiMWVjYmU0YzQ3MWViOTY1ZTAy",
   "tracks": [
     {
       "added_at": "2022-12-02 00:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "desde arriba",
         "url": "https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 284500,
       "name": "desde arriba",
       "url": "https://open.spotify.com/track/1vcN4qmLq4loYfEopGLGap"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-02 00:00:00",
       "album": {
-        "name": "Repetici\u00f3n",
-        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
-      },
-      "artists": [
-        {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Repetici\u00f3n",
-      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
-    },
-    {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153500,
       "name": "Cohen's Cumbia",
       "url": "https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Repetici\u00f3n",
+        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Repetici\u00f3n",
+      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
     },
     {
       "added_at": "2022-12-02 00:00:00",

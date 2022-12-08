@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Folks, stay home
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,539 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,547 likes - 54 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 50 | [Che Bella è](https://open.spotify.com/track/25hud035fkibY2xzOuMLWY) | [CACTUS](https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK) | [Made in Cina](https://open.spotify.com/album/7zWOLZSOXOVfSRTVCOWP4X) | 2:59 |
 | 51 | [Spettri](https://open.spotify.com/track/7EDKymCkYNPVCxC599ecKj) | [Origami](https://open.spotify.com/artist/2z0MB92U117RLN71TMPolD) | [Spettri](https://open.spotify.com/album/5zfBbNIWDkoEuyGA8PnWcd) | 2:47 |
 | 52 | [Non ci avranno mai](https://open.spotify.com/track/69rYYzgRz9STrOZ7aARRLY) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p), [Uolfgang](https://open.spotify.com/artist/2XltGObUBQdNTkAFIR0Av4) | [Non ci avranno mai](https://open.spotify.com/album/2uaDhcy5ty67ZrISRt3cFr) | 2:30 |
-| 53 | [Anche questa è insicurezza](https://open.spotify.com/track/7Jv6EL3KvtPEdK67S66fVE) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Anche questa è insicurezza](https://open.spotify.com/album/0FR945zs1rjI0asExLmnM0) | 3:39 |
+| 53 | [Anche questa è insicurezza](https://open.spotify.com/track/13OQSXkZmFmqjPmQZIRM5e) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Canzoni da odiare](https://open.spotify.com/album/4i3LslAd4jo5F3tFCQ7CYd) | 3:39 |
 | 54 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
 
-Snapshot ID: `MTY2OTkzNTY2MCwwMDAwMDAwMDFkN2JkM2Y1ODc4MzFkNDU5MDQ0ZjkxNmVjZTMyYjc0`
+Snapshot ID: `MTY2OTkzNTY2MCwwMDAwMDAwMDZiNmYyN2FkZmNiZDgyOGUwNzVlY2Q1YzAzYWMwOGFm`

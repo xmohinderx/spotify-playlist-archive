@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
@@ -2426,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "Memeshikute (2022ryukogo ver.)",
+        "url": "https://open.spotify.com/album/54EH2V8aSCzMyi47fdmeUc"
+      },
+      "artists": [
+        {
+          "name": "GOLDEN BOMBER",
+          "url": "https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "Memeshikute - 2022ryukogo ver.",
+      "url": "https://open.spotify.com/track/1jcBBNlvrLSvfZJThCz3oe"
+    },
+    {
+      "album": {
         "name": "MERRY X'MAS IN SUMMER",
         "url": "https://open.spotify.com/album/60iBZ6OLMcN1CU11E3MNzw"
       },
@@ -4349,7 +4367,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 212440,
       "name": "Tonight, Tonight",
       "url": "https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg"
@@ -6733,7 +6751,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 149160,
       "name": "\u5973\u3005\u3057\u304f\u3066 - 2022\u6d41\u884c\u8a9ever.",
       "url": "https://open.spotify.com/track/2Q0JyzagFtM4cxlM0bXblO"

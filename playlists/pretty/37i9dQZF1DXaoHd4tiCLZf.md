@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > The official playlist for Emily in Paris\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,809 likes - 119 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,975 likes - 119 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 22 | [Tout \(sinon rien\)](https://open.spotify.com/track/4oHDZV4ySUYyiUx5fl6ZTG) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Ouh là là](https://open.spotify.com/album/6RB5mSX5nzZo6pJtbFaHtS) | 3:34 |
 | 23 | [Red Carpet Sand](https://open.spotify.com/track/5qyLtzuxJ7Gev0zYFn0TaN) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Red Carpet Sand](https://open.spotify.com/album/79zwQnFTDLXTUIjJGVwwob) | 3:31 |
 | 24 | [On The Beach](https://open.spotify.com/track/2QyoxBsZPyxiys5s7zvd4l) | [Darwin](https://open.spotify.com/artist/4dWWj9XgBPfwmqPdqDjSLI) | [CVC003: Evolution](https://open.spotify.com/album/6GJEKbqHiXtd7QhizCmVs9) | 3:17 |
-| 25 | [Holy Lakes \(Dusk\)](https://open.spotify.com/track/6FXedT1pjklb2aVLgQtNH9) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Holy Lakes \(Dusk\)](https://open.spotify.com/album/3fSSDKeh2BslaoxUuzOkSK) | 4:09 |
+| 25 | [Holy Lakes \(Dusk\)](https://open.spotify.com/track/2VK8MXWOGEJlOmSri24UXJ) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Holy Lakes \(Dusk\)](https://open.spotify.com/album/5mgg4qS5gwPNruYseXTj5x) | 4:09 |
 | 26 | [Magnetic Woman](https://open.spotify.com/track/07ybgSxy7hNGqE6xWhKWk1) | [Eerie Wanda](https://open.spotify.com/artist/0CkWsjqKOX2aFrcmFvcQr9) | [Pet Town](https://open.spotify.com/album/0lxcDZW5xfoEVQFYgJkITt) | 3:12 |
 | 27 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
 | 28 | [Rebecca](https://open.spotify.com/track/5UZcdC7bW9JShSPzZ1Wb1O) | [Des Roses](https://open.spotify.com/artist/1gCto4xjSfyzCWFqbhp1gA) | [28.08](https://open.spotify.com/album/5GmQf8QHvWJEeoTS5277bV) | 4:13 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 118 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 119 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY1MzA3NzIwOCwwMDAwMDAwMDhkMjNlNzkyMDkwMjNiMTI1MjY1YTZjYzYxYjI4MjA4`
+Snapshot ID: `MTY1MzA3NzIwOCwwMDAwMDAwMDQ1YzMzOGNhYmRmYTI3OGI4YTNiNGUwNDJkMDliZWI4`

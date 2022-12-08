@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。©︎THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-100 songs - 7 hr 27 min - not published yet
+101 songs - 7 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Genuine feelings](https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 4:41 | 2022-12-01 |  |
 | [GOLD \~No.79\~](https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN) | [山下次郎 \(CV.中島ヨシキ\)](https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:22 | 2022-12-01 |  |
 | [GOOD NEW MORNING](https://open.spotify.com/track/3iuy5pmjX5igfneqNeE305) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM NEW STAGE EPISODE:12 DRAMATIC STARS](https://open.spotify.com/album/41egSGWcWXwiIUP3LLpyiN) | 4:37 | 2022-12-01 |  |
+| [Growing Smiles!](https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles!](https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T) | 4:33 | 2022-12-01 |  |
 | [HAPPY HAPPYミーティング](https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb) | [天ヶ瀬冬馬 \(CV.寺島拓篤\)](https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 4:43 | 2022-12-01 |  |
 | [Happy's Birthday](https://open.spotify.com/track/3TRybkW20l5nukwmOXsBTx) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM NEW STAGE EPISODE:13 S.E.M](https://open.spotify.com/album/6zyvJTb3gNtd2dlQQBjtj8) | 4:15 | 2022-12-01 |  |
 | [HIGH JUMP NO LIMIT](https://open.spotify.com/track/2xEQzDv6FN51uHBKnhsIcm) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 4:41 | 2022-12-01 |  |
@@ -87,7 +88,7 @@
 | [“W”onderful Tactics!](https://open.spotify.com/track/5DfRA3Gf8MMhMRlHGhg5Ky) | [蒼井享介 \(CV.山谷祥生\)](https://open.spotify.com/artist/2arh1fPHp7uZyyNMdGzfO4) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:35 | 2022-12-01 | 2022-12-03 |
 | [いつかのトライアングル](https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE), [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 5:49 | 2022-12-01 |  |
 | [その場所へ行くために\-KEEP ON FIGHTING\-](https://open.spotify.com/track/6fmNs7hgCuS2b0yZfHJ2cQ) | [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd) | [THE IDOLM@STER SideM ORIGIN@L PIECES 07](https://open.spotify.com/album/3EC0iMsWrwHzZxL2LoRDuM) | 4:34 | 2022-12-01 | 2022-12-03 |
-| [はんどめいど・きみはーと!](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 | 2022-12-01 |  |
+| [はんどめいど・きみはーと!](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 | 2022-12-01 | 2022-12-08 |
 | [ほっぷ・すてっぷ・ハイ、しーぷ!](https://open.spotify.com/track/0lSwhCT4osQHWvYeW20ckj) | [岡村直央 \(CV.矢野奨吾\)](https://open.spotify.com/artist/6UVpGdaJTtWjqayx63Newe) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:12 | 2022-12-01 | 2022-12-06 |
 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 | 2022-12-01 |  |
 | [エウレカダイアリー](https://open.spotify.com/track/7oIyoSF18q8FlaGPrc90wi) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9), [S.E.M](https://open.spotify.com/artist/3NwNHa7Xdqe1r0j9ky8wgC) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:48 | 2022-12-01 |  |

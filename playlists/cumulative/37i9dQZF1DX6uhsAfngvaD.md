@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-323 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+324 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2019-11-19\* | 2020-11-06 |
 | [Boys Got to Go](https://open.spotify.com/track/3tD1Woe9cOS3pF8eUGMIMC) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/0ak4UjGlHdaae0fPn8cgCi) | 2:55 | 2020-12-22 | 2021-03-06 |
 | [Brillo](https://open.spotify.com/track/5Mvi4VJVhPKPn3OxumkRI6) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Brillo](https://open.spotify.com/album/5GHe6nkqz9cE4dS76BmPuR) | 4:20 | 2020-12-11 | 2020-12-22 |
-| [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 | 2022-07-06 |  |
+| [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 | 2022-07-06 | 2022-12-08 |
 | [Bubblegum](https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Liquid](https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps) | 2:46 | 2022-07-06 |  |
 | [Bubblegum](https://open.spotify.com/track/5XaJdpwi6KoKHzxYS3wDcH) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Bubblegum](https://open.spotify.com/album/47AJ4yZfbQni0cUn6NNyM1) | 2:46 | 2021-09-10 | 2022-07-29 |
 | [Burnout!](https://open.spotify.com/track/6aBl8UezkCSSORPvG5l9Kt) | [Blushh](https://open.spotify.com/artist/6gwYYlD3bgZOHGYGrTGFz5) | [Burnout!](https://open.spotify.com/album/6dIw0ywe3wwTifjy57eHG8) | 2:18 | 2022-04-13 | 2022-06-25 |
@@ -261,6 +261,7 @@
 | [So You're Young](https://open.spotify.com/track/4Em5Dsf7FZheKNUuBvujzf) | [Mike Edge](https://open.spotify.com/artist/4Em1Ttxf3w2t0QtKYtYImx) | [So You're Young](https://open.spotify.com/album/0A0k4R7nJELE6lClsJBv4g) | 3:08 | 2019-11-19\* | 2020-08-09 |
 | [Somebody Else](https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2vuKU9YQ69fZvS1LDX199X) | 5:31 | 2020-08-09 | 2022-07-29 |
 | [Somebody Else](https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/0rPRQrMxmMBq9Jii0IwqDF) | 5:31 | 2022-07-06 | 2022-12-05 |
+| [Somebody Else](https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa) | 5:31 | 2022-07-06 |  |
 | [Someday Soon](https://open.spotify.com/track/54H7CLmI5SE7wmhlE0THS5) | [Lev Snowe](https://open.spotify.com/artist/2lRRqJBopJfhZswiXar3a5) | [Someday Soon](https://open.spotify.com/album/1kxt9aBXjZrlkcuIg1J8Js) | 3:37 | 2019-11-19\* | 2022-07-28 |
 | [Something Sweet](https://open.spotify.com/track/7iJ5IuGJ7AX97KSrFfcREa) | [Shy Boys](https://open.spotify.com/artist/7hDw3suvKY0KLud00BuzHL) | [Something Sweet](https://open.spotify.com/album/0YsnRppxJy5rigieD036tx) | 2:02 | 2019-11-19\* | 2020-08-09 |
 | [Song to Myself, Pt\. I](https://open.spotify.com/track/66hEhjJ69nPkPyHCB5mANE) | [Foliage](https://open.spotify.com/artist/6GO4Noo5C7TXVHxGNClp2w) | [Song to Myself, Pt\. I](https://open.spotify.com/album/3mlMvtZ4YcsEgHROsNpyFG) | 2:06 | 2019-11-19\* | 2020-12-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Pamungkas
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,160 likes - 78 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,180 likes - 78 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-1,423 songs - 3 day 0 hr 51 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,425 songs - 3 day 0 hr 57 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,7 @@
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2019-06-15 |
 | [Illusion](https://open.spotify.com/track/53I38TLjBU1cHfXsBGxh6M) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Illusion](https://open.spotify.com/album/5eTmHILPX2VUkrRSbhqMlk) | 2:49 | 2022-11-04 | 2022-11-12 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 | 2022-08-17 |
-| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 |  |
+| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-12-08 |
 | [In My Head](https://open.spotify.com/track/5ll8HAvZjHncvYQbGmQiWS) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In My Head](https://open.spotify.com/album/1893jpgnH51NsGubSHlvfJ) | 2:45 | 2022-12-02 |  |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-05-22 | 2022-03-26 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-20 | 2022-06-06 |
@@ -1025,6 +1025,7 @@
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-08-27 |
 | [Returning](https://open.spotify.com/track/4EYbngh7hMndlGfHrVid10) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Indigo](https://open.spotify.com/album/4EGEvPEXUTrCQaIaBjOwJs) | 3:36 | 2019-09-27 | 2021-02-12 |
 | [Rewind](https://open.spotify.com/track/2BQNTGlTRAyTcS0w9f78ox) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Rewind](https://open.spotify.com/album/7CQltivAela43AXz4ZpdTI) | 4:08 | 2021-01-07 | 2021-11-10 |
+| [Rich Like That \- deluxe](https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO \(deluxe\)](https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn) | 2:21 | 2022-12-02 |  |
 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 | 2019-05-26\* | 2019-08-13 |
 | [Right Back \- Basenji Remix](https://open.spotify.com/track/1zFBRDYr5U9ekpvM1IK7so) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Right Back \(Club 404 Edits\)](https://open.spotify.com/album/1lIVSWUzSPfuPdpqK89AYf) | 3:14 | 2019-06-27 | 2019-09-14 |
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-08-18 | 2022-01-08 |
@@ -1208,6 +1209,7 @@
 | [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 | 2021-03-09 | 2021-03-15 |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2021-02-23 | 2021-12-21 |
 | [Sunny](https://open.spotify.com/track/3i1aStQRrIiJDRmQQi1uBZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Sunny](https://open.spotify.com/album/2d7qtsNt4kiQJCtM6uFGMr) | 2:46 | 2021-02-22 | 2021-11-10 |
+| [Sunny D](https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Penny](https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW) | 3:42 | 2022-12-02 |  |
 | [sunrise](https://open.spotify.com/track/3lTH6qyJ1FEoO6Wkm9vl0I) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [sunrise](https://open.spotify.com/album/6I4PzchQZwZPeArQwDqrrR) | 2:41 | 2022-03-11 | 2022-06-07 |
 | [Sunroof](https://open.spotify.com/track/2UGbgIze4hB9GkdAte1eiV) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [NOW That's What I Call Music! Vol\. 84](https://open.spotify.com/album/1vDJyYjUUvXYJaZmKsukJJ) | 2:40 | 2022-11-11 | 2022-11-13 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-11-26 | 2022-07-29 |
@@ -1359,7 +1361,7 @@
 | [Wannabe](https://open.spotify.com/track/6tKG1a40gvBQXNpATbqlfN) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Wannabe](https://open.spotify.com/album/69vN2qVlOrzPtvI7lX2mLE) | 3:33 | 2021-11-05 | 2022-01-29 |
 | [Want](https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Want](https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf) | 4:24 | 2021-10-14 | 2021-11-16 |
 | [Want You](https://open.spotify.com/track/2dd5KhcZaoEE7f4ec014JY) | [Rynx](https://open.spotify.com/artist/3v2NAsnsViisa2k0CNolXW), [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [Want You](https://open.spotify.com/album/4XrYMVLL3EeG469oQSPyQp) | 3:37 | 2019-05-26\* | 2019-08-13 |
-| [Warhol](https://open.spotify.com/track/3P707u2l8c3jQkHUaXYE1L) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 2:35 | 2022-10-28 |  |
+| [Warhol](https://open.spotify.com/track/3P707u2l8c3jQkHUaXYE1L) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 2:35 | 2022-10-28 | 2022-12-08 |
 | [Warpaint](https://open.spotify.com/track/6E4POizZfmNFRp7840aY8w) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Warpaint](https://open.spotify.com/album/3xUR1JT0b2uC1SZ54flBll) | 3:33 | 2019-05-26\* | 2019-08-13 |
 | [Warrior](https://open.spotify.com/track/4dVuxaj9278T0Md4UUtkUY) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Warrior](https://open.spotify.com/album/78WXTSAKPrfWKTRkqykyFd) | 3:24 | 2019-05-26\* | 2020-02-20 |
 | [Waste of Time \- Live at Lucy's Meat Market](https://open.spotify.com/track/0EFTlb4ydQZoN4pBc93wde) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Waste of Time \(Live at Lucy's Meat Market\)](https://open.spotify.com/album/1glvLbDNMojANDXgQwA2qD) | 3:24 | 2019-09-06 | 2020-03-20 |

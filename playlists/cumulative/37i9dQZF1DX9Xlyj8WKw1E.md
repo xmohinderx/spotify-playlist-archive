@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover, Babyface Ray
 
-316 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
+317 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Blues](https://open.spotify.com/track/0hXgSNOJ5P1ha2uNPa3yzo) | [Bj](https://open.spotify.com/artist/2Z5XtkutMYyA8gt14mLANU) | [Blues](https://open.spotify.com/album/3iRb4HfoUZV3s3LsEWqkQ9) | 2:53 | 2022-01-29 | 2022-04-29 |
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 | 2022-09-16 | 2022-10-26 |
 | [Bop Stick](https://open.spotify.com/track/5FA3ouHtlqYbvQjHJ7OuKX) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Bop Stick](https://open.spotify.com/album/6XHn3lHmjIZia6TKIPO2qX) | 2:06 | 2022-04-02 | 2022-06-08 |
-| [Boundaries](https://open.spotify.com/track/1vj5osDzCZSpjHArrtMjqr) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boundaries \(DRAMA Remix\)](https://open.spotify.com/album/0WylqMxFFxeBnZDB911kon) | 3:15 | 2022-12-02 |  |
+| [Boundaries](https://open.spotify.com/track/1vj5osDzCZSpjHArrtMjqr) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boundaries \(DRAMA Remix\)](https://open.spotify.com/album/0WylqMxFFxeBnZDB911kon) | 3:15 | 2022-12-02 | 2022-12-08 |
+| [Boundaries](https://open.spotify.com/track/1x8Y6qmIS378NB720asCAm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boundaries](https://open.spotify.com/album/11HvsZeFnziylX9EaMzVaK) | 3:15 | 2022-12-02 |  |
 | [broken](https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [broken](https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB) | 2:34 | 2022-07-18 | 2022-09-10 |
 | [Bulletproof Maybach \(feat\. Offset\)](https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:57 | 2022-10-25 |  |
 | [Bussin](https://open.spotify.com/track/2wONmi2tLpuWThTIwLkyya) | [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Bussin](https://open.spotify.com/album/2OA8LO3EzH1i1J1oYFcqrl) | 2:58 | 2021-10-29 | 2022-06-08 |

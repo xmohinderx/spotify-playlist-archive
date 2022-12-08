@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-104 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+105 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 | 2021-12-10 |  |
 | [Day Drinking \- Party Mix](https://open.spotify.com/track/4zVwASFqCT6XUmpBrnuIJK) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Day Drinking \(Party Mix\)](https://open.spotify.com/album/221DPZOZH1TDYisXjLeC81) | 3:35 | 2021-12-10 |  |
 | [Dos Copas de Más \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/6SJHD4x5Utx7lnBJCtOpML) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/7swLFakFeCrD0XeazxzJd1) | 3:42 | 2021-12-10 |  |
-| [Down The Road](https://open.spotify.com/track/5kdajqHHMPDsFEQEY7YstN) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Down The Road](https://open.spotify.com/album/6TmzDsVkEq3j3xNdkDahCM) | 2:58 | 2022-06-03 |  |
+| [Down The Road](https://open.spotify.com/track/5kdajqHHMPDsFEQEY7YstN) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Down The Road](https://open.spotify.com/album/6TmzDsVkEq3j3xNdkDahCM) | 2:58 | 2022-06-03 | 2022-12-08 |
+| [Down The Road](https://open.spotify.com/track/2omj4J6W4cL2cOU4Tjz0Sr) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Vulnerable](https://open.spotify.com/album/5S5dZ1YxS2JLDHDxjH3ZVD) | 2:59 | 2022-12-01 |  |
 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/6RJH2nSmmxFOynFDzNfik8) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:01 | 2022-07-08 |  |
 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/70TQ2bBSD5J39rmggn0wRR) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/6X84FPyedv5spo1tdQxLuQ) | 3:01 | 2021-12-10 | 2022-07-29 |
 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/7MT3csTkm4yhkmNOlsbwn5) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/4Uty8PTjWY2INcCub7h40P) | 3:01 | 2022-11-04 | 2022-11-13 |

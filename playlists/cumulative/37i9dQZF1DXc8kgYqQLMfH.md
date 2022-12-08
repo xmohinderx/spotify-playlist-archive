@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-753 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+754 songs - 1 day 4 hr 24 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,8 @@
 | [i remember bird](https://open.spotify.com/track/4QuO8f4UfCTY2l2V7jgEBU) | [sativae](https://open.spotify.com/artist/1mtyuD6hkYXIT3ZJRPhNt1) | [i remember bird](https://open.spotify.com/album/7xuGnngiHzo8WFOIe4Sxeb) | 2:03 | 2021-11-10 | 2022-04-08 |
 | [i'm sorry](https://open.spotify.com/track/5axCWfV76SnK8XZzuMrAYr) | [Miyuki Kuzuoka](https://open.spotify.com/artist/4QP6hpplFH8kQZ0AKo0c1Z) | [i'm sorry](https://open.spotify.com/album/3YYrHBFzq2SEJ0at3JUHtT) | 1:43 | 2022-11-11 |  |
 | [Iced Latte](https://open.spotify.com/track/6iDTfeImqkfTYncTbO5x9i) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Iced Latte](https://open.spotify.com/album/1VOOyVqNDBRRnzX3IiWzJO) | 1:54 | 2022-04-08 | 2022-07-22 |
-| [if you could fly](https://open.spotify.com/track/360jCzboMk6N7JRW2IyuIo) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/6zI0uFVK438QHn7eXtC11i) | 2:18 | 2022-11-25 |  |
+| [if you could fly](https://open.spotify.com/track/360jCzboMk6N7JRW2IyuIo) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/6zI0uFVK438QHn7eXtC11i) | 2:18 | 2022-11-25 | 2022-12-08 |
+| [if you could fly](https://open.spotify.com/track/4vLb7pSrQ4JNDr6ax3mw1y) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/5dCqU7kxTJ4IdMdXcbep15) | 2:18 | 2022-11-25 |  |
 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2021-11-10 | 2022-04-08 |
 | [in a dream](https://open.spotify.com/track/6qvjAgiP6p4m5mHpDT4E4h) | [sunday museum](https://open.spotify.com/artist/7Dmb3mabrQmXGMFatQHh8N) | [in a dream](https://open.spotify.com/album/5GXKFWGELPZeG0SrC5wDr3) | 2:00 | 2022-11-11 |  |
 | [In Limbo & Loving It](https://open.spotify.com/track/5kIsqbXbUNwaxQH1anoJ64) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [In Limbo & Loving It](https://open.spotify.com/album/19JbKTPT8GbfSv35qhY9Jq) | 2:43 | 2021-11-10 | 2022-07-22 |

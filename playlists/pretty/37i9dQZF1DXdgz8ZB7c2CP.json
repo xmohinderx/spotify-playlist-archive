@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Pauline Herr.",
-  "num_followers": 734504,
+  "num_followers": 734576,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGQ2YWRlODY0MTkwNzdkYmY2NmYyZjc3MDQ4NmI4MjM4",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGMxYzdiZmFjODE0ZDFhOGYyYjhkOTkyZTQ3YzRhYzk5",
   "tracks": [
     {
       "added_at": "2021-11-26 07:27:00",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
     },
     {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Colors of Your Heart",
+        "url": "https://open.spotify.com/album/2X1QKZakJ970AjXhaKH6oi"
+      },
+      "artists": [
+        {
+          "name": "Kidswaste",
+          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
+        }
+      ],
+      "duration_ms": 157783,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/73AJKu43I5e6MsTBYaNcfM"
+    },
+    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "Blue (Flume Remix)",
@@ -255,22 +271,6 @@
       "duration_ms": 166666,
       "name": "Blue - Flume Remix",
       "url": "https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Colors of Your Heart",
-        "url": "https://open.spotify.com/album/2X1QKZakJ970AjXhaKH6oi"
-      },
-      "artists": [
-        {
-          "name": "Kidswaste",
-          "url": "https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH"
-        }
-      ],
-      "duration_ms": 157783,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/73AJKu43I5e6MsTBYaNcfM"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -637,6 +637,26 @@
       "url": "https://open.spotify.com/track/0UapLurjls7TjbtsX5QW7l"
     },
     {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "You Should Run",
+        "url": "https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 299255,
+      "name": "You Should Run",
+      "url": "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"
+    },
+    {
       "added_at": "2021-10-08 04:03:00",
       "album": {
         "name": "Alive",
@@ -659,26 +679,6 @@
       "duration_ms": 172727,
       "name": "Cliffs",
       "url": "https://open.spotify.com/track/7gnl8zbOnLzEVu5ktsvjEW"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "You Should Run",
-        "url": "https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 299255,
-      "name": "You Should Run",
-      "url": "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -779,26 +779,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Rumor",
-        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "WYN",
-          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
-        }
-      ],
-      "duration_ms": 278808,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "A Taste of Hope",
         "url": "https://open.spotify.com/album/5pJrszvENBXyggrnxJ9IsF"
       },
@@ -851,6 +831,26 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Rumor",
+        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "WYN",
+          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
+        }
+      ],
+      "duration_ms": 278808,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "game point",
         "url": "https://open.spotify.com/album/4uQ7FC2FsJjv3RdQLKPhHZ"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 195483,
       "name": "game point",
       "url": "https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Fall in Love Moody Good Remix",
+        "url": "https://open.spotify.com/album/0O35S4L5p7aT0pA3pvY8hh"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Fall in Love Moody Good Remix",
+      "url": "https://open.spotify.com/track/4ZnVn9qCN4ED4Nq4yNzA7z"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -891,22 +907,6 @@
       "duration_ms": 236800,
       "name": "Chemical (feat. Ahsha & Lemay) - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Fall in Love Moody Good Remix",
-        "url": "https://open.spotify.com/album/0O35S4L5p7aT0pA3pvY8hh"
-      },
-      "artists": [
-        {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Fall in Love Moody Good Remix",
-      "url": "https://open.spotify.com/track/4ZnVn9qCN4ED4Nq4yNzA7z"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -965,26 +965,6 @@
       "url": "https://open.spotify.com/track/1swFJw7cDPCqzMfC7a2bWb"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "So Long (Tails Remix)",
@@ -1003,6 +983,26 @@
       "duration_ms": 252705,
       "name": "So Long - Tails Remix",
       "url": "https://open.spotify.com/track/3FLxGmYJyextdbsVPZxn5p"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/1KxLWCQJG4RSeymZdHhDOV"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "A Place Where Mountains Hide",
-        "url": "https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS"
-      },
-      "artists": [
-        {
-          "name": "acloudyskye",
-          "url": "https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "A Drowning Cry",
-      "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "PILLARS ///",
@@ -1131,6 +1115,22 @@
       "duration_ms": 205989,
       "name": "Statues",
       "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "A Place Where Mountains Hide",
+        "url": "https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS"
+      },
+      "artists": [
+        {
+          "name": "acloudyskye",
+          "url": "https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "A Drowning Cry",
+      "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1191,6 +1191,42 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Hurting on Purpose (feat. K.Flay)",
+        "url": "https://open.spotify.com/album/1l1LupuEyKmrHfDa3HOtCF"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 129408,
+      "name": "Hurting on Purpose (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/3wROjwePZ2JrvHI2FPDqul"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Open Blinds",
+        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 255579,
+      "name": "Open Blinds",
+      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Escape Reality",
         "url": "https://open.spotify.com/album/5tHeGvKuuTHaMiddXUAqGL"
       },
@@ -1215,26 +1251,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Hurting on Purpose (feat. K.Flay)",
-        "url": "https://open.spotify.com/album/1l1LupuEyKmrHfDa3HOtCF"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 129408,
-      "name": "Hurting on Purpose (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/3wROjwePZ2JrvHI2FPDqul"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Everybody You Hurt",
         "url": "https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Open Blinds",
-        "url": "https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs"
+        "name": "T0NITE",
+        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "HELLHEIM",
+          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
         }
       ],
-      "duration_ms": 255579,
-      "name": "Open Blinds",
-      "url": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
+      "duration_ms": 123259,
+      "name": "T0NITE",
+      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
     },
     {
       "added_at": "2021-11-26 07:27:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 228985,
       "name": "Sticky Love",
       "url": "https://open.spotify.com/track/1p4j8XMaB67GJEBa5RBrQJ"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "T0NITE",
-        "url": "https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1"
-      },
-      "artists": [
-        {
-          "name": "HELLHEIM",
-          "url": "https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU"
-        }
-      ],
-      "duration_ms": 123259,
-      "name": "T0NITE",
-      "url": "https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN"
     },
     {
       "added_at": "2021-08-13 20:41:08",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE"
     },
     {
+      "added_at": "2021-10-08 04:03:00",
+      "album": {
+        "name": "Drugs in California",
+        "url": "https://open.spotify.com/album/0orGCA2NnyJwZ7MPl5uhGo"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "duration_ms": 182578,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/28SH5XV1NNVDiW5gPklCk7"
+    },
+    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "Makeshift Moon",
@@ -1403,6 +1419,26 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Half Way Home",
+        "url": "https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh"
+      },
+      "artists": [
+        {
+          "name": "PINES",
+          "url": "https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 177718,
+      "name": "Half Way Home",
+      "url": "https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd"
       },
@@ -1431,42 +1467,6 @@
       "duration_ms": 201611,
       "name": "bb u ok?",
       "url": "https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Half Way Home",
-        "url": "https://open.spotify.com/album/6VR6YeXIXAXxdcOTrd6zeh"
-      },
-      "artists": [
-        {
-          "name": "PINES",
-          "url": "https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 177718,
-      "name": "Half Way Home",
-      "url": "https://open.spotify.com/track/7pWtm7wDWIoT0TWoqySBy5"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Mess With Me",
-        "url": "https://open.spotify.com/album/14BwnpumW4yrqFvZbMEjW6"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Mess With Me",
-      "url": "https://open.spotify.com/track/54wPYSDLDGohNs7wCsb5ye"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi"
+      },
+      "artists": [
+        {
+          "name": "Whereisalex",
+          "url": "https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/76FR3MBARic3eh86RQjubB"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
         "name": "Keep You",
         "url": "https://open.spotify.com/album/50ivZBGeYJPiAnvrpElesT"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi"
+        "name": "Mess With Me",
+        "url": "https://open.spotify.com/album/14BwnpumW4yrqFvZbMEjW6"
       },
       "artists": [
         {
-          "name": "Whereisalex",
-          "url": "https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT"
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/76FR3MBARic3eh86RQjubB"
+      "duration_ms": 192000,
+      "name": "Mess With Me",
+      "url": "https://open.spotify.com/track/54wPYSDLDGohNs7wCsb5ye"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1561,22 +1577,6 @@
       "url": "https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6"
     },
     {
-      "added_at": "2021-10-08 04:03:00",
-      "album": {
-        "name": "Drugs in California",
-        "url": "https://open.spotify.com/album/0orGCA2NnyJwZ7MPl5uhGo"
-      },
-      "artists": [
-        {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
-        }
-      ],
-      "duration_ms": 182578,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/28SH5XV1NNVDiW5gPklCk7"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "Vivid",
@@ -1591,22 +1591,6 @@
       "duration_ms": 209299,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Intrastellar EP",
-        "url": "https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI"
-      },
-      "artists": [
-        {
-          "name": "thomfjord",
-          "url": "https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a"
-        }
-      ],
-      "duration_ms": 321535,
-      "name": "Intrastellar",
-      "url": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
     },
     {
       "added_at": "2022-05-13 04:28:02",
@@ -1625,56 +1609,20 @@
       "url": "https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O"
     },
     {
-      "added_at": "2021-11-26 07:27:00",
-      "album": {
-        "name": "care about u",
-        "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 201637,
-      "name": "care about u",
-      "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr"
+        "name": "Intrastellar EP",
+        "url": "https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI"
       },
       "artists": [
         {
-          "name": "sober rob",
-          "url": "https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF"
-        },
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+          "name": "thomfjord",
+          "url": "https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a"
         }
       ],
-      "duration_ms": 190163,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 259660,
-      "name": "Something Wonderful",
-      "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
+      "duration_ms": 321535,
+      "name": "Intrastellar",
+      "url": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1695,6 +1643,58 @@
       "duration_ms": 210266,
       "name": "The Gallery",
       "url": "https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N"
+    },
+    {
+      "added_at": "2021-11-26 07:27:00",
+      "album": {
+        "name": "care about u",
+        "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 201637,
+      "name": "care about u",
+      "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 259660,
+      "name": "Something Wonderful",
+      "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr"
+      },
+      "artists": [
+        {
+          "name": "sober rob",
+          "url": "https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF"
+        },
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "duration_ms": 190163,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1737,6 +1737,26 @@
       "url": "https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ"
     },
     {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Rolls Royce",
+        "url": "https://open.spotify.com/album/11Q9pGuq7wakcblcdY25gk"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Rolls Royce",
+      "url": "https://open.spotify.com/track/7xONxR36tlMANx4jy2Take"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Temper",
@@ -1759,22 +1779,18 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Rolls Royce",
-        "url": "https://open.spotify.com/album/11Q9pGuq7wakcblcdY25gk"
+        "name": "Redwood",
+        "url": "https://open.spotify.com/album/45rVsSUIls9u89Iv5wTvqN"
       },
       "artists": [
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Former Hero",
+          "url": "https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Rolls Royce",
-      "url": "https://open.spotify.com/track/7xONxR36tlMANx4jy2Take"
+      "duration_ms": 292563,
+      "name": "Redwood",
+      "url": "https://open.spotify.com/track/1cydoZG0OjIrRNddnDRKUD"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -1791,6 +1807,26 @@
       "duration_ms": 222866,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/70nIZ6RlNhgqxcCShFmYwf"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Kids (feat. dawsonLIED)",
+        "url": "https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "dawsonLIED",
+          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Kids (feat. dawsonLIED)",
+      "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -1819,18 +1855,18 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Redwood",
-        "url": "https://open.spotify.com/album/45rVsSUIls9u89Iv5wTvqN"
+        "name": "Synth Grass",
+        "url": "https://open.spotify.com/album/40C56PM2hPldlAxI8zSsSS"
       },
       "artists": [
         {
-          "name": "Former Hero",
-          "url": "https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm"
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
         }
       ],
-      "duration_ms": 292563,
-      "name": "Redwood",
-      "url": "https://open.spotify.com/track/1cydoZG0OjIrRNddnDRKUD"
+      "duration_ms": 184000,
+      "name": "Synth Grass",
+      "url": "https://open.spotify.com/track/2Gt94qSL9EImDLGm6Jlu3S"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1877,38 +1913,6 @@
       "url": "https://open.spotify.com/track/6uEy133no179YW6ulcmalc"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "Synth Grass",
-        "url": "https://open.spotify.com/album/40C56PM2hPldlAxI8zSsSS"
-      },
-      "artists": [
-        {
-          "name": "Knapsack",
-          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Synth Grass",
-      "url": "https://open.spotify.com/track/2Gt94qSL9EImDLGm6Jlu3S"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "gold",
-        "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
-      },
-      "artists": [
-        {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
-        }
-      ],
-      "duration_ms": 193175,
-      "name": "gold",
-      "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
-    },
-    {
       "added_at": "2021-12-10 05:00:00",
       "album": {
         "name": "Sleeptalking",
@@ -1927,6 +1931,38 @@
       "duration_ms": 222831,
       "name": "Sleeptalking",
       "url": "https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "gold",
+        "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
+      },
+      "artists": [
+        {
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+        }
+      ],
+      "duration_ms": 193175,
+      "name": "gold",
+      "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "see str8",
+        "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "see str8",
+      "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -1963,82 +1999,6 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Shadow (feat. Calivania)",
-        "url": "https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
-        },
-        {
-          "name": "Calivania",
-          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Shadow (feat. Calivania)",
-      "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "see str8",
-        "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "see str8",
-      "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/7Bt2Pr93eamhyHWFMvbmKw"
-      },
-      "artists": [
-        {
-          "name": "Third Vibes",
-          "url": "https://open.spotify.com/artist/08FHB0pa7F05yP7c7eQp5u"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "You",
-      "url": "https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R"
-    },
-    {
-      "added_at": "2022-01-26 15:34:59",
-      "album": {
-        "name": "Narrow",
-        "url": "https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R"
-      },
-      "artists": [
-        {
-          "name": "sumthin sumthin",
-          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
-        },
-        {
-          "name": "Player Dave",
-          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Narrow",
-      "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
         "name": "Waiting On You",
         "url": "https://open.spotify.com/album/4iEqVIn2EUWpk9tOoM9KdG"
       },
@@ -2063,18 +2023,26 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Radiate",
-        "url": "https://open.spotify.com/album/0VMJK0P1iBQlD2hQ805lUv"
+        "name": "Shadow (feat. Calivania)",
+        "url": "https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L"
       },
       "artists": [
         {
-          "name": "Fytch",
-          "url": "https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I"
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Calivania",
+          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
         }
       ],
-      "duration_ms": 170250,
-      "name": "Radiate",
-      "url": "https://open.spotify.com/track/1XGKJIMxvFfi9MCm9Csqlk"
+      "duration_ms": 215040,
+      "name": "Shadow (feat. Calivania)",
+      "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2093,60 +2061,72 @@
       "url": "https://open.spotify.com/track/6g1hNthhnctPsmIzBq1Ver"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
+      "added_at": "2022-01-26 15:34:59",
       "album": {
-        "name": "I Need",
-        "url": "https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX"
+        "name": "Narrow",
+        "url": "https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R"
       },
       "artists": [
         {
-          "name": "Sasha Rome",
-          "url": "https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu"
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
         },
         {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+          "name": "Player Dave",
+          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
         }
       ],
-      "duration_ms": 171129,
-      "name": "I Need",
-      "url": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
+      "duration_ms": 216200,
+      "name": "Narrow",
+      "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
     },
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "ASTRAL",
-        "url": "https://open.spotify.com/album/1U5SnFdvdDd2ZyPwWgchUx"
+        "name": "You",
+        "url": "https://open.spotify.com/album/7Bt2Pr93eamhyHWFMvbmKw"
       },
       "artists": [
         {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
-        },
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+          "name": "Third Vibes",
+          "url": "https://open.spotify.com/artist/08FHB0pa7F05yP7c7eQp5u"
         }
       ],
-      "duration_ms": 208979,
-      "name": "ASTRAL",
-      "url": "https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne"
+      "duration_ms": 136551,
+      "name": "You",
+      "url": "https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "on hold",
-        "url": "https://open.spotify.com/album/6GFEQWEDiLWBhJi1oXYwyZ"
+        "name": "kora",
+        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
       },
       "artists": [
         {
-          "name": "Tails",
-          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+          "name": "The Sanctuary",
+          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
         }
       ],
-      "duration_ms": 175680,
-      "name": "on hold",
-      "url": "https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv"
+      "duration_ms": 282870,
+      "name": "kora",
+      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Radiate",
+        "url": "https://open.spotify.com/album/0VMJK0P1iBQlD2hQ805lUv"
+      },
+      "artists": [
+        {
+          "name": "Fytch",
+          "url": "https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Radiate",
+      "url": "https://open.spotify.com/track/1XGKJIMxvFfi9MCm9Csqlk"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2171,38 +2151,74 @@
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "kora",
-        "url": "https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc"
+        "name": "ASTRAL",
+        "url": "https://open.spotify.com/album/1U5SnFdvdDd2ZyPwWgchUx"
       },
       "artists": [
         {
-          "name": "The Sanctuary",
-          "url": "https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2"
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
         }
       ],
-      "duration_ms": 282870,
-      "name": "kora",
-      "url": "https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn"
+      "duration_ms": 208979,
+      "name": "ASTRAL",
+      "url": "https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne"
     },
     {
       "added_at": "2021-08-06 15:53:29",
       "album": {
-        "name": "Kids (feat. dawsonLIED)",
-        "url": "https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV"
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Rome",
+          "url": "https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 171129,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "on hold",
+        "url": "https://open.spotify.com/album/6GFEQWEDiLWBhJi1oXYwyZ"
+      },
+      "artists": [
+        {
+          "name": "Tails",
+          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "on hold",
+      "url": "https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv"
+    },
+    {
+      "added_at": "2021-08-06 15:53:29",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV"
       },
       "artists": [
         {
           "name": "camoufly",
           "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "dawsonLIED",
-          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
         }
       ],
-      "duration_ms": 213817,
-      "name": "Kids (feat. dawsonLIED)",
-      "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
+      "duration_ms": 163669,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2221,22 +2237,6 @@
       "url": "https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
-      },
-      "artists": [
-        {
-          "name": "Lhasa Petik",
-          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
-    },
-    {
       "added_at": "2021-08-06 15:53:29",
       "album": {
         "name": "Sunburn (Reimagined)",
@@ -2251,6 +2251,22 @@
       "duration_ms": 247530,
       "name": "Sunburn - Reimagined",
       "url": "https://open.spotify.com/track/0i27kJRbxmdzQzhVDJVgzO"
+    },
+    {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
+      },
+      "artists": [
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
     },
     {
       "added_at": "2021-08-06 15:53:29",
@@ -2285,40 +2301,24 @@
       "url": "https://open.spotify.com/track/6oLq9cWvEc08wo7V5DpjVl"
     },
     {
-      "added_at": "2021-08-06 15:53:29",
+      "added_at": "2021-09-10 19:36:18",
       "album": {
-        "name": "Night Goggles (Rome in Silver Remix)",
-        "url": "https://open.spotify.com/album/7js3eob7PU1CkZhcB5Ueve"
+        "name": "I Love You, Keep Going (The Remixes)",
+        "url": "https://open.spotify.com/album/0pxKWbAyhIkcGFv9DH1fa9"
       },
       "artists": [
         {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
         },
         {
-          "name": "Rome in Silver",
-          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+          "name": "Sweater Beats",
+          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Night Goggles - Rome in Silver Remix",
-      "url": "https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z"
-    },
-    {
-      "added_at": "2021-08-06 15:53:29",
-      "album": {
-        "name": "let it go",
-        "url": "https://open.spotify.com/album/6xUiM2eyJCfBKAK1FesvC8"
-      },
-      "artists": [
-        {
-          "name": "Somnium Sound",
-          "url": "https://open.spotify.com/artist/7f7uTajAqbXruaAKcdaOZr"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "let it go",
-      "url": "https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY"
+      "duration_ms": 177103,
+      "name": "Under the Same Stars - Sweater Beats Remix",
+      "url": "https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF"
     }
   ],
   "unique_name": "creamy",

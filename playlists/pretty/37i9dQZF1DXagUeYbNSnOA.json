@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best tracks from Fresh Finds Latin this year. Cover: Estevie #SpotifyWrapped",
-  "num_followers": 168215,
+  "num_followers": 168275,
   "original_name": "Fresh Finds Latin: Best of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMDY4ODY0ZWE2NjIwZjEyNzExMzlhYjU1NTQ5OTgyZmE1",
+  "snapshot_id": "MTY2OTgyMjYxNiwwMDAwMDAwMGFhZjE2MmExODFiN2VjMDYxMWJiMGQ0YWVmOTMwOGEy",
   "tracks": [
     {
       "added_at": "2022-11-30 14:52:40",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Diskreto",
-        "url": "https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd"
-      },
-      "artists": [
-        {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
-        }
-      ],
-      "duration_ms": 177752,
-      "name": "Diskreto",
-      "url": "https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "las consecuencias",
         "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 191448,
       "name": "las consecuencias",
       "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Diskreto",
+        "url": "https://open.spotify.com/album/0KEX9eiLQbH9188yR9DWqd"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "duration_ms": 177752,
+      "name": "Diskreto",
+      "url": "https://open.spotify.com/track/44E6KAwPyWJwtaTB1EUDUc"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Hippie",
-        "url": "https://open.spotify.com/album/68Aqq7MSTuH05h5LcneScE"
-      },
-      "artists": [
-        {
-          "name": "Entrelineas",
-          "url": "https://open.spotify.com/artist/3mMfJELOQF6XvIreA3sZir"
-        }
-      ],
-      "duration_ms": 194690,
-      "name": "Hippie",
-      "url": "https://open.spotify.com/track/1liDNF7grg13aEoAuq3bnT"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
+        "name": "Hippie",
+        "url": "https://open.spotify.com/album/68Aqq7MSTuH05h5LcneScE"
+      },
+      "artists": [
+        {
+          "name": "Entrelineas",
+          "url": "https://open.spotify.com/artist/3mMfJELOQF6XvIreA3sZir"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "Hippie",
+      "url": "https://open.spotify.com/track/1liDNF7grg13aEoAuq3bnT"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 245187,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
-        "name": "El Club de los Nost\u00e1lgicos",
-        "url": "https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS"
-      },
-      "artists": [
-        {
-          "name": "Las Sombras",
-          "url": "https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw"
-        }
-      ],
-      "duration_ms": 183328,
-      "name": "Me Dijiste Tu Nombre",
-      "url": "https://open.spotify.com/track/0HGaZe9RRXgedMhyZLeDts"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -331,6 +315,22 @@
       "duration_ms": 224444,
       "name": "Tentaci\u00f3n",
       "url": "https://open.spotify.com/track/1gvFCRgGken7XUOF5f30P0"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "El Club de los Nost\u00e1lgicos",
+        "url": "https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS"
+      },
+      "artists": [
+        {
+          "name": "Las Sombras",
+          "url": "https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw"
+        }
+      ],
+      "duration_ms": 183328,
+      "name": "Me Dijiste Tu Nombre",
+      "url": "https://open.spotify.com/track/0HGaZe9RRXgedMhyZLeDts"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -387,30 +387,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Paradoja",
-        "url": "https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz"
-      },
-      "artists": [
-        {
-          "name": "Melov",
-          "url": "https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22"
-        },
-        {
-          "name": "Una Mar\u00eda",
-          "url": "https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl"
-        },
-        {
-          "name": "Obreg\u00f8n",
-          "url": "https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK"
-        }
-      ],
-      "duration_ms": 220975,
-      "name": "Paradoja",
-      "url": "https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "No Me Quieras Tanto",
         "url": "https://open.spotify.com/album/2ekefHYeeYXcfHW8e4FLEO"
       },
@@ -447,6 +423,30 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
+        "name": "Paradoja",
+        "url": "https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz"
+      },
+      "artists": [
+        {
+          "name": "Melov",
+          "url": "https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22"
+        },
+        {
+          "name": "Una Mar\u00eda",
+          "url": "https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl"
+        },
+        {
+          "name": "Obreg\u00f8n",
+          "url": "https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK"
+        }
+      ],
+      "duration_ms": 220975,
+      "name": "Paradoja",
+      "url": "https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
         "name": "Esto me pertenece",
         "url": "https://open.spotify.com/album/1a8bUbSRPV96CkxN9zt0R9"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "To' Los D\u00edas",
-        "url": "https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI"
-      },
-      "artists": [
-        {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "To' Los D\u00edas",
-      "url": "https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/4XgcQp5grjwlXpcUrhMw5P"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 153826,
       "name": "Money",
       "url": "https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "To' Los D\u00edas",
+        "url": "https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI"
+      },
+      "artists": [
+        {
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "To' Los D\u00edas",
+      "url": "https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
-      },
-      "artists": [
-        {
-          "name": "Koi Pali",
-          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
-        }
-      ],
-      "duration_ms": 190755,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "HUGITO",
         "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Koi Pali",
+          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
         }
       ],
-      "duration_ms": 247698,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
+      "duration_ms": 190755,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -611,6 +595,22 @@
       "duration_ms": 195918,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
     },
     {
       "added_at": "2022-11-30 14:52:40",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
+        "name": "Dentro, Fuera",
+        "url": "https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf"
+      },
+      "artists": [
+        {
+          "name": "DPSE",
+          "url": "https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M"
+        }
+      ],
+      "duration_ms": 246852,
+      "name": "Dentro, Fuera",
+      "url": "https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s"
+    },
+    {
+      "added_at": "2022-11-30 14:52:40",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/7uxrgNDgbXTS2RoP81ACqG"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Lo que no ves",
-        "url": "https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW"
-      },
-      "artists": [
-        {
-          "name": "Mimi Rose",
-          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
-        }
-      ],
-      "duration_ms": 135205,
-      "name": "Espejos",
-      "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
-    },
-    {
-      "added_at": "2022-11-30 14:52:40",
-      "album": {
         "name": "Sad Kirby :(",
         "url": "https://open.spotify.com/album/6nu76gHLRkrseVSYh0v13Z"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-11-30 14:52:40",
       "album": {
-        "name": "Dentro, Fuera",
-        "url": "https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf"
+        "name": "Lo que no ves",
+        "url": "https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW"
       },
       "artists": [
         {
-          "name": "DPSE",
-          "url": "https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M"
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
         }
       ],
-      "duration_ms": 246852,
-      "name": "Dentro, Fuera",
-      "url": "https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s"
+      "duration_ms": 135205,
+      "name": "Espejos",
+      "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
     },
     {
       "added_at": "2022-11-30 14:52:40",

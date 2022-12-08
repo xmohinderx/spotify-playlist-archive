@@ -1096,6 +1096,32 @@
     },
     {
       "album": {
+        "name": "The Image of Melancholy",
+        "url": "https://open.spotify.com/album/1gE2YAnPpvekqiXFDWx63h"
+      },
+      "artists": [
+        {
+          "name": "Heinrich Ignaz Franz von Biber",
+          "url": "https://open.spotify.com/artist/2kMM5v3f7rti00gIbVc1Tk"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        },
+        {
+          "name": "Milos Valent",
+          "url": "https://open.spotify.com/artist/6SOEhI3KUvUbwwX29ZPFBa"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163706,
+      "name": "Mystery (Rosary) Sonata No. 9, \"Jesus Carries the Cross\": I. Sonata",
+      "url": "https://open.spotify.com/track/4ttPV0hLk1PMPJ5YulhbUJ"
+    },
+    {
+      "album": {
         "name": "Corrette, M.: Symphonies des noels / Concertos comiques",
         "url": "https://open.spotify.com/album/4WUbpK20883ttlEJDW1C3f"
       },

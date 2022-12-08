@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-225 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+226 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Arabesque](https://open.spotify.com/track/41oLuetwousQIfBOxYVxcL) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Arabesque](https://open.spotify.com/album/3hjgx4cloyYAA6fW7UsLcA) | 4:11 | 2020-10-18\* |  |
 | [Arabian Magic](https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Arabian Magic](https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX) | 3:08 | 2020-10-18\* |  |
 | [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 | 2020-10-18\* |  |
+| [Arabic Nights](https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Arabic Nights](https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap) | 2:45 | 2022-12-05 |  |
 | [Arabic Soul](https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1), [Anas Otman](https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9) | [Arabic Soul](https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH) | 4:33 | 2022-10-14 |  |
 | [August Diaries](https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [August Diaries](https://open.spotify.com/album/2qEWSsJCgemvb6SQAjqzXH) | 3:43 | 2020-12-13 | 2021-05-28 |
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 | 2022-10-09 |
@@ -84,7 +85,7 @@
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2020-10-18\* |  |
 | [Helwa Belady El Samra \(Kharma Remix\)](https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Helwa Belady El Samra \(Kharma Remix\)](https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7) | 2:56 | 2020-12-13 |  |
 | [Hey Hey](https://open.spotify.com/track/2FROUQIblxhRtNa5OBPMLB) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [DIESE](https://open.spotify.com/artist/75nmfDZti5vB2i3dUEc0KG) | [Hey Hey](https://open.spotify.com/album/5I5AAajOGNZA9za66DpimM) | 4:08 | 2020-10-18\* |  |
-| [Hold On To Me](https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o) | [Gokhan Akkas](https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP) | [Hold On To Me](https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1) | 2:51 | 2020-10-18\* |  |
+| [Hold On To Me](https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o) | [Gokhan Akkas](https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP) | [Hold On To Me](https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1) | 2:51 | 2020-10-18\* | 2022-12-08 |
 | [I Can't Be \- Radio Mix](https://open.spotify.com/track/0oNMDziM8JjAo3Ec1KD5wi) | [Hakan Akkus](https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh) | [I Can't Be](https://open.spotify.com/album/1gK2t4XwijoVvpe5ge8SAu) | 3:14 | 2022-10-06 |  |
 | [I Can't Be \- Radio Mix](https://open.spotify.com/track/1foM3WWlTMWsWw7LHv2kfd) | [Hakan Akkus](https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh) | [I Can't Be](https://open.spotify.com/album/7GobkMuBDiy6G9xOalPiH7) | 3:14 | 2020-10-18\* | 2022-10-07 |
 | [Il Mattino](https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy) | [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8) | [Il Mattino](https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM) | 5:31 | 2022-06-27 |  |

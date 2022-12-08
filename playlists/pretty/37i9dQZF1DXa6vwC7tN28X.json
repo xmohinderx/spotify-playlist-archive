@@ -1,12 +1,12 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 20317,
+  "num_followers": 20325,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMGNmNTczODBiMzJhMmUyY2Q5YWRmODQ5ZDMyNjg4YWVm",
+  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMDAzMDcxNDg5OTA1ZDFjY2NlZDUyMjBjZmY4ZmRjMjY3",
   "tracks": [
     {
       "added_at": "2022-06-24 18:22:18",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "No Soy Un Extra\u00f1o - Live",
-      "url": "https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Presente",
         "url": "https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 181666,
       "name": "Codigo de barra",
       "url": "https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "No Soy Un Extra\u00f1o - Live",
+      "url": "https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 176714,
-      "name": "Los Piratas - MTV Unplugged",
-      "url": "https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Pequenas An\u00e9cdotas Sobre Las Instituciones",
         "url": "https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 212560,
       "name": "Tango en Segunda",
       "url": "https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 176714,
+      "name": "Los Piratas - MTV Unplugged",
+      "url": "https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -351,18 +351,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Pecado Capital",
-        "url": "https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 303720,
-      "name": "Whisky Doble",
-      "url": "https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD"
+      "duration_ms": 221934,
+      "name": "Chiquil\u00edn de Bach\u00edn",
+      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -383,22 +387,34 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 221934,
-      "name": "Chiquil\u00edn de Bach\u00edn",
-      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+      "duration_ms": 247821,
+      "name": "Tango del Diablo",
+      "url": "https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Pecado Capital",
+        "url": "https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 303720,
+      "name": "Whisky Doble",
+      "url": "https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -423,34 +439,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+        "name": "Int\u00e9rpretes",
+        "url": "https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Hermetica",
+          "url": "https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7"
         }
       ],
-      "duration_ms": 247821,
-      "name": "Tango del Diablo",
-      "url": "https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "Menesunda: Tangolencia Rockera",
-        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        }
-      ],
-      "duration_ms": 143533,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU"
+      "duration_ms": 154266,
+      "name": "Cambalache",
+      "url": "https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Int\u00e9rpretes",
-        "url": "https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3"
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
       },
       "artists": [
         {
-          "name": "Hermetica",
-          "url": "https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7"
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
         }
       ],
-      "duration_ms": 154266,
-      "name": "Cambalache",
-      "url": "https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a"
+      "duration_ms": 143533,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Menesunda: Tangolencia Rockera",
-        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Otro Le Travaladna",
         "url": "https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 216066,
       "name": "En Un Bondi Color Humo",
       "url": "https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -675,18 +675,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Espiritango",
-        "url": "https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Los Visitantes",
-          "url": "https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 115733,
-      "name": "El Deseo de Evita",
-      "url": "https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC"
+      "duration_ms": 195704,
+      "name": "Laura Va",
+      "url": "https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -707,22 +711,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Espiritango",
+        "url": "https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+          "name": "Los Visitantes",
+          "url": "https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW"
         }
       ],
-      "duration_ms": 195704,
-      "name": "Laura Va",
-      "url": "https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr"
+      "duration_ms": 115733,
+      "name": "El Deseo de Evita",
+      "url": "https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC"
     },
     {
       "added_at": "2022-06-24 18:22:18",

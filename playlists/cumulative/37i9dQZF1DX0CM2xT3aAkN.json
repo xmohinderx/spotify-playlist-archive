@@ -542,6 +542,32 @@
     },
     {
       "album": {
+        "name": "The Image of Melancholy",
+        "url": "https://open.spotify.com/album/1gE2YAnPpvekqiXFDWx63h"
+      },
+      "artists": [
+        {
+          "name": "Anthony Holborne",
+          "url": "https://open.spotify.com/artist/5wBrgZigt8RFVrcARWc9bD"
+        },
+        {
+          "name": "Barokksolistene",
+          "url": "https://open.spotify.com/artist/1OcVt5llZFb6dkSeMGhvGJ"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333893,
+      "name": "Image of Melancholy",
+      "url": "https://open.spotify.com/track/2xemktJsTw9werdDf6jWCO"
+    },
+    {
+      "album": {
         "name": "1615 Gabrieli in Venice",
         "url": "https://open.spotify.com/album/3sotCuts3wYrqskEXd8Gfa"
       },

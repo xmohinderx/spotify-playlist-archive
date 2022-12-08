@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-227 songs - 20 hr 7 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+228 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,9 @@
 | [Music Is My Remedy](https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [livicious](https://open.spotify.com/artist/02nXRBdOSxeWufeaydQITx) | [Music Is My Remedy](https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v) | 5:06 | 2022-04-15 |  |
 | [My Generation](https://open.spotify.com/track/28ILF9GmA4DYQxKFG1iYLU) | [Krama](https://open.spotify.com/artist/6fz3m9HgQ3s7171AZHvk0j) | [My Generation](https://open.spotify.com/album/5RRAXhC9ve6cnyicgNF4oZ) | 5:23 | 2022-04-15 | 2022-07-28 |
 | [Mystery](https://open.spotify.com/track/0lFjo6mqV1VtP1T0XFc3Ng) | [Medon](https://open.spotify.com/artist/1qgI7Ho1Ky0EbmK9JhWg5J), [Michelle Collin](https://open.spotify.com/artist/0JCIIVMatHevg7wqdpuNxg), [Rime Rix](https://open.spotify.com/artist/2athiHDmEGJuQKIInHGGkE) | [Mystery](https://open.spotify.com/album/4AcZelYRE1L3kOJsjDz0Jz) | 3:09 | 2022-04-15 | 2022-07-29 |
+| [Mystical Experience](https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Flegma](https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC) | [Mystical Experience](https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj) | 9:10 | 2022-12-02 |  |
 | [NAMAHA](https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [NAMAHA](https://open.spotify.com/album/3PfCixKb0AwioD7M8CJAjE) | 5:58 | 2022-04-15 | 2022-07-28 |
-| [Nasty](https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Max Tase](https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m) | [Nasty](https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG) | 3:39 | 2022-06-03 |  |
+| [Nasty](https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Max Tase](https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m) | [Nasty](https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG) | 3:39 | 2022-06-03 | 2022-12-08 |
 | [Natural Connection](https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Natural Connection](https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V) | 6:59 | 2022-08-11 |  |
 | [Never Be The Same](https://open.spotify.com/track/2QOlkqwaKI6JHVoAFvyfnm) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D) | [Never Be The Same](https://open.spotify.com/album/1F46HHbNF6r8ANbJfnkCas) | 4:51 | 2022-04-15 | 2022-04-23 |
 | [Novo Mundo](https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Synesthetic](https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6) | [Novo Mundo](https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj) | 6:13 | 2022-04-15 | 2022-08-30 |

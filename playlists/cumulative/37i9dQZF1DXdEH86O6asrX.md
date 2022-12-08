@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las mejores bandas sonoras del siglo XXI!
 
-165 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
+166 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/3aN5jpBdtu5i0Yw4idYp92)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Finest Girl \(Bin Laden Song\)](https://open.spotify.com/track/1LpjlPR8Gv52B04UQNLZAw) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [Popstar: Never Stop Never Stopping](https://open.spotify.com/album/07fcZXkBS0y4Y80GT60PZq) | 2:30 | 2022-01-27 |  |
 | [Futile Devices \(Doveman Remix\)](https://open.spotify.com/track/5iR8v6fTc33LDo2t4w3342) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 2:15 | 2022-01-27 |  |
 | [Futile Devices \(Doveman Remix\)](https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me By Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM) | 2:15 | 2022-01-27 | 2022-07-29 |
-| [Garbage Truck](https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 1:43 | 2022-01-27 |  |
+| [Garbage Truck](https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 1:43 | 2022-01-27 | 2022-12-08 |
 | [Goin' to Acapulco](https://open.spotify.com/track/1239baQ1b9cD0RRv5Jy9Sb) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [I'm Not There \(Music From The Motion Picture\)](https://open.spotify.com/album/6ZSp2CcRWdyTm50DbI9MAX) | 4:58 | 2022-01-27 | 2022-07-29 |
 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 | 2022-01-27 |  |
 | [Guarding The Gates \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/0vxTKTxKoTmljpT7gb4U1h) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Guarding The Gates \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/5dLSIo9cqbNiSRZNw4C6am) | 6:00 | 2022-01-27 | 2022-11-13 |
@@ -83,6 +83,7 @@
 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/0GEQ0otjCdvAelfJqGifX1) | [Vaughn Monroe](https://open.spotify.com/artist/5TD3Mad384osX9K8DLkx7L) | [Racing With The Moon: An Anthology 1940\-56](https://open.spotify.com/album/4YySxTHzwCCIDLsJViOTHd) | 3:04 | 2021-12-14 | 2022-07-25 |
 | [Libre Soy](https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:42 | 2021-12-14 |  |
 | [Life On Mars?](https://open.spotify.com/track/5MbymuUrV9rmtnk3CwyenH) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic With Steve Zissou](https://open.spotify.com/album/05mpXOy7NNlc3oGqNathD6) | 3:24 | 2022-01-27 | 2022-07-29 |
+| [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2022-01-27 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5ipoCYBHodCC5A0JBAfsej) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/2qkngHuiODtKGC2qHKB8Qh) | 4:03 | 2021-12-14 | 2022-07-04 |
 | [Lo Boob Oscillator](https://open.spotify.com/track/2pjwjVb9frn1VyOvEQF4hY) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [High Fidelity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7oL8mDzR5zbwmigvyaZ29a) | 6:36 | 2022-01-27 | 2022-07-29 |
 | [Lo Boob Oscillator](https://open.spotify.com/track/5DILJYk31ZXENMY26k3br1) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Lo Boob Oscillator](https://open.spotify.com/album/5plHekIiphgTChKLttY5P4) | 6:36 | 2022-01-27 | 2022-09-05 |

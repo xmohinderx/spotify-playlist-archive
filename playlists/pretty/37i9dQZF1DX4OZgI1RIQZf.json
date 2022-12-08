@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 13648,
+  "num_followers": 13656,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcyNTA2NiwwMDAwMDAwMDFlMWM2NWJmMzIxM2QxYjFmMWE4NTNkNzVjYmE3ZWM1",
+  "snapshot_id": "MTY2OTcyNTA2NiwwMDAwMDAwMGUwZDRmOGZmZjIyOGVlMzA2Nzk2OTQ2ODMxM2NlMGQ5",
   "tracks": [
     {
       "added_at": "2022-11-02 21:44:11",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
-      "added_at": "2022-12-07 01:24:24",
+      "added_at": "2022-12-08 01:17:04",
       "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 180302,
-      "name": "You Make Me Feel Like It\u2019s Halloween",
-      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Antics",
         "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 215826,
       "name": "Evil",
       "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 180302,
+      "name": "You Make Me Feel Like It\u2019s Halloween",
+      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
-        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 215179,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Screen Violence",
         "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 269640,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
+        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 215179,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 307453,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Four Words To Stand On",
         "url": "https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 211480,
       "name": "Standing On Ghosts",
       "url": "https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Veronica Falls",
-        "url": "https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g"
-      },
-      "artists": [
-        {
-          "name": "Veronica Falls",
-          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Found Love in a Graveyard",
-      "url": "https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 217880,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Veronica Falls",
+        "url": "https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g"
+      },
+      "artists": [
+        {
+          "name": "Veronica Falls",
+          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Found Love in a Graveyard",
+      "url": "https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO"
     },
     {
       "added_at": "2022-11-02 21:44:11",

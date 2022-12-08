@@ -203,6 +203,24 @@
     {
       "album": {
         "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR"
+      },
+      "artists": [
+        {
+          "name": "Ryota Oyabu",
+          "url": "https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183538,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
         "url": "https://open.spotify.com/album/508jv0GzDC62i4oe20jEbZ"
       },
       "artists": [
@@ -213,7 +231,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 183538,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/0YFaFjVx8K3aawRCe5CbeB"
@@ -551,10 +569,28 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 235880,
       "name": "Like no one's done",
       "url": "https://open.spotify.com/track/1G8jWpWgCtTEuy4Zz3Ihfe"
+    },
+    {
+      "album": {
+        "name": "Like No One's Done",
+        "url": "https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Like No One's Done",
+      "url": "https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J"
     },
     {
       "album": {

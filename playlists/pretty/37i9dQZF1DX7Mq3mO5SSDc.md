@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,868 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,923 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 24 | [Throw Ya Gunz](https://open.spotify.com/track/2nCVH8UkoII2jWwx6SYVso) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:16 |
 | 25 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
 | 26 | [Time 4 Sumaksion](https://open.spotify.com/track/7Afjy65bIVBMpFwCLTiuEe) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Whut? Thee Album](https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF) | 3:24 |
-| 27 | [Hip Hop Junkies](https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv) | [Nice & Smooth](https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn) | [Ain't A Damn Thing Changed](https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h) | 3:29 |
+| 27 | [Back To The Grill](https://open.spotify.com/track/7rxeH2yGlCeDKEkNNTpY29) | [MC Serch](https://open.spotify.com/artist/40bZG5ihgjqtufTvy8dz2u) | [Return Of The Product](https://open.spotify.com/album/1GKpLQWG6h6r7CyYtEQ0N6) | 5:03 |
 | 28 | [Phenomenon](https://open.spotify.com/track/7Jc0l11j0Ehx6smWHqDXtX) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Phenomenon](https://open.spotify.com/album/0AJaRBLPuUybHfdJi87GQP) | 4:04 |
 | 29 | [He Got Game](https://open.spotify.com/track/48zajk3g8P3BMT7F9BbDoD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd), [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [He Got Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7c6qrFOyCTUvmLcayRQ2G9) | 4:46 |
 | 30 | [Paul Revere](https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:40 |
 | 31 | [Symphony 2000](https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Lady Luck](https://open.spotify.com/artist/0oXoYDEPhGhN14JD4JRL5L) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:03 |
 | 32 | [Children's Story](https://open.spotify.com/track/71A6V5dh5Y8ikhm6NGwZ7p) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:02 |
 | 33 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
-| 34 | [Back To The Grill](https://open.spotify.com/track/7rxeH2yGlCeDKEkNNTpY29) | [MC Serch](https://open.spotify.com/artist/40bZG5ihgjqtufTvy8dz2u) | [Return Of The Product](https://open.spotify.com/album/1GKpLQWG6h6r7CyYtEQ0N6) | 5:03 |
+| 34 | [Hip Hop Junkies](https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv) | [Nice & Smooth](https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn) | [Ain't A Damn Thing Changed](https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h) | 3:29 |
 | 35 | [Check N' Me Out](https://open.spotify.com/track/6VqQjCxM21kapF2RxdTtYA) | [Def Squad](https://open.spotify.com/artist/52karaTYZPcUZRPr3zy3X4) | [El Nino](https://open.spotify.com/album/1I3hHYnoz7lZsBZN0jZJ1G) | 3:55 |
 | 36 | [I Need Love](https://open.spotify.com/track/519xI1wfOAJvHeV9kFdXaV) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Bigger And Deffer](https://open.spotify.com/album/5jNxWuqdnchBjdoKykAsY7) | 5:22 |
 | 37 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 49 | [Bring The Noise](https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 3:46 |
 | 50 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDYxMjRjZWJkMGIzMTVkODRhYzRkZmMxZTY0MjhmNWMy`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMGYxOTUxMzhhYmI5ZmJjOWVkODU2ZWZjZTRkMjFiNDJl`

@@ -795,6 +795,24 @@
     {
       "album": {
         "name": "What Once Was Will Never Be",
+        "url": "https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0"
+      },
+      "artists": [
+        {
+          "name": "DL Incognito",
+          "url": "https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202488,
+      "name": "Cassette",
+      "url": "https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld"
+    },
+    {
+      "album": {
+        "name": "What Once Was Will Never Be",
         "url": "https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3"
       },
       "artists": [
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 202488,
       "name": "Cassette",
       "url": "https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl"

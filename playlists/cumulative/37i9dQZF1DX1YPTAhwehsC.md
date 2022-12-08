@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: DD Osama
 
-456 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
+457 songs - 20 hr 52 min - [published](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,8 @@
 | [One Time](https://open.spotify.com/track/7jxcUErTR6k32uunWgVbgl) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO) | [ShaaBiggaa & Hiii Siddity](https://open.spotify.com/album/4mT8qhNHsh2cxrY3TSCEqM) | 3:00 | 2022-07-29 | 2022-10-08 |
 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 | 2022-09-17 |  |
 | [OT \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1GDmorBhnsYZYUU04LiFEm) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OT \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0fui89rpESfYKoh0e01jdO) | 3:04 | 2022-06-10 | 2022-07-16 |
-| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-09-16 |  |
+| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5lx5zu37Rf592Iby01kroZ) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 3:16 | 2022-11-04 |  |
+| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-09-16 | 2022-12-08 |
 | [Ouu Baby](https://open.spotify.com/track/1hx5yEOe4K6rhFvtPyskmJ) | [BigBop](https://open.spotify.com/artist/41KK1ts2HUtYWPXJRLBBpK), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Ouu Baby](https://open.spotify.com/album/1EP4nXsWvkPeNk9pm2nd9s) | 3:09 | 2022-04-01 | 2022-06-01 |
 | [Overseas](https://open.spotify.com/track/4vs8wFsbctZBuuzJxZnmPz) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Overseas](https://open.spotify.com/album/04uP1i16kH1FXkf0YUYmxk) | 2:11 | 2021-12-03 | 2022-03-26 |
 | [OWITFWMGAF](https://open.spotify.com/track/0CBd7NIUboC0Db2qNi5A7M) | [917 Rackz](https://open.spotify.com/artist/7unGZ3Xv59pTPK7eMq7JqY) | [OWITFWMGAF](https://open.spotify.com/album/5ohFboFiZzQoDmQJcdmU6x) | 2:03 | 2022-04-01 | 2022-07-09 |

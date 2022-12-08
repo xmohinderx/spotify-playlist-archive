@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 320913,
+  "num_followers": 320976,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDgyNDAzZjg1NWJkNTQ5MjcxYzU3ZDg1N2FiOTRlNGI5",
+  "snapshot_id": "MTY2MzY4MTE5MywwMDAwMDAwMDk5YTI0MGI4ZWIzYWMwYjYzYmM4OWIzMTkxY2EyNDcw",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -351,8 +351,8 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
+        "name": "Prehension",
+        "url": "https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
         }
       ],
-      "duration_ms": 312757,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
+      "duration_ms": 288280,
+      "name": "Ab Ovo",
+      "url": "https://open.spotify.com/track/5BRfucuiAf5IYRbwBYBYPZ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -483,8 +483,8 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Prehension",
-        "url": "https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK"
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
         }
       ],
-      "duration_ms": 288280,
-      "name": "Ab Ovo",
-      "url": "https://open.spotify.com/track/5BRfucuiAf5IYRbwBYBYPZ"
+      "duration_ms": 312757,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        }
-      ],
-      "duration_ms": 201901,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Tristes",
         "url": "https://open.spotify.com/album/4vdP6Kso8xJEAhmoPwtu3N"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 164000,
       "name": "Tristes",
       "url": "https://open.spotify.com/track/1dfXJRmlzO392SXEaVfsNv"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Bells",
+        "url": "https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 201901,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
-      },
-      "artists": [
-        {
-          "name": "Itoko Toma",
-          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Leaves and Light",
-      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
+      },
+      "artists": [
+        {
+          "name": "Itoko Toma",
+          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Leaves and Light",
+      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -967,6 +967,38 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Collage",
+        "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Bruce White",
+          "url": "https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT"
+        },
+        {
+          "name": "Oli Langford",
+          "url": "https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv"
+        },
+        {
+          "name": "Tom Piggott-Smith",
+          "url": "https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Echoes In The Valley",
         "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
@@ -1015,34 +1047,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Collage",
-        "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
+        "name": "The Shards",
+        "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
       },
       "artists": [
         {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
         },
         {
-          "name": "Ian Burdge",
-          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
-        },
-        {
-          "name": "Bruce White",
-          "url": "https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT"
-        },
-        {
-          "name": "Oli Langford",
-          "url": "https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv"
-        },
-        {
-          "name": "Tom Piggott-Smith",
-          "url": "https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg"
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
         }
       ],
-      "duration_ms": 175546,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
+      "duration_ms": 138890,
+      "name": "The Shards",
+      "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1063,22 +1083,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Song For Katie",
-        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jacqu\u00e9s",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Song For Katie",
-      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sand and Stars",
         "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
       },
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Shards",
-        "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
       },
       "artists": [
         {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+          "name": "Elliott Jacqu\u00e9s",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
         }
       ],
-      "duration_ms": 138890,
-      "name": "The Shards",
-      "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Col",
-        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
-      },
-      "artists": [
-        {
-          "name": "Elias Braun",
-          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
-        }
-      ],
-      "duration_ms": 142041,
-      "name": "Col",
-      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sleepwalk",
         "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 234545,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Col",
+        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
+      },
+      "artists": [
+        {
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+        }
+      ],
+      "duration_ms": 142041,
+      "name": "Col",
+      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "9-Feb-2022 \"All For E\"",
-        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Morawietz",
-          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
-        }
-      ],
-      "duration_ms": 244937,
-      "name": "9-Feb-2022 \"All For E\"",
-      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 151397,
       "name": "Wings",
       "url": "https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "9-Feb-2022 \"All For E\"",
+        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Morawietz",
+          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
+        }
+      ],
+      "duration_ms": 244937,
+      "name": "9-Feb-2022 \"All For E\"",
+      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Across Borders",
-        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
+        "name": "Leo Minor",
+        "url": "https://open.spotify.com/album/4hqu9hDEGMbXCQKC8Znlyh"
       },
       "artists": [
         {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+          "name": "Evening Tales from the Stars",
+          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Across Borders",
-      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
+      "duration_ms": 139000,
+      "name": "Leo Minor",
+      "url": "https://open.spotify.com/track/4PTSguUQ2hpeglvpBNn1qd"
     }
   ],
   "unique_name": "Soft Piano",

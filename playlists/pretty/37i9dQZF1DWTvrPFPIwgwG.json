@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Cassiane, Midian Lima",
-  "num_followers": 56007,
+  "num_followers": 56051,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1NDg0NCwwMDAwMDAwMDJmNDhmZjUyYWFlMjBjYzAwNzQ5YTQwMTFlNWMzNTY2",
+  "snapshot_id": "MTY2OTM1NDg0NCwwMDAwMDAwMDc1YTNiOWM2NTZiMjdiZDc4Mjc0NGVlZDY2YzZiNzg2",
   "tracks": [
     {
       "added_at": "2022-11-04 17:57:59",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
+        "name": "Despreocupa",
+        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
+      },
+      "artists": [
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 310635,
+      "name": "Despreocupa",
+      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
         "name": "Aguente, Guerreiro",
         "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
       },
@@ -279,38 +295,18 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Despreocupa",
-        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
+        "name": "Eu Sou Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
       },
       "artists": [
         {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 310635,
-      "name": "Despreocupa",
-      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
-        "name": "Vou Marcar Tua Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
-      },
-      "artists": [
-        {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
-        },
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        }
-      ],
-      "duration_ms": 249983,
-      "name": "Vou Marcar Tua Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
+      "duration_ms": 268510,
+      "name": "Eu Sou Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -347,18 +343,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Eu Sou Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
+        "name": "Vou Marcar Tua Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
         }
       ],
-      "duration_ms": 268510,
-      "name": "Eu Sou Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+      "duration_ms": 249983,
+      "name": "Vou Marcar Tua Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 268515,
-      "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
         "name": "S\u00f3 Faz Ajudar",
         "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 267983,
       "name": "S\u00f3 Faz Ajudar",
       "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 268515,
+      "name": "Deus N\u00e3o Desperdi\u00e7a Suas L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
+        "name": "Abra\u00e7o e Renovo",
+        "url": "https://open.spotify.com/album/4MsZ3ZFjzjp5ygxVHSi5zB"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 302099,
+      "name": "Abra\u00e7o e Renovo",
+      "url": "https://open.spotify.com/track/0KipyY3ja1r9oaUUAuZE4E"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
         "name": "Jesus Est\u00e1 Voltando",
         "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
       },
@@ -657,20 +673,20 @@
       "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
     },
     {
-      "added_at": "2022-11-04 17:57:59",
+      "added_at": "2022-12-08 00:58:39",
       "album": {
-        "name": "Abra\u00e7o e Renovo",
-        "url": "https://open.spotify.com/album/4MsZ3ZFjzjp5ygxVHSi5zB"
+        "name": "Recursos",
+        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         }
       ],
-      "duration_ms": 302099,
-      "name": "Abra\u00e7o e Renovo",
-      "url": "https://open.spotify.com/track/0KipyY3ja1r9oaUUAuZE4E"
+      "duration_ms": 346495,
+      "name": "Recursos",
+      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -695,22 +711,6 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Eu Cuido de Tudo",
-        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 447871,
-      "name": "Eu Cuido de Tudo - Ao vivo",
-      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
         "name": "Eu N\u00e3o Era Nada",
         "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 343799,
       "name": "Eu N\u00e3o Era Nada",
       "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "Eu Cuido de Tudo",
+        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 447871,
+      "name": "Eu Cuido de Tudo - Ao vivo",
+      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -743,38 +759,6 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
-    },
-    {
-      "added_at": "2022-12-07 01:02:43",
-      "album": {
-        "name": "Recursos",
-        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
-        }
-      ],
-      "duration_ms": 346495,
-      "name": "Recursos",
-      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
-        "name": "Aguenta Firme",
-        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 278314,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -815,18 +799,18 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Ele \u00c9",
-        "url": "https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ"
+        "name": "Aguenta Firme",
+        "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
       },
       "artists": [
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 395574,
-      "name": "Ele \u00c9",
-      "url": "https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J"
+      "duration_ms": 278314,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -851,18 +835,22 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Sou Deus",
-        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
+        "name": "T\u00e1 Gerando",
+        "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
       },
       "artists": [
         {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+          "name": "Joyce Queiroz",
+          "url": "https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         }
       ],
-      "duration_ms": 255500,
-      "name": "Sou Deus",
-      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+      "duration_ms": 274773,
+      "name": "T\u00e1 Gerando",
+      "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -883,22 +871,34 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "T\u00e1 Gerando",
-        "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
+        "name": "Sou Deus",
+        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
       },
       "artists": [
         {
-          "name": "Joyce Queiroz",
-          "url": "https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN"
-        },
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
         }
       ],
-      "duration_ms": 274773,
-      "name": "T\u00e1 Gerando",
-      "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"
+      "duration_ms": 255500,
+      "name": "Sou Deus",
+      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "Ele \u00c9",
+        "url": "https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 395574,
+      "name": "Ele \u00c9",
+      "url": "https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J"
     },
     {
       "added_at": "2022-11-04 17:57:59",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-11-04 17:57:59",
       "album": {
-        "name": "Basta uma Palavra",
-        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
-      },
-      "artists": [
-        {
-          "name": "Sandra Pires",
-          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
-        }
-      ],
-      "duration_ms": 304938,
-      "name": "Basta uma Palavra",
-      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
-    },
-    {
-      "added_at": "2022-11-04 17:57:59",
-      "album": {
         "name": "Nada Vai Te Faltar",
         "url": "https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 319936,
       "name": "Nada Vai Te Faltar",
       "url": "https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj"
+    },
+    {
+      "added_at": "2022-11-04 17:57:59",
+      "album": {
+        "name": "Basta uma Palavra",
+        "url": "https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN"
+      },
+      "artists": [
+        {
+          "name": "Sandra Pires",
+          "url": "https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf"
+        }
+      ],
+      "duration_ms": 304938,
+      "name": "Basta uma Palavra",
+      "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
     },
     {
       "added_at": "2022-11-04 17:57:59",

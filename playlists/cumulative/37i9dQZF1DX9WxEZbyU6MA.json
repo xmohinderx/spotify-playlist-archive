@@ -276,6 +276,32 @@
     },
     {
       "album": {
+        "name": "All Things Are Quite Silent",
+        "url": "https://open.spotify.com/album/5o7ch3Qq2YFfZsJ36S0dKi"
+      },
+      "artists": [
+        {
+          "name": "Caroline Shaw",
+          "url": "https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241746,
+      "name": "And the Swallow",
+      "url": "https://open.spotify.com/track/076qGSNmPfnkk3PspPAKIp"
+    },
+    {
+      "album": {
         "name": "A Spotless Rose",
         "url": "https://open.spotify.com/album/7HM8wgdIMZn2YDw1ZNgFpG"
       },

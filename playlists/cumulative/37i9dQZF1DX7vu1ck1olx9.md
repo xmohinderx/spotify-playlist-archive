@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-143 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+144 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [blueberry](https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6F4qw9nq5wORLwe729uJkG) | 1:56 | 2020-11-12 | 2022-11-19 |
 | [blueberry](https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY) | 1:56 | 2020-11-12 |  |
 | [Bopatron](https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO) | 3:16 | 2020-11-12 | 2022-12-01 |
+| [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 | 2020-11-12 |  |
 | [Bopatron](https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/5C43Ud4wj7T3TYbS7LpKh2) | 3:16 | 2020-11-12 | 2022-07-29 |
 | [bouquet of balloons](https://open.spotify.com/track/3m3IcXx0tjp9tgkisn60YE) | [biosphere](https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D) | [Rekindle the Past](https://open.spotify.com/album/07sS8e5gtXTt70It4bKe7M) | 3:03 | 2020-11-12 |  |
 | [BUS RIDE](https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:13 | 2020-11-12 |  |
@@ -79,7 +80,7 @@
 | [keep on](https://open.spotify.com/track/5ZxiA42PnZVycgvipSIkA2) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/3X3K9zkWjJhctjCqONIqSd) | 2:20 | 2020-11-12 | 2022-07-29 |
 | [Keep Up](https://open.spotify.com/track/5yMJbHjfQzTVy9FeKxoF5G) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Awake in the Dark](https://open.spotify.com/album/3b4SsWWV1TrrHMGgRWvgmS) | 3:07 | 2020-11-12 | 2022-07-29 |
 | [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 | 2020-11-12 | 2022-07-28 |
-| [Lofi Jazz Beat](https://open.spotify.com/track/5eIHjYXJqCYHgTWqd5boz1) | [Dan Dinero](https://open.spotify.com/artist/0KM3ubPiglpZ7jsJsvywps), [letmechill](https://open.spotify.com/artist/3MruTrdkzhB7TlstDmRhF6), [Lofi Radio](https://open.spotify.com/artist/0MQ5Kh5Tg64RUWtucOB965) | [Lofi Jazz Beat](https://open.spotify.com/album/6tD9gk6nNl9GOJW3YLtJjZ) | 1:40 | 2022-05-27 |  |
+| [Lofi Jazz Beat](https://open.spotify.com/track/5eIHjYXJqCYHgTWqd5boz1) | [Dan Dinero](https://open.spotify.com/artist/0KM3ubPiglpZ7jsJsvywps), [letmechill](https://open.spotify.com/artist/3MruTrdkzhB7TlstDmRhF6), [Lofi Radio](https://open.spotify.com/artist/0MQ5Kh5Tg64RUWtucOB965) | [Lofi Jazz Beat](https://open.spotify.com/album/6tD9gk6nNl9GOJW3YLtJjZ) | 1:40 | 2022-05-27 | 2022-12-08 |
 | [makeitliveforever](https://open.spotify.com/track/1RgopjbTCADvcFRe7dDav2) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:50 | 2020-11-12 |  |
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2020-11-12 | 2022-07-28 |
 | [makeuseofthetime](https://open.spotify.com/track/3yLAolnkqUWXwblOYoI1N9) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:18 | 2020-11-12 | 2022-07-29 |

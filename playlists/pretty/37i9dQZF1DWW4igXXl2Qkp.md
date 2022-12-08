@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Our editors' picks of the best tracks from Fresh Finds Hip\-Hop this year\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,536 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,900 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

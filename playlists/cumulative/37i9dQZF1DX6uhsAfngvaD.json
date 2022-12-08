@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 241499,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH"
@@ -4655,6 +4655,24 @@
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p"
+    },
+    {
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
+      },
+      "artists": [
+        {
+          "name": "Pynch",
+          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331664,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
     },
     {
       "album": {

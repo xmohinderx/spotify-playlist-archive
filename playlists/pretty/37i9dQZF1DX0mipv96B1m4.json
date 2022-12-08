@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 261,
+  "num_followers": 264,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDE1ZGM2ZTQ1ZWUzYmZjYzY4ZWRlMDVjYjBkMzZiNzc3",
+  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDlkZWQzYzZkNWFkMDZjYjNlYWZkZmY1NGUwMDgxMzM2",
   "tracks": [
     {
       "added_at": "2022-11-17 20:59:00",
@@ -45,26 +45,6 @@
       "url": "https://open.spotify.com/track/5LZjRcsQchkrv6PmCn0Uee"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Second of All",
-        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
-      },
-      "artists": [
-        {
-          "name": "Deejay Xp",
-          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
-        },
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Bubble Up",
-      "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
-    },
-    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "Teacher",
@@ -85,6 +65,26 @@
       "url": "https://open.spotify.com/track/31onESW2T3d0A9KcITQeQK"
     },
     {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Second of All",
+        "url": "https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh"
+      },
+      "artists": [
+        {
+          "name": "Deejay Xp",
+          "url": "https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj"
+        },
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Bubble Up",
+      "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Mpulira Bibyo",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nalonda Nemala",
-        "url": "https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 182021,
-      "name": "Nalonda Nemala",
-      "url": "https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Tupaate",
         "url": "https://open.spotify.com/album/3NlSPmx0BeXeUUxhmIQqjv"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 167741,
       "name": "Wakikuba",
       "url": "https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Nalonda Nemala",
+        "url": "https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        }
+      ],
+      "duration_ms": 182021,
+      "name": "Nalonda Nemala",
+      "url": "https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
     },
     {
+      "added_at": "2022-06-28 08:35:51",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
       "added_at": "2022-07-01 04:18:21",
       "album": {
         "name": "Bango",
@@ -217,20 +233,24 @@
       "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
     },
     {
-      "added_at": "2022-06-28 08:35:51",
+      "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+        "name": "Bwogana",
+        "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
       },
       "artists": [
         {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        },
+        {
+          "name": "Recho Rey",
+          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
         }
       ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+      "duration_ms": 181028,
+      "name": "Bwogana",
+      "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -255,26 +275,6 @@
       "duration_ms": 218823,
       "name": "Edoboozi Lyo",
       "url": "https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Bwogana",
-        "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
-      },
-      "artists": [
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        },
-        {
-          "name": "Recho Rey",
-          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bwogana",
-      "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 217338,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Hot Like Dat",
         "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 166736,
       "name": "Hot Like Dat",
       "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 217338,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
     },
     {
       "added_at": "2022-05-27 05:48:37",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+    },
+    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "Welcome",
@@ -691,42 +707,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
       "artists": [
         {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
         },
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
         }
       ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
-        }
-      ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -751,22 +747,26 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
       "artists": [
         {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
         },
         {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2022-08-05 09:37:54",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Enjoy Life",
+        "url": "https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0"
+      },
+      "artists": [
+        {
+          "name": "Liam Peaty",
+          "url": "https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L"
+        }
+      ],
+      "duration_ms": 216056,
+      "name": "Enjoy Life",
+      "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "The One",
@@ -815,22 +831,6 @@
       "duration_ms": 208000,
       "name": "The One",
       "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Enjoy Life",
-        "url": "https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0"
-      },
-      "artists": [
-        {
-          "name": "Liam Peaty",
-          "url": "https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L"
-        }
-      ],
-      "duration_ms": 216056,
-      "name": "Enjoy Life",
-      "url": "https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo"
     },
     {
       "added_at": "2022-03-31 17:42:20",

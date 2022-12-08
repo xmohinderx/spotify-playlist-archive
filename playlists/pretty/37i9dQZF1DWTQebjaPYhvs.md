@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,622 likes - 181 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,854 likes - 181 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 18 | [Beat Me Down](https://open.spotify.com/track/66TnITezi0MRbIX05dJpst) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Given](https://open.spotify.com/album/2e8UYAlw0dppcUS3goQTD4) | 3:41 |
 | 19 | [The Light](https://open.spotify.com/track/4ynqu9dZHY2LeyDzVUjpXc) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [The Light](https://open.spotify.com/album/4bHF4d67wEchsDA8D1AY5K) | 3:58 |
 | 20 | [Peace in the Pines](https://open.spotify.com/track/3Aw7AkVsRDZfcJ4LfGCDj0) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Everything Has Changed](https://open.spotify.com/album/0A0R2bKlLS2U3uICL3nwFn) | 3:39 |
-| 21 | [Chess](https://open.spotify.com/track/4QEX5xovdi7LpxPucf99aX) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/1Hsjz9l68sZbrKuZP8Ofq9) | 2:32 |
+| 21 | [Chess](https://open.spotify.com/track/7AYbl1Auq495a2BUcc5Xf5) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/37WoevP8269NwUSQ370NVV) | 2:32 |
 | 22 | [Dear Rodeo](https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:14 |
 | 23 | [Break My Heart Sweetly](https://open.spotify.com/track/4G2e1xRnQIavsrSXrqIwqm) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [In the Throes](https://open.spotify.com/album/0uPyGFPZWApM0xOEV1Njir) | 5:23 |
 | 24 | [Restless Ways](https://open.spotify.com/track/46BuKMRwrsORK3LGmJBwuv) | [Gethen Jenkins](https://open.spotify.com/artist/60JnsFVGbyznmdovxTyIEh) | [Western Gold](https://open.spotify.com/album/0aOX8fuikpPyZzqHwXT4aO) | 3:42 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 180 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 181 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MTY3MDI4NTU1NCwwMDAwMDAwMDUxMjEyOTk5YzA1Nzg5NTVmZTE0N2U4YzNkOTM0ZTBm`
+Snapshot ID: `MTY3MDQ0NjMxMywwMDAwMDAwMDU4MWJiNzYzMGY1ZWM3YTI3NjkzNGUzNmY3NmZlZGVh`

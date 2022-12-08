@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-176 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
+177 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/1120v1OL3dMNoviL6OZjaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/0Dg8zEmH6R1l67u1bsNKr0) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 6:43 | 2022-02-23 | 2022-07-29 |
 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 | 2022-12-02 |  |
 | [Rosetta](https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [The Golden Flute](https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ) | 3:51 | 2022-02-23 |  |
+| [S.K.J.](https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Bags Meets Wes \[Keepnews Collection\]](https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3) | 5:17 | 2022-12-07 |  |
 | [S.N.C.F.](https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc) | [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O), [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Nate Wood](https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR) | [Landed in Brooklyn \(with Tim Lefebvre & Nate Wood\)](https://open.spotify.com/album/5JxcyZzPM8oy5FElSKRmj7) | 6:05 | 2022-02-23 |  |
 | [Salute To Benny](https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Laughin' to Keep From Cryin'](https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo) | 8:32 | 2022-02-23 |  |
 | [Sandino](https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Etudes](https://open.spotify.com/album/6Y7tgGIv5fI0EQZbOxL45s) | 4:47 | 2022-06-22 |  |
@@ -140,7 +141,7 @@
 | [Softly As In A Morning Sunrise \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE) | [Paul Chambers Quintet](https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My) | [Paul Chambers Quintet \(Remastered\)](https://open.spotify.com/album/3YjDsVQMm9N0u2A0uUCiyb) | 3:10 | 2022-02-23 |  |
 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 | 2022-02-23 |  |
 | [Solar \- Live At The Village Vanguard, NYC; 6/25/1961](https://open.spotify.com/track/2JDGyG1zA8tZ4fJK9SsIRk) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard \[Keepnews Collection\]](https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB) | 8:54 | 2022-04-13 | 2022-10-07 |
-| [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 | 2022-09-22 |  |
+| [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 | 2022-09-22 | 2022-12-08 |
 | [Sophisticated Lady](https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:20 | 2022-02-23 | 2022-10-07 |
 | [Sophisticated Lady](https://open.spotify.com/track/04bTSazBcvYh3yszQLzOZH) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:26 | 2022-04-08 | 2022-10-07 |
 | [Soul\-Lo Blues \- Remastered 1997](https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn) | [Cliff Craft](https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp) | 8:31 | 2022-02-23 | 2022-11-25 |

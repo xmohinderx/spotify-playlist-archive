@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,608 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 34 | [魔人](https://open.spotify.com/track/0uyeiRNuXTNobAkW0BG6MF) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:40 |
 | 35 | [愁傷](https://open.spotify.com/track/33yYs2e4EBqCIrHJdQGBvn) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:52 |
 | 36 | [決死](https://open.spotify.com/track/4eNk8HAsVvdHMimWpVo8RK) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:36 |
-| 37 | [別れ](https://open.spotify.com/track/2b78om9qeplb6xoXH2y0PJ) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 1:49 |
-| 38 | [急変](https://open.spotify.com/track/5OedSvJeYWpprBTU1lee6U) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 2:08 |
+| 37 | [別れ](https://open.spotify.com/track/6tUvtiKUU7bYw5blSWWQyy) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:49 |
+| 38 | [急変](https://open.spotify.com/track/4hfGgdK73bQQek8OPLwSMQ) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 2:08 |
 | 39 | [友情](https://open.spotify.com/track/2ggxbwmmlHKm1Tswjygyrs) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 2:18 |
 | 40 | [繁栄](https://open.spotify.com/track/0bcn7voVf6K5EwN0sRMmyZ) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:26 |
 
-Snapshot ID: `MTY2OTM0MTYwMCwwMDAwMDAwMDk1YzdiNDY5ZGUzMDJhNTU4ZjQyOWE5MTAwOGE5YmM3`
+Snapshot ID: `MTY2OTM0MTYwMCwwMDAwMDAwMGU2ZjgzNjRiNWQ3NzdiMDJjMDI3ZGM3YzlmYWZhNzc3`

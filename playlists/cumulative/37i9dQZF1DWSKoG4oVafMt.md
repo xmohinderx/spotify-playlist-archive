@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jass Manak
 
-651 songs - 1 day 11 hr 20 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+653 songs - 1 day 11 hr 27 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aadi Ve](https://open.spotify.com/track/0aQCAqdET216JkGFOwZ0NL) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Walking Alone](https://open.spotify.com/album/1n6rmODHCXkbTcHyg6HOXI) | 2:38 | 2022-02-04 | 2022-02-12 |
 | [Aakad](https://open.spotify.com/track/0DziIKzDddNVB14PevbpX0) | [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Harshit Tomar](https://open.spotify.com/artist/7kp8fEjy8zTWqhYuhJeEav), [Vishaka Raghav](https://open.spotify.com/artist/5fRXkp2HikAh7gLrfoUio9), [Iza Sethia & Shivani Taneja](https://open.spotify.com/artist/4pH5ROhadz4dvdLmuhTLLS) | [Aakad](https://open.spotify.com/album/6Tbf4XYkDcdqErrvvnLQg7) | 3:17 | 2022-08-19 | 2022-09-01 |
 | [Aakad](https://open.spotify.com/track/5LpaK0acRyI2s10rBQg7Gk) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Aakad](https://open.spotify.com/album/1vrZ966dlxBaZf3xC5tzzW) | 3:48 | 2022-02-04 | 2022-02-12 |
+| [Aam Jahi](https://open.spotify.com/track/2VAdTh3AbLEOorEPCKBini) | [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Redleaf Music](https://open.spotify.com/artist/0bcbRa0jM5n7NJDLvB5QBy) | [Aam Jahi](https://open.spotify.com/album/2StecmOF61gAUsiEyvobIg) | 3:16 | 2022-12-07 |  |
 | [Addiction](https://open.spotify.com/track/0DnFtj3aBIRyDix0Y3lg9v) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Love Thunder](https://open.spotify.com/album/2hQRREeWIvPqNtJCOuFCy1) | 2:55 | 2022-09-20 |  |
 | [Adhi Raat \- From "Love Thunder"](https://open.spotify.com/track/1aSnOIDf1IxVuSDNWmDkff) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Adhi Raat \(From "Love Thunder"\)](https://open.spotify.com/album/47vOI472akK6HkuR3Odtn5) | 3:33 | 2022-09-16 |  |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
@@ -484,6 +485,7 @@
 | [Roi An](https://open.spotify.com/track/1fmDMGI7WZ66aesbLglqOn) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Roi An](https://open.spotify.com/album/11U06aYjZxQUA5mcdXggoj) | 6:28 | 2022-11-15 |  |
 | [Roka](https://open.spotify.com/track/62mB8ztXbNicqSvBCTXlEk) | [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [All In One](https://open.spotify.com/album/4s3k1bvqxPUAzJN4tzd9o4) | 2:51 | 2022-09-22 |  |
 | [Roll Deep](https://open.spotify.com/track/4jRoXx97M0sSZBfwMkBEDV) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Roll Deep](https://open.spotify.com/album/0cQDo3urPpbh6QAawatABo) | 3:02 | 2022-05-20 | 2022-07-06 |
+| [Rooh](https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Rooh](https://open.spotify.com/album/5obWYzYO5TQJkIoWBx4OHG) | 3:28 | 2022-12-07 |  |
 | [Rooh \(From "Kulche Chole"\)](https://open.spotify.com/track/4mXwwnEm15OIufI78v68sB) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Jannat Zubair](https://open.spotify.com/artist/3WTqijS74B7kbeOvDmXLFb) | [Rooh \(From "Kulche Chole"\)](https://open.spotify.com/album/4vWfS0Bc2tLPeaCqyyXGWR) | 3:54 | 2022-08-31 |  |
 | [Rovengi Rovengi](https://open.spotify.com/track/0svxi1An9r9uBjUfTIV8il) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [Rovengi Rovengi](https://open.spotify.com/album/3HbN9XiYcfaGnkeJ7Bvhx8) | 3:19 | 2022-03-15 | 2022-04-06 |
 | [Roz Raat](https://open.spotify.com/track/2KW9XIQSHlxdezn24QiXLG) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Music Mg](https://open.spotify.com/artist/187TniBCUYUBlVTjmtsVi9) | [Roz Raat](https://open.spotify.com/album/0ozU1rhsuUWoAlizWD06Wn) | 3:35 | 2022-03-18 | 2022-04-06 |

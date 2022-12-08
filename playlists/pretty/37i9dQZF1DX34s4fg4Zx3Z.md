@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,395 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,422 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 30 | [Tuổi Mộng Mơ \- From "\#Trầm"](https://open.spotify.com/track/58XezCKDBpiXAOEgIlzEAM) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [\#Trầm](https://open.spotify.com/album/78UkaVDchROeLiVXBsSoxZ) | 3:21 |
 | 31 | [nghiên cứu drill học](https://open.spotify.com/track/396eaQGWIWUqUU5S8pH1Oq) | [kwkt](https://open.spotify.com/artist/0sZh9WUdVMwB3BXnLkf6Yy), [Long\-Nhat](https://open.spotify.com/artist/2cLfx3yAuGy1g0mDsknCv5) | [nghiên cứu drill học](https://open.spotify.com/album/0q92z6dgHCCuyodrdcwrSF) | 3:39 |
 | 32 | [Call Girl](https://open.spotify.com/track/597yJd30Qhy7ox80bNNw6x) | [Trung Tu](https://open.spotify.com/artist/6NmGVS8nPcqW6tnevWF3Zg) | [23](https://open.spotify.com/album/1ZuBZSGwfKOuXY4rXdTpb9) | 3:35 |
-| 33 | [Nhọ và Lem](https://open.spotify.com/track/37jMBERJHtq6NQv9cqnJsh) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Nhọ và Lem](https://open.spotify.com/album/7jUwpHtofVFCz6Oe4Rvexa) | 3:24 |
+| 33 | [Nhọ và Lem](https://open.spotify.com/track/5yxBS7QqWSSbPJhs4UEkND) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Nhọ và Lem](https://open.spotify.com/album/5EGJbzylEjxcAzwYfqbV4e) | 3:24 |
 | 34 | [Chỉ Muốn Bên Em Thật Gần \- Remix](https://open.spotify.com/track/2EBGONLivfuwbSTf8XmnMi) | [YLing](https://open.spotify.com/artist/5uFx186LoZqUu2oo7OakjJ), [Star Online](https://open.spotify.com/artist/1lMI4zXuNgD2J4GWFkSv5Z) | [Chỉ Muốn Bên Em Thật Gần](https://open.spotify.com/album/06jkVYMP7A3NWptpY6PGzW) | 3:43 |
 | 35 | [Muốn Bên Anh Thật Không](https://open.spotify.com/track/6bvuxfUFw9j9YNQRBwj1hi) | [Southalid](https://open.spotify.com/artist/5n4HPFtb9AUMQMAw8asZu6) | [Muốn Bên Anh Thật Không](https://open.spotify.com/album/7gO2JqeshfVGbZ8U6jGoML) | 4:45 |
 | 36 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Ngọt Như Cherry \(feat\. Hằng Bơ\)](https://open.spotify.com/track/6ThTWv8l257SaiRULWjIdC) | [Ahn](https://open.spotify.com/artist/3KMl4axmm1nAW7ASB8vXFT), [Hằng Bơ](https://open.spotify.com/artist/5CyYSwHf4gGYqos834MWme) | [Ngọt Như Cherry](https://open.spotify.com/album/3xd47RGKaWQm1pEaoaDIt0) | 3:52 |
 | 100 | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/track/0yJ6z2SkZj3to9AfOXyUeS) | [Fong](https://open.spotify.com/artist/5Y9b5Ez8MKbGOdRGF9exkq), [Zxdiac](https://open.spotify.com/artist/2JdXVtDSwx0INNNd4pyZYI) | [Như Ngón Tay Ta Đan Vào Nhau](https://open.spotify.com/album/5Vt6QOKttJbwHIYvBlkvff) | 3:31 |
 
-Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMDNiMjVjMjI0YTkzNDM4NDg3ZDc3MTkwNmE1ZGE4MjFk`
+Snapshot ID: `MTY2OTg2Njg3NiwwMDAwMDAwMDdhNmYxMTAzNDQzMzhiMjA0ZDAwNDUzMzhkNDE5ZTVl`

@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 34594,
+  "num_followers": 34623,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDU3ZjgwYzVkMzBiNGJmMGY5YmFjYThiOGQ3OTllYjRl",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDc0ZjEyNWYxNTlmYTJhM2ZlYTQ4YzZjZTg0ZDRmOTAw",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -135,22 +135,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Everyone Falls In Love",
-        "url": "https://open.spotify.com/album/3D9Ac8ZaUdpT75shinyjTY"
-      },
-      "artists": [
-        {
-          "name": "Tanto Metro & Devonte",
-          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Everyone Falls in Love",
-      "url": "https://open.spotify.com/track/6nGwWIh0ATJqK9cXbLqDw8"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Reggae Gold 2007",
         "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 258653,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Everyone Falls In Love",
+        "url": "https://open.spotify.com/album/3D9Ac8ZaUdpT75shinyjTY"
+      },
+      "artists": [
+        {
+          "name": "Tanto Metro & Devonte",
+          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Everyone Falls in Love",
+      "url": "https://open.spotify.com/track/6nGwWIh0ATJqK9cXbLqDw8"
     },
     {
       "added_at": "2020-10-19 09:02:25",

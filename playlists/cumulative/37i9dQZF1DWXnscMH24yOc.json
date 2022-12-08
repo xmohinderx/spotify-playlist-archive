@@ -2456,6 +2456,24 @@
     },
     {
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286506,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB"
+    },
+    {
+      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
       },
@@ -3763,7 +3781,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 218581,
       "name": "Soul Meets Body",
       "url": "https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI"

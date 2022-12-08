@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 317252,
+  "num_followers": 317382,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDZhMGQwNzg2MDgyODVhZGU5ZjIxYjIyOWFkMjM5YThk",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDI2OGU0MDg0YTBhYmQ5ZmEyZjI3NjUzMjYzMzQ5Zjg4",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Ventriloquism",
         "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
       },
@@ -599,18 +583,38 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Charlie, Last Name Wilson",
-        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
+        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
       },
       "artists": [
         {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 302440,
-      "name": "Let's Chill",
-      "url": "https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu"
+      "duration_ms": 215852,
+      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 331133,
+      "name": "As",
+      "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
     },
     {
       "added_at": "2021-01-15 05:01:00",

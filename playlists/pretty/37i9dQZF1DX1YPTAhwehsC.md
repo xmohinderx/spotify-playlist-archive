@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: DD Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,243 likes - 101 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,441 likes - 101 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 85 | [Round & Round](https://open.spotify.com/track/6CcS9wHavuQD6KjqsrMvdr) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Round & Round](https://open.spotify.com/album/1TdRRrPUGr61rj3UIRI9TO) | 2:30 |
 | 86 | [Wash The Dishes](https://open.spotify.com/track/2ijOqX5vRDWSEcOAkRFnIM) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Last Remnants](https://open.spotify.com/album/2I5gEMVij8Z6mEJlItaTrt) | 2:28 |
 | 87 | [Winning](https://open.spotify.com/track/65qBYY6NRQ9yWNVSZyQ69N) | [Shani Boni](https://open.spotify.com/artist/1tzZtJUaD3xPSetRFaP5Ae), [Rico Beats](https://open.spotify.com/artist/30iAbaeI5y7xhUxj1WRnIb) | [Winning](https://open.spotify.com/album/5DADsozqKbeSgP39uTyGgb) | 2:03 |
-| 88 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 |
+| 88 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5lx5zu37Rf592Iby01kroZ) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 3:16 |
 | 89 | [Self Worth \(feat\. Lil Perco\)](https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [Lil Perco](https://open.spotify.com/artist/1zBajAbkG72h752UzxeUAB) | [Vultures Don't Kry](https://open.spotify.com/album/1ZD7JYrhxigRGhjzpPzEJ3) | 2:52 |
 | 90 | [Double Cup](https://open.spotify.com/track/3GgHxYYLLaE1OnRKc9FznY) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Double Cup](https://open.spotify.com/album/6XdDkPjojt5FHlGBhZcjr5) | 2:44 |
 | 91 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 100 | [Foreign Shit](https://open.spotify.com/track/6ARRF0o0moDLS7coAp2xDS) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Foreign Shit](https://open.spotify.com/album/77vm6TZpmXelO2C5IvQiYl) | 1:50 |
 | 101 | [What You Do](https://open.spotify.com/track/0mn3Xrxr3GuRf3Pq1AlsKK) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Damon Dash](https://open.spotify.com/artist/4ZkdpElKTmTEs9F5BuKTOe) | [U Wasn't There](https://open.spotify.com/album/0wFHZCTh0GBBxa1RzvfL6b) | 2:39 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGM1ZjQ5NzBhZWQ3YmUzNmQ5ZjI4OWM0MzViZWRlMjVj`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGYxOWU2OWUxZTc3OGExZTRmMmIwNzg0OTg5ZTY5ZTVj`

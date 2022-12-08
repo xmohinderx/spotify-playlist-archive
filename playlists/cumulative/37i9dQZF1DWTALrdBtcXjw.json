@@ -689,21 +689,21 @@
           "url": "https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3"
         },
         {
+          "name": "Guillaume Perret",
+          "url": "https://open.spotify.com/artist/7dUD0CbwQ1JQb1H0ovHjUZ"
+        },
+        {
           "name": "Cl\u00e9ment Daldosso",
           "url": "https://open.spotify.com/artist/7ChdS9uiipYzHA8c36AWS8"
         },
         {
           "name": "Lukmil Perez",
           "url": "https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv"
-        },
-        {
-          "name": "Guillaume Perret",
-          "url": "https://open.spotify.com/artist/7dUD0CbwQ1JQb1H0ovHjUZ"
         }
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 507816,
       "name": "Cinquantuno",
       "url": "https://open.spotify.com/track/6Gx9ztDiJ3mcMEHO96w6Kb"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 139849,
       "name": "Have You Seen Me Lately",
       "url": "https://open.spotify.com/track/3yuopzkhJwwBCkvHhsEFjV"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 219000,
       "name": "It's Always You",
       "url": "https://open.spotify.com/track/2i7sJAA8we9WPS4TzDazRQ"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 334306,
       "name": "Lucky to Be Me",
       "url": "https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q"
@@ -2987,7 +2987,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 296920,
       "name": "One Step at a Time",
       "url": "https://open.spotify.com/track/4C85BJqQN5Ma1IG6klsRov"
@@ -4015,6 +4015,24 @@
       "duration_ms": 325705,
       "name": "The End of a Bug Affair",
       "url": "https://open.spotify.com/track/1Jap4wnqf3Ykn7WEayPjss"
+    },
+    {
+      "album": {
+        "name": "The Feeling of Jazz",
+        "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292521,
+      "name": "The Feeling of Jazz",
+      "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
     },
     {
       "album": {

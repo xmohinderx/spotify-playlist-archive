@@ -652,6 +652,24 @@
     },
     {
       "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF"
+      },
+      "artists": [
+        {
+          "name": "Pratibha Baghel",
+          "url": "https://open.spotify.com/artist/34WY28NColBYovxxFwafVW"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240245,
+      "name": "Har Ek Baat",
+      "url": "https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5"
+    },
+    {
+      "album": {
         "name": "Beyond Skin",
         "url": "https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips"
       },
@@ -805,6 +823,24 @@
       "duration_ms": 285550,
       "name": "Jaanu Na - Jodi Tare",
       "url": "https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1"
+    },
+    {
+      "album": {
+        "name": "Jamuna Kinare",
+        "url": "https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut"
+      },
+      "artists": [
+        {
+          "name": "Sooryagayathri",
+          "url": "https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461538,
+      "name": "Jamuna Kinare",
+      "url": "https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af"
     },
     {
       "album": {

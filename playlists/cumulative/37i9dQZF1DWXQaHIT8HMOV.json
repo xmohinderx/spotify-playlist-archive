@@ -88,6 +88,36 @@
     },
     {
       "album": {
+        "name": "The Opening Act",
+        "url": "https://open.spotify.com/album/4J6STymks5es1DRudc1qT5"
+      },
+      "artists": [
+        {
+          "name": "Aethan Music",
+          "url": "https://open.spotify.com/artist/609EazKArL58XXHcXgvPoU"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Denesi",
+          "url": "https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/0QQm7eqOsPVVepd1rHtJRE"
+    },
+    {
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
       },
@@ -983,7 +1013,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 194594,
       "name": "Magic (fik)",
       "url": "https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF"

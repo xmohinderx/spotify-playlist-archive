@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 140642,
+  "num_followers": 141231,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1Nzc0MCwwMDAwMDAwMDZkZjA2Mjk3OWMxZWVjOTljODYwYTUyMmQ2OGE1YWY0",
+  "snapshot_id": "MTY2OTk1Nzc0MCwwMDAwMDAwMGYwZTExYWI2ZjFkMDVhZDk1ZGM0Njg3YTU5OTJlYTFj",
   "tracks": [
     {
       "added_at": "2022-10-07 11:48:00",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy"
     },
     {
+      "added_at": "2022-12-02 05:09:00",
+      "album": {
+        "name": "Shittin' Me",
+        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 144729,
+      "name": "Shittin' Me",
+      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
+    },
+    {
       "added_at": "2022-10-07 11:48:00",
       "album": {
         "name": "Long Term Effects of SUFFERING",
@@ -283,22 +299,6 @@
       "duration_ms": 205093,
       "name": "Who Dat Boy (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"
-    },
-    {
-      "added_at": "2022-12-02 05:09:00",
-      "album": {
-        "name": "Shittin' Me",
-        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 144729,
-      "name": "Shittin' Me",
-      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -375,38 +375,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Chaxsthexry",
-        "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
-      },
-      "artists": [
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 106340,
-      "name": "What the Fuck is Happening",
-      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
       },
@@ -427,6 +395,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "Chaxsthexry",
+        "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
+      },
+      "artists": [
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "BACKROOM",
+      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
     },
     {
       "added_at": "2022-10-25 15:20:00",
@@ -463,34 +463,18 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 155744,
-      "name": "BACKROOM",
-      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Big Pussy",
-        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "Big Pussy",
-      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -511,38 +495,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Tanaka 2",
-        "url": "https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq"
+        "name": "Big Pussy",
+        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
       },
       "artists": [
         {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
         }
       ],
-      "duration_ms": 188724,
-      "name": "Tanaka 2",
-      "url": "https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887"
-      },
-      "artists": [
-        {
-          "name": "Mag.Lo",
-          "url": "https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y"
-        }
-      ],
-      "duration_ms": 126062,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
+      "duration_ms": 140600,
+      "name": "Big Pussy",
+      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -563,6 +527,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "Team",
+        "url": "https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887"
+      },
+      "artists": [
+        {
+          "name": "Mag.Lo",
+          "url": "https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y"
+        }
+      ],
+      "duration_ms": 126062,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Sogno",
         "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 106877,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Tanaka 2",
+        "url": "https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 188724,
+      "name": "Tanaka 2",
+      "url": "https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Smack A Bitch",
+      "url": "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+        "name": "CRYPT",
+        "url": "https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
         }
       ],
-      "duration_ms": 138352,
-      "name": "Smack A Bitch",
-      "url": "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
+      "duration_ms": 105612,
+      "name": "CRYPT",
+      "url": "https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -763,22 +779,6 @@
       "duration_ms": 118627,
       "name": "Keep Your Distance",
       "url": "https://open.spotify.com/track/5dfMZKLa5AmXmsMmkQgu0t"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "CRYPT",
-        "url": "https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2"
-      },
-      "artists": [
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 105612,
-      "name": "CRYPT",
-      "url": "https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU"
     },
     {
       "added_at": "2022-10-07 11:48:00",

@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-182 songs - 11 hr 27 min - not published yet
+183 songs - 11 hr 30 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Butter](https://open.spotify.com/track/2HffKiqwE9cMKcRLwO03km) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Butter](https://open.spotify.com/album/6Rgrxb2rmHgJJE3RfDBQt9) | 3:27 | 2020-07-16 |  |
 | [Caravan of Fools](https://open.spotify.com/track/0XP9ngwJpoFXVEeA7xcKHU) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 2:28 | 2021-11-15 |  |
 | [Caroline](https://open.spotify.com/track/7rwKNqgVO0OfdOLNSKfYR4) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx), [Belle Plaine](https://open.spotify.com/artist/5bCjjNx0wXytkKko9jlaLl) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 2:53 | 2020-06-22 |  |
-| [Chess](https://open.spotify.com/track/4QEX5xovdi7LpxPucf99aX) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/1Hsjz9l68sZbrKuZP8Ofq9) | 2:32 | 2021-12-28 |  |
+| [Chess](https://open.spotify.com/track/4QEX5xovdi7LpxPucf99aX) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/1Hsjz9l68sZbrKuZP8Ofq9) | 2:32 | 2021-12-28 | 2022-12-08 |
+| [Chess](https://open.spotify.com/track/7AYbl1Auq495a2BUcc5Xf5) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/37WoevP8269NwUSQ370NVV) | 2:32 | 2022-12-07 |  |
 | [Cigarette](https://open.spotify.com/track/1MC0zx1YAB2OZrqaA9eRZ9) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/0IpzRCBFjho1olTGa7haHu) | 3:34 | 2020-06-22 |  |
 | [Claudia's Theme \- Version Eight](https://open.spotify.com/track/42KZ8Ico4auwb8jSijJtI1) | [Lennie Niehaus](https://open.spotify.com/artist/574GaJ6fESbIpMNPvL61Af), [Clint Eastwood](https://open.spotify.com/artist/5NfaORyb548xmt85LGHYFV) | [Unforgiven \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ae3Z1g2G35RSOFkHL3SBt) | 5:41 | 2019-06-27 |  |
 | [Conquer](https://open.spotify.com/track/6ZMnmTmhfIKMQAD7crAQfJ) | [KiND](https://open.spotify.com/artist/5FtxRQV23bl8eKmKdxtxbv) | [Conquer](https://open.spotify.com/album/7pvY4eXxlxci8gIvi7zFoc) | 4:18 | 2019-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-270 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+271 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 | 2022-11-19 |
 | [Lilac](https://open.spotify.com/track/0Ymu1QBwxsXpwsLdxWBRtA) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/4lqw1wICfF7tNfVjj3TPgX) | 2:40 | 2021-10-16 | 2022-07-29 |
 | [Lilac](https://open.spotify.com/track/1o6NbOV0dqkjeaXFiTMJOO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Lilac](https://open.spotify.com/album/7s9B2fGXMeIgYEnoHxrzWN) | 2:40 | 2021-10-16 |  |
-| [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-26 |  |
+| [Lithe](https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Blizz](https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9) | 5:28 | 2022-11-25 |  |
 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2021-10-16 | 2022-11-12 |
 | [Lonely](https://open.spotify.com/track/3xzPOzDfNDJcub1s1MXKcJ) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/3bAbS8r4SzB4sRRsiDqyfc) | 3:12 | 2021-10-16 | 2022-07-27 |
 | [Lonely](https://open.spotify.com/track/77Gt9f138HG8AEN8IoTrnu) | [Hyperparadise](https://open.spotify.com/artist/4uajeI5EPh9v3im2UwQH5s) | [Midnight Thoughts](https://open.spotify.com/album/7BJriCkxc7S82hL3T0qtxf) | 3:12 | 2021-10-16 | 2022-10-22 |
@@ -167,7 +167,7 @@
 | [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 | 2022-06-30 |  |
 | [New Age](https://open.spotify.com/track/6BWFRYskic6vYAzAnLJxaS) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [New Age](https://open.spotify.com/album/6bJQPzvWZuipnsc22MlqK7) | 2:13 | 2022-02-14 | 2022-09-21 |
 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 | 2021-10-16 | 2022-07-28 |
-| [No Reason](https://open.spotify.com/track/0UpLU5jqHxdTX07vuPkz7w) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Reason](https://open.spotify.com/album/3OoHHwGuSGx1ONteqz6rIY) | 2:49 | 2021-10-16 |  |
+| [No Reason](https://open.spotify.com/track/0UpLU5jqHxdTX07vuPkz7w) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [No Reason](https://open.spotify.com/album/3OoHHwGuSGx1ONteqz6rIY) | 2:49 | 2021-10-16 | 2022-12-08 |
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 |  |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2021-10-16 |  |
 | [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 |  |
@@ -194,6 +194,7 @@
 | [Rhus](https://open.spotify.com/track/1hc1fqvPabdkcAUxqr4RYB) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Dual](https://open.spotify.com/album/4M9VDnIQkRaRsneYy95oYy) | 2:43 | 2021-10-16 | 2022-07-29 |
 | [Royal Fern](https://open.spotify.com/track/7zPBfIRr0PWSkc2SO6xIJM) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Royal Fern](https://open.spotify.com/album/3nudB0yRd6bc9QNKP1YJUx) | 4:17 | 2021-10-16 | 2022-07-29 |
 | [sabor](https://open.spotify.com/track/2FzrLNeaAsZhviPAsVKyy6) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [sabor](https://open.spotify.com/album/7722Ug5Qu9wTEgVu2x2KWX) | 1:52 | 2021-10-16 | 2022-07-28 |
+| [Same Way Home \(Wowflower Remix\)](https://open.spotify.com/track/25oS9gdWOLSe8YRralMzPk) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Same Way Home \(Wowflower Remix\)](https://open.spotify.com/album/0i893HsE4Pqzh8SapOU70l) | 2:06 | 2022-12-07 |  |
 | [Sankai](https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kwaidan](https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO) | 4:18 | 2021-10-16 | 2022-07-22 |
 | [Sansevieria](https://open.spotify.com/track/28V06ats2bx8OCdh9DBBOR) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 4:24 | 2021-10-16 | 2022-07-29 |
 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 | 2021-10-16 |  |
@@ -203,7 +204,7 @@
 | [Seals](https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/1vGxp3fYpDr1weKcyLzvSK) | 2:18 | 2021-10-16 |  |
 | [Seaside](https://open.spotify.com/track/6gYVKVLsz5hMURG0A42MUE) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Seaside](https://open.spotify.com/album/4pX3op6h4EQl3MPV28ffxr) | 3:10 | 2021-10-16 | 2022-07-19 |
 | [She Brought the Sun \- Donna Lewis Remix](https://open.spotify.com/track/6DLteOyb98BgjzLPFdVGul) | [Delia Derbyshire Appreciation Society](https://open.spotify.com/artist/7tftZY77A5wi6W5wngbBxu), [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [She Brought the Sun \(The Remixes\)](https://open.spotify.com/album/1Rzzk0pyZ6Gr2AjA5udesm) | 5:17 | 2021-10-16 | 2022-07-26 |
-| [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-26 |  |
+| [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-11-25 |  |
 | [Silent, Again](https://open.spotify.com/track/1y2VUlqdTglajvnqfWlTNr) | [bonsai2004](https://open.spotify.com/artist/4dadbZwGXdRXe17zBigfoO) | [Silent, Again](https://open.spotify.com/album/61wpNCObeDn2KQimfYGtR4) | 2:04 | 2021-10-16 | 2022-07-27 |
 | [simbiosis](https://open.spotify.com/track/50oogoHC2e9HDCFxw1oB7G) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/3RK6NpoByT63TvTZO1k9RY) | 3:36 | 2021-10-16 | 2022-07-29 |
 | [Sinharaja Rain Forest](https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY) | 2:09 | 2021-10-16 |  |

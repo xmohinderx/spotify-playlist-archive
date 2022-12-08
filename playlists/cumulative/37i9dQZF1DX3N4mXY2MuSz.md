@@ -4,7 +4,7 @@
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-182 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
+184 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blue Christmas](https://open.spotify.com/track/3DL2Zth3HnbmMKgUy3RSiG) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/2To5Y08bzMfSKgssrxaGqp) | 1:42 | 2021-11-19 | 2022-07-27 |
 | [Boxing Day](https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:59 | 2021-11-19 | 2022-07-29 |
 | [Boxing Day](https://open.spotify.com/track/6uDMP9Hlgy2FemC6sp9ZRt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:59 | 2021-11-19 |  |
-| [Carol Of The Beers](https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 1:47 | 2021-11-19 |  |
+| [Carol Of The Beers](https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 1:47 | 2021-11-19 | 2022-12-08 |
 | [Carol Of The Bells](https://open.spotify.com/track/6laRtlIDDBEL2eYfjoZh7g) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 2:43 | 2021-11-19 | 2022-07-29 |
 | [Carol of the Bells](https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Lost Messengers: The Outtakes](https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC) | 2:44 | 2021-11-19 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Christmas Spirit...In My House](https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv) | 3:26 | 2021-11-19 | 2022-11-14 |
@@ -49,7 +49,7 @@
 | [Christmas Shoes](https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl) | [FM Static](https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 4:15 | 2021-11-19 | 2022-11-25 |
 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 | 2021-11-19 |  |
 | [Christmas Time Again](https://open.spotify.com/track/6IhdxymP4sDVwgBXCB4dOs) | [Amely](https://open.spotify.com/artist/6AjPiGacexlUKYQ3dePBjv) | [Tis The Season to Be Fearless](https://open.spotify.com/album/1aunad4duE4Okwq8ATBy2j) | 4:03 | 2021-11-19 | 2022-07-28 |
-| [Christmas Vacation](https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:39 | 2021-11-19 |  |
+| [Christmas Vacation](https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:39 | 2021-11-19 | 2022-12-08 |
 | [Christmas With You](https://open.spotify.com/track/7lsuADVTj3eFiV5DLL0cyo) | [Artist Vs Poet](https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe) | ['Tis The Season To Be Fearless](https://open.spotify.com/album/4GTtGYA6iRyRN2lAaOw0De) | 3:58 | 2021-11-19 | 2022-07-28 |
 | [Christmas With You](https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y) | [Artist Vs Poet](https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe) | [Tis The Season To Be Fearless](https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a) | 3:58 | 2021-11-19 |  |
 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 | 2021-11-19 | 2022-07-29 |
@@ -92,6 +92,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1uocpg15Pa1lKYUufHayI5) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/47nwtVeih4vDxqTlNbk0U8) | 2:12 | 2021-11-19 | 2022-07-29 |
 | [His Favorite Christmas Story](https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr) | [Capital Lights](https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:32 | 2021-11-19 |  |
 | [Holiday Records](https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Holiday Records](https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx) | 3:03 | 2021-11-19 |  |
+| [Hope This Christmas](https://open.spotify.com/track/7bLIbZBDv6U3hGtyiv0boo) | [Shybits](https://open.spotify.com/artist/3RpiuODlxLEzGTjoKa2qW7), [Eddie Argos](https://open.spotify.com/artist/6Bb1Tz9dIywMGlbDzpwUCo) | [Hope This Christmas](https://open.spotify.com/album/4bcnJnLqOWtNtBghs2Tkdq) | 2:45 | 2022-12-01 |  |
 | [I Had A Heart](https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 2:37 | 2021-11-19 |  |
 | [I Had a Heart](https://open.spotify.com/track/5TRyTuddHqiyP9MN2Wv7Zr) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 2:39 | 2021-11-19 | 2022-07-25 |
 | [I Want An Alien For Christmas](https://open.spotify.com/track/33O5sjotRAcT8nwOeYXXEm) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/4i7krZXSr5yexVR7lWuclC) | 2:19 | 2021-11-19 |  |
@@ -109,6 +110,7 @@
 | [Last Christmas](https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 4:27 | 2021-11-19 |  |
 | [Last Christmas \- Studio Version](https://open.spotify.com/track/4XktdsM5pn4QfzfIbQmbE2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Christmas EP](https://open.spotify.com/album/2doWCGfknSdgTc7pM1N6Rf) | 4:27 | 2021-11-19 | 2022-07-28 |
 | [Last Christmas \- Studio Version](https://open.spotify.com/track/7oOPTXN5uxtvORCslB5pUW) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 4:27 | 2021-11-19 | 2022-07-22 |
+| [Lieder und Lametta](https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Lieder und Lametta](https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY) | 3:05 | 2022-12-01 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/22rBktERctuWCLmnV51Td5) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:08 | 2021-11-19 | 2022-12-03 |
 | [Lonely This Christmas](https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU) | [Traitors!](https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 2:38 | 2021-11-19 | 2022-07-29 |
 | [Making Christmas](https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:26 | 2021-11-19 | 2022-11-24 |

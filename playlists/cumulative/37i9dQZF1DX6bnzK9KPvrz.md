@@ -4,7 +4,7 @@
 
 > The essential tracks from The Weeknd.
 
-102 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
+103 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Call Out My Name](https://open.spotify.com/track/4MPTj8lMMvxLwT3EwuXFop) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69) | 3:48 | 2021-11-23 | 2022-07-29 |
 | [Call Out My Name](https://open.spotify.com/track/6Mr36sUkcgJxOUUdni4kfK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poptopia](https://open.spotify.com/album/1lAQzubJFW9kwS2Zlp0Upg) | 3:48 | 2022-08-25 | 2022-11-13 |
 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 | 2021-11-23 |  |
+| [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-07 |  |
 | [Crew Love](https://open.spotify.com/track/0TiC3GtlMCskf2hIUIBcDV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 3:28 | 2021-11-23 | 2022-01-08 |
 | [D.D.](https://open.spotify.com/track/7eZ7ODAt9cALYnWLO8F6Fd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:35 | 2021-11-23 | 2022-07-26 |
 | [Dark Times](https://open.spotify.com/track/6J7PIkhtHwmFjPLq0SyuPj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:20 | 2021-11-23 | 2022-02-11 |
@@ -85,7 +86,7 @@
 | [Professional](https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Kiss Land](https://open.spotify.com/album/3hhDpPtCFuQbppwYgsVhMO) | 6:08 | 2021-11-23 | 2022-01-08 |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2021-11-23 | 2022-02-11 |
 | [Reminder \- Remix](https://open.spotify.com/track/7F1LWA9sIlTorHUo4amGqk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Reminder \(Remix\)](https://open.spotify.com/album/6B3VYsWUR2xf7HptOO2fpr) | 3:41 | 2021-11-23 | 2022-01-08 |
-| [Rockin’](https://open.spotify.com/track/36YCdzT57us0LhDmCYtrNE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:52 | 2021-11-23 |  |
+| [Rockin’](https://open.spotify.com/track/36YCdzT57us0LhDmCYtrNE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:52 | 2021-11-23 | 2022-12-08 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-11-23 |  |
 | [Secrets](https://open.spotify.com/track/00NAQYOP4AmWR549nnYJZu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:25 | 2021-11-23 |  |

@@ -4,7 +4,7 @@
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Snotty Nose Rez Kids
 
-675 songs - 1 day 7 hr 30 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
+676 songs - 1 day 7 hr 33 min - [published](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 | 2022-07-08 |  |
 | [CARNAGE](https://open.spotify.com/track/0FE3XDuJH4tnf1MCgsg3Ju) | [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [CARNAGE](https://open.spotify.com/album/2LkrL0QDmh272zbVFCvHNh) | 2:36 | 2022-11-11 |  |
 | [Cartel](https://open.spotify.com/track/4DiUbW9gS8NAnPvAJLWvDL) | [Gustavo Guaapo](https://open.spotify.com/artist/2S9z4eFhx79PnOTaHN2l5D) | [Cartel](https://open.spotify.com/album/106QPRZS45E6D5ffukjxao) | 2:30 | 2022-06-24 | 2022-07-16 |
-| [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 | 2022-12-02 |  |
+| [Cassette](https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0) | 3:22 | 2022-12-02 |  |
+| [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 | 2022-12-02 | 2022-12-08 |
 | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/track/1OxmuIHpa6a9DM352tvhlG) | [Nycesound Production](https://open.spotify.com/artist/4KuYv8blOVBw5mqckQ4a6L), [Waayve](https://open.spotify.com/artist/43frrjZm4xIly8czdRd2ix), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw), [Liyah](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/album/7FJPusS9ib4zXgwL3gzEZv) | 3:02 | 2022-10-14 | 2022-11-26 |
 | [CEO](https://open.spotify.com/track/1dfBAmVJ2p0l0JyzknJois) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [CEO](https://open.spotify.com/album/4vj2X6GGtK5n3LKtEUxucC) | 3:00 | 2022-09-02 | 2022-11-05 |
 | [CERTI STURDY](https://open.spotify.com/track/72MlZqv1M9lKddrEvMI8vQ) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [CERTI STURDY](https://open.spotify.com/album/3AcTtM3Ntq1faNnnlMWFbr) | 3:10 | 2022-06-03 | 2022-06-11 |

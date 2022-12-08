@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-244 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
+245 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/2fhHhOwZ66lJ05RKWGny0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 | 2022-06-07 |  |
 | [Oasis de amor](https://open.spotify.com/track/2i1BlrgLxwktth9oFneI4d) | [Platino All\-Stars](https://open.spotify.com/artist/2ar7nUwltE4vieFomA88bR) | [Cumbias Bailables](https://open.spotify.com/album/3KjWpwWArxhjp2XQqjPyBz) | 3:00 | 2021-10-19 | 2022-03-11 |
 | [Oasis De Amor](https://open.spotify.com/track/5dKcpH68xBgZ4E5vkNzGqa) | [Simba Musical](https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J) | [Cumbias Bailables](https://open.spotify.com/album/3cckqFeX5tVXMUbhqd5ggA) | 3:00 | 2021-10-19 | 2022-07-20 |
-| [Ojitos Hechiceros](https://open.spotify.com/track/19J8yoEtrBYtCNP9eOBAcz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 3:40 | 2022-06-07 |  |
+| [Ojitos Hechiceros](https://open.spotify.com/track/19J8yoEtrBYtCNP9eOBAcz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 3:40 | 2022-06-07 | 2022-12-08 |
 | [Ojitos Mentirosos](https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [Exitos Quemantes Vol\. IV](https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC) | 3:03 | 2022-07-19 |  |
 | [Ojitos Mentirosos](https://open.spotify.com/track/1cOy0Jd1F4VO7ry3ZdixWI) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [21 Black Jack \(Nueva Edición Remasterizada\)](https://open.spotify.com/album/0rKlN9fAqM0pRc3h0P4txO) | 3:05 | 2021-10-19 | 2022-07-29 |
 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 | 2022-07-19 |  |
@@ -190,6 +190,7 @@
 | [Por El Amor A Mi Madre](https://open.spotify.com/track/1yUJiZMgB0dDBET4al9Bmn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Alas Al Mundo](https://open.spotify.com/album/2ASUW6MN0oQpcKweDIID8D) | 4:23 | 2022-06-07 | 2022-07-29 |
 | [Por Unas Monedas](https://open.spotify.com/track/4GgzT38SwEMYmVqM3eZIul) | [Los Abelardos](https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX) | [Aventurero](https://open.spotify.com/album/2CFnqhOLrV7kzqaUb1sBWJ) | 3:11 | 2022-06-07 | 2022-11-14 |
 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 | 2022-07-19 |  |
+| [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-12-07 |  |
 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 | 2021-10-19 | 2022-07-29 |
 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 | 2022-07-19 |  |
 | [Que Bello](https://open.spotify.com/track/3VJ1ShStmNbprDcli1oZBL) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [20 Grandes Exitos](https://open.spotify.com/album/75tgxv2Z8MvvD01WMLMlgR) | 4:09 | 2021-10-19 | 2022-07-27 |

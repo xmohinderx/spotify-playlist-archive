@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Morgan Wallen, Parker McCollum, Lainey Wilson and more.
 
-2,260 songs - 5 day 3 hr 27 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+2,261 songs - 5 day 3 hr 30 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2236,7 +2236,8 @@
 | [You Again](https://open.spotify.com/track/0Wphntao32r6k57fTV4Fra) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [You Again](https://open.spotify.com/album/2QatDqAmgXmE4binBoY6fO) | 2:42 | 2022-05-20 | 2022-05-28 |
 | [You Ain't \(Ft\. Meghan Patrick\)](https://open.spotify.com/track/3DNcOGlAIjosd5mBdcCd0s) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [You Ain't \(feat\. Meghan Patrick\)](https://open.spotify.com/album/0kGmLcZ48CKCXwxvPNcG9K) | 3:24 | 2022-09-23 | 2022-10-01 |
 | [You Ain't Alone](https://open.spotify.com/track/5R2yrsXPl9p1r1PkIgzUoc) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [You Ain't Alone](https://open.spotify.com/album/3RCYZwxjXQUdOGhUIGi3IY) | 3:09 | 2022-10-21 | 2022-10-29 |
-| [You Ain't Here To Kiss Me \- 2022](https://open.spotify.com/track/1s1iAFkvJCBRMXVYtd358b) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [You Ain't Here To Kiss Me \(2022\)](https://open.spotify.com/album/7bXBQUOLdH6feHM26xvQ94) | 3:35 | 2022-12-02 |  |
+| [You Ain't Here To Kiss Me \- 2022](https://open.spotify.com/track/1s1iAFkvJCBRMXVYtd358b) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [You Ain't Here To Kiss Me \(2022\)](https://open.spotify.com/album/7bXBQUOLdH6feHM26xvQ94) | 3:35 | 2022-12-02 | 2022-12-08 |
+| [You Ain't Here To Kiss Me \- 2022](https://open.spotify.com/track/5WRoWlYVtXMG5EvoVkzEAY) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [You Ain't Here To Kiss Me \(2022\)](https://open.spotify.com/album/48W5DF2KBf0UTvO3oaFdyf) | 3:35 | 2022-12-02 |  |
 | [You Always Do](https://open.spotify.com/track/5tWUcgLQs38p5qXhJEdmZF) | [Gable Bradley](https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1) | [You Always Do](https://open.spotify.com/album/5Ez4FzBMit1JlQ8oh2Sw9E) | 2:43 | 2022-04-08 | 2022-05-07 |
 | [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 | 2022-04-15 | 2022-04-23 |
 | [You and Me](https://open.spotify.com/track/3sxQbGjZ069MiXljzJTMsT) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 4:24 | 2022-10-28 | 2022-11-05 |

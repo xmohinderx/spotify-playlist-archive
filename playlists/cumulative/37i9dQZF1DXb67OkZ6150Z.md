@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-363 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+364 songs - 22 hr 28 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [On the Road Again](https://open.spotify.com/track/3PFjRx0ACVyWsA8161ovk2) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [On the Road Again](https://open.spotify.com/album/3qvgmE0KDwkAaiYZOGnuIl) | 2:25 | 2021-03-12 | 2022-07-18 |
 | [Only You](https://open.spotify.com/track/5w2CMzor2d578JophXar5e) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Only You](https://open.spotify.com/album/13VZdx2eNYVDTyE7avFEM3) | 3:15 | 2021-03-12 | 2022-04-19 |
 | [Orange Sky](https://open.spotify.com/track/45E6I2yNGDGkEqx2U2PWvs) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [Looking for Alaska \(Music from the Original Series\)](https://open.spotify.com/album/4hRgz8S5EEyuVn2vUGwubS) | 4:58 | 2021-03-12 | 2022-06-12 |
-| [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 | 2021-07-21 |  |
+| [Our House](https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Our House](https://open.spotify.com/album/7yuswreCCTccvqWFuP974U) | 3:02 | 2021-07-21 | 2022-12-08 |
 | [Passionfruit \(triple j Like A Version\)](https://open.spotify.com/track/6fi8m0iBPSrTPHle0CEJev) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Passionfruit \(triple j Like A Version\)](https://open.spotify.com/album/3zVSYp1orCu1El55j05lkK) | 4:28 | 2021-03-12 | 2022-04-21 |
 | [Paul](https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Paul](https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy) | 3:07 | 2021-03-12 |  |
 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-08 |  |
@@ -358,6 +358,7 @@
 | [Yellow](https://open.spotify.com/track/0zDDc616MQciHCOLiPDacv) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Yellow](https://open.spotify.com/album/5rDeSu6DH2SN50hlPQvnaY) | 4:32 | 2021-03-12 | 2022-08-10 |
 | [Yellow](https://open.spotify.com/track/3NIzdwWBH91j518fHqDDLz) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Yellow](https://open.spotify.com/album/3wZ6H3yzAdxwHFR3JVlDGY) | 4:32 | 2021-03-12 | 2022-04-17 |
 | [Yellow](https://open.spotify.com/track/0Yba22WJ5zZzqEsVmd6Tsj) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Yellow](https://open.spotify.com/album/6aN0WKP0ZmunveF6tsYr4d) | 3:40 | 2021-08-13 | 2022-07-29 |
+| [Yellow](https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Yellow](https://open.spotify.com/album/3pC14s49yUVj2VJskAshde) | 4:22 | 2022-12-05 |  |
 | [You Don't Own Me / Canopy](https://open.spotify.com/track/1b2xXaiAwlq87uVUtfTrBa) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [You Don't Own Me / Canopy](https://open.spotify.com/album/38kR3rvWbKM9gW4S8ZER82) | 3:22 | 2021-07-21 | 2022-07-10 |
 | [You Know I'm No Good](https://open.spotify.com/track/2rtlHrDSpY5IdfcELrQKFL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/2U7fGbai5H3IyW4PRh4odC) | 4:09 | 2021-03-12 | 2022-04-21 |
 | [You Sexy Thing](https://open.spotify.com/track/53gmKxWnHnaT08COPRyaxc) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [You Sexy Thing](https://open.spotify.com/album/6Tx19r7WaRbie5Eo2rIUoC) | 3:20 | 2021-03-12 | 2022-07-27 |

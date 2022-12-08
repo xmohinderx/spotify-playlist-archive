@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: Marô / Arte: Isu Kim
 
-237 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+238 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Céu e Mar](https://open.spotify.com/track/2QAWqrdJaqgphSCjpCw5wJ) | [Matheus Bala](https://open.spotify.com/artist/73KUS3ICvdkM4spMDQKYYC) | [Céu e Mar](https://open.spotify.com/album/5CZBlQZa5Iw3dwHJ7Tabxw) | 2:12 | 2022-12-02 |  |
 | [Da Vida](https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6) | [Márcio Lugó](https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM), [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [Da Vida](https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb) | 3:00 | 2022-07-22 | 2022-10-29 |
 | [Deixa Pra Lá](https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ) | [Verdan](https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y) | [Deixa Pra Lá](https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt) | 2:32 | 2022-09-30 |  |
+| [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 | 2022-12-02 |  |
 | [DEPRIMIDA](https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [DEPRIMIDA](https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp) | 2:35 | 2022-07-29 | 2022-11-26 |
 | [Desamor](https://open.spotify.com/track/0ALH6Nj9I5t3DkYTvg0And) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Refúgio](https://open.spotify.com/album/3nP5WWMB5Wgx4lX752C1dC) | 2:46 | 2022-02-04 | 2022-04-02 |
 | [Desejos de um Leão](https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U) | [Uiu Lopes](https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ), [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Desejos de um Leão](https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2) | 3:13 | 2022-07-22 | 2022-10-29 |
@@ -97,7 +98,7 @@
 | [Good Times](https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Good Times](https://open.spotify.com/album/40YG2w0Yxz0hJBCaA8dvAv) | 2:27 | 2022-06-27 | 2022-09-24 |
 | [Guloso](https://open.spotify.com/track/76LNMzHaVkg9IwpCee1Ft7) | [Marela](https://open.spotify.com/artist/44eYI8KeLkUoNxM0W0YQY9) | [Guloso](https://open.spotify.com/album/57jPWdnUYmLkkzDjnIPiA5) | 3:52 | 2022-04-29 | 2022-09-13 |
 | [I Love U](https://open.spotify.com/track/6tseZ9t3jhmhXPYOcQnPxJ) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [INTENSA](https://open.spotify.com/album/3ZbLBHaFgZVmgIACf80ucp) | 3:03 | 2022-01-07 | 2022-01-29 |
-| [Idaí](https://open.spotify.com/track/2eB3z0UXLOc9pK6VP9lNZI) | [Murillinho](https://open.spotify.com/artist/0k88J2mpnd7mSwnqxx5pIi) | [Idaí](https://open.spotify.com/album/0iVRUGL5GGMetJWjNAKDOM) | 2:42 | 2022-09-02 |  |
+| [Idaí](https://open.spotify.com/track/2eB3z0UXLOc9pK6VP9lNZI) | [Murillinho](https://open.spotify.com/artist/0k88J2mpnd7mSwnqxx5pIi) | [Idaí](https://open.spotify.com/album/0iVRUGL5GGMetJWjNAKDOM) | 2:42 | 2022-09-02 | 2022-12-08 |
 | [Ideia Errada](https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ) | [Cigana](https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL) | [Ideia Errada](https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR) | 3:59 | 2022-09-23 |  |
 | [Ilusão](https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Ilusão](https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm) | 3:21 | 2022-11-18 |  |
 | [Imaginando Você](https://open.spotify.com/track/5Bhq9x8xbI9E3zNaJ0GLIv) | [Nando](https://open.spotify.com/artist/1OMDP7hWcTXihQ96nYbkDE), [Zi](https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup) | [Imaginando Você](https://open.spotify.com/album/53KmpwZFFaDmIUuHPdIprt) | 2:21 | 2022-01-07 | 2022-03-12 |

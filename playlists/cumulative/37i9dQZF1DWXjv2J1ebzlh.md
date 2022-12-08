@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,867 songs - 5 day 5 hr 46 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,868 songs - 5 day 5 hr 52 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1812,6 +1812,7 @@
 | [Yawma Konna](https://open.spotify.com/track/0VtPtqaVamsch6QU3pMDKd) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 4:34 | 2022-10-31 |  |
 | [Yawma Konna](https://open.spotify.com/track/0ilkMKnsGFcA6BCSVNcUQs) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/0XHu0qs3IztGqkDl4jOUpM) | 4:34 | 2022-07-12 | 2022-11-20 |
 | [Yebeqagnal](https://open.spotify.com/track/1191c3MFmsESihKbaoWUkC) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj) | [Ethiopiques, Vol\. 8: Swinging Addis 1969\-1974](https://open.spotify.com/album/5tNmMZUAqk6YI6z84PXWAr) | 3:31 | 2022-07-12 |  |
+| [Yebo Edi Pachanga](https://open.spotify.com/track/2TatZQhTE9sNia2FNaebc1) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Estrellas](https://open.spotify.com/album/2WgEVB6gkJ8ijn08kafvrf) | 5:19 | 2022-12-07 |  |
 | [Yeh Aaj Mujh Ko](https://open.spotify.com/track/4n9XJTR2B1vkczfMdzGuDO) | [Tafo Brothers](https://open.spotify.com/artist/4UQhAI9ZsqF63SrJKky317) | [M\. Ashraf At His Best Instrumental](https://open.spotify.com/album/6LDXTdUKS8awQAJNBb1JpH) | 4:08 | 2022-06-09 |  |
 | [Yekfini Nesma' Sotak](https://open.spotify.com/track/5J7ySnOHIqXK7lg3hTb5N9) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/59wUhuFXv88Cov9DMjGGI3) | 4:10 | 2022-07-12 | 2022-09-30 |
 | [Yemamaya](https://open.spotify.com/track/1EbJ9DlPVZ6146nt7DhuRw) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [Yemamaya](https://open.spotify.com/album/1XMqzOsgdbyCbsSsfNTUnX) | 4:02 | 2022-09-14 |  |

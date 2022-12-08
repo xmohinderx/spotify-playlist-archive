@@ -4,7 +4,7 @@
 
 > The official playlist for Emily in Paris\. Watch now on Netflix.
 
-119 songs - 7 hr 2 min - not published yet
+120 songs - 7 hr 7 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Goodnight Little Empire](https://open.spotify.com/track/0efHNLW15aV2w0Z36pbZyw) | [Madonnatron](https://open.spotify.com/artist/5296LoeRErq9LMXgcFw3yX) | [Musica Alla Puttanesca](https://open.spotify.com/album/7ec1EB4gl8yQt4DI0fTHCK) | 3:59 | 2022-05-20 |  |
 | [Hello](https://open.spotify.com/track/6zXNTEh0m0f9J9dIvwgbS5) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Hello](https://open.spotify.com/album/02se35n4gF3R1romII0PAx) | 3:27 | 2022-05-20 |  |
 | [Hit Sale \(feat\. Roméo Elvis\)](https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C), [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Hit Sale](https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez) | 3:04 | 2022-05-20 |  |
-| [Holy Lakes \(Dusk\)](https://open.spotify.com/track/6FXedT1pjklb2aVLgQtNH9) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Holy Lakes \(Dusk\)](https://open.spotify.com/album/3fSSDKeh2BslaoxUuzOkSK) | 4:09 | 2022-05-20 |  |
+| [Holy Lakes \(Dusk\)](https://open.spotify.com/track/2VK8MXWOGEJlOmSri24UXJ) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Holy Lakes \(Dusk\)](https://open.spotify.com/album/5mgg4qS5gwPNruYseXTj5x) | 4:09 | 2022-05-20 |  |
+| [Holy Lakes \(Dusk\)](https://open.spotify.com/track/6FXedT1pjklb2aVLgQtNH9) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Holy Lakes \(Dusk\)](https://open.spotify.com/album/3fSSDKeh2BslaoxUuzOkSK) | 4:09 | 2022-05-20 | 2022-12-08 |
 | [I Wanna Ahah!](https://open.spotify.com/track/0tGhugWHseO75cvVGG4IuE) | [Gabriel](https://open.spotify.com/artist/6o56rhVxDI2NFMr6mNu50v) | [I Wanna Ahah!](https://open.spotify.com/album/3iCMoOk0BKN4kmrrsLocJ8) | 3:32 | 2022-05-20 |  |
 | [Jackhammer](https://open.spotify.com/track/7vSGaDdWtWnw4wkAqygil4) | [Dmitri Belichenko](https://open.spotify.com/artist/63PgbqTgSdE6bWhGNcqw1g) | [Electro Circuit](https://open.spotify.com/album/4kjv0WWLxT90YlKGxuatse) | 2:42 | 2022-05-20 |  |
 | [Je ne te quitte pas](https://open.spotify.com/track/2iTASCclU14M5AXXuX9XG2) | [Fred Nevché](https://open.spotify.com/artist/72dcnDFjo3MFsrvpUAthMi) | [Valdevaqueros](https://open.spotify.com/album/3XMiMBIxEVMepYJJXD3uQZ) | 3:38 | 2022-05-20 |  |

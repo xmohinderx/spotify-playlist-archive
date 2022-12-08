@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Metro Boomin \(pictured\) ft\. The Weeknd & 21 Savage, $uicideboy$, Loud Luxury, Rêve, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,318 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,340 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 78 | [Bookie's Dirtbag](https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Bookie's Dirtbag](https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K) | 4:00 |
 | 79 | [Leave This Bar With You](https://open.spotify.com/track/23OpJD1ZP2zNf0M1o6t4ek) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Leave This Bar With You](https://open.spotify.com/album/6onREcI0VVOd2TIw7QF8ph) | 2:41 |
 | 80 | [Leave Me Alone](https://open.spotify.com/track/6fopRsgisszUYwfpG6i7zQ) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Leave Me Alone](https://open.spotify.com/album/52ceRs9yekDnHdYWA8En1O) | 3:39 |
-| 81 | [paper plane](https://open.spotify.com/track/5Nuq71qQlePrI8GErxJsFw) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Protector](https://open.spotify.com/album/2U1iBOYHrh9hkwPSa2zMlv) | 2:48 |
+| 81 | [paper plane](https://open.spotify.com/track/5Nuq71qQlePrI8GErxJsFw) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [protector](https://open.spotify.com/album/2U1iBOYHrh9hkwPSa2zMlv) | 2:48 |
 | 82 | [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 |
 | 83 | [Unlikely Event](https://open.spotify.com/track/3LNK9DcYCimSi21EVQM57J) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Unlikely Event](https://open.spotify.com/album/2flXwrEV6AJPwqr8wEYFd1) | 3:31 |
 | 84 | [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 91 | [Like the Rain](https://open.spotify.com/track/747ZJOMxHxLgpiInjD4mR1) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Like the Rain](https://open.spotify.com/album/6ck2xBSDjymajaYpXinNik) | 3:10 |
 | 92 | [Our Love Will Still Be There](https://open.spotify.com/track/00XtGg6iaLXUAA0mbb95OT) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Our Love Will Still Be There](https://open.spotify.com/album/2dyN4wNme6xJwMR5O1GeSU) | 4:09 |
 | 93 | [Twice](https://open.spotify.com/track/7lfPoqyQ9Sud7g2HoMsam2) | [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF), [Phinisey](https://open.spotify.com/artist/4ZVD9USul6Lrp5nrbbZL7J) | [Twice](https://open.spotify.com/album/6lC3HC3jlGfne4L8uXuvYw) | 3:17 |
-| 94 | [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 |
+| 94 | [Cassette](https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0) | 3:22 |
 | 95 | [Happy Birthday](https://open.spotify.com/track/4SdsAqf5pPAG2y4bVyQpXV) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Bokleen World](https://open.spotify.com/album/2NMBP88dc00HG0xHl748ah) | 1:53 |
 | 96 | [Dear LIFE](https://open.spotify.com/track/0Pl6bvQS1C1qUnU2WUnGFa) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Dear LIFE](https://open.spotify.com/album/2kWizzqo1HAGtkHTmtEWYu) | 4:00 |
 | 97 | [Wave Cheque](https://open.spotify.com/track/1hUywGUlzpvsqfSS2YaIPi) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Waveroom](https://open.spotify.com/artist/2rb1GC3bfEnTXLB87IkWLX) | [Wave Cheque](https://open.spotify.com/album/0K2ehKQZch4XwIr2dd9Xre) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Enter My Fantasy](https://open.spotify.com/track/7mGonGNYr0NxjwM6EZiZT7) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Enter My Fantasy](https://open.spotify.com/album/7coRkw4cUN2kdJVFKUE24K) | 5:31 |
 | 100 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDMyNzM3N2FhMWViMGE5MmQ0NDcyOTJhMGZhOWFiYThh`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDgxMGY0ODQ4OTUwNjViY2NhYjQ3ZjU3ZDU1OWUyY2Zh`

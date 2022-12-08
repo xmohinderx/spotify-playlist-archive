@@ -4,14 +4,14 @@
 
 > get lost in the  a e s t h e t i c
 
-410 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
+411 songs - 22 hr 54 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(アリゾナ 緑茶\) arizona green tea](https://open.spotify.com/track/1ZF1xEOClUgmqBxUIx627e) | [tiredjohannes](https://open.spotify.com/artist/4Lm9BNuTUGPqgMBuIpAR2i) | [self\-care, Vol\. 1](https://open.spotify.com/album/1rfkfGaRj113CXQSHpvuRj) | 3:12 | 2022-06-06 | 2022-07-16 |
 | [.nothing to show here.](https://open.spotify.com/track/2gyxeKWsJk7sdy4BQcYCM6) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [PIPE WRLD](https://open.spotify.com/album/4q5s6TTYD1kjMoYyalqmVO) | 3:22 | 2022-08-12 | 2022-09-12 |
 | [006original](https://open.spotify.com/track/08qs9eJWCCNp1KzQk1iJUD) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM) | [006original](https://open.spotify.com/album/0Tp2xg6jyxC4GsstLsD2Hv) | 1:36 | 2022-01-26 | 2022-06-25 |
-| [100% Erotica](https://open.spotify.com/track/2mEuwWAo32Fu2YzwghiXuv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Synthetic Sweetheart](https://open.spotify.com/album/1GGYOsqkY7FbViz0pKxw0u) | 2:59 | 2022-04-11 |  |
+| [100% Erotica](https://open.spotify.com/track/2mEuwWAo32Fu2YzwghiXuv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Synthetic Sweetheart](https://open.spotify.com/album/1GGYOsqkY7FbViz0pKxw0u) | 2:59 | 2022-04-11 | 2022-12-08 |
 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 | 2021-12-08 | 2022-07-28 |
 | [1997](https://open.spotify.com/track/6JetmovsIBWOGSOKQnbza7) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [1997](https://open.spotify.com/album/7HoN7VZy21Gd9kRwVio1oH) | 5:42 | 2022-07-15 | 2022-08-13 |
 | [1997](https://open.spotify.com/track/6rhv7nts8BB94KjQLwP6qF) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [Cloud Zero](https://open.spotify.com/album/3VABoV6hfnboGf0JMInFEw) | 5:42 | 2022-08-12 | 2022-09-15 |
@@ -375,7 +375,7 @@
 | [vaporgroove \~](https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [vaporgroove \(singles\)](https://open.spotify.com/album/2D1r01r3ZgUpURmPHXreaY) | 3:23 | 2022-11-05 |  |
 | [Vcrheadaches \- Purge](https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT) | [King Quartz](https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri), [VCRheadaches](https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI) | [The 33rd Split](https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn) | 4:20 | 2021-12-08 |  |
 | [Veil](https://open.spotify.com/track/7tHsbwpAHGabjXjJkfi8Df) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Veil](https://open.spotify.com/album/411E4X3bZnBJnMfiKz614U) | 4:07 | 2021-12-08 | 2022-07-29 |
-| [Ventilation オフィス](https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk) | [Incorporeal Visions Deluxe](https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e) | [Network Entities](https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd) | 1:18 | 2021-12-08 |  |
+| [Ventilation オフィス](https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk) | [Incorporeal Visions Deluxe](https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e) | [Network Entities](https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd) | 1:18 | 2021-12-08 | 2022-12-08 |
 | [Veranda](https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Illuminations](https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo) | 3:16 | 2021-12-08 | 2022-07-29 |
 | [VERNE ↹ Flights ̙](https://open.spotify.com/track/00wAxLj8pOJ4M7w3YFnmN0) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/5liW7KNunCxMaEP3gbCI1C) | 1:43 | 2022-04-12 | 2022-05-25 |
 | [Virtual Lust](https://open.spotify.com/track/3BnK6RTjyoFpqAvbXSXCpp) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Shrines](https://open.spotify.com/album/17iDD2IRlWyP5G4KMvd9uj) | 2:15 | 2022-04-12 | 2022-04-16 |
@@ -410,13 +410,14 @@
 | [シーサイド Passion](https://open.spotify.com/track/4iWNZZQzNUHtzBmvLv4xRF) | [Psychic 恋人](https://open.spotify.com/artist/5SXrWNGs5zDtj5IQ2vdO2V), [M y s t e r yミステリー](https://open.spotify.com/artist/6HmRfAcBtFdhDFK6XK5wEL) | [Crystal Tortures](https://open.spotify.com/album/5NIHmi8o0dRLecYkiC5cKb) | 5:57 | 2021-12-08 | 2022-05-14 |
 | [バウンス家の中でセックス](https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp) | [t e l e p a t h テレパシー能力者](https://open.spotify.com/artist/7kXEDFLgEZs24hMRX4HGK3), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [超越愛](https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX) | 6:30 | 2021-12-08 |  |
 | [今夜](https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Miami Virtual](https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7) | 3:54 | 2022-02-27 |  |
-| [天使](https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [CYBERIA](https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa) | 3:47 | 2021-12-08 | 2022-07-17 |
+| [天使](https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [CYBERIA](https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa) | 3:47 | 2021-12-08 |  |
 | [幽霊](https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba) | [desert sand feels warm at night](https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P) | [囚人](https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9) | 5:20 | 2021-12-08 |  |
 | [悼む \- me lamento \-](https://open.spotify.com/track/0lXP08C4HiXJKskTyoGxlK) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM) | [瞬間 \- sucesos](https://open.spotify.com/album/7vyiOUbqfY0yeesYOI9h9g) | 1:37 | 2022-09-11 | 2022-12-04 |
 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 | 2021-12-08 |  |
 | [至福、記憶、蝶。](https://open.spotify.com/track/6G7FacZnuxHM6mF3MI7nUN) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [心の泉](https://open.spotify.com/album/63FSVCCCfIlwfTA9cqFYa8) | 4:15 | 2022-09-11 | 2022-11-23 |
 | [詩 Desktop](https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf) | [Incorporeal Visions Deluxe](https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e) | [Network Entities](https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd) | 2:21 | 2022-01-26 |  |
 | [都 市 フ ォ ー ラ ム Consumer \[kahvi\]](https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [シ ョ ッ プ @ ヘ ル シ ン キ](https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl) | 5:54 | 2021-12-08 | 2022-11-19 |
+| [都市フォーラム Consumer \[kahvi\]](https://open.spotify.com/track/0ROwi1AbB8iDecrn5MRxoR) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [ショップ @ ヘルシンキ](https://open.spotify.com/album/3lsIOYThsgxgdWUXOljYns) | 5:54 | 2022-09-11 |  |
 | [青春の休暇](https://open.spotify.com/track/7icvWRCrYM2amuNzni6oNC) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [青春の休暇](https://open.spotify.com/album/6G9BSnNfs463Zk6T6dccAu) | 4:23 | 2022-02-27 | 2022-04-21 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

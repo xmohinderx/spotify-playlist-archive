@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Fresh Finds Italia presenta il meglio della musica indipendente italiana del 2022\. Cover: <a href="spotify:artist:4vXFvvWirlvTwcl184KfDc">Sans Soucis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,022 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,034 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

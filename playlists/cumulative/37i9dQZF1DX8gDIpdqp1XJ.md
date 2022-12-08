@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-645 songs - 1 day 19 hr 2 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+646 songs - 1 day 19 hr 6 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [ghost in the machine](https://open.spotify.com/track/51qcHVCh2wT44qWVDDRPTc) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [ghost in the machine](https://open.spotify.com/album/0fKj4v6d0I9IWUxv7uTlJA) | 3:02 | 2022-05-11 | 2022-07-14 |
 | [Ghost On The Mend](https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Ghost On The Mend](https://open.spotify.com/album/0o0Lfrkk55AJ8bU1t2zTsH) | 2:39 | 2021-08-20 | 2022-07-30 |
 | [Glo Ride](https://open.spotify.com/track/207ELWK7KG6KDoF3iZrMyf) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/3w3DqXdNacXfz44MtEEm3l) | 3:26 | 2021-04-02 | 2022-07-29 |
-| [Glo Ride](https://open.spotify.com/track/7luPjDIAF3fpbsc0lftsX9) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/6Oq3w94oX9bFbTm1RYIar9) | 3:31 | 2022-07-22 |  |
+| [Glo Ride](https://open.spotify.com/track/7luPjDIAF3fpbsc0lftsX9) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/6Oq3w94oX9bFbTm1RYIar9) | 3:31 | 2022-07-22 | 2022-12-08 |
 | [Gloria](https://open.spotify.com/track/5cKsolMaSRtB0ACxPIJEKW) | [The Shivas](https://open.spotify.com/artist/2OZfuhYQm8IY95egVPC1U9) | [Gloria](https://open.spotify.com/album/2kJ7XIzLBJY3b2PnsHdTGi) | 3:36 | 2021-04-02 | 2022-04-16 |
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-07-15 | 2022-08-30 |
 | [God of Sun](https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6) | [My Expansive Awareness](https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND) | [Taste of Blood](https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn) | 4:29 | 2021-04-02 | 2022-04-13 |
@@ -368,6 +368,7 @@
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2021-06-04 | 2022-07-09 |
 | [Midnight Wine](https://open.spotify.com/track/0lNcAOT252WBjdJO7rFUa4) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Midnight Wine](https://open.spotify.com/album/4AviuLYZTU7Bc0bk87H4uj) | 3:18 | 2021-08-20 | 2022-04-21 |
 | [Minor Miracles](https://open.spotify.com/track/0KVyDDdzOn6Vubo7gEPP5r) | [group O](https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC) | [Minor Miracles](https://open.spotify.com/album/2KzZNMpT3T4Ai4CjdvoWfB) | 7:11 | 2022-09-02 | 2022-10-08 |
+| [Miracles](https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:16 | 2022-10-24 |  |
 | [Moment to Change](https://open.spotify.com/track/1ML1hKOswbviGfAGVLXA3k) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [At the Moment](https://open.spotify.com/album/6AANVkZf5rOwMb1emJOPpe) | 3:11 | 2021-08-20 | 2022-07-30 |
 | [Monaka](https://open.spotify.com/track/19qWKBcwJt3Zu3IoW6KILf) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/4GaP8n1AGGUMUxhFkHIEsC) | 5:15 | 2022-07-11 | 2022-10-16 |
 | [Monk's Robes](https://open.spotify.com/track/6V0paUDhh9zk19Wq1hyWVy) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 4:46 | 2022-04-20 | 2022-07-29 |

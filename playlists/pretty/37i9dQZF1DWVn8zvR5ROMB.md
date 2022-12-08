@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Morgan Wallen, Parker McCollum, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,223 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,501 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 4 | [she](https://open.spotify.com/track/1H7k2yuO2bQs5fz7CPvXtm) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [she](https://open.spotify.com/album/5ik4kZTHYwwTfgs6NQY2t8) | 2:53 |
 | 5 | [Made Her That Way](https://open.spotify.com/track/00aw1nN7YWVC3pAQniaT6g) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Made Her That Way](https://open.spotify.com/album/3bo4bAoRAswCfOqmhIt1IV) | 3:16 |
 | 6 | [Motel On the Moon](https://open.spotify.com/track/1s6081YVpuKRS4cZp5zyne) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Motel On the Moon](https://open.spotify.com/album/6Pbmoox4o7GVCyQDkgOWaX) | 3:58 |
-| 7 | [You Ain't Here To Kiss Me \- 2022](https://open.spotify.com/track/1s1iAFkvJCBRMXVYtd358b) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [You Ain't Here To Kiss Me \(2022\)](https://open.spotify.com/album/7bXBQUOLdH6feHM26xvQ94) | 3:35 |
+| 7 | [You Ain't Here To Kiss Me \- 2022](https://open.spotify.com/track/5WRoWlYVtXMG5EvoVkzEAY) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [You Ain't Here To Kiss Me \(2022\)](https://open.spotify.com/album/48W5DF2KBf0UTvO3oaFdyf) | 3:35 |
 | 8 | [I Lost Everything](https://open.spotify.com/track/2b4K1qS1Yl9iXvHK0ZCu27) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [I Lost Everything](https://open.spotify.com/album/4msV9AAVMRighczNOKmKTe) | 3:56 |
 | 9 | [Another Bar](https://open.spotify.com/track/7afozJ9M7N0j07PS3Oh8pa) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Another Bar](https://open.spotify.com/album/7DJA3i2Ga1dGKgEMyxzq8O) | 3:25 |
 | 10 | [Damn Good in a Dive Bar](https://open.spotify.com/track/3FwBnV4NPxDrGiu8WsocXh) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Damn Good in a Dive Bar](https://open.spotify.com/album/48tJNGBU2758OFzRvfADBr) | 3:04 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 57 | [BIG MISTAKES \(feat\. Jenee Fleenor & Smith Curry\)](https://open.spotify.com/track/5T5UwS0JK3VPbiDShbO7ff) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt), [Jenee Fleenor](https://open.spotify.com/artist/1XpgQ1ihWLqiWuH7GioYd9), [Smith Curry](https://open.spotify.com/artist/5H0nbZ4WOtjfDTMzuL2l1d) | [BIG MISTAKES \(feat\. Jenee Fleenor & Smith Curry\)](https://open.spotify.com/album/1jd4bVe2B7p2cF4sPRenUo) | 3:04 |
 | 58 | [Damage Control](https://open.spotify.com/track/2NojmW16iQR50QtXhNpFJd) | [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Damage Control](https://open.spotify.com/album/1kdKh19ZB0XCm1Htw2LwO5) | 2:58 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDVjYjk0ZGIxZTNmMGM1ZTlkNWZjM2YyZWJjODA4MDYx`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMDJjNjRlODNiYjAwZDhhMTgxOTgwM2ZjMTQ2M2I0MjJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Carl Cox
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,946,219 likes - 93 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,946,479 likes - 93 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

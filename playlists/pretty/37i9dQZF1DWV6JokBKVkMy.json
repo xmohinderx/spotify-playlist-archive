@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 364,
+  "num_followers": 367,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMGU4MTFjZmUxYWY1M2EyZmFhYjc3ZmJmMzY5NDQ0OTkz",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMGU3ODAwZDIxZjU4MTQwZjAwYjA3NzUwYjVlN2JmODRl",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Nou Sime",
-        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "Kifer to Pale Danse",
-      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Zoli",
         "url": "https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 316446,
       "name": "Zoli",
       "url": "https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Nou Sime",
+        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "Kifer to Pale Danse",
+      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
-        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Claude",
-          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Dhobi de classe",
-      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "La famille",
         "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 216270,
       "name": "Zoli mamzel (Remix 2016) [feat. Kymai, DJ Cutson & DJ Cedrik]",
       "url": "https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
+        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Claude",
+          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Dhobi de classe",
+      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 209128,
+      "name": "Longanis",
+      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Main dans la main",
         "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 304946,
       "name": "Vir\u00e9",
       "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "Longanis",
-      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La R\u00e9union l\u00e9 la",
-        "url": "https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk"
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
       "artists": [
         {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
         }
       ],
-      "duration_ms": 255186,
-      "name": "Prisonnier",
-      "url": "https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8"
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+        "name": "La R\u00e9union l\u00e9 la",
+        "url": "https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk"
       },
       "artists": [
         {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
+      "duration_ms": 255186,
+      "name": "Prisonnier",
+      "url": "https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "SA FAM LA",
-        "url": "https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb"
-      },
-      "artists": [
-        {
-          "name": "Demaiko",
-          "url": "https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "SA FAM LA",
-      "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213531,
       "name": "To Kontan Koze",
       "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "SA FAM LA",
+        "url": "https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb"
+      },
+      "artists": [
+        {
+          "name": "Demaiko",
+          "url": "https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "SA FAM LA",
+      "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
     },
     {
       "added_at": "2022-08-11 10:05:16",

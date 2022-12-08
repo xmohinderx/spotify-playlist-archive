@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-445 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+447 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [September \- Daydream Remix \-](https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September \- Daydream Remix \-](https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS) | 3:18 | 2022-10-27 | 2022-11-02 |
 | [Sherbet](https://open.spotify.com/track/56jXepSKHL0ZiIstrSpoMz) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Tio](https://open.spotify.com/artist/7LzfAWU6jvqg8fVeNc0fqB), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sherbet](https://open.spotify.com/album/4KhKPafupvHCvSb8lt6CAj) | 3:25 | 2022-09-13 | 2022-10-22 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-27 |  |
+| [short short](https://open.spotify.com/track/3GsUIqbzPxQPhYcBGchpWu) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [short short](https://open.spotify.com/album/2vT5XBZqx4iOmzqk7vRsuK) | 3:22 | 2022-12-06 |  |
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 | 2022-08-25 |
 | [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/track/14TZGguim8BIjve3NWCheW) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [SIGN\(feat\. Takashi Fujii\)](https://open.spotify.com/album/2OmjMU3x4n7j9PMP9Lf1Uw) | 3:15 | 2022-11-04 | 2022-11-06 |
 | [SIGN\(feat\. 藤井隆\)](https://open.spotify.com/track/63NQpVrXhqcBdadRd9KSa4) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [SIGN\(feat\. 藤井隆\)](https://open.spotify.com/album/5qeENl6yRGzVIvvqgChw6p) | 3:15 | 2022-11-04 | 2022-11-05 |
@@ -276,7 +277,8 @@
 | [Streets of Tokyo \- feat\. Michael Kaneko](https://open.spotify.com/track/4HZMowuvX1R63K5Xfrh5Pe) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Streets of Tokyo \(feat\. Michael Kaneko\)](https://open.spotify.com/album/31cMKq62XhI814QeOoCBXN) | 3:15 | 2022-07-26 | 2022-07-29 |
 | [Stroll](https://open.spotify.com/track/6ROEvtwxMEFIAwZNsQLivQ) | [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [Stroll](https://open.spotify.com/album/6UQ9ur981be1Sa7rxWZl2f) | 4:16 | 2022-11-29 | 2022-12-07 |
 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 | 2022-10-25 |  |
-| [SUI SUI](https://open.spotify.com/track/2UDq4JJZQ0ErYi32l1agQz) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/7F6eRS0ieIhCtkQSyLSb4o) | 4:03 | 2022-12-06 |  |
+| [SUI SUI](https://open.spotify.com/track/2UDq4JJZQ0ErYi32l1agQz) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/7F6eRS0ieIhCtkQSyLSb4o) | 4:03 | 2022-12-06 | 2022-12-08 |
+| [SUI SUI](https://open.spotify.com/track/2b9AKUBu5twWV3Uf82zHhU) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/4kuK0MfxpC0pTzg6y1GpOv) | 4:03 | 2022-12-06 |  |
 | [Summer](https://open.spotify.com/track/6K8b9K4EeQLUyNBBgyb9ap) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Summer](https://open.spotify.com/album/5hEzk2a2rXPnjZhRjeF71v) | 3:58 | 2022-09-13 | 2022-10-26 |
 | [Summer Again](https://open.spotify.com/track/1TvZNdyMxCL6LcN5CZyCvC) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Summer Again](https://open.spotify.com/album/49CjefUtjsPjvtiDgZUuaH) | 4:09 | 2022-05-26 | 2022-06-17 |
 | [Summer Breezin'](https://open.spotify.com/track/5UHa3acNN5TRlySTh7aKWx) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin'](https://open.spotify.com/album/0vkQzj9TlazS1ATRpdeq0I) | 5:12 | 2022-07-28 | 2022-09-07 |
@@ -367,7 +369,7 @@
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-29 |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-22 |  |
 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/4O8StLbAlIS1HnasVicPEI) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/album/6al4FiqNmuoWldC5lksg1i) | 4:12 | 2022-10-04 | 2022-11-04 |
-| [ショートショート](https://open.spotify.com/track/0NZcinfdZ1THF9YaFaigid) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ショートショート](https://open.spotify.com/album/0knJhBcwQ3zgKD1skJ9ErK) | 3:22 | 2022-12-06 |  |
+| [ショートショート](https://open.spotify.com/track/0NZcinfdZ1THF9YaFaigid) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [ショートショート](https://open.spotify.com/album/0knJhBcwQ3zgKD1skJ9ErK) | 3:22 | 2022-12-06 | 2022-12-08 |
 | [タイミングでしょ \(feat\. Awich\)](https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [タイミングでしょ \(feat\. Awich\)](https://open.spotify.com/album/3n2RDR1czTdnOTO52bx3OB) | 3:51 | 2022-09-27 | 2022-11-20 |
 | [ダダリオ](https://open.spotify.com/track/5W3DgO9LLQkG1EVUKRNmZo) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ダダリオ](https://open.spotify.com/album/1mq4LdI5Drick13kjnWVaG) | 4:48 | 2022-09-27 | 2022-09-29 |
 | [チャプター](https://open.spotify.com/track/5YyWqhhN1JEn7F2cqDUMQO) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:18 | 2022-08-16 | 2022-10-12 |

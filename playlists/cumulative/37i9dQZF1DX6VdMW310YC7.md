@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,376 songs - 3 day 23 hr 18 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,377 songs - 3 day 23 hr 22 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,7 +591,7 @@
 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 | 2020-05-22 | 2020-07-03 |
 | [Idealove](https://open.spotify.com/track/7DM09dmce4mMCoJ34jzLzp) | [REIGHNBEAU](https://open.spotify.com/artist/1l21csngSaKr8z2HhSrIBx) | [Blood](https://open.spotify.com/album/6Tehn0DkXdvI2BevxVUQiJ) | 4:25 | 2020-05-20 | 2020-07-03 |
 | [idk](https://open.spotify.com/track/4vQfkOr36MeJF5eK20sCHa) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [idk](https://open.spotify.com/album/6nHeOgFy3LfBMrW0dgNhJg) | 4:16 | 2020-07-18 | 2021-02-19 |
-| [Idyll](https://open.spotify.com/track/2wEw8p397NnWIPqX6AjlGj) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Idyll](https://open.spotify.com/album/6hzaBYNQJCfGfXitLh7Wfp) | 4:18 | 2021-12-10 |  |
+| [Idyll](https://open.spotify.com/track/2wEw8p397NnWIPqX6AjlGj) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Idyll](https://open.spotify.com/album/6hzaBYNQJCfGfXitLh7Wfp) | 4:18 | 2021-12-10 | 2022-12-08 |
 | [If That's What You Need](https://open.spotify.com/track/4Jmjx2mox918DIZpgQJUxo) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [If That's What You Need](https://open.spotify.com/album/03BHCYap1WXYjHzAeKxbs2) | 3:11 | 2022-04-15 | 2022-07-29 |
 | [If There Ever Comes a Day](https://open.spotify.com/track/5hMv80OlrXCqyyY9CWHvlQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Good Will Prevail](https://open.spotify.com/album/3cAkkgY1x6PIdb5yWieruv) | 3:23 | 2020-05-18 | 2020-07-03 |
 | [Ignis](https://open.spotify.com/track/6BT4H5z2UCDvyTxl2WfsQA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Ignis](https://open.spotify.com/album/5Mg89X2COGYzqoI58UrffS) | 3:31 | 2020-05-18 | 2020-07-18 |
@@ -1320,6 +1320,7 @@
 | [When I Was Me \- ShiShi Remix](https://open.spotify.com/track/6HoXpEnhzeDpz7gYgGaYF0) | [Ryan Brahms](https://open.spotify.com/artist/3mYfDZXZxSexTPMBEdSREL), [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9) | [When I Was Me](https://open.spotify.com/album/4muJSisBJyW6z6vmyaaIgc) | 3:17 | 2020-03-16 | 2020-07-18 |
 | [When I'm With You](https://open.spotify.com/track/4rXflTOWCja5YDR96lINzu) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Colette](https://open.spotify.com/artist/2kvvZpHkDunKzqQKufMVI1) | [When I'm With You](https://open.spotify.com/album/74WcZWOZDxugQKJ9EdRRdc) | 4:26 | 2020-08-20 | 2020-10-09 |
 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/1ek1kNO1a5EJCNIUvNs5XI) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4Oz04uOU1JkaZtYe7LBXmt) | 3:47 | 2020-07-03 | 2022-02-26 |
+| [When We Meet Again \- Edit](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw) | 3:57 | 2022-09-09 |  |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-02-06 | 2022-10-17 |
 | [When You’re Dreaming](https://open.spotify.com/track/4UQWvx7zTXxveHGK3ZRWdb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [When You’re Dreaming](https://open.spotify.com/album/4YkPkktGstfAWaaGvKTUuQ) | 2:53 | 2020-08-06 | 2022-04-20 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2020-03-16 | 2020-10-09 |

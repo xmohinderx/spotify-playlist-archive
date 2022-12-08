@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 264160,
       "name": "145",
       "url": "https://open.spotify.com/track/0wUndaDeaWfAu8cciHiHeR"
@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "A Ghost In The Weed Garden",
+        "url": "https://open.spotify.com/album/7ygpAZedWTikPn8PtNJbGU"
+      },
+      "artists": [
+        {
+          "name": "Dwen",
+          "url": "https://open.spotify.com/artist/6HBC1vvrpaB0Zg9944uRCk"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "A Ghost In The Weed Garden",
+      "url": "https://open.spotify.com/track/1fKNZgza6MFW1WbkplcMIg"
+    },
+    {
+      "album": {
         "name": "Inner World Peace",
         "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 113936,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/75NgXlkXMMtUI9611uR5kX"
@@ -193,6 +211,24 @@
       "duration_ms": 402986,
       "name": "Al Amal",
       "url": "https://open.spotify.com/track/67s59hLoRsaGcavAbjjmzy"
+    },
+    {
+      "album": {
+        "name": "All That Fall",
+        "url": "https://open.spotify.com/album/7N3iht16OHxgfqFmdJzYZW"
+      },
+      "artists": [
+        {
+          "name": "The Psychotic Monks",
+          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593218,
+      "name": "All That Fall",
+      "url": "https://open.spotify.com/track/0zJhOHdEjeqtIkQeXTqv2B"
     },
     {
       "album": {
@@ -536,6 +572,24 @@
     },
     {
       "album": {
+        "name": "Red Ladder",
+        "url": "https://open.spotify.com/album/4Pi5ycF17d2dKxZuG1FPbn"
+      },
+      "artists": [
+        {
+          "name": "GOON",
+          "url": "https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251323,
+      "name": "Bend Back - Red Ladder Version",
+      "url": "https://open.spotify.com/track/4bSkf6shzJIszUausfM5Eq"
+    },
+    {
+      "album": {
         "name": "Hyaline",
         "url": "https://open.spotify.com/album/6J1NeQ3OmX4LW5Yg9EhPjd"
       },
@@ -729,6 +783,28 @@
       "duration_ms": 194890,
       "name": "Boy Girl",
       "url": "https://open.spotify.com/track/5zR0jyCSe6lPmjycRIuiHZ"
+    },
+    {
+      "album": {
+        "name": "Boy Girl (DC Gore Remix)",
+        "url": "https://open.spotify.com/album/6yEdDliRNjMrmVA0ZfLBWQ"
+      },
+      "artists": [
+        {
+          "name": "moa moa",
+          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
+        },
+        {
+          "name": "DC Gore",
+          "url": "https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274250,
+      "name": "Boy Girl - DC Gore Remix",
+      "url": "https://open.spotify.com/track/0fTP0rSECgHqWkC9Xk4vXb"
     },
     {
       "album": {
@@ -1245,7 +1321,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 191591,
       "name": "Cringe City",
       "url": "https://open.spotify.com/track/6eAde3TAvl7fQRTbKVf96k"
@@ -1393,10 +1469,28 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 679964,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6XwMOx54frtlaAPFNQaotw"
+    },
+    {
+      "album": {
+        "name": "seven songs",
+        "url": "https://open.spotify.com/album/6EdNh4gZ8wWePCXwmQXnP8"
+      },
+      "artists": [
+        {
+          "name": "piglet",
+          "url": "https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "discreet",
+      "url": "https://open.spotify.com/track/0f7tActmPGO7AyO4iQsjOP"
     },
     {
       "album": {
@@ -1702,6 +1796,24 @@
     },
     {
       "album": {
+        "name": "Nothing Special",
+        "url": "https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM"
+      },
+      "artists": [
+        {
+          "name": "Will Sheff",
+          "url": "https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335846,
+      "name": "Estrangement Zone",
+      "url": "https://open.spotify.com/track/6z0rIv811kzEidxgGpRvtm"
+    },
+    {
+      "album": {
         "name": "Eternal September",
         "url": "https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs"
       },
@@ -1775,7 +1887,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 276320,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B"
@@ -1963,6 +2075,28 @@
       "duration_ms": 197372,
       "name": "Freakout/Release",
       "url": "https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO"
+    },
+    {
+      "album": {
+        "name": "Fruits Of Labour (Harvey Sutherland Remix)",
+        "url": "https://open.spotify.com/album/1eobMd1WqmlVo37YgC0Vwv"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        },
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354782,
+      "name": "Fruits Of Labour - Harvey Sutherland Remix",
+      "url": "https://open.spotify.com/track/76x1mEPdwqlPsjmUgiIW6k"
     },
     {
       "album": {
@@ -2209,7 +2343,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 145641,
       "name": "Gloss",
       "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
@@ -2419,7 +2553,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 329996,
       "name": "High Art Lite",
       "url": "https://open.spotify.com/track/3eMkZmBbC35Hms3rdv0Gl2"
@@ -2459,7 +2593,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 130560,
       "name": "History Lesson Part 2",
       "url": "https://open.spotify.com/track/4DGbJMzedFZAuT40Uq4NDC"
@@ -2485,7 +2619,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 189866,
       "name": "Hold Out For Love",
       "url": "https://open.spotify.com/track/3IY93jU8blpXFloxgWSj5s"
@@ -2593,7 +2727,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
@@ -3013,7 +3147,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 202000,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/2QHz1w5U0f1WH8ERUeaqTY"
@@ -3154,6 +3288,24 @@
     },
     {
       "album": {
+        "name": "Love / Lover / Friend",
+        "url": "https://open.spotify.com/album/3okMe9vhlmt1YLKDVybYGg"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241288,
+      "name": "Love / Lover / Friend",
+      "url": "https://open.spotify.com/track/3GU9knCMGMb7ZaylfVBdKi"
+    },
+    {
+      "album": {
         "name": "Green Dream in F#",
         "url": "https://open.spotify.com/album/3FsVZD0eyVFDemLLWcR8rq"
       },
@@ -3241,7 +3393,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 216000,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/2s866YAOjnMqLb6iBPsYBM"
@@ -3365,6 +3517,28 @@
       "duration_ms": 224253,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Tzusing Remix)",
+        "url": "https://open.spotify.com/album/2x0cKKk9b9zlBKJLcWyWag"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        },
+        {
+          "name": "Tzusing",
+          "url": "https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Mosquito - Tzusing Remix",
+      "url": "https://open.spotify.com/track/0rb1Ngna2bumcUf4YCUeNv"
     },
     {
       "album": {
@@ -3531,7 +3705,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 281041,
       "name": "Not - BBC Radio 1 Session",
       "url": "https://open.spotify.com/track/70jr15kpcFlZAyJ8hotjIg"
@@ -3549,7 +3723,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 91281,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/0ZUAmMWG38D4UX5HwbF6l7"
@@ -3932,6 +4106,24 @@
     },
     {
       "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/6vAWQYJxT0bTE2G8sX5cfT"
+      },
+      "artists": [
+        {
+          "name": "Dwen",
+          "url": "https://open.spotify.com/artist/6HBC1vvrpaB0Zg9944uRCk"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/5ZCPxcGz6odTE8m3UBgk6w"
+    },
+    {
+      "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/3DSd1PFlurhYcpcjfFD3vB"
       },
@@ -4258,6 +4450,24 @@
     },
     {
       "album": {
+        "name": "A Bug in Your Brain",
+        "url": "https://open.spotify.com/album/4oHU5W64VT1uXTExj9KtKR"
+      },
+      "artists": [
+        {
+          "name": "Stegosaurus Trap",
+          "url": "https://open.spotify.com/artist/3nlYs0cqN8tNZaizF7xA83"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220518,
+      "name": "Shake Her Awake",
+      "url": "https://open.spotify.com/track/1ybU61YSLAUO78Hbg5ZF8d"
+    },
+    {
+      "album": {
         "name": "Shake The Feeling",
         "url": "https://open.spotify.com/album/2TJgDkt8xrm7LBPS8Yuzey"
       },
@@ -4291,6 +4501,28 @@
       "duration_ms": 402265,
       "name": "Sickworld",
       "url": "https://open.spotify.com/track/4YF95ySg5ilyCzPnG6Kskr"
+    },
+    {
+      "album": {
+        "name": "Simple Things (feat. Theo Croker)",
+        "url": "https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Simple Things (feat. Theo Croker)",
+      "url": "https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT"
     },
     {
       "album": {
@@ -4459,7 +4691,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
@@ -4571,6 +4803,24 @@
       "duration_ms": 277466,
       "name": "The Extra Sees the Film",
       "url": "https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq"
+    },
+    {
+      "album": {
+        "name": "Two Birds",
+        "url": "https://open.spotify.com/album/3SUIfTE7GjIPlGu3hJFjuS"
+      },
+      "artists": [
+        {
+          "name": "Tobias",
+          "url": "https://open.spotify.com/artist/2XfJDeJW8WypSlrm2IBuhB"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185549,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/5nC0QNvm9GINzYOkDMQ2Uq"
     },
     {
       "album": {
@@ -4790,6 +5040,24 @@
     },
     {
       "album": {
+        "name": "Themes From",
+        "url": "https://open.spotify.com/album/1Umg4PUpzAtXx1gb2nwbmE"
+      },
+      "artists": [
+        {
+          "name": "Nyx N\u00f3tt",
+          "url": "https://open.spotify.com/artist/00LgIJ4tLtWtDXdDo5GV8Z"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331911,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2cikFx90qDo38dnfqPMKV5"
+    },
+    {
+      "album": {
         "name": "Time in a Bottle / I\u2019m Not My Season",
         "url": "https://open.spotify.com/album/1jD8MNqELrC0uNWhNLhF9E"
       },
@@ -4849,7 +5117,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 206750,
       "name": "To Repel Ghosts",
       "url": "https://open.spotify.com/track/2mkZJYJmjrLYFEWn7q5kLx"
@@ -5059,7 +5327,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
@@ -5345,7 +5613,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 180333,
       "name": "You Know I Know",
       "url": "https://open.spotify.com/track/6qHE3sYl2EEf48iTy1rdWG"

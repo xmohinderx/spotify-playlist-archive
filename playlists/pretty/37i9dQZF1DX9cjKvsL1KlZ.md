@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,771 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,898 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 42 | [Pusha Man](https://open.spotify.com/track/5qNqTVBAbtPRKH3KHiUAu8) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [No Forgetting This \(N.F.T.\)](https://open.spotify.com/album/4SsPpuTKIGKbZPJWkjLkIe) | 3:47 |
 | 43 | [Here I Come](https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Here I Come](https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK) | 1:48 |
 | 44 | [WICK](https://open.spotify.com/track/3hhTeIwULQvxl3GaeJJ1o2) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [WICK](https://open.spotify.com/album/7AUyTx5Ku4MvA4enIW2PZ3) | 1:21 |
-| 45 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 |
+| 45 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5lx5zu37Rf592Iby01kroZ) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 3:16 |
 | 46 | [See Red](https://open.spotify.com/track/0Tme1gffQUvjvcocQ2FHTM) | [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [See Red](https://open.spotify.com/album/6czePQabCT1KxJznPxKPBI) | 2:00 |
 | 47 | [Dead Opps](https://open.spotify.com/track/0I03LNezkFkhT9gxT1bgjz) | [DD Osama](https://open.spotify.com/artist/1A4iz0gC34R0u3LAI8hryT), [Notti Osama](https://open.spotify.com/artist/3DejtFRgf60eQon0rZnqhv) | [Dead Opps](https://open.spotify.com/album/5bW82bx54muhjvS7FZExlH) | 2:10 |
 | 48 | [Toast'd Up Pt\. 2](https://open.spotify.com/track/1Pehz8PNPqHKxVws6XOoTV) | [Curly Savv](https://open.spotify.com/artist/3DDlyCYQLZS5OGVJ2gCK0c) | [Toast'd Up Pt\. 2](https://open.spotify.com/album/5HaU6o1D6PBpL2l8WJkj1Y) | 2:11 |
 | 49 | [We Getting Money](https://open.spotify.com/track/4B1HkmoPxGnIiovU1iy4IL) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 3:01 |
 | 50 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 |
 
-Snapshot ID: `MTY3MDI3MDA5NSwwMDAwMDAwMDdlNThjOTU3ZTFhMWNlNTMxNWZhYmNlZDgxZmZjNGIz`
+Snapshot ID: `MTY3MDI3MDA5NSwwMDAwMDAwMGRhYzJmODFmNTViN2IzZDdiNDFlY2QzMzA0N2IyNmM3`

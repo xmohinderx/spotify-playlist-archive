@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chris Palace",
-  "num_followers": 509197,
+  "num_followers": 509236,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGNlNWFhMjJkNTg2ZDM4ZWQ3ZGY0NmRlYTdmODk3ZjUw",
+  "snapshot_id": "MTY2OTk1NzIwMCwwMDAwMDAwMGI0NzNmNGRhMTEzNjJmYjkwM2FkMmRmNjExZGUwMmY3",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "TU DIABLO",
         "url": "https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 249463,
       "name": "TU DIABLO",
       "url": "https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "RELAX CON MAX - Spotify Singles",
-        "url": "https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "RELAX CON MAX - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Fundota",
         "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Diablo BB",
-        "url": "https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6"
+        "name": "RELAX CON MAX - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         }
       ],
-      "duration_ms": 140869,
-      "name": "Diablo BB",
-      "url": "https://open.spotify.com/track/0BqRxEMRPDOMowx1oWq78o"
+      "duration_ms": 150927,
+      "name": "RELAX CON MAX - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 121429,
       "name": "QUIEN SI NO",
       "url": "https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Diablo BB",
+        "url": "https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "Diablo BB",
+      "url": "https://open.spotify.com/track/0BqRxEMRPDOMowx1oWq78o"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "La Torta",
+        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 170589,
+      "name": "La Torta",
+      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "La Pelikula (Remix)",
         "url": "https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "La Torta",
-        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
+        "name": "Copiloto",
+        "url": "https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy"
       },
       "artists": [
         {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 170589,
-      "name": "La Torta",
-      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
+      "duration_ms": 141333,
+      "name": "Copiloto",
+      "url": "https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 216000,
       "name": "Puntos D\u00e9biles",
       "url": "https://open.spotify.com/track/1YqpiLwPLdNRWvCtBeAOc0"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Copiloto",
-        "url": "https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Copiloto",
-      "url": "https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "SEDUR (Remix)",
+        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 164036,
+      "name": "SEDUR - Remix",
+      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Pi\u00f1a",
         "url": "https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG"
       },
@@ -1427,22 +1447,6 @@
       "duration_ms": 144691,
       "name": "Pi\u00f1a",
       "url": "https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "C\u00e1scara de Coco",
-        "url": "https://open.spotify.com/album/5WoydrpY0NR4zjGj8MSHNh"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/7MIhpzY1v8U2ha3D8Z6yk8"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1471,6 +1475,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "C\u00e1scara de Coco",
+        "url": "https://open.spotify.com/album/5WoydrpY0NR4zjGj8MSHNh"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/7MIhpzY1v8U2ha3D8Z6yk8"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Adelantah",
         "url": "https://open.spotify.com/album/763mXMD81HRsSDBXwGQm4P"
       },
@@ -1483,62 +1503,6 @@
       "duration_ms": 204296,
       "name": "Adelantah",
       "url": "https://open.spotify.com/track/27u1JKx7rpApMvFiXrU2gn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "SEDUR (Remix)",
-        "url": "https://open.spotify.com/album/7MIaEZVsXW6qXYvsMZcZRx"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 164036,
-      "name": "SEDUR - Remix",
-      "url": "https://open.spotify.com/track/4ro79kkFGZ0lRaZlh07MjE"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Pituquita",
-        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
-      },
-      "artists": [
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
-        },
-        {
-          "name": "Nero Lvigi",
-          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Pituquita",
-      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Solteras y Bandidos",
-        "url": "https://open.spotify.com/album/1P2x98BuSrjoTCrDw18JsQ"
-      },
-      "artists": [
-        {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Solteras y Bandidos",
-      "url": "https://open.spotify.com/track/53WPpMiDP3MTyINUMxigga"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1571,6 +1535,42 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Solteras y Bandidos",
+        "url": "https://open.spotify.com/album/1P2x98BuSrjoTCrDw18JsQ"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "Solteras y Bandidos",
+      "url": "https://open.spotify.com/track/53WPpMiDP3MTyINUMxigga"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "La Mini",
+        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 213831,
+      "name": "La Mini",
+      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Prendete",
         "url": "https://open.spotify.com/album/67hhoyM7eneAydp5kzrzeq"
       },
@@ -1595,22 +1595,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "La Mini",
-        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
+        "name": "Pituquita",
+        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
       },
       "artists": [
         {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
         }
       ],
-      "duration_ms": 213831,
-      "name": "La Mini",
-      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
+      "duration_ms": 183813,
+      "name": "Pituquita",
+      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/4ONgWtVITzY9HjFGWk8OyK"
-      },
-      "artists": [
-        {
-          "name": "Gotay \"El Autentiko\"",
-          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
-        }
-      ],
-      "duration_ms": 149932,
-      "name": "Inalcanzable",
-      "url": "https://open.spotify.com/track/1YscXjm7Is99GXDkxVDCkn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Obvio",
         "url": "https://open.spotify.com/album/4JWCU9l3VqFMwi08IfjMjB"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 214906,
       "name": "Obvio",
       "url": "https://open.spotify.com/track/6uzFCFLkAw2liJlaW6SSdI"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/4ONgWtVITzY9HjFGWk8OyK"
+      },
+      "artists": [
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        }
+      ],
+      "duration_ms": 149932,
+      "name": "Inalcanzable",
+      "url": "https://open.spotify.com/track/1YscXjm7Is99GXDkxVDCkn"
     },
     {
       "added_at": "2022-12-02 05:00:00",

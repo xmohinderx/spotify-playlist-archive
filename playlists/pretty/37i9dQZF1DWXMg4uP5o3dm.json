@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: AViVA",
-  "num_followers": 433004,
+  "num_followers": 433202,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyNzg5NSwwMDAwMDAwMGE0Y2Y3YmZhY2MxNWI2OTQ0MTNjMzY1NWMyZjc0Mzdj",
+  "snapshot_id": "MTY2OTgyNzg5NSwwMDAwMDAwMDQ0Y2RjNjYxZDEzMzk2Njg5ODM4Y2M1NjNjYzczZmFk",
   "tracks": [
     {
       "added_at": "2022-11-25 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 198947,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
     },
     {
-      "added_at": "2022-11-30 17:04:55",
-      "album": {
-        "name": "Level Days",
-        "url": "https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 186150,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"
-    },
-    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "GAY 4 ME (feat. Lauren Sanderson)",
@@ -675,6 +659,22 @@
       "duration_ms": 174739,
       "name": "GAY 4 ME (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
+    },
+    {
+      "added_at": "2022-11-30 17:04:55",
+      "album": {
+        "name": "Level Days",
+        "url": "https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 186150,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Sunset Visionary, Vol. 2",
-        "url": "https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "FWM2",
-      "url": "https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -787,6 +771,42 @@
       "duration_ms": 214333,
       "name": "NO ESCAPE",
       "url": "https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Sunset Visionary, Vol. 2",
+        "url": "https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "FWM2",
+      "url": "https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "WICKED",
+        "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -831,26 +851,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "WICKED",
-        "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Mercurial World",
         "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Drinking with Cupid",
-        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Drinking with Cupid",
-      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Untitled Vol. 1",
         "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 164117,
       "name": "Coke Nose",
       "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Drinking with Cupid",
+        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Drinking with Cupid",
+      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Tomorrows",
-        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 231851,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 161309,
       "name": "flowers",
       "url": "https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 231851,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1195,18 +1195,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Our House (The Mess We Made)",
-        "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7"
       },
       "artists": [
         {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+          "name": "TWIN XL",
+          "url": "https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 220528,
-      "name": "Our House (The Mess We Made)",
-      "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
+      "duration_ms": 161068,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7"
+        "name": "Our House (The Mess We Made)",
+        "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
       },
       "artists": [
         {
-          "name": "TWIN XL",
-          "url": "https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1"
-        },
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
         }
       ],
-      "duration_ms": 161068,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"
+      "duration_ms": 220528,
+      "name": "Our House (The Mess We Made)",
+      "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Lunatic",
-      "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Bad Juice (BROODS Remix)",
         "url": "https://open.spotify.com/album/6z2TcWBWAPk7SUjAMxKOOa"
       },
@@ -1543,38 +1527,6 @@
       "duration_ms": 180211,
       "name": "Bad Juice - BROODS Remix",
       "url": "https://open.spotify.com/track/0KKlrAWyFoFW4GLh5nAwfN"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Miracle, Baby",
-        "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 220471,
-      "name": "Miracle, Baby",
-      "url": "https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        }
-      ],
-      "duration_ms": 203651,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1603,6 +1555,54 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Lunatic",
+      "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        }
+      ],
+      "duration_ms": 203651,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Miracle, Baby",
+        "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 220471,
+      "name": "Miracle, Baby",
+      "url": "https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 169680,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 169680,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
     },
     {
       "added_at": "2022-11-25 05:00:00",

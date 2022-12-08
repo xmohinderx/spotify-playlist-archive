@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Nakkia Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,288,358 likes - 122 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,288,676 likes - 122 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Omeretta The Great
 
-246 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
+247 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Oppressed](https://open.spotify.com/track/2UOlXgj06qCOHWdAYeFUpG) | [Rocky Badd](https://open.spotify.com/artist/1SwYzkVWDvzFbLblUN4snA) | [Oppressed](https://open.spotify.com/album/0l4mLw53R9w4g3aCmPnXvV) | 3:10 | 2022-06-17 | 2022-06-21 |
 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 | 2022-11-11 |  |
 | [Outro](https://open.spotify.com/track/2ZZXZEEvkZreuF9KErIWqL) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Gangsta Talk](https://open.spotify.com/album/23hGXVi3gBtKEpyvs1s2U7) | 1:25 | 2021-11-05 | 2022-03-01 |
-| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-09-16 |  |
+| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5lx5zu37Rf592Iby01kroZ) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 3:16 | 2022-12-02 |  |
+| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-09-16 | 2022-12-08 |
 | [Paid n Full](https://open.spotify.com/track/1dMZ1QcecuC5ctGaCbXEsb) | [DonMonique](https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98) | [Boss Bitch Bible](https://open.spotify.com/album/7eyeLXme7leg1tLljmuwON) | 2:41 | 2021-11-05 | 2022-02-28 |
 | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/album/7KJH5Nyt14qEwWUKnUwDcH) | 2:03 | 2022-09-23 | 2022-10-01 |
 | [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 | 2021-11-05 | 2022-03-18 |

@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 107063,
       "name": "Carol Of The Beers",
       "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 159266,
       "name": "Christmas Vacation",
       "url": "https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt"
@@ -1528,6 +1528,28 @@
     },
     {
       "album": {
+        "name": "Hope This Christmas",
+        "url": "https://open.spotify.com/album/4bcnJnLqOWtNtBghs2Tkdq"
+      },
+      "artists": [
+        {
+          "name": "Shybits",
+          "url": "https://open.spotify.com/artist/3RpiuODlxLEzGTjoKa2qW7"
+        },
+        {
+          "name": "Eddie Argos",
+          "url": "https://open.spotify.com/artist/6Bb1Tz9dIywMGlbDzpwUCo"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165547,
+      "name": "Hope This Christmas",
+      "url": "https://open.spotify.com/track/7bLIbZBDv6U3hGtyiv0boo"
+    },
+    {
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1839,6 +1861,24 @@
       "duration_ms": 267773,
       "name": "Last Christmas - Studio Version",
       "url": "https://open.spotify.com/track/7oOPTXN5uxtvORCslB5pUW"
+    },
+    {
+      "album": {
+        "name": "Lieder und Lametta",
+        "url": "https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY"
+      },
+      "artists": [
+        {
+          "name": "Deine Cousine",
+          "url": "https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Lieder und Lametta",
+      "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
     },
     {
       "album": {

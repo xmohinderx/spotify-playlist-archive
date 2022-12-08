@@ -1036,6 +1036,24 @@
     },
     {
       "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "album": {
         "name": "DEPRIMIDA",
         "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
       },
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 162406,
       "name": "Ida\u00ed",
       "url": "https://open.spotify.com/track/2eB3z0UXLOc9pK6VP9lNZI"

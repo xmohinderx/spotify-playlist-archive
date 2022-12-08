@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 55964,
+  "num_followers": 55993,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDRhNTUxMzNmMGUzNjQ5MDFkZjczOWU4ZjcyNDlhMGQ2",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMGJmZjdhOTQ3NjQxYWRjYTI1YjRhZGI1ZTczY2I0MzE1",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -569,26 +569,6 @@
       "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
-        "name": "Ni rancoeur ni col\u00e8re",
-        "url": "https://open.spotify.com/album/3EINJyR2I0Qke3sb9hBUte"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD"
-        },
-        {
-          "name": "Alice on the roof",
-          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "L'amour \u00e0 la plage (with Alice on the roof)",
-      "url": "https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf"
-    },
-    {
       "added_at": "2021-01-30 03:13:15",
       "album": {
         "name": "La famille B\u00e9lier",
@@ -607,6 +587,22 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
+        "name": "C\u0153ur de pirate",
+        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "Comme des enfants",
+      "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
         "name": "Sarbacane (Remastered)",
         "url": "https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul"
       },
@@ -621,20 +617,24 @@
       "url": "https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
+      "added_at": "2022-01-18 23:00:02",
       "album": {
-        "name": "C\u0153ur de pirate",
-        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
+        "name": "Ni rancoeur ni col\u00e8re",
+        "url": "https://open.spotify.com/album/3EINJyR2I0Qke3sb9hBUte"
       },
       "artists": [
         {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD"
+        },
+        {
+          "name": "Alice on the roof",
+          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
         }
       ],
-      "duration_ms": 169106,
-      "name": "Comme des enfants",
-      "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+      "duration_ms": 169226,
+      "name": "L'amour \u00e0 la plage (with Alice on the roof)",
+      "url": "https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-01-18 23:00:02",
       "album": {
-        "name": "Le pied dans ma bulle",
-        "url": "https://open.spotify.com/album/7jRtfbizqVXGQzUplJzJ0r"
-      },
-      "artists": [
-        {
-          "name": "Ariane Brunet",
-          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Aime-moi",
-      "url": "https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN"
-    },
-    {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
         "name": "R\u00eaver Mieux",
         "url": "https://open.spotify.com/album/2KE8MT2BeZA1sQWlQam4ce"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 239466,
       "name": "Fous n'importe o\u00f9",
       "url": "https://open.spotify.com/track/3Wav5Db2A0kdJDAK3mpajp"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "Le pied dans ma bulle",
+        "url": "https://open.spotify.com/album/7jRtfbizqVXGQzUplJzJ0r"
+      },
+      "artists": [
+        {
+          "name": "Ariane Brunet",
+          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Aime-moi",
+      "url": "https://open.spotify.com/track/3Nx0tpFFwD0xdw424rhhfN"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F"
     },
     {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
-        "name": "\u00c9coute pas \u00e7a",
-        "url": "https://open.spotify.com/album/1fx8uI3eEZ8qejgBMrKOhV"
-      },
-      "artists": [
-        {
-          "name": "Jean-Pierre Ferland",
-          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Une chance qu'on s'a",
-      "url": "https://open.spotify.com/track/3zgQHblUM4t8JkX7rRLAZI"
-    },
-    {
       "added_at": "2022-01-18 23:00:02",
       "album": {
         "name": "Equilibre",
@@ -923,6 +907,22 @@
       "duration_ms": 201573,
       "name": "Il n'y a que toi",
       "url": "https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "\u00c9coute pas \u00e7a",
+        "url": "https://open.spotify.com/album/1fx8uI3eEZ8qejgBMrKOhV"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Ferland",
+          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Une chance qu'on s'a",
+      "url": "https://open.spotify.com/track/3zgQHblUM4t8JkX7rRLAZI"
     },
     {
       "added_at": "2022-01-18 23:00:02",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Le Volume Du Vent",
-        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Oublie Pas",
-      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "La Belle Epoque - EMI's French Girls 1965-68",
         "url": "https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 188013,
       "name": "Ecoute mon coeur",
       "url": "https://open.spotify.com/track/3S2SYHTaWB06riIlXKaOjm"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Le Volume Du Vent",
+        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Oublie Pas",
+      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Elles chantent Cabrel",
-        "url": "https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0"
-      },
-      "artists": [
-        {
-          "name": "Ariane Brunet",
-          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Je l'aime \u00e0 mourir",
-      "url": "https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "La Boh\u00e8me",
         "url": "https://open.spotify.com/album/2AYkNAE68SK0xezVrJNFkC"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 247666,
       "name": "La boh\u00e8me",
       "url": "https://open.spotify.com/track/2xmXyY7rye6nH5sMObxdbu"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Elles chantent Cabrel",
+        "url": "https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0"
+      },
+      "artists": [
+        {
+          "name": "Ariane Brunet",
+          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "La Voix 5",
-        "url": "https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW"
-      },
-      "artists": [
-        {
-          "name": "Ludovick Bourgeois",
-          "url": "https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay"
-        }
-      ],
-      "duration_ms": 247973,
-      "name": "Tu ne sauras jamais",
-      "url": "https://open.spotify.com/track/255h1g53lT3LmG6djeescl"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "Ne me quitte pas : Un hommage \u00e0 Jacques Brel",
         "url": "https://open.spotify.com/album/5bVK75cf4sDDeF9X4hA9BQ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 217066,
       "name": "Quand on n'a que l'amour",
       "url": "https://open.spotify.com/track/5mzSU1ekib32mEpmkzwDlD"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "La Voix 5",
+        "url": "https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW"
+      },
+      "artists": [
+        {
+          "name": "Ludovick Bourgeois",
+          "url": "https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay"
+        }
+      ],
+      "duration_ms": 247973,
+      "name": "Tu ne sauras jamais",
+      "url": "https://open.spotify.com/track/255h1g53lT3LmG6djeescl"
     },
     {
       "added_at": "2021-01-30 03:13:15",

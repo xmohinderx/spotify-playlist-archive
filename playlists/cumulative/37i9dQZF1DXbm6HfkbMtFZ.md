@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-460 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+461 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Day, All Night](https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like You Mean It](https://open.spotify.com/album/1x9DUB4rsa4HE9cbGHUXOi) | 2:11 | 2021-12-16 |  |
 | [All The Time \(feat\. Muroki\)](https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:08 | 2022-01-07 | 2022-04-20 |
 | [Alright](https://open.spotify.com/track/3HnQE5qyk3egTWCreicuOf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/6e2X313opvmQbWCvHdlADs) | 4:35 | 2022-03-30 | 2022-04-16 |
-| [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 | 2022-07-26 |  |
+| [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 | 2022-07-26 | 2022-12-08 |
 | [Always Afternoon](https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Always Afternoon](https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi) | 3:03 | 2022-03-30 |  |
 | [Always on My Mind \(Acoustic\)](https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7), [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Always on My Mind \(Acoustic\)](https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt) | 3:34 | 2022-06-21 | 2022-07-29 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-07-26 | 2022-09-27 |
@@ -35,6 +35,7 @@
 | [Aphrodite](https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Nostalgia](https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS) | 3:54 | 2021-12-16 |  |
 | [Asc\. Scorpio](https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk) | 2:46 | 2021-12-16 |  |
 | [Atomic Suzie](https://open.spotify.com/track/7KqV9IuvQDZQmQTcUGMjZn) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Atomic Suzie](https://open.spotify.com/album/0pT5vm5rl6XCXmKvKnwZpp) | 3:07 | 2021-12-16 | 2022-07-29 |
+| [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2022-12-05 |  |
 | [Ayonha](https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Tape 19.11 / Ayonha](https://open.spotify.com/album/2ndCkboIEM4g6Z2n2IjLd1) | 3:41 | 2022-03-30 | 2022-04-12 |
 | [Baby](https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [What Will We Be \(Standard\)](https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI) | 3:05 | 2022-03-30 |  |
 | [Back and Forth](https://open.spotify.com/track/0PQdU83DzpEwdfWVkm00Tz) | [Idesia](https://open.spotify.com/artist/2VUuRcKjZfeCQzBI1PPyL1) | [Golden Dreams](https://open.spotify.com/album/4rGYgRj37qKr29pRMu4LHQ) | 2:57 | 2022-03-30 | 2022-04-18 |

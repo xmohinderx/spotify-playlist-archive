@@ -284,6 +284,36 @@
     },
     {
       "album": {
+        "name": "ULTRAPANIC",
+        "url": "https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz"
+      },
+      "artists": [
+        {
+          "name": "Lanndo",
+          "url": "https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk"
+        },
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        },
+        {
+          "name": "ACANE",
+          "url": "https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D"
+        },
+        {
+          "name": "nulut",
+          "url": "https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227317,
+      "name": "Aoku Aoku Hikaru feat. ACANE, nulut",
+      "url": "https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq"
+    },
+    {
+      "album": {
         "name": "Azurite",
         "url": "https://open.spotify.com/album/6ZF6bHVS64T9IW5y0NVCV7"
       },
@@ -10401,7 +10431,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 227317,
       "name": "\u9752\u304f\u9752\u304f\u5149\u308b feat. ACA\u306d(\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002), \u306c\u3086\u308a",
       "url": "https://open.spotify.com/track/7tIogxMoaDHGfLKIlkUlqk"

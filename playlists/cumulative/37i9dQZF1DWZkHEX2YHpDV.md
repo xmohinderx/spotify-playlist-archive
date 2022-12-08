@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-867 songs - 1 day 22 hr 18 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+868 songs - 1 day 22 hr 20 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Beauty In The Bad Things](https://open.spotify.com/track/0aGXMi4C241O4y0vtIFAmI) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Beauty In The Bad Things](https://open.spotify.com/album/79vwQSbG2INsGGIJHT57Gs) | 3:33 | 2022-07-08 | 2022-08-03 |
 | [Bedroom Eyes](https://open.spotify.com/track/57p8gUFm53940CZaTxHB1m) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Bedroom Eyes](https://open.spotify.com/album/1oyjqGKLyPlgL5nZDAqezq) | 2:33 | 2022-01-14 | 2022-06-12 |
 | [Beg](https://open.spotify.com/track/3s9oKWdvPOF7KMgtApYVE4) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Beg](https://open.spotify.com/album/1gb1U1Rb3xqq6xMFGHrcSG) | 2:31 | 2021-12-10 | 2022-05-20 |
-| [Benchwarmer](https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Benchwarmer](https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV) | 3:09 | 2022-08-22 |  |
+| [Benchwarmer](https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Benchwarmer](https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV) | 3:09 | 2022-08-22 | 2022-12-08 |
 | [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-11-04 | 2022-11-13 |
 | [Better Now](https://open.spotify.com/track/79HhaJyKuJyFGEgOlHrHiP) | [Sunsleeper](https://open.spotify.com/artist/3KHHh4WVfyUa9ZwE63jdir) | [Better Now](https://open.spotify.com/album/1CL8zLHtZY8d4w01m7RPV9) | 3:34 | 2021-12-10 | 2022-05-13 |
 | [Better Off](https://open.spotify.com/track/090fsR0klPUyKSrnNCnojO) | [Secret Eyes](https://open.spotify.com/artist/6pcymMubKlBFQ1H7gXzYmL) | [Holding On](https://open.spotify.com/album/7KhTFB6x7NHQ4t9P78ZxSY) | 3:50 | 2021-12-10 | 2022-05-26 |
@@ -99,7 +99,7 @@
 | [Bitter](https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Bitter](https://open.spotify.com/album/4Up0H6lEZYeooXEQJzhe63) | 3:11 | 2021-12-10 | 2022-06-25 |
 | [Black Confetti](https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Black Confetti](https://open.spotify.com/album/4OzfmOuozt9Rlosxrtktzi) | 2:53 | 2022-05-20 | 2022-08-03 |
 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2022-12-02 |  |
-| [Blistered World](https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE) | [Plasma Canvas](https://open.spotify.com/artist/6bhi8CRvRAb6FxLk2zaMGQ) | [Blistered World](https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku) | 3:05 | 2022-10-25 |  |
+| [Blistered World](https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE) | [Plasma Canvas](https://open.spotify.com/artist/6bhi8CRvRAb6FxLk2zaMGQ) | [Blistered World](https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku) | 3:05 | 2022-10-25 | 2022-12-08 |
 | [Bloodhound for Oblivion](https://open.spotify.com/track/5NDKH3pjVtgiXt5PgjeONS) | [Relic Hearts](https://open.spotify.com/artist/1gmrjw85YvHI6jrbFkoN3n) | [Volatile](https://open.spotify.com/album/4j6sM622OZ4QUUm3ybI6zL) | 3:11 | 2022-03-25 | 2022-04-19 |
 | [Bloody Nose](https://open.spotify.com/track/0mG20jgAJkaFEMZoWm0mOU) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/2F2RkJb7kGZitRS6C8O2XT) | 2:48 | 2022-03-25 | 2022-06-21 |
 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 | 2021-12-10 | 2022-05-20 |
@@ -549,7 +549,7 @@
 | [Numb](https://open.spotify.com/track/2lzW1ZzQLuj9zVVx8d9neL) | [Lukr](https://open.spotify.com/artist/6VPUQ3UqHxeeVvROl2kZqb), [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt) | [Numb](https://open.spotify.com/album/4NGj4Yy0wj0yfmbhCgkCWV) | 3:36 | 2022-03-25 | 2022-04-21 |
 | [Numb](https://open.spotify.com/track/6cAfDyLZ3QYHVdVxMZKPl1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Numb](https://open.spotify.com/album/0747YzEM47zpjBxHEWX8ho) | 2:26 | 2021-12-10 | 2022-05-20 |
 | [Numb Without You](https://open.spotify.com/track/22aSl53GhZ1y0R4neQ11pd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [You Are OK](https://open.spotify.com/album/0DRUOQBsax8QLUVctbEIAT) | 3:32 | 2021-12-10 | 2022-06-08 |
-| [October Forever](https://open.spotify.com/track/0jXWHgBV8o9XJjBqTAOLal) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [October Forever](https://open.spotify.com/album/0gI8bB60XLjJWKPC2bWtcS) | 4:11 | 2021-12-10 | 2022-11-13 |
+| [October Forever](https://open.spotify.com/track/0jXWHgBV8o9XJjBqTAOLal) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [October Forever](https://open.spotify.com/album/0gI8bB60XLjJWKPC2bWtcS) | 4:11 | 2021-12-10 |  |
 | [Oh Sh!t](https://open.spotify.com/track/0Bk4UjGoO5RLjPnGq19lw5) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Oh Sh!t](https://open.spotify.com/album/2wkX6PQGxNyh7uCgHsL8Ov) | 3:06 | 2021-12-10 | 2022-06-24 |
 | [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-12-10 | 2022-08-03 |
 | [Oldest Daughter](https://open.spotify.com/track/2xnpoelpkXaxbtS5lHEHIi) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Oldest Daughter](https://open.spotify.com/album/0fSbo7YSSjigl9A125Uxhv) | 3:19 | 2022-04-29 | 2022-06-25 |
@@ -725,6 +725,7 @@
 | [Tattoo](https://open.spotify.com/track/7rIa6qgEMBCsYkvEDNlcZf) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Tattoo](https://open.spotify.com/album/2GNOnmStAcHi9TbvkoZ3TQ) | 2:39 | 2021-12-10 | 2022-05-20 |
 | [Teenagers](https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Teenagers](https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo) | 3:02 | 2022-06-17 |  |
 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 | 2021-12-10 | 2022-06-25 |
+| [TELL ME SOMETHING](https://open.spotify.com/track/14H0nxeKjs053w9hQo7XJk) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [TELL ME SOMETHING](https://open.spotify.com/album/173wMqOzorgtnFnseokb1W) | 2:45 | 2022-12-08 |  |
 | [Tell Me You're Sorry](https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Tell Me You're Sorry](https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N) | 2:48 | 2022-02-11 |  |
 | [Temper](https://open.spotify.com/track/7LadUBljqx0uNKq9gOctUo) | [Hidden In Plain View](https://open.spotify.com/artist/5rXLC3lGmx2JjclFJYZud4) | [Temper](https://open.spotify.com/album/6DtVGqzADtenexnMDQ0Sso) | 2:27 | 2022-04-08 | 2022-07-29 |
 | [Thanks, I Hate It](https://open.spotify.com/track/1DVPl37UU468V6RK8fMJPX) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Thanks, I Hate It](https://open.spotify.com/album/5maB3BSB7Lo0ykXq0ihbSR) | 2:57 | 2021-12-10 | 2022-05-20 |

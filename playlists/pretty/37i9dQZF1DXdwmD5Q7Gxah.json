@@ -1,44 +1,44 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: d4vd",
-  "num_followers": 963784,
+  "num_followers": 964216,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwMjEyNCwwMDAwMDAwMGJlYWQ4N2ZjNmEwYTNlZGRhZWFlYjBmMWMwMmM5NjYx",
+  "snapshot_id": "MTY3MDQ1NjcyMiwwMDAwMDAwMGMyMWNkOWY5ZWYwZDMxNzc0YWZhMjMxODZhYzAwMDZl",
   "tracks": [
     {
-      "added_at": "2022-12-02 17:28:44",
+      "added_at": "2022-12-07 23:45:22",
       "album": {
-        "name": "Penny",
-        "url": "https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW"
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
       },
       "artists": [
         {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 222529,
-      "name": "Sunny D",
-      "url": "https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB"
+      "duration_ms": 241304,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk"
     },
     {
-      "added_at": "2022-12-02 17:28:44",
+      "added_at": "2022-12-07 23:45:22",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH"
+        "name": "Veronica Mars",
+        "url": "https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX"
+      "duration_ms": 117850,
+      "name": "Veronica Mars",
+      "url": "https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM"
     },
     {
       "added_at": "2022-09-22 17:26:08",
@@ -59,18 +59,34 @@
     {
       "added_at": "2022-12-02 17:28:44",
       "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 216299,
-      "name": "Japan",
-      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
+      "duration_ms": 213666,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX"
+    },
+    {
+      "added_at": "2022-12-02 17:28:44",
+      "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/7L0E6vv8DPyAUirVSwSJNW"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 222529,
+      "name": "Sunny D",
+      "url": "https://open.spotify.com/track/6RfuWRctUik5CiwnIajDVB"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -87,6 +103,22 @@
       "duration_ms": 241666,
       "name": "Today",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
+    },
+    {
+      "added_at": "2022-12-02 17:28:44",
+      "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 216299,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
     },
     {
       "added_at": "2022-11-28 21:32:11",
@@ -121,22 +153,6 @@
       "url": "https://open.spotify.com/track/4XeOoFtBcUbtgTyygdzX0s"
     },
     {
-      "added_at": "2022-11-18 21:32:37",
-      "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 91080,
-      "name": "Any Way You Want Me",
-      "url": "https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2"
-    },
-    {
       "added_at": "2022-11-02 20:55:55",
       "album": {
         "name": "girlfriend",
@@ -151,6 +167,22 @@
       "duration_ms": 133150,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx"
+    },
+    {
+      "added_at": "2022-12-07 23:45:22",
+      "album": {
+        "name": "Four Below",
+        "url": "https://open.spotify.com/album/6AONJTIWKcZw9AmDC9sUze"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 168573,
+      "name": "Four Below",
+      "url": "https://open.spotify.com/track/0kglgbhRgUQnz6HhPh1isC"
     },
     {
       "added_at": "2022-11-16 18:27:01",
@@ -201,22 +233,6 @@
       "url": "https://open.spotify.com/track/5IWW129DwGyMVQAbaJz3rS"
     },
     {
-      "added_at": "2022-12-02 17:28:44",
-      "album": {
-        "name": "me and my gang",
-        "url": "https://open.spotify.com/album/7A1MMdXbkJDUOhnczJ7JIF"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 138829,
-      "name": "me and my gang",
-      "url": "https://open.spotify.com/track/4AQGuktK4SQqVuSR7XQH79"
-    },
-    {
       "added_at": "2022-11-28 21:32:11",
       "album": {
         "name": "The 1975 (Deluxe Version)",
@@ -249,20 +265,36 @@
       "url": "https://open.spotify.com/track/1qmBJijlYA148svgU0herL"
     },
     {
-      "added_at": "2022-11-15 17:57:13",
+      "added_at": "2022-12-07 23:45:22",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+        "name": "Slow Amnesia",
+        "url": "https://open.spotify.com/album/5wt4VQ0dO0VAmNL0YkfAPd"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
         }
       ],
-      "duration_ms": 122466,
-      "name": "Being In Love",
-      "url": "https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve"
+      "duration_ms": 206000,
+      "name": "Slow Amnesia",
+      "url": "https://open.spotify.com/track/4F67cQkiqrZ5u8GuEhdNyH"
+    },
+    {
+      "added_at": "2022-11-18 21:32:37",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 91080,
+      "name": "Any Way You Want Me",
+      "url": "https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2"
     },
     {
       "added_at": "2022-07-15 12:08:06",
@@ -279,6 +311,22 @@
       "duration_ms": 111653,
       "name": "HEAD",
       "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
+    },
+    {
+      "added_at": "2022-11-15 17:57:13",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "Being In Love",
+      "url": "https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve"
     },
     {
       "added_at": "2022-04-21 04:00:00",
@@ -311,6 +359,22 @@
       "duration_ms": 153356,
       "name": "Call Me Hank",
       "url": "https://open.spotify.com/track/0su4ERFKzOPBVhyRe3F7KQ"
+    },
+    {
+      "added_at": "2022-12-02 17:28:44",
+      "album": {
+        "name": "me and my gang",
+        "url": "https://open.spotify.com/album/7A1MMdXbkJDUOhnczJ7JIF"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 138829,
+      "name": "me and my gang",
+      "url": "https://open.spotify.com/track/4AQGuktK4SQqVuSR7XQH79"
     },
     {
       "added_at": "2022-11-08 19:17:28",
@@ -433,6 +497,22 @@
       "url": "https://open.spotify.com/track/1NCDHACuCJQNKQilHLP4vj"
     },
     {
+      "added_at": "2022-09-28 01:24:44",
+      "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+    },
+    {
       "added_at": "2022-11-16 18:27:01",
       "album": {
         "name": "Do you miss me?",
@@ -479,22 +559,6 @@
       "duration_ms": 183320,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5"
-    },
-    {
-      "added_at": "2022-09-28 01:24:44",
-      "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -785,22 +849,6 @@
       "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
-      "added_at": "2022-11-10 19:17:58",
-      "album": {
-        "name": "Fai Fighter",
-        "url": "https://open.spotify.com/album/7hkFfZ5m3KUoVPp7yvXxSg"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 240601,
-      "name": "Fai Fighter",
-      "url": "https://open.spotify.com/track/3dfMqkZsvmoBFgyEe8878r"
-    },
-    {
       "added_at": "2022-11-07 23:30:21",
       "album": {
         "name": "itch",
@@ -879,22 +927,6 @@
       "duration_ms": 217610,
       "name": "Just in Case",
       "url": "https://open.spotify.com/track/6ZPOFvvzGzkUjfiboG4pbT"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Horsegirl",
-        "url": "https://open.spotify.com/album/0KUlZkcODERuqsESUYNEuP"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Horsegirl",
-      "url": "https://open.spotify.com/track/7hcDQU63xrA9v8cpsyucQ9"
     },
     {
       "added_at": "2022-10-31 21:40:05",
@@ -1167,26 +1199,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Right Person, Wrong Time (feat. Umi & Yeek)",
         "url": "https://open.spotify.com/album/7qPAIypukW56UbtxsSyJmz"
       },
@@ -1291,22 +1303,6 @@
       "duration_ms": 214068,
       "name": "wide eyed",
       "url": "https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF"
-    },
-    {
-      "added_at": "2022-10-08 01:34:01",
-      "album": {
-        "name": "An Orange Colored Day",
-        "url": "https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Letters from the Imaginary",
-      "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"
     },
     {
       "added_at": "2022-09-30 15:42:07",
@@ -1421,22 +1417,6 @@
       "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Crazy Sexy Dream Girl",
-        "url": "https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        }
-      ],
-      "duration_ms": 146633,
-      "name": "Crazy Sexy Dream Girl",
-      "url": "https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT"
-    },
-    {
       "added_at": "2022-10-07 23:25:16",
       "album": {
         "name": "Matador",
@@ -1505,22 +1485,6 @@
       "url": "https://open.spotify.com/track/5ik2LWJMCmr7BGtHvXxPzw"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 205909,
-      "name": "Bloomed Into Blue",
-      "url": "https://open.spotify.com/track/2mC7nhXEezfnvCidNJz6Vt"
-    },
-    {
       "added_at": "2022-10-07 23:25:16",
       "album": {
         "name": "Drive",
@@ -1535,22 +1499,6 @@
       "duration_ms": 177529,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
-    },
-    {
-      "added_at": "2022-09-28 01:24:44",
-      "album": {
-        "name": "Alice (Bodies Bodies Bodies)",
-        "url": "https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If"
-      },
-      "artists": [
-        {
-          "name": "Amandla Stenberg",
-          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Alice (Bodies Bodies Bodies)",
-      "url": "https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J"
     },
     {
       "added_at": "2022-09-30 15:42:07",
@@ -1585,22 +1533,6 @@
       "url": "https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6"
     },
     {
-      "added_at": "2022-09-16 18:03:16",
-      "album": {
-        "name": "Cherub",
-        "url": "https://open.spotify.com/album/6f2FqUeAYVrYuXiFdE2wzg"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        }
-      ],
-      "duration_ms": 110981,
-      "name": "Cherub",
-      "url": "https://open.spotify.com/track/68awbivFFbRan2kPKRmzUG"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "WASTELAND",
@@ -1631,54 +1563,6 @@
       "duration_ms": 224561,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
-    },
-    {
-      "added_at": "2022-09-22 17:26:08",
-      "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 189004,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL"
-    },
-    {
-      "added_at": "2022-07-07 17:59:52",
-      "album": {
-        "name": "gimme all ur luv",
-        "url": "https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 173823,
-      "name": "gimme all ur luv",
-      "url": "https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq"
-      },
-      "artists": [
-        {
-          "name": "Bambina",
-          "url": "https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1"
-        }
-      ],
-      "duration_ms": 235464,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de"
     },
     {
       "added_at": "2022-08-18 15:56:09",
@@ -1875,26 +1759,6 @@
       "duration_ms": 376520,
       "name": "It's Not Just Me, It's Everybody",
       "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
-    },
-    {
-      "added_at": "2022-09-09 17:04:50",
-      "album": {
-        "name": "First Time Caller",
-        "url": "https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        },
-        {
-          "name": "Husbands",
-          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
-        }
-      ],
-      "duration_ms": 317279,
-      "name": "First Time Caller",
-      "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
     },
     {
       "added_at": "2022-08-12 04:00:00",

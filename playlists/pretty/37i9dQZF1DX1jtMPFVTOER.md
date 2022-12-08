@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: DOMi & JD BECK
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,384 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,504 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 64 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 |
 | 65 | [Phone Down](https://open.spotify.com/track/5NCOiJqQlgm15lrZL8SgQI) | [Kieron Boothe](https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W) | [Phone Down](https://open.spotify.com/album/4UTWE6Wn4FCBiLBVd1zHRh) | 2:26 |
 | 66 | [Just The Same](https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Just The Same](https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s) | 3:37 |
-| 67 | [Without You, Within Me \- Radio Edit](https://open.spotify.com/track/3wrq3jtpNuA8Dty2IKy2AI) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Without You, Within Me](https://open.spotify.com/album/6ezqbzCKhFIyf7x0icOxUG) | 3:57 |
+| 67 | [WITHOUT YOU, WITHIN ME \- Radio Edit](https://open.spotify.com/track/3wrq3jtpNuA8Dty2IKy2AI) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [WITHOUT YOU, WITHIN ME](https://open.spotify.com/album/6ezqbzCKhFIyf7x0icOxUG) | 3:57 |
 | 68 | [\(Why You So\) Green With Envy](https://open.spotify.com/track/4AcKEOwQ9T2U7yYK9AJdRs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs) | [\(Why You So\) Green With Envy](https://open.spotify.com/album/1paw3uKEs0vZ4HcBsjjjuE) | 4:52 |
 | 69 | [Melogold](https://open.spotify.com/track/4t7SPIImOopTdL59FlmZBC) | [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Leo Manzari](https://open.spotify.com/artist/0yVLUPrGwAvksd9ebQroil), [Samwyse](https://open.spotify.com/artist/6HM4BW3z7SCMg0hxUx5Pz3) | [Melogold](https://open.spotify.com/album/2DJzdowSaKz6NVhvpKnkpu) | 2:41 |
 | 70 | [On My Way](https://open.spotify.com/track/1enl38hg9YOTE9odtClSAx) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [DEZ](https://open.spotify.com/artist/3msuv9fbuApqt9E4cJ6HWv), [Supersun](https://open.spotify.com/artist/6CYl2WXTzos16wc8bl3ZPZ) | [Oasis Park III](https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s) | 2:17 |

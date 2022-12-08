@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: skaiwater.",
-  "num_followers": 27822,
+  "num_followers": 27981,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDY4ZjU2Zjg5YWVjMjExNmIyMjg2OWE2MmVkN2VkOTg0",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDc1ZTBiNjE2ZTFiMjFlNzg3M2RjMmNlZmQxMmEwNDUw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:00:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "say im ur luv (Jumbo Sounds Remix)",
-        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Jumbo Sounds",
-          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
-        }
-      ],
-      "duration_ms": 137032,
-      "name": "say im ur luv - Jumbo Sounds Remix",
-      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Level Up (feat. Missy Elliott & Fatman Scoop) [Remix]",
         "url": "https://open.spotify.com/album/13iiYB1fvhrxbybtxNYrxw"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 229629,
       "name": "Level Up (feat. Missy Elliott & Fatman Scoop) - Remix",
       "url": "https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "say im ur luv (Jumbo Sounds Remix)",
+        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Jumbo Sounds",
+          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
+        }
+      ],
+      "duration_ms": 137032,
+      "name": "say im ur luv - Jumbo Sounds Remix",
+      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -485,7 +485,7 @@
         },
         {
           "name": "D STURDY",
-          "url": "https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl"
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
         },
         {
           "name": "Dj Crazy",
@@ -495,22 +495,6 @@
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "The Jersey Club Workout",
-        "url": "https://open.spotify.com/album/4b3EbKPFYiAxrglky3Cv9z"
-      },
-      "artists": [
-        {
-          "name": "Dj Dru",
-          "url": "https://open.spotify.com/artist/2IwJjE1jYSxMvSVpdUWpnV"
-        }
-      ],
-      "duration_ms": 158260,
-      "name": "Feel The Burn",
-      "url": "https://open.spotify.com/track/30HH5fUlLuu8Dxw7sLi93z"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -527,6 +511,22 @@
       "duration_ms": 121306,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/4llF02WU3U7UTQwHCfGzf7"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Jersey Club Workout",
+        "url": "https://open.spotify.com/album/4b3EbKPFYiAxrglky3Cv9z"
+      },
+      "artists": [
+        {
+          "name": "Dj Dru",
+          "url": "https://open.spotify.com/artist/2IwJjE1jYSxMvSVpdUWpnV"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "Feel The Burn",
+      "url": "https://open.spotify.com/track/30HH5fUlLuu8Dxw7sLi93z"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Get Jumped",
-        "url": "https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt"
-      },
-      "artists": [
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        },
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
-        }
-      ],
-      "duration_ms": 124848,
-      "name": "Get Jumped (with Bandmanrill)",
-      "url": "https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "nasty",
         "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 175505,
       "name": "nasty",
       "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Get Jumped",
+        "url": "https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        }
+      ],
+      "duration_ms": 124848,
+      "name": "Get Jumped (with Bandmanrill)",
+      "url": "https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1187,26 +1187,22 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Back Up On It (Jasmine)",
-        "url": "https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph"
+        "name": "Renaissance (Remixes)",
+        "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
       "artists": [
         {
-          "name": "DJ Fire",
-          "url": "https://open.spotify.com/artist/0ky4LIRukBkNFLJ2uzpQ9Y"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         },
         {
-          "name": "Dougie F & DJ Fire",
-          "url": "https://open.spotify.com/artist/57UWHentGuHNFZBertnsf8"
-        },
-        {
-          "name": "Dougie F",
-          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Back Up On It (Jasmine)",
-      "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
+      "duration_ms": 236411,
+      "name": "Body Pump - UNIIQU3 Remix",
+      "url": "https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1247,22 +1243,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Renaissance (Remixes)",
-        "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
+        "name": "Back Up On It (Jasmine)",
+        "url": "https://open.spotify.com/album/7jYgzdKEdRHubC7zxHoKph"
       },
       "artists": [
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "DJ Fire",
+          "url": "https://open.spotify.com/artist/0ky4LIRukBkNFLJ2uzpQ9Y"
         },
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "Dougie F & DJ Fire",
+          "url": "https://open.spotify.com/artist/57UWHentGuHNFZBertnsf8"
+        },
+        {
+          "name": "Dougie F",
+          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
         }
       ],
-      "duration_ms": 236411,
-      "name": "Body Pump - UNIIQU3 Remix",
-      "url": "https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2"
+      "duration_ms": 200869,
+      "name": "Back Up On It (Jasmine)",
+      "url": "https://open.spotify.com/track/2di0TfKcoDdmnA0mSPLCYk"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Relax Your Mind",
-        "url": "https://open.spotify.com/album/3hAja1WNUGb1gVZ6PrjBbI"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 109931,
-      "name": "Relax Your Mind",
-      "url": "https://open.spotify.com/track/2BtUcb6aLrsYnsHuqieMY4"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Bounce Out",
         "url": "https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 154672,
       "name": "Bounce Out",
       "url": "https://open.spotify.com/track/3NtvdMnZZOZsdgWsR81ego"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Relax Your Mind",
+        "url": "https://open.spotify.com/album/3hAja1WNUGb1gVZ6PrjBbI"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 109931,
+      "name": "Relax Your Mind",
+      "url": "https://open.spotify.com/track/2BtUcb6aLrsYnsHuqieMY4"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "XENOWRLD",
-        "url": "https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd"
+        "name": "Jimmy Crooks",
+        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
       },
       "artists": [
         {
-          "name": "LilC4",
-          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
         }
       ],
-      "duration_ms": 118557,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP"
+      "duration_ms": 145711,
+      "name": "Jimmy Crooks",
+      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1487,54 +1487,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "I Said It's Lilman",
-        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
-      },
-      "artists": [
-        {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Jimmy Crooks",
-        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
-      },
-      "artists": [
-        {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
-        }
-      ],
-      "duration_ms": 145711,
-      "name": "Jimmy Crooks",
-      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Shake Dhat",
-        "url": "https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL"
-      },
-      "artists": [
-        {
-          "name": "dj Shawny",
-          "url": "https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx"
-        }
-      ],
-      "duration_ms": 56816,
-      "name": "Shake Dat",
-      "url": "https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Don't Say I Didn't Warn You (Jersey Club Remixes)",
         "url": "https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a"
       },
@@ -1551,6 +1503,54 @@
       "duration_ms": 115680,
       "name": "Beautiful Lies (Jersey Club Remix)",
       "url": "https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "XENOWRLD",
+        "url": "https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd"
+      },
+      "artists": [
+        {
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+        }
+      ],
+      "duration_ms": 118557,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "I Said It's Lilman",
+        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+      },
+      "artists": [
+        {
+          "name": "DJ LILMAN",
+          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Shake Dhat",
+        "url": "https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL"
+      },
+      "artists": [
+        {
+          "name": "dj Shawny",
+          "url": "https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx"
+        }
+      ],
+      "duration_ms": 56816,
+      "name": "Shake Dat",
+      "url": "https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "My Heart Freestyle",
-        "url": "https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp"
-      },
-      "artists": [
-        {
-          "name": "Prvnci",
-          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
-        }
-      ],
-      "duration_ms": 147307,
-      "name": "My Heart Freestyle",
-      "url": "https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Jersey Vs The World",
         "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 140000,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/1At6Lri1BvcC92CWbX9RUd"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "My Heart Freestyle",
+        "url": "https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp"
+      },
+      "artists": [
+        {
+          "name": "Prvnci",
+          "url": "https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW"
+        }
+      ],
+      "duration_ms": 147307,
+      "name": "My Heart Freestyle",
+      "url": "https://open.spotify.com/track/6sVO9BPNBPQUPtxV6KES1q"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
+        "name": "MY Shit GET Back",
+        "url": "https://open.spotify.com/album/5WwtFUuAvxhWaFH8BOgyFv"
+      },
+      "artists": [
+        {
+          "name": "DJNeptune973",
+          "url": "https://open.spotify.com/artist/4mQASoKLwVS6pG0zZIbBwk"
+        },
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 101851,
+      "name": "MY Shit GET Back",
+      "url": "https://open.spotify.com/track/3xpuCJ8deChOE5O5pILJoa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
         "name": "Bilg",
         "url": "https://open.spotify.com/album/2h03HxIBrxCFOocHnJlW1N"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 131291,
       "name": "Why You Think You're Fierce - Original Mix",
       "url": "https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "MY Shit GET Back",
-        "url": "https://open.spotify.com/album/5WwtFUuAvxhWaFH8BOgyFv"
-      },
-      "artists": [
-        {
-          "name": "DJNeptune973",
-          "url": "https://open.spotify.com/artist/4mQASoKLwVS6pG0zZIbBwk"
-        },
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 101851,
-      "name": "MY Shit GET Back",
-      "url": "https://open.spotify.com/track/3xpuCJ8deChOE5O5pILJoa"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Just Dance",
-        "url": "https://open.spotify.com/album/0bjVboGxCtC0X9xZmQkFo9"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
-        }
-      ],
-      "duration_ms": 156865,
-      "name": "Childs Play",
-      "url": "https://open.spotify.com/track/5BdvoBcHrsepw9WSwWBip4"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
         "name": "Hit Dat Ass (JERSEY CLUB)",
         "url": "https://open.spotify.com/album/2LcPtjiQxbFCW0bnJOxRjz"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 259715,
       "name": "Hit Dat Ass (JERSEY CLUB)",
       "url": "https://open.spotify.com/track/6sKRoplEWT13gRT0hayL7L"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Just Dance",
+        "url": "https://open.spotify.com/album/0bjVboGxCtC0X9xZmQkFo9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 156865,
+      "name": "Childs Play",
+      "url": "https://open.spotify.com/track/5BdvoBcHrsepw9WSwWBip4"
     },
     {
       "added_at": "2022-11-18 05:00:00",

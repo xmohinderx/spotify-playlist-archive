@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 14028,
+  "num_followers": 14134,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMDU3MzgwZjE3YTdmMTQwYzEzNjJmODA1YjEyOWE1ZGI5",
+  "snapshot_id": "MTY2ODczMzIwMCwwMDAwMDAwMGQyMjkzYmVkYzJjNmVkZDM2MmQyNDY1OTBiZTI5Njc5",
   "tracks": [
     {
       "added_at": "2022-11-11 14:48:18",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "duration_ms": 407653,
+      "name": "Ain't No Way",
+      "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "All Blues's Up: Songs of Led Zeppelin",
         "url": "https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 407653,
-      "name": "Ain't No Way",
-      "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Back In Bluesville",
-        "url": "https://open.spotify.com/album/1YocQJ1WyxCQ7bSCPg2A6N"
-      },
-      "artists": [
-        {
-          "name": "Roxy Perry",
-          "url": "https://open.spotify.com/artist/5oFeTjmgNvB17ju7pOT7Tf"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/5mv7gXwH5qYChfwISnOx94"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 373000,
       "name": "Ventilator Blues",
       "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Back In Bluesville",
+        "url": "https://open.spotify.com/album/1YocQJ1WyxCQ7bSCPg2A6N"
+      },
+      "artists": [
+        {
+          "name": "Roxy Perry",
+          "url": "https://open.spotify.com/artist/5oFeTjmgNvB17ju7pOT7Tf"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/5mv7gXwH5qYChfwISnOx94"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/6VFZdBFUTLciOus17vmBWI"
     },
     {
+      "added_at": "2022-11-18 01:00:00",
+      "album": {
+        "name": "Cocaine",
+        "url": "https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y"
+      },
+      "artists": [
+        {
+          "name": "Joe Robinson",
+          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
+        }
+      ],
+      "duration_ms": 227045,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp"
+    },
+    {
       "added_at": "2022-11-11 14:48:18",
       "album": {
         "name": "Can't Quit The Blues",
@@ -655,22 +671,6 @@
       "duration_ms": 279786,
       "name": "Mustang Sally (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/22W96oGvTk4kvL9oHnIxok"
-    },
-    {
-      "added_at": "2022-11-18 01:00:00",
-      "album": {
-        "name": "Cocaine",
-        "url": "https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y"
-      },
-      "artists": [
-        {
-          "name": "Joe Robinson",
-          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
-        }
-      ],
-      "duration_ms": 227045,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
+        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
+        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Sweet Home Chicago - Mono Rough Mix",
+      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
-        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Sweet Home Chicago - Mono Rough Mix",
-      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Cover My Blues",
         "url": "https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Other People's Stuff",
-        "url": "https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Stones In My Passway",
-      "url": "https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "L.A. Blues Authority Vol. Iv: Fit for a King",
         "url": "https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 330266,
       "name": "I'll Play the Blues for You",
       "url": "https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Other People's Stuff",
+        "url": "https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Stones In My Passway",
+      "url": "https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Unplugged At Caffe Calabria",
-        "url": "https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK"
-      },
-      "artists": [
-        {
-          "name": "Earl Thomas",
-          "url": "https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2"
-        }
-      ],
-      "duration_ms": 348653,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Mixtape Volume 1",
         "url": "https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 211133,
       "name": "Whole Lotta Rosie",
       "url": "https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Unplugged At Caffe Calabria",
+        "url": "https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK"
+      },
+      "artists": [
+        {
+          "name": "Earl Thomas",
+          "url": "https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2"
+        }
+      ],
+      "duration_ms": 348653,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "River Of Time",
-        "url": "https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63"
       },
       "artists": [
         {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+          "name": "Ronnie EarlThe Broadcasters",
+          "url": "https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF"
         }
       ],
-      "duration_ms": 179680,
-      "name": "There's A Bright Side Somewhere",
-      "url": "https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69"
+      "duration_ms": 362266,
+      "name": "Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63"
+        "name": "River Of Time",
+        "url": "https://open.spotify.com/album/6FwFt4jIkHCRg09cqOQhXU"
       },
       "artists": [
         {
-          "name": "Ronnie EarlThe Broadcasters",
-          "url": "https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF"
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 362266,
-      "name": "Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV"
+      "duration_ms": 179680,
+      "name": "There's A Bright Side Somewhere",
+      "url": "https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1015,6 +1015,26 @@
       "duration_ms": 175453,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
+        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        },
+        {
+          "name": "Noel Gallagher",
+          "url": "https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Like Crying (with Noel Gallagher) - Live from The London Palladium",
+      "url": "https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1047,26 +1067,6 @@
       "duration_ms": 322093,
       "name": "Fixin' To Die Blues",
       "url": "https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
-        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
-        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
-      },
-      "artists": [
-        {
-          "name": "Mick Fleetwood and Friends",
-          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
-        },
-        {
-          "name": "Noel Gallagher",
-          "url": "https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Like Crying (with Noel Gallagher) - Live from The London Palladium",
-      "url": "https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Alvin Youngblood Hart",
-          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
-        }
-      ],
-      "duration_ms": 392586,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "That's What I Say",
         "url": "https://open.spotify.com/album/6B6Legr1T9aMiMxL55SZnK"
       },
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2022-11-11 14:48:18",
       "album": {
-        "name": "Messing With The Blues",
-        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 132560,
-      "name": "Messing With The Blues",
-      "url": "https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX"
-    },
-    {
-      "added_at": "2022-11-11 14:48:18",
-      "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
         "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 354026,
       "name": "Love That Burns (with Rick Vito) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Alvin Youngblood Hart",
+          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
+    },
+    {
+      "added_at": "2022-11-11 14:48:18",
+      "album": {
+        "name": "Messing With The Blues",
+        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 132560,
+      "name": "Messing With The Blues",
+      "url": "https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX"
     },
     {
       "added_at": "2022-11-11 14:48:18",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU"
     },
     {
-      "added_at": "2022-11-11 14:48:18",
+      "added_at": "2022-11-18 01:00:00",
       "album": {
-        "name": "Blue Country Heart",
-        "url": "https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r"
+        "name": "Green Manalishi (With the Two Prong Crown)",
+        "url": "https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8"
       },
       "artists": [
         {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+          "name": "LORE",
+          "url": "https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2"
         }
       ],
-      "duration_ms": 183840,
-      "name": "Tom Cat Blues",
-      "url": "https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK"
+      "duration_ms": 348906,
+      "name": "Green Manalishi (With the Two Prong Crown)",
+      "url": "https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw"
     }
   ],
   "unique_name": "Blues Covers",

@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Daddy Yankee.
 
-365 songs - 22 hr 2 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+366 songs - 22 hr 5 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Saoco](https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Sobreviviente](https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh) | 3:04 | 2021-12-17 |  |
 | [Se Siente Bien](https://open.spotify.com/track/52xtApt0X5IZpV88lcSnnf) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Se Siente Bien \(Special Edition\)](https://open.spotify.com/album/3bTxKb6I54lCSPkP385Ko8) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Se Siente Bien](https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Dragón & Caballero](https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS) | 4:06 | 2022-07-27 |  |
-| [Se Vale To\-To](https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:50 | 2022-07-27 |  |
+| [Se Vale To\-To](https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:50 | 2022-07-27 | 2022-12-08 |
 | [Secretos](https://open.spotify.com/track/0ezA5xFPmYbWdlq6LF0juY) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Secretos](https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx) | 3:38 | 2022-05-13 |  |
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2021-12-17 |  |
 | [Sentimiento](https://open.spotify.com/track/3LU5ZHFpyqmZwcKjPEEkF1) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Babilla](https://open.spotify.com/album/75InLp4fdgi6Wcr2D7NrvC) | 3:41 | 2022-10-12 |  |
@@ -321,6 +321,7 @@
 | [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/6GQOMY2lGQtQlvkBPeeyAf) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy 3](https://open.spotify.com/album/6vqIgXgDChGQ6sjDyDryfH) | 2:47 | 2021-12-17 | 2022-07-29 |
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m) | 2:52 | 2022-05-13 | 2022-07-29 |
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E) | 2:52 | 2022-07-27 |  |
+| [Te Quiero](https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:18 | 2022-11-02 |  |
 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2021-12-17 | 2022-12-02 |
 | [Te Regalo Amores](https://open.spotify.com/track/5gJ47Ia89XREGtlCprzAe2) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty](https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI) | 3:58 | 2022-07-27 |  |
 | [Te Regalo Amores](https://open.spotify.com/track/6MJBOJJ7UOANBN0id1cQgO) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [The Royalty /La Realeza \(Limited Edition\)](https://open.spotify.com/album/7d6iERllMabtWwibZmribC) | 3:58 | 2021-12-17 | 2022-05-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,385 likes - 61 songs - 3 hr 29 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,382 likes - 61 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 60 | [Abril Lluvias Mil](https://open.spotify.com/track/78hDkXsJQWstlrlzPlMBA5) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [♡](https://open.spotify.com/album/2VyYH4z9IR5IBSc3To5cQ0) | 5:01 |
 | 61 | [Wanna Play House? \- Dub Version](https://open.spotify.com/track/48bEUZhhmxzXOGeuccfGc9) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Wanna Play House?](https://open.spotify.com/album/3prtz2DOF45x0INlLIHx1d) | 5:51 |
 
-Snapshot ID: `NjIzMyxlY2U0NGJiMjAzZWEzNjUyZDlkOWM2ZDQxNmRiZjcwZDIyODExOTk3`
+Snapshot ID: `NjIzNSwyYWJmY2YwNjMzNTI1M2VlNzg2YTJlNjQxMWE3MzdhNTI0Y2NhMjRm`

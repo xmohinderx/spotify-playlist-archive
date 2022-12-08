@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 62072,
+  "num_followers": 62125,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDhjMDRmNzhjMzc1MjFlMjZjOGRkOTY1ZDYxYTVlZTM3",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDViNjM1NWU3ZWVjMGM2MjBjZTA2ZDdiNTNkZGZkNTc3",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -281,20 +281,24 @@
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
+      "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6"
+        "name": "En Fiesta Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Ay Qu\u00e9 Rico",
-      "url": "https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf"
+      "duration_ms": 170813,
+      "name": "Seis Chorreao",
+      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -317,24 +321,20 @@
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
+      "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "En Fiesta Navide\u00f1a",
-        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6"
       },
       "artists": [
         {
-          "name": "Ricardo Ray",
-          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Seis Chorreao",
-      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
+      "duration_ms": 209440,
+      "name": "Ay Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "Joey",
-        "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
-      },
-      "artists": [
-        {
-          "name": "Joey Pastrana and His Orchestra",
-          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
-        }
-      ],
-      "duration_ms": 452373,
-      "name": "That's How Rumors Start",
-      "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
         "name": "Orchestra Harlow Presenta a Ismael Miranda",
         "url": "https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 196600,
       "name": "Grazin' In The Grass",
       "url": "https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
+      },
+      "artists": [
+        {
+          "name": "Joey Pastrana and His Orchestra",
+          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
+        }
+      ],
+      "duration_ms": 452373,
+      "name": "That's How Rumors Start",
+      "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
     },
     {
       "added_at": "2022-04-09 04:26:32",

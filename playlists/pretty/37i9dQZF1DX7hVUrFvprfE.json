@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMGI0MjUwZThmYTVmYzFlMDFjODQxZDg1MjAyM2YyZGNh",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDAwMGMxMjY2YmRhNjRiZWZlZjY3Y2MzMGNlMDhmNzJmNTMw",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 160518,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "FANDOM",
         "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 168398,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/5JKnYZOhSP7rOK0jPYcCjV"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Party Favors",
-        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 160518,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe"
     },
     {
       "added_at": "2022-05-06 04:00:00",

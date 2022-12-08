@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s.
 
-294 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
+295 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,10 +220,11 @@
 | [See You Later, Alligator](https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Bill Haley's Greatest Hits](https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV) | 2:45 | 2021-04-28 | 2022-11-13 |
 | [Sh\-Boom](https://open.spotify.com/track/7I774iZM4QkJK6gFPEEmS0) | [Floyd F\. McRay](https://open.spotify.com/artist/2eQow3uMhh2KrbnqSsyyyp), [Carl Feaster](https://open.spotify.com/artist/1LIPBL4oHGvxy322gYO5jt), [Claude Walter Feaster](https://open.spotify.com/artist/6fJKPRQnR25FMnxU2KRykI), [James Keyes](https://open.spotify.com/artist/2IAFLQVGrnAxD6icGJuPvz), [William Edwards](https://open.spotify.com/artist/4ZIkdZVB7BVdzALCxTM4EW), [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [Hearts in Atlantis \- Motion Picture Soundtrack](https://open.spotify.com/album/4RQ5uJfZPSeerliWiK5CU6) | 2:45 | 2022-06-09 | 2022-11-13 |
 | [Sh\-Boom](https://open.spotify.com/track/0qlLEZdBA4DsOHZz9HZjD5) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Oldies Hits](https://open.spotify.com/album/01jEdlExRQM7nPYF8UJQDr) | 2:24 | 2022-06-09 | 2022-11-13 |
+| [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 | 2022-06-09 |  |
 | [Sh\-Boom](https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Doo Wop Classics, Vol\. 6](https://open.spotify.com/album/6bT7ES8R1gu7H9c5jMNFaX) | 2:27 | 2022-06-09 | 2022-11-21 |
 | [Sh\-Boom](https://open.spotify.com/track/6Et6uBEIIDEforjX21VLZi) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Presenting The Chords](https://open.spotify.com/album/2Qw0tZfNYrKgAqqyrwDUkY) | 2:27 | 2022-06-09 | 2022-07-29 |
 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 | 2022-06-09 |  |
-| [Shake, Rattle And Roll \- Single Version](https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Bill Haley's Greatest Hits](https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV) | 2:30 | 2021-04-28 |  |
+| [Shake, Rattle And Roll \- Single Version](https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Bill Haley's Greatest Hits](https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV) | 2:30 | 2021-04-28 | 2022-12-08 |
 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 | 2021-04-28 |  |
 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 | 2022-06-09 |  |
 | [Sixteen Tons](https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Vintage Collections](https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD) | 2:38 | 2021-04-28 |  |

@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: blah\)
 
-234 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+235 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Tallgrass](https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Tallgrass](https://open.spotify.com/album/112a4wCjK6TpZtKhCxZhtt) | 2:22 | 2022-05-27 | 2022-08-13 |
 | [That's You](https://open.spotify.com/track/1RCsxisXuOGvK6NuVREhLb) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [That's You](https://open.spotify.com/album/4t7pK3U2UnT1cqPW7CYAp4) | 2:20 | 2022-10-08 | 2022-11-04 |
 | [The Generation of Tribulation \(feat\. Unnie Choir\)](https://open.spotify.com/track/6iXHit5o9jDQiq8nV7bYMX) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH), [Unnie Choir](https://open.spotify.com/artist/1MmFelrQxR5LDTVj6mLKdX) | [The Generation of Tribulation](https://open.spotify.com/album/4paWDGzD2IIm59sqB81Tt6) | 5:15 | 2022-05-27 | 2022-07-29 |
-| [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-08-09 |  |
+| [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-08-09 | 2022-12-08 |
 | [This Is the End](https://open.spotify.com/track/63uYZyMktT9ITcfzhMt4tQ) | [Lee Hayoun](https://open.spotify.com/artist/3OAnGQisTwghbfez2oHV6q) | [This Is the End](https://open.spotify.com/album/24TwtXPIScBoOresfu11g6) | 3:52 | 2022-05-27 | 2022-07-08 |
 | [time \(2022\)](https://open.spotify.com/track/1oOF8dd6AReyMJlWRwPgSc) | [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [convalescent\#1](https://open.spotify.com/album/5U0jGwxYmeRQMSkJCSYVN4) | 2:22 | 2022-05-27 | 2022-07-18 |
 | [Time Will Tell](https://open.spotify.com/track/3kCpImnMl45TgFHAsi5e5a) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0) | [Time Will Tell](https://open.spotify.com/album/7xAFMrJ5IA2Ay5dH0zT0qa) | 3:53 | 2022-05-27 | 2022-07-29 |
@@ -241,6 +241,7 @@
 | [어때 넌 요즘](https://open.spotify.com/track/4AjQzjJd9M9C0NDBo0hwYC) | [태라](https://open.spotify.com/artist/3fc8KVKaLMfwfEGxwLmDio) | [어때 넌 요즘](https://open.spotify.com/album/4rLTzWYY9IA6Gk2ct5koEL) | 3:41 | 2022-07-08 | 2022-07-23 |
 | [원룸에선 사랑 할 수 없어요](https://open.spotify.com/track/2gZYmtDMLbNoSsshv67VXh) | [Gamichingoo](https://open.spotify.com/artist/0zSl9skWKuGbcQ69OY8te7) | [구주완 2](https://open.spotify.com/album/18ugxSLo7zG9h0EakD1l8s) | 3:58 | 2022-07-08 | 2022-07-27 |
 | [침묵](https://open.spotify.com/track/75vRT4mVLSg5SXC11OyZ0f) | [LINDA](https://open.spotify.com/artist/1hWCwNPn2nMRH7VN7giySA) | [침묵](https://open.spotify.com/album/5QwZX0RjAmj4lVBGARmgXt) | 4:05 | 2022-05-27 | 2022-07-25 |
+| [크림빵 Creamppang](https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [크림빵 Creamppang](https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4) | 2:49 | 2022-11-24 |  |
 | [편지](https://open.spotify.com/track/3nRW1VJb5xLOEeH1yu4jJ9) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [여정\(旅程\)](https://open.spotify.com/album/1a8tkKTHmds4WtikPCuWF9) | 3:56 | 2022-05-27 | 2022-07-21 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

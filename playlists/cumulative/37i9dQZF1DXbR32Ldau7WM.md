@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Keisuke Kuwata\(桑田佳祐\)
 
-429 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+430 songs - 1 day 4 hr 23 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-07 | 2022-10-21 |
 | [Black hole eyed lady](https://open.spotify.com/track/0dwQF24jwHEFvAdBIW5Obx) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Black hole eyed lady](https://open.spotify.com/album/3pUUh38i9Ip5L01yJLNhbZ) | 2:51 | 2022-05-10 | 2022-07-23 |
 | [BLACK TOWN \- Acoustic Version](https://open.spotify.com/track/0R4IVPXo99eHM52nvT23tn) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [BLACK TOWN \(Acoustic Version\)](https://open.spotify.com/album/4Uko8iIzKup2aamDdaCUyx) | 4:09 | 2022-05-12 | 2022-05-24 |
-| [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-17 | 2022-11-23 |
+| [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-17 |  |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 |  |
 | [Boots](https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC) | [KICK THE CAN CREW](https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe) | [Boots](https://open.spotify.com/album/29KPfuJS5aQIuucPZn3Pmh) | 3:22 | 2022-05-24 | 2022-07-14 |
 | [BOY 2022](https://open.spotify.com/track/0xK0rCpjfmmmdPdbpyfMqg) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [BOY 2022](https://open.spotify.com/album/3PGIfAOfGxRg5jTvZRXC8s) | 4:45 | 2022-08-23 | 2022-09-15 |
@@ -139,6 +139,7 @@
 | [Mary](https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Mary](https://open.spotify.com/album/1hkJLQbCjVZQ2CznUNGaNx) | 3:11 | 2022-10-05 | 2022-12-07 |
 | [MASKER](https://open.spotify.com/track/55P9yi0rjccpyZXEwlpoGw) | [茂木洋晃](https://open.spotify.com/artist/7At1HZmLp2LhcIc62v5g2j) | [MASKER](https://open.spotify.com/album/6nZ1iebfVk6BLJ6KVlXOJw) | 5:19 | 2022-05-12 | 2022-06-12 |
 | [MEMENTO MORI](https://open.spotify.com/track/00SROMpQqY9J5tsZyEVrR3) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [LUCKY CHARMS](https://open.spotify.com/album/2QdmuLUR6anfHrH7kX5xt2) | 2:25 | 2022-05-12 | 2022-07-29 |
+| [Memeshikute \- 2022ryukogo ver.](https://open.spotify.com/track/1jcBBNlvrLSvfZJThCz3oe) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [Memeshikute \(2022ryukogo ver.\)](https://open.spotify.com/album/54EH2V8aSCzMyi47fdmeUc) | 2:29 | 2022-12-06 |  |
 | [MERRY X'MAS IN SUMMER](https://open.spotify.com/track/2U99CkOaKJ000EV8GqMS1E) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [MERRY X'MAS IN SUMMER](https://open.spotify.com/album/60iBZ6OLMcN1CU11E3MNzw) | 5:05 | 2022-11-22 |  |
 | [Merry\-Go\-Round](https://open.spotify.com/track/3tGXnGvZpT4fzua650wrRh) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Merry\-Go\-Round](https://open.spotify.com/album/4DTvXuio482igL0edC2jsZ) | 4:03 | 2022-05-12 | 2022-05-17 |
 | [midsummer sunset](https://open.spotify.com/track/5GkJ9PJ7Yokkn4wFRRyf9S) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [midsummer sunset](https://open.spotify.com/album/5zu1i14LSDhd9EdwMKtQiT) | 8:44 | 2022-10-11 | 2022-10-29 |
@@ -241,7 +242,7 @@
 | [Tiny World](https://open.spotify.com/track/6HO985R66EUQniAD1x9XLw) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [Tiny World](https://open.spotify.com/album/1FiKy2LLk2fQTecXtXS1nK) | 4:12 | 2022-05-10 | 2022-07-19 |
 | [TOKYO SUNSET](https://open.spotify.com/track/3uyxqhX9aZWs8uxBF6nPRL) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [TOKYO SUNSET](https://open.spotify.com/album/5gqwQgJgK44GAYLuiIez8T) | 4:06 | 2022-05-22 | 2022-06-21 |
 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 | 2022-11-08 | 2022-11-16 |
-| [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 |  |
+| [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2022-12-08 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
 | [Tsuki no Wan](https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Adapt](https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4) | 4:10 | 2022-08-02 | 2022-10-14 |
 | [Tsuubee Koobee](https://open.spotify.com/track/7IYn5ahor1DF8VGGiags5N) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [Tsuubee Koobee](https://open.spotify.com/album/060jpYuWAErb2W5tBmtn0I) | 3:31 | 2022-10-18 | 2022-11-09 |
@@ -371,7 +372,7 @@
 | [大好きだから…](https://open.spotify.com/track/4fEPiXCWScnKv977GEkPZY) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [大好きだから…](https://open.spotify.com/album/4iwyN2f8GMc3WzfUciv63N) | 3:38 | 2022-05-12 | 2022-07-29 |
 | [天地創造](https://open.spotify.com/track/3kh6LMx3DLaMcmcUEJyagL) | [THE ALFEE](https://open.spotify.com/artist/04bitarCLkcC3GVESLDZgY) | [天地創造](https://open.spotify.com/album/3qLCcHe7lTSLlIYTpnbGhn) | 6:17 | 2022-05-22 | 2022-06-03 |
 | [太陽が見ている](https://open.spotify.com/track/2BXR9MebWatB9V19daKFWD) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [太陽が見ている](https://open.spotify.com/album/1lg9HSKbPxeEHOPPfAetpg) | 4:46 | 2022-05-19 | 2022-07-11 |
-| [女々しくて \- 2022流行語ver.](https://open.spotify.com/track/2Q0JyzagFtM4cxlM0bXblO) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [女々しくて \(2022流行語ver.\)](https://open.spotify.com/album/0oDvDvwS2PnFUZWqIPvgJg) | 2:29 | 2022-12-06 |  |
+| [女々しくて \- 2022流行語ver.](https://open.spotify.com/track/2Q0JyzagFtM4cxlM0bXblO) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [女々しくて \(2022流行語ver.\)](https://open.spotify.com/album/0oDvDvwS2PnFUZWqIPvgJg) | 2:29 | 2022-12-06 | 2022-12-08 |
 | [妖](https://open.spotify.com/track/5es17R7PLDy4hRq6wEDhcg) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [妖](https://open.spotify.com/album/4zwHtQV5by88tVRwP48PlV) | 4:17 | 2022-12-06 |  |
 | [寝ぼけた街に](https://open.spotify.com/track/5FZ3j7g0wKfzWVT0XL5WbD) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [寝ぼけた街に](https://open.spotify.com/album/0DvrSjJFM9QFXJzVJvuyVQ) | 4:26 | 2022-05-10 | 2022-07-29 |
 | [小さな風景](https://open.spotify.com/track/7Ii4WNeFLTFFiJuKRkcPsX) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:42 | 2022-06-14 | 2022-06-22 |

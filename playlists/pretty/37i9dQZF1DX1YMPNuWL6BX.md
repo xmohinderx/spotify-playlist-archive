@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain](/playlists/plain/37i9dQZF1DX1YMPNuWL6BX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1YMPNuWL6BX)
 
-### [New Years 2022](https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX)
+### [New Years 2023](https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX)
 
-> Ring in 2022 with your favorite party tracks!
+> Ring in 2023 with your favorite party tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,181 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,171 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 | 99 | [Thank You for Being a Friend](https://open.spotify.com/track/5yNUgA66PbcPIJPOU2eBwR) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [All This and Heaven Too](https://open.spotify.com/album/3XOMPHoTULcm8kEqHp7YlE) | 4:40 |
 | 100 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 
-Snapshot ID: `MTY0MTAwMDI2MywwMDAwMDAwMDZiMDViYTNiMjBjZmZmYzM0NDcyNzZkZWVhY2Y0N2Zk`
+Snapshot ID: `MTY3MDQ0NDI4MywwMDAwMDAwMDgyZDYxNDlhMmVjZmI2YTA5M2NkNWMxY2NhZjIyZGNi`

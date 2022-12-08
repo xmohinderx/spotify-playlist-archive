@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-470 songs - 1 day 2 hr 42 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+471 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3) | 2:22 | 2021-12-08 |  |
 | [Dance Dance Cochayuyo!](https://open.spotify.com/track/0poQqEQWvsao56183reAT7) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [Dance Dance Cochayuyo!](https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF) | 2:47 | 2021-12-08 | 2022-07-09 |
 | [Dance Tonite](https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Dance Tonite](https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW) | 3:30 | 2022-09-16 |  |
-| [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 | 2021-12-08 |  |
+| [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 | 2021-12-08 | 2022-12-08 |
 | [Dancing All Night](https://open.spotify.com/track/659mVnG0vnPHRcGLly0GyK) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Sendagi Collection](https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi) | 3:55 | 2021-12-08 | 2022-07-25 |
 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 | 2021-12-08 | 2022-11-05 |
 | [Date Night Deluxe](https://open.spotify.com/track/0ZRM3FvLWMaIV4LR5aYYQE) | [Pan!c Pop](https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL) | [Date Night Deluxe](https://open.spotify.com/album/790QHZEtlQ1VzHcgNafPHt) | 4:27 | 2022-01-25 | 2022-07-29 |
@@ -147,7 +147,7 @@
 | [Fun Tonight](https://open.spotify.com/track/4MmO631CdxuFOm18UVbhkp) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [CHAM!](https://open.spotify.com/album/4mk2tlpNn3mQKa6TlNNhnc) | 2:42 | 2021-12-08 |  |
 | [Funk Dust](https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:12 | 2022-07-15 |  |
 | [Funk Dust](https://open.spotify.com/track/3bx3HqxlPUfINHB3UdZGun) | [K/92](https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl) | [Dusty Shelves](https://open.spotify.com/album/5yCW8YEqlDyBvIPNm10M1I) | 2:12 | 2021-12-08 | 2022-07-28 |
-| [Funk Express](https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2) | 1:50 | 2022-11-04 |  |
+| [Funk Express](https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2) | 1:50 | 2022-11-04 | 2022-12-08 |
 | [Funk Express](https://open.spotify.com/track/70TRBg1L9oDSa7Rdtz2jJC) | [Proux](https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu) | [Back By Popular Demand](https://open.spotify.com/album/4bPzw5nnFzNCnszL3rTwA7) | 1:50 | 2022-04-12 | 2022-06-15 |
 | [Funky Zeit](https://open.spotify.com/track/1Dq5LzBRvbeDNqwZzBVKvQ) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Nautical Nonsense](https://open.spotify.com/album/3YbRlq4I7RN3UNTO8hNwAm) | 2:30 | 2022-09-16 | 2022-11-23 |
 | [Future Frequencies](https://open.spotify.com/track/6mARIPCcLrfS3LNstwzZlZ) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Future Frequencies](https://open.spotify.com/album/3sbcdq6cG7gRiLocZ7f0M1) | 3:47 | 2022-06-08 | 2022-07-23 |
@@ -179,7 +179,7 @@
 | [Heatwave](https://open.spotify.com/track/2aSdvw3nPXR1blKUGlICRB) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Best Before 1998](https://open.spotify.com/album/4MeikwvA8AgiIEPqIaGBxC) | 2:21 | 2022-06-01 | 2022-06-08 |
 | [HELLO TODAY!!](https://open.spotify.com/track/4wdflWgVGoI1nxGTORRoUj) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J) | [CITY FUNK! \(シティファンク!\)](https://open.spotify.com/album/1rxwRd87GOMJfS54iGyztI) | 2:47 | 2022-01-25 | 2022-07-24 |
 | [HI\-SPEC](https://open.spotify.com/track/1dqSo8cdsWWwS6BblF5TWC) | [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [NONPLUSULTRA, Vol\. 2](https://open.spotify.com/album/1K9WljK2uoE09VvOV2iENG) | 5:07 | 2022-08-12 | 2022-09-26 |
-| [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 | 2022-07-15 | 2022-11-05 |
+| [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 | 2022-07-15 |  |
 | [High Roller](https://open.spotify.com/track/0d6f1v0p8EHAfBpK7hb4Sa) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [High Roller](https://open.spotify.com/album/4b8haSNizz3sbdzDOUFD9m) | 3:17 | 2021-12-08 | 2022-05-24 |
 | [Highrise](https://open.spotify.com/track/4N4WsX2x4uAEd596a33MCV) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj), [Doktor Plekter](https://open.spotify.com/artist/0MwjSZXChsEmYrs4XJqJ7u) | [Highrise](https://open.spotify.com/album/4msMnyM96bHd60zck5zuKw) | 3:50 | 2022-01-25 | 2022-07-24 |
 | [Highway Night Lights](https://open.spotify.com/track/2sj2K4VaNNkW17K1yhgrAm) | [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Highway Night Lights](https://open.spotify.com/album/00fRGFyU4igBOCNYwFJW4G) | 3:03 | 2022-08-12 | 2022-09-17 |
@@ -438,6 +438,7 @@
 | [Ur On My Mind](https://open.spotify.com/track/2tuFk4YKtVYASvOAcfgqXA) | [ConsciousThoughts](https://open.spotify.com/artist/7nNml7OiJoyXojuihNAmDu) | [Ur On My Mind](https://open.spotify.com/album/6lGYpZ0Nr8kKsZU3aomp5I) | 4:48 | 2022-04-12 | 2022-04-21 |
 | [uwbfc](https://open.spotify.com/track/2KPmwsBZ8zIbwrPuBHb4YU) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [too embarrassed to show my friends my music](https://open.spotify.com/album/45tg7IxtKLRuDRpPNI8lv0) | 3:07 | 2021-12-08 | 2022-04-14 |
 | [Virtual Friends](https://open.spotify.com/track/1kTYYt9jc8H6jYxsE7LWS9) | [Superflat](https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0), [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Virtual Rave](https://open.spotify.com/album/2JyMU3cThUfcAIKsqgx9WW) | 2:38 | 2022-01-25 | 2022-07-20 |
+| [Virtual World](https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Virtual World](https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm) | 4:05 | 2022-11-04 |  |
 | [Virtual World](https://open.spotify.com/track/7GPDzEooNtmz60F7imV1jQ) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Virtual World](https://open.spotify.com/album/6VXLKkCLegHWNYbsmpfAQy) | 4:05 | 2021-12-08 | 2022-09-17 |
 | [VTEC](https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR), [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VTEC](https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM) | 4:03 | 2022-01-25 | 2022-06-22 |
 | [w/out u](https://open.spotify.com/track/7tDdlpr8MnF75xsZKMY9J0) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [w/out u](https://open.spotify.com/album/6jkjXFr3r42FynaiEQF1U0) | 4:46 | 2022-02-27 | 2022-07-23 |

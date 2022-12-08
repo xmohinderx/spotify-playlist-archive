@@ -4,7 +4,7 @@
 
 > Hay nhất từ Fresh Finds Vietnam 2022\. Ảnh bìa: Winno
 
-687 songs - 1 day 16 hr 9 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+688 songs - 1 day 16 hr 12 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [Nhầm To Rồi Đấy](https://open.spotify.com/track/3IRMnNVRLEzCQ6XQ6gz6JO) | [Woni](https://open.spotify.com/artist/0bTZ4h4TZrOB8cHsqeW0sm), [Vy Dương](https://open.spotify.com/artist/72LLiDCylhkxp2NQnesTAE) | [Nhầm To Rồi Đấy](https://open.spotify.com/album/2Ql65m5p0u716JqMNE3l84) | 3:32 | 2022-03-10 | 2022-03-18 |
 | [Nhật Ký Chiều Đông](https://open.spotify.com/track/3hUaVdcKkDWVMBuFFpRvjn) | [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ) | [Nhật Ký Chiều Đông](https://open.spotify.com/album/3CdnlOhXKUPhRtXzTkVaiU) | 3:31 | 2022-08-23 | 2022-09-18 |
 | [Nhật Ký Âm Thanh](https://open.spotify.com/track/3fSmHzpLi034XMzkiTPfZS) | [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [Nhật Ký Âm Thanh](https://open.spotify.com/album/29tqnPJr8fvf4PaMUS3K4y) | 2:15 | 2022-02-05 | 2022-02-22 |
-| [Nhọ và Lem](https://open.spotify.com/track/37jMBERJHtq6NQv9cqnJsh) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Nhọ và Lem](https://open.spotify.com/album/7jUwpHtofVFCz6Oe4Rvexa) | 3:24 | 2022-05-19 |  |
+| [Nhọ và Lem](https://open.spotify.com/track/37jMBERJHtq6NQv9cqnJsh) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Nhọ và Lem](https://open.spotify.com/album/7jUwpHtofVFCz6Oe4Rvexa) | 3:24 | 2022-05-19 | 2022-12-08 |
+| [Nhọ và Lem](https://open.spotify.com/track/5yxBS7QqWSSbPJhs4UEkND) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Nhọ và Lem](https://open.spotify.com/album/5EGJbzylEjxcAzwYfqbV4e) | 3:24 | 2022-11-30 |  |
 | [Những Ngày Anh Nhớ Em](https://open.spotify.com/track/3sxUYqKoy1uuS4pClV3UeW) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Những Ngày Anh Nhớ Em](https://open.spotify.com/album/6iRNKFE9aVswNAWfVzSziL) | 2:36 | 2022-03-04 | 2022-04-23 |
 | [Những Ngày Buồn Bã](https://open.spotify.com/track/7EuWefuFDZEDYP9w4fjRWP) | [Nắng](https://open.spotify.com/artist/74VaNxyGwFhJPZDcQ9q3IO) | [Những Ngày Buồn Bã](https://open.spotify.com/album/62vJGOcc2Wfm5kTeUhy6K6) | 3:33 | 2022-10-31 | 2022-11-18 |
 | [Những Ngày Bên Em](https://open.spotify.com/track/5XfW5ZtYteZmXmpcwoVpva) | [Quân Bùi](https://open.spotify.com/artist/5mXI9SrI43d18i8XcV7wuX) | [Những Ngày Bên Em](https://open.spotify.com/album/5sydQNtCSHyUa8d1Gy31Ee) | 4:38 | 2022-01-06 | 2022-01-29 |

@@ -4,7 +4,7 @@
 
 > The Bollywood crooner's best songs.
 
-86 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
+87 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5a0HCfJmRc8ZpTMvehGeYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Jaan 'Nisaar \(Arijit\)](https://open.spotify.com/track/6pzlnyHTVYi5FOmrgOmC95) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath](https://open.spotify.com/album/7lF34sP6HtRAL7VEMvYHff) | 3:58 | 2021-12-08 |  |
 | [Janam Janam](https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 3:57 | 2021-12-08 |  |
 | [Jeetega Jeetega Film Version](https://open.spotify.com/track/17fhQI9tsFAdd5fPSBBCWu) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [83 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54MWK3HGLOxBWnQRYWEfEA) | 3:57 | 2022-01-05 |  |
+| [Jo Tum Saath Ho \(From "Salaam Venky"\)](https://open.spotify.com/track/6pFAVtBhANwBgG6sZzZju2) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6) | [Jo Tum Saath Ho \(From "Salaam Venky"\)](https://open.spotify.com/album/3VdmgKfAUkK2M5PiMwmQGl) | 5:48 | 2022-12-07 |  |
 | [Kalank \(Title Track\)](https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 5:11 | 2021-12-08 |  |
 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-07-17 |  |
 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 | 2021-12-08 |  |

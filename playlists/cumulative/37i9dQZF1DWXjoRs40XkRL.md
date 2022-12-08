@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-119 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
+121 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/4IW3gv4YKGZskCAX9OZuoF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ghir Ghir Ke](https://open.spotify.com/track/510UTDROfJ1pQQLrFZgo9Y) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Ghir Ghir Ke](https://open.spotify.com/album/2R6i4AcVuKKaFr8iAecT4w) | 4:07 | 2022-07-12 |  |
 | [Hamsadhwani](https://open.spotify.com/track/2kp7AnVKbDVZyrcRHjWvLB) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 6:16 | 2022-05-17 |  |
 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-05-17 |  |
+| [Har Ek Baat](https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF) | 4:00 | 2022-12-07 |  |
 | [Homelands](https://open.spotify.com/track/5FqlDVyNf0FuHKAPS8a6K4) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 6:02 | 2022-05-17 |  |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-05-17 |  |
 | [Humri Ateriya](https://open.spotify.com/track/4QLgVKSIe3OkXRNu5zJSJu) | [Smita Rao Bellur](https://open.spotify.com/artist/0Dje5wyfIRWD7Ks4k2gH0e) | [Yeh Kaali Kaali Ankhein \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ou3S5OJfPdEskgHpAQzsj) | 3:31 | 2022-05-17 |  |
@@ -48,6 +49,7 @@
 | [Inteha](https://open.spotify.com/track/6QGi3529oKAbfObXWmWz95) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Tajasvi Sharma](https://open.spotify.com/artist/5EZnpkJGZLrfIeBnI0R6Ud) | [Inteha](https://open.spotify.com/album/7eD79Gc6BzP8BoAmYxQpru) | 4:16 | 2022-05-17 |  |
 | [ISOLATED \(Part 2\)](https://open.spotify.com/track/37rIyfXlSeU4pALUVZ0XDO) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Arghadeep Barua](https://open.spotify.com/artist/76zwIgoC4iyxTnLTeGiwUv), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [ISOLATED \(Part 2\)](https://open.spotify.com/album/5gMeHUxcnHEpR87wyWAJBD) | 3:47 | 2022-05-17 |  |
 | [Jaanu Na \- Jodi Tare](https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Tagore Songs \- Hindi Adaptations](https://open.spotify.com/album/4QuenfmhzueuIbon28NOiR) | 4:45 | 2022-05-17 |  |
+| [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 |  |
 | [Jhinjhoti](https://open.spotify.com/track/4oWJqeGeJK1N5M0dUqogYD) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Jhinjhoti](https://open.spotify.com/album/6weyfGZOlWKTnp5Yq49Fjn) | 5:02 | 2022-05-17 |  |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 |  |
 | [Ka Karoon Sajni \- The Unwind Mix](https://open.spotify.com/track/5oVHgBoF0B29CXW1L4aeU7) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB) | [Ka Karoon Sajni \- Single](https://open.spotify.com/album/5Ao1TWZgINPwvOy96c2dbV) | 4:29 | 2022-05-17 |  |

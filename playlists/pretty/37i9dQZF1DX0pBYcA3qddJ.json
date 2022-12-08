@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 43461,
+  "num_followers": 43473,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMzODgwMCwwMDAwMDAwMDg4MDFiZjRkZDJjYWQ5MjM5ZjAzMzZiYzQzM2MzODJh",
+  "snapshot_id": "MTY3MDMzODgwMCwwMDAwMDAwMGZjMDgzZjc5ZmEyNDQzMjhjZGVjOGI2MWI3ZGEzMjg5",
   "tracks": [
     {
       "added_at": "2022-12-06 15:00:00",
@@ -707,6 +707,38 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Osmanthus",
+        "url": "https://open.spotify.com/album/2eRF381GbGdgW3mV8GGluk"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Osmanthus",
+      "url": "https://open.spotify.com/track/0L8pobjqk1qgI9ukXK6qMd"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 5",
         "url": "https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr"
       },
@@ -731,38 +763,6 @@
       "duration_ms": 65960,
       "name": "Antar (After N. Rimsky-Korsakov): No. 7. Ravel: Allegretto",
       "url": "https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
-        "name": "Osmanthus",
-        "url": "https://open.spotify.com/album/2eRF381GbGdgW3mV8GGluk"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Osmanthus",
-      "url": "https://open.spotify.com/track/0L8pobjqk1qgI9ukXK6qMd"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "The Flood (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 212026,
-      "name": "When You Can't Sleep At Night",
-      "url": "https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg"
+      "duration_ms": 216299,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "The Berlin-Albuquerque Sessions Vol 3",
+        "url": "https://open.spotify.com/album/2HMsVCSKJx0Ujg6cQoMhcY"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 254583,
+      "name": "The Rip Tide - BER-ABQ Version",
+      "url": "https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "The Berlin-Albuquerque Sessions Vol 3",
-        "url": "https://open.spotify.com/album/2HMsVCSKJx0Ujg6cQoMhcY"
+        "name": "The Flood (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 254583,
-      "name": "The Rip Tide - BER-ABQ Version",
-      "url": "https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj"
+      "duration_ms": 212026,
+      "name": "When You Can't Sleep At Night",
+      "url": "https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 180057,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "The Forever Now (From \"This Is Us: Season 6\")",
-        "url": "https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
       },
       "artists": [
         {
-          "name": "This Is Us Cast",
-          "url": "https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S"
-        },
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 198108,
-      "name": "The Forever Now - From \"This Is Us: Season 6\"",
-      "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "The Forever Now (From \"This Is Us: Season 6\")",
+        "url": "https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "This Is Us Cast",
+          "url": "https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S"
+        },
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 198108,
+      "name": "The Forever Now - From \"This Is Us: Season 6\"",
+      "url": "https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1387,6 +1387,38 @@
       "duration_ms": 173069,
       "name": "Far from Me, a Memory",
       "url": "https://open.spotify.com/track/3M863setj5BJ1P6gaz5sdp"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Menuet (Piano Version)",
+        "url": "https://open.spotify.com/album/1getuZrn1FR7hL3UD54GO3"
+      },
+      "artists": [
+        {
+          "name": "Toshifumi Hinata",
+          "url": "https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC"
+        }
+      ],
+      "duration_ms": 97722,
+      "name": "Menuet - Piano Version",
+      "url": "https://open.spotify.com/track/2Dmx10bFEHDmzfK3XAOehj"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1419,38 +1451,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Menuet (Piano Version)",
-        "url": "https://open.spotify.com/album/1getuZrn1FR7hL3UD54GO3"
-      },
-      "artists": [
-        {
-          "name": "Toshifumi Hinata",
-          "url": "https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC"
-        }
-      ],
-      "duration_ms": 97722,
-      "name": "Menuet - Piano Version",
-      "url": "https://open.spotify.com/track/2Dmx10bFEHDmzfK3XAOehj"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Beethoven: Piano Sonatas Opp. 101 & 106",
         "url": "https://open.spotify.com/album/3ZV0BCtPGQ5W7gESiXb8wG"
       },
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 132235,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
-        "name": "Japan",
-        "url": "https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 216299,
-      "name": "Japan",
-      "url": "https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 210391,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
         "name": "Beethoven: Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto (Recorded 2021-2)",
         "url": "https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34"
       },
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2022-12-06 15:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 210391,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
         "name": "TAPE 2/FOMALHAUT",
         "url": "https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD"
       },
@@ -1719,22 +1719,6 @@
       "duration_ms": 189166,
       "name": "TO BE LOVED",
       "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
-    },
-    {
-      "added_at": "2022-12-06 15:00:00",
-      "album": {
-        "name": "Koto",
-        "url": "https://open.spotify.com/album/0z58hOr09oGPCmEj0fIIWv"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 168608,
-      "name": "Koto",
-      "url": "https://open.spotify.com/track/0LWWi4CHmFfPDV005TLzPP"
     },
     {
       "added_at": "2022-12-06 15:00:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 232000,
       "name": "Adoration (Version for Solo Violin and String Orchestra)",
       "url": "https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu"
+    },
+    {
+      "added_at": "2022-12-06 15:00:00",
+      "album": {
+        "name": "Koto",
+        "url": "https://open.spotify.com/album/0z58hOr09oGPCmEj0fIIWv"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 168608,
+      "name": "Koto",
+      "url": "https://open.spotify.com/track/0LWWi4CHmFfPDV005TLzPP"
     },
     {
       "added_at": "2022-12-06 15:00:00",

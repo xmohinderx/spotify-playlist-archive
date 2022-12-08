@@ -561,6 +561,24 @@
     {
       "album": {
         "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg"
+    },
+    {
+      "album": {
+        "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA"
       },
       "artists": [
@@ -589,7 +607,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 96412,
       "name": "i love being with you",
       "url": "https://open.spotify.com/track/4wDMdX04ETYadP6lDHfuJL"
@@ -1423,7 +1441,7 @@
     {
       "album": {
         "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv"
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
       },
       "artists": [
         {
@@ -1434,6 +1452,24 @@
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 65790,
+      "name": "my new love",
+      "url": "https://open.spotify.com/track/41mSgeV5WCS7usBrA3H6RX"
+    },
+    {
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
       "duration_ms": 65796,
       "name": "my new love",
       "url": "https://open.spotify.com/track/5L5efM2mt8AfVDvRedJyAK"

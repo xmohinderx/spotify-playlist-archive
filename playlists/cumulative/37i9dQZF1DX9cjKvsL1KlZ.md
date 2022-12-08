@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-277 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
+278 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Only Fans](https://open.spotify.com/track/2aDVipOC8oKpij3lDQ6kfh) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Drench Em](https://open.spotify.com/album/5S5RHz9pTEe4P632bBiAmD) | 2:45 | 2022-07-01 | 2022-10-08 |
 | [OOOUUU](https://open.spotify.com/track/7JYsArznYOjX2jsrT3UEnL) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:54 | 2022-03-25 | 2022-06-04 |
 | [Opp Spotter \(feat\. B\-Lovee\)](https://open.spotify.com/track/5KPeT0pL0rK6x8fesfvcGs) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:43 | 2022-07-29 |  |
-| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-10-07 |  |
+| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5lx5zu37Rf592Iby01kroZ) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 3:16 | 2022-10-07 |  |
+| [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-10-07 | 2022-12-08 |
 | [Peso](https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:49 | 2022-03-01 | 2022-05-11 |
 | [Phoenix](https://open.spotify.com/track/77v9kYcrCZV615E0P9WMrD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:53 | 2022-07-12 | 2022-07-30 |
 | [Phone Jumpin](https://open.spotify.com/track/6HicBL9RxtWwNK7sS2AHHU) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Paranoia: A True Story](https://open.spotify.com/album/6JfjkZevPkcrVop48QOEL1) | 4:07 | 2022-07-12 | 2022-07-30 |

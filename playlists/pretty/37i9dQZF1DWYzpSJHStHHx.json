@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 476002,
+  "num_followers": 476096,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMDE4NzgxZDg5NGZiM2U2NWM1ZDBjMDI1OGMyODAzZGQx",
+  "snapshot_id": "MTY2OTc1MDgxNywwMDAwMDAwMGU0MDNhNjgxMGVlOTNkNGYyY2MzZGZiNjZhN2EzZDU4",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Shawcross",
-        "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 136032,
-      "name": "Warned You",
-      "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 268880,
       "name": "Booster Seat",
       "url": "https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Shawcross",
+        "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 136032,
+      "name": "Warned You",
+      "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Chinese Fountain",
-        "url": "https://open.spotify.com/album/6exFB8EKturdauvN5XV0ov"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Going Gets Tough",
-      "url": "https://open.spotify.com/track/0dEhydwCE5Og4PLKyjfqMR"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Canary Islands",
         "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 204521,
       "name": "Canary Islands",
       "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Chinese Fountain",
+        "url": "https://open.spotify.com/album/6exFB8EKturdauvN5XV0ov"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Going Gets Tough",
+      "url": "https://open.spotify.com/track/0dEhydwCE5Og4PLKyjfqMR"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 166213,
       "name": "One Another",
       "url": "https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "What a Pleasure",
-        "url": "https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 152684,
-      "name": "What a Pleasure",
-      "url": "https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Idle Labor",
         "url": "https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 240608,
       "name": "After the Moment",
       "url": "https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "What a Pleasure",
+        "url": "https://open.spotify.com/album/4BfZ2aZSNDlXFx15lgHGcO"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 152684,
+      "name": "What a Pleasure",
+      "url": "https://open.spotify.com/track/3FwuOIr8dkrzdAOMUM6sOe"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Melody's Echo Chamber",
         "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 214400,
       "name": "I Follow You",
       "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Was Dead",
-        "url": "https://open.spotify.com/album/2RD12eprsENYogP3H1Tp1c"
+        "name": "Summer Mixtape",
+        "url": "https://open.spotify.com/album/0iz11mCbWWro0BsVpsPpO9"
       },
       "artists": [
         {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+          "name": "Worn-Tin",
+          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
         }
       ],
-      "duration_ms": 150713,
-      "name": "Sun Medallion",
-      "url": "https://open.spotify.com/track/0sSVTKSPiim06zGApr2NC1"
+      "duration_ms": 195000,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2NjepWsgyVUNZY2MtZSwKw"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-40 songs - 2 hr 4 min - not published yet
+42 songs - 2 hr 8 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,13 +30,15 @@
 | [リムルからのスペシャルメッセージ](https://open.spotify.com/track/42Mev6O87VExV44sv1t69w) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [リムルからのスペシャルメッセージ](https://open.spotify.com/album/64aI66I1pfYcTvJRPjH0vA) | 0:24 | 2022-11-25 |  |
 | [僕の中の君へ](https://open.spotify.com/track/4hakLbSjyQFDd77vFJ6EuT) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:46 | 2022-11-25 |  |
 | [優勢](https://open.spotify.com/track/7KptFW0F73l7EphtebezDf) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:03 | 2022-11-25 |  |
-| [別れ](https://open.spotify.com/track/2b78om9qeplb6xoXH2y0PJ) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 1:49 | 2022-11-25 |  |
+| [別れ](https://open.spotify.com/track/2b78om9qeplb6xoXH2y0PJ) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 1:49 | 2022-11-25 | 2022-12-08 |
+| [別れ](https://open.spotify.com/track/6tUvtiKUU7bYw5blSWWQyy) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:49 | 2022-11-25 |  |
 | [劣勢](https://open.spotify.com/track/7MUcm9Lwmpnl7lkx4m51Ex) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:07 | 2022-11-25 |  |
 | [友情](https://open.spotify.com/track/2ggxbwmmlHKm1Tswjygyrs) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 2:18 | 2022-11-25 |  |
 | [圧倒](https://open.spotify.com/track/6oIELFm6LCP46ZqjhKN5j7) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 1:43 | 2022-11-25 |  |
 | [奮起](https://open.spotify.com/track/2xqpsB2xviqPFVsQ6xxTlN) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 2:23 | 2022-11-25 |  |
 | [好意](https://open.spotify.com/track/0b0kaVbi1KLAJ1etSxnPus) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 1:36 | 2022-11-25 |  |
-| [急変](https://open.spotify.com/track/5OedSvJeYWpprBTU1lee6U) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 2:08 | 2022-11-25 |  |
+| [急変](https://open.spotify.com/track/5OedSvJeYWpprBTU1lee6U) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件 第2期』転生したら音楽だった件2](https://open.spotify.com/album/6d9QQ1y4bViGVn2P8JIp1n) | 2:08 | 2022-11-25 | 2022-12-08 |
+| [急変](https://open.spotify.com/track/4hfGgdK73bQQek8OPLwSMQ) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 2:08 | 2022-11-25 |  |
 | [急襲](https://open.spotify.com/track/2ZxYhAVaWzX3NdeANJg5ji) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:05 | 2022-11-25 |  |
 | [愁傷](https://open.spotify.com/track/33yYs2e4EBqCIrHJdQGBvn) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:52 | 2022-11-25 |  |
 | [戦闘](https://open.spotify.com/track/6IE1eGbcvyMINPw7Lu7q3o) | [Hitoshi Fujita](https://open.spotify.com/artist/3418JPFQt8HfgSWWduhYKA) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/6P4YQH6AbtQUwtleXsS62I) | 2:04 | 2022-11-25 |  |

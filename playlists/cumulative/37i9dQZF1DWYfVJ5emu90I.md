@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-72 songs - 3 hr 26 min - not published yet
+73 songs - 3 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Codatronca](https://open.spotify.com/track/2sNfsMEVjAX6vgexFiINEx) | [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7) | [Codatronca](https://open.spotify.com/album/3c9sv1uCmgvPfQioCs03pi) | 3:14 | 2022-11-19 |  |
 | [Dangerous Original](https://open.spotify.com/track/5qKNfUOpZxOpC7msvthofm) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [LIVING](https://open.spotify.com/album/7CE9sEe21E4vhdE1MWTw9b) | 2:44 | 2022-11-19 |  |
 | [Dangerous Original \- Remix](https://open.spotify.com/track/765uD9FR8SK8IQFAgQiDla) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [D.O](https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS) | [Dangerous Original \(Remix\)](https://open.spotify.com/album/7f8aPar9SBe19TMju166Rt) | 2:35 | 2022-11-19 |  |
-| [Dishhh!](https://open.spotify.com/track/1tilWqUcyihECFShzZP543) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/0uaMpP3kZjNoqbG2AKSv0S) | 2:51 | 2022-12-06 |  |
+| [Dishhh!](https://open.spotify.com/track/1tilWqUcyihECFShzZP543) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/0uaMpP3kZjNoqbG2AKSv0S) | 2:51 | 2022-12-06 | 2022-12-08 |
+| [Dishhh!](https://open.spotify.com/track/6xEYN6QXI1SIpWgNcSSpp8) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/1o3AaUlBFhw0sM5euTgU2P) | 2:51 | 2022-12-06 |  |
 | [DRILL KING](https://open.spotify.com/track/1S9tGcdVKbngeSnrnE3f1o) | [SATORU](https://open.spotify.com/artist/3dLTvvJ3HQZy0dcozfallB) | [DRILL KING](https://open.spotify.com/album/2k8X00C4i54JaqBJQOHrls) | 3:12 | 2022-11-19 |  |
 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 | 2022-11-19 |  |
 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 | 2022-11-19 |  |

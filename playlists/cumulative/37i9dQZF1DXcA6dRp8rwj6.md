@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: F.HERO, Twopee Southside, YUGYEOM\)
 
-871 songs - 1 day 20 hr 33 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+872 songs - 1 day 20 hr 37 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [CARDIO!](https://open.spotify.com/track/7h3td1RPfpONeZZ6ikse1l) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [CARDIO!](https://open.spotify.com/album/61upDarThRzp3wQ0nxaqWv) | 2:25 | 2022-11-24 |  |
 | [Casamigos Freestyle](https://open.spotify.com/track/5JVZ62EMS4kvo7nzvDL4nE) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq) | [Casamigos Freestyle](https://open.spotify.com/album/255y0FUpZ5VgDRDrSh7FiT) | 2:49 | 2022-03-03 | 2022-03-18 |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-09 | 2022-07-29 |
-| [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 | 2022-12-01 |  |
+| [Cassette](https://open.spotify.com/track/5TWvTuYcGrChBEhw6xHjld) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0) | 3:22 | 2022-12-01 |  |
+| [Cassette](https://open.spotify.com/track/6WIvwWp92147UO6hJLm2Nl) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [What Once Was Will Never Be](https://open.spotify.com/album/0NgfwK56ZljzPDQyV3r0Q3) | 3:22 | 2022-12-01 | 2022-12-08 |
 | [CEO](https://open.spotify.com/track/1dfBAmVJ2p0l0JyzknJois) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [CEO](https://open.spotify.com/album/4vj2X6GGtK5n3LKtEUxucC) | 3:00 | 2022-09-01 | 2022-09-30 |
 | [CEREAL](https://open.spotify.com/track/6DY9y5dsU06YuZUY3j07fd) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [CEREAL](https://open.spotify.com/album/1ondRODnk2jQiPu8KsY5pz) | 3:33 | 2022-03-31 | 2022-04-22 |
 | [Certified \(feat\. Demrick\)](https://open.spotify.com/track/1JI2WS38kkoRLCygl0udFh) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR) | [Back in Black](https://open.spotify.com/album/5O3QAu8f00HTsuYhXfVA1w) | 3:09 | 2022-03-18 | 2022-04-15 |

@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-106 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/39JhdRXejkPBSUicsoFlpo)
+108 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/39JhdRXejkPBSUicsoFlpo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dearest](https://open.spotify.com/track/4uraEw7BcTjMmUcRKE3XaD) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [I am...](https://open.spotify.com/album/6b4kTS1ynBp5cnXasBxhsM) | 5:32 | 2021-09-14 |  |
 | [DISCOTHEQUE](https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:59 | 2021-09-14 |  |
 | [Ending Song \- The Promise of the World \- Merry\-Go\-Round of Life](https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 6:50 | 2022-07-06 |  |
-| [Gamble Rumble](https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:26 | 2021-09-14 |  |
+| [Gamble Rumble](https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:26 | 2021-09-14 | 2022-12-08 |
+| [Gamble Rumble](https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:27 | 2022-07-06 |  |
 | [Garnet](https://open.spotify.com/track/2rZUu2qXb7SoUNktHKgfky) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Garnet](https://open.spotify.com/album/1OU1yZN4pMh9IVn9YZVjCL) | 5:19 | 2022-07-06 | 2022-11-13 |
 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2022-07-06 |  |
 | [Get Over](https://open.spotify.com/track/6mYL8hxtrSgbXCLskzuhSc) | [Dream](https://open.spotify.com/artist/67j0XHDG7fP5ZHia8gDsJU) | [Process](https://open.spotify.com/album/52fPQP1V5udSfTFEkxQIT0) | 5:15 | 2021-09-14 |  |
@@ -94,7 +95,8 @@
 | [君の知らない物語](https://open.spotify.com/track/4EKMD4grPTUzXjHpKvvaY7) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [君の知らない物語](https://open.spotify.com/album/7g2QUFVpJnkBkbGKzi85PB) | 5:41 | 2021-09-14 | 2022-07-29 |
 | [射手座☆午後九時Don't be late](https://open.spotify.com/track/2ktC4ur8iNjJmYlkXoNpwM) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」エンディングテーマ ダイアモンド クレバス/挿入歌 射手座☆午後九時Don't be late](https://open.spotify.com/album/6udbCYa1ouGCHDWhu6ZEQv) | 5:43 | 2021-09-14 | 2022-07-29 |
 | [崖の上のポニョ\(崖の上のポニョ\)](https://open.spotify.com/track/1Afz8sEPXEkwiDxHFbnx9Z) | [藤岡藤巻と大橋のぞみ](https://open.spotify.com/artist/2dBR2aSvDYdWziZvQSrEPz) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 2:46 | 2021-09-14 | 2022-07-29 |
-| [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 | 2021-09-14 |  |
+| [心絵](https://open.spotify.com/track/33CYO63qC6GGwK5WAFFFD2) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:20 | 2022-07-06 |  |
+| [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 | 2021-09-14 | 2022-12-08 |
 | [恋せよ女の子](https://open.spotify.com/track/5HAKZ4xOTF4vU6q2z5GE86) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [Sincerely Dears...](https://open.spotify.com/album/497WCSR8yq7HzlGyJX3Ajt) | 4:20 | 2022-07-06 | 2022-11-14 |
 | [恋せよ女の子](https://open.spotify.com/track/3SpBoNC4Z5K1vkPy1FN1wV) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [銀の旋律、記憶の水音。](https://open.spotify.com/album/68MIDqGUNbirDlgIYYNhfW) | 4:20 | 2021-09-14 | 2022-07-29 |
 | [恋せよ女の子](https://open.spotify.com/track/6MaE2CKZdGoWNQXHJOMshd) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [銀の旋律、記憶の水音。](https://open.spotify.com/album/0eDR8cIsVOjK8GjL2dGJjT) | 4:20 | 2022-07-06 |  |

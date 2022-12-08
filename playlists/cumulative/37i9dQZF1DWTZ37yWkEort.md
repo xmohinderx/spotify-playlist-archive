@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-68 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
+69 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Up on the House Top](https://open.spotify.com/track/0OlajupYfpKTRLhE5Kxa0o) | [Mike Tompkins](https://open.spotify.com/artist/3h3F1qpVfzQDCODlvMCQZm) | [Up on the House Top](https://open.spotify.com/album/0h3wl0m0rGLS81RecbWS2s) | 1:40 | 2017-11-08 |  |
 | [What Child Is This](https://open.spotify.com/track/0OjbIsZ9ttxQGBMO6d14LA) | [The Ball Brothers](https://open.spotify.com/artist/5XeW4GrOw5InOknCsAo1Js) | [What Child Is This](https://open.spotify.com/album/0CgbCARQPYaxnCeoVa71bH) | 3:33 | 2022-11-15 |  |
 | [White Christmas](https://open.spotify.com/track/7xAUdTrEWs1vyuXOn1VedQ) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Full Of \(Even More\) Cheer](https://open.spotify.com/album/5SbcA8VdE1sbaruTPZuhvm) | 2:55 | 2017-11-08 |  |
+| [Winter Wonderland](https://open.spotify.com/track/4ewNAc5D5Lm92YWbP0zI7R) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 1:40 | 2022-12-07 |  |
 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 | 2017-11-08 |  |
 | [Wonderful Christmastime \(feat\. Paul McCartney\)](https://open.spotify.com/track/3rv1v8eZSc7yZpjeZPpkUe) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 3:30 | 2017-11-08 |  |
 
